@@ -1,0 +1,621 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D117_Reading_A_Research_Paper_EN",
+ "kapak": {
+  "ust": "LESSON 117",
+  "baslik": "How to read<br>*a paper*",
+  "alt": "An introduction to the audiology literature",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 5.5,
+    "adim": 1,
+    "yazilar": {
+     "1": "1",
+     "2": "2",
+     "3": "3",
+     "4": "4",
+     "5": "5"
+    },
+    "ad": "Level of evidence"
+   },
+   "y": {
+    "min": 0,
+    "max": 5,
+    "adim": 1,
+    "ad": "Strength"
+   },
+   "seriler": [
+    {
+     "ad": "guc",
+     "tur": "cubuk",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       2,
+       4
+      ],
+      [
+       3,
+       3
+      ],
+      [
+       4,
+       2
+      ],
+      [
+       5,
+       1
+      ]
+     ],
+     "renk": "mavi"
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "How to Read a Research Paper in Audiology | Lesson 117 | AIHEAR Audiology Academy",
+  "aciklama": "How do we find, read and evaluate an audiology paper? In this lesson we cover evidence-based practice, building a clinical question with PICO, searching PubMed and other databases, the IMRAD structure, the questions to ask about the methods, and levels of evidence.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Oxford Centre for Evidence-Based Medicine, Levels of Evidence (2011); ASHA, Evidence-Based Practice; Sackett et al., Evidence based medicine: what it is and what it isn't (BMJ, 1996); Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "evidencebasedpractice",
+   "research"
+  ],
+  "etiketler": [
+   "research paper",
+   "evidence-based practice",
+   "PICO",
+   "PubMed",
+   "MeSH",
+   "IMRAD",
+   "level of evidence",
+   "randomized controlled trial",
+   "systematic review",
+   "critical appraisal",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 117",
+   "baslik": "Reading a research *paper*",
+   "alt": "An introduction to the audiology literature",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "With this lesson we begin the research and statistics section and learn how to read a paper in the audiology literature.",
+    "Step by step, we will build a clinical question, search databases, and look at the parts of a paper and the level of evidence."
+   ]
+  },
+  {
+   "id": "kdu",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why do we read?",
+   "baslik": "Evidence-based *practice*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Research evidence",
+     "metin": "Current, reliable studies",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Clinical expertise",
+     "metin": "The audiologist's knowledge and skill",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Patient preference",
+     "metin": "The person's values and goals",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Evidence-based practice means making clinical decisions by combining three sources.",
+    "The first is the best and most current research evidence on your question.",
+    "The second is the audiologist's own clinical experience and skill.",
+    "The third is the patient's values, preferences and goals in daily life.",
+    "If one of the three is missing, the decision rests only on habit or only on a single paper.",
+    "Learning to read papers means building the first leg of this triad on solid ground.",
+    "In audiology, new tests, device features and rehabilitation methods change quickly, so this skill is needed throughout a career."
+   ]
+  },
+  {
+   "id": "pico",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Why do we read?",
+   "baslik": "The clinical question: *PICO*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "P: Who?",
+     "metin": "Patient or population",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "I: What?",
+     "metin": "Intervention or test",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "C: Compared with?",
+     "metin": "Comparison",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "O: Result?",
+     "metin": "Outcome measured",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Good reading starts with a good question; a four-part template called PICO is used to structure the clinical question.",
+    "P defines the patient or population: for example, older adults with mild to moderate hearing loss.",
+    "I is the intervention or test being studied: for example, hearing aid fitting.",
+    "C is the comparison: for example, no hearing aid, or another method.",
+    "O is the outcome measured: for example, the change in cognitive scores over three years.",
+    "Once the question is written this way, the keywords for your search emerge naturally."
+   ]
+  },
+  {
+   "id": "veritabani",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Searching the literature",
+   "baslik": "Where do we *search?*",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "PubMed",
+     "metin": "MEDLINE and free access",
+     "cumle": 0
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Scopus, WoS",
+     "metin": "Broad citation databases",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Cochrane",
+     "metin": "Systematic reviews",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Google Scholar",
+     "metin": "Broad but unfiltered",
+     "cumle": 4
+    },
+    {
+     "ikon": "okul",
+     "baslik": "TR Dizin",
+     "metin": "Turkish journals, DergiPark",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The most widely used source in medicine and health sciences is PubMed, the free search engine of the US National Library of Medicine.",
+    "PubMed includes the MEDLINE database and holds more than forty million records.",
+    "Citation databases such as Scopus and Web of Science also let you track who later cited a paper.",
+    "The Cochrane Library brings together high-quality systematic reviews that answer specific questions.",
+    "Google Scholar searches very widely, but it also includes non-peer-reviewed sources, so results must be filtered with care.",
+    "For publications in Turkish, the TR Dizin database of TUBITAK ULAKBIM, DergiPark and the national thesis center are valuable sources.",
+    "A single database is not always enough; for an important question, several sources are searched."
+   ]
+  },
+  {
+   "id": "arama",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Searching the literature",
+   "baslik": "*Search* steps in PubMed",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Keywords",
+     "metin": "Derived from PICO",
+     "cumle": 0
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "MeSH term",
+     "metin": "Controlled vocabulary",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Operators",
+     "metin": "AND, OR, NOT",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Filters",
+     "metin": "Year, article type",
+     "cumle": 4
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Screen abstracts",
+     "metin": "Select the relevant ones",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "First, keywords are chosen for each part of the PICO question: for example, hearing aids, older adults and cognitive decline.",
+    "PubMed has a controlled vocabulary called MeSH, which gathers different wordings of the same concept under one term.",
+    "The words are combined with the Boolean operators AND, OR and NOT.",
+    "AND narrows the search, OR widens it by adding synonyms, and NOT removes an unwanted topic.",
+    "Then filters such as publication year, study type or language bring the results down to a manageable number.",
+    "In the last step, titles and abstracts are screened, and you move on to the full text of papers that truly answer your question.",
+    "Noting the search string you used lets you repeat the search the same way later."
+   ]
+  },
+  {
+   "id": "imrad",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The structure of a paper",
+   "baslik": "The skeleton of a paper: *IMRAD*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Introduction",
+     "metin": "Why, and what question?",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Methods",
+     "metin": "How was it done?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Results",
+     "metin": "What was found?",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Discussion",
+     "metin": "What does it mean?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Most original research papers follow the same skeleton: introduction, methods, results and discussion, or IMRAD.",
+    "The introduction explains why the topic matters, what is already known, and the study's question or hypothesis.",
+    "The methods section details the participants, the tests and devices used, the procedure and the statistical analysis.",
+    "The results section presents the findings without interpretation, using tables and graphs.",
+    "The discussion compares the findings with earlier studies, states the limitations and discusses clinical meaning.",
+    "These sections are preceded by an abstract and followed by references, conflicts of interest and funding information.",
+    "Knowing what each section does shows you where in the paper to find the information you need."
+   ]
+  },
+  {
+   "id": "okuma",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The structure of a paper",
+   "baslik": "In what order do we *read?*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Abstract",
+     "metin": "Topic and main finding",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Tables and figures",
+     "metin": "The real data are here",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Methods",
+     "metin": "Is it reliable?",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Discussion",
+     "metin": "The authors' interpretation",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Experienced readers do not read straight through; they check the abstract first and decide whether the paper fits their question.",
+    "Next they examine the tables and figures, because the core of the findings is often there.",
+    "Then the methods are read carefully; how reliable the findings are depends on them.",
+    "If the methods have a serious problem, the results are treated with caution, however striking they are.",
+    "The discussion is read last; the authors' interpretation is not always the same as what the data really show.",
+    "Sentences in the abstract can sometimes make findings look stronger than they are; decisions should rest on the full text."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The structure of a paper",
+   "baslik": "Questions to *ask* about the methods",
+   "maddeler": [
+    {
+     "metin": "Who are the participants, how many?",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Is there a control group?",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Were groups randomly assigned?",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Does the assessor know the group?",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "How many were lost to follow-up?",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Random assignment",
+      "metin": "Balances the groups",
+      "cumle": 2
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Blinding",
+      "metin": "Reduces bias",
+      "cumle": 3
+     }
+    ],
+    "ust": "TWO SAFEGUARDS"
+   },
+   "cumleler": [
+    "The first question when reading the methods: who are the participants, how many are there, and how similar are they to your patients?",
+    "The second is whether there is a control group against which the results are compared.",
+    "The third is whether participants were assigned to groups at random; this reduces hidden differences between groups.",
+    "The fourth is blinding: if the person measuring the outcome does not know each participant's group, bias is reduced.",
+    "The fifth is how many participants did not complete the study, and why.",
+    "Finally, check whether the measures, such as the speech test used, are valid for that language and population."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Weighing the evidence",
+   "baslik": "*Levels of evidence* for treatment questions",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Level 1",
+     "metin": "Systematic review of RCTs",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Level 2",
+     "metin": "Randomized controlled trial",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Level 3",
+     "metin": "Controlled cohort, follow-up",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Level 4",
+     "metin": "Case series, case-control",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Level 5",
+     "metin": "Mechanism-based reasoning",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Not every study type offers evidence of the same strength; level of evidence scales are used to show this difference.",
+    {
+     "yazi": "In the 2011 Oxford Centre for Evidence-Based Medicine scale, systematic reviews of randomized trials top treatment questions.",
+     "ses": "In the twenty eleven Oxford Centre for Evidence-Based Medicine scale, systematic reviews of randomized trials top treatment questions."
+    },
+    "At the second level is a single randomized controlled trial, or RCT.",
+    "At the third level come non-randomized controlled cohort or follow-up studies.",
+    "The fourth level includes case series, case-control studies and studies with historical controls.",
+    "The fifth level is mechanism-based reasoning, that is, inferences drawn from physiology.",
+    "The scale is a starting guide; a poorly run randomized trial can be weaker than a well-run cohort study."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Weighing the evidence",
+   "baslik": "Example: *two* study types",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Observational follow-up",
+     "metin": "Shows association, not cause",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Randomized trial",
+     "metin": "Tests the causal question",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "A vivid example of this difference is the link between hearing loss and dementia, which we will cover in detail later.",
+    "Long-term follow-up studies showed that the risk of dementia rises as hearing loss increases.",
+    "But an observational study alone cannot show whether an association is causal.",
+    {
+     "yazi": "To test this question, the ACHIEVE study was carried out, in which participants were randomly assigned to groups.",
+     "ses": "To test this question, the Achieve study was carried out, in which participants were randomly assigned to groups."
+    },
+    "For its primary outcome, with all participants analyzed together, no significant difference was found between the two groups.",
+    "A possible benefit was seen in a higher-risk subgroup; this finding needs to be confirmed by new studies.",
+    "So two different study types answer the same question with different strength; the reader's job is to see this difference."
+   ]
+  },
+  {
+   "id": "dergi",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Weighing the evidence",
+   "baslik": "Journal and *publication* reliability",
+   "maddeler": [
+    {
+     "metin": "Is the journal peer reviewed?",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Indexed in a reputable database?",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Impact factor is not everything",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Beware of predatory journals",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Read the conflict of interest statement",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "A reliable paper goes through evaluation by independent experts; this is called peer review.",
+    "Indexing of the journal in reputable databases such as MEDLINE, Scopus or Web of Science is a basic sign of quality.",
+    "A journal's impact factor shows the average citations to its articles, but it does not measure the quality of a single paper.",
+    "Watch out for predatory journals, which publish for a fee without a real peer review process.",
+    "Who funded the study and the authors' conflict of interest statements should also be read.",
+    "A study supported by a device or test manufacturer is not invalid, but its findings should be compared with independent studies."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "As you read a paper, note three questions: are the results reliable, how large is the effect, and does it apply to my patient?",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: keep a short note card for every paper you read.",
+    "On the card, answer three questions: are the findings reliable, how large is the effect, and does it apply to my patients?",
+    "This habit saves you a lot of time when you search the same topic months later.",
+    "Holding regular journal clubs within the team also quickly develops critical reading skills."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Evidence, expertise and patient _together_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Ask with PICO, search with PubMed",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "IMRAD: introduction, methods, results, discussion",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Level of evidence and _method_ quality",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Evidence-based practice combines research evidence with clinical expertise and the patient's preferences.",
+    "The PICO template sharpens the clinical question; PubMed is searched with keywords, MeSH terms and operators.",
+    "Papers follow the introduction, methods, results and discussion skeleton; reading starts with the abstract, tables and methods.",
+    "Levels of evidence rank study types, but the real deciding factor is the quality of the methods."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Highest level of evidence for a treatment question?",
+   "secenekler": [
+    "Expert opinion",
+    "Case series",
+    "A single cohort study",
+    "Systematic review of RCTs"
+   ],
+   "dogru": 3,
+   "aciklama": "A systematic review of several _randomized controlled_ trials is at the top.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: for a question about the effect of a treatment, which is the highest level of evidence?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is D: a systematic review of randomized controlled trials.",
+    "Random assignment reduces bias, and systematically combining several studies reduces the role of chance in a single study."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Biostatistics Basics: *Mean*, SD and the Normal Curve",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn the basic concepts of biostatistics, so we can read the results section of a paper.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

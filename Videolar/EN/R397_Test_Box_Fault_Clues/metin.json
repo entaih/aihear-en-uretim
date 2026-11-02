@@ -1,0 +1,106 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R397_Test_Box_Fault_Clues_EN",
+ "kapak": {
+  "ust": "QUICK FACT #397",
+  "baslik": "Test box *clues*",
+  "alt": "The measurement often reveals the fault",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How does a test box reveal a hearing aid fault? #shorts",
+  "aciklama": "Test box measurement is the first tool to turn to not only at delivery, but also when the user reports a problem. Gain lower than expected often points to a receiver or microphone inlet blocked with debris, and increased distortion suggests a weak battery or a damaged receiver; high battery current may explain the complaint that batteries run down quickly.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "qualitycontrol"
+  ],
+  "etiketler": [
+   "test box",
+   "2 cc coupler",
+   "electroacoustic measurement",
+   "hearing aid fault",
+   "battery current",
+   "distortion",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How does a test box reveal a hearing aid fault?",
+  "bilgiler": [
+   "Low gain: receiver or microphone inlet blocked with debris.",
+   "Increased distortion: weak battery or damaged receiver.",
+   "High battery current: may explain batteries running down quickly."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "qualitycontrol"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #397",
+   "metin": "Where is *the fault?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How does a test box reveal a hearing aid fault?"
+   ]
+  },
+  {
+   "id": "ipuclari",
+   "tur": "zincir",
+   "baslik": "Clues in the *measurement*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Low gain",
+     "tr": "debris, blockage",
+     "cumle": 1
+    },
+    {
+     "ad": "Distortion",
+     "tr": "weak battery, receiver",
+     "cumle": 2
+    },
+    {
+     "ad": "Battery current",
+     "tr": "batteries run down",
+     "cumle": 3
+    }
+   ],
+   "alt": "Same coupler, _same setting_",
+   "alt_cumle": 0,
+   "cumleler": [
+    "The test box is the first tool when a problem is reported.",
+    "Low gain often points to a receiver blocked with debris.",
+    "Increased distortion suggests a weak battery or a damaged receiver.",
+    "High battery current may explain why batteries run down quickly."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D187",
+ "kaynak_baslik": "Test Box Measurements and the 2 cc Coupler"
+}

@@ -1,0 +1,101 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R146_Which_Ear_For_The_Phone_EN",
+ "kapak": {
+  "ust": "QUICK FACT #146",
+  "baslik": "Phone on *which ear?*",
+  "alt": "A simple but valuable case history question",
+  "cizim": "kulak_kesit",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Which ear do you hold the phone to? #shorts",
+  "aciklama": "Most people unknowingly use their better-hearing ear on the phone. In the case history, this simple question gives a useful clue even when the patient reports no difference between the ears.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "casehistory"
+  ],
+  "etiketler": [
+   "audiological case history",
+   "history taking",
+   "hearing loss",
+   "better ear",
+   "pure-tone audiometry",
+   "clinical tip",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Which ear do you hold the phone to?",
+  "bilgiler": [
+   "Most people unknowingly use their better-hearing ear.",
+   "Even if no difference is reported, this question is a useful clue.",
+   "It also helps you start pure-tone testing with the better ear."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "casehistory"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #146",
+   "metin": "Which ear do you *hold the phone to?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Which ear do you hold the phone to?"
+   ]
+  },
+  {
+   "id": "soru",
+   "tur": "zincir",
+   "baslik": "A simple but *valuable* question",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Question",
+     "tr": "which ear for the phone?",
+     "cumle": 0
+    },
+    {
+     "ad": "Clue",
+     "tr": "better-hearing ear",
+     "cumle": 1
+    },
+    {
+     "ad": "Test",
+     "tr": "start with the better ear",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Ask the patient which ear they hold the phone to.",
+    "Most people unknowingly use their better-hearing ear.",
+    "Even with no reported difference between ears, this is a useful clue.",
+    "It also helps start pure-tone testing with the better ear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D056",
+ "kaynak_baslik": "Taking an Audiological Case History"
+}

@@ -1,0 +1,989 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D099_Speech_In_Noise_Tests_EN",
+ "kapak": {
+  "ust": "LESSON 99",
+  "baslik": "Speech-in-noise<br>*tests*",
+  "alt": "QuickSIN, HINT and matrix tests",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -6,
+    "max": 24,
+    "adim": 6,
+    "ad": "SNR (dB)"
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 25,
+    "ad": "Correct (%)"
+   },
+   "seriler": [
+    {
+     "ad": "normal",
+     "noktalar": [
+      [
+       -6,
+       2
+      ],
+      [
+       -2,
+       15
+      ],
+      [
+       0,
+       30
+      ],
+      [
+       2,
+       50
+      ],
+      [
+       4,
+       70
+      ],
+      [
+       6,
+       85
+      ],
+      [
+       10,
+       97
+      ],
+      [
+       24,
+       100
+      ]
+     ],
+     "renk": "yesil",
+     "yumusak": true
+    },
+    {
+     "ad": "kayip",
+     "noktalar": [
+      [
+       2,
+       2
+      ],
+      [
+       6,
+       15
+      ],
+      [
+       8,
+       30
+      ],
+      [
+       10,
+       50
+      ],
+      [
+       12,
+       70
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       18,
+       97
+      ],
+      [
+       24,
+       100
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kesik": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Speech-in-Noise Tests: QuickSIN, HINT, Matrix | Lesson 99 | AIHEAR Audiology Academy",
+  "aciklama": "The most common complaint of people with hearing loss is understanding speech in noise, and a word score in quiet does not fully show this. In this lesson we look at signal-to-noise ratio and SNR loss, how QuickSIN, HINT and matrix tests are built, how to interpret their results and how to use them in hearing aid counseling.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Killion et al. (2004), Development of a quick speech-in-noise test, Journal of the Acoustical Society of America; Nilsson, Soli and Sullivan (1994), Development of the Hearing in Noise Test, Journal of the Acoustical Society of America; Kollmeier et al. (2015), The multilingual matrix test, International Journal of Audiology; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "speechinnoise",
+   "hearingaids"
+  ],
+  "etiketler": [
+   "speech in noise test",
+   "QuickSIN",
+   "HINT",
+   "matrix test",
+   "SNR loss",
+   "signal-to-noise ratio",
+   "SRT50",
+   "hearing aid counseling",
+   "speech audiometry",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 99",
+   "baslik": "*Speech-in-Noise* Tests: QuickSIN, HINT, Matrix",
+   "alt": "QuickSIN, HINT and matrix tests",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn about speech-in-noise tests and the idea of SNR loss that they measure.",
+    {
+     "yazi": "We will see how QuickSIN, HINT and matrix tests are given and how their results are used in counseling.",
+     "ses": "We will see how Quick sin, hint and matrix tests are given and how their results are used in counseling."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why noise?",
+   "baslik": "I hear, but I *don't understand*",
+   "maddeler": [
+    {
+     "metin": "Most common complaint: _crowded places_",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Quiet score does not _predict_ noise",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Same audiogram, _different_ performance in noise",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "The measure: _signal-to-noise ratio_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SETTING",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "sessizlik",
+      "baslik": "Quiet booth",
+      "metin": "Score may be high",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Crowded room",
+      "metin": "Understanding drops clearly",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "The most common complaint of people with hearing loss is not being able to understand speech in crowded, noisy places.",
+    "A word recognition score measured in a quiet booth does not reliably predict performance in noise.",
+    "Two people with almost identical audiograms can understand speech in noise at very different levels.",
+    "So speech-in-noise tests are done in addition to pure tone and quiet speech tests.",
+    "The key measure in these tests is the difference between the speech level and the noise level.",
+    "This difference is called the signal-to-noise ratio, or SNR, and it is expressed in decibels."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why noise?",
+   "baslik": "The signal-to-noise *ratio*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Positive SNR",
+     "metin": "Speech louder than noise",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Zero SNR",
+     "metin": "Both at the same level",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Negative SNR",
+     "metin": "Noise louder than speech",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Calculating SNR is simple: subtract the noise level from the speech level.",
+    "If speech is sixty five and noise is sixty decibels, the SNR is plus five decibels; speech is louder than the noise.",
+    "If the two are equal, the SNR is zero.",
+    "If noise is louder than speech, SNR is negative; young normal-hearing adults can still partly understand sentences in this condition.",
+    "Speech-in-noise tests measure how much SNR a person needs to understand half of the speech."
+   ]
+  },
+  {
+   "id": "snr_kaybi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why noise?",
+   "baslik": "*SNR loss*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -6,
+     "max": 24,
+     "adim": 6,
+     "ad": "Signal-to-noise ratio (dB)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Words correct (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        -6,
+        2
+       ],
+       [
+        -2,
+        15
+       ],
+       [
+        0,
+        30
+       ],
+       [
+        2,
+        50
+       ],
+       [
+        4,
+        70
+       ],
+       [
+        6,
+        85
+       ],
+       [
+        10,
+        97
+       ],
+       [
+        24,
+        100
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "etiket": "normal hearing",
+      "etiket_konum": [
+       10,
+       97
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        2,
+        2
+       ],
+       [
+        6,
+        15
+       ],
+       [
+        8,
+        30
+       ],
+       [
+        10,
+        50
+       ],
+       [
+        12,
+        70
+       ],
+       [
+        14,
+        85
+       ],
+       [
+        18,
+        97
+       ],
+       [
+        24,
+        100
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "sample patient",
+      "etiket_konum": [
+       18,
+       80
+      ],
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "snr_kaybi",
+      "x": [
+       2,
+       10
+      ],
+      "y": 50,
+      "etiket": "SNR loss: 8 dB",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "SNR needed for half: SNR-50",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Difference from normal: SNR loss",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Turning it up does not help",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "In the graph, the green curve shows how the percentage of words correct changes with SNR in normal-hearing people.",
+    "The red curve belongs to a sample patient who struggles in noise; a higher SNR is needed to reach the same percentage.",
+    "The difference between the fifty percent points of the two curves is called SNR loss; in this example, eight decibels.",
+    "So this patient needs speech to be eight decibels louder than the noise to understand as much as a normal-hearing listener.",
+    "The key point: raising both speech and noise together does not change the SNR, so it does not make up for SNR loss.",
+    "Reducing SNR loss needs solutions that separate speech from noise, such as directional or remote microphones."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "The tests",
+   "baslik": "Fixed SNR or *adaptive?*",
+   "sol": {
+    "ust": "Fixed SNR",
+    "maddeler": [
+     {
+      "metin": "Each sentence at _a set_ SNR",
+      "cumle": 0
+     },
+     {
+      "metin": "Result: percent correct or a calculation",
+      "cumle": 1
+     },
+     {
+      "metin": "Example: _QuickSIN_ steps",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Adaptive",
+    "maddeler": [
+     {
+      "metin": "SNR _changes_ with responses",
+      "cumle": 3
+     },
+     {
+      "metin": "Harder if correct, easier if wrong",
+      "cumle": 4
+     },
+     {
+      "metin": "Result: _SRT50_, in dB SNR",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "In the fixed SNR method, sentences are presented at preset SNR values.",
+    "The result is the percentage of words repeated correctly, or a calculation based on these counts.",
+    {
+     "yazi": "In the QuickSIN test we will see shortly, SNR drops in preset steps with each sentence; this is also a fixed scheme.",
+     "ses": "In the Quick sin test we will see shortly, S.N.R drops in preset steps with each sentence; this is also a fixed scheme."
+    },
+    "In the adaptive method, the SNR of the next sentence is set according to the patient's previous response.",
+    "If the patient answers correctly, the test gets harder; if wrong, easier; so it moves back and forth around the fifty percent point.",
+    {
+     "yazi": "The result is given in decibels as the SNR at which fifty percent of the speech is understood, the SRT50.",
+     "ses": "The result is given in decibels as the S.N.R at which fifty percent of the speech is understood, the S.R.T fifty."
+    }
+   ]
+  },
+  {
+   "id": "quicksin",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "The tests",
+   "baslik": "QuickSIN *step by step*",
+   "adimlar": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Babble",
+     "metin": "Four-talker noise",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Six sentences",
+     "metin": "5 key words each",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "SNR decreases",
+     "metin": "25 to 0, 5 dB steps",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Count correct words",
+     "metin": "Maximum 30 words",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Calculate",
+     "metin": "25.5 minus total correct",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The Quick Speech-in-Noise test, or QuickSIN, was published by Killion and colleagues in 2004.",
+     "ses": "The Quick Speech in Noise test, or Quick sin, was published by Killion and colleagues in two thousand four."
+    },
+    "The sentences are read by a female talker and presented in a babble noise of four people talking at once.",
+    "A list has six sentences, and five key words are scored in each sentence.",
+    "The first sentence is at plus twenty five decibels SNR; the SNR drops five decibels with each sentence, and the last is at zero SNR.",
+    "The key words the patient repeats correctly are counted; the maximum total is thirty.",
+    {
+     "yazi": "SNR loss is found by subtracting the total number correct from twenty five point five."
+    },
+    "If the average threshold is up to forty five decibels HL, the test is at seventy decibels HL; if worse, at a loud but comfortable level."
+   ]
+  },
+  {
+   "id": "quicksin_yorum",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "The tests",
+   "baslik": "Interpreting *QuickSIN*",
+   "sutunlar": [
+    "SNR loss (dB)",
+    "Interpretation"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 to 3",
+      "Normal or near normal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "3 to 7",
+      "Mild SNR loss"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "7 to 15",
+      "Moderate SNR loss"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Above 15",
+      "Severe SNR loss"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "According to the test manual, an SNR loss of zero to three decibels is considered normal or near normal.",
+    "Three to seven decibels is a mild SNR loss.",
+    "Seven to fifteen decibels is a moderate SNR loss, and above fifteen is a severe SNR loss.",
+    "In this last group, understanding speech in noise is very hard, even with hearing aids.",
+    "An example: the patient repeated twenty of thirty key words correctly; twenty five point five minus twenty is five point five decibels.",
+    "This patient has a mild SNR loss."
+   ]
+  },
+  {
+   "id": "hint",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "HINT and matrix",
+   "baslik": "*HINT*: the Hearing in Noise Test",
+   "maddeler": [
+    {
+     "metin": "Short everyday sentences; _whole sentence_ scored",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Noise _fixed_, speech level varies",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Large steps first, then _small_ ones",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Noise from front, right or left",
+     "cumle": 5,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RESULT",
+    "metin": "The *SNR* at which half of the sentences are understood, in dB",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "The Hearing in Noise Test, or HINT, was published in 1994 by Nilsson, Soli and Sullivan.",
+     "ses": "The Hearing in Noise Test, or hint, was published in nineteen ninety four by Nilsson, Soli and Sullivan."
+    },
+    "The test uses short, everyday sentences; a sentence counts as correct only if all its words are repeated correctly.",
+    "Speech-shaped noise is presented at a fixed level, and the sentence level goes up or down depending on the patient's response.",
+    "Steps of four decibels are used for the first sentences, then steps of two decibels.",
+    "The result is given in decibels as the SNR at which half of the sentences are understood correctly.",
+    "In the sound field, noise can come from the front or the sides, to assess the benefit of hearing with two ears.",
+    {
+     "yazi": "There is also a Turkish HINT, with a version for children.",
+     "ses": "There is also a Turkish hint, with a version for children."
+    }
+   ]
+  },
+  {
+   "id": "matris",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "HINT and matrix",
+   "baslik": "*Adaptive* measurement in a matrix test",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 20,
+     "adim": 5,
+     "isaretler": [
+      1,
+      5,
+      10,
+      15,
+      20
+     ],
+     "ad": "Sentence number"
+    },
+    "y": {
+     "min": -12,
+     "max": 2,
+     "adim": 2,
+     "ad": "SNR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "iz",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        -2
+       ],
+       [
+        3,
+        -4
+       ],
+       [
+        4,
+        -6
+       ],
+       [
+        5,
+        -8
+       ],
+       [
+        6,
+        -6.5
+       ],
+       [
+        7,
+        -7.5
+       ],
+       [
+        8,
+        -8.5
+       ],
+       [
+        9,
+        -7
+       ],
+       [
+        10,
+        -7.5
+       ],
+       [
+        11,
+        -6.5
+       ],
+       [
+        12,
+        -7.5
+       ],
+       [
+        13,
+        -7
+       ],
+       [
+        14,
+        -8
+       ],
+       [
+        15,
+        -7
+       ],
+       [
+        16,
+        -7.5
+       ],
+       [
+        17,
+        -6.8
+       ],
+       [
+        18,
+        -7.4
+       ],
+       [
+        19,
+        -7
+       ],
+       [
+        20,
+        -7.2
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "r": 6,
+      "sure": 3,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "srt50",
+      "x": 20,
+      "y": -7.2,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "yesil",
+      "etiket": "SRT50",
+      "hiza": "end",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Five-word, unpredictable sentences",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "SNR adjusted to responses",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Learning effect in the first list",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The first matrix test was developed for Swedish; today comparable versions exist in German, Turkish and many other languages.",
+    "Sentences follow a fixed five-word pattern, and the words are picked at random from a ten-choice table, so they cannot be predicted.",
+    "The graph shows the track of one measurement: SNR falls as the patient answers correctly and rises after errors.",
+    "The next SNR step is set by the number of words repeated correctly in each sentence.",
+    {
+     "yazi": "After twenty sentences, the track settles at the fifty percent point; this point is reported as the SRT50.",
+     "ses": "After twenty sentences, the track settles at the fifty percent point; this point is reported as the S.R.T fifty."
+    },
+    "Since the score improves as the patient learns the word set, a practice list is given before the measurement."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "*Expectations* by SNR loss",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Near normal",
+     "metin": "Close to normal hearers in noise",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Mild",
+     "metin": "Near normal with directional microphones",
+     "cumle": 2
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Moderate",
+     "metin": "Directional microphones clearly help",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Severe",
+     "metin": "Consider a remote microphone system",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "SNR loss is used in hearing aid counseling to set realistic expectations with the patient.",
+    "If SNR loss is near normal, the person understands speech in noise close to normal-hearing listeners.",
+    "With a mild SNR loss, near-normal performance in noise can be expected with a hearing aid with directional microphones.",
+    "With a moderate SNR loss, directional microphones help clearly but may not be enough on their own.",
+    "A severe SNR loss needs the largest SNR improvement; remote microphone systems placed near the talker are considered.",
+    "These suggestions are a general framework; the decision is made with the patient's needs, audiogram and preferences."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "Same audiogram, *different* noise performance",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Audiogram_: similar in both patients",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Patient A_: SNR loss 2 dB",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "sag",
+     "metin": "_Patient B_: SNR loss 12 dB",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "In this example, the two patients' audiograms are almost identical: a mild to moderate loss sloping toward the high frequencies.",
+    "Their word recognition scores in quiet are also close to each other.",
+    "Patient A has an SNR loss of two decibels and performs near normal in noise.",
+    "Patient B has an SNR loss of twelve decibels and has moderate difficulty in noise.",
+    "Even with the same hearing aid, these two patients will have very different experiences in noise.",
+    "A speech-in-noise test makes this difference measurable and makes counseling personal."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "A single QuickSIN list carries about ±2.7 dB of uncertainty. Average at least two lists before making a decision.",
+   "cumleler": [
+    "Short tests have limited reliability; take this into account.",
+    {
+     "yazi": "Its developers report that a single QuickSIN list has about plus or minus two point seven decibels of uncertainty at ninety five percent.",
+     "ses": "Its developers report that a single Quick sin list has about plus or minus two point seven decibels of uncertainty at ninety five percent."
+    },
+    "So averaging at least two lists before making a decision strengthens the result.",
+    "When comparing unaided and aided performance, use different but equivalent lists in each condition."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "Points to *watch* in interpretation",
+   "maddeler": [
+    {
+     "metin": "Language and _vocabulary_ matter",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Memory_ and attention play a role",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Result depends on _presentation level_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Norms: _same language and version_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "vurgula": [
+     {
+      "parca": "hoparlor",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Sentence tests depend on language; the patient's language and vocabulary affect the result.",
+    "Holding sentences in mind takes working memory and attention, and in older patients this also shows in the result.",
+    "The result depends on whether it was measured with earphones or in the sound field, at what level and with which noise.",
+    "So each test is compared only with norms in its own language and for its own version.",
+    "The report should clearly state the test name, list, noise type, level and listening condition."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Quiet scores _do not show_ noise performance",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "SNR loss: SNR needed _beyond normal_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "QuickSIN: _25.5 minus correct_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "HINT and matrix: _adaptive_ SRT50",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "A word score in quiet does not reliably show how well a person understands speech in noise.",
+    "SNR loss shows how much more SNR a person needs than normal-hearing listeners to understand speech.",
+    {
+     "yazi": "In QuickSIN, SNR loss is calculated by subtracting the total number of correct words from twenty five point five.",
+     "ses": "In Quick sin, S.N.R loss is calculated by subtracting the total number of correct words from twenty five point five."
+    },
+    {
+     "yazi": "HINT and matrix tests use an adaptive method to find the fifty percent point, the SRT50.",
+     "ses": "Hint and matrix tests use an adaptive method to find the fifty percent point, the S.R.T fifty."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "A QuickSIN total of 16 correct words. What is the SNR loss?",
+   "secenekler": [
+    "6.5 dB, mild",
+    "9.5 dB, moderate",
+    "16 dB, severe",
+    "2 dB, normal"
+   ],
+   "dogru": 1,
+   "aciklama": "25.5 minus 16 is _9.5 dB_; 7 to 15 dB is a moderate SNR loss.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: On a QuickSIN list, the patient repeated sixteen key words correctly in total. What is the SNR loss?",
+     "ses": "Test yourself: On a Quick sin list, the patient repeated sixteen key words correctly in total. What is the S.N.R loss?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: nine point five decibels, a moderate SNR loss.",
+    "Twenty five point five minus sixteen is nine point five; this value falls between seven and fifteen."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Masking* in Speech Audiometry",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will see when masking is needed in speech tests and how to calculate the noise level.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

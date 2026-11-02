@@ -1,0 +1,1030 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D272_Case_One_Sided_Conductive_Loss_Type_B_EN",
+ "kapak": {
+  "ust": "LESSON 272",
+  "baslik": "Case: a *type B*<br>tympanogram",
+  "alt": "One-sided conductive loss",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      35,
+      40,
+      35,
+      30,
+      30,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Case: One-Sided Conductive Loss with a Flat Tympanogram | Lesson 272 | AIHEAR Audiology Academy",
+  "aciklama": "We work through a fictional adult case of one-sided conductive hearing loss step by step: otoscopy, masked bone conduction and the plateau, speech tests, interpreting ear canal volume with a type B tympanogram, the acoustic reflex pattern, ENT referral and sample report wording.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Jerger, Clinical experience with impedance audiometry (1970); BSA, Recommended Procedure: Pure-tone Air-conduction and Bone-conduction Threshold Audiometry with and without Masking.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "tympanometry",
+   "casestudy"
+  ],
+  "etiketler": [
+   "conductive hearing loss",
+   "type B tympanogram",
+   "flat tympanogram",
+   "ear canal volume",
+   "middle ear effusion",
+   "masked bone conduction",
+   "plateau method",
+   "acoustic reflex",
+   "audiology case",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 272",
+   "baslik": "Case: one-sided *conductive* loss",
+   "alt": "Type B tympanogram and ear canal volume",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we work through our first adult case step by step: conductive loss in one ear and a type B tympanogram.",
+    "Together we will apply otoscopy, masked bone conduction, ear canal volume and the audiologist's referral and reporting steps."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History and otoscopy",
+   "baslik": "Sample case: *history*",
+   "maddeler": [
+    {
+     "metin": "A sample adult, aged thirty-four",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Right ear _fullness_ for three weeks",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Started after a cold",
+     "cumle": 2,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "_No_ pain, discharge or dizziness",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Own voice echoes on the right",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Eustachian tube",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "orta_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Our case is entirely fictional; a thirty-four-year-old adult comes in with reduced hearing in the right ear.",
+    "The complaint began about three weeks ago with a feeling of fullness and blockage in the ear.",
+    "The history includes a cold shortly before the onset.",
+    "There is no ear pain, discharge, tinnitus or dizziness; there is no ear surgery or noise exposure either.",
+    "The person says their own voice sounds echoey in the right ear, a sensation often described with conductive problems.",
+    "The history points us in a direction, but decisions are always based on all the findings together."
+   ]
+  },
+  {
+   "id": "otoskopi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "History and otoscopy",
+   "baslik": "Otoscopy of the *right ear*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "patoloji": {
+     "tur": "efuzyon",
+     "cumle": 2
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "efuzyon",
+     "metin": "amber color behind the drum",
+     "cumle": 2
+    },
+    {
+     "parca": "hava_sivi_seviyesi",
+     "metin": "air-fluid level",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kabarciklar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "We always start testing with otoscopy; the left ear canal and tympanic membrane look normal.",
+    "In the right ear the canal is clear; there is no impacted earwax.",
+    "Behind the tympanic membrane there is a yellowish, amber appearance.",
+    "A thin air-fluid line and a few bubbles can be seen in the upper part of the drum; the light reflex is not clear.",
+    "This appearance suggests fluid in the middle ear, but otoscopy too is interpreted together with the tests, not alone.",
+    "In the report we describe what we see only as an appearance, without making a diagnosis."
+   ]
+  },
+  {
+   "id": "odyo1",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram",
+   "baslik": "Pure tones: the *unmasked* picture",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Right_: unmasked bone conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       35,
+       30,
+       30,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "On pure-tone audiometry, right air conduction thresholds are between 30 and 40 dB HL; testing uses supra-aural earphones.",
+    "Left air conduction thresholds are within normal limits.",
+    "Right unmasked bone conduction thresholds are in the normal range, between 5 and 10 dB HL.",
+    "So there is an air-bone gap of 20 to 30 dB in the right ear.",
+    "First the air conduction rule: the difference between right air conduction and the left ear is at most 30 dB, below forty.",
+    "So the right air conduction thresholds do not need masking; but bone conduction is a different story."
+   ]
+  },
+  {
+   "id": "plato",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram",
+   "baslik": "Bone conduction: *masking*",
+   "cizim": "plato_grafigi",
+   "ayar": {
+    "esik": 10,
+    "plato": [
+     25,
+     45
+    ],
+    "bolge_cumleleri": [
+     2,
+     4,
+     5
+    ],
+    "esik_cumle": 5
+   },
+   "vurgula": [
+    {
+     "parca": "plato",
+     "cumle": 4
+    },
+    {
+     "parca": "gercek_esik",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bone conduction IA about _zero_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Initial masking: _25 dB EM_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Plateau: threshold _stays put_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "For bone conduction, interaural attenuation is taken as about zero; an unmasked response may come from the better of the two cochleas.",
+    "Because the air-bone gap is 15 dB or more, right bone conduction is measured again with noise in the left ear.",
+    "For example, at 1000 hertz the left air conduction threshold is 5 dB HL; initial masking is 10 dB above that.",
+    "Because the supra-aural earphone covers the left ear, a 10 dB occlusion correction is added at 1000 hertz; initial masking is 25 dB EM.",
+    "As the noise is raised step by step, the right bone conduction threshold stays at 10 dB HL; in other words, there is a plateau.",
+    "This plateau value is the true bone conduction threshold of the right cochlea and is recorded with the masked symbol."
+   ]
+  },
+  {
+   "id": "odyo2",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram",
+   "baslik": "Pure tones: the *masked* picture",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Right_: masked bone conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: normal",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Air-bone gap _confirmed_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       35,
+       30,
+       30,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "After masking, right bone conduction thresholds are between 10 and 15 dB HL; we mark them with square brackets.",
+    "The thresholds stayed very close to the unmasked values, so the bone conduction responses really come from the right cochlea.",
+    "The left ear is within normal limits at all frequencies.",
+    "The right ear has an air-bone gap of about 15 to 30 dB, confirmed with masking.",
+    "The pure-tone average, the mean of 500, 1000 and 2000 hertz, is 35 dB HL; this is a mild degree.",
+    "The picture is consistent with a mild conductive hearing loss in the right ear."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram",
+   "baslik": "Speech tests and *tuning forks*",
+   "maddeler": [
+    {
+     "metin": "Right SRT 35 dB HL: _matches_ PTA",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Right score 96 percent: _good_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Left ear _masked_ for word testing",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Weber _to the right_, Rinne negative right",
+     "cumle": 4,
+     "ikon": "diyapazon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "cumle": 4,
+    "ayar": {
+     "test": "weber"
+    },
+    "vurgula": [
+     {
+      "parca": "alin",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The right speech reception threshold, or SRT, is 35 dB HL; it matches the pure-tone average exactly.",
+    "The right word recognition score is 96 percent; in conductive loss, understanding is usually good once sound is loud enough.",
+    "Because the word test was given at 75 dB HL, the left ear was masked to prevent crossover to the opposite ear.",
+    "In the left ear, the SRT is 10 dB HL and the word recognition score is 100 percent.",
+    "On the tuning fork Weber test, sound lateralizes to the right, the problem ear; the Rinne test is negative on the right.",
+    "The tuning fork findings point the same way as the audiogram; tests confirming each other is the cross-check principle."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Immittance",
+   "baslik": "Tympanogram: *type B* on the right",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0,
+      "kulak": "sol"
+     },
+     {
+      "tip": "B",
+      "cumle": 1,
+      "kulak": "sag"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Left: _type A_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Right: _type B_, no peak",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Right ECV: _1.0 mL_, normal",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Now to the immittance findings; the left ear has a type A tympanogram with a normal-height peak near zero pressure.",
+    "In the right ear the curve is flat; no clear peak forms as pressure changes, in other words a type B tympanogram.",
+    "A type B curve has more than one meaning, so the first step is to look at the ear canal volume, or ECV.",
+    "The right ECV is one milliliter; the left is similar, at zero point nine milliliters.",
+    "In adults, ECV is about zero point six to one point five milliliters, so the right ear volume is in the normal range.",
+    "A type B curve with normal volume suggests an intact eardrum with an immobile space behind it."
+   ]
+  },
+  {
+   "id": "ecv",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Immittance",
+   "baslik": "What does *volume* tell us in type B?",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Normal volume",
+     "metin": "Intact drum, middle ear fluid",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Large volume",
+     "metin": "Perforation or patent tube",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Small volume",
+     "metin": "Wax or probe against wall",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "If volume is normal for age with a type B curve, the most common possibility is middle ear effusion, meaning fluid in the middle ear.",
+    "In our case, otoscopy also shows a fluid appearance behind the drum, so the findings support each other.",
+    "If volume is clearly large, for example around three milliliters, the probe tone is passing through an opening into the middle ear.",
+    "In that case a perforation or a patent ventilation tube is considered; otoscopy looks for an opening in the drum.",
+    "If volume is very small, the probe tip may be against the canal wall, or the canal may be blocked with wax.",
+    "So reporting a type B curve without looking at its volume is an incomplete interpretation."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Immittance",
+   "baslik": "Acoustic *reflexes*",
+   "sutunlar": [
+    "Measure",
+    "Stimulus",
+    "Probe",
+    "Reflex"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Right ipsi",
+      "Right",
+      "Right",
+      "Absent"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Left contra",
+      "Left",
+      "Right",
+      "Absent"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Right contra",
+      "Right",
+      "Left",
+      "Absent"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Left ipsi",
+      "Left",
+      "Left",
+      "85 dB HL"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "We read the acoustic reflex results by naming them after the ear that receives the stimulus.",
+    "With the probe in the right ear, in the right ipsilateral measure, there is no reflex; a fluid-filled middle ear shows no admittance change.",
+    "The left contralateral reflex, with the stimulus on the left and the probe on the right, is absent for the same reason.",
+    "With the stimulus right and the probe left, the reflex is again absent; the right conductive loss lowers the level reaching the cochlea.",
+    "With probe and stimulus both on the left, the reflex is present at 85 dB HL, the expected level.",
+    "This is the typical pattern of a one-sided conductive problem: no reflex when the problem ear holds the probe or gets the stimulus."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and referral",
+   "baslik": "*Put* the findings together",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy",
+     "metin": "Fluid behind the drum",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiogram",
+     "metin": "Mild conductive",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Immittance",
+     "metin": "Type B, normal ECV",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Interpretation",
+     "metin": "Consistent with effusion",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Otoscopy shows a fluid appearance behind the right eardrum.",
+    "The audiogram shows a mild conductive loss on the right, an air-bone gap confirmed with masking and a good speech score.",
+    "Immittance shows a right type B tympanogram with normal volume and reflex findings consistent with a one-sided conductive pattern.",
+    "Together these findings are consistent with middle ear effusion; this is an interpretation, and the diagnosis is made by the physician.",
+    "Because right bone conduction is normal, no inner ear problem appears on these tests."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and referral",
+   "baslik": "What the audiologist *does*",
+   "maddeler": [
+    {
+     "metin": "Referral to an ENT physician",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Findings written in full",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "One-sided, persistent effusion: _note it_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Follow-up testing_ after treatment",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Refer",
+      "metin": "ENT physician",
+      "cumle": 0
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Document",
+      "metin": "With values",
+      "cumle": 1
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Follow up",
+      "metin": "Retest",
+      "cumle": 4
+     }
+    ],
+    "ust": "OUR ROLE"
+   },
+   "cumleler": [
+    "The audiologist's first step is to refer the person, with the findings, to an ear, nose and throat, or ENT, physician.",
+    "The referral note includes the otoscopic appearance, the audiogram, tympanogram and ECV values, and the reflex findings.",
+    "In an adult, a one-sided effusion that does not clear may require the physician to investigate its cause further.",
+    "So the duration and one-sidedness are stated clearly in the note; decisions such as examining the nasopharynx belong to the physician.",
+    "The physician decides on treatment; the audiologist recommends no medication or procedure and only explains why follow-up testing matters.",
+    "After the physician's assessment, a follow-up audiogram and tympanogram document the recovery."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "With a type B curve, check the volume first, then compare with otoscopy. If they disagree, reseat the probe.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: when you see a flat curve, check the volume before interpreting it.",
+    "If the volume is very small, check the probe tip, and if needed measure again with a better-fitting tip and the right angle.",
+    "Then compare with your otoscopy; a fluid appearance on otoscopy and a type B curve with normal volume support each other.",
+    "If the findings disagree, repeating the measurement is always better than writing a wrong referral note."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and referral",
+   "baslik": "Sample *report* wording",
+   "maddeler": [
+    {
+     "metin": "Right: mild conductive hearing loss",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Right: type B, ECV 1.0 mL",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Reflexes: absent with probe right",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Comment: may be consistent with effusion",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Recommendation: ENT, then retest",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        35,
+        40,
+        35,
+        30,
+        30,
+        40
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        10,
+        10,
+        10,
+        15
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "aralik": {
+      "konum": [
+       1,
+       10,
+       40
+      ],
+      "etiket": "30 dB"
+     }
+    }
+   },
+   "cumleler": [
+    "In a sample report, the pure-tone result could read: mild conductive hearing loss in the right ear, left ear within normal limits.",
+    "Immittance section: right type B tympanogram, ear canal volume one milliliter; left type A tympanogram.",
+    "Reflex section: reflexes absent with the probe in the right ear and with right stimulation; left ipsilateral reflex at the expected level.",
+    "Comment: findings may be consistent with right middle ear fluid; bone conduction is within normal limits in both ears.",
+    "Recommendation: ENT assessment, and a follow-up audiogram and tympanometry at the time the physician recommends.",
+    "The report also states the type of earphone used and the masking levels."
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and referral",
+   "baslik": "The *right ear* at follow-up",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 60,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        35
+       ],
+       [
+        500,
+        40
+       ],
+       [
+        1000,
+        35
+       ],
+       [
+        2000,
+        30
+       ],
+       [
+        4000,
+        30
+       ],
+       [
+        8000,
+        40
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "right: first test",
+      "cumle": 1,
+      "kesik": true
+     },
+     {
+      "ad": "kontrol",
+      "noktalar": [
+       [
+        250,
+        15
+       ],
+       [
+        500,
+        15
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "right: follow-up",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "duzelme",
+      "y": [
+       35,
+       10
+      ],
+      "xk": 1000,
+      "etiket": "25 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Same earphones, _same method_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "The gap has _closed_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Tympanogram: _type A_",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Let us look at a sample follow-up test done a few weeks after the physician's assessment.",
+    "The dashed red line shows the first right air conduction thresholds, and the green line the thresholds at follow-up.",
+    "Right air conduction thresholds are back between 10 and 20 dB HL; bone conduction is at the same level.",
+    "At 1000 hertz there is a 25 dB improvement; the air-bone gap has closed.",
+    "The tympanogram is now type A, and reflexes are present with the probe in the right ear.",
+    "Had there been no improvement, this would also have been reported to the physician just as clearly."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Otoscopy first, then masked bone conduction",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Type B volume: fluid, hole or blockage",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Combine findings; the physician diagnoses",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Report with values, plan a retest",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "To confirm a conductive loss, the air-bone gap is measured with masked bone conduction.",
+    "With a type B tympanogram, ear canal volume guides interpretation: normal suggests fluid, large an opening, small a blockage.",
+    "Otoscopy, audiogram and immittance are interpreted together; diagnosis and treatment decisions belong to the physician.",
+    "The report includes measured values, the person is referred to an ENT physician and a follow-up test is planned."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Right type B, ECV 3.2 mL. What is considered?",
+   "secenekler": [
+    "Middle ear fluid",
+    "Perforation or patent tube",
+    "Blocked probe tip",
+    "Normal middle ear"
+   ],
+   "dogru": 1,
+   "aciklama": "Volume is very large: the probe tone reaches the middle ear _through an opening in the drum_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: an adult has a right type B tympanogram with an ear canal volume of 3.2 milliliters. What is considered?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a perforation or a patent ventilation tube.",
+    "The volume is well above the adult range; the probe tone is also measuring the middle ear space through an opening in the drum."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: Air-Bone Gap and a *Carhart Notch*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case we will look at an adult with an air-bone gap despite a normal tympanogram.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

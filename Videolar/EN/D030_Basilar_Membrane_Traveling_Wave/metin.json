@@ -1,0 +1,154 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D030_Basilar_Membrane_Traveling_Wave_EN",
+  "kapak": {
+    "ust": "LESSON 30",
+    "baslik": "Basilar membrane,<br>*traveling wave*",
+    "alt": "Békésy's discovery and tonotopy",
+    "cizim": "koklea_acik"
+  },
+  "youtube": {
+    "baslik": "The Basilar Membrane and the Traveling Wave | Lesson 30 | AIHEAR Audiology Academy",
+    "aciklama": "The movement of the stapes becomes a traveling wave that moves along the basilar membrane inside the cochlea. In this lesson, we look at the structure of the basilar membrane, von Békésy's traveling wave, the frequency map from base to apex, known as tonotopy, and its clinical importance.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: von Békésy, Experiments in Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Moore, An Introduction to the Psychology of Hearing.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "cochlea", "hearing"],
+    "etiketler": ["basilar membrane", "traveling wave", "tonotopy", "von Bekesy", "cochlea", "basal turn", "apex", "characteristic place", "cochlear amplifier", "hearing physiology", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 30", "baslik": "The Basilar Membrane and the *Traveling Wave*", "alt": "Békésy's discovery and tonotopic organization",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn how the vibration of the stapes turns into a traveling wave inside the cochlea.",
+       "Then we look at how the cochlea lays out frequencies on a map, which is called tonotopy."]},
+
+    {"id": "kesit", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Structure of the cochlea", "baslik": "Cochlear *cross-section*", "cizim": "koklea_kesit", "etiketler": [{"parca": "scala_vestibuli", "metin": "scala vestibuli", "cumle": 1}, {"parca": "scala_media", "metin": "scala media", "cumle": 1}, {"parca": "scala_tympani", "metin": "scala tympani", "cumle": 1}, {"parca": "reissner_membrani", "metin": "Reissner's membrane", "cumle": 2}, {"parca": "baziler_membran", "metin": "basilar membrane", "cumle": 3}, {"parca": "corti_organi", "metin": "organ of Corti", "cumle": 4}], "vurgula": [{"parca": "baziler_membran", "cumle": 3}], "yakinlastir": [{"parca": "corti_organi", "cumle": 4, "olcek": 1.6}, {"parca": "genel", "cumle": 5}],
+     "cumleler": [
+       "First, a quick reminder: the cochlea is a bony canal that coils about two and a half turns.",
+       "Inside this canal there are three chambers: the scala vestibuli, the scala media and the scala tympani.",
+       "The thin Reissner's membrane separates the scala vestibuli from the scala media.",
+       "The basilar membrane stretches between the scala media and the scala tympani.",
+       "The organ of Corti sits on this membrane; when the basilar membrane moves, the hair cells move with it.",
+       "The scala vestibuli and the scala tympani join at the apex of the cochlea through a small opening called the helicotrema."]},
+
+    {"id": "acik", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Structure of the cochlea", "baslik": "The cochlea *uncoiled*", "cizim": "koklea_acik", "vurgula": [{"parca": "baziler_membran", "cumle": 0}], "etiketler": [{"parca": "taban", "metin": "base (basal turn)", "cumle": 1}, {"parca": "tepe", "metin": "apex", "cumle": 2}, {"parca": "oval_pencere", "metin": "oval window", "cumle": 3}, {"parca": "yuvarlak_pencere", "metin": "round window", "cumle": 3}], "notlar": [{"metin": "Length: about 35 mm", "cumle": 0, "ikon": "grafik"}, {"metin": "Fluid cannot be compressed", "cumle": 5, "ikon": "dikkat"}],
+     "cumleler": [
+       "Imagine the cochlea uncoiled into a straight tube; the basilar membrane is about thirty five millimeters long.",
+       "The end with the oval and round windows is called the base, or the basal turn.",
+       "The other end is called the apex.",
+       "When the stapes pushes the oval window inward, pressure rises in the scala vestibuli, and the round window bulges outward.",
+       "This pressure difference moves the basilar membrane, which separates the chambers, up and down.",
+       "Because fluids cannot be compressed, the give of the round window is needed for this movement to happen."]},
+
+    {"id": "taban_tepe", "tur": "karsilastir", "bolum_no": "PART 2", "bolum": "Properties of the basilar membrane", "baslik": "Base and *apex*", "sol": {"ust": "Base (basal turn)", "maddeler": [{"metin": "_Narrow_", "cumle": 1}, {"metin": "_Stiff_", "cumle": 1}, {"metin": "Tuned to high frequencies", "cumle": 4}]}, "sag": {"ust": "Apex", "maddeler": [{"metin": "_Wide_", "cumle": 1}, {"metin": "_Flexible_", "cumle": 1}, {"metin": "Tuned to low frequencies", "cumle": 4}]},
+     "cumleler": [
+       "The most important feature of the basilar membrane is that its structure changes steadily along its length.",
+       "The membrane is narrow and stiff at the base, and it becomes wider and more flexible toward the apex.",
+       "An interesting detail: while the bony canal narrows toward the apex, the basilar membrane widens.",
+       "This steady decrease in stiffness makes each region of the membrane respond best to a different frequency.",
+       "The stiff, narrow base is tuned to high frequencies, and the wide, flexible apex to low frequencies.",
+       "Compare a piano: its short, tight strings make high notes, and its long, looser strings make low notes."]},
+
+    {"id": "bekesy", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "The traveling wave", "baslik": "Békésy's *traveling wave*", "maddeler": [{"metin": "_Direct_ observation in cadaver cochleae", "cumle": 1, "ikon": "goz"}, {"metin": "Wave always travels _base to apex_", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Amplitude grows, then _peaks_", "cumle": 3, "ikon": "grafik"}, {"metin": "Dies out quickly after the peak", "cumle": 4, "ikon": "sessizlik"}], "yan": {"tur": "kart", "ust": "NOBEL", "metin": "Békésy, 1961 *Nobel* Prize in Physiology or Medicine", "cumle": 5},
+     "cumleler": [
+       "The first person to observe in detail how the basilar membrane responds to sound was Georg von Békésy.",
+       "Békésy watched the movement of the membrane under a microscope in cochleae taken from human cadavers.",
+       "What he saw was a wave that started at the base and moved toward the apex; it was named the traveling wave.",
+       "As the wave travels, its amplitude grows gradually and reaches a maximum at a certain point.",
+       "Just beyond this point, the amplitude drops quickly and the wave dies out.",
+       {"yazi": "Békésy received the Nobel Prize in Physiology or Medicine in 1961 for his work on cochlear mechanics.", "ses": "Békésy received the Nobel Prize in Physiology or Medicine in nineteen sixty one for his work on cochlear mechanics."}]},
+
+    {"id": "dalga1000", "tur": "gorsel", "bolum_no": "PART 3", "bolum": "The traveling wave", "baslik": "The *traveling wave* for 1000 Hz", "cizim": "koklea_acik", "ayar": {"frekans": 1000}, "vurgula": [{"parca": "yuruyen_dalga", "cumle": 0}], "etiketler": [{"parca": "yuruyen_dalga", "metin": "traveling wave", "cumle": 0}], "notlar": [{"metin": "Peak location: characteristic place", "cumle": 2, "ikon": "kulak"}, {"metin": "Membrane stiffness steers the wave", "cumle": 3, "ikon": "dikkat"}],
+     "cumleler": [
+       "The figure shows the traveling wave for a one thousand hertz pure tone.",
+       "The wave starts at the base, grows as it travels and peaks in a region near the middle of the membrane.",
+       "The place where the wave is largest is called the characteristic place; each frequency has its own characteristic place.",
+       "An important point: the direction of the wave is set not by the flow of fluid, but by the changing stiffness along the membrane.",
+       "So whichever way the vibration reaches the cochlea, the wave still travels from the base toward the apex.",
+       "The fact that bone conduction produces the same traveling wave is the basis of bone conduction testing."]},
+
+    {"id": "dalga4000", "tur": "gorsel", "bolum_no": "PART 3", "bolum": "The traveling wave", "baslik": "High pitch: near the *base*", "cizim": "koklea_acik", "ayar": {"frekans": 4000}, "vurgula": [{"parca": "taban", "cumle": 2}], "notlar": [{"metin": "4000 Hz: peak near the base", "cumle": 1, "ikon": "ses_dalgasi"}],
+     "cumleler": [
+       "Now let us raise the frequency to four thousand hertz.",
+       "This time the wave peaks closer to the base, in the basal turn, and dies out after traveling only a short distance.",
+       "High-pitched sounds clearly set only the basal region of the cochlea in motion.",
+       "Each octave takes up a similar length of the membrane; the highest octaves lie at the very start of the base, near the oval window.",
+       "That is why, in high-frequency hearing loss, the damage is usually thought to be concentrated in the basal turn."]},
+
+    {"id": "dalga250", "tur": "gorsel", "bolum_no": "PART 3", "bolum": "The traveling wave", "baslik": "Low pitch: near the *apex*", "cizim": "koklea_acik", "ayar": {"frekans": 250}, "vurgula": [{"parca": "tepe", "cumle": 1}, {"parca": "taban", "cumle": 2}], "notlar": [{"metin": "250 Hz: peak near the apex", "cumle": 1, "ikon": "ses_dalgasi"}, {"metin": "Low tones also move the base", "cumle": 2, "ikon": "dikkat"}, {"metin": "Upward spread of masking", "cumle": 4, "ikon": "gurultu"}],
+     "cumleler": [
+       "When we lower the frequency to two hundred fifty hertz, the picture changes.",
+       "The wave travels into a region near the apex and reaches its peak close to the apex.",
+       "Notice that the wave of a low-pitched sound also moves the basal region to some extent along the way.",
+       "This explains why intense low-pitched sounds can also stimulate high-frequency regions.",
+       "One clinical consequence is the upward spread of masking: a low-pitched noise masks high-pitched sounds more easily.",
+       "Also, because the wave of a low-pitched sound travels farther, it reaches its characteristic place later."]},
+
+    {"id": "frekans_tablo", "tur": "tablo", "bolum_no": "PART 3", "bolum": "The traveling wave", "baslik": "Frequency and *peak location*", "sutunlar": ["Frequency", "Peak location", "Path of the wave"], "satirlar": [{"hucreler": ["4000 Hz", "Near the base", "Short"], "cumle": 0}, {"hucreler": ["1000 Hz", "Middle region", "Medium"], "cumle": 0}, {"hucreler": ["250 Hz", "Near the apex", "Long"], "cumle": 0}],
+     "cumleler": [
+       "To sum up what we have seen: as frequency falls, the peak of the wave shifts from the base toward the apex.",
+       "The wave of a high-pitched sound travels a short distance and peaks quickly.",
+       "The wave of a low-pitched sound travels along most of the cochlea and reaches its characteristic place a few milliseconds later.",
+       "This difference in delay is one reason why ABR latencies, in auditory brainstem response recordings, are longer for low-frequency stimuli."]},
+
+    {"id": "canli", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "The traveling wave", "baslik": "*Sharper* in the living cochlea", "maddeler": [{"metin": "Békésy: _broad_ peak in dead tissue", "cumle": 0, "ikon": "kitap"}, {"metin": "Living cochlea: _sharp_, tall peak", "cumle": 1, "ikon": "grafik"}, {"metin": "Contributor: _outer hair cells_", "cumle": 2, "ikon": "hoparlor"}, {"metin": "Damage reduces sensitivity and selectivity", "cumle": 4, "ikon": "uyari"}], "yan": {"tur": "cizim", "cizim": "corti", "cumle": 0, "vurgula": [{"parca": "baziler_membran", "cumle": 0}, {"parca": "dis_tuy_hucreleri", "cumle": 2}], "etiketler": [{"parca": "baziler_membran", "metin": "Basilar membrane", "cumle": 0}, {"parca": "dis_tuy_hucreleri", "metin": "Outer hair cells", "cumle": 2}]},
+     "cumleler": [
+       "Because Békésy worked with dead tissue and at high sound levels, the peak of the wave he observed was quite broad.",
+       "Later studies showed that in a living, healthy cochlea, the peak is much sharper and taller.",
+       "This difference comes from the outer hair cells, which actively boost the movement of the membrane.",
+       "This mechanism is called the cochlear amplifier, and it is especially important for soft sounds.",
+       "When outer hair cells are damaged, both sensitivity and frequency selectivity are reduced.",
+       "We will cover the cochlear amplifier in detail in a separate lesson."]},
+
+    {"id": "tonotopi", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Tonotopy", "baslik": "*Tonotopy*: a frequency map", "maddeler": [{"metin": "Base: about _20,000 Hz_", "cumle": 1, "ikon": "ses_dalgasi"}, {"metin": "Apex: about _20 Hz_", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "_Logarithmic_ layout in mid and high frequencies", "cumle": 3, "ikon": "odyogram"}], "yan": {"tur": "kart", "ust": "TONOTOPY", "metin": "Each frequency has a *specific place* on the membrane", "cumle": 0},
+     "cumleler": [
+       "The mapping of each frequency to a specific place on the basilar membrane is called tonotopy, or tonotopic organization.",
+       "In humans, the highest frequencies, around twenty thousand hertz, are represented at the base.",
+       "The lowest frequencies, around twenty hertz, are found near the apex.",
+       "The map is logarithmic, especially at mid and high frequencies; each octave takes up a stretch of similar length on the membrane.",
+       "The way the audiogram's frequency axis is divided into equal octave steps fits this layout.",
+       "Thanks to this layout, the cochlea works like a frequency analyzer and splits a complex sound into its components along the membrane."]},
+
+    {"id": "yol", "tur": "gorsel", "bolum_no": "PART 4", "bolum": "Tonotopy", "baslik": "The map is kept up to the *brain*", "cizim": "isitme_yolu", "vurgula": [{"parca": "koklea", "cumle": 0}, {"parca": "isitme_siniri", "cumle": 1}, {"parca": "koklear_nukleus", "cumle": 2}, {"parca": "inferior_kollikulus", "cumle": 2}, {"parca": "isitme_korteksi", "cumle": 3}], "etiketler": [{"parca": "isitme_siniri", "metin": "auditory nerve", "cumle": 1}, {"parca": "koklear_nukleus", "metin": "cochlear nucleus", "cumle": 2}, {"parca": "inferior_kollikulus", "metin": "inferior colliculus", "cumle": 2}, {"parca": "isitme_korteksi", "metin": "auditory cortex", "cumle": 3}],
+     "cumleler": [
+       "Tonotopy is not limited to the cochlea.",
+       "Each auditory nerve fiber carries information from a specific region of the basilar membrane and has a frequency it responds to best.",
+       "This frequency order is kept throughout the brainstem, from the cochlear nucleus to the inferior colliculus.",
+       "In the auditory cortex, too, frequencies are laid out as an orderly map.",
+       "So the frequency map that begins in the cochlea appears again at every stage of the auditory pathway."]},
+
+    {"id": "klinik", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Clinical links", "baslik": "*Tonotopy* in the clinic", "maddeler": [{"metin": "High-frequency loss: _basal turn_ damage", "cumle": 1, "ikon": "odyogram"}, {"metin": "Aging and ototoxicity: starts at base", "cumle": 2, "ikon": "yasli"}, {"metin": "Noise: about _3000 to 6000 Hz_", "cumle": 3, "ikon": "fabrika"}, {"metin": "Low-frequency losses are _less common_", "cumle": 4, "ikon": "grafik"}],
+     "cumleler": [
+       "Tonotopy lets us read the audiogram as a rough map of the cochlea.",
+       "For example, a high-frequency loss suggests that the damage is mainly in the basal turn.",
+       "In age-related hearing loss and with many ototoxic drugs, damage usually starts at the base.",
+       "With noise, damage is often concentrated in the region corresponding to three thousand to six thousand hertz.",
+       "Losses affecting the low frequencies are less common; they can appear, for example, early in Meniere's disease.",
+       "Remember, the audiogram shows the site of damage only roughly; a detailed evaluation needs other tests as well."]},
+
+    {"id": "ipucu", "tur": "ipucu", "bolum_no": "PART 5", "bolum": "Clinical links", "baslik": "Clinical tip", "metin": "Use tonotopy when explaining results: saying that the entrance of the cochlea, where high pitches are sensed, is affected helps the patient understand the loss.",
+     "cumleler": [
+       "A tip from practice: use tonotopy when you explain the audiogram to the patient.",
+       "Explain that the cochlea, much like a piano keyboard, senses high pitches at one end and low pitches at the other.",
+       "If there is a high-frequency loss, show on the audiogram that the loss is in the entrance region that senses high pitches.",
+       "This simple comparison helps the patient understand why they hear sounds but miss some words."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*", "maddeler": [{"metin": "Basilar membrane: _stiff_ at base, _flexible_ at apex", "cumle": 0, "ikon": "grafik"}, {"metin": "Traveling wave always _base to apex_", "cumle": 1, "ikon": "ses_dalgasi"}, {"metin": "High pitches at base, low at apex", "cumle": 2, "ikon": "kulak"}, {"metin": "Tonotopy is _kept_ up to the brain", "cumle": 3, "ikon": "beyin"}],
+     "cumleler": [
+       "The basilar membrane is narrow and stiff at the base, and wide and flexible at the apex.",
+       "Stapes movement creates a traveling wave that moves from base to apex and peaks at a frequency-specific place.",
+       "High-pitched sounds create the largest response at the base, and low-pitched sounds near the apex.",
+       "This frequency map, called tonotopy, is kept along the auditory pathway all the way to the cortex."]},
+
+    {"id": "test", "tur": "test", "soru": "Where does a 4000 Hz tone peak on the traveling wave?", "secenekler": ["Near the apex", "Near the base", "At the helicotrema", "Exactly mid-membrane"], "dogru": 1, "aciklama": "The narrow, stiff _base_ is tuned to high frequencies.",
+     "cumleler": [
+       {"yazi": "Test yourself: Where does a four thousand hertz pure tone reach its largest amplitude on the traveling wave?", "sonra_bekle": 5},
+       "The correct answer is B: near the base.",
+       "The narrow, stiff basal region of the basilar membrane is tuned to high frequencies."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "How Hair Cells Turn Sound into *Electrical Signals*", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will see how the movement of the basilar membrane is turned into an electrical signal in the hair cells.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

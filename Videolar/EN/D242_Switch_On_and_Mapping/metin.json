@@ -1,0 +1,1400 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D242_Switch_On_and_Mapping_EN",
+ "kapak": {
+  "ust": "LESSON 242",
+  "baslik": "Switch-on and<br>*mapping*",
+  "alt": "T and C/M levels, the map",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Switch-On and Mapping: T and C/M Levels | Lesson 242 | AIHEAR Audiology Academy",
+  "aciklama": "How is a cochlear implant switched on for the first time, and how is a personal map created? In this lesson we cover threshold (T) and comfort (C/M) levels, the electrical dynamic range, the input dynamic range, loudness balancing, pulse width and the compliance limit, the switch-on experience and counseling.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Wolfe and Schafer, Programming Cochlear Implants; Zeng et al. (2002), Speech dynamic range and its effect on cochlear implant performance, Journal of the Acoustical Society of America; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "programming"
+  ],
+  "etiketler": [
+   "cochlear implant programming",
+   "mapping",
+   "T level",
+   "C level",
+   "M level",
+   "switch-on",
+   "initial activation",
+   "electrical dynamic range",
+   "input dynamic range",
+   "loudness balancing",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 242",
+   "baslik": "Switch-on and *mapping*",
+   "alt": "T and C/M levels, the map",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how a cochlear implant is switched on for the first time and how a personal map is created.",
+    "We will cover threshold and comfort levels, the electrical dynamic range and counseling on the day of switch-on."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Switch-on",
+   "baslik": "From surgery to *first sound*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Surgery",
+     "cumle": 0,
+     "metin": "Internal unit placed"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Healing",
+     "cumle": 1,
+     "metin": "Usually a few weeks"
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Activation",
+     "cumle": 3,
+     "metin": "Measurements and first map"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "First sounds",
+     "cumle": 4,
+     "metin": "Strange and mechanical"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Frequent visits",
+     "cumle": 5,
+     "metin": "In the first months"
+    }
+   ],
+   "cumleler": [
+    "The internal unit is placed in surgery, but since the external unit is not yet worn, the person hears nothing through the implant yet.",
+    "There is usually a wait of a few weeks for the wound to heal and swelling to settle; this period varies between centers.",
+    "Some centers can activate a few days after surgery if the skin allows.",
+    "On switch-on day, the audiologist fits the external unit, makes measurements and creates the first map.",
+    "People often describe these first sounds as strange, mechanical or like beeps.",
+    "Frequent visits follow in the first months, because levels change as the person gets used to electrical stimulation."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Switch-on",
+   "baslik": "Activation day: *check first*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Skin",
+     "cumle": 0,
+     "metin": "Wound and redness"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Magnet",
+     "cumle": 1,
+     "metin": "Suitable holding strength"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Impedance",
+     "cumle": 3,
+     "metin": "Measured again"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Explanation",
+     "cumle": 4,
+     "metin": "What will happen?"
+    }
+   ],
+   "cumleler": [
+    "Before measurements, the skin where the coil will sit is examined; if the wound has not healed or there is redness, the team is informed.",
+    "The strength of the magnet holding the coil is chosen for each person; a magnet that is too strong can cause pressure sores on the skin.",
+    "A weak magnet, on the other hand, makes the coil fall off often and interrupts stimulation.",
+    "Then impedance is measured again by telemetry, and electrodes with open or short circuits are identified.",
+    "The person and family are told in advance what will happen today, how the first sounds may come across, and that this is normal.",
+    "This short preparation reduces anxiety and helps the person respond more reliably during measurements."
+   ]
+  },
+  {
+   "id": "tc",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "T and C/M levels",
+   "baslik": "Threshold, comfort and *dynamic range*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 220,
+     "ad": "Current level (manufacturer units)",
+     "isaretler": [
+      100,
+      130,
+      160,
+      190,
+      220
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Loudness (0 to 10)"
+    },
+    "seriler": [
+     {
+      "ad": "yukseklik",
+      "noktalar": [
+       [
+        112,
+        0.0
+       ],
+       [
+        116,
+        0.06
+       ],
+       [
+        120,
+        0.18
+       ],
+       [
+        124,
+        0.34
+       ],
+       [
+        128,
+        0.53
+       ],
+       [
+        132,
+        0.76
+       ],
+       [
+        136,
+        1.02
+       ],
+       [
+        140,
+        1.3
+       ],
+       [
+        144,
+        1.62
+       ],
+       [
+        148,
+        1.95
+       ],
+       [
+        152,
+        2.31
+       ],
+       [
+        156,
+        2.69
+       ],
+       [
+        160,
+        3.09
+       ],
+       [
+        164,
+        3.51
+       ],
+       [
+        168,
+        3.95
+       ],
+       [
+        172,
+        4.42
+       ],
+       [
+        176,
+        4.9
+       ],
+       [
+        180,
+        5.4
+       ],
+       [
+        184,
+        5.91
+       ],
+       [
+        188,
+        6.45
+       ],
+       [
+        192,
+        7.0
+       ],
+       [
+        196,
+        7.57
+       ],
+       [
+        200,
+        8.15
+       ],
+       [
+        204,
+        8.75
+       ],
+       [
+        208,
+        9.37
+       ],
+       [
+        212,
+        10.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 4,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "t_duzeyi",
+      "x": 120,
+      "y": 0.2,
+      "cizgi": "dikey",
+      "etiket": "T: threshold",
+      "cumle": 1
+     },
+     {
+      "ad": "c_duzeyi",
+      "x": 190,
+      "y": 6.7,
+      "cizgi": "dikey",
+      "etiket": "C/M: comfort",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "dinamik_aralik",
+      "x": [
+       120,
+       190
+      ],
+      "y": 9,
+      "etiket": "electrical dynamic range",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "t_duzeyi",
+     "cumle": 1
+    },
+    {
+     "parca": "c_duzeyi",
+     "cumle": 3
+    },
+    {
+     "parca": "dinamik_aralik",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Programming is based on finding two levels for each electrode; the graph shows how loudness grows as current increases.",
+    "The threshold level, or T level, is the lowest current level at which the stimulus is barely detected.",
+    "Some centers define the T level as the level detected half the time, others as the level detected every time.",
+    "The comfort level, or C level, is the highest level at which sound is loud but still comfortable.",
+    {
+     "yazi": "In some systems the upper level is defined as the most comfortable listening level and called the M level; hence the term C/M level.",
+     "ses": "In some systems the upper level is defined as the most comfortable listening level and called the M level; hence the term C or M level."
+    },
+    {
+     "yazi": "The range between T and C/M is the electrical dynamic range, and it is often only about 10 to 20 decibels.",
+     "ses": "The range between T and C or M is the electrical dynamic range, and it is often only about 10 to 20 decibels."
+    },
+    "Compared with the natural ear's range of about 120 decibels, it is clear why the implant has to compress."
+   ]
+  },
+  {
+   "id": "t_olcum",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "T and C/M levels",
+   "baslik": "*Finding* the T level",
+   "maddeler": [
+    {
+     "metin": "Start from a low level",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Short pulsed stimulus trains",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Counting: how many beeps?",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "High T: background noise",
+     "cumle": 4,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Low T: soft sounds missed",
+     "cumle": 5,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 100,
+      "max": 220,
+      "ad": "Current level",
+      "isaretler": [
+       100,
+       160,
+       220
+      ]
+     },
+     "y": {
+      "min": 0,
+      "max": 10,
+      "adim": 5,
+      "ad": "Loudness"
+     },
+     "seriler": [
+      {
+       "ad": "yukseklik",
+       "noktalar": [
+        [
+         112,
+         0.0
+        ],
+        [
+         116,
+         0.06
+        ],
+        [
+         120,
+         0.18
+        ],
+        [
+         124,
+         0.34
+        ],
+        [
+         128,
+         0.53
+        ],
+        [
+         132,
+         0.76
+        ],
+        [
+         136,
+         1.02
+        ],
+        [
+         140,
+         1.3
+        ],
+        [
+         144,
+         1.62
+        ],
+        [
+         148,
+         1.95
+        ],
+        [
+         152,
+         2.31
+        ],
+        [
+         156,
+         2.69
+        ],
+        [
+         160,
+         3.09
+        ],
+        [
+         164,
+         3.51
+        ],
+        [
+         168,
+         3.95
+        ],
+        [
+         172,
+         4.42
+        ],
+        [
+         176,
+         4.9
+        ],
+        [
+         180,
+         5.4
+        ],
+        [
+         184,
+         5.91
+        ],
+        [
+         188,
+         6.45
+        ],
+        [
+         192,
+         7.0
+        ],
+        [
+         196,
+         7.57
+        ],
+        [
+         200,
+         8.15
+        ],
+        [
+         204,
+         8.75
+        ],
+        [
+         208,
+         9.37
+        ],
+        [
+         212,
+         10.0
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "cumle": 0
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "t_duzeyi",
+       "x": 120,
+       "y": 0.2,
+       "cizgi": "dikey",
+       "etiket": "T",
+       "cumle": 0
+      },
+      {
+       "ad": "yuksek_t",
+       "x": 140,
+       "y": 0.8,
+       "dolu": true,
+       "etiket": "high T",
+       "cumle": 4
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "t_duzeyi",
+      "cumle": 0
+     },
+     {
+      "parca": "yuksek_t",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "To measure the T level, current starts at a low level where the stimulus is not heard and is raised in small steps.",
+    "The stimulus is usually given as short trains of beeps; the person signals or presses a button when they hear it.",
+    "Adults may also be asked to count how many beeps they heard; this reduces the tendency to guess.",
+    "In some systems T levels are not measured one by one; the software sets them as a fraction of the upper level, then fine-tuning follows.",
+    "If T levels are set too high, soft ambient sounds and hum are heard constantly and can be annoying.",
+    "If they are set too low, soft speech and distant sounds may be missed.",
+    "So T levels are confirmed with the aided thresholds we will see below and with the person's daily experience."
+   ]
+  },
+  {
+   "id": "c_olcum",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "T and C/M levels",
+   "baslik": "*Finding* the C/M level",
+   "maddeler": [
+    {
+     "metin": "A loudness scale is used",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Current raised carefully",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Watch the face and blinking",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Cautious setting at first",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SCALE",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "sessizlik",
+      "baslik": "Very soft",
+      "cumle": 0
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Comfortable",
+      "cumle": 1
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Loud but comfortable",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Too loud",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "To measure the C or M level, the person is shown an illustrated loudness scale ordered from very soft to too loud.",
+    "The person is asked to point to where the sound falls on the scale and to report the loud but comfortable point.",
+    "Current is raised toward this point in small, careful steps; a sudden loud stimulus can startle the person.",
+    "Meanwhile the person's face is watched; blinking or twitching of facial muscles may show that stimulation is spreading to the facial nerve.",
+    "A very strong stimulus can also cause discomfort, pain or nonauditory sensations such as dizziness.",
+    "On the first day, the person is not used to electrical stimulation, so upper levels are often set cautiously, that is, lower than needed.",
+    "As the person adapts, upper levels are raised step by step at later visits."
+   ]
+  },
+  {
+   "id": "profil",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The map",
+   "baslik": "The *map* across the electrodes",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Electrode (base to apex, example)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 100,
+     "max": 220,
+     "adim": 20,
+     "ad": "Current level"
+    },
+    "seriler": [
+     {
+      "ad": "t_profili",
+      "noktalar": [
+       [
+        1,
+        128
+       ],
+       [
+        2,
+        124
+       ],
+       [
+        3,
+        122
+       ],
+       [
+        4,
+        125
+       ],
+       [
+        5,
+        121
+       ],
+       [
+        6,
+        118
+       ],
+       [
+        7,
+        120
+       ],
+       [
+        8,
+        122
+       ],
+       [
+        9,
+        119
+       ],
+       [
+        10,
+        121
+       ],
+       [
+        11,
+        124
+       ],
+       [
+        12,
+        127
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "T levels",
+      "cumle": 1
+     },
+     {
+      "ad": "c_profili",
+      "noktalar": [
+       [
+        1,
+        196
+       ],
+       [
+        2,
+        192
+       ],
+       [
+        3,
+        190
+       ],
+       [
+        4,
+        193
+       ],
+       [
+        5,
+        188
+       ],
+       [
+        6,
+        185
+       ],
+       [
+        7,
+        187
+       ],
+       [
+        8,
+        190
+       ],
+       [
+        9,
+        186
+       ],
+       [
+        10,
+        188
+       ],
+       [
+        11,
+        191
+       ],
+       [
+        12,
+        195
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "C/M levels",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "aralik",
+      "y": [
+       121,
+       188
+      ],
+      "xk": 5,
+      "etiket": "dynamic range",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "t_profili",
+     "cumle": 1
+    },
+    {
+     "parca": "c_profili",
+     "cumle": 2
+    },
+    {
+     "parca": "aralik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Together, the T and C/M levels of all electrodes make up the person's map, that is, their program.",
+     "ses": "Together, the T and C or M levels of all electrodes make up the person's map, that is, their program."
+    },
+    "In this example, the navy line shows the T levels across the electrodes.",
+    {
+     "yazi": "The blue line shows the C/M levels; both lines vary a little from electrode to electrode.",
+     "ses": "The blue line shows the C or M levels; both lines vary a little from electrode to electrode."
+    },
+    "The distance between the two lines is the dynamic range of each electrode.",
+    "Levels vary between people and between electrodes; the state of the nerve fibers and the electrode's distance from the modiolus affect this.",
+    "The map is saved in the programming software and loaded into the sound processor.",
+    "A processor can store more than one map, for example several programs for different environments."
+   ]
+  },
+  {
+   "id": "dengeleme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The map",
+   "baslik": "Balancing and *deactivated* electrodes",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Balancing",
+     "cumle": 0,
+     "metin": "Neighbors equally loud"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Pitch",
+     "cumle": 2,
+     "metin": "Should fall from base to apex"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Facial nerve",
+     "cumle": 3,
+     "metin": "Switched off if twitching"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Circuit problem",
+     "cumle": 5,
+     "metin": "Open and short circuits"
+    }
+   ],
+   "cumleler": [
+    "After the levels are measured one by one, neighboring electrodes are played in sequence and the person is asked to compare their loudness.",
+    "If one is clearly louder or softer than another, its level is corrected; this is called loudness balancing.",
+    "In adults the pitch order of electrodes can also be checked; pitch should rise toward the base.",
+    "Some electrodes can stimulate the facial nerve and cause eye or facial twitching; these are switched off or their levels limited.",
+    "Electrodes that cause pain, dizziness or a nonauditory sensation are handled the same way.",
+    "Electrodes with open or short circuits are removed from the map, and the frequency bands are spread over the remaining electrodes."
+   ]
+  },
+  {
+   "id": "esleme",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The map",
+   "baslik": "Mapping sound to *current*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 95,
+     "ad": "Sound level at the microphone (dB SPL)",
+     "isaretler": [
+      25,
+      45,
+      65,
+      85
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 110,
+     "isaretler": [
+      0,
+      50,
+      100
+     ],
+     "yazilar": {
+      "0": "T",
+      "50": "",
+      "100": "C/M"
+     },
+     "ad": "Electrical output"
+    },
+    "seriler": [
+     {
+      "ad": "esleme",
+      "noktalar": [
+       [
+        20,
+        0
+       ],
+       [
+        25,
+        0
+       ],
+       [
+        30,
+        24.3
+       ],
+       [
+        35,
+        39.8
+       ],
+       [
+        40,
+        51.2
+       ],
+       [
+        45,
+        60.2
+       ],
+       [
+        50,
+        67.7
+       ],
+       [
+        55,
+        74.0
+       ],
+       [
+        60,
+        79.6
+       ],
+       [
+        65,
+        84.5
+       ],
+       [
+        70,
+        88.9
+       ],
+       [
+        75,
+        92.9
+       ],
+       [
+        80,
+        96.6
+       ],
+       [
+        85,
+        100
+       ],
+       [
+        90,
+        100
+       ],
+       [
+        95,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 4,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "giris_araligi",
+      "x": [
+       25,
+       85
+      ],
+      "renk": "sari",
+      "etiket": "input dynamic range",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yumusak",
+      "x": 25,
+      "y": 0,
+      "dolu": true,
+      "etiket": "soft sound: T",
+      "cumle": 3
+     },
+     {
+      "ad": "yuksek",
+      "x": 85,
+      "y": 100,
+      "dolu": true,
+      "etiket": "loud sound: C/M",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "giris_araligi",
+     "cumle": 2
+    },
+    {
+     "parca": "yumusak",
+     "cumle": 3
+    },
+    {
+     "parca": "yuksek",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "So how do these levels relate to real sounds?",
+    {
+     "yazi": "The processor converts the sound level at the microphone into a current between T and C/M according to this curve.",
+     "ses": "The processor converts the sound level at the microphone into a current between T and C or M according to this curve."
+    },
+    "The range of sound that is mapped is called the input dynamic range, for example from 25 to 85 decibels.",
+    "Soft sounds at the lower end of the range are delivered close to the T level, that is, barely audible.",
+    {
+     "yazi": "Loud sounds at the upper end are mapped to the C/M level; louder sounds do not exceed this level, that is, they are clipped.",
+     "ses": "Loud sounds at the upper end are mapped to the C or M level; louder sounds do not exceed this level, that is, they are clipped."
+    },
+    "Because the curve is logarithmic, a larger share of the electrical range goes to soft and moderate sounds.",
+    "The width of the input range and the microphone sensitivity clearly affect how well the person hears soft sounds."
+   ]
+  },
+  {
+   "id": "darbe",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The map",
+   "baslik": "Pulse width and the *voltage limit*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Charge",
+     "cumle": 0,
+     "metin": "Current times duration"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Voltage limit",
+     "cumle": 2,
+     "metin": "With high impedance"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Wider pulse",
+     "cumle": 3,
+     "metin": "Same charge, less current"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "The cost",
+     "cumle": 4,
+     "metin": "Pulse rate may drop"
+    }
+   ],
+   "cumleler": [
+    "What determines nerve stimulation is the electric charge in the pulse; charge is current multiplied by pulse duration.",
+    "So loudness can be increased by raising the current or by making the pulse longer.",
+    "On an electrode with high impedance, the voltage needed for the desired current may exceed what the implant can supply.",
+    "In that case the software widens the pulse to deliver the same charge with less current, and loudness is maintained.",
+    "A wider pulse makes each cycle longer, which can lower the pulse rate per channel.",
+    "Programming software usually flags electrodes that are approaching this limit."
+   ]
+  },
+  {
+   "id": "canli",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Live sound",
+   "baslik": "From the map to *live sound*",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Live sound",
+     "cumle": 0,
+     "metin": "Microphone turned on"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Global adjustment",
+     "cumle": 1,
+     "metin": "All levels together"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech",
+     "cumle": 3,
+     "metin": "Soft and normal"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Ling sounds",
+     "cumle": 4,
+     "metin": "Six sounds are tried"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Programs",
+     "cumle": 5,
+     "metin": "Volume and environment"
+    }
+   ],
+   "cumleler": [
+    "When the map is ready, the microphone is turned on and the person begins to hear surrounding sounds, above all speech, through the implant.",
+    {
+     "yazi": "If overall loudness is not comfortable in live sound, all C/M levels are lowered or raised a little together.",
+     "ses": "If overall loudness is not comfortable in live sound, all C or M levels are lowered or raised a little together."
+    },
+    "If soft sounds are not heard at all, the T levels and microphone sensitivity are reviewed.",
+    "The audiologist speaks at soft and normal levels and watches the person's reactions and comfort.",
+    "The sounds of the Ling six sound test give a quick check of whether speech frequencies are heard.",
+    "Finally, one or more programs are loaded into the processor, and the person is shown how to change volume and programs."
+   ]
+  },
+  {
+   "id": "ayarlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Live sound",
+   "baslik": "*Other* map settings",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frequency allocation",
+     "cumle": 0,
+     "metin": "Band limits"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Microphone",
+     "cumle": 2,
+     "metin": "Sensitivity and directionality"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise reduction",
+     "cumle": 3,
+     "metin": "Environment programs"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Progressive maps",
+     "cumle": 4,
+     "metin": "Gradual increase"
+    }
+   ],
+   "cumleler": [
+    "The frequency allocation table determines which frequency band goes to which electrode.",
+    "This table is usually used in its default form; changes are made carefully, because they change the pitch of sounds.",
+    "Microphone sensitivity and directional microphone settings affect how much soft sound and noise from behind is picked up.",
+    "Noise reduction and programs that change automatically with the environment are used much as in hearing aids.",
+    "In the first weeks, some centers load several maps together with gradually increasing upper levels.",
+    "The person moves to the next map every few days, so loudness increases without waiting for the next visit."
+   ]
+  },
+  {
+   "id": "danisma",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Counseling and follow-up",
+   "baslik": "First-day *counseling*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "First sounds",
+     "cumle": 0,
+     "metin": "Mechanical sound is normal"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Use",
+     "cumle": 2,
+     "metin": "All waking hours"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Care",
+     "cumle": 3,
+     "metin": "Battery, cable, coil"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "At home",
+     "cumle": 5,
+     "metin": "Listening practice"
+    }
+   ],
+   "cumleler": [
+    "The most important message of the first day is that it is expected for sounds to seem strange.",
+    "Speech may not be understood at first; the brain adapts to this new code over weeks and months.",
+    "This adaptation requires regular use of the processor during all waking hours; data logging shows the hours of use.",
+    "The person is taught to change batteries, check the cable and coil, and protect the processor from moisture.",
+    "They are told to remove the processor and contact the center if loudness is uncomfortable, or if pain or facial twitching occurs.",
+    "At home, talking with family about familiar topics and matching sounds to their sources speeds up adaptation in the first weeks."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "gorsel",
+   "bolum_no": "PART 5",
+   "bolum": "Counseling and follow-up",
+   "baslik": "Levels change *over time*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Months after activation",
+     "isaretler": [
+      0,
+      1,
+      3,
+      6,
+      12
+     ]
+    },
+    "y": {
+     "min": 100,
+     "max": 210,
+     "adim": 20,
+     "ad": "Average current level"
+    },
+    "seriler": [
+     {
+      "ad": "c_seyir",
+      "noktalar": [
+       [
+        0,
+        150
+       ],
+       [
+        0.25,
+        160
+       ],
+       [
+        0.5,
+        168
+       ],
+       [
+        1,
+        175
+       ],
+       [
+        2,
+        182
+       ],
+       [
+        3,
+        186
+       ],
+       [
+        6,
+        190
+       ],
+       [
+        9,
+        191
+       ],
+       [
+        12,
+        191
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "C/M",
+      "cumle": 0
+     },
+     {
+      "ad": "t_seyir",
+      "noktalar": [
+       [
+        0,
+        118
+       ],
+       [
+        1,
+        122
+       ],
+       [
+        3,
+        125
+       ],
+       [
+        6,
+        126
+       ],
+       [
+        12,
+        126
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "T",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sik",
+      "x": [
+       0,
+       3
+      ],
+      "renk": "sari",
+      "etiket": "frequent visits",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "c_seyir",
+     "cumle": 0
+    },
+    {
+     "parca": "sik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "This graph shows the typical course of levels in the first year with example values; upper levels rise clearly in the first months.",
+    "T levels change less; levels largely stabilize within roughly a few months.",
+    "So the first maps are temporary and are updated as the person adapts.",
+    "Visits are frequent in the first few months, for example a few weeks apart; then the intervals lengthen to yearly checks.",
+    "At each visit impedance is measured, levels are reviewed, and aided thresholds and speech tests are done.",
+    "The visit schedule varies with the center and the person's progress; children need more frequent visits."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Watch the person's face while raising upper levels. If you see blinking or twitching, stop on that electrode; this can come before any report of loudness.",
+   "cumleler": [
+    "A tip from the clinic: when raising upper levels, take your eyes off the screen and look at the person's face.",
+    "Blinking or cheek twitching may show facial nerve stimulation, and the person may not always mention it.",
+    "If you see this, stop raising the level on that electrode and assess it together with the team.",
+    "This may be more common in people with otosclerosis, inner ear malformations or a temporal bone fracture."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "T: barely audible level",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "C/M: loud but comfortable level",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Map: levels and settings",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Levels change in the first months",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "The T level is the lowest level at which electrical stimulation is barely detected.",
+    "The C or M level is the upper level, loud but comfortable; the narrow range between them is the electrical dynamic range.",
+    "The levels of all electrodes, balancing, the mapping curve and other settings together make up the person's map.",
+    "Levels change as the person adapts to electrical stimulation, so frequent programming and counseling are needed in the first months."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What does a constant hum in quiet suggest?",
+   "secenekler": [
+    "T levels too high",
+    "C/M levels too low",
+    "Too few electrodes",
+    "Weak magnet"
+   ],
+   "dogru": 0,
+   "aciklama": "If _T levels_ are high, soft sounds and hum are heard constantly.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: an implant user reports a constant hum in a quiet room; which setting comes to mind first?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: T levels set too high.",
+    "When T levels are set high, soft ambient sounds and system noise may be heard constantly, so the levels are reviewed."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pediatric CI Programming with *Objective* Measures",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about programming in children, predicting the map from objective measures, and behavioral confirmation.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

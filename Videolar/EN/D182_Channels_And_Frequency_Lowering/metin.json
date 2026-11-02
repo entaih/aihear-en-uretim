@@ -1,0 +1,875 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D182_Channels_And_Frequency_Lowering_EN",
+ "kapak": {
+  "ust": "LESSON 182",
+  "baslik": "Channels and<br>*frequency lowering*",
+  "alt": "Channel, band, compression, transposition",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  }
+ },
+ "youtube": {
+  "baslik": "Channels, Bands and Frequency Lowering | Lesson 182 | AIHEAR Audiology Academy",
+  "aciklama": "What is the difference between a channel and a band in a hearing aid, and how can inaudible high frequencies be moved? In this lesson we cover multichannel processing, steeply sloping loss and dead regions, frequency compression and transposition, candidacy and verification.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Dillon, Hearing Aids; Moore, Dead regions in the cochlea: conceptual foundations, diagnosis, and clinical applications, Ear and Hearing (2004); Vickers, Moore and Baer, Effects of low-pass filtering on the intelligibility of speech in quiet for people with and without dead regions at high frequencies, Journal of the Acoustical Society of America (2001); Glista et al., Evaluation of nonlinear frequency compression: clinical outcomes, International Journal of Audiology (2009); Bor, Souza and Wright, Multichannel compression: effects of reduced spectral contrast on vowel identification, Journal of Speech, Language, and Hearing Research (2008).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "frequencylowering"
+  ],
+  "etiketler": [
+   "hearing aid channels",
+   "bands",
+   "multichannel compression",
+   "frequency lowering",
+   "frequency compression",
+   "frequency transposition",
+   "dead regions",
+   "steeply sloping hearing loss",
+   "hearing aids",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 182",
+   "baslik": "Channels and *frequency lowering*",
+   "alt": "Channels, bands, frequency compression and transposition",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the difference between channels and bands in hearing aids, and what the number of channels means.",
+    "Then we will look at frequency lowering methods, which move hard-to-hear high frequencies into lower regions."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Channels and bands",
+   "baslik": "Channel or *band?*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Channel",
+     "cumle": 1,
+     "metin": "A region with its own compression settings"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Band",
+     "cumle": 3,
+     "metin": "A region with adjustable gain"
+    }
+   ],
+   "cumleler": [
+    "A digital aid splits sound into a series of frequency regions using filter banks.",
+    "A channel is a frequency region with its own compression threshold, ratio and time constants.",
+    "So in each channel, gain changes independently according to the input level in that channel.",
+    "A band is a frequency region whose gain can be adjusted separately; the handles on the fine-tuning screen are often bands.",
+    "An aid may have, for example, 20 bands and 8 channels; several bands share the compression settings of one channel.",
+    "Manufacturers do not always use these terms in the same way, so check the definition in the product documentation.",
+    "What matters clinically is how finely you can shape gain and in how many regions you can set compression separately."
+   ]
+  },
+  {
+   "id": "kanallar",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Channels and bands",
+   "baslik": "Multichannel *processing*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Gain (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "noktalar": [
+       [
+        200,
+        6
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        18
+       ],
+       [
+        1500,
+        25
+       ],
+       [
+        2000,
+        32
+       ],
+       [
+        3000,
+        38
+       ],
+       [
+        4000,
+        40
+       ],
+       [
+        6000,
+        36
+       ],
+       [
+        8000,
+        28
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": 6,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kanal_1",
+      "x": [
+       200,
+       750
+      ],
+      "renk": "mavi",
+      "etiket": "1",
+      "cumle": 0
+     },
+     {
+      "ad": "kanal_2",
+      "x": [
+       750,
+       1500
+      ],
+      "renk": "sari",
+      "etiket": "2",
+      "cumle": 0
+     },
+     {
+      "ad": "kanal_3",
+      "x": [
+       1500,
+       3000
+      ],
+      "renk": "mavi",
+      "etiket": "3",
+      "cumle": 0
+     },
+     {
+      "ad": "kanal_4",
+      "x": [
+       3000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "4",
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kanal_1",
+     "cumle": 1
+    },
+    {
+     "parca": "kanal_2",
+     "cumle": 2
+    },
+    {
+     "parca": "kanal_3",
+     "cumle": 2
+    },
+    {
+     "parca": "kanal_4",
+     "cumle": 3
+    },
+    {
+     "parca": "kanal_1",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In this example, the aid's frequency range is divided into four channels.",
+    "In the first, low-frequency channel, the loss is small, so the gain is also small.",
+    "In the second and third channels, at mid frequencies, the gain gradually rises.",
+    "In the fourth, high-frequency channel, the loss is greatest and the most gain is needed in this region.",
+    "Since each channel responds to its own input level, a loud low-frequency noise reduces only the gain of the first channel.",
+    "So high-frequency speech sounds arriving at the same time are not suppressed unnecessarily.",
+    "The number and boundaries of channels are defined in the aid's software and can be changed in some aids."
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Channels and bands",
+   "baslik": "Number of *channels*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Fine shaping",
+     "cumle": 0,
+     "metin": "Better match to the audiogram"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Local processing",
+     "cumle": 2,
+     "metin": "Noise and feedback"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Spectral smearing",
+     "cumle": 4,
+     "metin": "Vowel cues may weaken"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Diminishing returns",
+     "cumle": 6,
+     "metin": "More is not always better"
+    }
+   ],
+   "cumleler": [
+    "More channels allow gain and compression to be fitted more finely to the shape of the audiogram.",
+    "This is especially useful in steeply sloping or notched losses.",
+    "Noise reduction and feedback management can also work only in the problem channels and leave other regions untouched.",
+    "But fast, independent compression in each channel can reduce the level differences between frequencies.",
+    "This spectral flattening can make the formant peaks that help us tell vowels apart less distinct.",
+    "In some designs, processing delay can also rise as the number of channels increases.",
+    "Research suggests that beyond a certain number of channels, the added benefit for speech intelligibility gets smaller.",
+    "So the number of channels alone is not a measure of hearing aid quality."
+   ]
+  },
+  {
+   "id": "dik",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "The high-frequency problem",
+   "baslik": "Example: *steeply sloping* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: severe high-frequency loss",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: similar shape",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Low frequencies near normal",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       70,
+       95,
+       100
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       35,
+       75,
+       95,
+       110
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "This example audiogram shows near-normal low frequencies in both ears and a loss that slopes steeply after 1000 Hz.",
+    "Hearing is good up to one thousand hertz; the vowels and voice pitch of speech are heard easily here.",
+    "At four thousand hertz and above, however, thresholds are severe to profound.",
+    "Making this region audible with conventional gain is often not possible.",
+    "The very high gain needed can exceed the receiver's power and cause acoustic feedback.",
+    "What is more, in a region with such a severe loss, the cochlea itself may not be able to process sound well enough.",
+    "As a result, high-pitched consonants such as s, sh and f may not be heard even with a hearing aid."
+   ]
+  },
+  {
+   "id": "olu",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The high-frequency problem",
+   "baslik": "Cochlear *dead region*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: high frequency",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "apex: low frequency",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Loss of inner hair cells or nerve",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Listening through a neighboring region",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Up to about 1.7 times the edge",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In some severe losses, the inner hair cells or nerve fibers in a region of the cochlea do not function; this is called a dead region.",
+    "Since high frequencies are processed at the base of the cochlea, in steeply sloping losses the dead region is often at the base.",
+    "Sound falling in this region is picked up by cells in a nearby healthy region; this is called off-frequency listening.",
+    "A dead region can be investigated with the threshold-equalizing noise, or TEN, test; we covered the details in the dead regions lesson.",
+    {
+     "yazi": "Moore and colleagues showed that providing gain up to about 1.7 times the edge frequency of the dead region can be helpful.",
+     "ses": "Moore and colleagues showed that providing gain up to about one point seven times the edge frequency of the dead region can be helpful."
+    },
+    "Giving gain deep into the dead region, however, may not help intelligibility, and in some people may even make it worse.",
+    "In that case, moving the high-frequency information into a healthy region is considered as an option."
+   ]
+  },
+  {
+   "id": "sikistirma",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Frequency lowering",
+   "baslik": "Frequency *compression*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Input frequency (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 1000,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Output frequency (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "seriler": [
+     {
+      "ad": "dogal",
+      "noktalar": [
+       [
+        1000,
+        1000
+       ],
+       [
+        10000,
+        10000
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 2,
+      "etiket": "no processing",
+      "etiket_konum": [
+       6000,
+       6000
+      ],
+      "etiket_dx": -90,
+      "etiket_dy": -10
+     },
+     {
+      "ad": "sikistirma",
+      "noktalar": [
+       [
+        1000,
+        1000
+       ],
+       [
+        2500,
+        2500
+       ],
+       [
+        4000,
+        3162
+       ],
+       [
+        6000,
+        3873
+       ],
+       [
+        8000,
+        4472
+       ],
+       [
+        10000,
+        5000
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 6,
+      "cumle": 4,
+      "etiket": "compression",
+      "etiket_konum": [
+       8000,
+       4472
+      ],
+      "etiket_dx": -40,
+      "etiket_dy": 30
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesim",
+      "x": 2500,
+      "y": 2500,
+      "dus": "x",
+      "etiket": "cutoff frequency",
+      "renk": "kirmizi",
+      "cumle": 3
+     },
+     {
+      "ad": "son",
+      "x": 10000,
+      "y": 5000,
+      "dus": "y",
+      "etiket": "10 kHz to 5 kHz",
+      "renk": "lacivert",
+      "cumle": 5,
+      "dx": -60
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kesim",
+     "cumle": 3
+    },
+    {
+     "parca": "sikistirma",
+     "cumle": 4
+    },
+    {
+     "parca": "son",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "One of the most common forms of frequency lowering is nonlinear frequency compression.",
+    "On the graph, the horizontal axis shows the frequency of the incoming sound, and the vertical axis the frequency the aid delivers.",
+    "The dashed line shows that without processing, frequencies stay the same.",
+    "Sounds below the cutoff frequency are not changed; in this example the cutoff frequency is 2500 Hz.",
+    "The region above the cutoff frequency is compressed into a narrower range.",
+    "In this example, information extending up to 10 kilohertz is fitted below 5 kilohertz.",
+    "Because the low frequencies are preserved, vowels and voice quality change little.",
+    "As the compression ratio rises and the cutoff frequency drops, the s sound becomes easier to hear, but sound quality changes more."
+   ]
+  },
+  {
+   "id": "aktarma",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Frequency lowering",
+   "baslik": "Frequency *transposition*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 20,
+     "ad": "Relative level (dB)"
+    },
+    "bolgeler": [
+     {
+      "ad": "kaynak",
+      "x": [
+       4000,
+       8000
+      ],
+      "renk": "kirmizi",
+      "etiket": "inaudible region",
+      "cumle": 1
+     },
+     {
+      "ad": "hedef",
+      "x": [
+       2000,
+       4000
+      ],
+      "renk": "mavi",
+      "etiket": "target region",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayma",
+      "x": [
+       2800,
+       5600
+      ],
+      "y": 30,
+      "etiket": "about 1 octave down",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kaynak",
+     "cumle": 1
+    },
+    {
+     "parca": "kayma",
+     "cumle": 2
+    },
+    {
+     "parca": "hedef",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The second approach is frequency transposition.",
+    "Here, energy in the inaudible high-frequency region is selected.",
+    "This region is shifted, usually about one octave down, to a neighboring region where hearing is better.",
+    "The shifted sound is mixed with the natural sound in that region.",
+    "Unlike compression, the ratios between frequencies are preserved, but the shifted sound overlaps the lower region.",
+    "A third approach copies high-frequency information and adds it to a lower region; this is also called frequency translation.",
+    "The aim of every method is the same: to move information the person cannot hear into a region they can hear.",
+    "The details and names of these methods vary from manufacturer to manufacturer."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Frequency lowering",
+   "baslik": "Three *approaches*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Compression",
+     "cumle": 0,
+     "metin": "Upper region is narrowed"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Transposition",
+     "cumle": 2,
+     "metin": "Region is shifted down"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Copy and add",
+     "cumle": 4,
+     "metin": "Information added lower down"
+    }
+   ],
+   "cumleler": [
+    "To sum up, in frequency compression the region above the cutoff is narrowed and the low region is preserved.",
+    "In this approach, high-frequency information keeps its order, but the frequency ratios between components change.",
+    "In frequency transposition, the selected region is shifted down and mixed with the natural sound there.",
+    "This approach preserves ratios, but adds a new sound to the low region.",
+    "In the copy-and-add approach, the high-frequency information stays in place while a copy is added lower down.",
+    "No method has been shown to be clearly superior for everyone; the choice is made per person and per device."
+   ]
+  },
+  {
+   "id": "aday",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Who and how?",
+   "baslik": "Who is a *candidate?*",
+   "maddeler": [
+    {
+     "metin": "Steep, severe high-frequency loss",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "High region inaudible with gain",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Audibility of s and sh in children",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Not for everyone; individual decision",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        30,
+        70,
+        95,
+        100
+       ],
+       "cumle": 0
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Frequency lowering is mostly considered for people with a steeply sloping, severe or profound high-frequency loss.",
+    "The precondition is that high-frequency information cannot be made audible enough with conventional amplification.",
+    "A suspected dead region, or a region that cannot receive gain because of feedback, also supports this decision.",
+    "In children, hearing sounds such as s and sh matters for learning plural endings and grammar.",
+    {
+     "yazi": "In a 2009 study by Glista and colleagues, children were reported to benefit more clearly from frequency compression than adults."
+    },
+    "But in mild and moderate losses, or in people whose high frequencies can already be made audible, the benefit is unclear.",
+    "A setting that is too strong can make s and sh sounds blur together and degrade sound quality."
+   ]
+  },
+  {
+   "id": "dogrulama",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Who and how?",
+   "baslik": "Fitting and *verification*",
+   "adimlar": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bandwidth first",
+     "cumle": 0,
+     "metin": "Conventional gain"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Measure audibility",
+     "cumle": 1,
+     "metin": "Speech mapping"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Weakest setting",
+     "cumle": 3,
+     "metin": "Increase gradually"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Verify the s sound",
+     "cumle": 4,
+     "metin": "Special test signal"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Behavioral check",
+     "cumle": 5,
+     "metin": "s and sh contrast"
+    }
+   ],
+   "cumleler": [
+    "The first step, before turning on frequency lowering, is to provide the widest bandwidth possible with conventional gain.",
+    "Then, real-ear speech mapping measures how much of the high-frequency information is audible.",
+    "If it is not enough, frequency lowering is considered.",
+    "The setting usually starts at the weakest setting that provides audibility and is strengthened step by step if needed.",
+    "For verification, special s-like test signals are used to check whether the lowered sound rises above threshold in the ear.",
+    "Discrimination is also checked behaviorally with the Ling sound test or with words containing s and sh.",
+    "Sound quality and the person's feedback are also tracked; children in particular are re-evaluated after a while."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not switch on frequency lowering at its strongest setting as a rescue. First try bandwidth, then the weakest effective setting, and verify it in the ear.",
+   "cumleler": [
+    "A tip from the field: do not use frequency lowering as a shortcut to make up for missing high-frequency gain.",
+    "First see, with a real-ear measurement, how far you can get with conventional gain.",
+    "If frequency lowering is needed, aim for the weakest setting that makes the s sound audible.",
+    "Tell the person or family that sounds may seem different at first and that the brain may take time to adapt.",
+    "At the follow-up appointment, re-evaluate the s and sh contrast and sound quality."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and quiz",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Channel: compression; band: gain adjustment",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "More channels are not always better",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Gain in dead regions helps little",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Lowering: compression and transposition",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that a channel is a frequency region with its own compression settings, and a band is one with adjustable gain.",
+    "More channels make fine-tuning easier, but beyond a certain number, the added benefit shrinks.",
+    "In steeply sloping losses and dead regions, making high frequencies audible with gain is limited.",
+    "Frequency compression and transposition move this information into an audible region; they are set carefully and verified."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and quiz",
+   "soru": "What is a region with its own compression settings?",
+   "secenekler": [
+    "Band",
+    "Channel",
+    "Cutoff frequency",
+    "Dead region"
+   ],
+   "dogru": 1,
+   "aciklama": "A _channel_ is a frequency region with its own compression threshold and ratio.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a hearing aid, what is a frequency region with its own compression threshold and ratio called?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a channel.",
+    "A band is a region whose gain can be adjusted separately; several bands may share the compression settings of one channel."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Directional Microphones and *Noise Reduction*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at directional microphones and digital noise reduction, which help with understanding speech in noise.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

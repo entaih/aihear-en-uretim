@@ -1,0 +1,1251 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D126_Electrode_Montage_EN",
+ "kapak": {
+  "ust": "LESSON 126",
+  "baslik": "Electrodes and<br>*10-20* system",
+  "alt": "The first step of an ABR recording",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Electrode Montage and the 10-20 System | Lesson 126 | AIHEAR Audiology Academy",
+  "aciklama": "We explain where electrodes are placed for auditory brainstem response (ABR) recording according to the 10-20 system, the roles of the active, reference and ground electrodes, and the common montage options. We also cover skin preparation, the goal of low and balanced impedance below 5 kΩ, and electrode placement in infants.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Jasper (1958), The ten-twenty electrode system of the International Federation; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "electrophysiology"
+  ],
+  "etiketler": [
+   "ABR",
+   "10-20 system",
+   "electrode montage",
+   "electrode impedance",
+   "auditory brainstem response",
+   "vertex",
+   "common mode rejection",
+   "skin preparation",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 126",
+   "baslik": "Electrode placement and the *10-20*",
+   "alt": "Cz, Fz, M1 and M2; impedance and montage",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn where and how electrodes are placed to record the auditory brainstem response, or ABR.",
+    {
+     "yazi": "Step by step, we will cover the 10-20 system, the roles of the active, reference and ground electrodes, and impedance checks.",
+     "ses": "Step by step, we will cover the ten twenty system, the roles of the active, reference and ground electrodes, and impedance checks."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why electrodes?",
+   "baslik": "The response is read from the *scalp*",
+   "maddeler": [
+    {
+     "metin": "Source in the brainstem, electrode _on the scalp_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Far-field recording: the response is _tiny_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Electroencephalography (EEG) runs _in the background_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Electrode site changes the response _shape_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 4
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The auditory nerve and brainstem that generate the ABR lie several centimeters deep to the electrodes.",
+    "So the ABR is a far-field recording; by the time it reaches the scalp, the response is usually below one microvolt.",
+    "At the same time, the brain's ongoing electrical activity, called electroencephalography or EEG, also enters the recording.",
+    "The averaging we saw in the previous lesson separates this small response from EEG and muscle activity.",
+    "But for averaging to work, the signal must first be picked up from the right points and cleanly.",
+    "Electrode sites determine which waves stand out and how noisy the recording will be."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Why electrodes?",
+   "baslik": "The signal's *journey*",
+   "adimlar": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Electrodes",
+     "metin": "Voltage from the scalp",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Amplifier",
+     "metin": "Boosts the difference",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Filter",
+     "metin": "Removes unwanted frequencies",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Averaging",
+     "metin": "Thousands of sweeps summed",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Display",
+     "metin": "The waves appear",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The electrodes pick up small voltage changes on the scalp.",
+    "The amplifier boosts the difference between two electrodes about one hundred thousand times.",
+    "The filter removes very slow and very fast changes that the ABR does not need.",
+    "Then the short recording windows after each stimulus are summed and averaged.",
+    "Because the electrode is the first link in this chain, an error here cannot be fully corrected at any later step."
+   ]
+  },
+  {
+   "id": "sistem",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The 10-20 system",
+   "baslik": "*Measured* points on the head",
+   "cizim": "elektrot_yerlesimi",
+   "ayar": {
+    "mod": "1020",
+    "goster": {
+     "nasion": 1,
+     "inion": 1,
+     "yuzde": 2,
+     "pz": 2,
+     "oz": 2,
+     "fpz": 3,
+     "fz": 3,
+     "cz": 4,
+     "sol_preaurikuler": 4,
+     "sag_preaurikuler": 4,
+     "m1": 6,
+     "m2": 6,
+     "a1": 6,
+     "a2": 6
+    },
+    "roller": {
+     "cz": "aktif",
+     "fz": "aktif",
+     "m1": "referans",
+     "m2": "referans",
+     "a1": "referans",
+     "a2": "referans",
+     "fpz": "toprak"
+    },
+    "roller_cumle": 6
+   },
+   "notlar": [
+    {
+     "metin": "International standard: _1958_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_10 and 20 percent_ steps of head size",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cz: the vertex",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Electrode sites are standardized by the international 10-20 system, described by Jasper in 1958.",
+     "ses": "Electrode sites are standardized by the international ten twenty system, described by Jasper in nineteen fifty eight."
+    },
+    {
+     "yazi": "Measurement starts from the distance between the nasion at the root of the nose and the inion, the bump at the back of the head."
+    },
+    "This distance is divided into ten percent and twenty percent segments; the system is named after these ratios.",
+    {
+     "yazi": "Fpz lies ten percent above the nasion, and Fz lies a further twenty percent higher.",
+     "ses": "F P Z lies ten percent above the nasion, and F Z lies a further twenty percent higher."
+    },
+    {
+     "yazi": "The exact midpoint between nasion and inion, where it crosses the line joining the two preauricular points, is Cz, the vertex.",
+     "ses": "The exact midpoint between nasion and inion, where it crosses the line joining the two preauricular points, is C Z, the vertex."
+    },
+    "Because ratios are used, the system gives matching points on a small infant head and on an adult head alike.",
+    "In clinical ABR, a full tape measurement is not always done, but knowing these points well is the basis of consistent recording."
+   ]
+  },
+  {
+   "id": "adlar",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "The 10-20 system",
+   "baslik": "What do letters and numbers *mean?*",
+   "sutunlar": [
+    "Symbol",
+    "Meaning",
+    "ABR example"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "F, C",
+      "Frontal, central region",
+      "Fz, Cz"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "z",
+      "Midline",
+      "Cz, Fpz"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Odd number",
+      "Left side",
+      "M1, A1"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Even number",
+      "Right side",
+      "M2, A2"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "M",
+      "Mastoid",
+      "M1, M2"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "A",
+      "Earlobe",
+      "A1, A2"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Letters show the region: F stands for frontal, the forehead region, and C for central, the region at the top of the head."
+    },
+    {
+     "yazi": "The small letter z means zero and tells us the point lies exactly on the midline."
+    },
+    "Odd numbers indicate the left side of the head, and even numbers the right side.",
+    {
+     "yazi": "The letter M stands for mastoid; M1 is the left mastoid and M2 the right mastoid.",
+     "ses": "The letter M stands for mastoid; M one is the left mastoid and M two the right mastoid."
+    },
+    {
+     "yazi": "The earlobe is marked with the letter A; some centers use the A1 and A2 points instead of the mastoids.",
+     "ses": "The earlobe is marked with the letter A; some centers use the A one and A two points instead of the mastoids."
+    },
+    "To avoid mixing up right and left, just remember: odd numbers are left, even numbers are right."
+   ]
+  },
+  {
+   "id": "uc_elektrot",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Electrode roles",
+   "baslik": "*Three* electrodes, three roles",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Active (+)",
+     "metin": "Cz or Fz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Reference (-)",
+     "metin": "Mastoid on the stimulated side",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ground",
+     "metin": "Fpz or opposite mastoid",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In every ABR channel, three electrodes work together.",
+    {
+     "yazi": "The active electrode, the noninverting or positive input, is usually placed at Cz or Fz.",
+     "ses": "The active electrode, the noninverting or positive input, is usually placed at C Z or F Z."
+    },
+    "The reference electrode, the inverting or negative input, is usually on the mastoid or earlobe on the stimulated side.",
+    {
+     "yazi": "The ground electrode does not measure; it is the common point of the amplifier and usually sits on the forehead, at Fpz.",
+     "ses": "The ground electrode does not measure; it is the common point of the amplifier and usually sits on the forehead, at F P Z."
+    },
+    "Some devices and sources name these three inputs differently; what matters is knowing which input goes where."
+   ]
+  },
+  {
+   "id": "referans",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Electrode roles",
+   "baslik": "The reference is not *silent*",
+   "maddeler": [
+    {
+     "metin": "Mastoid electrode is _near the cochlea_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "It picks up wave I _up close_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Subtraction _enlarges_ wave I",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "So the _correct side_ matters",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "wave I: mastoid contribution",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Although it is called the reference, the mastoid electrode is very close to the part of the auditory nerve near the cochlea.",
+    {
+     "yazi": "This electrode picks up the nerve activity that forms wave I up close and with opposite polarity.",
+     "ses": "This electrode picks up the nerve activity that forms wave one up close and with opposite polarity."
+    },
+    {
+     "yazi": "Because the amplifier takes the difference between the two electrodes, this inverted contribution makes wave I look larger.",
+     "ses": "Because the amplifier takes the difference between the two electrodes, this inverted contribution makes wave one look larger."
+    },
+    "In other words, the classic ABR waveform arises from the difference between the vertex and the mastoid.",
+    {
+     "yazi": "If the reference electrode is connected to the wrong side, wave I shrinks and the recording may be misinterpreted.",
+     "ses": "If the reference electrode is connected to the wrong side, wave one shrinks and the recording may be misinterpreted."
+    },
+    "So when the right ear is tested, the reference should be on the right mastoid, and for the left ear on the left mastoid."
+   ]
+  },
+  {
+   "id": "diferansiyel",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Electrode roles",
+   "baslik": "The differential *amplifier*",
+   "maddeler": [
+    {
+     "metin": "The _difference_ of two electrodes is amplified",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Noise common to both _cancels_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Condition: _balanced_ impedance",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "With imbalance, mains interference _leaks in_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "COMMON NOISE",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Same at both inputs",
+      "metin": "Lost in subtraction",
+      "cumle": 1
+     },
+     {
+      "ikon": "noron",
+      "baslik": "Response differs",
+      "metin": "Difference amplified",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "The ABR amplifier is differential; that is, it amplifies the voltage difference between two electrodes.",
+    "Signals that reach both electrodes equally, such as interference from mains power, largely cancel out in this subtraction.",
+    {
+     "yazi": "This property is called common mode rejection, and it makes ABR possible even in electrically noisy rooms."
+    },
+    "However, common mode rejection works well only when the electrode impedances are close to each other.",
+    "If one electrode has a much higher impedance than the others, interference does not reach both inputs equally and leaks in."
+   ]
+  },
+  {
+   "id": "montaj",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Montages",
+   "baslik": "Common *montages*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ipsilateral channel",
+     "metin": "Cz to stimulated mastoid",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Contralateral channel",
+     "metin": "Cz to opposite mastoid",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Horizontal channel",
+     "metin": "Mastoid to mastoid",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Infant",
+     "metin": "Fz or high forehead",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The choice of points between which the active and reference electrodes are connected is called the montage."
+    },
+    {
+     "yazi": "In the most common, ipsilateral montage, the channel runs between Cz and the mastoid on the stimulated side.",
+     "ses": "In the most common, ipsilateral montage, the channel runs between C Z and the mastoid on the stimulated side."
+    },
+    {
+     "yazi": "In the contralateral montage, Cz is paired with the mastoid on the nonstimulated side.",
+     "ses": "In the contralateral montage, C Z is paired with the mastoid on the nonstimulated side."
+    },
+    {
+     "yazi": "A horizontal montage between the two mastoids can make wave I even more prominent.",
+     "ses": "A horizontal montage between the two mastoids can make wave one even more prominent."
+    },
+    {
+     "yazi": "In infants, the active electrode is often placed at Fz or the high forehead instead of Cz; this area is easier to prepare.",
+     "ses": "In infants, the active electrode is often placed at F Z or the high forehead instead of C Z; this area is easier to prepare."
+    }
+   ]
+  },
+  {
+   "id": "iki_kanal",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Montages",
+   "baslik": "Two channels, *two views*",
+   "maddeler": [
+    {
+     "metin": "Ipsilateral: wave I _prominent_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Contralateral: wave I _small or absent_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Waves IV and V _separate_ contralaterally",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A _side clue_ in bone-conduction ABR",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Many clinics record both an ipsilateral and a contralateral channel at the same time.",
+    {
+     "yazi": "In the ipsilateral channel, wave I is prominent, because the reference electrode is close to the stimulated cochlea.",
+     "ses": "In the ipsilateral channel, wave one is prominent, because the reference electrode is close to the stimulated cochlea."
+    },
+    {
+     "yazi": "In the contralateral channel, wave I is usually very small or not seen at all.",
+     "ses": "In the contralateral channel, wave one is usually very small or not seen at all."
+    },
+    {
+     "yazi": "On the other hand, waves IV and V often separate better in the contralateral channel, which helps in marking wave V.",
+     "ses": "On the other hand, waves four and five often separate better in the contralateral channel, which helps in marking wave five."
+    },
+    "The difference between channels also helps show which cochlea responds in bone-conduction ABR, covered in a later lesson."
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "gorsel",
+   "bolum_no": "PART 5",
+   "bolum": "Impedance",
+   "baslik": "Electrode *impedance*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "ad": "Electrode",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Cz",
+      "2": "M1",
+      "3": "M2",
+      "4": "Fpz"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Impedance (kΩ)"
+    },
+    "seriler": [
+     {
+      "ad": "olcum",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        3.1
+       ],
+       [
+        2,
+        3.4
+       ],
+       [
+        3,
+        7.8
+       ],
+       [
+        4,
+        2.6
+       ]
+      ],
+      "renk": "mavi",
+      "genislik": 0.5,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 4.5,
+      "y": 5,
+      "cizgi": "yatay",
+      "renk": "kirmizi",
+      "etiket": "5 kΩ",
+      "nokta": false,
+      "cumle": 1,
+      "dx": -10,
+      "dy": -14
+     },
+     {
+      "ad": "yuksek",
+      "x": 3,
+      "y": 7.8,
+      "renk": "kirmizi",
+      "etiket": "M2 high",
+      "cumle": 3,
+      "dy": -24
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Target: _below 5 kΩ_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Small_ difference between electrodes",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Measure before and _during_ recording",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Electrode impedance can be thought of as resistance to current flow between the skin and the electrode."
+    },
+    {
+     "yazi": "Many sources recommend that each electrode's impedance be below 5 kΩ.",
+     "ses": "Many sources recommend that each electrode's impedance be below five kilohms."
+    },
+    {
+     "yazi": "In this example measurement, Cz, M1 and Fpz appear below this limit.",
+     "ses": "In this example measurement, C Z, M one and F P Z appear below this limit."
+    },
+    {
+     "yazi": "M2, however, is above the limit at about 8 kΩ; this electrode should be prepared again.",
+     "ses": "M two, however, is above the limit at about eight kilohms; this electrode should be prepared again."
+    },
+    {
+     "yazi": "Values close to each other also matter; the difference between electrodes should generally not exceed about 2 kΩ.",
+     "ses": "Values close to each other also matter; the difference between electrodes should generally not exceed about two kilohms."
+    },
+    "Impedance is measured before recording and checked again if noise increases during the recording."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Impedance",
+   "baslik": "Skin preparation *step by step*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Find the site",
+     "metin": "Cz, mastoids, forehead",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Clean",
+     "metin": "With abrasive gel",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Place the electrode",
+     "metin": "Conductive gel or paste",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Measure impedance",
+     "metin": "If high, prepare again",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Secure",
+     "metin": "No pulling on cables",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "First the electrode sites are located; on the scalp, the hair is carefully parted.",
+    "The skin is gently rubbed with an abrasive gel to remove oil and dead cells.",
+    "Then a disposable electrode, or an electrode coated with conductive paste, is applied.",
+    "Impedance is measured; an electrode that reads high is removed and the same site is prepared again.",
+    "Finally, the electrodes are secured with tape and the cables are arranged so they do not pull."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Braid the electrode leads and keep them away from the earphone cable; if one electrode is high, prepare only that one again.",
+   "cumleler": [
+    "A clinical tip: braid the electrode leads together instead of leaving them loose.",
+    "Braided leads make electrical interference in the room reach both inputs in a similar way and strengthen common mode rejection.",
+    "Keep the earphone or bone vibrator cable as far as possible from the electrode leads.",
+    "If only one electrode has high impedance, do not remove all the electrodes; preparing that site again is enough."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "maddeler",
+   "bolum_no": "PART 6",
+   "bolum": "In practice",
+   "baslik": "Placement in *infants*",
+   "maddeler": [
+    {
+     "metin": "Active: _Fz or high forehead_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Work _without pressing_ on the fontanelle",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "_Gentle_ preparation of delicate skin",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Electrodes go on _before sleep_",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": -11,
+      "max": 11,
+      "ad": "Left ear  |  Right ear",
+      "isaretler": []
+     },
+     "y": {
+      "min": -10,
+      "max": 11,
+      "ad": "Back  |  Front",
+      "isaretler": []
+     },
+     "seriler": [
+      {
+       "ad": "kafa",
+       "noktalar": [
+        [
+         0.0,
+         8.0
+        ],
+        [
+         1.39,
+         7.88
+        ],
+        [
+         2.74,
+         7.52
+        ],
+        [
+         4.0,
+         6.93
+        ],
+        [
+         5.14,
+         6.13
+        ],
+        [
+         6.13,
+         5.14
+        ],
+        [
+         6.93,
+         4.0
+        ],
+        [
+         7.52,
+         2.74
+        ],
+        [
+         7.88,
+         1.39
+        ],
+        [
+         8.0,
+         0.0
+        ],
+        [
+         7.88,
+         -1.39
+        ],
+        [
+         7.52,
+         -2.74
+        ],
+        [
+         6.93,
+         -4.0
+        ],
+        [
+         6.13,
+         -5.14
+        ],
+        [
+         5.14,
+         -6.13
+        ],
+        [
+         4.0,
+         -6.93
+        ],
+        [
+         2.74,
+         -7.52
+        ],
+        [
+         1.39,
+         -7.88
+        ],
+        [
+         0.0,
+         -8.0
+        ],
+        [
+         -1.39,
+         -7.88
+        ],
+        [
+         -2.74,
+         -7.52
+        ],
+        [
+         -4.0,
+         -6.93
+        ],
+        [
+         -5.14,
+         -6.13
+        ],
+        [
+         -6.13,
+         -5.14
+        ],
+        [
+         -6.93,
+         -4.0
+        ],
+        [
+         -7.52,
+         -2.74
+        ],
+        [
+         -7.88,
+         -1.39
+        ],
+        [
+         -8.0,
+         -0.0
+        ],
+        [
+         -7.88,
+         1.39
+        ],
+        [
+         -7.52,
+         2.74
+        ],
+        [
+         -6.93,
+         4.0
+        ],
+        [
+         -6.13,
+         5.14
+        ],
+        [
+         -5.14,
+         6.13
+        ],
+        [
+         -4.0,
+         6.93
+        ],
+        [
+         -2.74,
+         7.52
+        ],
+        [
+         -1.39,
+         7.88
+        ],
+        [
+         -0.0,
+         8.0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "burun",
+       "noktalar": [
+        [
+         -1.3,
+         7.9
+        ],
+        [
+         0,
+         9.7
+        ],
+        [
+         1.3,
+         7.9
+        ]
+       ],
+       "renk": "lacivert",
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "sol_kulak",
+       "noktalar": [
+        [
+         -7.9,
+         1.6
+        ],
+        [
+         -9.3,
+         1.1
+        ],
+        [
+         -9.6,
+         0
+        ],
+        [
+         -9.3,
+         -1.1
+        ],
+        [
+         -7.9,
+         -1.6
+        ]
+       ],
+       "renk": "sol",
+       "yumusak": true,
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "sag_kulak",
+       "noktalar": [
+        [
+         7.9,
+         1.6
+        ],
+        [
+         9.3,
+         1.1
+        ],
+        [
+         9.6,
+         0
+        ],
+        [
+         9.3,
+         -1.1
+        ],
+        [
+         7.9,
+         -1.6
+        ]
+       ],
+       "renk": "sag",
+       "yumusak": true,
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "orta_hat",
+       "noktalar": [
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         -8
+        ]
+       ],
+       "renk": "gri",
+       "kesik": true,
+       "kalin": 2,
+       "cumle": 0
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "fz",
+       "x": 0,
+       "y": 3.6,
+       "etiket": "Fz",
+       "cumle": 0,
+       "renk": "mavi",
+       "dolu": true,
+       "r": 11
+      },
+      {
+       "ad": "m1",
+       "x": -8.3,
+       "y": -2.9,
+       "etiket": "M1",
+       "cumle": 0,
+       "renk": "sol",
+       "dolu": true,
+       "r": 11
+      },
+      {
+       "ad": "m2",
+       "x": 8.3,
+       "y": -2.9,
+       "etiket": "M2",
+       "cumle": 0,
+       "renk": "sag",
+       "dolu": true,
+       "r": 11
+      },
+      {
+       "ad": "fpz",
+       "x": 0,
+       "y": 7.2,
+       "etiket": "Fpz",
+       "cumle": 1,
+       "renk": "gri",
+       "dolu": true,
+       "r": 11
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "In infants, the active electrode is often placed at Fz or the high forehead.",
+     "ses": "In infants, the active electrode is often placed at F Z or the high forehead."
+    },
+    "Pressing on the soft spot, the anterior fontanelle, is avoided.",
+    "Because infant skin is delicate, abrasion is very light, and small electrodes suitable for infants are used.",
+    "The electrodes are applied before the baby falls asleep, while the baby is in the parent's lap.",
+    "This way, the long, quiet recording time needed for threshold estimation is not lost to electrode problems."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "maddeler",
+   "bolum_no": "PART 6",
+   "bolum": "In practice",
+   "baslik": "Common *mistakes*",
+   "maddeler": [
+    {
+     "metin": "Gel bridge: two electrodes _merge_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Reference _on the wrong side_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Loose electrode, _broken_ lead",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Earphone cable _close_ to electrodes",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CHECK",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "yanlis",
+      "baslik": "Flat recording",
+      "metin": "Bridge or break",
+      "cumle": 0
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Very noisy",
+      "metin": "Impedance or loose contact",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "If conductive gel spreads between two electrodes, they become bridged and the recording comes out almost flat.",
+    {
+     "yazi": "Connecting the reference electrode to the wrong side can make wave I disappear and lead to misinterpretation.",
+     "ses": "Connecting the reference electrode to the wrong side can make wave one disappear and lead to misinterpretation."
+    },
+    "A loose electrode or a broken lead causes sudden jumps and high noise in the recording.",
+    "If the earphone cable is too close to the electrode leads, stimulus artifact increases.",
+    "If a recording looks unexpected, check the electrodes and cables before moving on to interpretation."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "10-20: _standard points_ by ratios",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Active Cz or Fz, reference _mastoid_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Impedance below 5 kΩ and _balanced_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Infants: Fz, gentle preparation",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The 10-20 system standardizes electrode points on the head using ten and twenty percent ratios.",
+     "ses": "The ten twenty system standardizes electrode points on the head using ten and twenty percent ratios."
+    },
+    {
+     "yazi": "The active electrode is usually at Cz or Fz, the reference on the stimulated-side mastoid, and the ground on the forehead.",
+     "ses": "The active electrode is usually at C Z or F Z, the reference on the stimulated-side mastoid, and the ground on the forehead."
+    },
+    {
+     "yazi": "Impedance should be below 5 kΩ at each electrode and balanced across electrodes.",
+     "ses": "Impedance should be below five kilohms at each electrode and balanced across electrodes."
+    },
+    {
+     "yazi": "In infants, Fz or the high forehead is used, and preparation is gentle and done before sleep.",
+     "ses": "In infants, F Z or the high forehead is used, and preparation is gentle and done before sleep."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In a right-ear ABR, where does the reference electrode go?",
+   "secenekler": [
+    "Left mastoid (M1)",
+    "Right mastoid (M2)",
+    "Vertex (Cz)",
+    "Forehead (Fpz)"
+   ],
+   "dogru": 1,
+   "aciklama": "The reference sits on the mastoid _on the stimulated side_; even numbers indicate the right side.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: when the right ear is tested, where does the reference electrode go in the ipsilateral channel?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the right mastoid, M2.",
+     "ses": "The correct answer is B: the right mastoid, M two."
+    },
+    "Even numbers indicate the right side of the head, and the reference sits on the mastoid on the stimulated side."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "ABR Waves I to V: Generators and *Normal* Latencies",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn the generators and normal latencies of the ABR waves we record with these electrodes.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

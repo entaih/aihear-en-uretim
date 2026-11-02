@@ -1,0 +1,145 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R470_Not_Every_Difference_Is_Fluctuation_EN",
+ "kapak": {
+  "ust": "QUICK FACT #470",
+  "baslik": "Not every *difference*",
+  "alt": "Comparing serial audiograms",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      35,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      40,
+      40,
+      30,
+      25,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Is every difference between two audiograms a fluctuation? #shorts",
+  "aciklama": "Repeated measurements in the same person usually differ by five decibels or less; such small differences do not count as fluctuation. Repeated changes of ten decibels or more, in the same direction at adjacent frequencies, point more strongly to true fluctuation; bone conduction changing in the same direction as air conduction confirms that the change is sensorineural. Serial measurements use the same audiometer, the same earphones and the same method, and the timing of each measurement relative to an attack is recorded.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "Meniere",
+   "audiogram"
+  ],
+  "etiketler": [
+   "serial audiograms",
+   "fluctuating hearing loss",
+   "Meniere's disease",
+   "test-retest difference",
+   "bone conduction",
+   "case study",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Is every difference between two audiograms a fluctuation?",
+  "bilgiler": [
+   "Repeated measurements usually differ by 5 dB or less.",
+   "Same-direction changes of 10 dB or more at adjacent frequencies weigh more.",
+   "The timing of each test relative to an attack is recorded."
+  ],
+  "hashtag": [
+   "audiology",
+   "Meniere",
+   "audiogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #470",
+   "metin": "Every difference *a fluctuation?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Is every difference between two audiograms a fluctuation?"
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "zincir",
+   "baslik": "True *fluctuation*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Within 5 dB",
+     "tr": "not fluctuation",
+     "cumle": 0
+    },
+    {
+     "ad": "10 dB or more",
+     "tr": "adjacent frequencies",
+     "cumle": 1
+    },
+    {
+     "ad": "Bone conduction",
+     "tr": "same direction",
+     "cumle": 2
+    }
+   ],
+   "alt": "Same audiometer, _same method_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Repeated measurements in one person usually stay within five decibels.",
+    "Same-direction changes of ten decibels or more at adjacent frequencies weigh more.",
+    "Bone conduction moving the same way confirms the change is sensorineural.",
+    "The timing of each test relative to an attack is also recorded."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D275",
+ "kaynak_baslik": "Case: Fluctuating Low-Frequency Loss in Meniere's"
+}

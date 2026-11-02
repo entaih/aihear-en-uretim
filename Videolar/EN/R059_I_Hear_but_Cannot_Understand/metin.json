@@ -1,0 +1,136 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R059_I_Hear_but_Cannot_Understand_EN",
+ "kapak": {
+  "ust": "QUICK FACT #59",
+  "baslik": "I hear, but *can't understand*",
+  "alt": "Age-related loss takes the high consonants",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      55,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      20,
+      40,
+      55,
+      70
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "I hear you, but I can't understand: why does this happen? #shorts",
+  "aciklama": "Age-related hearing loss (presbycusis) starts at the high frequencies. Consonants such as s, sh, f, t and k are lost; vowels are still heard, so sound comes through but words cannot be made out clearly.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "aging"
+  ],
+  "etiketler": [
+   "presbycusis",
+   "age-related hearing loss",
+   "I hear but cannot understand",
+   "high-frequency hearing loss",
+   "consonants",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "I hear you, but I can't understand: why does this happen?",
+  "bilgiler": [
+   "Age-related hearing loss starts at the high frequencies.",
+   "Consonants such as s, sh, f, t and k are lost most easily.",
+   "Vowels are heard; words cannot be made out clearly."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "aging"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #59",
+   "metin": "I hear, but *I can't understand*: why?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "I hear you, but I can't understand: why does this happen?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Age-related *hearing loss*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "High-frequency loss",
+     "cumle": 0,
+     "tr": "starts first"
+    },
+    {
+     "ad": "Consonants",
+     "cumle": 1,
+     "tr": "s, sh, f, t, k"
+    },
+    {
+     "ad": "Understanding",
+     "cumle": 2,
+     "tr": "gets harder"
+    }
+   ],
+   "alt": "Vowels are heard; _words are not clear_.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Age-related hearing loss starts at the high frequencies.",
+    {
+     "yazi": "Consonants like s, sh, f, t and k are lost most easily.",
+     "ses": "Consonants like ess, shh, eff, tee and kay are lost most easily."
+    },
+    "Vowels are still heard, so sound comes through, but words blur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D139",
+ "kaynak_baslik": "Presbycusis"
+}

@@ -1,0 +1,708 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D058_How_An_Audiometer_Works_EN",
+ "kapak": {
+  "ust": "LESSON 58",
+  "baslik": "How an audiometer<br>*works*",
+  "alt": "Controls and transducers",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "How an Audiometer Works: Controls and Transducers | Lesson 58 | AIHEAR Audiology Academy",
+  "aciklama": "An audiometer is a device that produces calibrated test sounds and delivers them through earphones, a bone vibrator or a loudspeaker. In this lesson we compare the frequency, intensity, presentation and output controls, zero dB HL and calibration, continuous and pulsed tones, supra-aural and insert earphones, the bone vibrator and the sound-field loudspeaker.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; IEC 60645-1, Electroacoustics - Audiometric equipment - Part 1: Equipment for pure-tone and speech audiometry; ANSI S3.6, Specification for Audiometers; ISO 389 series, Acoustics - Reference zero for the calibration of audiometric equipment.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "hearing"
+  ],
+  "etiketler": [
+   "audiometer",
+   "supra-aural earphone",
+   "insert earphone",
+   "bone vibrator",
+   "sound field",
+   "calibration",
+   "pure-tone audiometry",
+   "interaural attenuation",
+   "pulsed tone",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 58",
+   "baslik": "How an audiometer *works*",
+   "alt": "Controls and transducers",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will get to know the audiometer, the basic tool of pure-tone audiometry, and its controls.",
+    "We will compare the transducers that deliver sound to the ear: earphones, the bone vibrator and the loudspeaker."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The audiometer",
+   "baslik": "What is an *audiometer*?",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "audiometer",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "earphones: air conduction",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "bone vibrator",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "patient response button",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "cihaz",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "An audiometer is an electronic device that produces calibrated test sounds at set frequencies and intensities."
+    },
+    "The sounds it produces are delivered to the ear or the skull through transducers.",
+    "Earphones are used for air-conduction testing, and a bone vibrator for bone-conduction testing.",
+    "When the patient hears the sound, they press the response button and a light comes on at the device.",
+    "The features and accuracy of audiometers are defined by international standards.",
+    "Standards divide audiometers into types, from full clinical devices to screening devices that test air conduction only."
+   ]
+  },
+  {
+   "id": "kontroller",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The audiometer",
+   "baslik": "Basic *controls*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frequency",
+     "metin": "Tone frequency (Hz)",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Intensity (attenuator)",
+     "metin": "Level, dB HL",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Tone presenter",
+     "metin": "Turns the sound on and off",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Output selector",
+     "metin": "Right, left, bone, speaker",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Second channel",
+     "metin": "Noise to the other ear",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Every audiometer has a few basic controls.",
+    "The frequency control selects the tone frequency; air conduction usually covers one hundred twenty five to eight thousand hertz.",
+    "The intensity control, or attenuator, changes the level in decibels HL, in five decibel steps on most devices.",
+    "The tone presenter delivers the sound at the chosen moment and for the chosen duration.",
+    "The output selector sends the sound to the right or left earphone, the bone vibrator or the loudspeaker.",
+    "On two-channel devices, the second channel is used to deliver masking noise to the non-test ear."
+   ]
+  },
+  {
+   "id": "sifir_db",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The audiometer",
+   "baslik": "Zero dB HL and *calibration*",
+   "maddeler": [
+    {
+     "metin": "0 dB HL: _average_ normal-hearing threshold",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Each frequency, transducer: _own_ reference",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Brief daily _listening_ check",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Regular _measured_ calibration",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "An audiometer's zero decibels HL is not silence; it is the average threshold of young people with normal hearing.",
+    "This zero point matches a different sound pressure level for each frequency and each transducer; these values are given in standards.",
+    "That is why normal hearing appears on the audiogram as a flat line around zero at all frequencies.",
+    "A brief daily listening check of the device is recommended.",
+    "In addition, the audiometer is usually calibrated with measuring equipment at least once a year.",
+    "Thresholds found with a poorly calibrated device are wrong, however correct the method."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The audiometer",
+   "baslik": "Speech and *communication* sections",
+   "maddeler": [
+    {
+     "metin": "Speech input: _microphone_ and recordings",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "VU meter: speech _level_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Masking _noises_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Talkback to the _booth_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Clinical audiometers also have a microphone input and an input for recorded material for speech tests.",
+    {
+     "yazi": "The speech level is monitored and adjusted with a meter called the VU meter.",
+     "ses": "The speech level is monitored and adjusted with a meter called the V.U. meter."
+    },
+    "For masking there are options such as narrowband noise, speech noise and broadband noise.",
+    "There is also a talkback system for two-way conversation between the booth and the control room.",
+    "We will use these sections in detail in the speech audiometry and masking lessons."
+   ]
+  },
+  {
+   "id": "sunum",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The audiometer",
+   "baslik": "Tone *presentation* modes",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Continuous tone",
+     "metin": "Unbroken while the key is held",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Pulsed tone",
+     "metin": "Switches on and off briefly",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Detection",
+     "metin": "Pulsed tones are easier to notice",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "With tinnitus",
+     "metin": "Helps tell it from the ringing",
+     "cumle": 4
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sound field",
+     "metin": "Frequency-modulated tone",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The test tone can be given as continuous or pulsed; both are used in the clinic.",
+    "A continuous tone plays without a break as long as the tone key is held down.",
+    "In a pulsed tone, the sound switches on and off several times a second.",
+    "Pulsed tones make the sound easier to notice for many patients.",
+    "Especially in patients with tinnitus, a pulsed tone helps tell the test sound apart from the ringing.",
+    "In tests through a loudspeaker, frequency-modulated tones, whose frequency wobbles slightly, are used.",
+    "The tone always switches on and off smoothly so no click is heard; what matters is using a consistent mode for the same patient."
+   ]
+  },
+  {
+   "id": "supra",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers",
+   "baslik": "*Supra-aural* earphones",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "supra-aural earphone",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "IA about 40 dB",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Risk of canal collapse",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Limited noise isolation",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kulaklik",
+     "cumle": 0,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "A supra-aural earphone is a cushioned earphone that sits on top of the pinna.",
+    {
+     "yazi": "Models used in the clinic for many years include the TDH-39 and the DD45.",
+     "ses": "Models used in the clinic for many years include the T.D.H. thirty nine and the D.D. forty five."
+    },
+    "It is quick and easy to put on; nothing goes into the ear canal, so it is comfortable for people with sensitive ear canals.",
+    "Its interaural attenuation is low, about forty decibels, so masking is needed more often.",
+    "In some people, the pressure of the earphone can cause the ear canal to collapse, a collapsing ear canal.",
+    "The ear cushion reduces room noise only to a limited extent."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers",
+   "baslik": "*Insert* earphones",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "Foam tip in the ear canal",
+     "cumle": 0
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "Thin sound tube",
+     "cumle": 0
+    },
+    {
+     "parca": "transduser",
+     "metin": "Transducer",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 0
+    },
+    {
+     "parca": "transduser",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "IA about 55 dB",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Prevents canal collapse",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Single-use tip",
+     "cumle": 4,
+     "ikon": "enfeksiyon"
+    }
+   ],
+   "cumleler": [
+    "An insert earphone delivers sound into the ear canal through a thin tube and a foam tip.",
+    {
+     "yazi": "Common models in the clinic include the ER-3A and the IP30.",
+     "ses": "Common models in the clinic include the E.R. three A and the I.P. thirty."
+    },
+    "Its interaural attenuation is higher; the conservative value is about fifty five decibels, and it is even higher at low frequencies.",
+    "Because it keeps the ear canal open, it prevents collapse and isolates room noise better.",
+    "The foam tips are single-use, which is also an advantage for hygiene.",
+    "However, it may not be usable if there is discharge in the ear canal or the canal has not developed, that is, atresia."
+   ],
+   "ayar": {
+    "insert": true
+   }
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers",
+   "baslik": "Supra-aural or *insert*?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supra-aural",
+     "metin": "Quick and easy to fit",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Low IA",
+     "metin": "About 40 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Collapse risk",
+     "metin": "The ear canal may collapse",
+     "cumle": 2
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert",
+     "metin": "IA about 55 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Good isolation",
+     "metin": "Prevents collapse",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Correct placement",
+     "metin": "Tip size and depth matter",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Both earphone types have a place in the clinic; the choice depends on the patient and the test.",
+    "A supra-aural earphone is quick to fit, and nothing has to go into the ear canal.",
+    "On the other hand, its interaural attenuation is low and it carries a risk of canal collapse.",
+    "An insert earphone reduces the need for masking, prevents collapse and isolates room noise better.",
+    "But the right tip size must be chosen and the tip inserted to an adequate depth.",
+    "Supra-aural earphones have long been widely used, and the use of insert earphones keeps growing."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers",
+   "baslik": "Earphones and *cross-hearing*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40,
+    "test_kulak": "sag"
+   },
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "test ear",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "non-test ear",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: 40 dB",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "The earphone type determines how easily the test sound crosses to the other ear.",
+    "With a supra-aural earphone, a seventy decibel sound, attenuated by forty decibels, can reach the other cochlea at about thirty decibels.",
+    "With an insert earphone, the same sound is attenuated by at least fifty five decibels and reaches the other side at about fifteen decibels.",
+    "So with insert earphones, fewer frequencies need masking, especially in asymmetric losses.",
+    "We will cover the rules of masking in detail in separate lessons later."
+   ]
+  },
+  {
+   "id": "vibrator",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers",
+   "baslik": "The bone *vibrator*",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "bone vibrator",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Mastoid or forehead",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Usually 250 to 4000 Hz",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "IA about 0 dB",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A bone vibrator turns the electrical signal into mechanical vibration that is carried to the skull."
+    },
+    {
+     "yazi": "Common models in the clinic include the B-71 and the B-81.",
+     "ses": "Common models in the clinic include the B seventy one and the B eighty one."
+    },
+    "The vibrator is placed on the mastoid or the forehead with a headband.",
+    "Its maximum output is much lower than that of earphones, and the test range is usually two hundred fifty to four thousand hertz.",
+    "In bone conduction, interaural attenuation is about zero, so unmasked bone conduction reflects the better of the two cochleae."
+   ]
+  },
+  {
+   "id": "hoparlor",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers",
+   "baslik": "The *sound-field* loudspeaker",
+   "maddeler": [
+    {
+     "metin": "Sound from the booth _loudspeaker_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Modulated tone or _narrowband_ noise",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Result reflects the _better ear_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Children and _aided_ testing",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SOUND FIELD",
+    "metin": "The result shows the *better-hearing* ear",
+    "cumle": 3
+   },
+   "cumleler": [
+    "In sound-field testing, sound is given from a loudspeaker in the booth instead of through earphones.",
+    "The patient sits at a set distance and angle from the loudspeaker, and calibration is done for this listening position.",
+    "To avoid standing waves in the room, frequency-modulated tones or narrowband noise are used instead of pure tones.",
+    "Because the sound reaches both ears, the result reflects the hearing of the better ear.",
+    "Sound field is used with young children who will not wear earphones, and for measurements with hearing aids or implants.",
+    "If the patient's head position changes, the sound level reaching the ear changes too, so the seating position is kept fixed."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers",
+   "baslik": "Clinical tip",
+   "metin": "Before the day starts, give every earphone and the vibrator a brief listening check. Cable crackle, swapped right and left, or lost sound can silently ruin results.",
+   "cumleler": [
+    "A clinical tip: every morning, before the first patient, do a brief listening check of the audiometer.",
+    "Listen to a few frequencies at a low level through each earphone and the vibrator, and confirm right and left come from the correct side.",
+    "Gently move the cables to check for crackling or dropouts.",
+    "This short check protects the reliability of every measurement made during the day."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Controls: _frequency_, intensity, presentation, output",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "0 dB HL: _average_ normal-hearing threshold",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Insert: _higher_ IA, no collapse",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Bone vibrator IA _about 0 dB_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "The basic controls of an audiometer are frequency, intensity, tone presentation and output selection.",
+    "Zero decibels HL is the average threshold of young people with normal hearing and is calibrated separately for each transducer.",
+    "Insert earphones give higher interaural attenuation than supra-aural earphones and prevent canal collapse.",
+    "With the bone vibrator, interaural attenuation is about zero, and a sound-field result reflects the better-hearing ear."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which transducer has the highest interaural attenuation?",
+   "secenekler": [
+    "Supra-aural earphone",
+    "Insert earphone",
+    "Bone vibrator",
+    "Sound-field loudspeaker"
+   ],
+   "dogru": 1,
+   "aciklama": "Conservative IA is about _55 dB_ for inserts, 40 dB for supra-aural, 0 dB for the vibrator.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which transducer has the highest interaural attenuation?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the insert earphone."
+    },
+    "The conservative value is about fifty five decibels for insert earphones, forty for supra-aural earphones and zero for the bone vibrator."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Preparing for *Pure-Tone* Audiometry",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how to prepare for the test, how to instruct the patient and how to place earphones correctly.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

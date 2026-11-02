@@ -1,0 +1,1392 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D112_Wideband_Immittance_Absorbance_EN",
+ "kapak": {
+  "ust": "LESSON 112",
+  "baslik": "Wideband<br>*absorbance*",
+  "alt": "Wideband acoustic immittance",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "prob": "timpanometri"
+  }
+ },
+ "youtube": {
+  "baslik": "Wideband Acoustic Immittance and Absorbance | Lesson 112 | AIHEAR Audiology Academy",
+  "aciklama": "How do we measure the middle ear over a wide frequency range rather than with a single tone? In this lesson we cover wideband acoustic immittance, energy reflectance and absorbance, the normal absorbance curve, wideband tympanometry, the patterns seen in effusion, otosclerosis and ossicular discontinuity, and its use in infants.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Feeney et al. (2013), Consensus statement: Eriksholm workshop on wideband absorbance measures of the middle ear, Ear and Hearing; Keefe, Ling and Bulen (1992), Method to measure acoustic impedance and reflection coefficient, Journal of the Acoustical Society of America; Feeney, Grant and Marryott (2003), Wideband energy reflectance measurements in adults with middle-ear disorders, Journal of Speech, Language, and Hearing Research; Shahnaz et al. (2009), Energy reflectance and tympanometry in normal and otosclerotic ears, Ear and Hearing; Hunter and Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "immittance",
+   "absorbance"
+  ],
+  "etiketler": [
+   "wideband acoustic immittance",
+   "WAI",
+   "absorbance",
+   "energy reflectance",
+   "wideband tympanometry",
+   "WBT",
+   "middle ear",
+   "otitis media with effusion",
+   "infant middle ear",
+   "immittance audiometry",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 112",
+   "baslik": "Wideband immittance and *absorbance*",
+   "alt": "Measuring the middle ear over a wide frequency range",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we learn about wideband acoustic immittance, which measures the middle ear over a wide frequency range at once.",
+    "We will see the concept of absorbance, the normal curve, wideband tympanometry and typical patterns in middle ear disorders."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Going wideband",
+   "baslik": "From one tone to *wideband*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Routine",
+     "metin": "Single tone: 226 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Multifrequency",
+     "metin": "Up to about 2000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Wideband",
+     "metin": "226 to 8000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Stimulus",
+     "metin": "Click or chirp",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Routine tympanometry examines the middle ear at a single frequency, and multifrequency tympanometry up to about two kilohertz.",
+    "Yet the middle ear transmits sound over a much wider frequency range, one that matters for speech.",
+    "Wideband acoustic immittance, or WAI, measures the middle ear from two hundred twenty six to eight thousand hertz.",
+    "Instead of individual tones, the measurement uses a short, broadband click or chirp stimulus and takes a few seconds.",
+    "The clinical basis of the method was laid by Keefe and colleagues in the nineteen nineties.",
+    "WAI is an umbrella term; it covers many measures, such as energy reflectance, absorbance, impedance and admittance."
+   ]
+  },
+  {
+   "id": "yansima",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Going wideband",
+   "baslik": "Reflected and *absorbed* sound",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ses_dalgasi",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Some goes in, some comes back",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Microphone: incident and reflected sound",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Reflectance: share of power _returned_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Absorbance: share of power _taken in_",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Absorbance = _1 minus reflectance_",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "The probe sends a broadband sound into the ear canal, and this sound reaches the tympanic membrane.",
+    "Part of the sound passes through the drum to the middle ear and cochlea, and part is reflected back into the ear canal.",
+    "The microphone in the probe records the incident and reflected sound together.",
+    "At each frequency, the ratio of reflected power to incident power is called energy reflectance.",
+    "The proportion of power that is not reflected, that is, passed into the middle ear, is called absorbance.",
+    "The two add up to one; absorbance is one minus energy reflectance.",
+    "If absorbance is one, all the sound is taken in; if it is zero, all of it is reflected."
+   ]
+  },
+  {
+   "id": "normal_egri",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Going wideband",
+   "baslik": "The normal *absorbance* curve",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbance"
+    },
+    "seriler": [
+     {
+      "ad": "norm_alt",
+      "noktalar": [
+       [
+        250,
+        0.02
+       ],
+       [
+        500,
+        0.18
+       ],
+       [
+        750,
+        0.33
+       ],
+       [
+        1000,
+        0.43
+       ],
+       [
+        1500,
+        0.53
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.63
+       ],
+       [
+        4000,
+        0.56
+       ],
+       [
+        6000,
+        0.28
+       ],
+       [
+        8000,
+        0.13
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 5
+     },
+     {
+      "ad": "norm_ust",
+      "noktalar": [
+       [
+        250,
+        0.26
+       ],
+       [
+        500,
+        0.44
+       ],
+       [
+        750,
+        0.59
+       ],
+       [
+        1000,
+        0.69
+       ],
+       [
+        1500,
+        0.79
+       ],
+       [
+        2000,
+        0.86
+       ],
+       [
+        3000,
+        0.89
+       ],
+       [
+        4000,
+        0.82
+       ],
+       [
+        6000,
+        0.54
+       ],
+       [
+        8000,
+        0.39
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 5
+     },
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        250,
+        0.12
+       ],
+       [
+        500,
+        0.3
+       ],
+       [
+        750,
+        0.45
+       ],
+       [
+        1000,
+        0.55
+       ],
+       [
+        1500,
+        0.65
+       ],
+       [
+        2000,
+        0.72
+       ],
+       [
+        3000,
+        0.75
+       ],
+       [
+        4000,
+        0.68
+       ],
+       [
+        6000,
+        0.4
+       ],
+       [
+        8000,
+        0.25
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "normal adult",
+      "etiket_konum": [
+       3000,
+       0.75
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -16,
+      "etiket_hiza": "middle"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "en_yuksek",
+      "x": [
+       1000,
+       4000
+      ],
+      "renk": "sari",
+      "etiket": "most energy goes in",
+      "cumle": 2,
+      "opak": 0.15
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "normal",
+     "cumle": 1
+    },
+    {
+     "parca": "en_yuksek",
+     "cumle": 3
+    },
+    {
+     "parca": "norm_alt",
+     "cumle": 5
+    },
+    {
+     "parca": "norm_ust",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The result is shown as a curve with frequency on the horizontal axis and absorbance from zero to one on the vertical axis.",
+    "In a normal adult ear, absorbance is low at low frequencies; most of the sound is reflected.",
+    "Absorbance rises from about one kilohertz and reaches its highest values between one and four kilohertz.",
+    "In this region most incoming energy passes to the middle ear; unsurprisingly, it overlaps with the ear's most sensitive frequencies.",
+    "At higher frequencies absorbance falls again.",
+    "The dashed gray lines show the normal range; the curves are representative, and norms vary with device, age and population.",
+    "The basic logic of interpretation is to see where the patient's curve falls relative to this normal range."
+   ]
+  },
+  {
+   "id": "avantaj",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Going wideband",
+   "baslik": "*Advantages* of wideband",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Wide range",
+     "metin": "Speech frequencies",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "No pressure needed",
+     "metin": "At ambient pressure",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Probe position",
+     "metin": "Less sensitive",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Fast, passive",
+     "metin": "Suitable for infants",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Extra information",
+     "metin": "Tympanogram, resonance",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Wideband measurement has several important advantages.",
+    "It provides information over a wide range that covers most speech frequencies.",
+    "It can be done at ambient pressure, without pressurizing the ear canal; this helps when applying pressure is undesirable.",
+    "Absorbance is less affected by standing waves in the ear canal than sound pressure is, so it is less sensitive to probe position.",
+    "The measurement is fast and needs no response from the patient; it is also suitable for infants and young children.",
+    "Extra information, such as wideband tympanometry and resonant frequency, can be obtained from the same measurement."
+   ]
+  },
+  {
+   "id": "wbt",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Wideband tympanometry",
+   "baslik": "Ambient pressure and *peak pressure*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbance"
+    },
+    "seriler": [
+     {
+      "ad": "ortam",
+      "noktalar": [
+       [
+        250,
+        0.06
+       ],
+       [
+        500,
+        0.12
+       ],
+       [
+        750,
+        0.2
+       ],
+       [
+        1000,
+        0.28
+       ],
+       [
+        1500,
+        0.42
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.72
+       ],
+       [
+        4000,
+        0.66
+       ],
+       [
+        6000,
+        0.4
+       ],
+       [
+        8000,
+        0.25
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "kalin": 4,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "at ambient pressure",
+      "etiket_konum": [
+       1000,
+       0.28
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": 24
+     },
+     {
+      "ad": "tepe",
+      "noktalar": [
+       [
+        250,
+        0.11
+       ],
+       [
+        500,
+        0.27
+       ],
+       [
+        750,
+        0.42
+       ],
+       [
+        1000,
+        0.53
+       ],
+       [
+        1500,
+        0.63
+       ],
+       [
+        2000,
+        0.7
+       ],
+       [
+        3000,
+        0.74
+       ],
+       [
+        4000,
+        0.67
+       ],
+       [
+        6000,
+        0.4
+       ],
+       [
+        8000,
+        0.25
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "at peak pressure",
+      "etiket_konum": [
+       750,
+       0.42
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -14,
+      "etiket_hiza": "end"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ortam",
+     "cumle": 2
+    },
+    {
+     "parca": "tepe",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Wideband measurement can also be combined with a pressure sweep; this is called wideband tympanometry, or WBT.",
+    {
+     "yazi": "At each pressure step, absorbance is measured at all frequencies; the result is a 3D surface of frequency, pressure and absorbance.",
+     "ses": "At each pressure step, absorbance is measured at all frequencies; the result is a three dimensional surface of frequency, pressure and absorbance."
+    },
+    "Two practical slices are taken from this surface: absorbance at ambient pressure and absorbance at tympanometric peak pressure.",
+    "This example has negative middle ear pressure; the curve at peak pressure is clearly higher than the curve at ambient pressure.",
+    "Some devices also plot a curve resembling a classic tympanogram, using the average absorbance over a set frequency range.",
+    "The resonant frequency of the middle ear can also be estimated from the same measurement."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Wideband tympanometry",
+   "baslik": "Measurement *steps*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy",
+     "metin": "Wax, perforation, tube",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Probe placement",
+     "metin": "Leak check",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ambient pressure",
+     "metin": "Absorbance curve",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Pressure sweep",
+     "metin": "WBT if needed",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Compare",
+     "metin": "Age-appropriate norms",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Wideband measurement also follows a set order.",
+    "First, the ear canal and drum are checked with otoscopy; wax, a perforation or a tube is noted.",
+    "A probe tip of the right size for the ear canal is chosen, and the device's check screen confirms there is no leak.",
+    "Then the absorbance curve is recorded at ambient pressure; this takes a few seconds.",
+    "If needed, a pressure sweep is done to obtain the curve at peak pressure and the wideband tympanogram.",
+    "Finally, the curve is compared with norms for the same device and age."
+   ]
+  },
+  {
+   "id": "efuzyon",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Absorbance in disorders",
+   "baslik": "*Fluid* in the middle ear",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbance"
+    },
+    "seriler": [
+     {
+      "ad": "norm_alt",
+      "noktalar": [
+       [
+        250,
+        0.02
+       ],
+       [
+        500,
+        0.18
+       ],
+       [
+        750,
+        0.33
+       ],
+       [
+        1000,
+        0.43
+       ],
+       [
+        1500,
+        0.53
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.63
+       ],
+       [
+        4000,
+        0.56
+       ],
+       [
+        6000,
+        0.28
+       ],
+       [
+        8000,
+        0.13
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "norm_ust",
+      "noktalar": [
+       [
+        250,
+        0.26
+       ],
+       [
+        500,
+        0.44
+       ],
+       [
+        750,
+        0.59
+       ],
+       [
+        1000,
+        0.69
+       ],
+       [
+        1500,
+        0.79
+       ],
+       [
+        2000,
+        0.86
+       ],
+       [
+        3000,
+        0.89
+       ],
+       [
+        4000,
+        0.82
+       ],
+       [
+        6000,
+        0.54
+       ],
+       [
+        8000,
+        0.39
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "efuzyon",
+      "noktalar": [
+       [
+        250,
+        0.04
+       ],
+       [
+        500,
+        0.06
+       ],
+       [
+        750,
+        0.08
+       ],
+       [
+        1000,
+        0.1
+       ],
+       [
+        1500,
+        0.12
+       ],
+       [
+        2000,
+        0.14
+       ],
+       [
+        3000,
+        0.15
+       ],
+       [
+        4000,
+        0.12
+       ],
+       [
+        6000,
+        0.08
+       ],
+       [
+        8000,
+        0.06
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "effusion",
+      "etiket_konum": [
+       3000,
+       0.15
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -14,
+      "etiket_hiza": "middle"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "efuzyon",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "When there is fluid in the middle ear, the movement of the drum is restricted and most of the sound is reflected.",
+    "So in an ear with effusion, absorbance is clearly low at almost all frequencies.",
+    "The more fluid there is, the lower the absorbance; with partial fluid, the drop may be more limited.",
+    "Studies suggest wideband absorbance may detect effusion as well as two hundred twenty six hertz tympanometry, or better.",
+    "This is especially valuable in infants and young children.",
+    "The curves on the graph are representative."
+   ]
+  },
+  {
+   "id": "skleroz_kopukluk",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Absorbance in disorders",
+   "baslik": "Stiffness and *discontinuity* patterns",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbance"
+    },
+    "seriler": [
+     {
+      "ad": "norm_alt",
+      "noktalar": [
+       [
+        250,
+        0.02
+       ],
+       [
+        500,
+        0.18
+       ],
+       [
+        750,
+        0.33
+       ],
+       [
+        1000,
+        0.43
+       ],
+       [
+        1500,
+        0.53
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.63
+       ],
+       [
+        4000,
+        0.56
+       ],
+       [
+        6000,
+        0.28
+       ],
+       [
+        8000,
+        0.13
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "norm_ust",
+      "noktalar": [
+       [
+        250,
+        0.26
+       ],
+       [
+        500,
+        0.44
+       ],
+       [
+        750,
+        0.59
+       ],
+       [
+        1000,
+        0.69
+       ],
+       [
+        1500,
+        0.79
+       ],
+       [
+        2000,
+        0.86
+       ],
+       [
+        3000,
+        0.89
+       ],
+       [
+        4000,
+        0.82
+       ],
+       [
+        6000,
+        0.54
+       ],
+       [
+        8000,
+        0.39
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "otoskleroz",
+      "noktalar": [
+       [
+        250,
+        0.04
+       ],
+       [
+        500,
+        0.1
+       ],
+       [
+        750,
+        0.2
+       ],
+       [
+        1000,
+        0.3
+       ],
+       [
+        1500,
+        0.48
+       ],
+       [
+        2000,
+        0.62
+       ],
+       [
+        3000,
+        0.72
+       ],
+       [
+        4000,
+        0.66
+       ],
+       [
+        6000,
+        0.38
+       ],
+       [
+        8000,
+        0.24
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "otosclerosis",
+      "etiket_konum": [
+       750,
+       0.2
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 24
+     },
+     {
+      "ad": "kopukluk",
+      "noktalar": [
+       [
+        250,
+        0.35
+       ],
+       [
+        500,
+        0.75
+       ],
+       [
+        600,
+        0.88
+       ],
+       [
+        700,
+        0.8
+       ],
+       [
+        800,
+        0.55
+       ],
+       [
+        1000,
+        0.5
+       ],
+       [
+        1500,
+        0.6
+       ],
+       [
+        2000,
+        0.66
+       ],
+       [
+        3000,
+        0.7
+       ],
+       [
+        4000,
+        0.64
+       ],
+       [
+        6000,
+        0.38
+       ],
+       [
+        8000,
+        0.22
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "ossicular discontinuity",
+      "etiket_konum": [
+       600,
+       0.88
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -12,
+      "etiket_hiza": "end"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "pes_bolge",
+      "x": [
+       226,
+       1000
+      ],
+      "renk": "sari",
+      "etiket": "below 1 kHz",
+      "cumle": 1,
+      "opak": 0.12
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "otoskleroz",
+     "cumle": 1
+    },
+    {
+     "parca": "kopukluk",
+     "cumle": 3
+    },
+    {
+     "parca": "pes_bolge",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In otosclerosis, fixation of the stapes footplate stiffens the system.",
+    "In this case absorbance drops, especially at low and mid frequencies, below about one kilohertz.",
+    "In ossicular discontinuity the picture is reversed: the system becomes looser and absorbance rises at low frequencies.",
+    "With discontinuity, a clear, narrow absorbance peak is often seen below about one kilohertz.",
+    "These patterns can help separate the two conditions when their two hundred twenty six hertz tympanograms look alike.",
+    "Absorbance also rises at low frequencies with a perforation, but then the ear canal volume is larger than expected.",
+    "The patterns overlap; absorbance is always interpreted together with otoscopy, the audiogram and reflex findings."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Absorbance in disorders",
+   "baslik": "Other conditions that *change* the curve",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Negative pressure",
+     "metin": "Corrects at peak pressure",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Leak",
+     "metin": "False high low-frequency absorbance",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Probe placement",
+     "metin": "Check first",
+     "cumle": 3
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Wax, debris",
+     "metin": "Otoscopy first",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A few more conditions change the absorbance curve.",
+    "With negative middle ear pressure, absorbance at ambient pressure drops at low and mid frequencies; measured at peak pressure, it recovers.",
+    "A poorly seated probe and an air leak give falsely high absorbance at low frequencies, which can mimic discontinuity.",
+    "So checking probe placement and leaks before the measurement is important.",
+    "Wax or debris blocking the ear canal also spoils the measurement, so otoscopy comes first."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Infants and the clinic",
+   "baslik": "*Wideband* in infants",
+   "maddeler": [
+    {
+     "metin": "The newborn ear canal is _compliant_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Vernix or _amniotic fluid_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Helps _separate_ temporary conductive problems",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "_Age-appropriate_ norms",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "BABY WHO DID NOT PASS",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Temporary problem",
+      "metin": "Low absorbance",
+      "cumle": 3
+     },
+     {
+      "ikon": "noron",
+      "baslik": "Sensorineural",
+      "metin": "Absorbance may be normal",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Wideband measurement is a particularly promising method in infants.",
+    "Because the newborn ear canal is soft and compliant, two hundred twenty six hertz tympanometry can be misleading.",
+    "In the first days after birth, there may be vernix in the ear canal and residual amniotic fluid in the middle ear.",
+    "In a baby who did not pass screening, wideband absorbance has been shown to help identify such temporary conductive problems.",
+    "Infant norms differ from adult norms and change quickly in the first months, so age-appropriate norms are used.",
+    "Clinical use in this area is growing, but standard criteria are not yet fully established."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Infants and the clinic",
+   "baslik": "*Limitations* of the method",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Norm differences",
+     "metin": "Device, age, population",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Access",
+     "metin": "Not in every clinic",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Seal",
+     "metin": "Good placement is essential",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Complementary test",
+     "metin": "Does not replace tympanometry",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Wideband measurement also has limitations.",
+    "Norms vary with device, age and population; results from different devices cannot be compared directly.",
+    "The devices are not yet available in every clinic, and interpretation takes experience.",
+    "The measurement depends on good probe placement and a leak-free seal.",
+    "So for now wideband immittance does not replace routine tympanometry; it is a complementary test."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If you see unexpectedly high absorbance at low frequencies, think of a leak first: reseat the probe and measure again, then check the volume and the drum.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from the clinic: when you see unexpectedly high absorbance at low frequencies, think of a leak first.",
+    "Reseat the probe and repeat the measurement; if the curve changes, the first result was most likely a leak.",
+    "Rule out a perforation or a tube by checking the ear canal volume and otoscopy.",
+    "Only then move on to considering a condition such as ossicular discontinuity."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Absorbance = _1 minus energy reflectance_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Normally highest: _1 to 4 kHz_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Effusion _lowers_, discontinuity _raises_ lows",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Watch_ for leaks and norms",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Wideband immittance measures the middle ear from about two hundred twenty six to eight thousand hertz; absorbance is one minus reflectance.",
+    "In a normal adult, absorbance is low at low frequencies and reaches its highest values between one and four kilohertz.",
+    "Effusion lowers absorbance overall; otosclerosis lowers it at low frequencies, while ossicular discontinuity raises it there.",
+    "The result is interpreted with norms for the age and device, after checking for leaks, and together with other tests."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "If absorbance is 0.8, what is energy reflectance?",
+   "secenekler": [
+    "0.2",
+    "0.8",
+    "1.8",
+    "0.08"
+   ],
+   "dogru": 0,
+   "aciklama": "Absorbance and reflectance _add up to one_: 1 minus 0.8 = 0.2.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: if absorbance at a frequency is zero point eight, what is the energy reflectance?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: zero point two.",
+    "If eighty percent of the power passes into the middle ear, the remaining twenty percent is reflected back into the ear canal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Audiometer *Calibration*: Why and How",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we return to test equipment and learn why and how audiometers are calibrated.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

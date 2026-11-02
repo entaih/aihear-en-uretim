@@ -1,0 +1,767 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D006_How_Common_Is_Hearing_Loss_EN",
+ "kapak": {
+  "ust": "LESSON 6",
+  "baslik": "How<br>*common?*",
+  "alt": "Hearing loss worldwide and in Türkiye",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 2.5,
+    "ad": "Period",
+    "isaretler": [
+     1,
+     2
+    ],
+    "yazilar": {
+     "1": "Today",
+     "2": "2050"
+    }
+   },
+   "y": {
+    "min": 0,
+    "max": 3,
+    "adim": 1,
+    "ad": "Billion people"
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       1,
+       1.5
+      ]
+     ],
+     "renk": "mavi",
+     "etiket": "1.5 billion",
+     "etiket_konum": [
+      1,
+      1.5
+     ]
+    },
+    {
+     "ad": "b",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       2,
+       2.5
+      ]
+     ],
+     "renk": "kirmizi",
+     "etiket": "2.5 billion",
+     "etiket_konum": [
+      2,
+      2.5
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "How Common Is Hearing Loss? Global Facts and Figures | Lesson 6 | AIHEAR Audiology Academy",
+  "aciklama": "How common is hearing loss? We explain prevalence and incidence, the key figures of the WHO World Report on Hearing (2021), the definition of disabling hearing loss, the rise with age and the preventable causes. We also discuss what to watch for when reading data from Türkiye.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: WHO, World Report on Hearing (2021); WHO, Deafness and hearing loss (fact sheet); Chadha S, Kamenov K, Cieza A, The world report on hearing, 2021, Bulletin of the World Health Organization (2021); Hacettepe University Institute of Population Studies, Turkey Demographic and Health Survey 2018.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingloss",
+   "publichealth"
+  ],
+  "etiketler": [
+   "hearing loss prevalence",
+   "prevalence",
+   "incidence",
+   "World Report on Hearing",
+   "disabling hearing loss",
+   "WHO",
+   "preventable hearing loss",
+   "hearing loss statistics",
+   "epidemiology",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 6",
+   "baslik": "How *common* is hearing loss?",
+   "alt": "Hearing loss in numbers, worldwide and in Türkiye",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In the last lesson we saw the degrees of hearing loss; in this lesson we look at how common hearing loss is, in numbers.",
+    "We will learn prevalence and incidence, the key findings of the World Report on Hearing, and the preventable causes."
+   ]
+  },
+  {
+   "id": "kavram",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "Prevalence and *incidence*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Prevalence",
+     "cumle": 1,
+     "metin": "Proportion at one point in time"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Incidence",
+     "cumle": 2,
+     "metin": "New cases over a period"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Accumulation",
+     "cumle": 4,
+     "metin": "Permanent loss builds up with age"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "At birth",
+     "cumle": 5,
+     "metin": "How many per 1000 births?"
+    }
+   ],
+   "cumleler": [
+    "Epidemiology uses two basic measures to describe how often a health problem occurs.",
+    "Prevalence is the proportion of people in a population who have the condition at a given point in time.",
+    "Incidence, on the other hand, is the proportion of new cases that appear over a given period.",
+    "Prevalence is like a photograph and incidence is like a film: one shows the current state, the other shows who joins.",
+    "Because hearing loss is often permanent and builds up over the years, its prevalence rises clearly in older age.",
+    "For congenital hearing loss, the figure is usually given per thousand births; this is the prevalence at birth."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "A town of *one thousand*",
+   "adimlar": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "1000 people",
+     "cumle": 0,
+     "metin": "50 have hearing loss today"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Prevalence",
+     "cumle": 1,
+     "metin": "5 percent"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "One year",
+     "cumle": 2,
+     "metin": "5 new cases"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Incidence",
+     "cumle": 3,
+     "metin": "About 5 per 1000"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Check the definition",
+     "cumle": 5,
+     "metin": "Age, degree, method"
+    }
+   ],
+   "cumleler": [
+    "Let us think about this with a small example: in a town of one thousand people, fifty have hearing loss today.",
+    "In this case, the prevalence is fifty per thousand, or five percent.",
+    "Over the next year, a new hearing loss appears in five people among those who had no loss.",
+    "This means an annual incidence of about five per thousand.",
+    "Because the loss is often permanent, by the end of the year the prevalence rises to about fifty five per thousand.",
+    "So when reading figures, check which measure is used, for which age group, and with which definition of hearing loss."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "World Report on Hearing",
+   "baslik": "World Report on *Hearing* 2021",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": "Period",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Today",
+      "2": "2050"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Billion people"
+    },
+    "seriler": [
+     {
+      "ad": "bugun_her",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        0.8,
+        1.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "1.5 billion",
+      "etiket_konum": [
+       0.8,
+       1.5
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "bugun_eng",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        1.2,
+        0.43
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "430 million",
+      "etiket_konum": [
+       1.2,
+       0.43
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "gelecek_her",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        1.8,
+        2.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "2.5 billion",
+      "etiket_konum": [
+       1.8,
+       2.5
+      ],
+      "cumle": 4
+     },
+     {
+      "ad": "gelecek_eng",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        2.2,
+        0.7
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "700 million",
+      "etiket_konum": [
+       2.2,
+       0.7
+      ],
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Blue: hearing loss of _any degree_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Red: _rehabilitation_ needed",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Cause: a _growing and aging_ population",
+     "cumle": 6,
+     "ikon": "yasli"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In 2021, the World Health Organization, or WHO, published its first World Report on Hearing.",
+     "ses": "In twenty twenty one, the World Health Organization, or WHO, published its first World Report on Hearing."
+    },
+    "According to the report, more than one and a half billion people live with some degree of hearing loss, about one in five people.",
+    "In about four hundred thirty million of them, the loss is disabling and requires rehabilitation.",
+    "This number corresponds to more than five percent of the world's population.",
+    {
+     "yazi": "The report estimates that by 2050 this number may rise to about two and a half billion, or one in four people.",
+     "ses": "The report estimates that by twenty fifty this number may rise to about two and a half billion, or one in four people."
+    },
+    "In the same year, at least seven hundred million people are expected to need hearing rehabilitation.",
+    "The main reason for this rise is that the world's population is both growing and aging."
+   ]
+  },
+  {
+   "id": "engelleyici",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "World Report on Hearing",
+   "baslik": "What is *disabling* hearing loss?",
+   "maddeler": [
+    {
+     "metin": "Better ear: over _35 dB HL_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Moderate and more severe _grades_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "One-sided loss _not counted here_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "1.5 billion broad, _430 million_ narrow",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        35,
+        35,
+        40,
+        50,
+        55
+       ],
+       "cumle": 5
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        50,
+        55,
+        60,
+        70,
+        75
+       ],
+       "cumle": 5
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 20,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "In the report, disabling hearing loss is a loss greater than thirty five decibels in the better hearing ear.",
+    "We remember this definition from the WHO grades in the last lesson: moderate and more severe grades fall into this group.",
+    "Using the better ear better reflects the difficulty the person has in everyday communication.",
+    "So a person with a severe loss in one ear but normal hearing in the other ear is not counted in this number.",
+    "So the large figure of one and a half billion also includes mild and one-sided losses; four hundred thirty million is a narrower group.",
+    "In the example on screen, the four-frequency average of the better right ear is forty decibels; this person has disabling loss."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Who is affected?",
+   "baslik": "At every age, *rising with age*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "At birth",
+     "cumle": 1,
+     "metin": "1 to 3 per 1000"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Children",
+     "cumle": 2,
+     "metin": "34 million with disabling loss"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Over 60",
+     "cumle": 3,
+     "metin": "More than one in four"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Aging societies",
+     "cumle": 4,
+     "metin": "The burden keeps growing"
+    }
+   ],
+   "cumleler": [
+    "Hearing loss can occur at any stage of life, but its prevalence rises quickly with age.",
+    "Permanent congenital hearing loss occurs in about one to three of every thousand newborns.",
+    "According to WHO, about thirty four million of those with disabling hearing loss are children.",
+    "More than one in four people over the age of sixty have disabling hearing loss.",
+    "So most of the need for rehabilitation is in older age, and in aging societies this burden keeps growing.",
+    "Still, each age has its own priority: language development in children, work in adults, communication and independence in older age."
+   ]
+  },
+  {
+   "id": "erisim",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Who is affected?",
+   "baslik": "A *large gap* in access to care",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "In low and middle income",
+      "2": "Not using a device"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Approximate share (%)"
+    },
+    "seriler": [
+     {
+      "ad": "gelir",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1,
+        80
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "about 80 percent",
+      "etiket_konum": [
+       1,
+       80
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "cihaz_acigi",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        2,
+        83
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "about 83 percent",
+      "etiket_konum": [
+       2,
+       83
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Audiologists: _under 1 per million_",
+     "cumle": 2,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Cost: _about 1 trillion dollars_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "About eighty percent of people with disabling hearing loss live in low and middle income countries.",
+    "In these countries, the number of professionals who provide hearing care is very limited.",
+    "According to the report, most low income countries have fewer than one audiologist per million people.",
+    "The gap in access is also large: about eighty three percent of people who could benefit from hearing aids do not use them.",
+    "The annual global cost of unaddressed hearing loss is estimated at about one trillion dollars.",
+    "This cost includes health spending, educational support, lost productivity and reduced quality of life."
+   ]
+  },
+  {
+   "id": "onlenebilir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Prevention and Türkiye",
+   "baslik": "Preventable *causes*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Vaccine preventable",
+     "cumle": 2,
+     "metin": "Measles, mumps, rubella"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Around birth",
+     "cumle": 3,
+     "metin": "Lack of oxygen, severe jaundice"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Middle ear",
+     "cumle": 4,
+     "metin": "Chronic infections"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoxic drugs",
+     "cumle": 5,
+     "metin": "Careful use and monitoring"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Loud sound",
+     "cumle": 6,
+     "metin": "Work and leisure"
+    }
+   ],
+   "cumleler": [
+    "One of the report's most important messages is that a large share of hearing loss is preventable.",
+    "According to WHO, about sixty percent of hearing loss in children is due to preventable causes.",
+    "Infections such as measles, mumps and rubella can be prevented by vaccination; meningitis is also an important cause.",
+    "Problems around birth, such as lack of oxygen during delivery and severe newborn jaundice, can also lead to hearing loss.",
+    "Chronic middle ear infections affect about two hundred million people worldwide, and most are preventable or treatable.",
+    "The harmful, or ototoxic, effect of some drugs on the ear can also be reduced with careful use and monitoring.",
+    "Noise is also preventable; more than one billion young people are at risk from personal music players and entertainment venues."
+   ]
+  },
+  {
+   "id": "yasam_boyu",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Prevention and Türkiye",
+   "baslik": "Prevention *across life*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Around birth",
+     "cumle": 1,
+     "metin": "Safe delivery, newborn care"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Childhood",
+     "cumle": 2,
+     "metin": "Vaccines, treatment, screening"
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Adulthood",
+     "cumle": 3,
+     "metin": "Noise and drugs"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Older age",
+     "cumle": 4,
+     "metin": "Regular checks"
+    }
+   ],
+   "cumleler": [
+    "WHO addresses these causes with a life-course approach; each stage of life has its own risks.",
+    "Before birth, protecting the mother from infections matters; around birth, safe delivery and good newborn care matter.",
+    "In childhood, vaccination, early treatment of middle ear problems and hearing screening come first.",
+    "In adulthood, protection from noise and monitoring of drugs that can harm the ear follow.",
+    "In older age, regular hearing checks and timely management of hearing loss are important."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Prevention and Türkiye",
+   "baslik": "Data from *Türkiye*",
+   "maddeler": [
+    {
+     "metin": "Survey vs measurement: _different results_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Read a figure _with its definition_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Newborn and _school screening_",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Consanguinity: _recessive risk_",
+     "cumle": 5,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TÜRKİYE",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Newborns",
+      "cumle": 3,
+      "metin": "National screening program"
+     },
+     {
+      "ikon": "okul",
+      "baslik": "School age",
+      "cumle": 4,
+      "metin": "Hearing screening"
+     },
+     {
+      "ikon": "gen_dna",
+      "baslik": "Consanguinity",
+      "cumle": 5,
+      "metin": "About 24 percent"
+     }
+    ]
+   },
+   "cumleler": [
+    "In Türkiye, figures on how common hearing loss is vary depending on the method used.",
+    "Surveys based on self-report and studies with audiometric measurement do not give the same result.",
+    "The definition of degree, the age group and the region also change the rate, so always use a figure with its source and definition.",
+    "In Türkiye, the Ministry of Health runs a national newborn hearing screening program.",
+    "At school age, hearing screening is also carried out jointly by the Ministry of Health and the Ministry of National Education.",
+    {
+     "yazi": "According to the Turkey Demographic and Health Survey 2018, about twenty four percent of marriages in Türkiye are consanguineous.",
+     "ses": "According to the Turkey Demographic and Health Survey twenty eighteen, about twenty four percent of marriages in Türkiye are consanguineous."
+    },
+    "This is an important risk factor for recessive genetic hearing loss; we will cover it in the genetics lessons later."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Use figures not to frighten, but to show people they are not alone. Give the source, the year and the definition of hearing loss together.",
+   "cumleler": [
+    "A useful tip for counseling: use prevalence figures not to frighten, but to show the person that they are not alone.",
+    "For example, knowing that one in four people over sixty has disabling loss can reduce the fear of stigma.",
+    "When you quote a figure, also state its source, its year and the definition of hearing loss it is based on.",
+    "That way, your patient or colleague can interpret the same number correctly."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Prevalence now, incidence _new cases_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1.5 billion people, _430 million_ disabling",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Over 60: _more than one in four_",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "In children, about _60 percent_ preventable",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Prevalence shows the proportion at a given time, while incidence shows new cases that appear over a period.",
+    {
+     "yazi": "Per the WHO 2021 report, over one and a half billion people have hearing loss; in about four hundred thirty million it is disabling.",
+     "ses": "Per the WHO twenty twenty one report, over one and a half billion people have hearing loss; in about four hundred thirty million it is disabling."
+    },
+    "Prevalence rises with age; over sixty, more than one in four people have disabling hearing loss.",
+    "About sixty percent of hearing loss in children is due to preventable causes."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "How does WHO define disabling hearing loss?",
+   "secenekler": [
+    "Over 20 dB, poorer ear",
+    "Over 35 dB, better ear",
+    "Over 15 dB, both ears",
+    "Only total loss"
+   ],
+   "dogru": 1,
+   "aciklama": "The criterion is the _better hearing ear_: a loss greater than 35 dB HL is considered disabling.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: how does WHO define disabling hearing loss?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a loss greater than thirty five decibels in the better hearing ear.",
+    "Using the better ear as the criterion reflects the difficulty the person has in everyday communication."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Inside an Audiology *Clinic*: Booth and Core Equipment",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will tour an audiology clinic and get to know the test booth and the core equipment.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

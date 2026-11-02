@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R282_The_Blue_Ear_Sign_EN",
+ "kapak": {
+  "ust": "QUICK FACT #282",
+  "baslik": "The *blue ear* sign",
+  "alt": "Induction loops and telecoils",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What does the blue ear sign at a ticket window mean? #shorts",
+  "aciklama": "A crossed-out ear on a blue background with a T in the corner shows that an induction loop is installed. Anyone inside the loop's magnetic field who switches on a telecoil hears the sound without an extra receiver and without distance or echo, but the telecoil program is often not enabled by default.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "telecoil"
+  ],
+  "etiketler": [
+   "induction loop",
+   "telecoil",
+   "T program",
+   "assistive listening device",
+   "accessibility",
+   "hearing aid",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What does the blue ear sign at a ticket window mean?",
+  "bilgiler": [
+   "A crossed ear and a T on blue mark a loop.",
+   "Anyone who switches on a telecoil hears it without an extra receiver.",
+   "The telecoil program is often off by default."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "telecoil"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #282",
+   "metin": "What does *this sign* mean?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What does the blue ear sign at a ticket window mean?"
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "zincir",
+   "baslik": "The *induction* loop",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Microphone",
+     "tr": "at the talker",
+     "cumle": 1
+    },
+    {
+     "ad": "Loop cable",
+     "tr": "magnetic field",
+     "cumle": 2
+    },
+    {
+     "ad": "Telecoil",
+     "tr": "in the aid",
+     "cumle": 3
+    }
+   ],
+   "alt": "The program must be _turned on_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "A crossed ear and a T on blue mark a loop.",
+    "Sound from the talker's microphone drives a current through a room cable.",
+    "Inside the loop, a magnetic field changes with the sound.",
+    "Anyone who switches on a telecoil hears it without distance or echo.",
+    "The telecoil program is often not enabled by default."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D186",
+ "kaynak_baslik": "Telecoil, Wireless and Assistive Listening Devices"
+}

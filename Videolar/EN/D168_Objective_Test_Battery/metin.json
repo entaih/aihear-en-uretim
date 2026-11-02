@@ -1,0 +1,735 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D168_Objective_Test_Battery_EN",
+ "kapak": {
+  "ust": "LESSON 168",
+  "baslik": "The objective<br>test *battery*",
+  "alt": "Threshold estimation in infants and children",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "The Objective Test Battery in Infants and Children | Lesson 168 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson covers the objective test battery in infants and young children: 1000 Hz tympanometry and the acoustic reflex, otoacoustic emissions, frequency-specific ABR and ASSR. We also explain how to interpret the findings together, session planning, natural sleep and sedation, and behavioral confirmation.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Joint Committee on Infant Hearing, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); Hall, eHandbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "pediatricaudiology",
+   "ABR"
+  ],
+  "etiketler": [
+   "objective test battery",
+   "1000 Hz tympanometry",
+   "otoacoustic emissions",
+   "ABR",
+   "ASSR",
+   "frequency-specific threshold",
+   "sedation",
+   "auditory neuropathy",
+   "infant hearing assessment",
+   "pediatric audiology",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 168",
+   "baslik": "The objective test *battery*",
+   "alt": "Immittance, OAE, ABR and ASSR in infants and children",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the objective test battery used with infants and young children.",
+    {
+     "yazi": "We will see the role of 1000 Hz tympanometry, the acoustic reflex, otoacoustic emissions, and brainstem and steady-state responses.",
+     "ses": "We will see the role of one thousand hertz tympanometry, the acoustic reflex, otoacoustic emissions, and brainstem and steady-state responses."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why objective?",
+   "baslik": "Why *objective* tests?",
+   "maddeler": [
+    {
+     "metin": "The child need not _respond_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Threshold estimation_ under 6 months",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "When behavioral testing _is not possible_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Measures _function_, not hearing",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Young infant",
+      "metin": "Under 6 months",
+      "cumle": 1
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Difficult to test",
+      "metin": "Inconsistent responses",
+      "cumle": 2
+     }
+    ],
+    "ust": "WHO IS IT FOR?"
+   },
+   "cumleler": [
+    "Objective tests are physiological measures that do not require the child to respond with a behavior.",
+    "In infants developmentally younger than six months, ear-specific and frequency-specific thresholds are estimated with these tests.",
+    "In older children too, the objective battery is used if behavioral testing is not possible or the results are inconsistent.",
+    "These tests are especially valuable, for example, in children with developmental delay or multiple disabilities.",
+    "However, objective tests measure not the perception of hearing but the function of certain parts of the auditory system.",
+    "So each test is seen as a piece showing a different part of the system, and they are interpreted together."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why objective?",
+   "baslik": "*Parts* of the battery",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Immittance",
+     "metin": "1000 Hz tympanometry, reflex: middle ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "OAE",
+     "metin": "Outer hair cells",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "Nerve and brainstem, threshold",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "ASSR",
+     "metin": "Frequency specific, high levels",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The objective test battery has four main parts.",
+    "Immittance measures, that is, tympanometry and the acoustic reflex, show middle ear status and the reflex pathway.",
+    "Otoacoustic emissions, or OAE, reflect the function of the outer hair cells in the cochlea.",
+    "The auditory brainstem response, or ABR, assesses the auditory nerve and brainstem pathway and gives frequency-specific threshold estimates.",
+    "The auditory steady-state response, or ASSR, is another frequency-specific threshold estimation method, with automatic response detection.",
+    "No single test is enough on its own; the cross-check principle applies here too."
+   ]
+  },
+  {
+   "id": "immitans",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Middle ear and cochlea",
+   "baslik": "*1000 Hz* tympanometry and reflex",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 2
+     },
+     {
+      "tip": "B",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Under 6 months: _1000 Hz_ probe tone",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "A 226 Hz peak _can mislead_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "No reflex: _take care_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "In infants younger than six months, the middle ear is assessed with a one thousand hertz probe tone.",
+    "At this age, a two hundred twenty six hertz tympanogram can look peaked and normal even when there is fluid in the middle ear.",
+    "At one thousand hertz, a clear peak suggests a probably healthy middle ear, while a flat curve suggests fluid or another conductive problem.",
+    "In infants, the acoustic reflex is also recorded more often with a one thousand hertz probe tone.",
+    "An absent reflex despite a normal tympanogram calls for attention regarding hearing loss or a neural pathway problem.",
+    "In children older than six months, routine two hundred twenty six hertz tympanometry is used."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Middle ear and cochlea",
+   "baslik": "What does *OAE* tell us?",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emission",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Noise",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Present: _outer hair cells_ working",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Absent: cochlea _or_ middle ear",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Does _not show_ the neural pathway",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The presence of otoacoustic emissions shows that outer hair cells are working in the frequency region tested.",
+    "When cochlear loss exceeds about thirty to forty decibels HL, emissions are usually absent.",
+    "But absent emissions do not always mean cochlear loss; middle ear fluid and debris in the ear canal also block emissions.",
+    "OAE does not assess the auditory nerve or the brainstem.",
+    "So in auditory neuropathy spectrum disorder, hearing can be impaired even though emissions are present.",
+    "The test is quick and can be completed in a few minutes while the infant is calm or asleep.",
+    "In the battery, OAE helps tell whether an ABR result is linked to a cochlear or a neural problem."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Threshold estimation",
+   "baslik": "*ABR*: neural pathway and threshold",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Wave I",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Wave V: followed to threshold",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Click: _neural pathway_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tone burst: _frequency-specific_ threshold",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Bone-conduction ABR: _type of loss_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "ABR recorded with high-intensity clicks shows the integrity of the auditory nerve and brainstem pathway.",
+    "The presence and latencies of waves I, III and V tell us whether the pathway is working normally.",
+    "For threshold estimation, frequency-specific tone burst ABR is used; the lowest level at which wave V can be followed is sought.",
+    "Thresholds in normalized hearing level, or nHL, are converted to estimated hearing level using the corrections from earlier lessons.",
+    "If air-conduction thresholds are elevated, bone-conduction ABR shows whether the loss is conductive or sensorineural.",
+    "Many guidelines accept frequency-specific ABR as the basis of threshold estimation in infants."
+   ]
+  },
+  {
+   "id": "assr",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Threshold estimation",
+   "baslik": "*ASSR*",
+   "maddeler": [
+    {
+     "metin": "A _rhythmic_ response to modulated sound",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Response detected _statistically_",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Several frequencies _at once_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_High-level_ information in severe loss",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Not used _alone_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Strength",
+      "metin": "Information in severe loss",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Caution",
+      "metin": "Precision in mild loss",
+      "cumle": 4
+     }
+    ],
+    "ust": "ASSR"
+   },
+   "cumleler": [
+    "The ASSR is the brain's rhythmic response to a continuous sound whose amplitude or frequency changes regularly, that is, is modulated.",
+    "The presence of a response is decided not by visual judgment but by a statistical calculation.",
+    "Some systems can test several frequencies and both ears at the same time, which can save time.",
+    "Because ASSR can reach high levels that tone burst ABR cannot, it adds information in severe and profound losses.",
+    "On the other hand, threshold estimates can be less precise in normal hearing and mild loss, and it can mislead in auditory neuropathy.",
+    "So ASSR is usually used not alone but together with ABR, as a complementary part of the battery."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Threshold estimation",
+   "baslik": "*Combining* the findings",
+   "sutunlar": [
+    "Tympanometry",
+    "OAE",
+    "ABR",
+    "Pattern"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "Present",
+      "Normal threshold",
+      "Likely normal hearing"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Flat",
+      "Absent",
+      "Bone normal",
+      "Conductive"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Normal",
+      "Absent",
+      "Elevated threshold",
+      "Sensorineural"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Normal",
+      "Present",
+      "Absent or abnormal",
+      "Suspected ANSD"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Now let us see how the findings are interpreted together; these patterns are a guide.",
+    "A normal tympanogram, present OAE and normal ABR thresholds fit normal hearing at the frequencies tested.",
+    "A flat tympanogram, absent OAE, and elevated air-conduction but normal bone-conduction ABR thresholds suggest a conductive loss.",
+    "A normal tympanogram, absent OAE and elevated ABR thresholds suggest a sensorineural loss.",
+    "Present OAE with an absent or clearly abnormal ABR is important for auditory neuropathy spectrum disorder, or ANSD.",
+    "In this last case, the cochlear microphonic is also assessed, and the diagnostic process is carried out with the physician and the team."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Running the battery",
+   "baslik": "*Planning* the session",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Preparation",
+     "metin": "History and otoscopy",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "OAE",
+     "metin": "Quick in a calm infant",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "During sleep, priority",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Immittance",
+     "metin": "Often last",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Report",
+     "metin": "Findings together",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The session starts with the history and otoscopy; debris in the ear canal can affect OAE and ABR.",
+    "OAE is quick and can be done first while the infant is calm.",
+    "Once the infant falls asleep, the most valuable time goes to ABR; the most critical frequencies are obtained first in each ear.",
+    "If sleep continues, the frequencies are completed, and bone-conduction ABR or ASSR is added if needed.",
+    "Because tympanometry creates pressure changes in the ear and can wake the infant, many centers leave it until last.",
+    "The order may vary with the center's protocol; what matters is that the most critical information is obtained before the infant wakes."
+   ]
+  },
+  {
+   "id": "uyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Running the battery",
+   "baslik": "Natural sleep and *sedation*",
+   "maddeler": [
+    {
+     "metin": "_Natural sleep_ in the first months",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Appointment timed to _sleep_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_Sedation_ may be needed later",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Sedation: a _physician's_ decision",
+     "cumle": 3,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Plan ready _in advance_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Before a sedated session, prepare the test order in writing; sleep time is limited and every minute counts.",
+    "cumle": 4
+   },
+   "cumleler": [
+    "In the first few months of life, ABR and ASSR can often be done in natural sleep, that is, without medication.",
+    "The appointment is set around the infant's usual sleep and feeding times, and the family is advised to bring the infant tired.",
+    "As the infant grows, usually after six months, sedation may be needed for a long, quiet recording.",
+    "Whether sedation is needed and how it is given are the physician's decision and responsibility.",
+    "The audiologist's task is to prepare in advance a test plan that makes the best use of the sedation time.",
+    "In some children, testing can also be done during general anesthesia planned for another reason."
+   ]
+  },
+  {
+   "id": "davranissal",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Running the battery",
+   "baslik": "Behavioral *confirmation*",
+   "maddeler": [
+    {
+     "metin": "An objective threshold is an _estimate_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Confirm with _VRA_ when ready",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Fitting starts with _estimated_ thresholds",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "ANSD: _behavioral_ thresholds essential",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vra_odasi",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "odul_kutusu",
+      "metin": "Confirmation with VRA",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cocuk",
+      "cumle": 1
+     },
+     {
+      "parca": "odul_kutusu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Thresholds found with objective tests are estimates, not exact values that replace behavioral thresholds.",
+    "When the infant is developmentally ready, usually after six months, thresholds are confirmed with visual reinforcement audiometry, or VRA.",
+    "If behavioral and objective results agree, confidence grows; if not, the cause is investigated.",
+    "If considered necessary, hearing aid fitting can start without waiting, based on frequency-specific estimated thresholds.",
+    "The fitting is later updated with the behavioral findings.",
+    "In auditory neuropathy spectrum disorder, ABR cannot estimate thresholds; behavioral thresholds are measured as soon as possible.",
+    "The whole process is shared with the family, and follow-up appointments are planned together."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Running the battery",
+   "baslik": "*What* belongs in the report?",
+   "maddeler": [
+    {
+     "metin": "_Stimulus_ and probe tone for each test",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "nHL and _eHL_ separately",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Sleep, sedation and _recording quality_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Missing frequencies and _follow-up plan_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        35,
+        40,
+        50,
+        55,
+        null
+       ],
+       "cumle": 3
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        null,
+        30,
+        40,
+        45,
+        55,
+        null
+       ],
+       "cumle": 3
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "The report clearly states the stimulus, probe tone and frequencies tested for each test.",
+    "ABR and ASSR thresholds are given both in the unit in which they were measured and as the calculated estimated hearing level.",
+    "The infant's sleep state, whether sedation was used, and the recording quality are also stated.",
+    "The estimated thresholds can be shown on an estimated audiogram, as in the example on the right.",
+    "Frequencies that could not be completed and the next step, such as an appointment for VRA confirmation, are written down.",
+    "Such a report allows another center and the family to understand the result correctly."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Present OAEs alone do not mean normal hearing. Do not skip the neural pathway without ABR, especially in infants with an intensive care history.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: do not decide that an infant's hearing is normal just because OAEs are present.",
+    "OAE shows only the outer hair cells; if the neural pathway is impaired, there can be a serious hearing problem even with emissions present.",
+    "Always add ABR to the battery, especially in infants with risk factors such as an intensive care history or prematurity.",
+    "If the findings conflict, state this clearly in the report and pass it on to the team."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Under 6 months: _1000 Hz_ tympanometry",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "OAE: outer hair cells, _no neural pathway_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Thresholds: _tone burst ABR_, ASSR supports",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Findings interpreted _together_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "In infants under six months, the middle ear is assessed with a one thousand hertz probe tone, which also records the reflex more often.",
+    "OAE shows outer hair cell function but does not assess the neural pathway.",
+    "Tone burst ABR is the basis of frequency-specific threshold estimation; ASSR adds information, especially in severe losses.",
+    "The tests are interpreted together under the cross-check principle and confirmed with behavioral tests."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "OAE present, ABR absent: what is suspected?",
+   "secenekler": [
+    "Conductive hearing loss",
+    "Auditory neuropathy spectrum disorder",
+    "Normal hearing"
+   ],
+   "dogru": 1,
+   "aciklama": "OAE shows the outer hair cells; an absent ABR points to a _neural pathway_ problem, that is, ANSD.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: an infant with a normal tympanogram has OAEs, but no ABR at all. What is suspected?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: auditory neuropathy spectrum disorder.",
+    "In this case, the cochlear microphonic is assessed, and the diagnostic process is carried out with the team."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Why Unilateral and *Mild* Loss Matter in Children",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn why unilateral and mild hearing loss matter in children.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

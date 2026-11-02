@@ -1,0 +1,1323 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D200_Middle_Latency_Response_EN",
+ "kapak": {
+  "ust": "LESSON 200",
+  "baslik": "Middle latency<br>*responses*",
+  "alt": "MLR: the Na and Pa waves",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 80,
+    "ad": "Time (ms)",
+    "isaretler": [
+     0,
+     10,
+     20,
+     30,
+     40,
+     50,
+     60,
+     70,
+     80
+    ]
+   },
+   "y": {
+    "min": -1.2,
+    "max": 1.2,
+    "adim": 0.5,
+    "ad": "Amplitude (µV)",
+    "ond": 1
+   },
+   "seriler": [
+    {
+     "ad": "mlr",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       3,
+       0.1
+      ],
+      [
+       6,
+       0.25
+      ],
+      [
+       8,
+       0.1
+      ],
+      [
+       12,
+       -0.2
+      ],
+      [
+       18,
+       -0.6
+      ],
+      [
+       23,
+       -0.1
+      ],
+      [
+       30,
+       0.75
+      ],
+      [
+       36,
+       0.2
+      ],
+      [
+       42,
+       -0.45
+      ],
+      [
+       47,
+       0.0
+      ],
+      [
+       52,
+       0.5
+      ],
+      [
+       60,
+       0.1
+      ],
+      [
+       70,
+       0
+      ],
+      [
+       80,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 0
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "abr_v",
+     "x": 6,
+     "y": 0.25,
+     "etiket": "ABR V",
+     "cumle": 1
+    },
+    {
+     "ad": "na",
+     "x": 18,
+     "y": -0.6,
+     "etiket": "Na",
+     "cumle": 2
+    },
+    {
+     "ad": "pa",
+     "x": 30,
+     "y": 0.75,
+     "etiket": "Pa",
+     "cumle": 3
+    },
+    {
+     "ad": "nb",
+     "x": 42,
+     "y": -0.45,
+     "etiket": "Nb",
+     "cumle": 4
+    },
+    {
+     "ad": "pb",
+     "x": 52,
+     "y": 0.5,
+     "etiket": "Pb",
+     "cumle": 4
+    }
+   ],
+   "araliklar": [
+    {
+     "ad": "na_pa",
+     "y": [
+      -0.6,
+      0.75
+     ],
+     "xk": 33,
+     "etiket": "Na-Pa amplitude",
+     "cumle": 5
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Middle Latency Response (MLR) | Lesson 200 | AIHEAR Audiology Academy",
+  "aciklama": "What is the middle latency response and where does it come from? In this lesson we cover the Na and Pa waves of the MLR, their thalamocortical sources, recording technique and muscle artifact, the effects of sleep, age and sedation, the 40 Hz response and clinical uses.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Kraus et al., Auditory middle latency responses in children: effects of age and diagnostic category, Electroencephalography and Clinical Neurophysiology (1985); Galambos, Makeig and Talmachoff, A 40-Hz auditory potential recorded from the human scalp, PNAS (1981).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "MLR",
+   "electrophysiology"
+  ],
+  "etiketler": [
+   "middle latency response",
+   "MLR",
+   "Pa wave",
+   "Na wave",
+   "thalamocortical",
+   "postauricular muscle",
+   "40 Hz response",
+   "auditory evoked potential",
+   "electrophysiology",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 200",
+   "baslik": "Middle latency *responses*",
+   "alt": "MLR: the Na and Pa waves",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    {
+     "yazi": "In this lesson we move beyond the brainstem and learn about the middle latency response, or MLR.",
+     "ses": "In this lesson we move beyond the brainstem and learn about the middle latency response, or M L R."
+    },
+    {
+     "yazi": "We will cover the Na and Pa waves, their thalamocortical sources, the effects of sleep, age and sedation, and clinical use.",
+     "ses": "We will cover the N A and P A waves, their thalamocortical sources, the effects of sleep, age and sedation, and clinical use."
+    }
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is the MLR?",
+   "baslik": "A *timeline* of responses",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 500,
+     "log": true,
+     "ad": "Time after stimulus (ms, logarithmic)",
+     "isaretler": [
+      1,
+      10,
+      50,
+      100,
+      500
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "adim": 1,
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "ecochg",
+      "x": [
+       1,
+       3
+      ],
+      "renk": "gri",
+      "etiket": "ECochG",
+      "cumle": 1
+     },
+     {
+      "ad": "abr",
+      "x": [
+       1.5,
+       10
+      ],
+      "renk": "lacivert",
+      "etiket": "ABR",
+      "cumle": 1
+     },
+     {
+      "ad": "mlr",
+      "x": [
+       10,
+       60
+      ],
+      "renk": "mavi",
+      "etiket": "MLR",
+      "cumle": 2
+     },
+     {
+      "ad": "gec",
+      "x": [
+       60,
+       500
+      ],
+      "renk": "sari",
+      "etiket": "Cortical responses",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "ABR: up to about 10 ms",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "MLR: about 10 to 50 ms",
+     "cumle": 2,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "We have ordered auditory evoked potentials by the time at which they appear after the stimulus.",
+    "Electrocochleography responses come first, followed by the auditory brainstem response, or ABR, up to about ten milliseconds.",
+    {
+     "yazi": "The middle latency response, or MLR, is seen between about ten and fifty milliseconds.",
+     "ses": "The middle latency response, or M L R, is seen between about ten and fifty milliseconds."
+    },
+    "That is where its name comes from: it sits in a middle time window, between the brainstem response and the cortical responses.",
+    "Later, between fifty and three hundred milliseconds, come the cortical responses we classified in the introductory lesson.",
+    {
+     "yazi": "The later the response, the higher its source in the auditory pathway; so the MLR is a bridge between the brainstem and the cortex.",
+     "ses": "The later the response, the higher its source in the auditory pathway; so the M L R is a bridge between the brainstem and the cortex."
+    }
+   ]
+  },
+  {
+   "id": "dalgalar",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is the MLR?",
+   "baslik": "Na, Pa and *Pb*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 80,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.5,
+     "ad": "Amplitude (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "mlr",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        3,
+        0.1
+       ],
+       [
+        6,
+        0.25
+       ],
+       [
+        8,
+        0.1
+       ],
+       [
+        12,
+        -0.2
+       ],
+       [
+        18,
+        -0.6
+       ],
+       [
+        23,
+        -0.1
+       ],
+       [
+        30,
+        0.75
+       ],
+       [
+        36,
+        0.2
+       ],
+       [
+        42,
+        -0.45
+       ],
+       [
+        47,
+        0.0
+       ],
+       [
+        52,
+        0.5
+       ],
+       [
+        60,
+        0.1
+       ],
+       [
+        70,
+        0
+       ],
+       [
+        80,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "abr_v",
+      "x": 6,
+      "y": 0.25,
+      "etiket": "ABR V",
+      "cumle": 1
+     },
+     {
+      "ad": "na",
+      "x": 18,
+      "y": -0.6,
+      "etiket": "Na",
+      "cumle": 2
+     },
+     {
+      "ad": "pa",
+      "x": 30,
+      "y": 0.75,
+      "etiket": "Pa",
+      "cumle": 3
+     },
+     {
+      "ad": "nb",
+      "x": 42,
+      "y": -0.45,
+      "etiket": "Nb",
+      "cumle": 4
+     },
+     {
+      "ad": "pb",
+      "x": 52,
+      "y": 0.5,
+      "etiket": "Pb",
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "na_pa",
+      "y": [
+       -0.6,
+       0.75
+      ],
+      "xk": 33,
+      "etiket": "Na-Pa amplitude",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Na: about 18 ms",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pa: about 30 ms",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Amplitude: about 1 µV",
+     "cumle": 6,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "The schematic curve on screen shows a middle latency response recorded in an adult with a click stimulus.",
+    "At the very start, wave five of the ABR appears as a small peak.",
+    {
+     "yazi": "Next, at about eighteen milliseconds, comes a negative trough; this is called the Na wave.",
+     "ses": "Next, at about eighteen milliseconds, comes a negative trough; this is called the N A wave."
+    },
+    {
+     "yazi": "The most prominent component is the positive Pa wave, at about thirty milliseconds.",
+     "ses": "The most prominent component is the positive P A wave, at about thirty milliseconds."
+    },
+    {
+     "yazi": "Later, Nb may be seen at about forty milliseconds and Pb at about fifty; in most sources Pb is the same wave as the cortical P1.",
+     "ses": "Later, N B may be seen at about forty milliseconds and P B at about fifty; in most sources P B is the same wave as the cortical P one."
+    },
+    {
+     "yazi": "In the clinic, the presence and latency of the Pa wave and the Na to Pa amplitude are used most.",
+     "ses": "In the clinic, the presence and latency of the P A wave and the N A to P A amplitude are used most."
+    },
+    "The amplitude is about one microvolt; larger than the ABR, but smaller than the cortical responses."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Sources",
+   "baslik": "Thalamocortical *sources*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior colliculus",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "metin": "medial geniculate body",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "auditory cortex",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The sources of the MLR lie along the pathway that runs from the upper brainstem to the auditory cortex.",
+     "ses": "The sources of the M L R lie along the pathway that runs from the upper brainstem to the auditory cortex."
+    },
+    {
+     "yazi": "Structures in the upper brainstem, especially the inferior colliculus, and the thalamus are thought to contribute to the Na wave.",
+     "ses": "Structures in the upper brainstem, especially the inferior colliculus, and the thalamus are thought to contribute to the N A wave."
+    },
+    "The auditory relay in the thalamus is the medial geniculate body; fibers leaving it reach the auditory cortex.",
+    {
+     "yazi": "The main source of the Pa wave is the primary auditory cortex in the temporal lobe, that is, Heschl's gyrus and the area around it.",
+     "ses": "The main source of the P A wave is the primary auditory cortex in the temporal lobe, that is, Heschl's gyrus and the area around it."
+    },
+    "These connections between the thalamus and the cortex are called the thalamocortical pathway.",
+    {
+     "yazi": "Networks deep in the brain that regulate arousal are also thought to contribute to Pa; this explains the effect of sleep.",
+     "ses": "Networks deep in the brain that regulate arousal are also thought to contribute to P A; this explains the effect of sleep."
+    }
+   ]
+  },
+  {
+   "id": "korteks",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Sources",
+   "baslik": "*Heschl's gyrus*",
+   "cizim": "beyin_yan",
+   "ayar": {
+    "loblar": true,
+    "yarik_acik": true,
+    "acilma_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "temporal lobe",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "Heschl's gyrus",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "The primary auditory cortex lies on the upper surface of the temporal lobe, deep within the lateral fissure.",
+    "This area is Heschl's gyrus, which can be seen when the lateral fissure is opened.",
+    {
+     "yazi": "The auditory cortex of both hemispheres contributes, so the MLR can be recorded on both sides even when only one ear is stimulated.",
+     "ses": "The auditory cortex of both hemispheres contributes, so the M L R can be recorded on both sides even when only one ear is stimulated."
+    },
+    "If there is damage in the temporal lobe of one hemisphere, the response may be smaller at the electrode placed over that side.",
+    "This is the basis of the clinical uses we will see shortly."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Recording",
+   "baslik": "*How* is it recorded?",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Awake, relaxed",
+     "metin": "Eyes closed",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrodes",
+     "metin": "Cz, C3, C4",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Stimulus",
+     "metin": "Click or tone burst",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Window and filter",
+     "metin": "About 100 ms",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Averaging",
+     "metin": "Hundreds of sweeps",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "During MLR recording the person is awake, relaxed and calm, with eyes closed and neck and jaw muscles loose.",
+     "ses": "During M L R recording the person is awake, relaxed and calm, with eyes closed and neck and jaw muscles loose."
+    },
+    {
+     "yazi": "The active electrode is placed at the top of the head, at the Cz point; the reference electrode goes on the earlobe or mastoid.",
+     "ses": "The active electrode is placed at the top of the head, at the C Z point; the reference electrode goes on the earlobe or mastoid."
+    },
+    {
+     "yazi": "To compare the hemispheres, electrodes can also be placed at C3 and C4 on either side; we saw the electrode system earlier.",
+     "ses": "To compare the hemispheres, electrodes can also be placed at C three and C four on either side; we saw the electrode system earlier."
+    },
+    "The stimulus is a click or short tone bursts that stimulate lower frequencies.",
+    "The analysis window is longer than for the ABR, about one hundred milliseconds, and the filter is set to pass slower waves.",
+    "A common setting is about ten to two hundred hertz; a filter that is too narrow can distort the waves and create false peaks.",
+    "The response is obtained by averaging a few hundred to a thousand sweeps, and the recording is always repeated."
+   ]
+  },
+  {
+   "id": "pam",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Recording",
+   "baslik": "*Muscle* artifact",
+   "maddeler": [
+    {
+     "metin": "Postauricular muscle: about 13 ms",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Can be mistaken for Pa",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Head supported, neck relaxed",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Earlobe reference helps",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Muscle response",
+      "metin": "Large, sharp, early",
+      "cumle": 1
+     },
+     {
+      "ikon": "noron",
+      "baslik": "Brain response",
+      "metin": "Smaller, rounded",
+      "cumle": 1
+     }
+    ],
+    "ust": "TELL APART"
+   },
+   "cumleler": [
+    {
+     "yazi": "The best-known pitfall of the MLR is the reflex contraction of the postauricular muscle in response to sound.",
+     "ses": "The best-known pitfall of the M L R is the reflex contraction of the postauricular muscle in response to sound."
+    },
+    {
+     "yazi": "This muscle response appears at about thirteen milliseconds, is large, and can blend into the Na-Pa region as a misleading wave.",
+     "ses": "This muscle response appears at about thirteen milliseconds, is large, and can blend into the N A-P A region as a misleading wave."
+    },
+    "The muscle response grows especially at high stimulus levels and in people who are tense or holding up their head.",
+    "The person's head is supported and they are asked to relax the neck; the raw signal on screen is watched during recording.",
+    "Placing the reference electrode on the earlobe instead of the mastoid, and avoiding very high stimulus levels, also reduce the artifact.",
+    {
+     "yazi": "If the muscle response is taken for a true Pa, a central problem may be missed, so it must be told apart carefully.",
+     "ses": "If the muscle response is taken for a true P A, a central problem may be missed, so it must be told apart carefully."
+    }
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Recording",
+   "baslik": "What *affects* it?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Age",
+     "metin": "Variable in children",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Sleep",
+     "metin": "Changes with stage",
+     "cumle": 3
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Sedation",
+     "metin": "Suppresses the response",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Unlike the ABR, the MLR is clearly affected by the person's age and state.",
+     "ses": "Unlike the ABR, the M L R is clearly affected by the person's age and state."
+    },
+    {
+     "yazi": "Thalamocortical pathways keep maturing through childhood; in young children the Pa wave cannot always be recorded.",
+     "ses": "Thalamocortical pathways keep maturing through childhood; in young children the P A wave cannot always be recorded."
+    },
+    {
+     "yazi": "The detection rate of Pa rises with age, and adult-like reliability is reached only around adolescence.",
+     "ses": "The detection rate of P A rises with age, and adult-like reliability is reached only around adolescence."
+    },
+    "Sleep also matters: studies by Kraus and colleagues showed that in children the response changes with sleep stage.",
+    {
+     "yazi": "In deep, slow-wave sleep, Pa may shrink or disappear; it is recorded better when awake and in rapid eye movement sleep.",
+     "ses": "In deep, slow-wave sleep, P A may shrink or disappear; it is recorded better when awake and in rapid eye movement sleep."
+    },
+    {
+     "yazi": "Sedative drugs and general anesthesia also suppress the MLR, and this effect grows with dose.",
+     "ses": "Sedative drugs and general anesthesia also suppress the M L R, and this effect grows with dose."
+    },
+    {
+     "yazi": "So an absent MLR, especially in a young child or under sedation, does not by itself indicate a problem.",
+     "ses": "So an absent M L R, especially in a young child or under sedation, does not by itself indicate a problem."
+    }
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Recording",
+   "baslik": "Stimulus *rate* and forty hertz",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      25,
+      50,
+      75,
+      100
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.5,
+     "ad": "Amplitude (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "kirk_hz",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        2,
+        0.39
+       ],
+       [
+        4,
+        0.68
+       ],
+       [
+        6,
+        0.8
+       ],
+       [
+        8,
+        0.72
+       ],
+       [
+        10,
+        0.47
+       ],
+       [
+        12,
+        0.1
+       ],
+       [
+        14,
+        -0.29
+       ],
+       [
+        16,
+        -0.62
+       ],
+       [
+        18,
+        -0.79
+       ],
+       [
+        20,
+        -0.76
+       ],
+       [
+        22,
+        -0.55
+       ],
+       [
+        24,
+        -0.2
+       ],
+       [
+        26,
+        0.2
+       ],
+       [
+        28,
+        0.55
+       ],
+       [
+        30,
+        0.76
+       ],
+       [
+        32,
+        0.79
+       ],
+       [
+        34,
+        0.62
+       ],
+       [
+        36,
+        0.29
+       ],
+       [
+        38,
+        -0.1
+       ],
+       [
+        40,
+        -0.47
+       ],
+       [
+        42,
+        -0.72
+       ],
+       [
+        44,
+        -0.8
+       ],
+       [
+        46,
+        -0.68
+       ],
+       [
+        48,
+        -0.39
+       ],
+       [
+        50,
+        -0.0
+       ],
+       [
+        52,
+        0.39
+       ],
+       [
+        54,
+        0.68
+       ],
+       [
+        56,
+        0.8
+       ],
+       [
+        58,
+        0.72
+       ],
+       [
+        60,
+        0.47
+       ],
+       [
+        62,
+        0.1
+       ],
+       [
+        64,
+        -0.29
+       ],
+       [
+        66,
+        -0.62
+       ],
+       [
+        68,
+        -0.79
+       ],
+       [
+        70,
+        -0.76
+       ],
+       [
+        72,
+        -0.55
+       ],
+       [
+        74,
+        -0.2
+       ],
+       [
+        76,
+        0.2
+       ],
+       [
+        78,
+        0.55
+       ],
+       [
+        80,
+        0.76
+       ],
+       [
+        82,
+        0.79
+       ],
+       [
+        84,
+        0.62
+       ],
+       [
+        86,
+        0.29
+       ],
+       [
+        88,
+        -0.1
+       ],
+       [
+        90,
+        -0.47
+       ],
+       [
+        92,
+        -0.72
+       ],
+       [
+        94,
+        -0.8
+       ],
+       [
+        96,
+        -0.68
+       ],
+       [
+        98,
+        -0.39
+       ],
+       [
+        100,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "periyot",
+      "x": [
+       6.25,
+       31.25
+      ],
+      "y": 1.0,
+      "etiket": "25 ms",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "40/s: responses overlap",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Smaller in sleep",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "In adults, stimuli can be presented about ten times per second; in young children, slower rates are recommended.",
+    "When stimuli are presented about forty times per second, something interesting happens.",
+    "Successive responses overlap about twenty five milliseconds apart, forming a rhythmic forty hertz wave.",
+    {
+     "yazi": "This response, described by Galambos and colleagues in 1981, is called the forty hertz response.",
+     "ses": "This response, described by Galambos and colleagues in nineteen eighty one, is called the forty hertz response."
+    },
+    "The forty hertz modulated response we saw in the auditory steady-state response lesson is also linked to these thalamocortical sources.",
+    {
+     "yazi": "Like the MLR, this response shrinks during sleep and sedation, so eighty hertz and above is preferred in infants.",
+     "ses": "Like the M L R, this response shrinks during sleep and sedation, so eighty hertz and above is preferred in infants."
+    }
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "What is it *used for?*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Threshold estimation",
+     "metin": "Awake adults, low frequencies",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Central assessment",
+     "metin": "Thalamus and cortex",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Depth of anesthesia",
+     "metin": "Monitoring in the operating room",
+     "cumle": 4
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Electrical MLR",
+     "metin": "Implant research",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In awake adults, the MLR can be used to estimate threshold, especially at low frequencies such as five hundred hertz.",
+     "ses": "In awake adults, the M L R can be used to estimate threshold, especially at low frequencies such as five hundred hertz."
+    },
+    {
+     "yazi": "The MLR threshold obtained with tone bursts is usually close to the behavioral threshold, which helps when functional loss is suspected.",
+     "ses": "The M L R threshold obtained with tone bursts is usually close to the behavioral threshold, which helps when functional loss is suspected."
+    },
+    "The second area of use is the assessment of the central auditory pathway.",
+    {
+     "yazi": "An abnormal MLR with a normal ABR suggests the problem may lie above the brainstem, at the level of the thalamus or cortex.",
+     "ses": "An abnormal M L R with a normal ABR suggests the problem may lie above the brainstem, at the level of the thalamus or cortex."
+    },
+    {
+     "yazi": "MLR-based indices have also been developed to monitor depth of anesthesia, because the response shrinks as anesthesia deepens.",
+     "ses": "M L R-based indices have also been developed to monitor depth of anesthesia, because the response shrinks as anesthesia deepens."
+    },
+    {
+     "yazi": "The MLR recorded with electrical stimulation from a cochlear implant is used mainly in research.",
+     "ses": "The M L R recorded with electrical stimulation from a cochlear implant is used mainly in research."
+    }
+   ]
+  },
+  {
+   "id": "elektrot_etkisi",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "Electrode and *ear* effects",
+   "cizim": "beyin_ustten",
+   "etiketler": [
+    {
+     "parca": "sag_isitme_korteksi",
+     "metin": "right electrode site",
+     "cumle": 1
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "metin": "left electrode site",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sag_isitme_korteksi",
+     "cumle": 1
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "cumle": 2
+    },
+    {
+     "parca": "sag_kulak",
+     "cumle": 3
+    },
+    {
+     "parca": "sol_kulak",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Two comparisons are made in central assessment.",
+    {
+     "yazi": "For the electrode effect, Pa amplitudes recorded at electrodes over the right and left hemispheres are compared.",
+     "ses": "For the electrode effect, P A amplitudes recorded at electrodes over the right and left hemispheres are compared."
+    },
+    {
+     "yazi": "If Pa is always smaller at the electrode on one side, whichever ear is stimulated, the thalamocortical pathway on that side may be affected.",
+     "ses": "If P A is always smaller at the electrode on one side, whichever ear is stimulated, the thalamocortical pathway on that side may be affected."
+    },
+    "For the ear effect, the responses obtained when the right ear and the left ear are stimulated are compared.",
+    "These comparisons are supporting information; diagnosis is made by the physician's evaluation and imaging.",
+    "Because natural differences between people are large, no firm conclusion is drawn from a single recording."
+   ],
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "click",
+     "click"
+    ],
+    "yol_cumleleri": {
+     "ayni_taraf_yol": 3,
+     "capraz_yol_sag": 3,
+     "capraz_yol_sol": 3,
+     "kallozal_yol": 5
+    },
+    "yollar": [
+     "ayni_taraf_yol",
+     "capraz_yol_sag",
+     "capraz_yol_sol"
+    ]
+   }
+  },
+  {
+   "id": "ornek",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "Example: *normal ABR, abnormal MLR*",
+   "maddeler": [
+    {
+     "metin": "ABR: normal latencies",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "MLR: small Pa on the left",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Awake, no artifact",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Finding shared with the team",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_yan",
+    "cumle": 1,
+    "ayar": {
+     "loblar": true
+    },
+    "vurgula": [
+     {
+      "parca": "temporal_lob",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "A purely illustrative case: in an adult with auditory complaints, the audiogram and ABR are normal.",
+    {
+     "yazi": "In the MLR, Pa is clearly small at the C3 electrode over the left hemisphere, whichever ear is stimulated.",
+     "ses": "In the M L R, P A is clearly small at the C three electrode over the left hemisphere, whichever ear is stimulated."
+    },
+    "The person was awake during recording, there was no muscle artifact, and a repeat recording gave the same result.",
+    "This finding may be consistent with involvement of the auditory pathways above the brainstem.",
+    "The result is shared with the team, to be interpreted together with central auditory processing tests and the physician's evaluation."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If Pa is absent, first question the conditions: is the person asleep, sedated, or is muscle artifact interfering? Correct the conditions and repeat.",
+   "cumle": 0,
+   "cumleler": [
+    {
+     "yazi": "A tip from the clinic: when no Pa wave can be obtained in the MLR, do not jump to a disorder.",
+     "ses": "A tip from the clinic: when no P A wave can be obtained in the M L R, do not jump to a disorder."
+    },
+    "First check whether the person is asleep, has taken a sedative, or whether there is muscle artifact.",
+    "Keep the person awake, support the head and repeat the recording; in children, note the sleep stage in particular.",
+    "Only when the response is absent under good conditions does the finding gain clinical meaning."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "MLR: about 10 to 50 ms",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Source: thalamus and auditory cortex",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Sleep, sedation and age matter",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Threshold estimation and central assessment",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The middle latency response appears between about ten and fifty milliseconds; its most prominent wave is Pa, at about thirty milliseconds.",
+     "ses": "The middle latency response appears between about ten and fifty milliseconds; its most prominent wave is P A, at about thirty milliseconds."
+    },
+    "Its sources are the thalamocortical pathways, including the thalamus and the auditory cortex.",
+    {
+     "yazi": "Sleep, sedation and age clearly affect the MLR; in young children the response cannot always be recorded.",
+     "ses": "Sleep, sedation and age clearly affect the M L R; in young children the response cannot always be recorded."
+    },
+    "In awake adults it is used for threshold estimation and for assessing the central auditory pathways."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Where does Pa, the most prominent MLR wave, arise?",
+   "secenekler": [
+    "Cochlea",
+    "Auditory nerve",
+    "Auditory cortex",
+    "Muscle response"
+   ],
+   "dogru": 2,
+   "aciklama": "The main source of the Pa wave is the primary auditory cortex in the temporal lobe, that is, Heschl's gyrus and the area around it.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what is the main source of the Pa wave of the middle latency response?",
+     "sonra_bekle": 5,
+     "ses": "Test yourself: what is the main source of the P A wave of the middle latency response?"
+    },
+    "The correct answer is C: the auditory cortex.",
+    {
+     "yazi": "The main source of Pa is Heschl's gyrus and the area around it; the thalamus and deep arousal networks also contribute.",
+     "ses": "The main source of P A is Heschl's gyrus and the area around it; the thalamus and deep arousal networks also contribute."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cortical Auditory Evoked Potentials: *P1-N1-P2*",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "In the next lesson we will learn about cortical auditory evoked potentials, the P1, N1 and P2 waves.",
+     "ses": "In the next lesson we will learn about cortical auditory evoked potentials, the P one, N one and P two waves."
+    },
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

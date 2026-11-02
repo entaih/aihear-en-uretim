@@ -1,0 +1,106 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R359_Earphones_Are_Model_Specific_EN",
+ "kapak": {
+  "ust": "QUICK FACT #359",
+  "baslik": "Earphones are *model specific*",
+  "alt": "Calibration values and the transducer",
+  "cizim": "odyometre",
+  "vurgula": [
+   "kulaklik"
+  ],
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can an audiometer's earphone be swapped for another model? #shorts",
+  "aciklama": "Each transducer connects to the audiometer through its own output, and the device uses separate calibration values for each. These values are specific to the transducer model; if an earphone is replaced with a different model, the levels delivered will be wrong and the audiometer must be recalibrated. Even a small fault in a transducer can make the whole audiogram misleading.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "calibration",
+   "audiometer"
+  ],
+  "etiketler": [
+   "audiometer calibration",
+   "transducer",
+   "earphones",
+   "bone vibrator",
+   "audiometer",
+   "daily listening check",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can an audiometer's earphone be swapped for another model?",
+  "bilgiler": [
+   "Each transducer has its own calibration values.",
+   "Values are model specific; another model gives wrong levels.",
+   "If the earphone changes, recalibrate the audiometer."
+  ],
+  "hashtag": [
+   "audiology",
+   "calibration",
+   "audiometer"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #359",
+   "metin": "Another *earphone?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can an audiometer's earphone be swapped for another model?"
+   ]
+  },
+  {
+   "id": "kalibrasyon",
+   "tur": "zincir",
+   "baslik": "Calibration is *model specific*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Earphone",
+     "tr": "own output",
+     "cumle": 0
+    },
+    {
+     "ad": "Calibration",
+     "tr": "model specific",
+     "cumle": 1
+    },
+    {
+     "ad": "New model",
+     "tr": "recalibrate",
+     "cumle": 2
+    }
+   ],
+   "alt": "Small fault, _wrong audiogram_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Each transducer has its own output and its own calibration values.",
+    "These values are specific to the earphone model.",
+    "Plug in another model, and levels are wrong; recalibrate the audiometer.",
+    "Even a small transducer fault can make the whole audiogram misleading."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D015",
+ "kaynak_baslik": "Transducers: How Microphones and Speakers Work"
+}

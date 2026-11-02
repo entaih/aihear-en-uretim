@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R300_Weak_Sound_Filter_First_EN",
+ "kapak": {
+  "ust": "QUICK FACT #300",
+  "baslik": "Weak sound: *filter first*",
+  "alt": "Check maintenance before adding gain",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Hearing aid sounds weak: should you turn up the gain? #shorts",
+  "aciklama": "The most common cause of a weak-sounding aid is a wax guard partly blocked by earwax; replacing it usually restores the sound. If gain is raised instead, the aid becomes too loud once the filter is changed, so check the battery, wax guard, dome or tubing, and the ear canal with otoscopy first.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "maintenance"
+  ],
+  "etiketler": [
+   "hearing aid care",
+   "wax guard",
+   "weak sound",
+   "troubleshooting",
+   "earwax",
+   "listening stethoscope",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Hearing aid sounds weak: should you turn up the gain?",
+  "bilgiler": [
+   "The most common cause of weak sound is a clogged wax guard.",
+   "Replacing the filter usually restores the sound.",
+   "Check battery, filter, dome and ear canal before adding gain."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "maintenance"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #300",
+   "metin": "Weak sound, *more gain?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Hearing aid sounds weak: should you turn up the gain?"
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "zincir",
+   "baslik": "Care first, *then settings*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Battery",
+     "tr": "power source",
+     "cumle": 1
+    },
+    {
+     "ad": "Wax guard",
+     "tr": "clogged?",
+     "cumle": 2
+    },
+    {
+     "ad": "Ear canal",
+     "tr": "otoscopy",
+     "cumle": 3
+    }
+   ],
+   "alt": "Not settings: _care first_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "With a weak sound complaint, do not rush to add gain.",
+    "First check the battery; a weak battery hides behind many faults.",
+    "The most common cause is a wax guard partly blocked by earwax.",
+    "Also check the dome, tubing, and the ear canal with otoscopy.",
+    "Raise gain instead, and a new filter makes the aid too loud."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D197",
+ "kaynak_baslik": "Hearing Aid Care and Common Faults"
+}

@@ -1,0 +1,108 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R433_High_Frequency_Loss_and_Gap_Threshold_EN",
+ "kapak": {
+  "ust": "QUICK FACT #433",
+  "baslik": "Long threshold: *the ear?*",
+  "alt": "The gaps-in-noise test",
+  "cizim": "dalga_bicimi",
+  "ayar": {
+   "seriler": [
+    "gurultu"
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does a long gap detection threshold always mean a brain problem? #shorts",
+  "aciklama": "In the gaps-in-noise test (GIN), gaps of 2 to 20 milliseconds are placed in six-second segments of noise; in normal adults the approximate threshold is about 5 milliseconds. Because gap detection in broadband noise also uses high-frequency information, the threshold may be longer in a person with high-frequency hearing loss; so temporal tests are interpreted together with pure tone thresholds.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "APD",
+   "temporalprocessing"
+  ],
+  "etiketler": [
+   "gaps-in-noise test",
+   "GIN",
+   "gap detection",
+   "temporal resolution",
+   "peripheral hearing loss",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does a long gap detection threshold always mean a brain problem?",
+  "bilgiler": [
+   "In normal adults, the approximate threshold is about 5 milliseconds.",
+   "With high-frequency loss, the threshold may be longer.",
+   "Results are read together with pure tone thresholds."
+  ],
+  "hashtag": [
+   "audiology",
+   "APD",
+   "temporalprocessing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #433",
+   "metin": "Always *the brain?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does a long gap detection threshold always mean a brain problem?"
+   ]
+  },
+  {
+   "id": "gin",
+   "tur": "zincir",
+   "baslik": "Gap *threshold*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Normal",
+     "tr": "about 5 ms",
+     "cumle": 1
+    },
+    {
+     "ad": "High-frequency loss",
+     "tr": "may lengthen",
+     "cumle": 2
+    },
+    {
+     "ad": "Interpretation",
+     "tr": "with the audiogram",
+     "cumle": 4
+    }
+   ],
+   "alt": "Audiogram _first_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "In the gaps-in-noise test, short silences are placed in noise.",
+    "In normal adults, the approximate threshold is about five milliseconds.",
+    "With high-frequency hearing loss, this threshold may be longer.",
+    "Gap detection in broadband noise also uses high-frequency information.",
+    "So the result is interpreted together with pure tone thresholds."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D253",
+ "kaynak_baslik": "Temporal Processing Tests: GIN and RGDT"
+}

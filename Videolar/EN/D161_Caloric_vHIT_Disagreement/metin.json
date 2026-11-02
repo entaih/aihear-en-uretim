@@ -1,0 +1,719 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D161_Caloric_vHIT_Disagreement_EN",
+ "kapak": {
+  "ust": "LESSON 161",
+  "baslik": "Caloric and<br>*vHIT*",
+  "alt": "Why can they disagree?",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Why Caloric and vHIT Results Can Disagree | Lesson 161 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson explains why the caloric test and the video head impulse test (vHIT) can give different results. We cover the frequency range of the VOR, the stimulus and canal differences between the two tests, caloric and vHIT dissociation in Meniere's disease, technical causes, and the test battery approach.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jacobson and Shepard, Balance Function Assessment and Management; McGarvie et al., What does the head impulse test versus caloric dissociation reveal about vestibular dysfunction in Ménière's disease?, Annals of the New York Academy of Sciences (2015); Tamanini et al., Dissociation between video head impulse test and caloric test: a marker of Ménière's disease? A systematic review and meta-analysis, Brazilian Journal of Otorhinolaryngology (2023); Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vHIT",
+   "vestibular"
+  ],
+  "etiketler": [
+   "caloric test",
+   "vHIT",
+   "video head impulse test",
+   "VOR frequency range",
+   "caloric vHIT dissociation",
+   "Meniere's disease",
+   "test battery approach",
+   "VEMP",
+   "rotary chair",
+   "vestibular assessment",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 161",
+   "baslik": "Caloric and *vHIT* dissociation",
+   "alt": "Why can the results differ?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn why the caloric test and the video head impulse test, or vHIT, can give different results.",
+    "We will cover the frequency range of the vestibulo-ocular reflex, or VOR, dissociation in Meniere's disease, and the test battery principle."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Different frequencies",
+   "baslik": "The *frequency* range of the VOR",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.001,
+     "max": 10,
+     "log": true,
+     "ad": "Stimulus frequency (Hz)",
+     "isaretler": [
+      0.001,
+      0.01,
+      0.1,
+      1,
+      10
+     ],
+     "yazilar": {
+      "0.001": "0.001",
+      "0.01": "0.01",
+      "0.1": "0.1",
+      "1": "1",
+      "10": "10"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 4,
+     "adim": 1,
+     "ad": "",
+     "yazilar": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+     }
+    },
+    "bolgeler": [
+     {
+      "ad": "kalorik",
+      "x": [
+       0.002,
+       0.005
+      ],
+      "renk": "mavi",
+      "etiket": "caloric",
+      "cumle": 1
+     },
+     {
+      "ad": "sandalye",
+      "x": [
+       0.01,
+       0.64
+      ],
+      "renk": "gri",
+      "etiket": "rotary chair",
+      "cumle": 2
+     },
+     {
+      "ad": "vhit",
+      "x": [
+       3,
+       5
+      ],
+      "renk": "kirmizi",
+      "etiket": "vHIT",
+      "cumle": 3
+     },
+     {
+      "ad": "gunluk",
+      "x": [
+       0.5,
+       6
+      ],
+      "renk": "sari",
+      "opak": 0.25,
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "gunluk_yazi",
+      "x": 1.73,
+      "y": 2,
+      "etiket": "everyday head movements",
+      "nokta": false,
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Caloric: _very low_ frequency",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "vHIT: _high_ frequency",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "The vestibulo-ocular reflex, or VOR, works over a wide range, from very slow head movements to very fast ones.",
+    {
+     "yazi": "The caloric test probes the lowest end of this range; its stimulus is equivalent to a very slow rotation of about 0.003 hertz.",
+     "ses": "The caloric test probes the lowest end of this range; its stimulus is equivalent to a very slow rotation of about zero point zero zero three hertz."
+    },
+    {
+     "yazi": "Rotary chair testing usually assesses low and middle frequencies, between about 0.01 and 0.64 hertz.",
+     "ses": "Rotary chair testing usually assesses low and middle frequencies, between about zero point zero one and zero point six four hertz."
+    },
+    "vHIT, with its brief and very fast head impulses, probes high frequencies, at about three to five hertz depending on the source.",
+    "The everyday movements we make while walking and turning the head lie mostly in this high-frequency region.",
+    "So the two tests look at different working ranges of the same reflex; this is the first and most basic explanation of dissociation."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Different frequencies",
+   "baslik": "*How* do the two tests differ?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Stimulus",
+     "metin": "Caloric uses temperature, vHIT uses head movement.",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ear",
+     "metin": "Caloric: each ear separately; vHIT: mainly the stimulated canal.",
+     "cumle": 2
+    },
+    {
+     "ikon": "vertigo",
+     "baslik": "Canals",
+     "metin": "Caloric: lateral only; vHIT: six canals.",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Measure",
+     "metin": "Caloric: slow-phase velocity; vHIT: gain.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Besides frequency, there are other differences between the two tests.",
+    "The caloric test stimulates the canal with a temperature difference, while vHIT uses a real, fast head movement.",
+    "The caloric test stimulates each ear separately; in vHIT both sides move together, but the response mainly reflects the stimulated canal.",
+    "The caloric test can examine only the lateral canal, while vHIT can examine all six canals.",
+    "The caloric result is expressed as slow-phase velocity and a comparison of the two ears; the vHIT result as gain and saccades.",
+    "Because of these differences, the two tests are not expected to replace each other; they complement each other."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Dissociation patterns",
+   "baslik": "Four possible *results*",
+   "sutunlar": [
+    "Caloric",
+    "vHIT",
+    "Example condition"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "Normal",
+      "No canal loss"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Abnormal",
+      "Abnormal",
+      "Marked canal loss"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Abnormal",
+      "Normal",
+      "Meniere's disease"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Normal",
+      "Abnormal",
+      "Vertical canal involvement"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Together, the results of the two tests can appear in four different ways.",
+    "If both tests are normal, no marked canal loss is expected; however, the otolith organs or central pathways are assessed separately.",
+    "If both tests are abnormal, as in acute vestibular neuritis for example, there is a marked canal loss.",
+    "A reduced caloric response with normal vHIT is the most discussed dissociation; this picture is common in Meniere's disease.",
+    "The reverse dissociation, a normal caloric with abnormal vHIT, is less common.",
+    "As the caloric test measures only the lateral canal, a problem of the posterior canal alone may give a normal caloric but an abnormal vHIT."
+   ]
+  },
+  {
+   "id": "meniere",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Dissociation patterns",
+   "baslik": "Dissociation in *Meniere's* disease",
+   "cizim": "vestibuler",
+   "ayar": {
+    "akuadukt": true,
+    "akuadukt_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "lateral_kanal",
+     "metin": "Lateral canal",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "metin": "Endolymphatic sac",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampulla and cupula",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "lateral_kanal",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Caloric reduced, _vHIT normal_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Possible cause: _hydrops_",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "In Meniere's disease, the caloric response is often reduced in the affected ear, but vHIT gain in the same ear can stay normal.",
+    "In one meta-analysis, this dissociation was reported in about half of patients with Meniere's disease.",
+    "The most widely accepted explanation involves endolymphatic hydrops, that is, an increase in endolymph volume.",
+    "In hydrops, heat-driven flow in the enlarged membranous canal may circulate and dissipate, failing to deflect the cupula enough.",
+    "In a fast head movement, however, the mechanism that deflects the cupula is preserved, so vHIT stays normal.",
+    "Other explanations have also been proposed, so dissociation is not diagnostic, but together with the history it is a valuable clue."
+   ]
+  },
+  {
+   "id": "anlam",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Dissociation patterns",
+   "baslik": "What does dissociation *tell us?*",
+   "maddeler": [
+    {
+     "metin": "Shows the _frequency region_ of loss",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "vHIT normal: _gaze stabilization_ preserved",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Oscillopsia _may not be expected_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Caloric: asymmetry at _low frequency_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Adds _information_ during follow-up",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "faz_egrileri",
+    "cumle": 1,
+    "ayar": {
+     "faz": 0,
+     "kazanc": 0.95,
+     "bas_cumle": 1,
+     "goz_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "bas_hizi",
+      "metin": "Head velocity",
+      "cumle": 1
+     },
+     {
+      "parca": "goz_hizi",
+      "metin": "Eye velocity",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Dissociation tells us which frequency region the vestibular loss affects.",
+    "If vHIT is normal, gaze stabilization during fast head movements is largely preserved.",
+    "So these patients usually do not describe the image slipping with head movement, that is, oscillopsia.",
+    "Caloric asymmetry, on the other hand, shows a difference between the two ears in the low-frequency response.",
+    "During follow-up, changes in the two tests over time can give extra information about the course of the disease.",
+    "This information also guides the physician and the team in planning rehabilitation."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Dissociation patterns",
+   "baslik": "Other *dissociations*",
+   "maddeler": [
+    {
+     "metin": "Partial loss: _low frequency_ first",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Gain may _recover_ over time",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Vestibular migraine: _often_ normal",
+     "cumle": 3,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Vertical canal: _only vHIT_ shows it",
+     "cumle": 4,
+     "ikon": "vertigo"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Partial loss",
+      "metin": "Caloric more sensitive",
+      "cumle": 0
+     },
+     {
+      "ikon": "vertigo",
+      "baslik": "Vertical canal",
+      "metin": "vHIT only",
+      "cumle": 4
+     }
+    ],
+    "ust": "EXAMPLES"
+   },
+   "cumleler": [
+    "In partial canal losses, the low-frequency response may fail before the high-frequency one; then the caloric test may be more sensitive.",
+    "In marked losses, both tests are usually abnormal.",
+    "During follow-up after a unilateral loss, the two tests may recover at different rates.",
+    "In vestibular migraine both tests are often normal; some patients show mild, variable findings.",
+    "A problem affecting only the anterior or posterior canal can be shown only with vHIT.",
+    "These patterns are a guide; the same disease can give different findings, and different diseases can give similar ones."
+   ]
+  },
+  {
+   "id": "teknik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The test battery",
+   "baslik": "*Technical* causes first",
+   "maddeler": [
+    {
+     "metin": "Caloric: did the stimulus _get through_?",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ear canal and _middle ear_ anatomy",
+     "cumle": 1,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Distracted patient: _suppressed_ response",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "vHIT: _goggle slippage_",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "vHIT: _slow_ head impulses",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "When you see dissociation, question recording quality first; a technical error can create a false dissociation.",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Before interpreting a dissociation, make sure both tests were technically performed correctly.",
+    "In the caloric test, if water or air did not reach deep into the canal, or the canal is narrow or curved, the response may be falsely small.",
+    "A distracted or drowsy patient during the caloric test can also suppress nystagmus and create a false weakness.",
+    "In vHIT, goggle slippage can make gain falsely high or falsely low.",
+    "Head impulses that are not fast enough can make a weak side look normal.",
+    "So when dissociation is seen, the recordings are reviewed first, and a doubtful test is repeated if needed."
+   ]
+  },
+  {
+   "id": "tamamlayici",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The test battery",
+   "baslik": "Each test is *a window*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Caloric",
+     "metin": "Lateral canal, very low frequency, each ear separately.",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "vHIT",
+     "metin": "Six canals, high frequency.",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "VEMP",
+     "metin": "Otolith organs: saccule and utricle.",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Rotary chair",
+     "metin": "Middle frequencies, bilateral loss.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the test battery approach, each test is like a window onto a different part of the vestibular system.",
+    "The caloric test assesses the lateral canal of each ear separately at a very low frequency.",
+    "vHIT shows the function of all six canals at high frequency.",
+    "Vestibular evoked myogenic potential, or VEMP, tests examine not the canals but the otolith organs, that is, the saccule and utricle.",
+    "The rotary chair assesses middle frequencies and is especially valuable for confirming bilateral losses.",
+    "No single test shows the whole vestibular system, so the tests are interpreted together."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The test battery",
+   "baslik": "*Planning* the battery",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "History",
+     "metin": "Define the question",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Hearing",
+     "metin": "Audiogram, immittance",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Canals",
+     "metin": "vHIT and caloric",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Otoliths",
+     "metin": "cVEMP and oVEMP",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Joint interpretation",
+     "metin": "Report the pattern",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The test battery starts with the history; the question to be answered determines the choice of tests.",
+    "Audiogram and immittance findings are needed, especially for Meniere's disease and for VEMP interpretation.",
+    "For canal function, vHIT and the caloric test are used together; a dissociation is a finding in its own right.",
+    "Otolith function is added with VEMP tests; if needed, rotary chair testing and posturography are also planned.",
+    "Finally, the findings are reported not one by one but as a pattern, and the interpretation is shared with the physician."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The test battery",
+   "baslik": "Example *findings*",
+   "sutunlar": [
+    "Test",
+    "Right",
+    "Left"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Caloric response",
+      "Normal",
+      "40 percent weakness"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "vHIT lateral gain",
+      "0.95",
+      "0.92"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Audiogram",
+      "Normal",
+      "Low-frequency loss"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "cVEMP",
+      "Normal",
+      "Normal"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Now let us look at the findings of a purely example patient.",
+    "The caloric test shows a forty percent unilateral weakness in the left ear.",
+    {
+     "yazi": "In the same patient, vHIT lateral canal gains are normal on both sides: 0.95 on the right and 0.92 on the left.",
+     "ses": "In the same patient, vHIT lateral canal gains are normal on both sides: zero point nine five on the right and zero point nine two on the left."
+    },
+    "The audiogram shows a low-frequency sensorineural loss in the left ear.",
+    "Together with the history, this pattern fits a picture that should be assessed for Meniere's disease.",
+    "Diagnosis and treatment decisions belong to the physician; the audiologist's task is to report this pattern clearly and completely."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "When caloric and vHIT results disagree, do not call one of them wrong. Verify the technique first, then report the dissociation as a finding.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: when caloric and vHIT results differ, do not ask which one is right.",
+    "If both tests were done correctly, both are right; they simply measure different frequencies.",
+    "After ruling out technical causes, state the dissociation clearly in the report.",
+    "This information is an important clue for the physician in weighing the possible causes."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Caloric low, vHIT _high_ frequency",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Caloric reduced, vHIT normal: common in _Meniere's_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Rule out _technical_ causes first",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "The tests _complement_ each other",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "The caloric test probes the VOR at very low frequency and vHIT at high frequency, so their results can differ.",
+    "A reduced caloric response with normal vHIT is a common dissociation in Meniere's disease.",
+    "Before interpreting a dissociation, the technical quality of both tests is verified.",
+    "Caloric, vHIT and VEMP tests do not replace one another; they are interpreted together as a test battery."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Reduced caloric, normal vHIT: most common in?",
+   "secenekler": [
+    "Meniere's disease",
+    "Bilateral vestibulopathy",
+    "Acute vestibular neuritis"
+   ],
+   "dogru": 0,
+   "aciklama": "In Meniere's disease the caloric response is often reduced, while _vHIT_ often stays normal.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in which condition is a reduced caloric response with a normal vHIT most commonly seen?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: Meniere's disease.",
+    "In bilateral loss and in acute neuritis, the two tests are usually abnormal together."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Rotary Chair and *Computerized* Posturography",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn rotary chair testing and computerized dynamic posturography.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

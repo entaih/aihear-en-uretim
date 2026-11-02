@@ -1,0 +1,1348 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D287_Case_Baby_Did_Not_Pass_Newborn_Screening_EN",
+ "kapak": {
+  "ust": "LESSON 287",
+  "baslik": "Case: a baby who<br>*did not pass*",
+  "alt": "Diagnostic ABR and sharing with the family",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Case: A Baby Who Did Not Pass Newborn Screening | Lesson 287 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional infant case, we follow the process from a refer result on newborn hearing screening to hearing aid fitting: two-stage screening, the JCIH 1-3-6 goals, 1000 Hz tympanometry, DPOAEs, click ABR in two polarities and threshold estimation with tone burst ABR, sharing the result with the family, and the timing of amplification.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Joint Committee on Infant Hearing, Year 2019 Position Statement; American Academy of Audiology, Clinical Guidelines on Pediatric Amplification (2013); NHSP and BSA, Guidelines for the Early Audiological Assessment and Management of Babies Referred from the Newborn Hearing Screening Programme; Hall, eHandbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "newbornhearingscreening",
+   "casestudy"
+  ],
+  "etiketler": [
+   "newborn hearing screening",
+   "refer result",
+   "diagnostic ABR",
+   "1000 Hz tympanometry",
+   "JCIH 1-3-6",
+   "early amplification",
+   "tone burst ABR",
+   "sharing a diagnosis with families",
+   "pediatric audiology",
+   "audiology case study",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 287",
+   "baslik": "Case: a baby who *did not pass*",
+   "alt": "Diagnostic ABR, family sharing and timing of amplification",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we begin the pediatric cases: we follow a baby who did not pass screening, from the diagnostic center to hearing aid fitting.",
+    {
+     "yazi": "We will apply diagnostic auditory brainstem response, 1000 hertz tympanometry, sharing results with the family and amplification timing.",
+     "ses": "We will apply diagnostic auditory brainstem response, one thousand hertz tympanometry, sharing results with the family and amplification timing."
+    }
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History and screening",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "A full-term example baby",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Well-baby nursery, uneventful birth",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "No known _risk indicator_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "No family history of hearing loss",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Mother: seems to startle to sound",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Birth",
+      "metin": "Thirty-nine weeks",
+      "cumle": 0
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "Unit",
+      "metin": "Well-baby nursery",
+      "cumle": 1
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Risk",
+      "metin": "No known indicator",
+      "cumle": 2
+     }
+    ],
+    "ust": "HISTORY"
+   },
+   "cumleler": [
+    "Our case is entirely fictional: a baby born healthy at full term, at thirty-nine weeks.",
+    "The birth was uneventful; the baby did not stay in the neonatal intensive care unit and was cared for in the well-baby nursery.",
+    "There is no known risk indicator, such as hyperbilirubinemia, infection, or a craniofacial or ear anomaly.",
+    "There is also no family history of hearing loss beginning in childhood.",
+    "The mother says the baby startles when a door slams, so she thinks the baby hears well.",
+    "Yet startling to loud sounds does not rule out a mild or moderate loss.",
+    "Also, about half of babies with congenital hearing loss have no known risk factor; this is why screening is universal."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "History and screening",
+   "baslik": "From screening to *diagnosis*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "OAE",
+     "metin": "Day two: referred both ears",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "AABR",
+     "metin": "Before discharge: referred",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Appointment",
+     "metin": "Before leaving hospital",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Reminder",
+     "metin": "Two contact numbers",
+     "cumle": 4
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Diagnostic center",
+     "metin": "At four weeks",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The hospital uses a two-stage protocol: the first screen is done with otoacoustic emissions, or OAEs.",
+    "On day two, the baby did not pass the OAE screen in either ear.",
+    "Before discharge, an automated auditory brainstem response, or AABR, was done, and the baby did not pass this test in either ear either.",
+    "A baby who also refers on AABR goes straight to diagnostic assessment; the appointment was given before the family left the hospital.",
+    "Two separate phone numbers for the family were recorded, and a reminder was given before the appointment.",
+    "At four weeks of age, the baby comes to an audiology unit experienced with children."
+   ]
+  },
+  {
+   "id": "hedef",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "History and screening",
+   "baslik": "The 1-3-*6* goals",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "One month",
+     "metin": "Screening completed",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Three months",
+     "metin": "Diagnosis made",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Six months",
+     "metin": "Intervention begins",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "This baby",
+     "metin": "Diagnosis at four weeks",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The Joint Committee on Infant Hearing, or JCIH, recommends that screening be completed by the end of the first month.",
+    "Diagnosis should be made by the end of the third month; for programs that already meet this goal, two months is recommended.",
+    "Early intervention should start no later than the end of the sixth month.",
+    "In our case, the diagnostic assessment is done at four weeks; so we are well ahead of the goal."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic assessment",
+   "baslik": "*Preparing* for the appointment",
+   "maddeler": [
+    {
+     "metin": "Natural sleep, no sedation",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Book around feeding times",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Bring the baby tired and hungry",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Long session: close to two hours",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Search for the cause: physician",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Natural sleep",
+      "metin": "Recording without sedation",
+      "cumle": 0
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Timing",
+      "metin": "Around feeding times",
+      "cumle": 1
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Physician",
+      "metin": "Search for the cause",
+      "cumle": 4
+     }
+    ],
+    "ust": "PLAN"
+   },
+   "cumleler": [
+    "In the first few months, diagnostic auditory brainstem response, or ABR, can often be done during natural sleep, without sedation.",
+    "The appointment is set around the baby's usual feeding and sleep times.",
+    "The family is asked to bring the baby a little tired and hungry, and to feed the baby at the clinic.",
+    "They are told in advance that the session may be long, and that a second appointment may be given if needed.",
+    "A physician's assessment is also planned without delay; congenital cytomegalovirus testing should be done in the first three weeks of life."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic assessment",
+   "baslik": "The diagnostic *test battery*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "History, otoscopy",
+     "metin": "Is the canal clear?",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tympanometry",
+     "metin": "1000 Hz probe tone",
+     "cumle": 1
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "OAE",
+     "metin": "Outer hair cells",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Click ABR",
+     "metin": "Two polarities, high level",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tone burst ABR",
+     "metin": "Frequency-specific threshold",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The session starts with a detailed history and otoscopy; vernix left in the ear canal can affect many tests.",
+    "In babies under six months, the middle ear is assessed with a one thousand hertz probe tone.",
+    "OAEs show outer hair cell function and are interpreted together with the ABR.",
+    "Click ABR at a high level, in two polarities, assesses the integrity of the neural pathway and the possibility of auditory neuropathy.",
+    "Frequency-specific tone burst ABR is the basis of threshold estimation in each ear; bone conduction ABR is added if needed.",
+    "The order may vary by center; what matters is that the most critical information is obtained before the baby wakes."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic assessment",
+   "baslik": "A *positive peak* at 1000 Hz",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Pressure (daPa)"
+    },
+    "y": {
+     "min": 0.4,
+     "max": 1.6,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admittance (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        -300,
+        0.75
+       ],
+       [
+        -200,
+        0.82
+       ],
+       [
+        -150,
+        0.9
+       ],
+       [
+        -100,
+        1.05
+       ],
+       [
+        -60,
+        1.25
+       ],
+       [
+        -30,
+        1.38
+       ],
+       [
+        0,
+        1.4
+       ],
+       [
+        30,
+        1.32
+       ],
+       [
+        60,
+        1.15
+       ],
+       [
+        100,
+        1.0
+       ],
+       [
+        150,
+        0.95
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "right: positive peak",
+      "etiket_konum": [
+       40,
+       1.45
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        -400,
+        0.68
+       ],
+       [
+        -300,
+        0.73
+       ],
+       [
+        -200,
+        0.8
+       ],
+       [
+        -150,
+        0.88
+       ],
+       [
+        -100,
+        1.02
+       ],
+       [
+        -60,
+        1.21
+       ],
+       [
+        -30,
+        1.33
+       ],
+       [
+        0,
+        1.35
+       ],
+       [
+        30,
+        1.27
+       ],
+       [
+        60,
+        1.11
+       ],
+       [
+        100,
+        0.97
+       ],
+       [
+        150,
+        0.92
+       ],
+       [
+        200,
+        0.9
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "left: positive peak",
+      "etiket_konum": [
+       -330,
+       1.1
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "baseline",
+      "etiket_konum": [
+       -330,
+       0.6
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Probe tone: _1000 Hz_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Both ears: _positive peak_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "No middle ear problem suspected",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "We look at the middle ear first; the measurement is made with a one thousand hertz probe tone.",
+    "In the right ear there is a peak rising clearly above the baseline that joins the two ends of the curve.",
+    "The left ear shows a similar positive peak.",
+    "This pattern is consistent with normal middle ear function in both ears.",
+    {
+     "yazi": "At this age, a 226 hertz measurement is not used alone, because it can show a peak even when fluid is present.",
+     "ses": "At this age, a two hundred twenty-six hertz measurement is not used alone, because it can show a peak even when fluid is present."
+    }
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic assessment",
+   "baslik": "OAE: *absent* in both ears",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "F2 frequency (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 30,
+     "adim": 10,
+     "ad": "Level (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        1000,
+        -4
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -8
+       ],
+       [
+        3000,
+        -9
+       ],
+       [
+        4000,
+        -10
+       ],
+       [
+        6000,
+        -9
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "etiket": "noise floor",
+      "cumle": 1
+     },
+     {
+      "ad": "sag_dp",
+      "noktalar": [
+       [
+        1000,
+        -5
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        3000,
+        -8
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "right",
+      "cumle": 2
+     },
+     {
+      "ad": "sol_dp",
+      "noktalar": [
+       [
+        1000,
+        -3
+       ],
+       [
+        1500,
+        -7
+       ],
+       [
+        2000,
+        -7
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -9
+       ],
+       [
+        6000,
+        -8
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "left",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "beklenen",
+      "y": [
+       5,
+       25
+      ],
+      "renk": "sari",
+      "etiket": "expected response region (example)",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Emissions: _at noise level_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal middle ear, no OAEs",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Next, distortion product OAEs, or DPOAEs, are recorded.",
+    "The gray region shows the noise floor at each frequency.",
+    "The right ear's measurements stay within the noise floor; there is no meaningful emission.",
+    "The same is true in the left ear.",
+    "The yellow region shows an example level where a response could be expected in a baby with normal hearing.",
+    "Absent OAEs with a normal middle ear suggest that outer hair cell function in the cochlea is affected.",
+    "But OAEs do not assess the auditory nerve, nor do they tell us the degree of hearing loss."
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic assessment",
+   "baslik": "Click ABR: *wave V* present",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0.2
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Wave V",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_I",
+     "metin": "Wave I",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Click: _eighty dB nHL_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Does not invert_ with polarity",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_No_ ANSD finding",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "When the baby falls asleep, click ABR is recorded at a high level, eighty decibels nHL.",
+    "Wave V is seen reproducibly in both ears; waves I and III are smaller but can be identified.",
+    "Wave V latency is near the upper limit of the age-expected range; this can be seen at high levels in cochlear loss.",
+    "When recordings are made separately in condensation and rarefaction polarities, the waves do not invert.",
+    "There is no large cochlear microphonic that follows the stimulus waveform and inverts with polarity.",
+    "So there is a neural response; the picture does not fit auditory neuropathy spectrum disorder, or ANSD."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic assessment",
+   "baslik": "Tone burst ABR: *estimated* thresholds",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 20,
+     "ad": "Estimated threshold (dB eHL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        55
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        4000,
+        65
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "right (eHL)",
+      "cumle": 3
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        50
+       ],
+       [
+        2000,
+        55
+       ],
+       [
+        4000,
+        60
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "left (eHL)",
+      "cumle": 4,
+      "kesik": true
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "normal",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "First _2000 Hz_, then 500",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Estimated threshold, _not exact_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bone conduction: sensorineural",
+     "cumle": 6,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "To estimate thresholds, tone burst ABR is tested at five hundred, one thousand, two thousand and four thousand hertz in each ear.",
+    "To get the most information before the baby woke, two thousand hertz was done first in both ears, then five hundred hertz.",
+    "The nHL thresholds found are converted with frequency-specific corrections to estimated hearing level, or eHL.",
+    "In the right ear, estimated thresholds are between fifty and sixty-five decibels, sloping slightly toward the high frequencies.",
+    "In the left ear, thresholds are between forty-five and sixty decibels; the two ears are similar.",
+    "On bone conduction ABR, there was no response even at the highest level the bone vibrator could deliver.",
+    "Together with a normal one thousand hertz tympanogram, this finding supports a sensorineural loss."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation and family",
+   "baslik": "*Combine* the findings",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Middle ear",
+     "metin": "Peak at 1000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "OAE",
+     "metin": "Absent in both ears",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Click ABR",
+     "metin": "Neural response present",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Thresholds",
+     "metin": "Moderate, both ears",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Outcome",
+     "metin": "To physician and family",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Let's combine the findings in order: the middle ear functions normally on both sides.",
+    "Absent OAEs fit a cochlear problem affecting the outer hair cells.",
+    "Click ABR shows neural waves and no large cochlear microphonic; this does not suggest a neural problem.",
+    "Estimated thresholds show a moderate loss in both ears.",
+    "These findings are consistent with a bilateral moderate sensorineural loss; the physician leads diagnosis and the search for the cause.",
+    "Because the tests confirm each other, we are ready to share the result with the family."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation and family",
+   "baslik": "Sharing the result with the *family*",
+   "maddeler": [
+    {
+     "metin": "A quiet, private room, unhurried",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "State the result clearly and simply",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Leave silence, accept emotions",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Two or three key messages, in writing",
+     "cumle": 4,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Check with _teach-back_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 3,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        50,
+        55,
+        60,
+        65,
+        null
+       ]
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        null,
+        45,
+        50,
+        55,
+        60,
+        null
+       ]
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "The conversation takes place in a quiet, private room, at a time when both parents can be present.",
+    "The result is stated without a long introduction: we found hearing loss in both of your baby's ears in the tests.",
+    "The conversation does not go on right after this sentence; a short silence is left for the family to react.",
+    "When the family is ready, a visual like the speech banana shows which speech sounds the baby may not hear without hearing aids.",
+    "Two or three key messages are enough at the first meeting: there is a hearing loss, a lot can be done, and the next step is on this date.",
+    "The family is asked to say in their own words what they will remember from today; this is called teach-back."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "A baby who startles at a door can still have a moderate loss. Explain this to the family with an example; meet denial without blame.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: families often dispute the result by saying the baby startles at loud sounds.",
+    "This objection may be a form of denial; rather than correcting the family, value their observation.",
+    "Explain that sounds like a slamming door can be heard even with a moderate loss, but the soft sounds of speech can be missed.",
+    "At the same meeting, give them in writing whom they can call with questions and the next appointment."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation and family",
+   "baslik": "Referrals *after* diagnosis",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Physician",
+     "metin": "ENT and pediatrician",
+     "cumle": 0
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetics",
+     "metin": "Counseling option",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Eye exam",
+     "metin": "On physician advice",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Early intervention",
+     "metin": "Family-centered program",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The results are sent in writing to the baby's physician; the cause of the loss is investigated through ENT and pediatric assessment.",
+    "Genetic assessment and genetic counseling for the family can be planned on the physician's advice.",
+    "Because some syndromes linked to hearing loss also have eye findings, an eye exam may be requested.",
+    "The family is introduced to a family-centered early intervention program that supports language and communication development.",
+    "The screening program's database is also updated with the diagnosis, so the baby is not lost to follow-up."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Hearing aids and follow-up",
+   "baslik": "*Timing* of hearing aids",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Diagnosis",
+     "metin": "Week four",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Family decision",
+     "metin": "Options are explained",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Earmold and RECD",
+     "metin": "Ear-specific measurement",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Fitting",
+     "metin": "Within about a month",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Early intervention",
+     "metin": "Before six months",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A diagnosis at four weeks is a chance to bring hearing aid fitting forward too.",
+    "The family hears about options, expectations and the importance of wearing hearing aids during all waking hours; the decision is theirs.",
+    "An earmold impression is taken, and the real-ear-to-coupler difference, or RECD, is measured on the baby's ear if possible.",
+    "If the family chooses hearing aids, the JCIH recommends fitting within about a month of diagnosis; for this baby, around month two.",
+    "The device is set from estimated thresholds to a validated prescription, such as Desired Sensation Level or NAL, and verified in the ear.",
+    "The early intervention program also starts before six months, ideally at the same time as the hearing aids."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Hearing aids and follow-up",
+   "baslik": "Follow-up and *verification*",
+   "maddeler": [
+    {
+     "metin": "Thresholds with VRA at month seven",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Compare with the ABR estimate",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Data logging and family observations",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "RECD and earmolds as ears grow",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Regular follow-up for progressive loss",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        50,
+        55,
+        60,
+        65,
+        null
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        null,
+        45,
+        50,
+        55,
+        60,
+        null
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "When the baby is developmentally ready, at seven months in our example, visual reinforcement audiometry, or VRA, is done.",
+    "With insert earphones, ear-specific thresholds are fifty to sixty-five on the right and forty-five to sixty decibels HL on the left.",
+    "These values agree with the ABR estimates; this agreement increases confidence in the hearing aid settings.",
+    "At each check, the device's data logging and the family's daily observations are reviewed together.",
+    "As the ear canal grows, the RECD is measured again and the earmolds are remade.",
+    "Because the loss may progress over time, regular audiological follow-up is planned for the first years."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Hearing aids and follow-up",
+   "baslik": "Sample *report* wording",
+   "maddeler": [
+    {
+     "metin": "1000 Hz tympanometry: peaks, both ears",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "DPOAE: absent in both ears",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Click ABR: wave V present, no CM",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Estimated thresholds: moderate",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Advice: physician, early intervention, hearing aids",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 3,
+    "ayar": {
+     "x": {
+      "min": 500,
+      "max": 4000,
+      "log": true,
+      "hz": true,
+      "ad": "Frequency (Hz)",
+      "isaretler": [
+       500,
+       1000,
+       2000,
+       4000
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 100,
+      "adim": 20,
+      "ad": "Estimated threshold (dB eHL)",
+      "ters": true
+     },
+     "seriler": [
+      {
+       "ad": "sag",
+       "noktalar": [
+        [
+         500,
+         50
+        ],
+        [
+         1000,
+         55
+        ],
+        [
+         2000,
+         60
+        ],
+        [
+         4000,
+         65
+        ]
+       ],
+       "renk": "kirmizi",
+       "isaretli": true,
+       "etiket": "right (eHL)",
+       "cumle": 3
+      },
+      {
+       "ad": "sol",
+       "noktalar": [
+        [
+         500,
+         45
+        ],
+        [
+         1000,
+         50
+        ],
+        [
+         2000,
+         55
+        ],
+        [
+         4000,
+         60
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "etiket": "left (eHL)",
+       "cumle": 3,
+       "kesik": true
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Sample report wording might be: with a one thousand hertz probe tone, positive peaked tympanograms were obtained in both ears.",
+    "DPOAEs were not present above the noise floor at the tested frequencies in either ear.",
+    "Click ABR was recorded at eighty decibels nHL in two polarities; wave V present in both ears, no clear cochlear microphonic.",
+    "Estimated thresholds with tone burst ABR are fifty to sixty-five on the right and forty-five to sixty decibels eHL on the left.",
+    "Findings are consistent with bilateral moderate sensorineural loss; physician review, early intervention and hearing aids are planned."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "AABR refer: straight to diagnostic assessment",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "1000 Hz tympanometry, OAE, two-polarity ABR",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Share results clearly, simply, in writing",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Hearing aids about a month after diagnosis",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "A baby who did not pass screening is referred promptly to diagnostic assessment, with the appointment given before leaving the hospital.",
+    {
+     "yazi": "The diagnostic battery is 1000 hertz tympanometry, OAEs, click ABR in two polarities and frequency-specific tone burst ABR.",
+     "ses": "The diagnostic battery is one thousand hertz tympanometry, OAEs, click ABR in two polarities and frequency-specific tone burst ABR."
+    },
+    "The result is shared with the family in a quiet setting, in plain language, leaving room for emotion, with a written note.",
+    "If the family chooses, hearing aids are fitted within about a month of diagnosis; early intervention starts before six months."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which probe tone for the middle ear of a four-week-old?",
+   "secenekler": [
+    "226 Hz",
+    "1000 Hz",
+    "678 Hz",
+    "No probe tone needed"
+   ],
+   "dogru": 1,
+   "aciklama": "In babies under six months, a _1000 Hz_ probe tone is used.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a four-week-old baby, which probe tone is used to assess the middle ear?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: one thousand hertz.",
+    "At this age, a two hundred twenty-six hertz tympanogram can look peaked and normal even with fluid in the middle ear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: Present OAEs, *Absent* ABR",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case we will look at a baby with OAEs but no recordable ABR, and at auditory neuropathy.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

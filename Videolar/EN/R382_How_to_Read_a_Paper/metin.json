@@ -1,0 +1,153 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R382_How_to_Read_a_Paper_EN",
+ "kapak": {
+  "ust": "QUICK FACT #382",
+  "baslik": "How to *read a paper*",
+  "alt": "Abstract, tables, methods, discussion",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 5.5,
+    "adim": 1,
+    "yazilar": {
+     "1": "1",
+     "2": "2",
+     "3": "3",
+     "4": "4",
+     "5": "5"
+    },
+    "ad": "Level of evidence"
+   },
+   "y": {
+    "min": 0,
+    "max": 5,
+    "adim": 1,
+    "ad": "Strength"
+   },
+   "seriler": [
+    {
+     "ad": "guc",
+     "tur": "cubuk",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       2,
+       4
+      ],
+      [
+       3,
+       3
+      ],
+      [
+       4,
+       2
+      ],
+      [
+       5,
+       1
+      ]
+     ],
+     "renk": "mavi"
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "In what order do experienced readers read a paper? #shorts",
+  "aciklama": "Experienced readers do not read a paper straight through. They check the abstract first and decide whether the paper fits their question; next they examine the tables and figures, because the core of the findings is often there. Then the methods are read carefully, and the discussion is read last, because the authors' interpretation is not always the same as what the data really show.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "research",
+   "evidence"
+  ],
+  "etiketler": [
+   "reading research papers",
+   "evidence-based practice",
+   "IMRAD",
+   "methods",
+   "critical appraisal",
+   "research",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "In what order do experienced readers read a paper?",
+  "bilgiler": [
+   "First the abstract: does the paper fit your question?",
+   "Then tables and methods: core findings and reliability.",
+   "The discussion is read last."
+  ],
+  "hashtag": [
+   "audiology",
+   "research",
+   "evidence"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #382",
+   "metin": "Straight *through?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "In what order do experienced readers read a paper?"
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "zincir",
+   "baslik": "The *reading order*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Abstract",
+     "tr": "does it fit?",
+     "cumle": 0
+    },
+    {
+     "ad": "Tables",
+     "tr": "core findings",
+     "cumle": 1
+    },
+    {
+     "ad": "Methods",
+     "tr": "reliability",
+     "cumle": 2
+    }
+   ],
+   "alt": "Discussion _last_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "They check the abstract first and decide if it fits their question.",
+    "Next come tables and figures; the core findings are often there.",
+    "Then they read the methods carefully; reliability depends on them.",
+    "Discussion comes last; the authors' view may differ from the data."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D117",
+ "kaynak_baslik": "How to Read a Research Paper in Audiology"
+}

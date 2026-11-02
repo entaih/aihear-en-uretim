@@ -1,0 +1,134 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R029_Four_Kilohertz_Notch_EN",
+ "kapak": {
+  "ust": "QUICK FACT #29",
+  "baslik": "A *notch* at 4000 Hz",
+  "alt": "A clue that calls for a noise history",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      25,
+      55,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      15,
+      30,
+      60,
+      35
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What does a 4000 Hz notch on an audiogram tell us? #shorts",
+  "aciklama": "A notch where thresholds drop at 4000 Hz and recover at 8000 Hz is typical of noise-induced hearing loss. Still, a diagnosis is not made from the audiogram alone; a detailed noise history is needed. The audiogram shown is an example.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "hearing"
+  ],
+  "etiketler": [
+   "noise notch",
+   "4000 Hz notch",
+   "noise-induced hearing loss",
+   "audiogram configuration",
+   "audiogram",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What does a notch on the audiogram tell us?",
+  "bilgiler": [
+   "The threshold drops at 4000 Hz and recovers at 8000 Hz.",
+   "This notch is typical of noise-induced hearing loss.",
+   "The audiogram alone is not a diagnosis; a noise history is needed."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #29",
+   "metin": "What does a *notch* on the audiogram tell us?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What does a notch on the audiogram tell us?"
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "zincir",
+   "baslik": "Notch and *recovery*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "4000 Hz",
+     "cumle": 0,
+     "tr": "drop"
+    },
+    {
+     "ad": "8000 Hz",
+     "cumle": 1,
+     "tr": "recovery"
+    },
+    {
+     "ad": "History",
+     "cumle": 2,
+     "tr": "ask about noise"
+    }
+   ],
+   "alt": "A _clue_, not a diagnosis on its own",
+   "alt_cumle": 3,
+   "cumleler": [
+    "The threshold drops clearly at four thousand hertz.",
+    "At eight thousand hertz it improves again; this is called recovery.",
+    "Such a notch is typical of noise-induced hearing loss.",
+    "Still, the audiogram alone is not a diagnosis; history matters too."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D063",
+ "kaynak_baslik": "Audiogram Configurations and What They Suggest"
+}

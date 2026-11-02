@@ -1,0 +1,146 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R465_Fluid_in_One_Ear_Three_Reflexes_EN",
+ "kapak": {
+  "ust": "QUICK FACT #465",
+  "baslik": "Three reflexes *absent*",
+  "alt": "Reflexes in one-sided conductive loss",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      35,
+      40,
+      35,
+      30,
+      30,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "With fluid in one middle ear, why do three reflexes disappear? #shorts",
+  "aciklama": "In the example case, the right ear has a type B tympanogram with normal volume, consistent with middle ear fluid. With the probe on the right, the right ipsilateral and left contralateral reflexes are absent, because a fluid-filled middle ear shows no admittance change; with the stimulus right and the probe left the reflex is also absent, because the right conductive loss lowers the level reaching the cochlea. Only with probe and stimulus both on the left is the reflex present at the expected level: no reflex when the problem ear holds the probe or gets the stimulus.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "tympanometry",
+   "immittance"
+  ],
+  "etiketler": [
+   "acoustic reflex",
+   "type B tympanogram",
+   "conductive hearing loss",
+   "middle ear effusion",
+   "immittance",
+   "case study",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "With fluid in one middle ear, why do three reflexes disappear?",
+  "bilgiler": [
+   "With the problem ear holding the probe, no admittance change is measured.",
+   "With the problem ear stimulated, little sound reaches the cochlea.",
+   "Only the healthy ear's ipsilateral reflex is present."
+  ],
+  "hashtag": [
+   "audiology",
+   "tympanometry",
+   "immittance"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #465",
+   "metin": "Why *three reflexes?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "With fluid in one middle ear, why do three reflexes disappear?"
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "zincir",
+   "baslik": "Fluid in the *right ear*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Probe right",
+     "tr": "not measurable",
+     "cumle": 1
+    },
+    {
+     "ad": "Stimulus right",
+     "tr": "weak at cochlea",
+     "cumle": 2
+    },
+    {
+     "ad": "Both left",
+     "tr": "reflex present",
+     "cumle": 3
+    }
+   ],
+   "alt": "One-sided conductive _pattern_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Here, the right middle ear has fluid; the left ear is normal.",
+    "With the probe right, no reflex; fluid shows no admittance change.",
+    "Stimulus right, probe left: still none; little sound reaches the cochlea.",
+    "The reflex appears only with probe and stimulus both on the left.",
+    "The reflex is lost when the problem ear has probe or stimulus."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D272",
+ "kaynak_baslik": "Case: One-Sided Conductive Loss with a Flat Tympanogram"
+}

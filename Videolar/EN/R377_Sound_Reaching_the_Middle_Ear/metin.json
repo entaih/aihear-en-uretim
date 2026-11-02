@@ -1,0 +1,106 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R377_Sound_Reaching_the_Middle_Ear_EN",
+ "kapak": {
+  "ust": "QUICK FACT #377",
+  "baslik": "The absorbance *curve*",
+  "alt": "Wideband immittance",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "prob": "timpanometri"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How much sound in the ear canal reaches the middle ear? #shorts",
+  "aciklama": "In wideband immittance, the proportion of power that passes into the middle ear is called absorbance; absorbance is one minus energy reflectance. In a normal adult ear, absorbance is low at low frequencies, where most of the sound is reflected, and reaches its highest values between 1 and 4 kilohertz. When there is fluid in the middle ear, absorbance is clearly low at almost all frequencies.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "immittance",
+   "middleear"
+  ],
+  "etiketler": [
+   "wideband acoustic immittance",
+   "absorbance",
+   "energy reflectance",
+   "middle ear effusion",
+   "tympanometry",
+   "immittance",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How much sound in the ear canal reaches the middle ear?",
+  "bilgiler": [
+   "Absorbance is the share of power passed into the middle ear.",
+   "In normal ears it peaks between 1 and 4 kHz.",
+   "With effusion, it drops at almost all frequencies."
+  ],
+  "hashtag": [
+   "audiology",
+   "immittance",
+   "middleear"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #377",
+   "metin": "Does sound *get in?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How much sound in the ear canal reaches the middle ear?"
+   ]
+  },
+  {
+   "id": "absorbans",
+   "tur": "zincir",
+   "baslik": "The absorbance *curve*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Low",
+     "tr": "mostly reflected",
+     "cumle": 1
+    },
+    {
+     "ad": "1-4 kHz",
+     "tr": "most absorbed",
+     "cumle": 2
+    },
+    {
+     "ad": "Effusion",
+     "tr": "low everywhere",
+     "cumle": 3
+    }
+   ],
+   "alt": "One minus _energy reflectance_",
+   "alt_cumle": 0,
+   "cumleler": [
+    "The share of power passed into the middle ear is called absorbance.",
+    "In normal adults, low frequencies show low absorbance; most sound reflects.",
+    "It reaches its highest values between one and four kilohertz.",
+    "With middle ear fluid, absorbance drops clearly at almost all frequencies."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D112",
+ "kaynak_baslik": "Wideband Acoustic Immittance and Absorbance"
+}

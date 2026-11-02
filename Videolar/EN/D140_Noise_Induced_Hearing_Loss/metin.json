@@ -1,0 +1,274 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D140_Noise_Induced_Hearing_Loss_EN",
+ "kapak": {
+  "ust": "LESSON 140",
+  "baslik": "Noise:<br>the *4 kHz* notch",
+  "alt": "TTS, PTS and cochlear synaptopathy",
+  "grafik": {
+   "bolge": {"ust": -10, "alt": 25},
+   "frekanslar": [250, 500, 1000, 2000, 3000, 4000, 6000, 8000],
+   "seriler": [
+    {"kulak": "sag", "tip": "hava", "degerler": [10, 10, 10, 15, 30, 50, 40, 25]},
+    {"kulak": "sol", "tip": "hava", "degerler": [10, 10, 15, 15, 35, 55, 45, 25]}
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Noise-Induced Hearing Loss and the 4 kHz Notch | Lesson 140 | AIHEAR Audiology Academy",
+  "aciklama": "We explain noise-induced hearing loss (NIHL) through temporary and permanent threshold shift, the 3 to 6 kHz notch on the audiogram and recovery at 8 kHz. We cover why the notch forms, how it changes over time and the concept of cochlear synaptopathy, or hidden hearing loss.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ACOEM, Occupational Noise-Induced Hearing Loss statement; Kujawa and Liberman (2009), Journal of Neuroscience; WHO, World Report on Hearing (2021).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": ["audiology", "noise", "hearingloss"],
+  "etiketler": ["noise-induced hearing loss", "NIHL", "4 kHz notch", "noise notch", "temporary threshold shift", "permanent threshold shift", "cochlear synaptopathy", "hidden hearing loss", "hearing conservation", "audiology lessons", "AIHEAR"]
+ },
+ "sahneler": [
+  {"id": "acilis", "tur": "acilis", "ust": "LESSON 140", "baslik": "Noise-Induced Hearing Loss and the *4 kHz* Notch", "alt": "Noise-induced hearing loss",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn about noise-induced hearing loss and the four thousand hertz notch on the audiogram.",
+    "We will cover temporary and permanent threshold shift, why the notch forms and the concept of cochlear synaptopathy."]},
+
+  {"id": "tanim", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Noise and the ear", "baslik": "Noise-induced *hearing loss*",
+   "maddeler": [
+    {"metin": "Long-term, _repeated_ noise", "cumle": 0, "ikon": "gurultu"},
+    {"metin": "_Sensorineural_, usually bilateral", "cumle": 1, "ikon": "kulak"},
+    {"metin": "Typical sign: a _3 to 6 kHz_ notch", "cumle": 2, "ikon": "odyogram"},
+    {"metin": "A single blast: _acoustic trauma_", "cumle": 3, "ikon": "uyari"}],
+   "yan": {"tur": "kart", "ust": "NIHL", "metin": "Noise-induced hearing loss: *caused by noise*", "cumle": 0},
+   "cumleler": [
+    "Noise-induced hearing loss, or NIHL, is a loss that develops with long and repeated exposure to loud sound.",
+    "The loss is sensorineural, and because noise reaches both ears in a similar way, it is usually bilateral and symmetric.",
+    "The typical sign on the audiogram is a notch between three thousand and six thousand hertz with partial recovery at eight thousand hertz.",
+    "A single very loud sound, such as an explosion or a gunshot, can cause sudden damage; this is called acoustic trauma.",
+    "It is one of the most important causes of preventable hearing loss in adults.",
+    "That is why a noise history should be a routine part of every adult audiological assessment."]},
+
+  {"id": "hasar", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Noise and the ear", "baslik": "*What* does noise damage?",
+   "cizim": "corti",
+   "vurgula": [{"parca": "dis_tuy_hucreleri", "cumle": 0}],
+   "etiketler": [
+    {"parca": "dis_tuy_hucreleri", "metin": "Outer hair cells: most vulnerable", "cumle": 0},
+    {"parca": "ic_tuy_hucresi", "metin": "Inner hair cell", "cumle": 2},
+    {"parca": "sinir_lifleri", "metin": "Synapses and nerve fibers", "cumle": 3}],
+   "notlar": [{"metin": "Mechanical damage and oxidative stress", "cumle": 1, "ikon": "uyari"}],
+   "cumleler": [
+    "The structures hit first and hardest by noise are the outer hair cells, which provide cochlear amplification.",
+    "Loud sound mechanically damages the stereocilia, the tiny hairs of the hair cells, and causes oxidative stress inside the cell.",
+    "As the damage progresses, the inner hair cells and supporting cells can also be affected.",
+    "In addition, the synapses between the inner hair cells and the nerve fibers can be damaged even before the hair cells.",
+    "Because hair cells that die do not regenerate in humans, this loss is permanent.",
+    "Even among people exposed to the same noise, the degree of damage varies; some ears are more sensitive to noise."]},
+
+  {"id": "kaynaklar", "tur": "ikonlar", "bolum_no": "PART 1", "bolum": "Noise and the ear", "baslik": "*Where* does noise come from?",
+   "ogeler": [
+    {"ikon": "is_yeri", "baslik": "Workplace", "metin": "Industry, construction, mining", "cumle": 0},
+    {"ikon": "muzik", "baslik": "Leisure", "metin": "Concerts, nightclubs", "cumle": 1},
+    {"ikon": "kulaklik", "baslik": "Personal music", "metin": "Loud, for long periods", "cumle": 2},
+    {"ikon": "uyari", "baslik": "Firearms", "metin": "Even one shot can harm", "cumle": 3}],
+   "cumleler": [
+    "The best-known source is workplace noise, led by industry, construction, mining and military settings.",
+    "Concerts, nightclubs and sports events can also build up a high dose in a short time.",
+    "Listening at high volume for long periods on personal music players is an important risk for young people.",
+    "Firearms produce very high peak sound levels, and even a single shot can leave permanent damage.",
+    "Some hobby and garden tools used for long periods can also add to the total dose.",
+    "The World Health Organization has reported that more than one billion young people are at risk because of unsafe listening habits."]},
+
+  {"id": "belirtiler", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Noise and the ear", "baslik": "*What* does the person notice?",
+   "maddeler": [
+    {"metin": "_Tinnitus_, or ringing in the ears", "cumle": 0, "ikon": "kulak"},
+    {"metin": "Difficulty _understanding_ in noise", "cumle": 2, "ikon": "kalabalik"},
+    {"metin": "_Missing_ high-pitched sounds", "cumle": 3, "ikon": "ses_dalgasi"},
+    {"metin": "Often noticed _late_", "cumle": 4, "ikon": "saat"}],
+   "cumleler": [
+    "One of the earliest and most common complaints is tinnitus, or ringing in the ears.",
+    "Because the notch begins above the most important frequencies for speech, the person has little trouble in quiet in the early years.",
+    "But understanding speech in noisy places and telling high-pitched consonants apart become steadily harder.",
+    "High-pitched sounds, such as birdsong, the doorbell or device alert tones, start to be missed.",
+    "Because the loss develops slowly, it is often noticed only once it has become significant."]},
+
+  {"id": "tts_pts", "tur": "ikonlar", "bolum_no": "PART 2", "bolum": "Temporary and permanent shift", "baslik": "*TTS* and PTS",
+   "ogeler": [
+    {"ikon": "saat", "baslik": "Temporary shift (TTS)", "metin": "Recovers in hours or days", "cumle": 0},
+    {"ikon": "uyari", "baslik": "Permanent shift (PTS)", "metin": "Does not recover, permanent damage", "cumle": 3}],
+   "cumleler": [
+    "A temporary threshold shift, or TTS, is a temporary worsening of thresholds right after exposure to loud sound.",
+    "Hearing sounds as muffled after a loud concert, with ringing and fullness in the ears, is a typical example.",
+    "TTS usually recovers within hours, sometimes within a few days.",
+    "A permanent threshold shift, or PTS, is a change in threshold that does not recover.",
+    "Repeated temporary shifts can turn into permanent damage over time.",
+    "Recovery of thresholds does not mean the ear has stayed fully intact; we will see this in the synaptopathy section."]},
+
+  {"id": "doz", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Temporary and permanent shift", "baslik": "Dose: *level* and duration",
+   "maddeler": [
+    {"metin": "Risk: level and _duration_ together", "cumle": 0, "ikon": "kronometre"},
+    {"metin": "Reference: _85 dB(A)_, 8 hours", "cumle": 1, "ikon": "is_yeri"},
+    {"metin": "Each _3 dB_ rise: half the time", "cumle": 2, "ikon": "grafik"},
+    {"metin": "More in the _occupational audiology_ lessons", "cumle": 5, "ikon": "kitap"}],
+   "yan": {"tur": "gorsel", "cizim": "desibel_olcegi", "cumle": 0,
+    "etiketler": [{"parca": "trafik", "metin": "heavy traffic", "cumle": 1}, {"parca": "konser", "metin": "concert", "cumle": 2}],
+    "vurgula": [{"parca": "trafik", "cumle": 1}, {"parca": "konser", "cumle": 2}]},
+   "cumleler": [
+    "The harm from noise depends on the total dose, created by the sound level and the exposure time together.",
+    "In many occupational health regulations, eighty five decibels A over an eight-hour workday is an important reference level.",
+    "Under the equal energy principle, for every three decibel increase in level, the time that gives the same dose is halved.",
+    "For example, at eighty eight decibels A this time falls to about four hours, and at ninety one decibels A to about two hours.",
+    "For recreational listening, there are also weekly listening recommendations that limit level and time together.",
+    "Legal limits and action values will be covered separately in the occupational audiology lessons."]},
+
+  {"id": "centik", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "The 4 kHz notch", "baslik": "A typical *4 kHz* notch",
+   "lejant": [
+    {"isaret": "O", "renk": "sag", "metin": "_Right ear_: air conduction", "cumle": 0},
+    {"isaret": "&lt;", "renk": "sag", "metin": "_Bone conduction_: right ear", "cumle": 1},
+    {"isaret": "X", "renk": "sol", "metin": "_Left ear_: air conduction", "cumle": 2},
+    {"isaret": "✓", "renk": "yesil", "metin": "_Normal_: up to 25 dB HL", "cumle": 0}],
+   "grafik": {
+    "frekanslar": [250, 500, 1000, 2000, 3000, 4000, 6000, 8000],
+    "seriler": [
+     {"kulak": "sag", "tip": "hava", "degerler": [10, 10, 10, 15, 30, 50, 40, 25], "cumle": 0},
+     {"kulak": "sag", "tip": "kemik", "degerler": [10, 10, 10, 15, 30, 45], "cumle": 1},
+     {"kulak": "sol", "tip": "hava", "degerler": [10, 10, 15, 15, 35, 55, 45, 25], "cumle": 2}],
+    "bolge": {"ust": -10, "alt": 25, "etiket": "Normal", "cumle": 0}},
+   "cumleler": [
+    "Here, right ear thresholds are normal up to two thousand hertz; a drop starting at three thousand is deepest at four thousand hertz.",
+    "Bone conduction overlaps with air conduction, so the loss is sensorineural.",
+    "The left ear has a similar notch; in noise-induced loss, the two ears are expected to be similar.",
+    "Some criteria require the threshold at the notch to be at least ten decibels worse than at both lower and higher neighboring frequencies.",
+    "Improvement at six thousand and especially eight thousand hertz is a key clue that sets the notch apart from age-related loss.",
+    "In age-related loss, thresholds keep getting worse toward eight thousand hertz, and this recovery is not seen."]},
+
+  {"id": "neden", "tur": "akis", "bolum_no": "PART 3", "bolum": "The 4 kHz notch", "baslik": "Why *4 kHz?*",
+   "adimlar": [
+    {"ikon": "kulak", "baslik": "Canal resonance", "metin": "Boosts 2.5 to 3 kHz", "cumle": 0},
+    {"ikon": "ses_dalgasi", "baslik": "Half an octave", "metin": "Damage slightly higher", "cumle": 1},
+    {"ikon": "odyogram", "baslik": "3-6 kHz region", "metin": "Greatest damage here", "cumle": 2},
+    {"ikon": "kan_damari", "baslik": "Structural vulnerability", "metin": "Hair cells and blood supply", "cumle": 3}],
+   "cumleler": [
+    "The ear canal boosts sounds between about two thousand five hundred and three thousand hertz through its natural resonance.",
+    "A high-level sound damages the cochlea most at a region about half an octave above its own frequency.",
+    "Combined, these two effects place the greatest damage from broadband noise in the three thousand to six thousand hertz region.",
+    "Features of the hair cells and the blood supply in this region are also thought to add to its vulnerability.",
+    "The exact location of the notch can be three, four or six thousand hertz, depending on the person and the noise spectrum."]},
+
+  {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical tip",
+   "metin": "With a noise history, also test 3000 and 6000 Hz; the notch may only show at these interoctave frequencies.",
+   "cumleler": [
+    "A clinical tip: in anyone with a noise history, also test the interoctave frequencies, three thousand and six thousand hertz.",
+    "If you look only at octave frequencies, a notch at six thousand hertz, for example, can be missed completely.",
+    "Be careful when interpreting an isolated drop at six thousand hertz; earphone calibration can affect results at this frequency.",
+    "If in doubt, repeat the test and assess the finding together with the history."]},
+
+  {"id": "seyir", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "The 4 kHz notch", "baslik": "*Course* over time",
+   "maddeler": [
+    {"metin": "_Rapid_ progression in the early years", "cumle": 0, "ikon": "kronometre"},
+    {"metin": "Then _slowing_ and spreading", "cumle": 1, "ikon": "grafik"},
+    {"metin": "Highs: usually not beyond about _75 dB_", "cumle": 2, "ikon": "odyogram"},
+    {"metin": "Usually _does not progress_ after exposure ends", "cumle": 3, "ikon": "dogru"},
+    {"metin": "With age, the notch may _fade_", "cumle": 4, "ikon": "yasli"}],
+   "cumleler": [
+    "With continued exposure, most of the loss usually develops in the first ten to fifteen years.",
+    "Progression then slows, and the loss spreads to neighboring frequencies, over time down to two thousand hertz and below.",
+    "Per American occupational medicine guidance, noise alone rarely exceeds seventy five decibels in the highs or forty in the lows.",
+    "According to the same guidance, noise-induced loss usually does not progress once exposure ends; later worsening is often age-related.",
+    "As people age, eight thousand hertz also worsens, and the notch may fade into the age-related loss.",
+    "That is why, at older ages, it becomes harder to separate the contributions of noise and age."]},
+
+  {"id": "asimetri", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "The 4 kHz notch", "baslik": "*Asymmetric* findings",
+   "maddeler": [
+    {"metin": "Rifle: the ear _closer to the muzzle_", "cumle": 1, "ikon": "uyari"},
+    {"metin": "Right-handed shooter: _left ear_ worse", "cumle": 1, "ikon": "kulak"},
+    {"metin": "One-sided _occupational_ sources", "cumle": 2, "ikon": "is_yeri"},
+    {"metin": "Unexplained asymmetry: refer to a _physician_", "cumle": 3, "ikon": "hekim"}],
+   "cumleler": [
+    "Noise-induced loss is usually symmetric, but with some exposures one ear is affected more.",
+    "In right-handed people who shoot rifles, the left ear, which is closer to the muzzle, is usually affected more.",
+    "A machine that always stands on one side, or driving a vehicle with a siren, can also cause asymmetry.",
+    "However, an asymmetry that the noise history cannot explain calls for referral to a physician to look for retrocochlear causes.",
+    "Automatically blaming noise for an asymmetric loss can delay an important diagnosis."]},
+
+  {"id": "sinaptopati", "tur": "gorsel", "bolum_no": "PART 4", "bolum": "Cochlear synaptopathy", "baslik": "Cochlear *synaptopathy*",
+   "cizim": "corti",
+   "vurgula": [{"parca": "sinir_lifleri", "cumle": 0}],
+   "etiketler": [
+    {"parca": "ic_tuy_hucresi", "metin": "Inner hair cell", "cumle": 0},
+    {"parca": "sinir_lifleri", "metin": "Lost synapses", "cumle": 1}],
+   "notlar": [
+    {"metin": "Thresholds may return to normal", "cumle": 2},
+    {"metin": "High-threshold fibers are affected", "cumle": 3}],
+   "cumleler": [
+    "Cochlear synaptopathy is the loss of synapses between the inner hair cells and the fibers of the auditory nerve.",
+    "Kujawa and Liberman showed in mice that noise causing only a temporary threshold shift destroyed a large share of these synapses.",
+    "Even though thresholds returned fully to normal, these synapses did not come back.",
+    "The fibers most affected are the high-threshold fibers, which help code sound at high levels and in noise.",
+    "Losing these fibers does not change the audiogram, because the low-threshold fibers that set the threshold are preserved."]},
+
+  {"id": "gizli", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Cochlear synaptopathy", "baslik": "*Hidden* hearing loss",
+   "maddeler": [
+    {"metin": "Audiogram _normal_", "cumle": 0, "ikon": "odyogram"},
+    {"metin": "_Difficulty_ understanding in noise", "cumle": 1, "ikon": "kalabalik"},
+    {"metin": "Possible marker: low wave I _amplitude_", "cumle": 2, "ikon": "grafik"},
+    {"metin": "Evidence in humans _still debated_", "cumle": 3, "ikon": "soru"}],
+   "yan": {"tur": "gorsel", "cizim": "abr", "cumle": 2,
+    "etiketler": [{"parca": "dalga_I", "metin": "wave I amplitude", "cumle": 2}, {"parca": "dalga_V", "metin": "wave V", "cumle": 2}],
+    "vurgula": [{"parca": "dalga_I", "cumle": 2}]},
+   "cumleler": [
+    "That is why synaptopathy is also called hidden hearing loss; the audiogram looks normal.",
+    "The person's complaint, however, is often difficulty understanding speech in noise, and tinnitus.",
+    {"yazi": "In animal studies, a reduced ABR wave I amplitude at high levels has been used as a marker of synaptopathy.", "ses": "In animal studies, a reduced ABR wave one amplitude at high levels has been used as a marker of synaptopathy."},
+    "In humans, the findings are conflicting, and no reliable clinical test has been established yet.",
+    "Still, this concept reminds us that a normal audiogram does not mean the ear is untouched by noise."]},
+
+  {"id": "korunma", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Prevention and monitoring", "baslik": "Principles of *prevention*",
+   "maddeler": [
+    {"metin": "First, _reduce noise_ at the source", "cumle": 0, "ikon": "gurultu"},
+    {"metin": "Shorten time, increase _distance_", "cumle": 1, "ikon": "saat"},
+    {"metin": "Properly fitted _hearing protection_", "cumle": 3, "ikon": "kulaklik"},
+    {"metin": "Real protection is _below the label_", "cumle": 4, "ikon": "uyari"}],
+   "cumleler": [
+    "Noise-induced hearing loss is preventable, and the most effective approach is to reduce noise at its source.",
+    "Where this is not possible, exposure time is shortened and quiet breaks are given.",
+    "Increasing the distance from the sound source also reduces exposure markedly.",
+    "Protectors such as earplugs or earmuffs work only when they are chosen and fitted correctly.",
+    "In real use, the protection provided is often lower than the value printed on the package."]},
+
+  {"id": "izlem", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Prevention and monitoring", "baslik": "Audiometric *monitoring*",
+   "maddeler": [
+    {"metin": "Baseline audiogram: _at hiring_", "cumle": 0, "ikon": "odyogram"},
+    {"metin": "A _noise-free_ period before testing", "cumle": 1, "ikon": "sessizlik"},
+    {"metin": "Tracking _change_ on serial audiograms", "cumle": 3, "ikon": "grafik"}],
+   "yan": {"tur": "ipucu", "metin": "Ask about recent noise exposure before testing; a temporary shift can look like permanent loss.", "cumle": 2},
+   "cumleler": [
+    "The baseline audiogram taken at hiring is the starting point for all later comparisons.",
+    "For example, US occupational health regulations require at least fourteen hours away from workplace noise before the baseline audiogram.",
+    "Otherwise, a temporary threshold shift looks like a permanent loss, and a wrong baseline value is recorded.",
+    "Later audiograms are compared with the baseline; if there is a clear threshold change, protective measures are reviewed.",
+    "Which change counts as significant is set by the relevant regulations and guidelines."]},
+
+  {"id": "ozet", "tur": "ozet", "bolum_ad": "Summary and test", "baslik": "What we *learned*",
+   "maddeler": [
+    {"metin": "Damage: _outer hair cells_ first", "cumle": 0, "ikon": "kulak"},
+    {"metin": "TTS recovers, _PTS_ is permanent", "cumle": 1, "ikon": "saat"},
+    {"metin": "3 to 6 kHz notch, _8 kHz_ recovery", "cumle": 2, "ikon": "odyogram"},
+    {"metin": "Normal audiogram, possible _synaptopathy_", "cumle": 3, "ikon": "noron"}],
+   "cumleler": [
+    "Noise damages the outer hair cells first and leads to sensorineural loss.",
+    "A temporary threshold shift recovers, but repeated exposure can turn into a permanent threshold shift.",
+    "The typical audiogram shows a notch between three thousand and six thousand hertz and recovery at eight thousand hertz.",
+    "Cochlear synaptopathy is an important research concept showing that synapses can be lost despite a normal audiogram."]},
+
+  {"id": "test", "tur": "test", "bolum_ad": "Summary and test",
+   "soru": "Which clue separates noise-induced loss from age-related loss?",
+   "secenekler": ["Air-bone gap", "Recovery at 8 kHz", "Low-frequency loss", "One-sided loss"],
+   "dogru": 1,
+   "aciklama": "The notch is at 3 to 6 kHz; thresholds improve again _at 8 kHz_.",
+   "cumleler": [
+    {"yazi": "Test yourself: Which typical audiogram clue separates noise-induced loss from age-related loss?", "sonra_bekle": 5},
+    "The correct answer is B: recovery at eight thousand hertz.",
+    "In age-related loss, thresholds keep getting worse toward eight thousand hertz."]},
+
+  {"id": "kapanis", "tur": "kapanis", "sonraki": "Sudden Sensorineural Hearing Loss: *Audiologist's* Role", "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will discuss the audiologist's role in sudden sensorineural hearing loss and why fast referral matters.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+ ]
+}

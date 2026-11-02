@@ -1,0 +1,1359 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D093_Masking_Practice_EN",
+ "kapak": {
+  "ust": "LESSON 93",
+  "baslik": "Masking<br>*practice*",
+  "alt": "Three sample audiograms, solved step by step",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      55,
+      55,
+      55,
+      60,
+      65,
+      70
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      65,
+      70,
+      75,
+      80,
+      85,
+      90
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Masking Practice with Real Audiograms | Lesson 93 | AIHEAR Audiology Academy",
+  "aciklama": "We apply the rules of clinical masking step by step to three sample audiograms: a unilateral severe sensorineural loss, a unilateral conductive loss and a mixed loss. In each case we work out the air and bone conduction masking decision, the initial masking level, the plateau method and the overmasking limit together.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology; BSA, Recommended Procedure: Pure-tone Air-conduction and Bone-conduction Threshold Audiometry with and without Masking.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "masking",
+   "audiogram"
+  ],
+  "etiketler": [
+   "clinical masking",
+   "masking examples",
+   "plateau method",
+   "unilateral hearing loss",
+   "masked threshold",
+   "mixed hearing loss",
+   "bone conduction masking",
+   "overmasking",
+   "audiometry",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 93",
+   "baslik": "*Masking* Practice with Real Audiograms",
+   "alt": "Three sample audiograms, solved step by step",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we will apply the masking rules from start to finish on three sample audiograms.",
+    "Together, we will solve cases of unilateral sensorineural loss, unilateral conductive loss and mixed loss."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Review",
+   "baslik": "Our *five rules*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Air conduction",
+     "metin": "TE air minus NTE bone",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Bone conduction",
+     "metin": "TE gap greater than 10 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Initial level",
+     "metin": "NTE air threshold plus 10 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Plateau",
+     "metin": "Threshold stable over 15 dB of noise",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Upper limit",
+     "metin": "TE bone plus IA minus 5 dB",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Before the cases, let us gather the rules from earlier lessons on one screen.",
+    "In air conduction, we mask if TE air minus opposite ear bone conduction reaches the interaural attenuation, or IA.",
+    "In bone conduction, IA is about zero; masking is needed if the test ear has an air-bone gap greater than ten decibels.",
+    "The initial noise is ten decibels above the air conduction threshold of the opposite ear; for bone conduction, add occlusion if needed.",
+    "If the threshold does not change after three noise increases of five decibels each, the plateau has been found.",
+    "The most noise is five decibels less than the sum of the test ear bone conduction threshold and IA; beyond it, overmasking occurs."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Review",
+   "baslik": "The *same order* in every case",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Unmasked thresholds",
+     "metin": "Both ears, air and bone",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Air conduction rule",
+     "metin": "For each frequency",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Bone conduction rule",
+     "metin": "Mask if there is a gap",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Plateau",
+     "metin": "Find the true threshold",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Recording",
+     "metin": "Masked symbol and level",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In each case, we first look at the unmasked air and bone conduction thresholds of both ears.",
+    "Then we apply the air conduction rule at each frequency and mark the frequencies that need masking.",
+    "Next, we look at the air-bone gap in each ear and decide whether bone conduction needs masking.",
+    "For each measurement that needs masking, we find the true threshold with the plateau method.",
+    "In the last step, we plot the masked thresholds on the audiogram with the correct symbols and record the noise level."
+   ]
+  },
+  {
+   "id": "vaka1",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Case 1: unilateral loss",
+   "baslik": "Case 1: the *unmasked* picture",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: normal air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Right_: normal bone conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: unmasked air conduction",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Left_: unmasked bone conduction",
+     "cumle": 5
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       55,
+       55,
+       55,
+       60,
+       65,
+       70
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 5
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Our first case is an adult with a complaint of poor hearing in the left ear; the values are examples, and supra-aural earphones are used.",
+    "The air and bone conduction thresholds of the right ear are in the normal range.",
+    "The unmasked air conduction thresholds of the left ear are between fifty five and seventy decibels.",
+    "Notice that the left curve runs parallel to the right curve, about forty five to fifty decibels below it.",
+    "This pattern brings to mind the shadow curve we saw in earlier lessons.",
+    "The unmasked bone conduction thresholds of the left ear also came out almost the same as those of the right ear.",
+    "As it stands, the audiogram may look like a conductive loss in the left ear; now let us apply the rules."
+   ]
+  },
+  {
+   "id": "vaka1_karar",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Case 1: unilateral loss",
+   "baslik": "The air conduction *decision*",
+   "sutunlar": [
+    "Frequency (Hz)",
+    "Left air",
+    "Right bone",
+    "Difference (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250",
+      "55",
+      "5",
+      "50"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500",
+      "55",
+      "10",
+      "45"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000",
+      "55",
+      "10",
+      "45"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000",
+      "60",
+      "10",
+      "50"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4000",
+      "65",
+      "15",
+      "50"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "8000",
+      "70",
+      "20 (air)",
+      "50"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The left ear is the test ear, or TE, and the right ear is the non-test ear, or NTE.",
+    "At two hundred fifty hertz, left air conduction is fifty five and right bone conduction is five decibels; the difference is fifty.",
+    "At five hundred and one thousand hertz, the difference is forty five decibels, above the forty decibel IA we use for supra-aural earphones.",
+    "At two thousand and four thousand hertz, the difference is also fifty decibels.",
+    "At eight thousand hertz, bone conduction is not measured, so we use the right air conduction threshold; the difference is again fifty.",
+    "Result: all the air conduction thresholds of the left ear must be measured again with the right ear masked.",
+    "Bone conduction will also need masking, since the left ear shows a large air-bone gap."
+   ]
+  },
+  {
+   "id": "vaka1_plato",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Case 1: unilateral loss",
+   "baslik": "The *plateau* at 1000 Hz",
+   "sutunlar": [
+    "Right noise (dB EM)",
+    "Left threshold (dB HL)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "None (unmasked)",
+      "55"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "20",
+      "65"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "25",
+      "70"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "30",
+      "75"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "35",
+      "75"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "40",
+      "75"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "45",
+      "75"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "At one thousand hertz, the initial noise is the right air threshold of ten plus ten, so twenty dB EM, twenty decibels of effective masking.",
+     "ses": "At one thousand hertz, the initial noise is the right air threshold of ten plus ten, so twenty decibels E.M., twenty decibels of effective masking."
+    },
+    {
+     "yazi": "With twenty dB EM of noise, the left threshold shifts from fifty five to sixty five, so the earlier response came from the right ear.",
+     "ses": "With twenty decibels E.M. of noise, the left threshold shifts from fifty five to sixty five, so the earlier response came from the right ear."
+    },
+    "When we raise the noise to twenty five and thirty, the threshold also rises to seventy and seventy five.",
+    {
+     "yazi": "At thirty five and forty dB EM, the threshold stays at seventy five.",
+     "ses": "At thirty five and forty decibels E.M., the threshold stays at seventy five."
+    },
+    {
+     "yazi": "At forty five dB EM it is still seventy five; the noise rose fifteen decibels but the threshold did not change, so the plateau is found.",
+     "ses": "At forty five decibels E.M. it is still seventy five; the noise rose fifteen decibels but the threshold did not change, so the plateau is found."
+    },
+    "Forty five equals the most noise, unmasked bone of ten plus IA of forty minus five; the true left threshold is seventy five decibels HL."
+   ]
+  },
+  {
+   "id": "vaka1_sonuc",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Case 1: unilateral loss",
+   "baslik": "Case 1: the *true* picture",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: normal air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Left_: masked air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left_: masked bone, no response",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       65,
+       70,
+       75,
+       80,
+       85,
+       90
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       null,
+       60,
+       70,
+       70,
+       65
+      ],
+      "yanitsiz": true,
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "When we repeat the same process at every frequency, the picture changes completely.",
+    "The masked air conduction thresholds of the left ear are between sixty five and ninety decibels; the blue squares show these true values.",
+    "For bone conduction masking, we gave noise to the right ear and searched for left bone conduction again.",
+    "Even at the vibrator's highest output levels, there was no response from the left ear; the down arrows show this.",
+    "The air-bone gap in the unmasked test was false; the picture is consistent with a severe sensorineural loss in the left ear.",
+    "Without masking, this ear could have been reported as having a conductive loss.",
+    "This correct picture matters even more, because a unilateral severe loss may need further evaluation."
+   ]
+  },
+  {
+   "id": "vaka2",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Case 2: conductive",
+   "baslik": "Case 2: the *unmasked* picture",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Right_: unmasked bone conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: normal air conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 5
+    }
+   },
+   "cumleler": [
+    "In the second case, the air conduction thresholds of the right ear are between thirty five and forty decibels.",
+    "The unmasked bone conduction thresholds of the right ear are in the normal range.",
+    "Air and bone conduction thresholds of the left ear are normal; left bone conduction is ten decibels at one thousand hertz.",
+    "First, the air conduction rule: at one thousand hertz, right air is forty and left bone is ten; the difference is thirty decibels.",
+    "Thirty is below forty, so the right air thresholds can be accepted without masking; at other frequencies the difference is also below forty.",
+    "However, the right ear shows a thirty decibel air-bone gap.",
+    "Since IA is about zero for bone conduction, this response may have come from either the right or the left cochlea."
+   ]
+  },
+  {
+   "id": "vaka2_kemik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Case 2: conductive",
+   "baslik": "*Masking* in bone conduction",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 0,
+    "test_kulak": "sag"
+   },
+   "vurgula": [
+    {
+     "parca": "kafatasi",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: right, vibrator on mastoid",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: about 0 dB",
+     "cumle": 0
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "NTE: noise to the left ear",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "The vibrator stimulates both cochleae",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Occlusion effect in the covered ear",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "No occlusion correction at 2000 Hz",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "We place the vibrator on the right mastoid, but since the skull vibrates as a whole, the stimulus reaches both cochleae.",
+    "So to show that the right bone conduction threshold really belongs to the right cochlea, we must keep the left cochlea busy.",
+    "The noise is given to the left ear through an earphone; the right ear stays uncovered.",
+    "The initial level is found by adding a ten decibel safety factor to the left air conduction threshold.",
+    "Since the left ear is covered by the earphone, an occlusion effect occurs at low frequencies, and a correction is added there.",
+    "We will work the example at two thousand hertz; the occlusion effect is negligible at this frequency, so no correction is needed."
+   ]
+  },
+  {
+   "id": "vaka2_plato",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Case 2: conductive",
+   "baslik": "*Bone conduction* at 2000 Hz",
+   "cizim": "plato_grafigi",
+   "ayar": {
+    "esik": 10,
+    "plato": [
+     10,
+     45
+    ],
+    "bolge_cumleleri": [
+     0,
+     3,
+     4
+    ],
+    "esik_cumle": 3,
+    "cumle": 1
+   },
+   "notlar": [
+    {
+     "metin": "Initial level: 20 dB EM",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Threshold stable: plateau from the start",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Upper limit: 45 dB EM",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "At two thousand hertz, the unmasked bone conduction threshold of the right ear is ten decibels.",
+    {
+     "yazi": "Left air conduction is ten, so the initial noise is twenty dB EM; with this noise, right bone conduction is still ten.",
+     "ses": "Left air conduction is ten, so the initial noise is twenty decibels E.M.; with this noise, right bone conduction is still ten."
+    },
+    "We raise the noise to twenty five, thirty and thirty five; at every step the threshold stays at ten decibels.",
+    "The plateau was there from the start, so the bone conduction response really belonged to the right cochlea.",
+    {
+     "yazi": "The limit, right bone ten plus IA forty minus five, is forty five dB EM; above it, noise reaches the right cochlea and the threshold rises.",
+     "ses": "The limit, right bone ten plus I.A forty minus five, is forty five decibels E.M.; above it, noise reaches the right cochlea and the threshold rises."
+    },
+    "If the noise had been delivered with an insert earphone, IA would be higher, so this upper limit would also be higher."
+   ]
+  },
+  {
+   "id": "vaka2_sonuc",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Case 2: conductive",
+   "baslik": "Case 2: a *confirmed* gap",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Right_: masked bone conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: normal hearing",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "We repeat the same process at every frequency where bone conduction is measured.",
+    "The masked bone conduction thresholds of the right ear matched the unmasked values; we mark them with an opening square bracket.",
+    "The air-bone gap is now confirmed with masking.",
+    "The picture is consistent with a mild conductive loss in the right ear.",
+    "In this case, air conduction did not need masking, but bone conduction did at every frequency."
+   ]
+  },
+  {
+   "id": "kayma",
+   "tur": "karsilastir",
+   "bolum_no": "PART 3",
+   "bolum": "Case 2: conductive",
+   "baslik": "What if masked bone *shifts?*",
+   "sol": {
+    "ust": "Threshold stays stable",
+    "maddeler": [
+     {
+      "metin": "Response belongs to _the test ear_",
+      "cumle": 0
+     },
+     {
+      "metin": "Air-bone gap is _real_",
+      "cumle": 1
+     },
+     {
+      "metin": "Conductive or mixed",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Threshold rises",
+    "maddeler": [
+     {
+      "metin": "Earlier response from _the opposite cochlea_",
+      "cumle": 2
+     },
+     {
+      "metin": "Gap shrinks or disappears",
+      "cumle": 3
+     },
+     {
+      "metin": "Sensorineural or mixed",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "If the masked bone conduction threshold does not change across the plateau, the response comes from the test ear's cochlea.",
+    "In that case, the air-bone gap is real, and the loss is classed as conductive or mixed.",
+    "If the threshold rises with the noise and reaches a plateau at a poorer level, the opposite cochlea gave the unmasked response.",
+    "In that case, the gap shrinks or disappears completely.",
+    "The result may be a sensorineural loss or a mixed loss with a smaller gap; the decision is always made from masked thresholds."
+   ]
+  },
+  {
+   "id": "vaka3",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Case 3: mixed loss",
+   "baslik": "Case 3: the *unmasked* picture",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: normal air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: unmasked air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Left_: unmasked bone conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       55,
+       55,
+       55,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "In the third case, the air and bone conduction thresholds of the right ear are again normal.",
+    "The unmasked air conduction thresholds of the left ear are between fifty and sixty five decibels.",
+    "The unmasked bone conduction thresholds of the left ear are the same as right bone conduction, that is, normal.",
+    "At first glance, the picture looks like a moderate conductive loss in the left ear.",
+    "But unmasked bone conduction reflects the better of the two cochleae; these responses may belong to the right cochlea.",
+    "The left air conduction curve also runs about forty to forty five decibels below the right curve; this is another warning sign.",
+    "In this case, we will need to mask both air conduction and bone conduction."
+   ]
+  },
+  {
+   "id": "vaka3_adim",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Case 3: mixed loss",
+   "baslik": "Case 3: *solution* steps",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Air conduction rule",
+     "metin": "Difference 45 at 1000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Air plateau",
+     "metin": "Threshold from 55 to 65",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Bone conduction rule",
+     "metin": "Large gap: mask",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bone plateau",
+     "metin": "Threshold from 10 to 40",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Upper limit",
+     "metin": "75 dB EM",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Air conduction rule: at one thousand hertz, left air is fifty five and right bone is ten; the difference is forty five, so we mask.",
+    {
+     "yazi": "We apply the plateau method with noise to the right ear starting at twenty dB EM; the left threshold plateaus at sixty five.",
+     "ses": "We apply the plateau method with noise to the right ear starting at twenty decibels E.M.; the left threshold plateaus at sixty five."
+    },
+    "At the other frequencies the difference is also above forty, so all the air conduction thresholds are masked.",
+    "Bone conduction rule: there is a large gap between masked air and unmasked bone conduction, so bone conduction must be masked too.",
+    {
+     "yazi": "At two thousand hertz, right air is fifteen and the initial noise is twenty five dB EM; left bone conduction shifts step by step to forty.",
+     "ses": "At two thousand hertz, right air is fifteen and the initial noise is twenty five decibels E.M.; left bone conduction shifts step by step to forty."
+    },
+    {
+     "yazi": "When the noise is raised from forty to fifty five dB EM, left bone conduction stays at forty decibels; the plateau is found.",
+     "ses": "When the noise is raised from forty to fifty five decibels E.M., left bone conduction stays at forty decibels; the plateau is found."
+    },
+    {
+     "yazi": "The upper limit is left bone of forty plus IA of forty minus five, or seventy five dB EM; fifty five is safely below it.",
+     "ses": "The upper limit is left bone of forty plus I.A of forty minus five, or seventy five decibels E.M.; fifty five is safely below it."
+    }
+   ]
+  },
+  {
+   "id": "vaka3_sonuc",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Case 3: mixed loss",
+   "baslik": "Case 3: a *mixed* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: normal air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Left_: masked air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left_: masked bone conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       65,
+       70,
+       75,
+       80
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       25,
+       30,
+       35,
+       40,
+       45
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      35,
+      65
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "After masking is complete, the true picture of the left ear appears.",
+    "The masked air conduction thresholds are between sixty and eighty decibels.",
+    "The masked bone conduction thresholds are between twenty five and forty five decibels, so bone conduction is not normal either.",
+    "There is a gap of about thirty decibels between air and bone conduction.",
+    "Bone conduction below the normal limit together with a gap is a picture consistent with a mixed loss.",
+    "The unmasked audiogram, by contrast, wrongly showed this ear as a purely conductive loss."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "tablo",
+   "bolum_no": "PART 5",
+   "bolum": "Checking and recording",
+   "baslik": "*Calculate* the upper limit",
+   "sutunlar": [
+    "Case",
+    "TE bone (dB HL)",
+    "IA (dB)",
+    "Limit: bone + IA - 5"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1, air conduction",
+      "Worse than 70",
+      "40",
+      "Above 105"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2, bone conduction",
+      "10",
+      "40",
+      "45"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3, bone conduction",
+      "40",
+      "40",
+      "75"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Let us put the upper limits of the three cases side by side; each is the test ear bone conduction plus IA minus five.",
+    "In the first case, forty five was a cautious limit from unmasked bone; with no left bone response, the true limit is above one hundred five.",
+    {
+     "yazi": "In the second case, right bone conduction is normal, so the limit drops to forty five dB EM and the plateau narrows.",
+     "ses": "In the second case, right bone conduction is normal, so the limit drops to forty five decibels E.M. and the plateau narrows."
+    },
+    {
+     "yazi": "In the third case, the limit is seventy five dB EM; again the plateau was found easily.",
+     "ses": "In the third case, the limit is seventy five decibels E.M.; again the plateau was found easily."
+    },
+    "The rule is simple: the better the test ear's bone conduction, the sooner overmasking begins."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "At low frequencies, a high-level bone conduction response may be a felt vibration. Ask the patient whether they heard the sound or felt the vibration, and note it.",
+   "cumleler": [
+    "When measuring bone conduction at high levels, watch out for an important trap.",
+    "Especially at two hundred fifty and five hundred hertz, the vibrator at high levels creates a vibration felt on the skull.",
+    "If the patient responds to this vibration, a false air-bone gap may appear in an ear with a sensorineural loss.",
+    "In such cases, ask the patient whether they heard the sound or felt the vibration, and note the result on the audiogram."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Checking and recording",
+   "baslik": "Common *mistakes*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Air difference",
+     "metin": "Using NTE air instead of bone",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Unmasked bone",
+     "metin": "Assuming which ear it belongs to",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Stopping early",
+     "metin": "Recording before seeing the plateau",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Forgetting the limit",
+     "metin": "Raising the noise unchecked",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The first mistake is using the opposite ear's air conduction instead of its bone conduction in the air conduction rule.",
+    "The second mistake is reading the unmasked bone conduction threshold as if it belonged to the ear where the vibrator sits.",
+    "The third mistake is stopping after the first masked measurement; the noise must be raised three times to see the plateau.",
+    "The fourth mistake is raising the noise without calculating the upper limit, making the true threshold look worse than it is."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Checking and recording",
+   "baslik": "Recording *masking*",
+   "maddeler": [
+    {
+     "metin": "Masked threshold: _masked symbol_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Write the _noise level_ at the plateau",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "State the _earphone type_ used",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "No plateau: note _not definitive_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava_maskeli",
+       "degerler": [
+        60,
+        65,
+        65,
+        70,
+        75,
+        80
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        25,
+        30,
+        35,
+        40,
+        45
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Every threshold found with masking is plotted on the audiogram with a masked symbol, even if the threshold did not change.",
+    "The noise level at which the plateau was found is written on the form or below the audiogram for each frequency.",
+    "Whether supra-aural or insert earphones were used is also stated, because IA and the occlusion effect depend on it.",
+    "If no plateau was found, the threshold is not definitive, and this is stated clearly in the report.",
+    "A good record lets a colleague who reads the audiogram later judge whether the masking was adequate."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Shadow curve: _mask_, then interpret",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Conductive loss: _bone conduction_ is masked",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Mixed loss: _both measures_ are masked",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Good bone conduction: _narrow_ plateau",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "In a unilateral severe loss, unmasked thresholds form a shadow curve; interpretation is based on masked thresholds.",
+    "In a unilateral conductive loss, air conduction often needs no masking, but bone conduction must always be masked.",
+    "In a mixed loss, both air and bone conduction are masked, and the result can change the picture completely.",
+    "If the test ear has good bone conduction, the overmasking limit is lower and the plateau is narrower."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Right air 45, unmasked bone 10, left normal. What now?",
+   "secenekler": [
+    "No masking needed",
+    "Right bone, masking the left",
+    "Mask left air conduction",
+    "Stop the test"
+   ],
+   "dogru": 1,
+   "aciklama": "The right ear has a 35 dB air-bone gap; IA is about zero for bone conduction, so _the left ear is masked_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: Right air conduction is forty five, unmasked bone conduction ten decibels, and the left ear is normal. What do we do?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: right bone conduction is measured again with the left ear masked.",
+    "The right ear has a thirty five decibel gap, and unmasked bone conduction does not tell us which cochlea it belongs to."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Why Speech *Audiometry?* Goals and Test Types",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we move on to speech audiometry: we will see why it is done and which tests it includes.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

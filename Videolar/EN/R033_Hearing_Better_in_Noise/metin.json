@@ -1,0 +1,134 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R033_Hearing_Better_in_Noise_EN",
+ "kapak": {
+  "ust": "QUICK FACT #33",
+  "baslik": "Better *in noise*",
+  "alt": "Paracusis Willisii in otosclerosis",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      45,
+      45,
+      40,
+      45
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can some patients understand speech better in noise? #shorts",
+  "aciklama": "In otosclerosis, some patients say they understand speech better in noisy places; this is called paracusis Willisii. In noise, the talker raises their voice, while the noise reaches the patient weakened by the conductive loss.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ear",
+   "hearing"
+  ],
+  "etiketler": [
+   "otosclerosis",
+   "paracusis Willisii",
+   "conductive hearing loss",
+   "stapes",
+   "speech in noise",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can some patients understand speech better in noise?",
+  "bilgiler": [
+   "In otosclerosis, the stapes footplate becomes fixed in the oval window.",
+   "In noise, the talker speaks louder; the noise reaches the patient weakened.",
+   "So some patients understand speech better in noise."
+  ],
+  "hashtag": [
+   "audiology",
+   "ear",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #33",
+   "metin": "Can some patients hear *better in noise?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can some patients understand speech better in noise?"
+   ]
+  },
+  {
+   "id": "paracusis",
+   "tur": "zincir",
+   "baslik": "Understanding better *in noise*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Noise",
+     "cumle": 1,
+     "tr": "background"
+    },
+    {
+     "ad": "Talker",
+     "cumle": 1,
+     "gecikme": 0.9,
+     "tr": "speaks louder"
+    },
+    {
+     "ad": "Patient",
+     "cumle": 3,
+     "tr": "understands better"
+    }
+   ],
+   "alt": "This is called _paracusis Willisii_.",
+   "alt_cumle": 3,
+   "cumleler": [
+    "In otosclerosis, the stapes footplate becomes fixed in the oval window.",
+    "In a noisy place, the other person raises their voice.",
+    "The noise, however, reaches the patient weakened by the conductive loss.",
+    "So some patients understand speech better in noise."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D070",
+ "kaynak_baslik": "Otosclerosis: Stapes Fixation and the Carhart Notch"
+}

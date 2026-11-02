@@ -1,0 +1,249 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D061_Bone_Conduction_Audiometry_EN",
+  "kapak": {
+    "ust": "LESSON 61",
+    "baslik": "*Bone conduction*<br>audiometry",
+    "alt": "Vibrator placement and pitfalls",
+    "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [
+      {"kulak": "sag", "tip": "hava", "degerler": [40, 40, 35, 40, 45, 50]},
+      {"kulak": "sag", "tip": "kemik", "degerler": [10, 10, 5, 10, 15]}]}
+  },
+  "youtube": {
+    "baslik": "How to Perform Bone-Conduction Audiometry | Lesson 61 | AIHEAR Audiology Academy",
+    "aciklama": "Bone conduction thresholds tell us whether a hearing loss is conductive or sensorineural. In this lesson, we use a sample audiogram to look at mastoid and forehead placement of the bone vibrator, test frequencies, interaural attenuation, vibrotactile responses, acoustic radiation and the occlusion effect.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); British Society of Audiology, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "boneconduction", "hearing"],
+    "etiketler": ["bone conduction", "bone conduction audiometry", "bone vibrator", "mastoid placement", "forehead placement", "vibrotactile response", "acoustic radiation", "occlusion effect", "air-bone gap", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 61", "baslik": "How to Perform *Bone-Conduction* Audiometry", "alt": "Vibrator placement, test frequencies and pitfalls",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn how bone conduction audiometry is performed.",
+       "Step by step, we will look at vibrator placement, test frequencies and the pitfalls that can mislead the results."]},
+
+    {"id": "neden", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Why bone conduction?", "baslik": "Air conduction and *bone conduction*", "cizim": "kulak_kesit",
+     "vurgula": [
+       {"parca": "dis_kulak_yolu", "cumle": 0},
+       {"parca": "orta_kulak", "cumle": 0},
+       {"parca": "koklea", "cumle": 1}],
+     "etiketler": [
+       {"parca": "orta_kulak", "metin": "air conduction: through outer and middle ear", "cumle": 0},
+       {"parca": "koklea", "metin": "bone conduction: directly to the cochlea", "cumle": 1}],
+     "notlar": [
+       {"metin": "Difference: the air-bone gap", "cumle": 4}],
+     "cumleler": [
+       "In air conduction testing, sound passes through the outer and middle ear to reach the cochlea.",
+       "In bone conduction testing, vibration applied to the skull largely bypasses the outer and middle ear and stimulates the cochlea directly.",
+       "So bone conduction thresholds largely reflect the sensitivity of the inner ear and auditory nerve, the sensorineural system.",
+       "By comparing the two thresholds, we can tell whether a loss is conductive, sensorineural or mixed.",
+       "Recall that the difference between the air and bone conduction thresholds is called the air-bone gap.",
+       "We covered the mechanisms of bone conduction hearing in earlier lessons; here we focus on the measurement itself."]},
+
+    {"id": "ne_zaman", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Why bone conduction?", "baslik": "When, and at which *frequencies?*",
+     "maddeler": [
+       {"metin": "If air conduction is _not normal_", "cumle": 0, "ikon": "odyogram"},
+       {"metin": "Frequencies: _250 to 4000 Hz_", "cumle": 2, "ikon": "ses_dalgasi"},
+       {"metin": "8000 Hz not routine", "cumle": 3, "ikon": "yanlis"},
+       {"metin": "Ears _uncovered_, earphones removed", "cumle": 4, "ikon": "kulak"}],
+     "cumleler": [
+       "Bone conduction is usually tested when air conduction thresholds are outside normal limits, poorer than about twenty to twenty five dB HL.",
+       "Many clinics, however, test bone conduction routinely in all patients.",
+       "The test frequencies are usually the octave frequencies from two hundred fifty to four thousand hertz.",
+       "Eight thousand hertz is not tested routinely, because vibrator output is limited there and acoustic radiation increases.",
+       "When testing unmasked bone conduction, the earphones are removed and both ears are left uncovered."]},
+
+    {"id": "vibrator", "tur": "gorsel", "bolum_no": "PART 2", "bolum": "The vibrator and its placement", "baslik": "The bone *vibrator*", "cizim": "odyometre",
+     "vurgula": [
+       {"parca": "kemik_vibratoru", "cumle": 0}],
+     "etiketler": [
+       {"parca": "kemik_vibratoru", "metin": "bone vibrator", "cumle": 0}],
+     "notlar": [
+       {"metin": "Headband: about 5.4 N of force", "cumle": 2},
+       {"metin": "Common models: B-71, B-81", "cumle": 3},
+       {"metin": "Each vibrator with its own calibration", "cumle": 4}],
+     "cumleler": [
+       "In bone conduction testing, sound is delivered by a small transducer called a bone vibrator.",
+       "The vibrator turns the electrical signal of the audiometer into mechanical vibration that is passed to the skull.",
+       "The vibrator is held by a headband with a static force of about five point four newtons, as defined in the standards.",
+       {"yazi": "Models in common clinical use include the B-71 and the B-81.", "ses": "Models in common clinical use include the B seventy one and the B eighty one."},
+       "Each vibrator must be set up on the audiometer with its own calibration values."]},
+
+    {"id": "yerlesim", "tur": "karsilastir", "bolum_no": "PART 2", "bolum": "The vibrator and its placement", "baslik": "Mastoid and *forehead* placement", "sol": {"ust": "Mastoid", "maddeler": [{"metin": "_Stronger_ sensation for the same power", "cumle": 1}, {"metin": "More common in the clinic", "cumle": 1}, {"metin": "Must _not touch_ the auricle", "cumle": 2}]}, "sag": {"ust": "Forehead", "maddeler": [{"metin": "_More consistent_ test-retest", "cumle": 3}, {"metin": "Needs more power", "cumle": 4}, {"metin": "_Lower_ maximum testable level", "cumle": 4}]},
+     "cumleler": [
+       "The vibrator can be placed in two locations: on the mastoid bone or on the midline of the forehead.",
+       "Mastoid placement is more common in the clinic, because it gives a stronger sensation for the same electrical power.",
+       "The vibrator is placed on the flattest part of the mastoid process, without touching the auricle.",
+       "Forehead placement is less sensitive to differences in placement and has better test-retest reliability.",
+       "But more power is needed at the forehead for the same sensation, so the maximum testable level is lower.",
+       "For both placements, the audiometer must be used with the calibration values for that placement."]},
+
+    {"id": "ia", "tur": "gorsel", "bolum_no": "PART 2", "bolum": "The vibrator and its placement", "baslik": "Vibration reaches *both cochleae*", "cizim": "maskeleme", "ayar": {"ia_db": 0},
+     "vurgula": [
+       {"parca": "kafatasi", "cumle": 0},
+       {"parca": "test_kulagi", "cumle": 1},
+       {"parca": "karsi_kulak", "cumle": 1}],
+     "etiketler": [
+       {"parca": "kulaklar_arasi_zayiflama", "metin": "interaural attenuation: about 0 dB", "cumle": 2}],
+     "notlar": [
+       {"metin": "Unmasked bone: the better cochlea", "cumle": 3},
+       {"metin": "To confirm the ear: mask the other ear", "cumle": 4}],
+     "cumleler": [
+       "An important feature of bone conduction is that the vibration sets the whole skull vibrating.",
+       "Whichever side the vibrator is placed on, both cochleae are stimulated at almost the same level.",
+       "That is why interaural attenuation for bone conduction is usually taken to be about zero decibels.",
+       "So an unmasked bone conduction threshold actually shows the threshold of the better of the two cochleae.",
+       "To confirm which ear the threshold belongs to, the opposite ear is masked; we will see this in the clinical masking lessons."]},
+
+    {"id": "uygulama", "bolum_no": "PART 3", "bolum": "Procedure", "tur": "akis", "baslik": "Step-by-step *procedure*",
+     "adimlar": [
+       {"ikon": "dokunma", "baslik": "Preparation", "metin": "Move hair, glasses, earrings", "cumle": 0},
+       {"ikon": "kemik_vibratoru", "baslik": "Placement", "metin": "Secure the headband", "cumle": 1},
+       {"ikon": "grafik", "baslik": "Threshold search", "metin": "Down 10 dB, up 5 dB", "cumle": 2},
+       {"ikon": "hasta_butonu", "baslik": "Instructions", "metin": "Vibration is not a response", "cumle": 3},
+       {"ikon": "ses_dalgasi", "baslik": "Frequency order", "metin": "1000 Hz, highs, then lows", "cumle": 4}],
+     "cumleler": [
+       "First, hair over the mastoid is parted, and objects that may touch the vibrator, such as glasses arms and earrings, are removed.",
+       "The vibrator is placed, and the headband is secured so that it will not slip.",
+       "As in air conduction, the threshold search uses the modified Hughson-Westlake method: down ten decibels, up five decibels.",
+       "The instructions are the same, but tell the patient that feeling vibration does not count; they should respond when they hear the sound.",
+       "The frequency order is usually as for air conduction: start at one thousand hertz, go up to the highs, then move to the lows.",
+       "The patient should not move the vibrator or touch the headband until the end of the test."]},
+
+    {"id": "sinir", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "Procedure", "baslik": "Output *limits*", "yan": {"tur": "odyogram", "grafik": {"seriler": [{"kulak": "sag", "tip": "kemik", "degerler": [45, 65, 65, 65], "yanitsiz": true, "cumle": 2}]}},
+     "maddeler": [
+       {"metin": "250 Hz: about _40 to 50 dB HL_", "cumle": 1, "ikon": "ses_dalgasi"},
+       {"metin": "Mid frequencies: about _60 to 70 dB HL_", "cumle": 1, "ikon": "ses_dalgasi"},
+       {"metin": "No response at the limit: record with _arrow_", "cumle": 2, "ikon": "uyari"}],
+     "cumleler": [
+       "The maximum output of bone vibrators is much lower than that of air conduction earphones.",
+       "The limit varies by device; it is usually about forty to fifty dB HL at two hundred fifty hertz and sixty to seventy in the mid range.",
+       "If there is no response at this level either, bone conduction is recorded at the device limit with a no-response symbol.",
+       "So in severe losses, it is not always possible to confirm the type of loss with bone conduction."]},
+
+    {"id": "ornek", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Procedure", "baslik": "Example: *unmasked* bone conduction", "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [40, 40, 35, 40, 45, 50], "cumle": 0}, {"kulak": "sag", "tip": "kemik", "degerler": [10, 10, 5, 10, 15], "cumle": 1}, {"kulak": "sol", "tip": "hava", "degerler": [10, 10, 5, 10, 10, 15], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}, "aralik": {"konum": [2, 5, 35], "etiket": "30 dB", "cumle": 3}},
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Air conduction_: right ear", "cumle": 0},
+       {"isaret": "&lt;", "renk": "sag", "metin": "_Bone conduction_: unmasked, right mastoid", "cumle": 1},
+       {"isaret": "X", "renk": "sol", "metin": "_Air conduction_: left ear", "cumle": 2}],
+     "cumleler": [
+       "In this sample audiogram, the air conduction thresholds of the right ear are around forty dB HL.",
+       "The unmasked bone conduction thresholds measured from the right mastoid are within normal limits.",
+       "In this example, the air conduction thresholds of the left ear are also normal.",
+       "There appears to be an air-bone gap of about thirty decibels in the right ear.",
+       "But we do not yet know whether this unmasked bone conduction belongs to the right or the left cochlea.",
+       "If there is a gap of fifteen decibels or more in the test ear, bone conduction is usually retested with the opposite ear masked."]},
+
+    {"id": "tipler", "tur": "tablo", "bolum_no": "PART 3", "bolum": "Procedure", "baslik": "Bone conduction and *type of loss*", "sutunlar": ["Type of loss", "Air conduction", "Bone conduction", "Air-bone gap"],
+     "satirlar": [
+       {"hucreler": ["Normal", "Normal", "Normal", "None"], "cumle": 0},
+       {"hucreler": ["Conductive", "Poor", "Normal", "Present"], "cumle": 1},
+       {"hucreler": ["Sensorineural", "Poor", "Poor", "None"], "cumle": 2},
+       {"hucreler": ["Mixed", "Poor", "Poor", "Present"], "cumle": 3, "vurgu": true}],
+     "cumleler": [
+       "We find the type of loss by reading the bone conduction result together with air conduction.",
+       "In conductive loss, air conduction is poor, bone conduction is normal, and there is a clear gap between them.",
+       "In sensorineural loss, air and bone conduction worsen together, and there is no significant gap between them.",
+       "In mixed loss, bone conduction is also poor, but air conduction is even worse.",
+       "Differences of up to ten decibels are usually treated as measurement variability, not as a gap."]},
+
+    {"id": "mikst", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Procedure", "baslik": "Example: *mixed* loss", "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [55, 60, 60, 65, 70, 75], "cumle": 0}, {"kulak": "sag", "tip": "kemik_maskeli", "degerler": [30, 30, 30, 40, 45], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal", "cumle": 1}, "aralik": {"konum": [2, 30, 60], "etiket": "30 dB", "cumle": 2}},
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Air conduction_: right ear", "cumle": 0},
+       {"isaret": "[", "renk": "sag", "metin": "_Masked bone conduction_: right ear", "cumle": 1},
+       {"isaret": "✓", "renk": "yesil", "metin": "_Normal_: up to 25 dB HL", "cumle": 1}],
+     "cumleler": [
+       "In this sample audiogram, the air conduction thresholds of the right ear are between fifty five and seventy five dB HL.",
+       "The bone conduction thresholds measured with masking are also outside normal limits, between thirty and forty five dB HL.",
+       "At one thousand hertz, there is a gap of about thirty decibels between the two thresholds.",
+       "The reduced bone conduction shows a sensorineural component, and the gap shows a conductive component.",
+       "The picture in this example is consistent with a mixed hearing loss."]},
+
+    {"id": "vibrotaktil", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Pitfalls", "baslik": "Pitfall 1: feeling the *vibration*", "yan": {"tur": "ikonlar", "ust": "VIBROTACTILE RESPONSE", "cumle": 1, "ogeler": [{"ikon": "dokunma", "baslik": "Feeling", "metin": "Vibration is sensed by the skin", "cumle": 1}, {"ikon": "yanlis", "baslik": "False gap", "metin": "Not a true threshold", "cumle": 2}, {"ikon": "soru", "baslik": "Ask the patient", "metin": "Heard it or felt it?", "cumle": 4}]},
+     "maddeler": [
+       {"metin": "At low frequencies, _high_ levels", "cumle": 0},
+       {"metin": "Patient senses vibration, not sound", "cumle": 1},
+       {"metin": "A false _air-bone gap_", "cumle": 2},
+       {"metin": "Ask, and _note it_ on the audiogram", "cumle": 4}],
+     "cumleler": [
+       "At high levels, especially at two hundred fifty and five hundred hertz, the bone vibrator produces vibration that can be felt on the skin.",
+       "The patient may mistake this vibration for sound and respond; this is called a vibrotactile response.",
+       "Such a response is not a true hearing threshold, and it can create a false air-bone gap.",
+       "This is especially likely in severe sensorineural losses, where it can look like a low-frequency conductive component.",
+       "If you suspect it, ask the patient whether they heard the sound or felt the vibration, and note this on the audiogram."]},
+
+    {"id": "yayilim", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Pitfalls", "baslik": "Pitfall 2: *acoustic radiation*",
+     "maddeler": [
+       {"metin": "The vibrator also radiates _sound_ into the air", "cumle": 0, "ikon": "hoparlor"},
+       {"metin": "Especially at _2000 to 4000 Hz_", "cumle": 1, "ikon": "ses_dalgasi"},
+       {"metin": "Bone conduction looks _better_ than it is", "cumle": 2, "ikon": "uyari"},
+       {"metin": "Check: retest with a foam plug", "cumle": 4, "ikon": "kulak_tikali"}],
+     "cumleler": [
+       "As the bone vibrator vibrates, it also radiates some sound into the surrounding air; this is called acoustic radiation.",
+       "This radiation is most noticeable at high frequencies, in the two thousand to four thousand hertz region.",
+       "Because the ear canal is open, the radiated sound can be heard by air conduction, and the bone threshold looks better than it is.",
+       "As a result, a false air-bone gap may appear, especially at four thousand hertz.",
+       "If in doubt, the test ear can be closed with a foam plug and four thousand hertz retested.",
+       "Because the occlusion effect is negligible at high frequencies, this check does not artificially improve the threshold."]},
+
+    {"id": "okluzyon", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Pitfalls", "baslik": "Pitfall 3: the *occlusion effect*",
+     "maddeler": [
+       {"metin": "Closed ear canal: low sounds _louder_", "cumle": 0, "ikon": "kulak_tikali"},
+       {"metin": "Especially at _250 to 1000 Hz_", "cumle": 1, "ikon": "ses_dalgasi"},
+       {"metin": "_Small or absent_ in conductive loss", "cumle": 2, "ikon": "kulak"},
+       {"metin": "Unmasked testing: ears _uncovered_", "cumle": 3, "ikon": "kemik_vibratoru"}],
+     "cumleler": [
+       "When the ear canal is closed, low-pitched sounds heard by bone conduction seem louder; this is called the occlusion effect.",
+       "The effect is greatest between two hundred fifty and one thousand hertz, and it is clear in normal or sensorineural ears.",
+       "In ears with conductive loss, the occlusion effect is usually small or absent.",
+       "That is why unmasked bone conduction is measured with the ears uncovered.",
+       "When an earphone is placed on the opposite ear for masking, this effect must be taken into account.",
+       "Deeply inserted insert earphones markedly reduce the occlusion effect."]},
+
+    {"id": "hatalar", "bolum_no": "PART 4", "bolum": "Pitfalls", "tur": "ikonlar", "baslik": "Other *placement* errors",
+     "ogeler": [
+       {"ikon": "kulak", "baslik": "Touching the auricle", "metin": "Unreliable threshold", "cumle": 1},
+       {"ikon": "kemik_vibratoru", "baslik": "Loose headband", "metin": "Threshold looks worse", "cumle": 2},
+       {"ikon": "dokunma", "baslik": "Hair, glasses arms", "metin": "Weaker contact", "cumle": 3},
+       {"ikon": "uyari", "baslik": "Slipping vibrator", "metin": "Reposition and retest", "cumle": 4}],
+     "cumleler": [
+       "Bone conduction results are very sensitive to placement; small errors can change thresholds by several decibels.",
+       "If the vibrator touches the auricle, the auricle vibrates too, and the results become unreliable.",
+       "A loose headband reduces the contact force and makes thresholds look worse than they are.",
+       "Hair or a glasses arm in between also weakens the contact.",
+       "If the vibrator slips during the test, reposition it and repeat the most recently tested frequencies."]},
+
+    {"id": "ipucu", "tur": "ipucu", "bolum_no": "PART 4", "bolum": "Pitfalls", "baslik": "Clinical tip", "metin": "If bone conduction is more than 10 dB worse than air conduction, first check vibrator placement, the headband and the calibration.",
+     "cumleler": [
+       "A tip from practice: normally, the bone conduction threshold cannot be clearly worse than the air conduction threshold.",
+       "This is because sound delivered by air conduction also ends up at the same cochlea.",
+       "Differences of up to ten decibels are accepted as measurement variability.",
+       "If bone conduction is more than ten decibels worse than air conduction, first check the vibrator placement and the headband.",
+       "If the problem persists, the bone conduction calibration may need to be reviewed."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [
+       {"metin": "Bone conduction stimulates the _cochlea_ directly", "cumle": 0, "ikon": "kulak"},
+       {"metin": "Mastoid common, forehead _more consistent_", "cumle": 1, "ikon": "kemik_vibratoru"},
+       {"metin": "Interaural attenuation about _0 dB_", "cumle": 2, "ikon": "beyin"},
+       {"metin": "Pitfalls: vibration, radiation, _occlusion_", "cumle": 3, "ikon": "uyari"}],
+     "cumleler": [
+       "Bone conduction largely bypasses the outer and middle ear and stimulates the cochlea directly.",
+       "The vibrator is placed on the mastoid or the forehead; the mastoid is more common, and the forehead is more consistent.",
+       "Interaural attenuation for bone conduction is about zero, so an unmasked threshold shows the better cochlea.",
+       "Vibrotactile responses, acoustic radiation and the occlusion effect are three key pitfalls that can mislead bone conduction results."]},
+
+    {"id": "test", "tur": "test", "soru": "What is the approximate interaural attenuation for bone conduction?", "secenekler": ["0 dB", "20 dB", "40 dB", "60 dB"], "dogru": 0, "aciklama": "Vibration sets the whole skull vibrating; both cochleae are stimulated _almost equally_.",
+     "cumleler": [
+       {"yazi": "Test yourself: In bone conduction testing, what is the approximate interaural attenuation in decibels?", "sonra_bekle": 5},
+       "The correct answer is A: about zero decibels.",
+       "Vibration spreads through the skull and stimulates both cochleae almost equally, so unmasked bone conduction cannot show which ear heard it."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "Audiogram *Symbols* and Recording Standards", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will look in detail at audiogram symbols, masked recordings and the no-response symbol.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

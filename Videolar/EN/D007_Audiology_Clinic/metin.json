@@ -1,0 +1,780 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D007_Audiology_Clinic_EN",
+ "kapak": {
+  "ust": "LESSON 7",
+  "baslik": "Inside an<br>audiology *clinic*",
+  "alt": "The test booth and core equipment",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Inside an Audiology Clinic: Booth and Core Equipment | Lesson 7 | AIHEAR Audiology Academy",
+  "aciklama": "What do you find in an audiology clinic? In this lesson we tour the sound-treated test booth and see how ambient noise affects thresholds. We also meet the audiometer, the tympanometer, OAE and ABR equipment, the vestibular laboratory and the hearing aid fitting room.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ANSI/ASA S3.1, Maximum Permissible Ambient Noise Levels for Audiometric Test Rooms; ISO 8253-1, Acoustics: Audiometric test methods, Part 1; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "hearing"
+  ],
+  "etiketler": [
+   "audiology clinic",
+   "sound-treated booth",
+   "audiometer",
+   "tympanometer",
+   "ambient noise",
+   "insert earphones",
+   "OAE",
+   "ABR",
+   "vestibular laboratory",
+   "hearing aid fitting",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 7",
+   "baslik": "Inside an audiology *clinic*",
+   "alt": "The test booth and core equipment",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will tour an audiology clinic together and meet the sound-treated test booth and the core test equipment.",
+    "We will see what each device measures and why a quiet environment matters so much."
+   ]
+  },
+  {
+   "id": "kabin",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The test booth",
+   "baslik": "The sound-treated *booth*",
+   "maddeler": [
+    {
+     "metin": "_Isolates_ outside noise",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Thick walls, heavy tight door",
+     "cumle": 1,
+     "ikon": "ev"
+    },
+    {
+     "metin": "_Sound-absorbing_ surfaces inside",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Quiet ventilation and lighting",
+     "cumle": 3,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Contact: _window_ and intercom",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "cift_duvar",
+      "metin": "thick double wall",
+      "cumle": 1
+     },
+     {
+      "parca": "ses_emici",
+      "metin": "sound-absorbing surface",
+      "cumle": 2
+     },
+     {
+      "parca": "pencere",
+      "metin": "window and intercom",
+      "cumle": 4
+     },
+     {
+      "parca": "hasta",
+      "metin": "patient with headphones",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cift_duvar",
+      "cumle": 1
+     },
+     {
+      "parca": "ses_emici",
+      "cumle": 2
+     },
+     {
+      "parca": "havalandirma",
+      "cumle": 3
+     },
+     {
+      "parca": "pencere",
+      "cumle": 4
+     },
+     {
+      "parca": "interkom",
+      "cumle": 4
+     },
+     {
+      "parca": "hasta_butonu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The heart of the audiological assessment is the sound-treated booth."
+    },
+    "Its walls are thick and layered, and its door is heavy and seals tightly; the aim is to keep outside noise out.",
+    "The inner surfaces are covered with sound-absorbing material, which also reduces reflections inside the booth.",
+    "Even ventilation and lighting are chosen to run quietly, because a small hum in the booth can affect the measurement.",
+    "The tester communicates with the patient through a window and a two-way talk system, an intercom.",
+    "Inside the booth, the patient wears headphones and presses a hand-held button when they hear the sound."
+   ]
+  },
+  {
+   "id": "duzen",
+   "bolum_no": "PART 1",
+   "bolum": "The test booth",
+   "baslik": "One room or *two rooms*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Single room",
+     "metin": "Patient and tester in the same room",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Easy with children",
+     "metin": "But watch hand and equipment cues",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Two rooms",
+     "metin": "Control room separated by a window",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sound field",
+     "metin": "Fewer cues; suits loudspeaker testing",
+     "cumle": 4
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "In Türkiye",
+     "metin": "Tester outside the booth, watching through a window",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Clinics use two basic booth layouts, and both can be built to meet the standards.",
+    "In the single-room layout, the patient and the tester are in the same sound-treated room.",
+    "This layout makes it easier to work with young children, but the patient must not notice the tester's hand movements or equipment sounds.",
+    "In the two-room layout, the tester works from a separate control room, divided from the test room by a window.",
+    "This layout keeps visual and auditory cues to a minimum, and it also suits sound field testing through loudspeakers.",
+    "In Türkiye, many clinics seat the patient in the booth while the tester works from outside, watching through the window."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "The test booth",
+   "baslik": "Ambient noise *distorts* thresholds",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Thresholds measured in a _noisy room_",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       30,
+       20,
+       10,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 4
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Ambient noise is the unwanted background sound present in the booth during testing."
+    },
+    "This noise masks the test tones and makes thresholds appear worse than they really are.",
+    "In this example we see right ear thresholds measured in a noisy room; the low-frequency thresholds are elevated.",
+    "Most of the energy of ambient noise is in the low frequencies, and supra-aural earphones give less isolation there.",
+    "When the same person is retested in a proper booth, the thresholds may turn out to be within normal limits.",
+    "In bone conduction and sound field testing the ears are uncovered, so these tests are even more sensitive to ambient noise."
+   ]
+  },
+  {
+   "id": "odyometre",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The audiometer",
+   "baslik": "The *audiometer*: the core test device",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "Audiometer",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "Earphones: air conduction",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Bone vibrator: bone conduction",
+     "cumle": 3
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "Patient response button",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 3
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sets frequency and _intensity_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Result: the _audiogram_",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The most basic device in the booth is the audiometer."
+    },
+    "The audiometer produces pure tones at set frequencies and intensities and delivers them to the ear.",
+    "In air conduction testing, sound is delivered through supra-aural or insert earphones.",
+    "In bone conduction testing, a bone vibrator placed on the bone behind the ear is used instead.",
+    "The patient presses the button when they hear the tone, and the audiologist follows the responses to find the thresholds.",
+    "The thresholds are plotted on the audiogram; zero decibels HL matches the average threshold of young, healthy ears."
+   ]
+  },
+  {
+   "id": "tanisal",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The audiometer",
+   "baslik": "What a diagnostic audiometer *offers*",
+   "maddeler": [
+    {
+     "metin": "_Two channels_: tone and masking",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Air and _bone conduction_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "_Speech_ testing: microphone, recordings",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_Loudspeakers_ for sound field",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Screening audiometer: _simpler_",
+     "cumle": 4,
+     "ikon": "tarama"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40,
+     "test_kulak": "sag"
+    },
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "metin": "Masking noise",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Diagnostic audiometers in the clinic usually have two channels; one delivers the test tone, the other the masking noise.",
+    "Air and bone conduction thresholds are measured with the same device.",
+    "For speech testing, a microphone or recorded speech material is connected to the audiometer.",
+    "Loudspeakers in the booth provide sound field presentation for testing children and for measurements with hearing aids.",
+    "Screening audiometers are simpler; they mostly test only by air conduction at selected frequencies."
+   ]
+  },
+  {
+   "id": "kulaklik",
+   "bolum_no": "PART 2",
+   "bolum": "The audiometer",
+   "baslik": "Supra-aural and *insert* earphones",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supra-aural",
+     "metin": "Easy to fit; crosses over more easily",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert",
+     "metin": "Better isolation, higher attenuation",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Foam tip",
+     "metin": "A new one for each patient",
+     "cumle": 4
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "In Türkiye",
+     "metin": "Supra-aural routinely; inserts for masking",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Two types of earphones are widely used for air conduction testing, and both give valid results when calibrated.",
+    "Supra-aural earphones sit on the pinna; they are easy to fit and have been the standard for many years.",
+    "With these earphones, sound crosses through the skull to the other ear more easily, which increases the need for masking.",
+    "Insert earphones isolate ambient noise better, and their interaural attenuation is higher.",
+    "Their foam tips are placed in the ear canal, and a new tip is used for each patient.",
+    "In Türkiye, many clinics use supra-aural earphones for routine testing, while inserts give a clear advantage in masking."
+   ]
+  },
+  {
+   "id": "timpanometre",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Objective test equipment",
+   "baslik": "The *tympanometer*: how the middle ear moves",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 1
+   },
+   "notlar": [
+    {
+     "metin": "Probe: speaker, microphone, _pump_",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Result: the _tympanogram_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Also measures the acoustic reflex",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The second core device is the tympanometer; in the clinic it is also called an immittance or impedance meter."
+    },
+    "The probe, sealed airtight in the ear canal, contains a tiny loudspeaker, a microphone and an air pump.",
+    "As it changes the pressure in the ear canal, it measures how easily the middle ear transmits sound and plots a tympanogram.",
+    "A two hundred twenty six hertz probe tone is used in adults, while a one thousand hertz probe tone is preferred in young infants.",
+    "The same device also measures the acoustic reflex, giving quick information on the middle ear and the reflex pathway."
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "loudspeaker",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "microphone",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "air pump",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "tympanic membrane",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Objective test equipment",
+   "baslik": "The *OAE* device: does the cochlea respond?",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "Stimulus",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "Cochlear response",
+     "cumle": 2
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Noise floor",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Fast, _no response_ needed",
+     "cumle": 4,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Used in newborn _screening_",
+     "cumle": 4,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "An otoacoustic emission, or OAE, device records the very faint sounds the cochlea produces in response to sound.",
+    "A probe placed in the ear canal sends brief sounds or two separate tones.",
+    "A sensitive microphone in the probe picks up the response generated by the activity of the outer hair cells.",
+    "If the response is clearly larger than the room and patient noise, the emission is considered present.",
+    "The test is fast and needs no response from the patient, which is why it is also widely used for newborn hearing screening in Türkiye."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Objective test equipment",
+   "baslik": "The *ABR* system: recording the neural pathway",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Wave I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Wave V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Surface electrodes_ on the head",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Lying still or _asleep_",
+     "cumle": 3,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Threshold estimation_ in infants",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "An auditory brainstem response, or ABR, system records the electrical response of the auditory nerve and brainstem to sound.",
+    "Small surface electrodes are placed on the head, and the skin is cleaned to keep electrode impedance low.",
+    "Sound is usually delivered through insert earphones, and the system averages many responses to reveal the waves.",
+    "During recording the patient must lie still or sleep; infants are often tested in natural sleep.",
+    "ABR is used to estimate hearing thresholds in infants who cannot do behavioral tests and to assess the neural pathway."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Other rooms",
+   "baslik": "The *vestibular* laboratory",
+   "cizim": "vestibuler_laboratuvar",
+   "notlar": [
+    {
+     "metin": "_VNG_ and caloric testing",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_vHIT_: all six canals",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_VEMP_: utricle and saccule",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "For dizziness and balance problems, the clinic has a separate vestibular laboratory.",
+    "Here, eye movements are recorded with infrared video goggles; this system is called videonystagmography, or VNG.",
+    "In caloric testing, warm and cool air or water in the ear canal stimulates each lateral canal separately.",
+    "The video head impulse test, or vHIT, can assess all six semicircular canals with quick head movements.",
+    "The vestibular evoked myogenic potential, or VEMP, gives information about the function of the utricle and the saccule.",
+    "The laboratory also has an examination table where the patient can be laid down safely for positional tests."
+   ],
+   "ayar": {
+    "cumleler": {
+     "vng": 1,
+     "kalorik": 2,
+     "vhit": 3,
+     "vemp": 4,
+     "masa": 5
+    }
+   }
+  },
+  {
+   "id": "uygulama",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Other rooms",
+   "baslik": "The hearing aid *fitting* room",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "isitme_cihazi",
+     "metin": "Hearing aid",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_tupu",
+     "metin": "Probe tube",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "Loudspeaker",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_tupu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Programming _software_",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "_Real ear_ measurement",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_Test box_",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "A separate fitting room is used for hearing aid and implant fittings.",
+    "Here, hearing aids are adjusted for each person with a computer and programming software.",
+    "In a real ear measurement system, a thin probe tube is placed in the ear canal to measure the sound the aid produces in the ear.",
+    "The test box checks the technical performance of the hearing aid outside the ear, in a standard setup.",
+    "Materials for taking earmold impressions and an otoscope are also core equipment in this room."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Other rooms",
+   "baslik": "Clinical tip",
+   "metin": "Each morning, before the first patient, check the equipment with your own ears: earphone cords, channels, bone vibrator. Have full calibration done regularly.",
+   "cumleler": [
+    "A tip from practice: each morning before the first patient, briefly listen to the audiometer yourself to check it.",
+    "Listen for crackling in the earphone cords, crosstalk between channels, or distortion in the bone vibrator.",
+    "This daily listening check does not replace full calibration, which is done regularly, usually once a year.",
+    "But it catches a fault before a patient is tested; keeping the calibration date visible in the records is also good practice."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "The booth minimizes _ambient noise_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Audiometer: _air and bone_ thresholds",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Tympanometer, OAE, ABR: _objective_ measures",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Vestibular lab and _fitting room_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "The sound-treated booth minimizes the ambient noise that can distort thresholds; single and two-room layouts are used.",
+    "The audiometer is the core device for measuring air and bone conduction thresholds and for speech testing.",
+    "Tympanometers, OAE and ABR systems make measurements that need no response from the patient.",
+    "The vestibular laboratory covers the balance system, and the fitting room covers hearing aid fittings."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which thresholds does ambient noise affect most?",
+   "secenekler": [
+    "High-frequency thresholds",
+    "Low-frequency thresholds",
+    "Only the 4000 Hz threshold",
+    "None of them"
+   ],
+   "dogru": 1,
+   "aciklama": "Ambient noise is mostly low-pitched, and supra-aural earphones _isolate less_ at low frequencies.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: Ambient noise in the booth distorts thresholds at which frequencies the most?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the low-frequency thresholds."
+    },
+    "Most of the energy of ambient noise is in the low frequencies, and supra-aural earphones give less isolation in this region."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The Audiology *Test Battery*: What Each Test Tells Us",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will see how the tests done with these devices are combined into a battery, and what each test shows.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

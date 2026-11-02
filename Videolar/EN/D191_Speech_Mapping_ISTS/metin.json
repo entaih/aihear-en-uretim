@@ -1,0 +1,1214 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D191_Speech_Mapping_ISTS_EN",
+ "kapak": {
+  "ust": "LESSON 191",
+  "baslik": "Speech<br>*mapping*",
+  "alt": "Verification with ISTS and SII",
+  "cizim": "rem_duzenegi"
+ },
+ "youtube": {
+  "baslik": "Speech Mapping and Verification with ISTS | Lesson 191 | AIHEAR Audiology Academy",
+  "aciklama": "Where does a hearing aid place speech in the ear? In this lesson we cover how the ISTS test signal was created, how to read thresholds, aided speech and discomfort levels on a speech map, percentiles, and the Speech Intelligibility Index (SII).\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Holube, Fredelake, Vlaming and Kollmeier (2010), Development and analysis of an International Speech Test Signal (ISTS), International Journal of Audiology; IEC 60118-15, Methods for characterizing signal processing in hearing aids with a speech-like signal; ANSI/ASA S3.5-1997, Methods for Calculation of the Speech Intelligibility Index; Dillon, Hearing Aids; Mueller, Ricketts and Bentler, Modern Hearing Aids.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "ISTS"
+  ],
+  "etiketler": [
+   "speech mapping",
+   "ISTS",
+   "International Speech Test Signal",
+   "SII",
+   "Speech Intelligibility Index",
+   "LTASS",
+   "real-ear measurement",
+   "hearing aid verification",
+   "percentiles",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 191",
+   "baslik": "Speech *mapping*",
+   "alt": "ISTS, LTASS and SII",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn to verify a hearing aid with a signal that resembles real speech, in other words, speech mapping.",
+    "Step by step, we will cover the International Speech Test Signal, or ISTS, speech in the ear, and the Speech Intelligibility Index."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The ISTS test signal",
+   "baslik": "Why a *speech* signal?",
+   "maddeler": [
+    {
+     "metin": "Hearing aids respond to speech",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "A pure tone may seem like noise",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Compression reacts to real dynamics",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Goal: see speech in the ear",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "hoparlor",
+      "metin": "speech-like signal",
+      "cumle": 0
+     },
+     {
+      "parca": "prob_tupu",
+      "metin": "probe tube",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "hoparlor",
+      "cumle": 0
+     },
+     {
+      "parca": "prob_tupu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Today's hearing aids analyze the signal continuously and change their behavior according to what they hear.",
+    "Noise reduction, feedback cancellation and compression respond to the type of incoming sound and how it changes over time.",
+    "A steady pure tone or continuous noise may be treated as noise by these systems and suppressed.",
+    "Compression also responds to the rapid ups and downs of speech differently from a steady signal.",
+    "So gain measured with pure tones may not fully reflect what the aid really does to speech.",
+    "Speech mapping shows directly where a speech-like signal falls in the ear canal."
+   ]
+  },
+  {
+   "id": "ists",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The ISTS test signal",
+   "baslik": "What is the *ISTS?*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Six talkers",
+     "cumle": 1,
+     "metin": "Female voices"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Six languages",
+     "cumle": 2,
+     "metin": "The same short text"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Unintelligible",
+     "cumle": 3,
+     "metin": "Yet speech-like"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Standard spectrum",
+     "cumle": 4,
+     "metin": "International female LTASS"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "60 seconds",
+     "cumle": 5,
+     "metin": "First seconds for settling"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Standard",
+     "cumle": 6,
+     "metin": "IEC 60118-15"
+    }
+   ],
+   "cumleler": [
+    "The International Speech Test Signal, or ISTS, is a signal developed for measuring hearing aids.",
+    "It is made from recordings of six female talkers.",
+    "The talkers speak American English, Arabic, Mandarin Chinese, French, German and Spanish.",
+    "The recordings were cut into short segments and mixed, so the signal is unintelligible but keeps the rhythm and ups and downs of speech.",
+    "Its long-term average speech spectrum, or LTASS, matches the average for female speech.",
+    "The signal lasts 60 seconds; the first seconds are left for the aid to settle, and analysis uses the part that follows.",
+    {
+     "yazi": "The ISTS and its analysis method are defined in an international IEC standard for hearing aid measurement.",
+     "ses": "The ISTS and its analysis method are defined in an international I E C standard for hearing aid measurement."
+    }
+   ]
+  },
+  {
+   "id": "uretim",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The ISTS test signal",
+   "baslik": "*How* was the ISTS made?",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Recording",
+     "cumle": 0,
+     "metin": "Six languages, one fable"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Segmenting",
+     "cumle": 1,
+     "metin": "Short pieces"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Mixing",
+     "cumle": 2,
+     "metin": "Across languages"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Spectrum",
+     "cumle": 3,
+     "metin": "Female average"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Test signal",
+     "cumle": 4,
+     "metin": "Language independent"
+    }
+   ],
+   "cumleler": [
+    "Each talker read the same short text in her own language: the fable of the North Wind and the Sun.",
+    "The recordings were cut into short segments about the length of a syllable.",
+    "The segments were mixed across languages and rearranged, so no meaningful sentence remained in any language.",
+    "The spectrum of the resulting signal was finally adjusted to the international average for female speech.",
+    "The result is a language-independent, speech-like signal that can be used the same way all over the world."
+   ]
+  },
+  {
+   "id": "harita",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The speech map",
+   "baslik": "The *speech map* in the ear",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Level in the ear canal (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        42
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        72
+       ],
+       [
+        6000,
+        78
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "threshold",
+      "cumle": 1
+     },
+     {
+      "ad": "ucl",
+      "noktalar": [
+       [
+        250,
+        105
+       ],
+       [
+        500,
+        105
+       ],
+       [
+        1000,
+        107
+       ],
+       [
+        2000,
+        110
+       ],
+       [
+        4000,
+        112
+       ],
+       [
+        8000,
+        112
+       ]
+      ],
+      "renk": "turuncu",
+      "kesik": true,
+      "etiket": "discomfort level",
+      "cumle": 2
+     },
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        250,
+        56
+       ],
+       [
+        500,
+        58
+       ],
+       [
+        1000,
+        52
+       ],
+       [
+        2000,
+        52
+       ],
+       [
+        3000,
+        50
+       ],
+       [
+        4000,
+        45
+       ],
+       [
+        6000,
+        40
+       ],
+       [
+        8000,
+        36
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "etiket": "unaided speech",
+      "cumle": 3
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        250,
+        58
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        66
+       ],
+       [
+        2000,
+        73
+       ],
+       [
+        3000,
+        78
+       ],
+       [
+        4000,
+        79
+       ],
+       [
+        6000,
+        74
+       ],
+       [
+        8000,
+        66
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "aided speech",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "eksik",
+      "x": [
+       5500,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "inaudible",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "On a speech map, everything is shown as sound pressure level in front of the tympanic membrane, in dB SPL.",
+    "The red line is the person's hearing thresholds converted to this scale; sounds below the line are not heard.",
+    "The dashed line at the top shows the person's discomfort level.",
+    "The gray curve is the average level of 65 dB SPL average speech in the unaided ear; its high-frequency part stays below threshold.",
+    "The blue curve is the level the same speech reaches with the hearing aid.",
+    "In this example, aided speech rises above threshold up to 4000 Hz, but above about 5000 Hz it is still not heard.",
+    "So on a single screen we see which part of speech is audible and which part is missing."
+   ]
+  },
+  {
+   "id": "yuzdelik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The speech map",
+   "baslik": "A *range*, not an average",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Level in the ear canal (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        42
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        72
+       ],
+       [
+        6000,
+        78
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "threshold",
+      "cumle": 1
+     },
+     {
+      "ad": "p99",
+      "noktalar": [
+       [
+        250,
+        70
+       ],
+       [
+        500,
+        75
+       ],
+       [
+        1000,
+        78
+       ],
+       [
+        2000,
+        85
+       ],
+       [
+        3000,
+        90
+       ],
+       [
+        4000,
+        91
+       ],
+       [
+        6000,
+        86
+       ],
+       [
+        8000,
+        78
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "99th percentile",
+      "cumle": 2
+     },
+     {
+      "ad": "ltass",
+      "noktalar": [
+       [
+        250,
+        58
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        66
+       ],
+       [
+        2000,
+        73
+       ],
+       [
+        3000,
+        78
+       ],
+       [
+        4000,
+        79
+       ],
+       [
+        6000,
+        74
+       ],
+       [
+        8000,
+        66
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "average",
+      "cumle": 2
+     },
+     {
+      "ad": "p30",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        55
+       ],
+       [
+        3000,
+        60
+       ],
+       [
+        4000,
+        61
+       ],
+       [
+        6000,
+        56
+       ],
+       [
+        8000,
+        48
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "30th percentile",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "dinamik",
+      "y": [
+       48,
+       78
+      ],
+      "xk": 1000,
+      "etiket": "about 30 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Speech is not a steady sound; its level changes from moment to moment in every frequency band.",
+    "In the standard analysis, the signal is examined in one-third octave bands with short windows of 125 milliseconds.",
+    {
+     "yazi": "In each band, peaks are shown as the 99th percentile and soft parts as the 30th; the 65th percentile and long-term average lie between."
+    },
+    {
+     "yazi": "For unaided ISTS, the difference between the 99th and 30th percentiles, the dynamic range of speech, is about 30 dB."
+    },
+    "In a hearing aid with compression this range can narrow, and the narrowing is seen directly on the screen.",
+    "The goal is for the soft parts of speech to rise above threshold as much as possible, and for peaks not to exceed the discomfort level."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "The speech map",
+   "baslik": "Measurement *steps*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Convert thresholds",
+     "cumle": 0,
+     "metin": "From dB HL to dB SPL"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Probe tube",
+     "cumle": 1,
+     "metin": "Close to the eardrum"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Three levels",
+     "cumle": 2,
+     "metin": "55, 65, 75 to 80"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Compare with target",
+     "cumle": 3,
+     "metin": "At every level"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Maximum output",
+     "cumle": 4,
+     "metin": "85 to 90 dB"
+    }
+   ],
+   "cumleler": [
+    "First, the person's dB HL thresholds are converted to dB SPL in the ear canal using average or measured ear values.",
+    "As we saw in the previous lesson, the probe tube is placed about 5 mm from the tympanic membrane.",
+    "The ISTS is usually presented at about 55, 65 and 75 to 80 dB SPL, for soft, average and loud speech.",
+    "At each level, the measured average curve is compared with the prescriptive target on the same screen, and channel gains are adjusted.",
+    "Finally, the aid's maximum output is checked with a sweep at 85 to 90 dB SPL.",
+    "A sweep is used instead of a speech signal for maximum output, because the aim is to capture the aid's strongest output."
+   ]
+  },
+  {
+   "id": "ekran",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The speech map",
+   "baslik": "What are we *looking for?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Audibility",
+     "cumle": 0,
+     "metin": "Speech above threshold"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Comfort",
+     "cumle": 1,
+     "metin": "Peaks below discomfort"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Separation",
+     "cumle": 2,
+     "metin": "Three levels apart"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Match to target",
+     "cumle": 3,
+     "metin": "Close at every level"
+    }
+   ],
+   "cumleler": [
+    "On the screen we first ask: is the average of average-level speech above threshold at the important frequencies?",
+    "Second, are the peaks of loud speech and the maximum output below the discomfort level?",
+    "Third, are the soft, average and loud speech curves separated from each other, or is there too much compression?",
+    "Finally, is the curve measured at each level close enough to the prescriptive target?",
+    "These four questions show whether the aid is doing its basic job before moving on to fine-tuning."
+   ]
+  },
+  {
+   "id": "sii",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "SII",
+   "baslik": "The Speech Intelligibility *Index*",
+   "maddeler": [
+    {
+     "metin": "Value: between _0 and 1_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Audible band times band importance",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Not_ a percent-correct score",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Unaided and aided are compared",
+     "cumle": 5,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        35,
+        40,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "The Speech Intelligibility Index, or SII, sums up in a single number how much of speech is audible.",
+    "The value lies between 0 and 1: 0 means no information is audible, and 1 means all speech information is audible.",
+    "In the calculation, the part of speech above threshold is found in each frequency band and multiplied by that band's importance weight.",
+    {
+     "yazi": "The calculation method for the index is defined in the American standard ANSI S3.5.",
+     "ses": "The calculation method for the index is defined in the American standard A N S I S three point five."
+    },
+    {
+     "yazi": "The SII is not an intelligibility percentage; for example, a value of 0.5 does not mean that half of the words will be understood."
+    },
+    "Many measurement systems show the SII unaided and aided; the difference sums up the aid's contribution to audibility."
+   ]
+  },
+  {
+   "id": "bant",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "SII",
+   "baslik": "Bands are *not equal*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Octave band (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 30,
+     "adim": 10,
+     "ad": "Band importance (percent)"
+    },
+    "seriler": [
+     {
+      "ad": "onem",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        250,
+        6
+       ],
+       [
+        500,
+        17
+       ],
+       [
+        1000,
+        24
+       ],
+       [
+        2000,
+        26
+       ],
+       [
+        4000,
+        21
+       ],
+       [
+        8000,
+        5
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "orta",
+      "x": [
+       800,
+       2600
+      ],
+      "renk": "sari",
+      "etiket": "most important region",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "In the SII calculation, not every frequency band carries the same weight.",
+    "This graph shows approximately the standard average speech importance weights for the octave bands.",
+    "The highest importance is in the 1000 and 2000 Hz bands; together they carry about half of the total information.",
+    "The 4000 Hz band also has a share of about one fifth.",
+    "The 250 and 8000 Hz bands, by contrast, have small shares.",
+    "This is why speech made audible in the mid and high frequencies raises the SII much more than at low frequencies."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "SII",
+   "baslik": "*Interpreting* the SII",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Not a percentage",
+     "cumle": 0,
+     "metin": "A summary of audibility"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Individual",
+     "cumle": 1,
+     "metin": "Same SII, different outcome"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "By age",
+     "cumle": 2,
+     "metin": "Norms exist for children"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Not the only target",
+     "cumle": 3,
+     "metin": "Comfort matters too"
+    }
+   ],
+   "cumleler": [
+    "The SII is a summary of audibility; on its own it does not tell how much the person will actually understand.",
+    "Two people with the same SII may get different results, depending on the state of the cochlea and how the brain processes sound.",
+    "For children, there are normative studies showing the aided SII values expected for each degree of hearing loss.",
+    "Pushing gain too far to maximize the SII can bring discomfort and feedback; the goal is balance.",
+    "So the SII should be interpreted together with match to target and the person's feedback."
+   ]
+  },
+  {
+   "id": "duzeltme",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Adjustment and interpretation",
+   "baslik": "Example: *below target*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Level in the ear canal (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        42
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        72
+       ],
+       [
+        6000,
+        78
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "threshold",
+      "cumle": 1
+     },
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        58
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        67
+       ],
+       [
+        2000,
+        74
+       ],
+       [
+        3000,
+        78
+       ],
+       [
+        4000,
+        80
+       ],
+       [
+        6000,
+        78
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "target",
+      "cumle": 1
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        59
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        66
+       ],
+       [
+        2000,
+        68
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        66
+       ],
+       [
+        6000,
+        60
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "etiket": "first measurement",
+      "cumle": 1
+     },
+     {
+      "ad": "son",
+      "noktalar": [
+       [
+        250,
+        59
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        67
+       ],
+       [
+        2000,
+        73
+       ],
+       [
+        3000,
+        77
+       ],
+       [
+        4000,
+        78
+       ],
+       [
+        6000,
+        74
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "after adjustment",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "acik",
+      "x": [
+       2000,
+       6000
+      ],
+      "renk": "sari",
+      "etiket": "below target",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Now let us look at an example adjustment: after the first fit, average-level speech was measured.",
+    "The dashed line shows the prescriptive target, and the gray curve shows the first measurement.",
+    "Above 2000 Hz, the measured curve falls clearly below target.",
+    "This means that the high-frequency consonants of speech are not audible enough.",
+    "When gain is increased in the relevant channels and the measurement is repeated, the blue curve moves closer to target.",
+    "After the adjustment, the person is asked how the sound feels, and you check for feedback."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Before measuring, ask the person not to talk or move their head. The aid's adaptive features settle in the signal's first seconds; read the result after it settles.",
+   "cumleler": [
+    "A tip from the field: before the measurement starts, remind the person not to talk or move their head.",
+    "The person's own voice and conversations in the room mix into the measured speech curve.",
+    "The aid's adaptive features, such as noise reduction and compression, settle in the first seconds of the signal.",
+    "So interpret the curve not as soon as the signal starts, but after it has settled.",
+    "If the result looks unexpected, first check the position of the probe tube and which program the aid is in."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "ISTS: unintelligible speech from six languages",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Map: threshold, speech and discomfort",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Percentiles show the range of speech",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "SII: importance-weighted audibility summary",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that the ISTS is an unintelligible but speech-like test signal made from six female talkers in six languages.",
+    "The speech map shows thresholds, aided speech and discomfort level on the same dB SPL screen.",
+    "Percentiles show the soft parts and peaks of speech, that is, its dynamic range.",
+    "The SII sums up audible speech by band importance between 0 and 1; it is not an intelligibility percentage."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is true for a person with an SII of 0.5?",
+   "secenekler": [
+    "Understands half the words",
+    "Part of speech information is audible",
+    "No hearing aid needed",
+    "Thresholds are normal"
+   ],
+   "dogru": 1,
+   "aciklama": "The SII is a summary of _audibility_; it cannot be converted directly into percent correct.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: for a person whose SII is 0.5, which statement is true?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: part of the speech information, weighted by importance, is audible.",
+    "The SII is a summary of audibility; it does not mean that fifty percent of words will be understood."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Real-Ear-to-Coupler Difference (RECD) in *Children*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how a child's small ear canal changes output, and the real-ear-to-coupler difference, or RECD.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

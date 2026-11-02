@@ -1,0 +1,1020 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D131_Latency_Intensity_Bone_Conduction_ABR_EN",
+ "kapak": {
+  "ust": "LESSON 131",
+  "baslik": "Latency-intensity and<br>*bone conduction*",
+  "alt": "LIF patterns and bone-conduction ABR",
+  "cizim": "abr",
+  "ayar": {
+   "latans_kayma": 0.8
+  }
+ },
+ "youtube": {
+  "baslik": "Latency-Intensity Function and Bone-Conduction ABR | Lesson 131 | AIHEAR Audiology Academy",
+  "aciklama": "We explain how the latency-intensity function of the auditory brainstem response (ABR) changes in conductive, cochlear and retrocochlear hearing loss, and how bone-conduction ABR helps identify the type of loss. With examples, we cover vibrator placement, technical limits and interpretation in infants.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies; Stapells, bone-conduction tone burst ABR studies.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "hearing"
+  ],
+  "etiketler": [
+   "latency-intensity function",
+   "LIF",
+   "bone-conduction ABR",
+   "recruitment pattern",
+   "conductive hearing loss",
+   "infant ABR",
+   "auditory brainstem response",
+   "wave V latency",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 131",
+   "baslik": "Latency-intensity and *bone conduction*",
+   "alt": "LIF patterns and bone-conduction ABR",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the latency-intensity function and bone-conduction testing in the auditory brainstem response, or ABR.",
+    "We will see how these two tools help us tell conductive, cochlear and retrocochlear patterns apart."
+   ]
+  },
+  {
+   "id": "lif",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Latency-intensity",
+   "baslik": "The latency-intensity *function*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Intensity (dB nHL)"
+    },
+    "y": {
+     "min": 5,
+     "max": 9,
+     "adim": 1,
+     "ad": "Wave V latency (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        20,
+        7.9
+       ],
+       [
+        30,
+        7.4
+       ],
+       [
+        40,
+        6.9
+       ],
+       [
+        50,
+        6.5
+       ],
+       [
+        60,
+        6.1
+       ],
+       [
+        70,
+        5.8
+       ],
+       [
+        80,
+        5.6
+       ],
+       [
+        90,
+        5.45
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "normal",
+      "cumle": 1,
+      "etiket_konum": [
+       90,
+       5.45
+      ],
+      "etiket_dy": -16,
+      "etiket_dx": -6
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yuksek",
+      "x": 80,
+      "y": 5.6,
+      "etiket": "about 5.6 ms",
+      "cumle": 2,
+      "dy": 34,
+      "renk": "lacivert"
+     },
+     {
+      "ad": "esik",
+      "x": 20,
+      "y": 7.9,
+      "etiket": "near threshold",
+      "cumle": 3,
+      "dy": -22,
+      "renk": "lacivert"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Lower intensity, _longer latency_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Each clinic plots _its own norms_",
+     "cumle": 5,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The latency-intensity function, or LIF, is a graph showing how wave V latency changes with intensity.",
+     "ses": "The latency-intensity function, or L I F, is a graph showing how wave five latency changes with intensity."
+    },
+    {
+     "yazi": "Intensity is on the horizontal axis and wave V latency on the vertical axis; as intensity decreases, latency increases.",
+     "ses": "Intensity is on the horizontal axis and wave five latency on the vertical axis; as intensity decreases, latency increases."
+    },
+    {
+     "yazi": "In a normal-hearing adult, with a click at 80 dB nHL, that is, normalized hearing level, wave V appears at about 5.6 milliseconds.",
+     "ses": "In a normal-hearing adult, with a click at eighty decibels N H L, that is, normalized hearing level, wave five appears at about five point six milliseconds."
+    },
+    {
+     "yazi": "At low intensities near threshold, latency increases to about 7.5 to 8 milliseconds.",
+     "ses": "At low intensities near threshold, latency increases to about seven point five to eight milliseconds."
+    },
+    "Since we already record at different intensities during the threshold search, this graph needs no extra test.",
+    "Each clinic draws the normal range obtained with its own device and stimulus on this graph for comparison."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Latency-intensity",
+   "baslik": "Why does latency *increase?*",
+   "maddeler": [
+    {
+     "metin": "High intensity: the _base_ also responds",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Low intensity: excitation shifts _toward the apex_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "The traveling wave reaches the apex _later_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Synaptic triggering also _slows_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_acik",
+    "cumle": 0,
+    "ayar": {
+     "frekans": 1000
+    },
+    "vurgula": [
+     {
+      "parca": "taban",
+      "cumle": 0
+     },
+     {
+      "parca": "yuruyen_dalga",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "At high intensity, a click also strongly stimulates the fast-responding base of the cochlea, and the response comes early.",
+    "As intensity decreases, the response starts to come from more sensitive regions of the cochlea, closer to the apex.",
+    "Because the traveling wave reaches these regions later, the total latency increases.",
+    "In addition, at low intensity, triggering at the level of the hair cell and synapse also happens slightly later.",
+    "Cochlear damage changes this balance, so the shape of the curve gives us a clue about the site of the loss."
+   ]
+  },
+  {
+   "id": "desenler",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Patterns",
+   "baslik": "Four *latency-intensity* patterns",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Intensity (dB nHL)"
+    },
+    "y": {
+     "min": 5,
+     "max": 9,
+     "adim": 1,
+     "ad": "Wave V latency (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        20,
+        7.9
+       ],
+       [
+        30,
+        7.4
+       ],
+       [
+        40,
+        6.9
+       ],
+       [
+        50,
+        6.5
+       ],
+       [
+        60,
+        6.1
+       ],
+       [
+        70,
+        5.8
+       ],
+       [
+        80,
+        5.6
+       ],
+       [
+        90,
+        5.45
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "normal",
+      "cumle": 0,
+      "etiket_konum": [
+       20,
+       7.9
+      ],
+      "etiket_dy": 26,
+      "etiket_dx": -4
+     },
+     {
+      "ad": "iletim",
+      "noktalar": [
+       [
+        50,
+        7.9
+       ],
+       [
+        60,
+        7.4
+       ],
+       [
+        70,
+        6.9
+       ],
+       [
+        80,
+        6.5
+       ],
+       [
+        90,
+        6.1
+       ]
+      ],
+      "renk": "turuncu",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "conductive",
+      "cumle": 1,
+      "etiket_konum": [
+       50,
+       7.9
+      ],
+      "etiket_dy": -14,
+      "etiket_dx": -30
+     },
+     {
+      "ad": "koklear",
+      "noktalar": [
+       [
+        60,
+        7.1
+       ],
+       [
+        70,
+        6.0
+       ],
+       [
+        80,
+        5.7
+       ],
+       [
+        90,
+        5.5
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "cochlear",
+      "cumle": 3,
+      "etiket_konum": [
+       60,
+       7.1
+      ],
+      "etiket_dy": -14,
+      "etiket_dx": -20
+     },
+     {
+      "ad": "retrokoklear",
+      "noktalar": [
+       [
+        40,
+        8.0
+       ],
+       [
+        50,
+        7.6
+       ],
+       [
+        60,
+        7.2
+       ],
+       [
+        70,
+        6.9
+       ],
+       [
+        80,
+        6.7
+       ],
+       [
+        90,
+        6.55
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "retrocochlear",
+      "cumle": 5,
+      "etiket_konum": [
+       90,
+       6.55
+      ],
+      "etiket_dy": -16,
+      "etiket_dx": -70,
+      "kesik": true
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Conductive: _parallel_ shift to the right",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Cochlear: _steep_ slope",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Retrocochlear: _long_ at every intensity",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Now let us compare four example curves on the same graph; the blue curve shows a normal-hearing ear.",
+    "The orange curve represents a conductive loss; it keeps the shape of the normal curve but shifts to the right, toward higher intensities.",
+    "This is because a problem in the outer or middle ear reduces the sound reaching the cochlea by the same amount at every intensity.",
+    "The green curve shows a cochlear loss; the threshold is raised, but as intensity increases, latency quickly approaches normal.",
+    {
+     "yazi": "This steep slope is also called a recruitment pattern, because it resembles the rapid growth of loudness in a damaged cochlea."
+    },
+    "The red dashed curve represents a retrocochlear pattern; latency is longer than normal at every intensity.",
+    "These curves are examples; in real recordings, patterns can overlap, and mixed losses produce intermediate shapes."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Patterns",
+   "baslik": "The conductive *pattern*",
+   "maddeler": [
+    {
+     "metin": "All waves delayed, _including wave I_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Interpeak intervals _normal_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Curve shifts right in _parallel_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Shift gives a _rough idea_ of the loss",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "ayar": {
+     "latans_kayma": 0.8
+    },
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 0
+     },
+     {
+      "parca": "latans_I_V",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In a conductive loss, the sound reaching the cochlea is weaker, so all waves, including wave I, are delayed.",
+     "ses": "In a conductive loss, the sound reaching the cochlea is weaker, so all waves, including wave one, are delayed."
+    },
+    {
+     "yazi": "But because conduction in the nerve and brainstem is intact, the I-V interval stays normal.",
+     "ses": "But because conduction in the nerve and brainstem is intact, the one to five interval stays normal."
+    },
+    "The latency-intensity curve shifts to the right, parallel to the normal curve.",
+    "The amount of shift gives a rough idea of the size of the air-bone gap, but bone-conduction ABR is needed for an exact measure.",
+    "In infants, middle ear fluid is one of the most common causes of this pattern, so tympanometry results are considered alongside."
+   ]
+  },
+  {
+   "id": "koklear",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Patterns",
+   "baslik": "The cochlear *pattern*",
+   "maddeler": [
+    {
+     "metin": "ABR threshold _raised_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Near threshold, latency _relatively long_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "At high intensity, latency _near normal_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "High-frequency loss: wave V may be _slightly_ late",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "In a cochlear, that is, sensorineural, loss, the ABR threshold rises in line with the degree of loss.",
+    {
+     "yazi": "At intensities near threshold, wave V latency is relatively long.",
+     "ses": "At intensities near threshold, wave five latency is relatively long."
+    },
+    "But as intensity increases, latency shortens quickly and reaches near-normal values at high intensities.",
+    "As the example audiogram on screen shows, the situation changes somewhat if there is a marked loss in the high frequencies.",
+    {
+     "yazi": "Because the region that contributes most to the click response is damaged, wave V may be slightly delayed even at high intensity.",
+     "ses": "Because the region that contributes most to the click response is damaged, wave five may be slightly delayed even at high intensity."
+    }
+   ]
+  },
+  {
+   "id": "retro",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Patterns",
+   "baslik": "The retrocochlear *pattern*",
+   "maddeler": [
+    {
+     "metin": "Latency _long_ at every intensity",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "I-V interval _prolonged_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Waveform _may degrade_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Finding requires _referral to a physician_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "ayar": {
+     "i_v_uzama": 0.8
+    },
+    "vurgula": [
+     {
+      "parca": "latans_I_V",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In the retrocochlear pattern, wave V latency is longer than the normal range at every intensity, and the curve looks shifted upward.",
+     "ses": "In the retrocochlear pattern, wave five latency is longer than the normal range at every intensity, and the curve looks shifted upward."
+    },
+    {
+     "yazi": "If wave I is visible, the I-V interval is seen to be prolonged; this shows the delay lies in brainstem conduction.",
+     "ses": "If wave one is visible, the one to five interval is seen to be prolonged; this shows the delay lies in brainstem conduction."
+    },
+    "The waves may also become smaller, broader or lose their repeatability.",
+    "This pattern is assessed together with the neurodiagnostic ABR criteria from the previous lessons and requires referral to a physician."
+   ]
+  },
+  {
+   "id": "ky_neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Bone-conduction ABR",
+   "baslik": "Why *bone-conduction* ABR?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Infant",
+     "metin": "No behavioral bone conduction",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Type of loss",
+     "metin": "Conductive or sensorineural?",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Straight to the cochlea",
+     "metin": "Bypasses outer and middle ear",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Right referral",
+     "metin": "Medical or audiological",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In a young infant, it is not possible to obtain behavioral bone-conduction thresholds.",
+    "When air-conduction ABR thresholds come out raised, we need to know whether the loss is conductive or sensorineural.",
+    "Bone-conduction ABR delivers sound directly to the skull with a bone vibrator, largely bypassing the outer and middle ear.",
+    "Together, air- and bone-conduction ABR thresholds reveal an estimated air-bone gap in the infant.",
+    "This distinction directly affects whether the infant is referred first for medical assessment or for early hearing aid fitting."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Bone-conduction ABR",
+   "baslik": "*Where* does the vibrator go?",
+   "cizim": "elektrot_yerlesimi",
+   "vurgula": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Bone vibrator",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Temporal bone, _not touching the pinna_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Steady force: _band or hand_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Reference: _earlobe_ or nape",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Bone-conduction ABR uses a bone vibrator similar to the one we use in audiometry.",
+    "In infants, the vibrator is placed on the temporal bone, near the upper back part of the pinna, without touching the pinna.",
+    "The vibrator is held with steady, adequate force, either by an elastic band or by the tester's hand.",
+    "A change in force can change the stimulus intensity, so it is important that it stays the same throughout the recording.",
+    "The reference electrode should not sit under the vibrator, so a site such as the earlobe or the nape can be chosen.",
+    "In infants, placing the vibrator on the temporal bone rather than the forehead usually gives larger responses."
+   ],
+   "ayar": {
+    "mod": "kemik_bebek",
+    "goster": {
+     "aralik": 1,
+     "bant": 2,
+     "aktif": 4,
+     "referans": 4,
+     "ense": 4,
+     "toprak": 4
+    }
+   }
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Bone-conduction ABR",
+   "baslik": "Technical *limits*",
+   "maddeler": [
+    {
+     "metin": "Upper limit: about _50 to 55 dB nHL_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Large _stimulus artifact_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Alternating polarity _helps_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Latency norms are _separate_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CAUTION",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Artifact",
+      "metin": "Vibrator radiates a strong field",
+      "cumle": 1
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Norms",
+      "metin": "Specific to bone conduction",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "A bone vibrator cannot produce high intensities without distortion; the maximum level is usually limited to about 50 to 55 dB nHL.",
+     "ses": "A bone vibrator cannot produce high intensities without distortion; the maximum level is usually limited to about fifty to fifty five decibels N H L."
+    },
+    "Because the vibrator radiates a strong electromagnetic field, a large stimulus artifact can appear in the recording.",
+    "Alternating polarity and keeping the vibrator cable away from the electrode leads reduce this artifact.",
+    "In bone-conduction ABR, latencies and thresholds differ from air conduction, so they are interpreted only with bone-conduction norms.",
+    "In infants, bone-conduction thresholds can be better than in adults, especially at low frequencies, which calls for age-specific norms."
+   ]
+  },
+  {
+   "id": "normlar",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "Bone conduction in infants: *example* criteria",
+   "sutunlar": [
+    "Tone burst",
+    "Considered normal",
+    "Note"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "20 dB nHL: present",
+      "Example protocol"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "30 dB nHL: present",
+      "Example protocol"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Some infant ABR protocols recommend looking for bone-conduction responses at a few levels.",
+    {
+     "yazi": "In one protocol, a response to a 500 Hz bone-conducted tone burst at 20 dB nHL suggests near-normal cochlear sensitivity.",
+     "ses": "In one protocol, a response to a five hundred hertz bone-conducted tone burst at twenty decibels N H L suggests near-normal cochlear sensitivity."
+    },
+    {
+     "yazi": "In the same protocol, this level is 30 dB nHL for 2000 Hz.",
+     "ses": "In the same protocol, this level is thirty decibels N H L for two thousand hertz."
+    },
+    "These values vary with the device, stimulus and protocol used; they are given here only as examples.",
+    "If air-conduction thresholds are raised but bone-conduction responses are present at these levels, a conductive component is likely."
+   ]
+  },
+  {
+   "id": "hangi_koklea",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "Which cochlea is *responding?*",
+   "maddeler": [
+    {
+     "metin": "The vibrator may stimulate _both cochleas_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Infants have _more_ interaural attenuation",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Ipsilateral wave V _earlier and larger_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "If needed, _mask_ the opposite ear",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "prominent in the ipsilateral channel",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "In bone conduction, the skull vibrates as a whole, so the vibrator can stimulate both cochleas at once.",
+    "In infants, the skull bones are not yet fully fused, so interaural attenuation for bone conduction is greater than in adults.",
+    {
+     "yazi": "Also, in a two-channel recording, wave V is usually earlier and larger in the ipsilateral channel, on the side of the responding cochlea.",
+     "ses": "Also, in a two-channel recording, wave five is usually earlier and larger in the ipsilateral channel, on the side of the responding cochlea."
+    },
+    {
+     "yazi": "In the contralateral channel, wave V is smaller and slightly later; this asymmetry hints at which side the response comes from.",
+     "ses": "In the contralateral channel, wave five is smaller and slightly later; this asymmetry hints at which side the response comes from."
+    },
+    "If these clues are not enough, masking noise is given to the opposite ear to confirm the source of the response."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "Two *example* infants",
+   "sutunlar": [
+    "Infant",
+    "Air, 2000 Hz",
+    "Bone, 2000 Hz",
+    "Likely type"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Example A",
+      "Threshold 50 dB nHL",
+      "30 dB nHL: present",
+      "Conductive component"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Example B",
+      "Threshold 50 dB nHL",
+      "30 dB nHL: absent",
+      "Sensorineural"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Now let us bring the interpretation together with two purely example infants.",
+    {
+     "yazi": "In example A, the 2000 Hz air-conduction ABR threshold is 50 dB nHL, but there is a clear bone-conduction response at 30 dB nHL.",
+     "ses": "In example A, the two thousand hertz air-conduction ABR threshold is fifty decibels N H L, but there is a clear bone-conduction response at thirty."
+    },
+    "This picture suggests that cochlear sensitivity is relatively preserved and the loss is largely conductive; tympanometry is added to this.",
+    {
+     "yazi": "In example B, with the same air-conduction threshold, there is no bone-conduction response at 30 dB nHL.",
+     "ses": "In example B, with the same air-conduction threshold, there is no bone-conduction response at thirty decibels N H L."
+    },
+    "In this case, the loss is thought to have a sensorineural component; a definite assessment needs the full test battery and a medical exam."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In bone-conduction ABR, hold the vibrator with steady force, keep it off the pinna and its cable away from the electrodes; when in doubt, mask the opposite ear.",
+   "cumleler": [
+    "A clinical tip: the most common error in bone-conduction ABR is the vibrator slipping or its force changing.",
+    "Hold the vibrator with the same force throughout the recording, without letting it touch the pinna.",
+    "Keep the vibrator cable away from the electrode leads; this clearly reduces stimulus artifact.",
+    "If you are not sure which cochlea the response comes from, do not hesitate to give masking noise to the opposite ear."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "LIF: lower intensity, _later wave V_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Conductive: _parallel_ shift, normal I-V",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Cochlear: _steep_ slope; retrocochlear: always long",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bone-conduction ABR identifies _loss type_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The latency-intensity function shows how wave V latency increases as intensity decreases.",
+     "ses": "The latency-intensity function shows how wave five latency increases as intensity decreases."
+    },
+    "In a conductive loss, the curve shifts to the right in parallel, and interpeak intervals stay normal.",
+    "In a cochlear loss the slope is steep; in the retrocochlear pattern, latency is long at every intensity.",
+    "Bone-conduction ABR helps tell whether an infant's loss is conductive or sensorineural."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "All waves delayed, normal I-V. Most likely pattern?",
+   "secenekler": [
+    "Conductive",
+    "Retrocochlear",
+    "Normal hearing"
+   ],
+   "dogru": 0,
+   "aciklama": "In a conductive loss, all waves _including wave I_ are delayed, while brainstem conduction stays normal.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: all waves, including wave I, are delayed, and the I-V interval is normal. What is the most likely pattern?",
+     "ses": "Test yourself: all waves, including wave one, are delayed, and the one to five interval is normal. What is the most likely pattern?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: a conductive pattern.",
+    {
+     "yazi": "The delay comes from less sound reaching the cochlea; since brainstem conduction is intact, the I-V interval is normal.",
+     "ses": "The delay comes from less sound reaching the cochlea; since brainstem conduction is intact, the one to five interval is normal."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "ABR *Artifacts* and Troubleshooting",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will look at the artifacts that disrupt ABR recordings and how we can fix them.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

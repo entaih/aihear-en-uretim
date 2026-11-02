@@ -1,0 +1,1044 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D080_Loudness_Phons_Sones_EN",
+ "kapak": {
+  "ust": "LESSON 80",
+  "baslik": "*Phons* and sones",
+  "alt": "Equal-loudness contours",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Loudness Perception: Phons and Sones | Lesson 80 | AIHEAR Audiology Academy",
+  "aciklama": "Intensity is physical; loudness is perceptual. In this lesson we look at equal-loudness contours, the phon and sone units, why 40 phons equal 1 sone, why a rise of about 10 phons doubles loudness, and what this means in the clinic.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ISO 226:2003, Acoustics: Normal equal-loudness-level contours; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "psychoacoustics",
+   "loudness"
+  ],
+  "etiketler": [
+   "loudness",
+   "phon",
+   "sone",
+   "equal-loudness contours",
+   "Fletcher-Munson curves",
+   "Stevens power law",
+   "loudness scaling",
+   "dynamic range",
+   "uncomfortable loudness level",
+   "psychoacoustics",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 80",
+   "baslik": "Loudness: *phons and sones*",
+   "alt": "Intensity is physical, loudness is perceptual",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how loud a sound is heard, that is, the perception of loudness.",
+    "We will see equal-loudness contours, the phon and sone units, and what they mean in the clinic."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "karsilastir",
+   "bolum_no": "PART 1",
+   "bolum": "Intensity and perception",
+   "baslik": "Intensity or *loudness*?",
+   "sol": {
+    "ust": "Intensity (physical)",
+    "maddeler": [
+     {
+      "metin": "Sound pressure or energy",
+      "cumle": 0
+     },
+     {
+      "metin": "_Measured_ by a device: dB SPL",
+      "cumle": 1
+     },
+     {
+      "metin": "Defined _independently_ of frequency",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Loudness (perceptual)",
+    "maddeler": [
+     {
+      "metin": "The size the listener _hears_",
+      "cumle": 3
+     },
+     {
+      "metin": "Measured by _asking_ the listener",
+      "cumle": 4
+     },
+     {
+      "metin": "_Depends_ on frequency and duration",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Intensity is the physical size of a sound; it relates to sound pressure or the energy the sound carries.",
+    "Intensity is measured with a sound level meter and is usually given in decibels SPL.",
+    "The same decibel SPL value describes the same physical size, whatever the frequency.",
+    "Loudness, on the other hand, is how strong the listener hears the sound to be; it is a perceptual quantity.",
+    "No device can measure loudness; we measure it by asking the listener, that is, with psychoacoustic methods.",
+    "Loudness rises with intensity, but it also depends on frequency, duration and the structure of the sound."
+   ]
+  },
+  {
+   "id": "olcek",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Intensity and perception",
+   "baslik": "The ear's *wide* range",
+   "cizim": "desibel_olcegi",
+   "vurgula": [
+    {
+     "parca": "fisilti",
+     "cumle": 1
+    },
+    {
+     "parca": "konusma",
+     "cumle": 2
+    },
+    {
+     "parca": "agri_esigi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "About _120 dB_ from threshold to pain",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Perception works in _ratios_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "The human ear works over a very wide range of intensities.",
+    "At the most sensitive frequencies, the hearing threshold is around zero decibels SPL; a whisper is a little above that.",
+    "Everyday speech is around sixty decibels SPL.",
+    "Loudness varies over a range of about one hundred twenty decibels, up to the threshold of pain.",
+    "Within this range, perception is not linear; doubling the intensity does not make a sound twice as loud.",
+    "To understand this relationship, we need two units: the phon and the sone."
+   ]
+  },
+  {
+   "id": "esitleme",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Equal loudness",
+   "baslik": "*How* are the contours made?",
+   "maddeler": [
+    {
+     "metin": "Reference: a _1000 Hz_ tone",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tone at another frequency _adjusted_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Equally loud levels _joined_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fletcher and Munson, _1933_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "ses_dalgasi",
+    "ayar": {
+     "frekans_hz": 1000,
+     "karsilastir": 250
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "We find out how loudness depends on frequency with matching experiments.",
+    "The listener is played a one thousand hertz tone as a reference.",
+    "Then a tone at another frequency is adjusted until the listener hears it as equally loud as the reference.",
+    "When these equally loud levels are joined, we get an equal-loudness contour.",
+    {
+     "yazi": "Fletcher and Munson published the first full contours in nineteen thirty three; today's contours are in the ISO 226 standard.",
+     "ses": "Fletcher and Munson published the first full contours in nineteen thirty three; today's contours are in the I.S.O. two two six standard."
+    },
+    "The standard contours are based on the average judgments of young, normal-hearing listeners in a free field."
+   ]
+  },
+  {
+   "id": "fon",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Equal loudness",
+   "baslik": "*Phon*: the loudness level",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Definition",
+     "metin": "dB SPL of an equally loud 1000 Hz tone",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "At 1000 Hz",
+     "metin": "Phons equal dB SPL",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Each contour",
+     "metin": "One phon value",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The phon value of a sound is the decibel SPL value of a one thousand hertz tone heard as equally loud.",
+    "So the phon is the unit of loudness level, and it uses one thousand hertz as a common ruler.",
+    "By this definition, phons and decibels SPL are equal at one thousand hertz; forty decibels SPL is forty phons.",
+    "Each equal-loudness contour is named by a phon value; for example, the forty-phon contour.",
+    "All tones on that contour are heard as equally loud, even though their frequencies and decibel values differ.",
+    "The phon tells us which sounds are heard as equal, but not how many times louder one sound is than another."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Equal loudness",
+   "baslik": "Same loudness, *different* decibels",
+   "sutunlar": [
+    "Frequency",
+    "40 phons",
+    "90 phons"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "100 Hz",
+      "about 64 dB SPL",
+      "about 99 dB SPL"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "about 43 dB SPL",
+      "about 90 dB SPL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "40 dB SPL",
+      "90 dB SPL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "3150 Hz",
+      "about 36 dB SPL",
+      "about 87 dB SPL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "about 52 dB SPL",
+      "about 101 dB SPL"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Let us look at a few values taken from the ISO 226 contours.",
+     "ses": "Let us look at a few values taken from the I.S.O. two two six contours."
+    },
+    "For a loudness of forty phons, about sixty four decibels SPL is needed at one hundred hertz.",
+    "At five hundred hertz, this value drops to about forty three decibels SPL.",
+    "At one thousand hertz, by definition, it is forty decibels SPL.",
+    "The ear is most sensitive between three and four thousand hertz; less intensity is enough for the same loudness.",
+    "At eight thousand hertz, more intensity is needed again.",
+    "At ninety phons, the gap between one hundred and one thousand hertz shrinks to about nine decibels, from about twenty four at forty phons."
+   ]
+  },
+  {
+   "id": "dersler",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Equal loudness",
+   "baslik": "*Lessons* from the contours",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 31.5,
+     "max": 12500,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      63,
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Level (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "fon_20",
+      "noktalar": [
+       [
+        31.5,
+        76
+       ],
+       [
+        63,
+        59
+       ],
+       [
+        125,
+        44
+       ],
+       [
+        250,
+        32
+       ],
+       [
+        500,
+        23
+       ],
+       [
+        1000,
+        20
+       ],
+       [
+        2000,
+        18
+       ],
+       [
+        3150,
+        14
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        5000,
+        19
+       ],
+       [
+        6300,
+        25
+       ],
+       [
+        8000,
+        32
+       ],
+       [
+        10000,
+        34
+       ],
+       [
+        12500,
+        33
+       ]
+      ],
+      "renk": "acik",
+      "yumusak": true,
+      "etiket": "20 phons",
+      "etiket_konum": [
+       1000,
+       20
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 0
+     },
+     {
+      "ad": "fon_40",
+      "noktalar": [
+       [
+        31.5,
+        88
+       ],
+       [
+        63,
+        73
+       ],
+       [
+        125,
+        61
+       ],
+       [
+        250,
+        50
+       ],
+       [
+        500,
+        43
+       ],
+       [
+        1000,
+        40
+       ],
+       [
+        2000,
+        39
+       ],
+       [
+        3150,
+        36
+       ],
+       [
+        4000,
+        37
+       ],
+       [
+        5000,
+        40
+       ],
+       [
+        6300,
+        46
+       ],
+       [
+        8000,
+        52
+       ],
+       [
+        10000,
+        54
+       ],
+       [
+        12500,
+        51
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "40 phons",
+      "etiket_konum": [
+       1000,
+       40
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 0
+     },
+     {
+      "ad": "fon_60",
+      "noktalar": [
+       [
+        31.5,
+        99
+       ],
+       [
+        63,
+        86
+       ],
+       [
+        125,
+        76
+       ],
+       [
+        250,
+        68
+       ],
+       [
+        500,
+        62
+       ],
+       [
+        1000,
+        60
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3150,
+        56
+       ],
+       [
+        4000,
+        58
+       ],
+       [
+        5000,
+        61
+       ],
+       [
+        6300,
+        66
+       ],
+       [
+        8000,
+        72
+       ],
+       [
+        10000,
+        73
+       ],
+       [
+        12500,
+        69
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "60 phons",
+      "etiket_konum": [
+       1000,
+       60
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 2
+     },
+     {
+      "ad": "fon_80",
+      "noktalar": [
+       [
+        31.5,
+        110
+       ],
+       [
+        63,
+        98
+       ],
+       [
+        125,
+        90
+       ],
+       [
+        250,
+        84
+       ],
+       [
+        500,
+        81
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        81
+       ],
+       [
+        3150,
+        77
+       ],
+       [
+        4000,
+        78
+       ],
+       [
+        5000,
+        82
+       ],
+       [
+        6300,
+        87
+       ],
+       [
+        8000,
+        91
+       ],
+       [
+        10000,
+        92
+       ],
+       [
+        12500,
+        85
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "80 phons",
+      "etiket_konum": [
+       1000,
+       80
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "en_duyarli",
+      "x": [
+       3000,
+       4000
+      ],
+      "renk": "sari",
+      "etiket": "most sensitive",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "fon_20",
+     "cumle": 0
+    },
+    {
+     "parca": "en_duyarli",
+     "cumle": 1
+    },
+    {
+     "parca": "fon_80",
+     "cumle": 2
+    },
+    {
+     "parca": "fon_20",
+     "cumle": 3
+    },
+    {
+     "parca": "fon_40",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "At low levels, _lows_ sound faint",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "3 to 4 kHz: _most sensitive_ region",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "At high levels, contours _flatten_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The first lesson from the contours: at low levels, the ear is much less sensitive to low-pitched sounds.",
+    "The most sensitive region is between about three and four thousand hertz; the resonance of the ear canal plays a part in this.",
+    "As the level rises, the contours flatten; the loudness of low-pitched sounds grows faster with intensity.",
+    "That is why, when we listen to music at a low volume, the bass seems to disappear, and it comes back when we turn it up.",
+    "A-weighting in sound level meters also mimics this low-level sensitivity of the ear.",
+    "A-weighting looks like an inverted forty-phon contour; it attenuates low frequencies in the measurement."
+   ]
+  },
+  {
+   "id": "odyogram_bag",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Equal loudness",
+   "baslik": "Why is the audiogram *flat*?",
+   "maddeler": [
+    {
+     "metin": "The threshold curve is _curved_ in SPL",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "dB HL pulls threshold to _zero_",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Normal hearing: a _flat_ line",
+     "cumle": 2,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        5,
+        5,
+        0,
+        5,
+        5,
+        10
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "The threshold curve is like the lowest equal-loudness contour; drawn in decibels SPL, it rises at low frequencies.",
+    "The audiometer takes the average threshold of normal listeners at each frequency as zero decibels HL, which corrects this curve.",
+    "So the audiogram of a normal-hearing person appears not curved but as a flat line around zero decibels HL.",
+    "But this correction applies only to threshold; above threshold, loudness still grows differently across frequencies."
+   ]
+  },
+  {
+   "id": "son",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The sone scale",
+   "baslik": "*Sone*: the ratio of loudness",
+   "sutunlar": [
+    "Phons",
+    "Sones",
+    "Perception"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "40",
+      "1",
+      "Reference"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "50",
+      "2",
+      "Twice as loud"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "60",
+      "4",
+      "Four times"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "70",
+      "8",
+      "Eight times"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "80",
+      "16",
+      "Sixteen times"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "To say how many times louder one sound is than another, we use the sone, a unit proposed by Stevens."
+    },
+    "One sone is the loudness of a one thousand hertz tone at forty decibels SPL, that is, a sound of forty phons.",
+    "A sound heard twice as loud is two sones, and a sound heard half as loud is half a sone.",
+    "Above forty phons, loudness doubles for about every ten phons: fifty phons is two, sixty is four, seventy is eight sones.",
+    "A sound of eighty phons is heard sixteen times louder than a sound of forty phons.",
+    "In short, a tenfold rise in intensity, that is, ten decibels, creates only a twofold rise in perceived loudness."
+   ]
+  },
+  {
+   "id": "stevens",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The sone scale",
+   "baslik": "Stevens's *power law*",
+   "maddeler": [
+    {
+     "metin": "Loudness grows as a _power_ of intensity",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Exponent about _0.3_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "10 dB rise: _twice_ as loud",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Near threshold, loudness changes _fast_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FORMULA",
+    "metin": "Sones = *2* to the power of (phons minus 40) / 10",
+    "cumle": 3
+   },
+   "cumleler": [
+    {
+     "yazi": "According to Stevens's power law, loudness grows in proportion to a power of intensity."
+    },
+    "For a one thousand hertz tone, this exponent is about zero point three, in terms of intensity.",
+    "Ten decibels means a tenfold rise in intensity; ten to the power of zero point three is about two, so loudness doubles.",
+    "Above forty phons, this lets us compute sones as two to the power of phons minus forty, divided by ten.",
+    "Near threshold, however, loudness changes faster than this law predicts.",
+    "This rule is also the basis for understanding how loudness grows differently in an ear with cochlear damage."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The sone scale",
+   "baslik": "What *else* increases loudness?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Bandwidth",
+     "metin": "Wider than a critical band",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Duration",
+     "metin": "Up to about 200 ms",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Two ears",
+     "metin": "Binaural summation",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Loudness is not set by intensity and frequency alone.",
+    "Even if the total intensity stays the same, a sound is heard as louder if its energy spreads over a range wider than the critical band.",
+    "This is called loudness summation; we will cover the critical band in detail in the masking lesson.",
+    "Very short sounds are heard as softer; loudness grows with duration up to about two hundred milliseconds.",
+    "The same sound is also heard as louder with two ears than with one; this is called binaural summation."
+   ]
+  },
+  {
+   "id": "olcekleme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Loudness in the clinic",
+   "baslik": "Categorical *loudness* scaling",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Very soft",
+     "metin": "Barely heard",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Comfortable",
+     "metin": "Easy to listen to",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Loud but OK",
+     "metin": "Still tolerable",
+     "cumle": 3
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Uncomfortably loud",
+     "metin": "Not tolerable",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the clinic, loudness is often assessed with categorical scaling.",
+    "The patient is given a card with ordered, defined categories, starting from very soft.",
+    "Sounds are raised step by step, and the patient shows the category each sound falls into; this is how the comfortable range is found.",
+    {
+     "yazi": "Methods such as the Contour test by Cox and colleagues standardize this measurement with seven categories."
+    },
+    "The top category is uncomfortably loud; this level is recorded as the uncomfortable loudness level, or UCL.",
+    "This shows how loudness grows from threshold to discomfort, in what is called the loudness growth curve."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Loudness in the clinic",
+   "baslik": "*Where* is this useful?",
+   "maddeler": [
+    {
+     "metin": "Most comfortable level: _MCL_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Uncomfortable level: _UCL_",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "The range between: _dynamic range_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Limiting_ hearing aid output",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CLINIC",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Cochlear loss",
+      "metin": "Loudness grows fast",
+      "cumle": 2
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Compression",
+      "metin": "Fits sound into the range",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Loudness matters most in measuring the MCL, the most comfortable level, and the UCL, the uncomfortable loudness level.",
+    "The range between threshold and UCL is called the dynamic range; usable hearing lies within it.",
+    "In an ear with cochlear damage, threshold rises but UCL often changes little, so loudness grows faster.",
+    "The maximum output of a hearing aid should be set so that sound does not exceed the UCL.",
+    "Compression in hearing aids is also used to fit a wide range of sounds into this narrowed range."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "When measuring UCL, say clearly that you are asking about uncomfortable loudness, not pain. Standard instructions make the result repeatable.",
+   "cumleler": [
+    "A tip from the clinic: loudness measurements are very sensitive to the instructions given to the patient.",
+    "When measuring UCL, say clearly that you mean a sound too uncomfortable to listen to for long, not a sound that causes pain.",
+    "If the instructions stay vague, results in the same patient can differ markedly.",
+    "Use the category card and instructions the same way with every patient, so comparisons between visits are reliable."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Loudness is a _perceptual_ quantity",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Phon: level _equally loud_ as 1000 Hz",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "40 phons = _1 sone_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "+10 phons: loudness _doubles_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Intensity is physical and loudness is perceptual; loudness also depends on frequency, duration and bandwidth.",
+    "The phon is the decibel SPL value of an equally loud one thousand hertz tone; equal-loudness contours are named in phons.",
+    "The sone is a ratio scale; a sound of forty phons is defined as one sone.",
+    "Above forty phons, a rise of about ten phons doubles loudness."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "How many sones is a 60-phon sound?",
+   "secenekler": [
+    "1 sone",
+    "2 sones",
+    "4 sones",
+    "6 sones"
+   ],
+   "dogru": 2,
+   "aciklama": "40 phons is 1 sone; it doubles every 10 phons: 50 phons is 2 sones, 60 phons is _4 sones_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: how many sones is a sound of sixty phons?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: four sones.",
+    "Forty phons is one sone; fifty phons is two and sixty phons is four sones, because every ten phons doubles loudness."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pitch *Perception* and Frequency Discrimination",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move from loudness to pitch and learn how the ear discriminates frequency.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R503_A_Model_Can_Fail_Elsewhere_EN",
+ "kapak": {
+  "ust": "QUICK FACT #503",
+  "baslik": "Wrong at *another center*",
+  "alt": "Limits of machine learning",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can a model that works well at one center fail at another? #shorts",
+  "aciklama": "Machine learning models learn from labeled examples and work well for patients who resemble their training data. A model that memorizes its training data, or overfits, performs worse than expected on new patients; if an age or language group is missing, it may err there; and a model trained with one center's equipment and protocol may perform worse at another center. So external validation is the truly important step; clinical decision support only offers suggestions, and the responsibility belongs to the audiologist.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "machinelearning",
+   "digitalhealth"
+  ],
+  "etiketler": [
+   "machine learning",
+   "external validation",
+   "overfitting",
+   "clinical decision support",
+   "audiogram classification",
+   "data bias",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can a model that works well at one center fail at another?",
+  "bilgiler": [
+   "A model that memorizes performs poorly on new patients.",
+   "If an age or language group is missing, it may err there.",
+   "External validation on another center's data is essential."
+  ],
+  "hashtag": [
+   "audiology",
+   "machinelearning",
+   "digitalhealth"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #503",
+   "metin": "Good *elsewhere too?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can a model that works well at one center fail at another?"
+   ]
+  },
+  {
+   "id": "tuzak",
+   "tur": "zincir",
+   "baslik": "Three *traps*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Overfitting",
+     "tr": "memorizes data",
+     "cumle": 0
+    },
+    {
+     "ad": "Missing group",
+     "tr": "age or language",
+     "cumle": 1
+    },
+    {
+     "ad": "Other center",
+     "tr": "equipment, protocol",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "A model that memorizes its training data does worse on new patients.",
+    "If an age or language group is missing, it may err there.",
+    "A model trained on one center's equipment may do worse elsewhere.",
+    "So the key step is external validation on another center's data."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D295",
+ "kaynak_baslik": "Automation and Machine Learning in Audiology"
+}

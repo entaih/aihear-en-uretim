@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R333_A_Weighting_Cuts_the_Bass_EN",
+ "kapak": {
+  "ust": "QUICK FACT #333",
+  "baslik": "A-weighting *cuts the bass*",
+  "alt": "A and C weighting",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why are low pitches turned down when measuring noise? #shorts",
+  "aciklama": "The human ear is less sensitive to low pitches, especially at moderate levels, and A-weighting filters measured sound to resemble this sensitivity. The A filter is zero at 1000 Hz and cuts about 16 dB at 125 Hz; occupational exposure is measured A-weighted, while peak sound pressure is measured C-weighted.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "noise",
+   "acoustics"
+  ],
+  "etiketler": [
+   "A-weighting",
+   "C-weighting",
+   "dB(A)",
+   "sound level meter",
+   "peak sound pressure",
+   "noise measurement",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why are low pitches turned down when measuring noise?",
+  "bilgiler": [
+   "The ear is less sensitive to low pitches at moderate levels.",
+   "The A filter cuts about 16 dB at 125 Hz.",
+   "Peak sound pressure is measured C-weighted."
+  ],
+  "hashtag": [
+   "audiology",
+   "noise",
+   "acoustics"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #333",
+   "metin": "Where's *the bass?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why are low pitches turned down when measuring noise?"
+   ]
+  },
+  {
+   "id": "agirlik",
+   "tur": "zincir",
+   "baslik": "*A and C* weighting",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Ear",
+     "tr": "less sensitive to bass",
+     "cumle": 0
+    },
+    {
+     "ad": "A filter",
+     "tr": "mimics the ear",
+     "cumle": 1
+    },
+    {
+     "ad": "125 Hz",
+     "tr": "about 16 dB less",
+     "cumle": 2
+    }
+   ],
+   "alt": "Peak level: _C-weighted_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The ear is less sensitive to low pitches, especially at moderate levels.",
+    "A-weighting filters sound to resemble this sensitivity of the ear.",
+    "Zero at 1000 hertz, it cuts about 16 decibels at 125 hertz.",
+    "Occupational exposure uses A-weighting; it correlates well with risk.",
+    "Peak sound pressure is measured with the nearly flat C-weighting."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D223",
+ "kaynak_baslik": "Noise Measurement and Dosimetry"
+}

@@ -1,0 +1,636 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D010_What_Is_Sound_EN",
+ "kapak": {
+  "ust": "LESSON 10",
+  "baslik": "What is *sound?*",
+  "alt": "Vibration, waves and medium",
+  "cizim": "ses_dalgasi",
+  "ayar": {
+   "frekans_hz": 1000
+  }
+ },
+ "youtube": {
+  "baslik": "What Is Sound? Vibration, Waves and Medium | Lesson 10 | AIHEAR Audiology Academy",
+  "aciklama": "We explain what sound is from the ground up: vibration, compression and rarefaction, longitudinal waves, the speed of sound in different media, and why sound cannot travel in a vacuum. We also take a short look at how sound passes from air to solid to fluid inside the ear.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "soundphysics"
+  ],
+  "etiketler": [
+   "what is sound",
+   "sound physics",
+   "vibration",
+   "longitudinal wave",
+   "compression",
+   "rarefaction",
+   "speed of sound",
+   "medium",
+   "hearing science",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 10",
+   "baslik": "What is *sound?*",
+   "alt": "Vibration, waves and medium",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "With this lesson we start sound physics: we will learn what sound is, how it is produced and how it travels.",
+    "We will look at vibration, compression and rarefaction, longitudinal waves, and why sound cannot travel in a vacuum."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Vibration",
+   "baslik": "Sound needs *three things*",
+   "adimlar": [
+    {
+     "ikon": "diyapazon",
+     "baslik": "Source",
+     "cumle": 1,
+     "metin": "A vibrating object"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Medium",
+     "cumle": 2,
+     "metin": "Air, water, bone"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Receiver",
+     "cumle": 3,
+     "metin": "Ear or microphone"
+    }
+   ],
+   "cumleler": [
+    "Sound is a form of energy that travels through the vibration of molecules in a medium.",
+    "First, sound needs a vibrating source, such as a tuning fork, a loudspeaker cone or the vocal folds.",
+    "The second condition is a medium to carry the vibration, such as air, water or bone.",
+    "For hearing, a third thing is needed: a receiver to detect the vibration, such as an ear or a microphone.",
+    "In physics, sound exists even if no one hears it; hearing is the perception of sound by a living being."
+   ]
+  },
+  {
+   "id": "titresim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Vibration",
+   "baslik": "What is *vibration?*",
+   "cizim": "diyapazon",
+   "ayar": {
+    "test": "rinne"
+   },
+   "etiketler": [
+    {
+     "parca": "diyapazon",
+     "metin": "Tuning fork: vibrating source",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "diyapazon",
+     "cumle": 1
+    },
+    {
+     "parca": "kulak",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Elasticity: _pulls back_",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Mass: _overshoots the rest position_",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Friction: _damping_",
+     "cumle": 6,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Vibration is the back and forth movement of an object around its rest position.",
+    "When we strike a tuning fork, its prongs begin to swing quickly outward and inward.",
+    "As the prongs move outward, they push the nearby air molecules and crowd them together.",
+    "As the prongs move back inward, they leave behind a region where the molecules are more spread out.",
+    "The motion continues thanks to two properties: elasticity pulls the object back, and its mass makes it overshoot the rest position.",
+    "This regular, single-frequency motion is called simple harmonic motion; this is how a tuning fork produces a pure tone.",
+    "Friction uses up some energy in each cycle, so the vibration fades over time; this is called damping."
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Waves",
+   "baslik": "Compression and *rarefaction*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga",
+     "metin": "Pressure change",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Peak: _compression_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Trough: _rarefaction_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Pressure varies around _atmospheric pressure_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "As the tuning fork keeps vibrating, regions of compression and rarefaction follow one another away from the source.",
+    "The region where molecules crowd together and pressure rises slightly is called compression, or condensation.",
+    "The region where molecules spread apart and pressure drops slightly is called rarefaction.",
+    "At the top of the screen you see how the molecules are spread out, and below, the pressure change measured at the same moment.",
+    "The peaks of the pressure curve correspond to compressions, and the troughs to rarefactions.",
+    "This curve is the most common way to show sound, but sound itself is not a wavy line; it is a pressure change in the air."
+   ]
+  },
+  {
+   "id": "molekul",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Waves",
+   "baslik": "Molecules *do not travel*",
+   "maddeler": [
+    {
+     "metin": "Molecules oscillate _in place_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "What travels: _energy_ and pattern",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Stadium wave: _fans stay put_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Sound _is not wind_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_dalgasi",
+    "cumle": 0,
+    "ayar": {
+     "frekans_hz": 500
+    },
+    "vurgula": [
+     {
+      "parca": "dalga",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Here is an important point: as sound travels, air molecules do not travel all the way from the source to the ear.",
+    "Each molecule only moves back and forth over a short distance around its own rest position and passes the motion to its neighbor.",
+    "What travels is not the molecules themselves but the pattern of compression and rarefaction, that is, energy.",
+    "Think of the wave in a stadium: the fans stand up and sit down in place, but the wave moves around the stands.",
+    "So sound is not a flow of air like wind; wind is air being carried from one place to another.",
+    "A spring toy shows the same thing: the coils swing in place, while the compressed region moves along the spring."
+   ]
+  },
+  {
+   "id": "boyuna",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Waves",
+   "baslik": "Longitudinal and *transverse* waves",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Longitudinal wave",
+     "cumle": 1,
+     "metin": "Motion along the direction of travel"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sound in air",
+     "cumle": 2,
+     "metin": "Compression and rarefaction"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Transverse wave",
+     "cumle": 3,
+     "metin": "Motion at right angles"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Cochlea",
+     "cumle": 5,
+     "metin": "Membrane moves up and down"
+    }
+   ],
+   "cumleler": [
+    "Waves fall into two groups, depending on the direction in which the particles move.",
+    "In a longitudinal wave, the particles move back and forth along the same line as the direction of travel.",
+    "Sound in air is a longitudinal wave; compression and rarefaction can only form with this kind of motion.",
+    "In a transverse wave, the particles move at right angles to the direction of travel; a wave on a stretched rope is an example.",
+    "In liquids and gases, sound travels only as a longitudinal wave, while in solids transverse waves can also form.",
+    "In the traveling wave of the cochlea, the basilar membrane moves up and down; we will see this in later lessons."
+   ]
+  },
+  {
+   "id": "ozellik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Waves",
+   "baslik": "*Describing* a sound",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frequency",
+     "cumle": 1,
+     "metin": "Low or high pitch"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Amplitude",
+     "cumle": 2,
+     "metin": "Related to loudness"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Wavelength",
+     "cumle": 3,
+     "metin": "Compression to compression"
+    }
+   ],
+   "cumleler": [
+    "To describe a sound wave, we look at a few basic properties.",
+    "Frequency is the number of vibrations per second, and it is related to whether we hear a sound as low or high in pitch.",
+    "Amplitude is the size of the pressure change, and it is related to perceived loudness.",
+    "Wavelength is the distance from one compression to the next.",
+    "We will study these properties in detail in the next two lessons."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Medium",
+   "baslik": "The *speed* of sound",
+   "sutunlar": [
+    "Medium",
+    "Approximate speed"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Air, 0 °C",
+      "331 m/s"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Air, 20 °C",
+      "343 m/s"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Water",
+      "1480 m/s"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Steel",
+      "Over 5000 m/s"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sound does not travel at the same speed in every medium; its speed depends on the stiffness and density of the medium.",
+    "In air at twenty degrees Celsius, sound travels about three hundred forty three meters per second.",
+    "Speed rises as air warms; at zero degrees it drops to about three hundred thirty one meters, changing about point six meters per degree.",
+    "In water, sound is about four times faster: about one thousand four hundred eighty meters per second.",
+    "In hard solids such as steel, the speed rises above five thousand meters per second.",
+    "Solids are denser, but they are much stiffer, that is, harder to compress, so sound travels faster in them.",
+    "Counting from lightning to thunder is an everyday example of this speed: every three seconds is about one kilometer."
+   ]
+  },
+  {
+   "id": "hiz_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Medium",
+   "baslik": "Speed *in the clinic*",
+   "maddeler": [
+    {
+     "metin": "Insert tube: about _0.9 ms_ delay",
+     "cumle": 1,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "_Taken into account_ in tests like ABR",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "1 meter of air: about _3 ms_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Interaural time difference: _direction_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "ayar": {
+     "insert": true
+    },
+    "etiketler": [
+     {
+      "parca": "ses_tupu",
+      "metin": "Sound tube",
+      "cumle": 1
+     },
+     {
+      "parca": "transduser",
+      "metin": "Transducer",
+      "cumle": 1
+     }
+    ],
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.5
+    }
+   },
+   "cumleler": [
+    "Knowing the speed of sound is also useful in the clinic.",
+    "With insert earphones, sound travels from the transducer to the ear through a thin tube, adding a delay of about point nine milliseconds.",
+    "This delay is taken into account in tests measured in milliseconds, such as the auditory brainstem response, or ABR.",
+    "In sound field testing, a distance of one meter between the loudspeaker and the head means a delay of about three milliseconds.",
+    "The brain also uses the fact that sound reaches the two ears at different times to locate a sound; we will see this later."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Medium",
+   "baslik": "No sound in a *vacuum*",
+   "maddeler": [
+    {
+     "metin": "No molecules: _no sound_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Bell jar: the bell _goes silent_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Talking in space: _radio_",
+     "cumle": 3,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Sound is a _mechanical_ wave",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TWO KINDS OF WAVES",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Mechanical wave",
+      "cumle": 4,
+      "metin": "Needs a medium"
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "Electromagnetic",
+      "cumle": 4,
+      "metin": "Travels in a vacuum too"
+     }
+    ]
+   },
+   "cumleler": [
+    "Since sound is carried by the vibration of molecules, it cannot travel where there are no molecules.",
+    "In a classic seventeenth-century experiment, as the air is pumped out of a glass jar, the sound of the bell inside slowly fades away.",
+    "The bell keeps vibrating, but there is no air left to carry the vibration to the ear.",
+    "This is also why sound cannot travel in space; astronauts talk by radio, that is, with electromagnetic waves.",
+    "Light and radio waves are electromagnetic waves and can travel in a vacuum, while sound is a mechanical wave.",
+    "In short, sound needs a medium: air, water, bone or another material."
+   ]
+  },
+  {
+   "id": "kulakta",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Sound in the ear",
+   "baslik": "*Three media* in the ear",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Air",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "metin": "Solid: ossicles",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "Fluid: cochlea",
+     "cumle": 3
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "Bone conduction",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    },
+    {
+     "parca": "temporal_kemik",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The ear itself is a pathway where sound passes through different media.",
+    "Sound travels through air in the ear canal and sets the tympanic membrane, the eardrum, into vibration.",
+    "In the middle ear, the vibration is carried by solid structures, the ossicular chain.",
+    "In the inner ear, the vibration passes into the fluid inside the cochlea.",
+    "Most of the energy can be reflected when passing from air to fluid; we will see how the middle ear solves this problem in later lessons.",
+    "Sound can also reach the inner ear directly through the skull bones; bone conduction hearing is based on this.",
+    "This is also one reason our recorded voice sounds strange to us: when we speak, we hear our voice through both air and bone."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Hold the tuning fork only by its stem; touching the prongs damps the vibration. Strike it gently on a rubber pad or your knee, not a hard surface.",
+   "cumleler": [
+    "A useful tip when working with a tuning fork: hold the fork only by its stem.",
+    "As soon as you touch the prongs, the vibration is damped and the sound disappears at once.",
+    "Strike the fork gently on a rubber pad or on your knee, not on a hard surface; a hard strike can produce unwanted extra tones.",
+    "We will look at tuning fork tests in detail in later lessons."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Sound: _vibration energy_ in a medium",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Compression and rarefaction: _longitudinal wave_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "About _343 m/s_ in air",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Sound _cannot travel_ in a vacuum",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "Sound is energy that a vibrating source spreads through the molecules of a medium.",
+    "In air, sound is a longitudinal wave made of compressions and rarefactions; the molecules oscillate in place.",
+    {
+     "yazi": "The speed of sound depends on the medium: about 343 meters per second in air at 20 degrees, and about 1480 in water.",
+     "ses": "The speed of sound depends on the medium: about three hundred forty three meters per second in air at twenty degrees, and about one thousand four hundred eighty in water."
+    },
+    "Because sound is a mechanical wave, it cannot travel in a vacuum."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In which medium can sound not travel?",
+   "secenekler": [
+    "Water",
+    "Air",
+    "Vacuum",
+    "Bone"
+   ],
+   "dogru": 2,
+   "aciklama": "Sound is a _mechanical_ wave; it cannot travel without molecules to carry the vibration.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in which medium can sound not travel?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: a vacuum.",
+    "Sound is a mechanical wave; it cannot travel without molecules to carry the vibration."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Frequency, Period and *Wavelength* Explained",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn frequency, period and wavelength, along with the simple formulas that link them.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

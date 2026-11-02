@@ -1,0 +1,135 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R150_Symbols_Not_Colors_EN",
+ "kapak": {
+  "ust": "QUICK FACT #150",
+  "baslik": "Symbols, not *colors*",
+  "alt": "The symbol identifies the ear",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      20,
+      25,
+      30
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Are red and blue required on an audiogram? #shorts",
+  "aciklama": "Red for the right ear and blue for the left is a common habit, but ASHA does not require color. Color is lost on a photocopy, so the symbol itself must always identify the ear.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "audiometry"
+  ],
+  "etiketler": [
+   "audiogram symbols",
+   "ASHA",
+   "air conduction",
+   "masked threshold",
+   "reading an audiogram",
+   "pure-tone audiometry",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Are red and blue required on an audiogram?",
+  "bilgiler": [
+   "Red for the right ear and blue for the left is a common habit.",
+   "ASHA does not require the use of color.",
+   "Right ear: O and triangle; left ear: X and square."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "audiometry"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #150",
+   "metin": "Is color *required* on an audiogram?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Are red and blue required on an audiogram?"
+   ]
+  },
+  {
+   "id": "sembol",
+   "tur": "zincir",
+   "baslik": "The *symbol* shows the ear",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Right ear",
+     "tr": "O and triangle",
+     "cumle": 1
+    },
+    {
+     "ad": "Left ear",
+     "tr": "X and square",
+     "cumle": 2
+    },
+    {
+     "ad": "Color",
+     "tr": "not required",
+     "cumle": 3
+    }
+   ],
+   "alt": "Color helps; _the symbol decides_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Red for the right ear and blue for the left is common.",
+    "The right ear uses O, or a triangle when masked.",
+    "For the left ear, these are X and a square.",
+    "But ASHA does not require the use of color.",
+    "Color is lost on a photocopy; the symbol must show the ear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D062",
+ "kaynak_baslik": "Audiogram Symbols and Recording Standards"
+}

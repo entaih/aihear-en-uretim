@@ -1,0 +1,103 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R499_Alexanders_Law_and_Gaze_EN",
+ "kapak": {
+  "ust": "QUICK FACT #499",
+  "baslik": "Gaze and *nystagmus*",
+  "alt": "Alexander's law",
+  "cizim": "beyin_sapi_vestibuler",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What does nystagmus do when gaze direction changes? #shorts",
+  "aciklama": "In an example patient with acute vestibular syndrome, looking straight ahead with video goggles shows a left-beating, horizontal and slightly torsional nystagmus. The nystagmus increases on left gaze and decreases on right gaze, but its direction does not change; this fits Alexander's law, and unidirectional nystagmus fits a peripheral pattern. Nystagmus that changes direction with gaze, or is purely vertical or purely torsional, suggests a central cause. Because peripheral nystagmus decreases with visual fixation, observation is done with video goggles.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "balance",
+   "nystagmus"
+  ],
+  "etiketler": [
+   "nystagmus",
+   "Alexander's law",
+   "acute vestibular syndrome",
+   "gaze-evoked nystagmus",
+   "video goggles",
+   "HINTS",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What does nystagmus do when gaze direction changes?",
+  "bilgiler": [
+   "Nystagmus increases when looking toward the fast phase.",
+   "Nystagmus that keeps its direction fits a peripheral pattern.",
+   "Changing direction with gaze suggests a central cause."
+  ],
+  "hashtag": [
+   "audiology",
+   "balance",
+   "nystagmus"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #499",
+   "metin": "When gaze *changes?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What does nystagmus do when gaze direction changes?"
+   ]
+  },
+  {
+   "id": "yon",
+   "tur": "zincir",
+   "baslik": "Direction *fixed*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Left gaze",
+     "tr": "increases",
+     "cumle": 1
+    },
+    {
+     "ad": "Right gaze",
+     "tr": "decreases",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Direction",
+     "tr": "unchanged",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The example patient has left-beating, horizontal, slightly torsional nystagmus.",
+    "Left gaze increases it, right gaze decreases it; direction stays the same.",
+    "This fits Alexander's law; unidirectional nystagmus fits a peripheral pattern.",
+    "Nystagmus that changes direction with gaze suggests a central cause.",
+    "Fixation suppresses peripheral nystagmus, so video goggles are used."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D293",
+ "kaynak_baslik": "Case: Acute Vestibular Syndrome, Peripheral or Central?"
+}

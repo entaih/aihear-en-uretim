@@ -1,0 +1,1174 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D202_P300_and_MMN_EN",
+ "kapak": {
+  "ust": "LESSON 202",
+  "baslik": "P300 and<br>*MMN*",
+  "alt": "Cognitive auditory potentials",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -100,
+    "max": 600,
+    "ad": "Time (ms)",
+    "isaretler": [
+     0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600
+    ]
+   },
+   "y": {
+    "min": -6,
+    "max": 12,
+    "adim": 3,
+    "ad": "Amplitude (µV)"
+   },
+   "seriler": [
+    {
+     "ad": "sik",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -3.5
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       250,
+       0.5
+      ],
+      [
+       350,
+       0.5
+      ],
+      [
+       450,
+       0
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "etiket": "frequent stimulus",
+     "cumle": 1
+    },
+    {
+     "ad": "seyrek",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -4
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       230,
+       -1
+      ],
+      [
+       320,
+       9
+      ],
+      [
+       400,
+       5
+      ],
+      [
+       480,
+       1
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kalin": true,
+     "etiket": "rare target",
+     "cumle": 2
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "p300",
+     "x": 320,
+     "y": 9,
+     "etiket": "P300",
+     "dus": "x",
+     "cumle": 3
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "P300 and MMN: Cognitive Auditory Potentials | Lesson 202 | AIHEAR Audiology Academy",
+  "aciklama": "How does the brain discriminate sound and process it with attention? In this lesson we cover the oddball paradigm, the P300 wave and what changes it, the P3a and P3b components, mismatch negativity (MMN) and the difference wave, and the clinical and research uses and limits of both responses.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Picton, Human Auditory Evoked Potentials; Sutton et al., Evoked-potential correlates of stimulus uncertainty, Science (1965); Näätänen, Gaillard and Mäntysalo, Early selective-attention effect on evoked potential reinterpreted, Acta Psychologica (1978).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "P300",
+   "electrophysiology"
+  ],
+  "etiketler": [
+   "P300",
+   "MMN",
+   "mismatch negativity",
+   "oddball paradigm",
+   "P3a",
+   "P3b",
+   "endogenous potential",
+   "cognitive potentials",
+   "auditory evoked potentials",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 202",
+   "baslik": "P300 and *MMN*",
+   "alt": "Cognitive auditory potentials",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about cognitive responses that reflect not just hearing a sound, but discriminating it and attending to it.",
+    {
+     "yazi": "We will cover the oddball paradigm, the attention-related P300 wave, and the mismatch negativity, which shows automatic discrimination.",
+     "ses": "We will cover the oddball paradigm, the attention-related P three hundred wave, and the mismatch negativity, which shows automatic discrimination."
+    }
+   ]
+  },
+  {
+   "id": "ekzojen",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Cognitive responses",
+   "baslik": "Stimulus or *mind?*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Exogenous response",
+     "metin": "Depends on physical sound features",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Endogenous response",
+     "metin": "Depends on meaning and context",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The auditory brainstem, middle latency and cortical responses we have seen so far depend largely on the sound itself.",
+    "These are called exogenous potentials; when intensity, frequency or duration changes, the response changes too.",
+    "Some responses, however, appear or not depending on the meaning the person gives a sound, even when the same sound is presented.",
+    "These are called endogenous potentials; they reflect cognitive processes such as attention, expectation and memory.",
+    {
+     "yazi": "The P300 and the mismatch negativity are the two most studied cognitive responses in the auditory system.",
+     "ses": "The P three hundred and the mismatch negativity are the two most studied cognitive responses in the auditory system."
+    }
+   ]
+  },
+  {
+   "id": "oddball",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Cognitive responses",
+   "baslik": "The *oddball* paradigm",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 21,
+     "ad": "Stimulus sequence",
+     "isaretler": [
+      1,
+      5,
+      10,
+      15,
+      20
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 2500,
+     "adim": 500,
+     "ad": "Tone frequency (Hz)"
+    },
+    "seriler": [
+     {
+      "ad": "sik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        1000
+       ],
+       [
+        2,
+        1000
+       ],
+       [
+        3,
+        1000
+       ],
+       [
+        5,
+        1000
+       ],
+       [
+        6,
+        1000
+       ],
+       [
+        7,
+        1000
+       ],
+       [
+        8,
+        1000
+       ],
+       [
+        10,
+        1000
+       ],
+       [
+        11,
+        1000
+       ],
+       [
+        12,
+        1000
+       ],
+       [
+        14,
+        1000
+       ],
+       [
+        15,
+        1000
+       ],
+       [
+        16,
+        1000
+       ],
+       [
+        17,
+        1000
+       ],
+       [
+        18,
+        1000
+       ],
+       [
+        20,
+        1000
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "frequent: 1000 Hz",
+      "cumle": 1
+     },
+     {
+      "ad": "seyrek",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        4,
+        2000
+       ],
+       [
+        9,
+        2000
+       ],
+       [
+        13,
+        2000
+       ],
+       [
+        19,
+        2000
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "rare: 2000 Hz",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Frequent: about 80 to 85 percent",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Rare: about 15 to 20 percent",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Both responses are recorded with a design called the oddball paradigm.",
+    "The person hears a sequence of a frequently repeated sound; in the example, this is a one thousand hertz tone.",
+    "A different, rare sound is inserted into the sequence at random intervals; in the example, a two thousand hertz tone.",
+    "The rare sound usually makes up about fifteen to twenty percent of the stimuli.",
+    "The brain learns the pattern of the frequent sound, and when the rare sound breaks this pattern, it produces a different response.",
+    "The rare sound can differ in frequency, as here, or in intensity, duration, or as a speech sound."
+   ]
+  },
+  {
+   "id": "p300_dalga",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "P300",
+   "baslik": "The *P300* wave",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -100,
+     "max": 600,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600
+     ]
+    },
+    "y": {
+     "min": -6,
+     "max": 12,
+     "adim": 3,
+     "ad": "Amplitude (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "sik",
+      "noktalar": [
+       [
+        -100,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        50,
+        0.5
+       ],
+       [
+        100,
+        -3.5
+       ],
+       [
+        180,
+        2.5
+       ],
+       [
+        250,
+        0.5
+       ],
+       [
+        350,
+        0.5
+       ],
+       [
+        450,
+        0
+       ],
+       [
+        600,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "frequent stimulus",
+      "cumle": 1
+     },
+     {
+      "ad": "seyrek",
+      "noktalar": [
+       [
+        -100,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        50,
+        0.5
+       ],
+       [
+        100,
+        -4
+       ],
+       [
+        180,
+        2.5
+       ],
+       [
+        230,
+        -1
+       ],
+       [
+        320,
+        9
+       ],
+       [
+        400,
+        5
+       ],
+       [
+        480,
+        1
+       ],
+       [
+        600,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "rare target",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "p300",
+      "x": 320,
+      "y": 9,
+      "etiket": "P300",
+      "dus": "x",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Latency: about 300 ms",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Task: count the rare sounds",
+     "cumle": 0,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "For P300 recording, the person is asked to count the rare sounds or press a button at each one, that is, to attend to the sound.",
+     "ses": "For P three hundred recording, the person is asked to count the rare sounds or press a button at each one, that is, to attend to the sound."
+    },
+    {
+     "yazi": "The navy curve shows the response to the frequent sounds; here there are only cortical waves such as N1 and P2.",
+     "ses": "The navy curve shows the response to the frequent sounds; here there are only cortical waves such as N one and P two."
+    },
+    "The red curve is the response to the rare target sounds the person is attending to.",
+    {
+     "yazi": "For the target sound, a large positive wave appears at around three hundred milliseconds; this is called the P300, or P3.",
+     "ses": "For the target sound, a large positive wave appears at around three hundred milliseconds; this is called the P three hundred, or P three."
+    },
+    "In young adults, latency is usually between about two hundred fifty and four hundred milliseconds.",
+    "Its amplitude can range from a few microvolts to over ten, so it is quite large for a cognitive response.",
+    {
+     "yazi": "The P300 was first described in 1965 by Sutton and colleagues.",
+     "ses": "The P three hundred was first described in nineteen sixty five by Sutton and colleagues."
+    }
+   ]
+  },
+  {
+   "id": "p300_ozellik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "P300",
+   "baslik": "*What* changes the P300?",
+   "maddeler": [
+    {
+     "metin": "Rarer sound: larger P300",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Harder discrimination: later",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Smaller without attention",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Latency increases with age",
+     "cumle": 3,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Largest: central-parietal scalp",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_yan",
+    "cumle": 5,
+    "ayar": {
+     "loblar": true
+    },
+    "vurgula": [
+     {
+      "parca": "parietal_lob",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The rarer the target sound, the larger the P300; this is a measure of the response to an unexpected event.",
+     "ses": "The rarer the target sound, the larger the P three hundred; this is a measure of the response to an unexpected event."
+    },
+    {
+     "yazi": "The more similar the two sounds are, the harder they are to tell apart, and the longer the P300 latency.",
+     "ses": "The more similar the two sounds are, the harder they are to tell apart, and the longer the P three hundred latency."
+    },
+    {
+     "yazi": "If the person does not do the task or is distracted, the P300 shrinks or disappears, so it requires cooperation.",
+     "ses": "If the person does not do the task or is distracted, the P three hundred shrinks or disappears, so it requires cooperation."
+    },
+    "In healthy people latency increases with age, so results must always be compared with age-appropriate norms.",
+    "Fatigue, lack of sleep and some medications can also affect the response.",
+    {
+     "yazi": "The response is usually largest along the midline of the head, between the vertex and the back, at the Cz and Pz points.",
+     "ses": "The response is usually largest along the midline of the head, between the vertex and the back, at the C Z and P Z points."
+    }
+   ]
+  },
+  {
+   "id": "p3ab",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "P300",
+   "baslik": "P3a and *P3b*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "P3a",
+     "metin": "Unexpected sound; frontal-central",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "P3b",
+     "metin": "Target sound; central-parietal",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The P300 is actually made up of two closely related subcomponents.",
+     "ses": "The P three hundred is actually made up of two closely related subcomponents."
+    },
+    {
+     "yazi": "The P3a appears when a completely unexpected, novel sound occurs in the sequence, such as a creaking door.",
+     "ses": "The P three A appears when a completely unexpected, novel sound occurs in the sequence, such as a creaking door."
+    },
+    "This component reflects the involuntary shift of attention to the sound and is larger over the front and center of the head.",
+    {
+     "yazi": "The P3b is the classic response to the target sound that the person is attending to and looking for.",
+     "ses": "The P three B is the classic response to the target sound that the person is attending to and looking for."
+    },
+    "It is thought to be linked to target recognition and memory updating, and is larger toward the vertex and back of the head.",
+    {
+     "yazi": "In clinical studies, the term P300 usually refers to the P3b.",
+     "ses": "In clinical studies, the term P three hundred usually refers to the P three B."
+    }
+   ]
+  },
+  {
+   "id": "mmn_dalga",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "MMN",
+   "baslik": "Mismatch *negativity*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -50,
+     "max": 400,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -4,
+     "max": 3,
+     "adim": 1,
+     "ad": "Amplitude (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "standart",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        50,
+        0.6
+       ],
+       [
+        100,
+        -2.2
+       ],
+       [
+        150,
+        -0.6
+       ],
+       [
+        190,
+        1.4
+       ],
+       [
+        260,
+        0.4
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "standard",
+      "cumle": 0
+     },
+     {
+      "ad": "sapan",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        50,
+        0.6
+       ],
+       [
+        100,
+        -2.4
+       ],
+       [
+        160,
+        -2.3
+       ],
+       [
+        210,
+        0.2
+       ],
+       [
+        260,
+        0.4
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "deviant",
+      "cumle": 1
+     },
+     {
+      "ad": "fark",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        80,
+        -0.1
+       ],
+       [
+        120,
+        -0.7
+       ],
+       [
+        165,
+        -1.8
+       ],
+       [
+        210,
+        -0.8
+       ],
+       [
+        260,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "kesik": true,
+      "etiket": "difference wave",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "mmn",
+      "x": [
+       100,
+       250
+      ],
+      "renk": "sari",
+      "etiket": "MMN",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Difference = deviant minus standard",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "About 100 to 250 ms",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "The navy curve is the cortical response to the frequent, or standard, sound in the oddball sequence.",
+    "The red curve shows the response to the deviant sound, which differs slightly from it.",
+    {
+     "yazi": "For the deviant, the negativity after N1 lasts longer, but it is hard to see the difference when the two curves are overlaid.",
+     "ses": "For the deviant, the negativity after N one lasts longer, but it is hard to see the difference when the two curves are overlaid."
+    },
+    "So the response to the standard is subtracted from the response to the deviant; the resulting curve is called the difference wave.",
+    {
+     "yazi": "The negative wave between one hundred and two hundred fifty milliseconds in the difference wave is the mismatch negativity, or MMN.",
+     "ses": "The negative wave between one hundred and two hundred fifty milliseconds in the difference wave is the mismatch negativity, or M M N."
+    },
+    {
+     "yazi": "The MMN was described in 1978 by Näätänen and colleagues.",
+     "ses": "The M M N was described in nineteen seventy eight by Netenen and colleagues."
+    }
+   ]
+  },
+  {
+   "id": "mmn_ozellik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "MMN",
+   "baslik": "*Features* of the MMN",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "No attention needed",
+     "metin": "Person can watch a film",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Recordable in infants",
+     "metin": "Even in newborns",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Automatic comparison",
+     "metin": "Auditory memory trace",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Small amplitude",
+     "metin": "A few microvolts",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Many sweeps",
+     "metin": "Hundreds of deviants",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The most important feature of the MMN is that it needs no attention; it can be recorded while the person watches a silent film or reads.",
+     "ses": "The most important feature of the M M N is that it needs no attention; it can be recorded while the person watches a silent film or reads."
+    },
+    "This makes it a promising tool for studying discrimination in people who cannot perform a task.",
+    {
+     "yazi": "The MMN has been recorded even in newborns.",
+     "ses": "The M M N has been recorded even in newborns."
+    },
+    "The response is thought to reflect the brain automatically comparing a new sound with the pattern held in short-term auditory memory.",
+    "Its amplitude is small, often below a few microvolts, and it is largest over the front and center of the head.",
+    "Because it is small, hundreds of deviant sounds must be averaged and recording takes a long time."
+   ]
+  },
+  {
+   "id": "mmn_kaynak",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "MMN",
+   "baslik": "*Where* does the MMN arise?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Auditory cortex",
+     "metin": "Upper surface of temporal lobe",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Frontal lobe",
+     "metin": "Shift of attention",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Polarity reversal",
+     "metin": "Inverts at the mastoid",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The main source of the MMN is the auditory cortex on the upper surface of the temporal lobe.",
+     "ses": "The main source of the M M N is the auditory cortex on the upper surface of the temporal lobe."
+    },
+    "Frontal lobe areas are also thought to contribute, and this contribution is linked to attention turning toward the change.",
+    "Because of the temporal source, the response appears negative over the top of the head.",
+    "With the reference electrode on the nose, the response at the mastoid electrode has reversed polarity, that is, it appears positive.",
+    {
+     "yazi": "This polarity reversal can be used to tell a true MMN apart from noise and artifact.",
+     "ses": "This polarity reversal can be used to tell a true M M N apart from noise and artifact."
+    }
+   ]
+  },
+  {
+   "id": "karsi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "In the clinic",
+   "baslik": "P300 and *MMN*",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "P300",
+     "metin": "Needs attention; positive, about 300 ms",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "MMN",
+     "metin": "No attention needed; negative, earlier",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Let us put the two responses side by side: the P300 requires the person to attend to the sound and do a task.",
+     "ses": "Let us put the two responses side by side: the P three hundred requires the person to attend to the sound and do a task."
+    },
+    {
+     "yazi": "The P300 is a positive wave that appears at about three hundred milliseconds.",
+     "ses": "The P three hundred is a positive wave that appears at about three hundred milliseconds."
+    },
+    "Because its amplitude is large, it can be recorded with fewer sweeps.",
+    {
+     "yazi": "The MMN, on the other hand, needs no attention and shows automatic discrimination.",
+     "ses": "The M M N, on the other hand, needs no attention and shows automatic discrimination."
+    },
+    {
+     "yazi": "The MMN is a negative difference wave and appears earlier, between about one hundred and two hundred fifty milliseconds.",
+     "ses": "The M M N is a negative difference wave and appears earlier, between about one hundred and two hundred fifty milliseconds."
+    },
+    "Because its amplitude is small, it needs many sweeps and careful analysis."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "In the clinic",
+   "baslik": "*Where* is it used?",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Cognitive change",
+     "metin": "Aging, dementia research",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Central processing",
+     "metin": "Discrimination ability",
+     "cumle": 2
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Hearing aids and implants",
+     "metin": "Monitoring sound discrimination",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Intensive care",
+     "metin": "Coma research",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Prolonged P300 latency has been studied in conditions of cognitive decline and in dementia research.",
+     "ses": "Prolonged P three hundred latency has been studied in conditions of cognitive decline and in dementia research."
+    },
+    {
+     "yazi": "However, because latency varies greatly between people, the P300 is not a diagnostic tool on its own.",
+     "ses": "However, because latency varies greatly between people, the P three hundred is not a diagnostic tool on its own."
+    },
+    "When a central auditory processing disorder is suspected, these responses have been studied as a way to show discrimination ability.",
+    {
+     "yazi": "In cochlear implant and hearing aid users, whether speech sounds are discriminated has been studied with the MMN and P300.",
+     "ses": "In cochlear implant and hearing aid users, whether speech sounds are discriminated has been studied with the M M N and P three hundred."
+    },
+    {
+     "yazi": "In unconscious patients in intensive care, the presence of the MMN has been linked to the likelihood of recovery.",
+     "ses": "In unconscious patients in intensive care, the presence of the M M N has been linked to the likelihood of recovery."
+    },
+    "Most of these areas are still at the research stage; their place in routine clinical use is limited."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "In the clinic",
+   "baslik": "*Limitations*",
+   "maddeler": [
+    {
+     "metin": "Large variability between people",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "MMN may be unreliable individually",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Attention, drugs, fatigue matter",
+     "cumle": 3,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Confirm audibility first",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "dikkat",
+      "baslik": "State",
+      "metin": "Awake and attentive?",
+      "cumle": 3
+     },
+     {
+      "ikon": "odyogram",
+      "baslik": "Audiogram first",
+      "metin": "Is the sound audible?",
+      "cumle": 4
+     }
+    ],
+    "ust": "BEFORE INTERPRETING"
+   },
+   "cumleler": [
+    "The latency and amplitude of cognitive responses vary over a wide range, even among healthy people.",
+    {
+     "yazi": "The MMN, clear in group studies, cannot always be reliably detected in a single person's recording.",
+     "ses": "The M M N, clear in group studies, cannot always be reliably detected in a single person's recording."
+    },
+    {
+     "yazi": "This currently limits the use of the MMN for individual clinical decisions.",
+     "ses": "This currently limits the use of the M M N for individual clinical decisions."
+    },
+    "Level of attention, fatigue and drugs that change brain activity can affect the results.",
+    "For both responses, audibility of the sounds must be confirmed first; hearing loss alone can change the response."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "For the P300, make sure the person understands the task; practice with a few trial sounds and monitor alertness throughout the recording.",
+   "cumle": 0,
+   "cumleler": [
+    {
+     "yazi": "A tip from the clinic: the most common error in P300 recording is that the person has not fully understood the task.",
+     "ses": "A tip from the clinic: the most common error in P three hundred recording is that the person has not fully understood the task."
+    },
+    "Before recording, play the frequent and rare sounds separately and let the person do a few practice trials.",
+    "At the end, compare the number of targets the person counted with the real number; a large gap shows attention wandered.",
+    "If the recording is long, take breaks; fatigue and drowsiness make the response smaller."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Oddball: rare sound among frequent ones",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "P300: needs attention, about 300 ms",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "MMN: no attention, difference-wave negativity",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Mostly research, limited clinical use",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "Cognitive responses are recorded with the oddball paradigm, in which a rare sound is inserted among frequent sounds.",
+    {
+     "yazi": "The P300 is a large positive wave that appears at about three hundred milliseconds for an attended target sound.",
+     "ses": "The P three hundred is a large positive wave that appears at about three hundred milliseconds for an attended target sound."
+    },
+    {
+     "yazi": "The MMN needs no attention; it is a negativity at about one hundred to two hundred fifty milliseconds in the deviant minus standard wave.",
+     "ses": "The M M N needs no attention; it is a negativity at about one hundred to two hundred fifty milliseconds in the deviant minus standard wave."
+    },
+    "Both responses are valuable for studying discrimination, but their variability limits clinical use."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What mainly sets the MMN apart from the P300?",
+   "secenekler": [
+    "It needs no attention",
+    "Larger amplitude",
+    "Longer latency",
+    "Brainstem source"
+   ],
+   "dogru": 0,
+   "aciklama": "The MMN occurs even when the person does not attend to the sound; the P300 requires attention and a task.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what is the main feature that sets the mismatch negativity apart from the P300?",
+     "sonra_bekle": 5,
+     "ses": "Test yourself: what is the main feature that sets the mismatch negativity apart from the P three hundred?"
+    },
+    "The correct answer is A: it needs no attention.",
+    {
+     "yazi": "The MMN occurs automatically even while the person watches a film; the P300 requires attending to the sound and doing a task.",
+     "ses": "The M M N occurs automatically even while the person watches a film; the P three hundred requires attending to the sound and doing a task."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Intraoperative Monitoring: Hearing and *Facial Nerve*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how evoked potentials are used in the operating room, to monitor hearing and the facial nerve.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

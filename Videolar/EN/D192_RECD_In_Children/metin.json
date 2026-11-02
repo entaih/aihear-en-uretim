@@ -1,0 +1,884 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D192_RECD_In_Children_EN",
+ "kapak": {
+  "ust": "LESSON 192",
+  "baslik": "RECD: the<br>*child's* ear",
+  "alt": "The real-ear-to-coupler difference",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "insert": true
+  }
+ },
+ "youtube": {
+  "baslik": "Real-Ear-to-Coupler Difference (RECD) in Children | Lesson 192 | AIHEAR Audiology Academy",
+  "aciklama": "Why does the same hearing aid produce a louder sound in an infant's ear? In this lesson we cover the real-ear-to-coupler difference (RECD), how it is measured, predicted values by age, and simulated real-ear measurement in the coupler using the RECD.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: American Academy of Audiology, Clinical Practice Guidelines: Pediatric Amplification (2013); Bagatto et al. (2005), Clinical protocols for hearing instrument fitting in the Desired Sensation Level method, Trends in Amplification; Bagatto et al. (2002), Journal of the American Academy of Audiology; Martin, Munro and Langer (1997), British Journal of Audiology; Dillon, Hearing Aids.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "RECD"
+  ],
+  "etiketler": [
+   "RECD",
+   "real-ear-to-coupler difference",
+   "predicted RECD",
+   "2 cc coupler",
+   "pediatric hearing aid fitting",
+   "DSL v5",
+   "simulated real-ear measurement",
+   "pediatric audiology",
+   "ear canal volume",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 192",
+   "baslik": "RECD: the *child's* ear",
+   "alt": "The real-ear-to-coupler difference",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn why the same hearing aid produces a much louder sound in an infant's ear.",
+    "We will cover the real-ear-to-coupler difference, or RECD, how it is measured, and the predicted values by age."
+   ]
+  },
+  {
+   "id": "hacim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Small ear, loud sound",
+   "baslik": "Small volume, *high pressure*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "short, narrow ear canal",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "tympanic membrane",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Small volume, _high_ pressure",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Very small volume in infants",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "If ignored, too much sound",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The pressure a sound creates in the ear canal depends on the size of the volume it is delivered into.",
+    "When the same amount of sound energy goes into a small volume, it creates a higher sound pressure than in a large one.",
+    "In infants the ear canal is both shorter and narrower, and the volume left in front of the earmold is very small.",
+    "So the same hearing aid setting produces a markedly higher sound level in an infant's ear than in an adult's.",
+    "The difference is especially large at high frequencies and varies from person to person.",
+    "A fitting that ignores this difference can give the child more sound than needed, even uncomfortable sound."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Small ear, loud sound",
+   "baslik": "*Why* is the RECD needed?",
+   "maddeler": [
+    {
+     "metin": "Children do not sit still for long",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Fitting can be done in the coupler",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Thresholds converted to ear canal SPL",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Target and output on one scale",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kulak_kanali",
+      "metin": "small ear canal",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_kanali",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "In adults, output is verified directly with real-ear measurement, but a young child will not sit still through a long measurement.",
+    "What is more, working for a long time with a measurement loudspeaker in front of an infant is often not possible.",
+    "The solution is to find a correction for the child's own ear with a brief measurement and do the fitting in the test box, in a coupler.",
+    "The same correction is also used to convert dB HL thresholds obtained with insert earphones into dB SPL in the child's ear canal.",
+    "A coupler is a small measurement cavity of standard volume used to measure a hearing aid's output.",
+    "This way threshold, prescriptive target and aid output can be compared on the same screen, on the scale of the child's own ear canal."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Measuring the RECD",
+   "baslik": "What is the *RECD?*",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Measure in coupler",
+     "cumle": 1,
+     "metin": "Same signal"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Measure in ear",
+     "cumle": 2,
+     "metin": "With probe tube"
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Take the difference",
+     "cumle": 3,
+     "metin": "Ear minus coupler"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "RECD",
+     "cumle": 4,
+     "metin": "At every frequency"
+    }
+   ],
+   "cumleler": [
+    "The real-ear-to-coupler difference, or RECD, is the difference between two measurements.",
+    {
+     "yazi": "First, a sound is delivered through an insert earphone into a standard 2 cc coupler, and the resulting sound pressure level is measured."
+    },
+    "Then the same sound is delivered with the same earphone into the child's ear canal, and the level there is measured with a probe tube.",
+    "The level measured in the coupler is subtracted from the level measured in the ear canal.",
+    "This difference at each frequency is the RECD; the larger it is, the more sound pressure the ear canal produces compared with the coupler.",
+    "For example, if 82 dB SPL is measured in the ear canal and 72 dB SPL in the coupler at 2000 Hz, the RECD at that frequency is 10 dB."
+   ]
+  },
+  {
+   "id": "teknik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Measuring the RECD",
+   "baslik": "Measurement *technique*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "foam tip or earmold",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "sound tube",
+     "cumle": 1
+    },
+    {
+     "parca": "transduser",
+     "metin": "insert earphone",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "probe tube tip further in",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Probe tip a few mm beyond",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "The measurement takes seconds",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Same coupling, same tip",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "For the measurement, the probe tube is placed in the ear canal first.",
+    "Then sound is delivered from the insert earphone through a foam tip or the child's own earmold.",
+    "The tip of the probe tube should extend at least a few millimeters beyond the end of the foam tip or earmold.",
+    "The measurement usually takes only a few seconds, so it can be done even in a sleeping infant or one sitting on a lap.",
+    "Using the same type of coupling, that is, the same foam tip or earmold, for threshold testing and RECD measurement is recommended.",
+    "The coupler type also matters; measurement systems convert between different couplers in software.",
+    "When the earmold changes or the child grows, the RECD should be measured again."
+   ]
+  },
+  {
+   "id": "cocukla",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Measuring the RECD",
+   "baslik": "*Measuring* with a child",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Sleep",
+     "cumle": 0,
+     "metin": "The best moment"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Parent's lap",
+     "cumle": 1,
+     "metin": "Gives security"
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Quiet",
+     "cumle": 2,
+     "metin": "Crying spoils the measurement"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy",
+     "cumle": 3,
+     "metin": "Wax and discharge"
+    }
+   ],
+   "cumleler": [
+    "For infants, the best moment for the measurement is sleep after a feed.",
+    "Older children can be measured on a parent's lap while kept busy with a toy or a video.",
+    "Because crying, talking and sucking movements can change the level in the ear canal, wait for a calm moment.",
+    "Before the measurement, look in the ear canal with an otoscope; if there is wax or discharge, the measurement is postponed.",
+    "Because sound comes directly from the insert earphone, loudspeaker position and head direction do not affect the result.",
+    "For an experienced clinician, the RECD is often the shortest step of the whole appointment."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Age and predicted RECD",
+   "baslik": "*RECD* by age",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 25,
+     "adim": 5,
+     "ad": "RECD (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "bebek",
+      "noktalar": [
+       [
+        250,
+        3
+       ],
+       [
+        500,
+        6
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        13
+       ],
+       [
+        4000,
+        17
+       ],
+       [
+        6000,
+        19
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "first months",
+      "cumle": 2
+     },
+     {
+      "ad": "cocuk",
+      "noktalar": [
+       [
+        250,
+        1
+       ],
+       [
+        500,
+        3
+       ],
+       [
+        1000,
+        6
+       ],
+       [
+        2000,
+        7
+       ],
+       [
+        4000,
+        9
+       ],
+       [
+        6000,
+        11
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "over two years",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       9,
+       17
+      ],
+      "xk": 4000,
+      "etiket": "about 8 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "This graph shows example RECD values measured with a foam tip in two age groups.",
+    "The RECD generally increases with frequency; it is larger at high frequencies.",
+    "In infants, values are markedly higher than in children over two years of age.",
+    "In this example, the RECD at 4000 Hz is about 17 dB in the first months and about 9 dB over two years of age.",
+    "As the ear canal grows, the RECD decreases and approaches adult values at around five years of age.",
+    "However, even among infants of the same age, differences of more than a few decibels can be seen."
+   ]
+  },
+  {
+   "id": "ongorulen",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Age and predicted RECD",
+   "baslik": "The predicted *RECD*",
+   "sutunlar": [
+    "Age",
+    "Ear canal",
+    "RECD"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "First months",
+      "Smallest",
+      "Largest"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "One to two years",
+      "Grows quickly",
+      "Decreases"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "About five years",
+      "Close to adult",
+      "Close to adult"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "When the RECD cannot be measured, average values calculated for age are used; this is called the predicted RECD.",
+    "Predicted values are largest in the first months, because the ear canal is smallest then.",
+    "Between one and two years of age the ear canal grows quickly and the RECD decreases.",
+    "Predicted values shrink with age and approach adult values at around five years of age.",
+    "Measurement systems suggest these values automatically, based on the child's date of birth.",
+    {
+     "yazi": "In adults too, the ear canal forms a smaller volume than the 2 cc coupler, so the RECD is positive at most frequencies."
+    }
+   ]
+  },
+  {
+   "id": "olculmus",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Age and predicted RECD",
+   "baslik": "Measured or *predicted?*",
+   "maddeler": [
+    {
+     "metin": "Guideline: _measured_ RECD is preferred",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "An average does not represent individuals",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "If not measurable, an age-appropriate average",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Measure at the first opportunity",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RECD",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Measured",
+      "cumle": 0,
+      "metin": "Individual"
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Predicted",
+      "cumle": 3,
+      "metin": "Age average"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The American Academy of Audiology's 2013 pediatric amplification guideline recommends measuring the child's RECD whenever possible.",
+     "ses": "The American Academy of Audiology's twenty thirteen pediatric amplification guideline recommends measuring the child's RECD whenever possible."
+    },
+    "This is because, especially in the first months, individual values can differ greatly from the average.",
+    "In an ear that lies a few decibels below or above the average, a fitting based on predicted values will be wrong.",
+    "If measurement is not possible, age-appropriate predicted values or recently measured values can be used.",
+    "The guideline notes that these values may be less accurate, so measurement should be done at the first suitable appointment."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "The RECD in practice",
+   "baslik": "*Where* is the RECD used?",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Threshold",
+     "cumle": 0,
+     "metin": "dB HL with inserts"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ear SPL",
+     "cumle": 1,
+     "metin": "RECD is added"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Target",
+     "cumle": 2,
+     "metin": "dB SPL in the ear canal"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Fitting in coupler",
+     "cumle": 3,
+     "metin": "Target minus RECD"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Predicted response",
+     "cumle": 4,
+     "metin": "Output in the ear"
+    }
+   ],
+   "cumleler": [
+    "A child's thresholds are usually obtained in dB HL with insert earphones.",
+    "Using the RECD, these thresholds are converted to dB SPL in the child's ear canal.",
+    {
+     "yazi": "Starting from these values, the Desired Sensation Level method, DSL v5, calculates the targets to reach in the ear canal in dB SPL.",
+     "ses": "Starting from these values, the Desired Sensation Level method, DSL version 5, calculates the targets to reach in the ear canal in dB SPL."
+    },
+    "The aid is measured in the test box; adding the RECD to the output measured in the coupler gives the predicted output in the child's ear.",
+    "Because the measurement is made in a coupler rather than in the ear, this method is called simulated real-ear measurement.",
+    "This way the child takes part only in the few-second RECD measurement; the rest of the fitting is done in the test box."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "The RECD in practice",
+   "baslik": "From the coupler to the *ear*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 110,
+     "adim": 10,
+     "ad": "Output (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "kuplor",
+      "noktalar": [
+       [
+        250,
+        72
+       ],
+       [
+        500,
+        76
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        83
+       ],
+       [
+        4000,
+        82
+       ],
+       [
+        6000,
+        76
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "2 cc coupler",
+      "cumle": 0
+     },
+     {
+      "ad": "kulak",
+      "noktalar": [
+       [
+        250,
+        75
+       ],
+       [
+        500,
+        82
+       ],
+       [
+        1000,
+        90
+       ],
+       [
+        2000,
+        96
+       ],
+       [
+        4000,
+        99
+       ],
+       [
+        6000,
+        95
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "expected in the ear",
+      "cumle": 1
+     },
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        76
+       ],
+       [
+        500,
+        83
+       ],
+       [
+        1000,
+        90
+       ],
+       [
+        2000,
+        95
+       ],
+       [
+        4000,
+        98
+       ],
+       [
+        6000,
+        94
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "target",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "recd",
+      "y": [
+       82,
+       99
+      ],
+      "xk": 4000,
+      "etiket": "RECD",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Now let us look at an example: the navy curve is the aid's output measured in the 2 cc coupler."
+    },
+    "The red curve is the level expected in the ear canal when this child's RECD values are added to the same output.",
+    "The difference is a few decibels at low frequencies, but exceeds 15 dB at high frequencies.",
+    "The dashed line is the prescriptive target; the level expected in the ear is quite close to target.",
+    "Had the same fitting been done by looking at coupler values, the child's ear would have received sound well above target.",
+    "This is exactly where the value of the RECD lies: it puts the small ear at the center of the fitting."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "The RECD in practice",
+   "baslik": "*Situations* that need care",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ventilation tube",
+     "cumle": 0,
+     "metin": "Low-frequency RECD drops"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Loose earmold",
+     "cumle": 2,
+     "metin": "Leakage, low-frequency loss"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Growth",
+     "cumle": 3,
+     "metin": "Measure again"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Coupler type",
+     "cumle": 4,
+     "metin": "Correct conversion"
+    }
+   ],
+   "cumleler": [
+    "A ventilation tube or perforation adds the middle ear volume to the measurement, and the low-frequency RECD drops markedly.",
+    "Studies have reported low-frequency RECD about 15 dB lower in children with ventilation tubes than in their peers.",
+    "A loose earmold or leakage around the edge of the foam tip also lowers values at low frequencies.",
+    "As the child grows and earmolds are renewed, the RECD changes; a fitting based on an old value is misleading.",
+    "The coupler used must be selected correctly in the measurement and in the software; otherwise the values shift."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If you see an unexpectedly low or negative low-frequency RECD, think of leakage and the eardrum first: a loose tip, a ventilation tube or a perforation. Interpret accordingly.",
+   "cumleler": [
+    "A tip from the field: if you see an unexpectedly low, even negative, RECD at low frequencies, question the measurement first.",
+    "A foam tip or earmold that does not sit fully causes leakage and low values at low frequencies.",
+    "If the tip is fine, check the file and otoscopy for a ventilation tube or a perforation in the tympanic membrane.",
+    "In such an ear the measured value should be used instead of average values, because the ear really does behave differently.",
+    "Note the finding in the file; when the tube comes out, the RECD should be measured again."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Small ear canal, high sound pressure",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "RECD: ear minus coupler",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Measured RECD is preferred",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Coupler output plus RECD: ear estimate",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that a small ear canal creates a higher sound pressure with the same hearing aid.",
+    "The RECD is found by subtracting the level measured in the coupler from the level measured in the ear canal for the same signal.",
+    "Guidelines recommend a measured RECD; predicted values are used only when measurement is not possible.",
+    "Adding the RECD to the output measured in the coupler predicts the sound level that will occur in the child's ear."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "At 4000 Hz, coupler output is 85 dB and RECD 14 dB. Expected level in the ear?",
+   "secenekler": [
+    "71 dB SPL",
+    "85 dB SPL",
+    "99 dB SPL",
+    "14 dB SPL"
+   ],
+   "dogru": 2,
+   "aciklama": "Expected level in the ear = coupler output + RECD: _85 + 14 = 99 dB SPL_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: at 4000 Hz, the output measured in the coupler is 85 dB SPL and the RECD is 14 dB. What level is expected in the ear canal?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: 99 dB SPL.",
+    "The expected level in the ear canal is found by adding the RECD to the coupler output: 85 plus 14, that is, 99 dB SPL."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "First Fit and *Fine-Tuning* by Patient Complaint",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn the first fit and step-by-step fine-tuning based on the user's complaint.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1099 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D275_Case_Fluctuating_Loss_in_Menieres_EN",
+ "kapak": {
+  "ust": "LESSON 275",
+  "baslik": "Case: *Meniere's*<br>disease",
+  "alt": "Fluctuating low-frequency loss",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      35,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      40,
+      40,
+      30,
+      25,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Case: Fluctuating Low-Frequency Loss in Meniere's | Lesson 275 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional adult case, we work step by step through the audiological findings of Meniere's disease: low-frequency sensorineural loss, the audiometric criterion of the Barany Society, comparing serial audiograms, the SP/AP ratio in ECochG, the caloric and vHIT dissociation, VEMP, and the audiologist's role in counseling and reporting.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Lopez-Escamez et al., Diagnostic criteria for Meniere's disease (Journal of Vestibular Research, 2015); Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Jacobson and Shepard, Balance Function Assessment and Management.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "meniere",
+   "casestudy"
+  ],
+  "etiketler": [
+   "Meniere's disease",
+   "endolymphatic hydrops",
+   "serial audiograms",
+   "summating potential",
+   "ECochG",
+   "caloric test",
+   "vHIT",
+   "VEMP",
+   "low-frequency hearing loss",
+   "audiology case study",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 275",
+   "baslik": "Case: a *fluctuating* low-frequency loss",
+   "alt": "Serial audiograms in Meniere's disease",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we work through an adult case with recurrent vertigo attacks and a fluctuating hearing loss in the right ear.",
+    "We will compare serial audiograms, look at electrophysiological and vestibular test findings, and see the audiologist's role."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "A forty-five-year-old example person",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Three _spinning attacks_ in six months",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Each attack one to three hours",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Right fullness and _low-pitched roaring_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Hearing drops during attacks",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Vertigo attack",
+      "metin": "Minutes to hours",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Fluctuating loss",
+      "metin": "In the same ear",
+      "cumle": 4
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Fullness, roaring",
+      "metin": "Increase before attacks",
+      "cumle": 3
+     }
+    ],
+    "ust": "THREE SYMPTOMS"
+   },
+   "cumleler": [
+    "Our case is fictional: a forty-five-year-old person referred by an ENT physician for recurrent attacks of dizziness.",
+    "In the last six months there were three spontaneous spinning attacks, with nausea and vomiting.",
+    "Each attack lasted one to three hours; between attacks the person feels largely well.",
+    "Before attacks, fullness and a low-pitched, roaring tinnitus increase in the right ear.",
+    "The person says hearing in the right ear drops during and after an attack, then partly recovers.",
+    "There is no headache, light sensitivity or neurological symptom; these details are recorded for the differential diagnosis."
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Endolymphatic *hydrops*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_media",
+     "metin": "scala media: endolymph increases",
+     "cumle": 1
+    },
+    {
+     "parca": "reissner_membrani",
+     "metin": "Reissner's membrane",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_media",
+     "cumle": 1
+    },
+    {
+     "parca": "reissner_membrani",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endolymph _increases_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "The _low-frequency_ region first",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hydrops is _not the same_ as Meniere's",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The structural change thought to lie behind these symptoms is endolymphatic hydrops.",
+    "In hydrops, endolymph in the middle scala, the scala media, increases and Reissner's membrane bulges toward the scala vestibuli.",
+    "Hydrops usually affects the region near the cochlear apex first, that is, the low-frequency region.",
+    "This explains why the loss in Meniere's disease often begins in the low frequencies.",
+    "But hydrops can also be present without symptoms; hydrops and Meniere's disease are not the same concept."
+   ]
+  },
+  {
+   "id": "odyo1",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "First audiogram",
+   "baslik": "First test: *low-frequency* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Right_: masked bone conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: normal",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       35,
+       25,
+       25,
+       30
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       40,
+       40,
+       30,
+       25,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "The first test is done two days after the last attack; otoscopy is normal in both ears.",
+    "The right ear has a loss of forty-five decibels at two hundred fifty and five hundred hertz, and thirty-five decibels at one thousand hertz.",
+    "Right bone conduction, measured with the left ear masked, overlaps air conduction; the loss is sensorineural.",
+    "From two thousand hertz up, right thresholds are near normal; so we see a loss that rises toward the high frequencies.",
+    "The left ear is within normal limits at all frequencies; left bone conduction is also around ten decibels.",
+    "Tympanograms are type A in both ears; so there is no middle ear problem that explains this loss.",
+    "Word recognition in the right ear is eighty-eight percent; because the loss is in the low frequencies, the score is relatively well kept."
+   ]
+  },
+  {
+   "id": "barany",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "First audiogram",
+   "baslik": "*Apply* the Barany criterion",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Two adjacent frequencies",
+     "metin": "Below 2000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bone conduction difference",
+     "metin": "At least 30 vs. other ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "In this case",
+     "metin": "250 and 500 Hz: 30 dB",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The Barany Society criteria look for an audiometrically documented loss at two adjacent frequencies below two thousand hertz.",
+    "In this loss, the bone conduction threshold of the affected ear must be at least thirty decibels worse than the other ear's.",
+    "In our case, at two hundred fifty and five hundred hertz, right bone conduction is forty and left is ten decibels; a difference of thirty.",
+    "So the audiometric criterion is met; for this comparison, bone conduction must be correctly masked.",
+    "Definite Meniere's disease also requires at least two spontaneous vertigo attacks lasting twenty minutes to twelve hours.",
+    "Weighing the criteria as a whole and making the diagnosis is the physician's job; the audiologist provides the audiometric evidence."
+   ]
+  },
+  {
+   "id": "seri",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Serial audiograms",
+   "baslik": "Serial *audiograms*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 20,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "isaretli": true,
+      "etiket": "left ear",
+      "cumle": 4,
+      "kesik": true
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        45
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        35
+       ],
+       [
+        2000,
+        25
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        30
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "right: first",
+      "cumle": 1
+     },
+     {
+      "ad": "ikinci",
+      "noktalar": [
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        25
+       ],
+       [
+        1000,
+        20
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        4000,
+        20
+       ],
+       [
+        8000,
+        30
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "right: week 3",
+      "cumle": 2
+     },
+     {
+      "ad": "ucuncu",
+      "noktalar": [
+       [
+        250,
+        55
+       ],
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        40
+       ],
+       [
+        2000,
+        30
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        30
+       ]
+      ],
+      "renk": "mor",
+      "isaretli": true,
+      "etiket": "right: month 2",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "pes",
+      "x": [
+       220,
+       1100
+      ],
+      "renk": "sari",
+      "etiket": "fluctuating region",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Note _timing_ relative to the attack",
+     "cumle": 6,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "One of the most distinctive features of Meniere's disease is that hearing fluctuates over time.",
+    "The red line shows the first measurement, two days after the last attack.",
+    "The green line is a follow-up test three weeks later, in a period without attacks; low-frequency thresholds improved by twenty decibels.",
+    "The purple line is a test two months later, right after a new attack; the low-frequency loss has returned, and is deeper.",
+    "The gray dashed line shows the healthy left ear; there is no change in that ear.",
+    "A single audiogram cannot show this fluctuation; this is why serial audiograms are so valuable.",
+    "The timing of each measurement relative to an attack is also recorded, because thresholds change with closeness to an attack."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Serial audiograms",
+   "baslik": "*Rules* for serial testing",
+   "maddeler": [
+    {
+     "metin": "Same audiometer, same earphones",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Same method, same masking rules",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Timing relative to attack, symptoms",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Bone conduction measured every time",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Show comparisons on the chart",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        25,
+        25,
+        20,
+        20,
+        20,
+        30
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        20,
+        20,
+        20,
+        20,
+        20
+       ],
+       "cumle": 3
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "To make serial measurements comparable, the same audiometer and the same type of earphones are used when possible.",
+    "The threshold method and masking rules are kept the same for every measurement.",
+    "At each test, the time of the last attack and that day's fullness and tinnitus are briefly noted.",
+    "Bone conduction is measured with masking every time; it is needed to document that the change is sensorineural.",
+    "In the report, results are shown side by side with earlier measurements; the physician sees the course at a glance."
+   ]
+  },
+  {
+   "id": "anlamli",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Serial audiograms",
+   "baslik": "Is the change *significant?*",
+   "maddeler": [
+    {
+     "metin": "Test-retest difference: _about 5 dB_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_10 dB or more_ at adjacent frequencies",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Bone conduction in the same direction?",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Word scores are compared too",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Closeness to attack changes interpretation",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "5 dB",
+      "metin": "Measurement variability",
+      "cumle": 0
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Over 10 dB",
+      "metin": "Adjacent frequencies, repeated",
+      "cumle": 1
+     }
+    ],
+    "ust": "DIFFERENCE"
+   },
+   "cumleler": [
+    "Repeated measurements in the same person usually differ by five decibels or less; such small differences do not count as fluctuation.",
+    "Repeated changes of ten decibels or more, in the same direction at adjacent frequencies, point more strongly to true fluctuation.",
+    "Bone conduction changing in the same direction as air conduction confirms that the change is sensorineural.",
+    "Comparing the word recognition score with the previous measurement also helps in understanding the course.",
+    "A test done close to an attack is expected to be worse; so no comparison is made without timing information."
+   ]
+  },
+  {
+   "id": "ecochg",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Additional tests",
+   "baslik": "ECochG: the *SP/AP* ratio",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Right",
+      "2": "Left"
+     },
+     "ad": "Ear"
+    },
+    "y": {
+     "min": 0,
+     "max": 0.8,
+     "adim": 0.2,
+     "ad": "SP/AP ratio",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "oran",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0.6
+       ],
+       [
+        2,
+        0.3
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "artmis",
+      "y": [
+       0.5,
+       0.8
+      ],
+      "renk": "sari",
+      "etiket": "above the lab limit",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Right: _0.60_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Left: _0.30_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "A normal ratio does not exclude hydrops",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "For more information, the physician has requested electrocochleography, or ECochG.",
+     "ses": "For more information, the physician has requested electrocochleography, or E cock G."
+    },
+    {
+     "yazi": "The summating potential, or SP, grows in hydrops; the action potential, or AP, does not grow to the same degree.",
+     "ses": "The summating potential, or SP, grows in hydrops; the action potential, or A P, does not grow to the same degree."
+    },
+    {
+     "yazi": "In this example, the SP/AP ratio is zero point six zero in the right ear and zero point three zero in the left.",
+     "ses": "In this example, the S P over A P ratio is zero point six zero in the right ear and zero point three zero in the left."
+    },
+    "In the example, the lab's upper normal limit is zero point five zero; so the ratio in the right ear is considered elevated.",
+    "An elevated ratio, together with the history and the audiogram, supports the idea of endolymphatic hydrops.",
+    "But a normal ratio does not exclude hydrops; many people with Meniere's disease have a normal ratio."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Additional tests",
+   "baslik": "Caloric and *vHIT* dissociation",
+   "ogeler": [
+    {
+     "ikon": "vertigo",
+     "baslik": "Caloric test",
+     "metin": "40 percent weakness on the right",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "Normal gain on both sides",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "VEMP",
+     "metin": "Findings vary",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Vestibular tests can also show a pattern typical of this disease.",
+    "The caloric test shows a forty percent unilateral weakness on the right; over twenty to twenty-five percent is usually significant.",
+    "In contrast, on the video head impulse test, or vHIT, gain in both lateral canals is normal and there are no corrective saccades.",
+    "This dissociation, a reduced caloric response with a normal vHIT, is often reported in Meniere's disease; hydrops is a proposed explanation.",
+    "Vestibular evoked myogenic potential, or VEMP, responses can also be affected; but findings vary from person to person.",
+    "None of these tests makes the diagnosis on its own; the diagnosis rests on clinical criteria."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Additional tests",
+   "baslik": "The differential *diagnosis*",
+   "ogeler": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vestibular migraine",
+     "metin": "No lasting loss expected",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Retrocochlear cause",
+     "metin": "Investigated in unilateral loss",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sudden low-frequency loss",
+     "metin": "No vertigo, single episode",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Vestibular migraine can also bring attacks and ear symptoms; but a clear and lasting hearing loss is not expected.",
+    "This is why a history of migraine, headache and light sensitivity is asked about separately.",
+    "Unilateral sensorineural loss with vertigo may require the physician to investigate retrocochlear causes as well.",
+    "A low-frequency loss that comes as a single episode without vertigo is considered a different picture.",
+    "The picture should not be better explained by another vestibular diagnosis; the physician makes this distinction.",
+    "The audiologist's contribution here is to record the history in full and to present the audiometric finding clearly."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "The audiologist's role",
+   "baslik": "The audiologist's *tasks*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Document",
+     "metin": "Masked, serial measurement",
+     "cumle": 0
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Test battery",
+     "metin": "ECochG, VEMP, caloric, vHIT",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Report",
+     "metin": "Comparison chart",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Communication",
+     "metin": "Ongoing, with ENT",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Counseling",
+     "metin": "Attacks, tinnitus, hearing",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The audiologist's first task is to document the loss correctly, with masked thresholds and serial measurements.",
+    {
+     "yazi": "Tests the physician requests, such as ECochG, VEMP, caloric testing and vHIT, are done with standard protocols.",
+     "ses": "Tests the physician requests, such as E cock G, VEMP, caloric testing and vHIT, are done with standard protocols."
+    },
+    "In the report, measurements are given side by side and the timing of each measurement relative to an attack is written down.",
+    "Diagnosis and treatment are the physician's decisions; the audiologist suggests no drugs, diets or procedures, but stays in touch with ENT.",
+    "The audiologist also counsels the person about tinnitus and hearing and, when needed, discusses hearing support options.",
+    "If a new loss that seems lasting, or an attack of a different kind, occurs, the person is advised to see the physician without delay."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In a fluctuating loss, do not rely on a single measurement; note the timing relative to the attack at every test and keep conditions the same.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: in a fluctuating loss, do not make decisions by looking at a single audiogram.",
+    "At every test, record when the last attack happened and how full the ear feels that day.",
+    "Use the same earphones and the same method as in the previous measurement; otherwise the source of a difference becomes unclear.",
+    "Do not skip two hundred fifty hertz, so that you do not miss small changes in the low frequencies."
+   ]
+  },
+  {
+   "id": "danisma",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "The audiologist's role",
+   "baslik": "*Talking* with the person",
+   "maddeler": [
+    {
+     "metin": "Sit somewhere safe during attacks",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Attack diary: date, duration, symptoms",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Tinnitus and anxiety: _support exists_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hearing support: adjusted to fluctuation",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "takvim",
+      "baslik": "Attack diary",
+      "metin": "Take it to the physician",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Counseling",
+      "metin": "Tinnitus and anxiety",
+      "cumle": 2
+     }
+    ],
+    "ust": "ADVICE"
+   },
+   "cumleler": [
+    "The person is advised to sit or lie down somewhere safe as soon as an attack starts, because of the risk of falling.",
+    "A diary of the date and duration of attacks and the ear symptoms that come with them helps the physician's assessment a great deal.",
+    "Uncertainty and attacks can cause anxiety; it is important to explain that counseling and support exist for tinnitus and anxiety.",
+    "Not knowing when attacks will come makes daily life hard; even taking this complaint seriously brings relief.",
+    "If the loss becomes permanent, a hearing aid may be considered; with fluctuating thresholds, settings may need regular review."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "The audiologist's role",
+   "baslik": "Sample *report* wording",
+   "maddeler": [
+    {
+     "metin": "Right: low-frequency sensorineural loss",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Change from previous measurement",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SP/AP elevated on the right",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Right caloric weakness, normal vHIT",
+     "cumle": 3,
+     "ikon": "vertigo"
+    },
+    {
+     "metin": "Advice: ENT follow-up, serial audiograms",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava_maskeli",
+       "degerler": [
+        55,
+        50,
+        40,
+        30,
+        25,
+        30
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Pure-tone: mild to moderate sensorineural hearing loss in the right ear, more marked in the low frequencies.",
+    "Course: about twenty-five to thirty decibels worse than before at two hundred fifty and five hundred hertz; tested right after an attack.",
+    {
+     "yazi": "ECochG: SP/AP ratio in the right ear above the lab limit.",
+     "ses": "E cock G: S P over A P ratio in the right ear above the lab limit."
+    },
+    "Vestibular tests: caloric weakness on the right, vHIT gains normal on both sides.",
+    "Advice: forward to the ENT physician with the findings; serial audiometry at intervals the physician advises."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Fluctuating low-frequency sensorineural loss",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Serial audiograms document fluctuation",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SP/AP rise, caloric and vHIT dissociation",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Diagnosis by physician, Barany criteria",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "In Meniere's disease, the loss often begins in the low frequencies and fluctuates with attacks.",
+    "Serial audiograms are taken under the same conditions and document the fluctuation; a single measurement cannot show it.",
+    {
+     "yazi": "An elevated SP/AP ratio and a caloric weakness with normal vHIT can support the picture, but do not make the diagnosis alone.",
+     "ses": "An elevated S P over A P ratio and a caloric weakness with normal vHIT can support the picture, but do not make the diagnosis alone."
+    },
+    "The physician makes the diagnosis using the Barany criteria; the audiologist provides measurements, reports and counseling."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "The audiometric condition in the Barany criteria?",
+   "secenekler": [
+    "15 dB at any frequency",
+    "30 dB at two adjacent low frequencies",
+    "30 dB at 4 kHz only",
+    "An air-bone gap"
+   ],
+   "dogru": 1,
+   "aciklama": "Bone conduction is at least 30 dB worse than the other ear at _two adjacent frequencies_ below 2000 Hz.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in the Barany criteria, what is the audiometric condition for definite Meniere's disease?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: at least thirty decibels worse than the other ear, at two adjacent frequencies below two thousand hertz.",
+    "The comparison is made with bone conduction thresholds; so correct masking of bone conduction is essential."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: A Patient Presenting with *Sudden* Hearing Loss",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case we will look at a patient who presents with sudden hearing loss and needs to be assessed the same day.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

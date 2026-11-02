@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R252_The_Eye_As_A_Battery_EN",
+ "kapak": {
+  "ust": "QUICK FACT #252",
+  "baslik": "The eye's *tiny battery*",
+  "alt": "How ENG records eye movements",
+  "cizim": "nistagmus_izi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can your eye act like a tiny battery? #shorts",
+  "aciklama": "Electronystagmography, or ENG, relies on the corneoretinal potential: the cornea is positive relative to the retina, so the eye acts like a small battery and the voltage between skin electrodes changes as it turns. This lets ENG record even with the eyes closed, but it cannot record torsional rotation around the eye's own axis.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "vestibular",
+   "balance"
+  ],
+  "etiketler": [
+   "ENG",
+   "electronystagmography",
+   "corneoretinal potential",
+   "nystagmus recording",
+   "torsional nystagmus",
+   "vestibular assessment",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can your eye act like a tiny battery?",
+  "bilgiler": [
+   "The cornea is positive relative to the retina; the eye acts like a battery.",
+   "ENG records this voltage with electrodes on the skin.",
+   "It records with eyes closed but cannot capture torsion."
+  ],
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "balance"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #252",
+   "metin": "Is the eye *a battery?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can your eye act like a tiny battery?"
+   ]
+  },
+  {
+   "id": "eng",
+   "tur": "zincir",
+   "baslik": "How *ENG* measures",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Cornea",
+     "tr": "positive pole",
+     "cumle": 1
+    },
+    {
+     "ad": "Electrode",
+     "tr": "voltage changes",
+     "cumle": 2
+    },
+    {
+     "ad": "Eyes closed",
+     "tr": "still records",
+     "cumle": 3
+    }
+   ],
+   "alt": "Eyes closed yes, _torsion no_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Electronystagmography, or ENG, records eye movement with electrodes on the skin.",
+    "With a positive cornea, the eye behaves like a tiny battery.",
+    "As the eye turns right, the positive pole nears the right electrode.",
+    "So ENG can record even with the eyes closed.",
+    "But it cannot record torsional rotation around the eye's own axis."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D156",
+ "kaynak_baslik": "VNG and ENG: How Eye Movements Are Recorded"
+}

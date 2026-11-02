@@ -1,0 +1,973 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D115_Test_Room_Ambient_Noise_EN",
+ "kapak": {
+  "ust": "LESSON 115",
+  "baslik": "Test room<br>*ambient noise*",
+  "alt": "Maximum permissible levels",
+  "cizim": "test_kabini"
+ },
+ "youtube": {
+  "baslik": "Test Room Standards: Maximum Ambient Noise | Lesson 115 | AIHEAR Audiology Academy",
+  "aciklama": "How much ambient noise is acceptable in an audiometric test room? In this lesson we cover the MPANL concept, the ANSI S3.1 and ISO 8253-1 limits, the different values for supra-aural earphones, insert earphones and ears not covered, and how to measure noise in octave bands.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ANSI/ASA S3.1-1999 (R2018), Maximum Permissible Ambient Noise Levels for Audiometric Test Rooms; ISO 8253-1, Acoustics: Audiometric test methods, Part 1; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "calibration",
+   "audiometry"
+  ],
+  "etiketler": [
+   "ambient noise",
+   "MPANL",
+   "maximum permissible ambient noise level",
+   "ANSI S3.1",
+   "ISO 8253-1",
+   "octave band",
+   "sound booth",
+   "insert earphones",
+   "bone conduction",
+   "sound level meter",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 115",
+   "baslik": "The test room and *ambient noise*",
+   "alt": "Maximum permissible noise levels",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the maximum permissible ambient noise levels in a test room and how they are measured.",
+    "Step by step, we will look at the limits in the ANSI and ISO standards, how they vary by earphone type, and octave band measurement."
+   ]
+  },
+  {
+   "id": "kabin",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why does it matter?",
+   "baslik": "*Why* a quiet room?",
+   "cizim": "test_kabini",
+   "etiketler": [
+    {
+     "parca": "cift_duvar",
+     "metin": "double wall",
+     "cumle": 1
+    },
+    {
+     "parca": "havalandirma",
+     "metin": "ventilation",
+     "cumle": 1
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "earphones",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta",
+     "metin": "patient",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "test_odasi",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "In earlier lessons we saw how calibration ensures the audiometer produces the right sound, but the right sound only counts in a quiet room.",
+    "Ambient noise is the unwanted background sound present in the room during testing.",
+    "This noise partly masks the test tone and makes the person's threshold look worse than it is.",
+    "The people most affected are those with normal hearing, whose thresholds are around zero decibels HL.",
+    "This is because their thresholds are closest to the level where the masking effect of the noise begins.",
+    "So the standards define in numbers which noise level must not be exceeded in a test room."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why does it matter?",
+   "baslik": "*Where* does the noise come from?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ventilation",
+     "metin": "Steady, low-pitched hum",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Equipment fans",
+     "metin": "Computer and audiometer fans",
+     "cumle": 2
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Building and traffic",
+     "metin": "Corridor, elevator, street",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Conversations",
+     "metin": "Control room, waiting room",
+     "cumle": 4
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Lighting",
+     "metin": "Buzzing from some lamps",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The sources of noise in a test room are often everyday sounds that are hard to notice.",
+    "First come ventilation and air conditioning systems; their hum is steady and mostly low-pitched.",
+    "Fans in the control room computer and equipment also create a low but constant noise.",
+    "Footsteps in the corridor, the elevator, doors and outside traffic are carried into the room through the building.",
+    "Conversations in the waiting room or control room can leak into the booth if the door does not close well.",
+    "Buzzing from some lamps and vibrating surfaces also make small but measurable contributions."
+   ]
+  },
+  {
+   "id": "mpanl",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Standard limits",
+   "baslik": "What is *MPANL*?",
+   "maddeler": [
+    {
+     "metin": "Highest acceptable noise level",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "In octave or third-octave bands",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "For testing down to 0 dB HL",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Threshold shift limited to _2 dB_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "STANDARDS",
+    "metin": "ANSI S3.1 and *ISO 8253-1*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Our key concept is the maximum permissible ambient noise level, or MPANL.",
+    "MPANL is the highest noise level that can be present in the room during testing without meaningfully changing threshold.",
+    "The values are not a single number; they are split into frequency bands and given as octave or third-octave band levels.",
+    "The tables assume that thresholds can be measured down to zero decibels HL.",
+    "The ANSI limits are the levels at which ambient noise masks the test tone by no more than about two decibels.",
+    "So in a room below the limits, the effect of noise on threshold stays well below our five decibel test step."
+   ]
+  },
+  {
+   "id": "kosul",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Standard limits",
+   "baslik": "Three different *test conditions*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supra-aural",
+     "metin": "The cushion reduces some noise",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert earphones",
+     "metin": "Highest attenuation",
+     "cumle": 3
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Ears not covered",
+     "metin": "Bone conduction, sound field",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The limits depend on the test condition, because the noise reaching the ear depends on what covers the ear.",
+    "The cushion of a supra-aural earphone reduces outside noise somewhat.",
+    "This reduction is weak at low frequencies and more marked at high frequencies.",
+    "The foam tip of an insert earphone seals the ear canal, so it blocks outside noise much better, especially at low frequencies.",
+    "In bone conduction and sound field testing, the ears are uncovered, and noise reaches the ear without any reduction.",
+    "That is why the strictest limits apply to the ears not covered condition."
+   ]
+  },
+  {
+   "id": "egriler",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Standard limits",
+   "baslik": "*Limits* by earphone type",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Octave band center frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 70,
+     "adim": 10,
+     "ad": "Permissible level (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "insert",
+      "noktalar": [
+       [
+        125,
+        59
+       ],
+       [
+        250,
+        53
+       ],
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        47
+       ],
+       [
+        2000,
+        49
+       ],
+       [
+        4000,
+        50
+       ],
+       [
+        8000,
+        56
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "insert earphones",
+      "cumle": 2
+     },
+     {
+      "ad": "supra",
+      "noktalar": [
+       [
+        125,
+        35
+       ],
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        21
+       ],
+       [
+        1000,
+        26
+       ],
+       [
+        2000,
+        34
+       ],
+       [
+        4000,
+        37
+       ],
+       [
+        8000,
+        37
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "supra-aural earphones",
+      "cumle": 3
+     },
+     {
+      "ad": "acik",
+      "noktalar": [
+       [
+        125,
+        29
+       ],
+       [
+        250,
+        21
+       ],
+       [
+        500,
+        16
+       ],
+       [
+        1000,
+        13
+       ],
+       [
+        2000,
+        14
+       ],
+       [
+        4000,
+        11
+       ],
+       [
+        8000,
+        14
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "ears not covered",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Insert: widest tolerance",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Supra-aural: strict in low bands",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Ears not covered: strictest",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "This graph shows the ANSI S3.1 octave band limits for testing from one hundred twenty five to eight thousand hertz.",
+    "The horizontal axis shows octave band center frequencies, and the vertical axis the permissible level in decibels SPL.",
+    "The blue line at the top is for testing with insert earphones; here the permissible noise is highest.",
+    "The navy line in the middle is for supra-aural earphones; in the low bands the limit drops clearly.",
+    "The red line at the bottom is for ears not covered; from one to four kilohertz the limit is eleven to fourteen decibels SPL.",
+    "With ears not covered, the limit is lowest in the mid and high frequency region where our ears are most sensitive.",
+    "The difference between the two earphones is greatest in the two hundred fifty and five hundred hertz bands, in the low region."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Standard limits",
+   "baslik": "ANSI S3.1 *octave band* limits",
+   "sutunlar": [
+    "Band (Hz)",
+    "Supra-aural",
+    "Insert",
+    "Ears not covered"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "125",
+      "35",
+      "59",
+      "29"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "250",
+      "25",
+      "53",
+      "21"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "500",
+      "21",
+      "50",
+      "16"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "1000",
+      "26",
+      "47",
+      "13"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000",
+      "34",
+      "49",
+      "14"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "4000",
+      "37",
+      "50",
+      "11"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "8000",
+      "37",
+      "56",
+      "14"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Let us see the same values as a table; all values are octave band levels in decibels SPL.",
+    "In the one hundred twenty five hertz band, the limit is thirty five for supra-aural, fifty nine for insert, and twenty nine uncovered.",
+    "In the two hundred fifty hertz band, these values are twenty five, fifty three and twenty one decibels.",
+    "In the five hundred hertz band, the limits are twenty one, fifty and sixteen decibels.",
+    "In the one kilohertz band, the limit is twenty six for supra-aural earphones and only thirteen decibels for ears not covered.",
+    "In the two, four and eight kilohertz bands, the limit for ears not covered stays between eleven and fourteen decibels.",
+    "These values are for testing down to zero decibels HL, starting from one hundred twenty five hertz.",
+    "If testing starts at five hundred hertz, the standard allows higher levels in the one hundred twenty five and two hundred fifty hertz bands."
+   ]
+  },
+  {
+   "id": "ansi_iso",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Standard limits",
+   "baslik": "The ANSI and *ISO* approach",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "ANSI S3.1",
+     "metin": "US standard, octave bands",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Three ranges",
+     "metin": "From 125, 250 or 500 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "ISO 8253-1",
+     "metin": "International test method",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Uncertainty",
+     "metin": "At most +2 dB from noise",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "ANSI S3.1 is the standard used in the United States; it gives limits in octave and third-octave bands.",
+    "It has tables for three ranges, for testing that starts at one hundred twenty five, two hundred fifty or five hundred hertz.",
+    "ISO 8253-1 is the international standard that defines the method of pure tone audiometry; it also sets limits for the test environment.",
+    "In the ISO approach, the aim is that ambient noise adds no more than plus two decibels of uncertainty at zero decibels HL.",
+    "The tables of the two standards are not identical; the measurement report should state which standard was used."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Measurement",
+   "baslik": "*How* is ambient noise measured?",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Prepare the meter",
+     "metin": "Precision, octave filters",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "The right spot",
+     "metin": "The patient's head position",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Real conditions",
+     "metin": "Fans and ventilation on",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Band by band",
+     "metin": "125 to 8000 Hz",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Compare, record",
+     "metin": "Against the standard table",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The measurement uses a high-accuracy class sound level meter with octave or third-octave filters.",
+    "The meter itself is checked with an acoustic calibrator before the measurement.",
+    "The microphone is placed where the patient's head will be during testing, at ear height.",
+    "The measurement should reflect real test conditions: door closed, with ventilation, lights and computers running.",
+    "Then the level of each octave band from one hundred twenty five hertz to eight kilohertz is read separately.",
+    "Each band value is compared with the limit for the test condition used, and results are recorded with the date and equipment details."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Measurement",
+   "baslik": "Example: the *low bands* exceed",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Octave band center frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 10,
+     "ad": "Octave band level (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "olculen",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        125,
+        42
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        22
+       ],
+       [
+        1000,
+        18
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        12
+       ],
+       [
+        8000,
+        10
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "measured noise",
+      "cumle": 1
+     },
+     {
+      "ad": "supra",
+      "noktalar": [
+       [
+        125,
+        35
+       ],
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        21
+       ],
+       [
+        1000,
+        26
+       ],
+       [
+        2000,
+        34
+       ],
+       [
+        4000,
+        37
+       ],
+       [
+        8000,
+        37
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "supra-aural limit",
+      "cumle": 2
+     },
+     {
+      "ad": "insert",
+      "noktalar": [
+       [
+        125,
+        59
+       ],
+       [
+        250,
+        53
+       ],
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        47
+       ],
+       [
+        2000,
+        49
+       ],
+       [
+        4000,
+        50
+       ],
+       [
+        8000,
+        56
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "etiket": "insert limit",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "asim",
+      "x": [
+       110,
+       600
+      ],
+      "renk": "sari",
+      "etiket": "limit exceeded",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Supra-aural: low bands exceed",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Insert: acceptable in all bands",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Bone conduction: not acceptable",
+     "cumle": 5,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Now let us examine the results from an entirely hypothetical test room.",
+    "The gray bars show the noise level measured in each octave band; the energy is concentrated in the low bands.",
+    "The navy line is the supra-aural limit; in the bands from one kilohertz up, the measured values are clearly below it.",
+    "But in the one hundred twenty five, two hundred fifty and five hundred hertz bands, the measured noise exceeds the limit.",
+    "The dashed blue line is the insert earphone limit; the same room is acceptable for insert earphones in all bands.",
+    "For bone conduction testing with ears uncovered, though, this room fails in many bands; those limits are much lower."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Measurement",
+   "baslik": "*Points to watch* when measuring",
+   "maddeler": [
+    {
+     "metin": "Each band is assessed _separately_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Measure during busy hours too",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Yearly and after every change",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Higher test levels, wider limits",
+     "cumle": 3,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "havalandirma",
+      "cumle": 1
+     },
+     {
+      "parca": "kapi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "A single A-weighted decibel value is not enough for this assessment, because the limits are set separately for each band.",
+    "Noise can change during the day; repeating the measurement during the clinic's busiest hours gives a realistic picture.",
+    "It is usually repeated with the yearly checks and after any change, such as new ventilation, construction or a move.",
+    "The tables are for testing down to zero decibels HL; if screening only at higher levels, the limits can be raised by the same amount."
+   ]
+  },
+  {
+   "id": "asim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "If the limit is exceeded",
+   "baslik": "What if the limit is *exceeded*?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Find the source",
+     "metin": "Fan, ventilation, door",
+     "cumle": 0
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Use inserts",
+     "metin": "Strong low-band attenuation",
+     "cumle": 2
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Improve isolation",
+     "metin": "Door seals, double walls",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Note in the report",
+     "metin": "Frequencies that may be affected",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "When the limit is exceeded, first find the source; it is often a fan, a ventilation outlet or a door that does not close well.",
+    "Turning the ventilation down during testing or moving equipment away from the booth sometimes solves the problem on its own.",
+    "For earphone testing, using insert earphones greatly reduces the effect of noise in the low bands.",
+    "For a lasting fix, door seals are replaced, the booth is moved to a quieter place, or a double-walled booth is installed.",
+    "If testing goes on before the fix, the report clearly states the test condition and the frequencies that may be affected."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "If the limit is exceeded",
+   "baslik": "The noise's trace on the *audiogram*",
+   "maddeler": [
+    {
+     "metin": "Low thresholds unexpectedly poor",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Air-bone gap may look smaller",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Thresholds vary on retest",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        25,
+        20,
+        10,
+        5,
+        5,
+        10
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "The trace of ambient noise on the audiogram forms a recognizable pattern.",
+    "Here, a person with normal hearing has unexpectedly poor thresholds at two fifty and five hundred hertz compared with high frequencies.",
+    "Bone conduction is measured with ears uncovered, so it is affected more; this can make the air-bone gap look smaller than it is.",
+    "If the same person's thresholds are inconsistent at different times of day, ambient noise should come to mind.",
+    "When you see such a pattern, first check the room noise and the placement of the earphones."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If low-frequency thresholds are unexpectedly poor, repeat the test with insert earphones; if thresholds improve, have the booth noise measured.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: even without a sound level meter, you can do a simple check.",
+    "Measure the thresholds of a colleague with normal hearing, first with supra-aural earphones, then with insert earphones.",
+    "If low-frequency thresholds improve clearly with insert earphones, low-pitched noise in the room may be exceeding the limit.",
+    "This simple observation does not replace measurement, but it shows when an octave band measurement is needed."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "MPANL: the _highest_ noise that spares threshold",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Limits vary by earphone type",
+     "cumle": 1,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Limits are _strictest_ with ears uncovered",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Measured in octave bands, at head position",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "MPANL is the highest ambient noise level that does not meaningfully change thresholds at zero decibels HL.",
+    "Insert earphones allow the widest tolerance and supra-aural earphones a narrower one; the difference is greatest in the low bands.",
+    "In bone conduction and sound field testing the ears are uncovered, so the limits are lowest.",
+    "Noise is measured with a precision sound level meter, in octave bands, at the patient's head position, and the result is recorded."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Under which condition are the limits strictest?",
+   "secenekler": [
+    "Supra-aural earphone testing",
+    "Insert earphone testing",
+    "Ears not covered",
+    "The same in all"
+   ],
+   "dogru": 2,
+   "aciklama": "With ears uncovered, noise reaches the ear _without any reduction_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: under which test condition are the permissible ambient noise limits lowest?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: the ears not covered condition.",
+    "In bone conduction and sound field testing no earphone covers the ear, so the same noise spoils threshold much more easily."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Calibrating *Immittance*, OAE and ABR Equipment",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how immittance, otoacoustic emission and auditory brainstem response equipment is calibrated.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

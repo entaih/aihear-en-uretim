@@ -1,0 +1,595 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D172_Newborn_Hearing_Screening_EN",
+ "kapak": {
+  "ust": "LESSON 172",
+  "baslik": "Newborn<br>*hearing screening*",
+  "alt": "Why is every baby screened?",
+  "cizim": "oae"
+ },
+ "youtube": {
+  "baslik": "Why Screen Every Newborn's Hearing? | Lesson 172 | AIHEAR Audiology Academy",
+  "aciklama": "How common is congenital hearing loss, and why is every newborn screened? In this lesson we compare risk-based and universal screening, explain the 1-3-6 goals and the 1-2-3 goals of JCIH 2019, review the role of OAE and AABR, and look at the national newborn hearing screening program in Türkiye.\\n\\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\\n\\nSources: Joint Committee on Infant Hearing, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Joint Committee on Infant Hearing, Year 2007 Position Statement; World Health Organization, World Report on Hearing (2021); Yoshinaga-Itano et al., Language of early- and later-identified children with hearing loss, Pediatrics (1998); Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\\n\\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "newbornscreening",
+   "hearing"
+  ],
+  "etiketler": [
+   "newborn hearing screening",
+   "universal newborn hearing screening",
+   "UNHS",
+   "JCIH",
+   "EHDI",
+   "1-3-6",
+   "OAE",
+   "AABR",
+   "congenital hearing loss",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 172",
+   "baslik": "Newborn *hearing screening*",
+   "alt": "Why is every baby screened? The 1-3-6 and 1-2-3 goals",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn why newborn hearing screening is done and which goals it is built on.",
+    "We will also take a brief look at the national screening program in Türkiye as an example."
+   ]
+  },
+  {
+   "id": "siklik",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Congenital hearing loss",
+   "baslik": "How *common* is it?",
+   "maddeler": [
+    {
+     "metin": "Healthy newborns: _1 to 3 per 1000_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Intensive care: about _2 to 4 percent_",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "One of the most common congenital conditions",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Not visible_ at birth",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "UNHS",
+    "metin": "*Universal* newborn hearing screening",
+    "cumle": 6
+   },
+   "cumleler": [
+    "Permanent congenital hearing loss occurs in about 1 to 3 per 1000 healthy newborns.",
+    "This rate is much higher than that of some metabolic conditions screened at birth, such as phenylketonuria.",
+    {
+     "yazi": "In babies admitted to the neonatal intensive care unit, the rate rises to about 2 to 4 percent."
+    },
+    "So babies with a history of intensive care have a clearly higher risk of hearing loss.",
+    "For this reason, hearing loss is considered one of the most common congenital conditions in newborns.",
+    "The problem is that hearing loss is not visible at birth; the baby looks healthy and may seem to react to sounds.",
+    "This is why universal newborn hearing screening, or UNHS, in which every baby is tested, was developed."
+   ]
+  },
+  {
+   "id": "kritik",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Congenital hearing loss",
+   "baslik": "The *critical period* for language",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cochlea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "auditory cortex",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sound input matures the pathways",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Critical period: the first years",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Intervention before 6 months",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "So why is early diagnosis so important?",
+    "The auditory system starts at the cochlea and extends through the brainstem to the auditory cortex.",
+    "The maturation of these pathways depends on sound input in the first years of life.",
+    "Without sound input, the central auditory pathways cannot mature as expected during this period.",
+    "The first years of life are the most productive time for speech and language development; this is called the critical period.",
+    "Studies showed that children diagnosed with intervention started before 6 months have clearly better language development.",
+    "This finding came to the fore especially with the 1998 study by Yoshinaga-Itano and colleagues."
+   ]
+  },
+  {
+   "id": "evrensel",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Why universal screening?",
+   "baslik": "Risk-based or *universal?*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Risk-based",
+     "metin": "Misses about half of losses",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Universal",
+     "metin": "Every newborn is screened",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In the past, only babies with risk factors, such as a family history or intensive care stay, were tested.",
+    "However, about half of babies with congenital hearing loss have no known risk factor.",
+    "So before universal screening, the age of diagnosis in many countries stretched to 2 or 3 years.",
+    "In universal screening, every newborn is tested regardless of risk status.",
+    "This way, losses in babies without risk factors are also caught early.",
+    "As screening programs spread, the age of diagnosis fell to a few months.",
+    "Parent observation or behavioral monitoring is not reliable for screening; mild or unilateral losses are easily missed."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Why universal screening?",
+   "baslik": "The *purpose* of screening",
+   "maddeler": [
+    {
+     "metin": "Screening does _not_ diagnose",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Goal: identify who needs further testing",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Objective, quick and painless",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "A pass does _not rule out_ later loss",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Let us make an important distinction clear: screening is not a diagnostic test.",
+    "The purpose of screening is to quickly identify the babies who need further diagnostic evaluation.",
+    "Screening tests are objective; the baby does not need to respond or cooperate.",
+    "The test is usually completed within a few minutes in a sleeping or calm baby.",
+    "Passing the screening does not mean that hearing will stay normal for life.",
+    "Because of causes such as cytomegalovirus infection, loss can appear later or progress."
+   ]
+  },
+  {
+   "id": "hedefler",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The 1-3-6 and 1-2-3 goals",
+   "baslik": "Early detection *goals*",
+   "sutunlar": [
+    "Step",
+    "1-3-6 goal",
+    "1-2-3 goal"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Screening",
+      "By 1 month",
+      "By 1 month"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Diagnosis",
+      "By 3 months",
+      "By 2 months"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Intervention",
+      "By 6 months",
+      "By 3 months"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Early hearing detection and intervention programs, or EHDI, work with measurable time goals.",
+    "These goals are set by the Joint Committee on Infant Hearing, or JCIH.",
+    {
+     "yazi": "For many years JCIH recommended the 1-3-6 goal: screening is completed within the first month.",
+     "ses": "For many years JCIH recommended the one, three, six goal: screening is completed within the first month."
+    },
+    {
+     "yazi": "Diagnosis is made by the end of month 3.",
+     "ses": "Diagnosis is made by the end of the third month."
+    },
+    {
+     "yazi": "Intervention begins by the end of month 6.",
+     "ses": "Intervention begins by the end of the sixth month."
+    },
+    {
+     "yazi": "The JCIH 2019 position statement proposed a more ambitious 1-2-3 goal for programs that had met this goal.",
+     "ses": "The JCIH 2019 position statement proposed a more ambitious one, two, three goal for programs that had met this goal."
+    },
+    {
+     "yazi": "Under this goal, screening is done by 1 month, diagnosis by 2 months and intervention by 3 months.",
+     "ses": "Under this goal, screening is done by one month, diagnosis by two months and intervention by three months."
+    },
+    "Here, intervention means starting appropriate device fitting and early intervention services for the family."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The 1-3-6 and 1-2-3 goals",
+   "baslik": "Program *components*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "Screening",
+     "metin": "Rescreening if needed",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Diagnosis",
+     "metin": "Diagnostic audiological evaluation",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Early intervention",
+     "metin": "Devices, education, family support",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Tracking and data",
+     "metin": "Links the steps together",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "A screening program is more than a test; the first link is screening and, if needed, rescreening.",
+    "The second link is the diagnostic audiological evaluation of babies who did not pass.",
+    "The third link is early intervention, covering device fitting, education and family support.",
+    "A tracking and data system that links all these steps is also needed.",
+    "This is because some babies who do not pass never reach the diagnostic step; this is called loss to follow-up.",
+    {
+     "yazi": "As a quality indicator, the goal is for at least 95 percent of babies to be screened within the first month."
+    },
+    {
+     "yazi": "The proportion of babies referred for diagnosis is also usually expected to stay below 4 percent."
+    }
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Screening tests",
+   "baslik": "*Screening* with otoacoustic emissions",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "stimulus (click)",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "cochlear response",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Outer hair cell function",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Quick and easy",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Does not assess the neural pathway",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Two main tests are used in newborn screening; the first is the otoacoustic emission, or OAE, test.",
+    "A small probe placed in the ear canal sends brief sound stimuli.",
+    "In a healthy cochlea, the outer hair cells produce a weak acoustic response that can be measured in the ear canal.",
+    "The test is quick, low cost and easy to perform, so it is often preferred for healthy babies.",
+    "However, if there is fluid in the middle ear or birth debris, called vernix, in the ear canal, no response may be obtained.",
+    "Also, OAE does not assess the auditory nerve or the brainstem."
+   ]
+  },
+  {
+   "id": "aabr",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Screening tests",
+   "baslik": "Screening with automated *ABR*",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "wave V",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Pathway up to the brainstem",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Automatic pass or refer",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Recommended in intensive care",
+     "cumle": 5,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "The second test is the automated auditory brainstem response, or AABR, test.",
+    "Electrodes placed on the baby's head record the brainstem's electrical response to sound.",
+    {
+     "yazi": "The device statistically searches for a response resembling wave V in particular.",
+     "ses": "The device statistically searches for a response resembling wave five in particular."
+    },
+    {
+     "yazi": "The stimulus is usually at 35 dB nHL; if there is no response at this level, the result is refer.",
+     "ses": "The stimulus is usually at thirty five decibels N.H.L; if there is no response at this level, the result is refer."
+    },
+    "The result is given automatically as pass or refer, without needing expert interpretation.",
+    "Because AABR also covers the auditory nerve and brainstem pathway, it is recommended for intensive care babies.",
+    "This is because auditory neuropathy, which OAE cannot detect, is more common in these babies."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Refer rates with OAE are higher in the first 24 hours. Keep the baby calm and fed; check that the probe fits well.",
+   "cumleler": [
+    "A tip from the field: in the first 24 hours after birth, the refer rate with OAE is higher.",
+    "This is often due to vernix in the ear canal and middle ear fluid that has not yet cleared.",
+    "If possible, screen after a feed, while the baby is asleep and the room is quiet.",
+    "Checking that the probe tip fits well in the ear canal reduces unnecessary refer results.",
+    "Explain a refer result to the family as a need for further testing, not as hearing loss."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Screening in Türkiye",
+   "baslik": "A national *screening program*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "National program",
+     "metin": "Ministry of Health",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "First screening",
+     "metin": "Before discharge",
+     "cumle": 2
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Rescreening",
+     "metin": "For babies who did not pass",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Diagnosis",
+     "metin": "In audiology units",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Records and tracking",
+     "metin": "Reduces loss to follow-up",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In Türkiye, newborn hearing screening is run under the Ministry of Health's national newborn hearing screening program.",
+    {
+     "yazi": "The program was launched in 2004 and gradually expanded to birthing hospitals across the country."
+    },
+    "Babies are usually screened after birth, before being discharged from hospital.",
+    "Babies who do not pass the first screening are rescreened within a short time.",
+    "Babies who also do not pass the rescreening are referred to audiology units for diagnostic evaluation.",
+    "Recording the results is a critical step in reducing loss to follow-up.",
+    "The World Health Organization's 2021 World Report on Hearing also recommends newborn hearing screening for all countries."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Screening in Türkiye",
+   "baslik": "What does the result *mean?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Pass",
+     "metin": "A response at screening level",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Refer",
+     "metin": "Not a diagnosis; further evaluation",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "A pass result shows that the baby responded at the screening level.",
+    "Even so, the family should keep watching the baby's reactions to sound and language development.",
+    "Babies with risk factors are called back for audiological checks at set intervals, even if they passed the screening.",
+    "A refer result, on the other hand, is not a diagnosis of hearing loss; it only says that further evaluation is needed.",
+    "The diagnostic evaluation of these babies should be completed within the first months, in line with the goals.",
+    "The family attending the appointment on time is one of the most important factors in the program's success."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Congenital loss: 1 to 3 per 1000",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Risk-based screening misses about half",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Goal 1-3-6, newer proposal 1-2-3",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Screening is not diagnosis; follow-up is essential",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that congenital hearing loss is common and goes unnoticed at birth.",
+    "Screening based only on risk factors misses about half of losses.",
+    {
+     "yazi": "The 1-3-6 goal is used for early detection, and the current proposal uses the 1-2-3 goal.",
+     "ses": "The one, three, six goal is used for early detection, and the current proposal uses the one, two, three goal."
+    },
+    "Screening does not diagnose; real success is the complete follow-up of babies who do not pass."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Under the JCIH 2019 1-2-3 goal, diagnosis should be made by when?",
+   "secenekler": [
+    "By the end of month 1",
+    "By the end of month 2",
+    "By the end of month 3",
+    "By the end of month 6"
+   ],
+   "dogru": 1,
+   "aciklama": "1-2-3: screening 1 month, _diagnosis 2 months_, intervention 3 months.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: under the JCIH 2019 1-2-3 goal, by the end of which month should diagnosis be made?",
+     "ses": "Test yourself: under the JCIH 2019 one, two, three goal, by the end of which month should diagnosis be made?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: diagnosis should be made by the end of the second month.",
+    "Screening is completed in the first month, and intervention begins by the end of the third month."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Screening Protocols: OAE, AABR and *Two-Stage*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will examine well-baby and intensive care screening protocols, with pass and refer decisions.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

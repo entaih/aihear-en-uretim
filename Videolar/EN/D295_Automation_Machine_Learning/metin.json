@@ -1,0 +1,725 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D295_Automation_Machine_Learning_EN",
+ "kapak": {
+  "ust": "LESSON 295",
+  "baslik": "Automation and<br>*machine learning*",
+  "alt": "Automated audiometry and decision support",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Automation and Machine Learning in Audiology | Lesson 295 | AIHEAR Audiology Academy",
+  "aciklama": "How reliable is automated audiometry, and what can machine learning do in audiology? In this lesson we learn how automated audiometry works and its quality indicators, audiogram classification with machine learning, how a model is evaluated, the limitations, and clinical responsibility.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Mahomed F, Swanepoel DW, Eikelboom RH, Soer M. Validity of automated threshold audiometry: a systematic review and meta-analysis. Ear and Hearing (2013); Margolis RH et al. Qualind: a method for assessing the accuracy of automated tests. Journal of the American Academy of Audiology (2007); Song XD et al. Fast, continuous audiogram estimation using machine learning. Ear and Hearing (2015); Crowson MG et al. AutoAudio: deep learning for automatic audiogram interpretation. Journal of Medical Systems (2020).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "machinelearning",
+   "automatedaudiometry"
+  ],
+  "etiketler": [
+   "automated audiometry",
+   "machine learning",
+   "clinical decision support",
+   "audiogram classification",
+   "quality indicators",
+   "false alarm rate",
+   "external validation",
+   "ROC curve",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 295",
+   "baslik": "Automation and *machine learning*",
+   "alt": "Automated audiometry, decision support, responsibility",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about automated audiometry, its accuracy and its quality indicators.",
+    "Then we will cover audiogram classification with machine learning, clinical decision support, limitations and clinical responsibility."
+   ]
+  },
+  {
+   "id": "tarih",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Automated audiometry",
+   "baslik": "A *short history* of automation",
+   "adimlar": [
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "1947",
+     "metin": "Patient-controlled tracing",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Computers",
+     "metin": "Rule-based testing",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Tablets",
+     "metin": "Screening and remote areas",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Machine learning",
+     "metin": "Methods that learn from data",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Automation is not new: in 1947, Békésy described an automatic recording audiometer in which the patient presses and releases a button.",
+     "ses": "Automation is not new: in nineteen forty seven, Békésy described an automatic recording audiometer in which the patient presses and releases a button."
+    },
+    "As computers spread, rule-based automated tests were developed that mimic the clinician's threshold-seeking steps.",
+    "In recent years, tablet or computer-based systems with calibrated earphones have come into use for screening and in remote areas.",
+    "Today, machine learning methods that learn patterns from large data sets are being added to these.",
+    "In this lesson we first cover automated testing, then machine learning, and finally the limits they share."
+   ]
+  },
+  {
+   "id": "nasil",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Automated audiometry",
+   "baslik": "*How* does automated audiometry work?",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Algorithm",
+     "metin": "Predefined steps",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Patient response",
+     "metin": "Button or tap",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Timing",
+     "metin": "Random intervals",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Consistency",
+     "metin": "False alarm control",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Output",
+     "metin": "Thresholds and warnings",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Automated audiometry is a test in which an algorithm carries out the threshold-seeking steps.",
+    "A tone is presented, the patient presses a button or taps the screen, and the algorithm chooses the next level based on the response.",
+    "Intervals between stimuli are kept random, which makes it harder for the patient to guess a rhythm.",
+    "Button presses with no sound, or false alarms, are counted, and the consistency of responses is monitored.",
+    "At the end, along with thresholds, warnings are produced for conditions that may affect the reliability of the result.",
+    "Some systems decide the need for masking by rules and also measure bone conduction."
+   ]
+  },
+  {
+   "id": "dogruluk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Automated audiometry",
+   "baslik": "Accuracy: *what do we know?*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Air conduction",
+     "metin": "Similar to manual testing",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Bone conduction",
+     "metin": "More limited evidence",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Difficult groups",
+     "metin": "Children, cognitive problems",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Environment",
+     "metin": "Noise distorts results",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A 2013 systematic review found that automated and manual air conduction thresholds differed about as much as manual retests.",
+     "ses": "A twenty thirteen systematic review found that automated and manual air conduction thresholds differed about as much as manual retests."
+    },
+    "So in the right patient and the right setting, automated air conduction thresholds are generally reliable.",
+    "For bone conduction and measurements needing masking, validation studies are more limited.",
+    "Evidence is scarce for young children, people with cognitive difficulties and hard-to-test patients; these groups need a clinician.",
+    "Background noise distorts automated results too, so noise monitoring and calibration are essential.",
+    "In short, an automated test is a tool; where and with whom it is used is a clinical decision."
+   ]
+  },
+  {
+   "id": "kalite",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Automated audiometry",
+   "baslik": "Quality *indicators*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "False alarms",
+     "metin": "Pressing in silence",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Response time",
+     "metin": "Too slow or fast",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Test-retest difference",
+     "metin": "Consistency at one frequency",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Background noise",
+     "metin": "Limit exceeded?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Masking",
+     "metin": "Needed, and done?",
+     "cumle": 4
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Pattern",
+     "metin": "Unexpected air-bone gap",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Quality indicators are used to judge the reliability of an automated test; the most basic is the false alarm rate.",
+    "Very long or highly variable response times may point to an attention problem or a misunderstanding of the task.",
+    "A large difference when a frequency is measured again lowers the reliability of the result.",
+    "If background noise measured during the test exceeded the limit, that result is flagged.",
+    "If masking was needed but could not be done, the system should report it.",
+    "Margolis and colleagues described a method that combines such indicators to estimate the accuracy of an automated test."
+   ]
+  },
+  {
+   "id": "arti_eksi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Automated audiometry",
+   "baslik": "Advantages and *limits*",
+   "cizim": "odyometre",
+   "vurgula": [
+    {
+     "parca": "cihaz",
+     "cumle": 0
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Standard and repeatable",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Saves clinician time",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Cannot observe the patient",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "The main advantage of automated testing is standardization: the same rules apply to every patient.",
+    "The clinician's time can go to complex cases, counseling and rehabilitation.",
+    "In remote areas, screening and basic tests can be done with a trained assistant.",
+    "On the other hand, the algorithm cannot see the patient's face, attention or confusion.",
+    "Functional hearing loss, inconsistent responses or an unexpected finding call for review by an experienced eye.",
+    "This is why automated results are not used for diagnostic decisions without review by an audiologist."
+   ]
+  },
+  {
+   "id": "ml",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Machine learning",
+   "baslik": "What is *machine learning?*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Data",
+     "metin": "Many examples",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Label",
+     "metin": "The expert's answer",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Model",
+     "metin": "Learns the pattern",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Test",
+     "metin": "Tried on new data",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Machine learning is when an algorithm learns patterns from examples, without the rules being written out explicitly.",
+    "First, many examples are needed: for instance, thousands of audiograms.",
+    "In supervised learning, each example gets the expert's correct answer, a label: such as conductive, sensorineural or mixed.",
+    "From these examples, the algorithm learns the relationship between inputs and labels and builds a model.",
+    "The model is tested on new data it never saw during training; this is the real measure of success.",
+    "In unsupervised learning there are no labels; the algorithm groups similar audiograms on its own."
+   ]
+  },
+  {
+   "id": "siniflama",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Machine learning",
+   "baslik": "Example: audiogram *classification*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Data collection",
+     "metin": "Audiograms and labels",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Training",
+     "metin": "Model learns patterns",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Internal test",
+     "metin": "Held-out data",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "External validation",
+     "metin": "Another center's data",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Clinical use",
+     "metin": "Decision support",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In audiogram classification studies, thousands of audiograms are first collected with type and degree labels set by experts.",
+    "The model is trained on part of these data.",
+    "It is tested on a held-out part, and its agreement with expert labels is measured.",
+    "The truly important step is external validation: does the model also work on data from another center and other equipment?",
+    "Only after these steps can the model enter the clinic as decision support.",
+    "Published studies report that such models can agree closely with expert classification, but results depend on the data."
+   ]
+  },
+  {
+   "id": "alanlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Machine learning",
+   "baslik": "Application *areas*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiogram classification",
+     "metin": "Type, degree, configuration",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Fast thresholds",
+     "metin": "With fewer stimuli",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Response detection",
+     "metin": "ABR and OAE",
+     "cumle": 2
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy images",
+     "metin": "Image classification",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aids",
+     "metin": "Scene recognition, settings",
+     "cumle": 4
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Triage",
+     "metin": "Who comes first?",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Audiogram classification aims to identify the type, degree and configuration of a loss automatically.",
+    "Some methods aim to estimate thresholds with fewer presentations by choosing the next stimulus through probability calculations.",
+    "Algorithms are used to detect whether a response is present in evoked potential and otoacoustic emission recordings.",
+    "Models that classify otoscopy images for findings such as earwax, effusion or perforation are being researched.",
+    "Many hearing aids use classifiers that recognize whether the environment is speech, noise or music.",
+    "Prioritizing results in screening programs is another possible use.",
+    "Most of these areas are still at the research or early adoption stage; each must be validated on its own."
+   ]
+  },
+  {
+   "id": "roc",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Machine learning",
+   "baslik": "How is a model *evaluated?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "False positive rate (1 - specificity)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Sensitivity"
+    },
+    "seriler": [
+     {
+      "ad": "model",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.02,
+        0.35
+       ],
+       [
+        0.05,
+        0.55
+       ],
+       [
+        0.1,
+        0.72
+       ],
+       [
+        0.2,
+        0.85
+       ],
+       [
+        0.35,
+        0.93
+       ],
+       [
+        0.6,
+        0.98
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "example model",
+      "cumle": 1
+     },
+     {
+      "ad": "sans",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "chance",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [],
+    "isaretler": [
+     {
+      "ad": "kesme",
+      "x": 0.1,
+      "y": 0.72,
+      "etiket": "cutoff point",
+      "dus": "xy",
+      "cumle": 4
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "model",
+     "metin": "example model",
+     "cumle": 1
+    },
+    {
+     "parca": "sans",
+     "metin": "chance level",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kesme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A classification model is evaluated with measures we saw in the statistics lessons: sensitivity and specificity.",
+    "The curve on screen is a teaching example showing how sensitivity and the false positive rate change as the cutoff point moves.",
+    "The dashed diagonal line is chance level; the closer the curve gets to the top left corner, the better the model discriminates.",
+    {
+     "yazi": "The area under the curve, or AUC, sums up the model's overall discrimination in a single number.",
+     "ses": "The area under the curve, or A U C, sums up the model's overall discrimination in a single number."
+    },
+    "But a high area alone is not enough; clinically, we must ask how many patients will be missed at the chosen cutoff.",
+    "For a screening model, the cost of a missed patient is high, so sensitivity comes first."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Limits and responsibility",
+   "baslik": "The *limits* of machine learning",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Data bias",
+     "metin": "Whose data trained it?",
+     "cumle": 0
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Generalizability",
+     "metin": "Works at another center?",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Explainability",
+     "metin": "Why this decision?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Overfitting",
+     "metin": "Good in training, weak in practice",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Privacy",
+     "metin": "Health data protected",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Currency",
+     "metin": "Conditions change",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A model works well for patients who resemble the people in its training data; if an age or language group is missing, it may err there.",
+    "A model trained with one center's equipment and protocol may perform worse at another center.",
+    "Some models cannot explain how they reach a decision, which makes it hard for the clinician to verify the suggestion.",
+    "A model that memorizes its training data, or overfits, performs worse than expected on new patients.",
+    {
+     "yazi": "Health data used for training must be protected, in Türkiye under the Personal Data Protection Law (KVKK), and anonymized when possible.",
+     "ses": "Health data used for training must be protected, in Türkiye under the Personal Data Protection Law (K V K K), and anonymized when possible."
+    },
+    "As devices, populations and clinical practice change, model performance may change over time and must be monitored."
+   ]
+  },
+  {
+   "id": "sorumluluk",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Limits and responsibility",
+   "baslik": "Clinical *responsibility*",
+   "adimlar": [
+    {
+     "ikon": "yazilim",
+     "baslik": "Suggestion",
+     "metin": "Algorithm suggests",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Verification",
+     "metin": "Audiologist evaluates",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Explanation",
+     "metin": "Told to the patient",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Documentation",
+     "metin": "Method and decision",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Regulation",
+     "metin": "Software is a device too",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Clinical decision support systems offer suggestions; they do not make the decision.",
+    "It is the audiologist's job to weigh the suggestion together with the patient's history, examination and other test results.",
+    "The patient is told clearly how the result was obtained, including whether an automated test or an algorithm was used.",
+    "The report states clearly the method used and the audiologist's final assessment.",
+    "Software used for medical purposes may fall under medical device regulations, so the suitability of the tool is also questioned.",
+    "Responsibility cannot be handed to an algorithm: whoever signs is accountable to the patient and for the report."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical alert",
+   "metin": "Before approving an automated audiogram, check the quality warnings, the false alarm count and the otoscopy note; if in doubt, test manually.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: before approving an automated audiogram, look not only at the thresholds but also at the quality warnings.",
+    "If the false alarm count is high, the noise limit was exceeded, or there is a masking warning, do not consider the result reliable.",
+    "Compare the otoscopy note and the patient's complaint with the audiogram.",
+    "If in doubt, retest the relevant frequencies manually; these few minutes prevent a wrong report."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Automated air conduction: reliable when suitable",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Quality indicators: false alarms, noise",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Machine learning: data, labels, validation",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Algorithm suggests, audiologist decides",
+     "cumle": 3,
+     "ikon": "odyolog"
+    }
+   ],
+   "cumleler": [
+    "Automated air conduction audiometry matches manual thresholds in suitable patients and settings; evidence is limited in hard groups.",
+    "Quality indicators such as false alarms, response time, test-retest difference and background noise show the reliability of a result.",
+    "Machine learning models learn from labeled data; external validation, bias and explainability must always be questioned.",
+    "Clinical decision support offers suggestions; the final assessment and the responsibility belong to the audiologist."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "The most important validation step?",
+   "secenekler": [
+    "High accuracy on training data",
+    "Testing on another center's data",
+    "More parameters",
+    "A faster computer"
+   ],
+   "dogru": 1,
+   "aciklama": "External validation shows the model also works _with other patients and equipment_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which is the most important validation step before an audiogram classification model enters the clinic?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: testing the model on another center's data, that is, external validation.",
+    "High accuracy on training data can hide overfitting; real performance shows up on new, independent data."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Hidden Hearing Loss and *Synaptopathy*: The Evidence",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will look at the current evidence on hidden hearing loss and cochlear synaptopathy.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

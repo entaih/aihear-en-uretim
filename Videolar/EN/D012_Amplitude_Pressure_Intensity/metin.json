@@ -1,0 +1,3353 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D012_Amplitude_Pressure_Intensity_EN",
+ "kapak": {
+  "ust": "LESSON 12",
+  "baslik": "Pressure and<br>*intensity*",
+  "alt": "Amplitude, pascal and the inverse square law",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 4,
+    "isaretler": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "ad": "Distance (m)"
+   },
+   "y": {
+    "min": 0,
+    "max": 1.6,
+    "adim": 0.5,
+    "ond": 1,
+    "ad": "Intensity (ratio)"
+   },
+   "seriler": [
+    {
+     "ad": "siddet",
+     "noktalar": [
+      [
+       0.8,
+       1.5625
+      ],
+      [
+       0.9,
+       1.2346
+      ],
+      [
+       1.0,
+       1.0
+      ],
+      [
+       1.1,
+       0.8264
+      ],
+      [
+       1.2,
+       0.6944
+      ],
+      [
+       1.3,
+       0.5917
+      ],
+      [
+       1.4,
+       0.5102
+      ],
+      [
+       1.5,
+       0.4444
+      ],
+      [
+       1.6,
+       0.3906
+      ],
+      [
+       1.7,
+       0.346
+      ],
+      [
+       1.8,
+       0.3086
+      ],
+      [
+       1.9,
+       0.277
+      ],
+      [
+       2.0,
+       0.25
+      ],
+      [
+       2.1,
+       0.2268
+      ],
+      [
+       2.2,
+       0.2066
+      ],
+      [
+       2.3,
+       0.189
+      ],
+      [
+       2.4,
+       0.1736
+      ],
+      [
+       2.5,
+       0.16
+      ],
+      [
+       2.6,
+       0.1479
+      ],
+      [
+       2.7,
+       0.1372
+      ],
+      [
+       2.8,
+       0.1276
+      ],
+      [
+       2.9,
+       0.1189
+      ],
+      [
+       3.0,
+       0.1111
+      ],
+      [
+       3.1,
+       0.1041
+      ],
+      [
+       3.2,
+       0.0977
+      ],
+      [
+       3.3,
+       0.0918
+      ],
+      [
+       3.4,
+       0.0865
+      ],
+      [
+       3.5,
+       0.0816
+      ],
+      [
+       3.6,
+       0.0772
+      ],
+      [
+       3.7,
+       0.073
+      ],
+      [
+       3.8,
+       0.0693
+      ],
+      [
+       3.9,
+       0.0657
+      ],
+      [
+       4.0,
+       0.0625
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Amplitude, Sound Pressure and Intensity | Lesson 12 | AIHEAR Audiology Academy",
+  "aciklama": "We explain amplitude, peak and effective (RMS) values, sound pressure in pascals and intensity in watts per square meter. With examples, we see that intensity is proportional to the square of pressure, and how sound weakens with distance according to the inverse square law.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "soundphysics",
+   "acoustics"
+  ],
+  "etiketler": [
+   "amplitude",
+   "sound pressure",
+   "intensity",
+   "pascal",
+   "RMS",
+   "inverse square law",
+   "acoustic power",
+   "loudness",
+   "sound physics",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 12",
+   "baslik": "Amplitude, pressure and *intensity*",
+   "alt": "Measuring the strength of sound and the inverse square law",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the concepts that describe how strong a sound is: amplitude, sound pressure and intensity.",
+    "We will see the square relationship between intensity and pressure, and why sound weakens with distance: the inverse square law."
+   ]
+  },
+  {
+   "id": "genlik",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Amplitude",
+   "baslik": "Amplitude: *the size of the oscillation*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 2,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Time (ms)"
+    },
+    "y": {
+     "min": -1.3,
+     "max": 1.3,
+     "isaretler": [
+      -1,
+      0,
+      1
+     ],
+     "ad": "Pressure (relative)"
+    },
+    "seriler": [
+     {
+      "ad": "dalga",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.0125,
+        0.0785
+       ],
+       [
+        0.025,
+        0.1564
+       ],
+       [
+        0.0375,
+        0.2334
+       ],
+       [
+        0.05,
+        0.309
+       ],
+       [
+        0.0625,
+        0.3827
+       ],
+       [
+        0.075,
+        0.454
+       ],
+       [
+        0.0875,
+        0.5225
+       ],
+       [
+        0.1,
+        0.5878
+       ],
+       [
+        0.1125,
+        0.6494
+       ],
+       [
+        0.125,
+        0.7071
+       ],
+       [
+        0.1375,
+        0.7604
+       ],
+       [
+        0.15,
+        0.809
+       ],
+       [
+        0.1625,
+        0.8526
+       ],
+       [
+        0.175,
+        0.891
+       ],
+       [
+        0.1875,
+        0.9239
+       ],
+       [
+        0.2,
+        0.9511
+       ],
+       [
+        0.2125,
+        0.9724
+       ],
+       [
+        0.225,
+        0.9877
+       ],
+       [
+        0.2375,
+        0.9969
+       ],
+       [
+        0.25,
+        1.0
+       ],
+       [
+        0.2625,
+        0.9969
+       ],
+       [
+        0.275,
+        0.9877
+       ],
+       [
+        0.2875,
+        0.9724
+       ],
+       [
+        0.3,
+        0.9511
+       ],
+       [
+        0.3125,
+        0.9239
+       ],
+       [
+        0.325,
+        0.891
+       ],
+       [
+        0.3375,
+        0.8526
+       ],
+       [
+        0.35,
+        0.809
+       ],
+       [
+        0.3625,
+        0.7604
+       ],
+       [
+        0.375,
+        0.7071
+       ],
+       [
+        0.3875,
+        0.6494
+       ],
+       [
+        0.4,
+        0.5878
+       ],
+       [
+        0.4125,
+        0.5225
+       ],
+       [
+        0.425,
+        0.454
+       ],
+       [
+        0.4375,
+        0.3827
+       ],
+       [
+        0.45,
+        0.309
+       ],
+       [
+        0.4625,
+        0.2334
+       ],
+       [
+        0.475,
+        0.1564
+       ],
+       [
+        0.4875,
+        0.0785
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.5125,
+        -0.0785
+       ],
+       [
+        0.525,
+        -0.1564
+       ],
+       [
+        0.5375,
+        -0.2334
+       ],
+       [
+        0.55,
+        -0.309
+       ],
+       [
+        0.5625,
+        -0.3827
+       ],
+       [
+        0.575,
+        -0.454
+       ],
+       [
+        0.5875,
+        -0.5225
+       ],
+       [
+        0.6,
+        -0.5878
+       ],
+       [
+        0.6125,
+        -0.6494
+       ],
+       [
+        0.625,
+        -0.7071
+       ],
+       [
+        0.6375,
+        -0.7604
+       ],
+       [
+        0.65,
+        -0.809
+       ],
+       [
+        0.6625,
+        -0.8526
+       ],
+       [
+        0.675,
+        -0.891
+       ],
+       [
+        0.6875,
+        -0.9239
+       ],
+       [
+        0.7,
+        -0.9511
+       ],
+       [
+        0.7125,
+        -0.9724
+       ],
+       [
+        0.725,
+        -0.9877
+       ],
+       [
+        0.7375,
+        -0.9969
+       ],
+       [
+        0.75,
+        -1.0
+       ],
+       [
+        0.7625,
+        -0.9969
+       ],
+       [
+        0.775,
+        -0.9877
+       ],
+       [
+        0.7875,
+        -0.9724
+       ],
+       [
+        0.8,
+        -0.9511
+       ],
+       [
+        0.8125,
+        -0.9239
+       ],
+       [
+        0.825,
+        -0.891
+       ],
+       [
+        0.8375,
+        -0.8526
+       ],
+       [
+        0.85,
+        -0.809
+       ],
+       [
+        0.8625,
+        -0.7604
+       ],
+       [
+        0.875,
+        -0.7071
+       ],
+       [
+        0.8875,
+        -0.6494
+       ],
+       [
+        0.9,
+        -0.5878
+       ],
+       [
+        0.9125,
+        -0.5225
+       ],
+       [
+        0.925,
+        -0.454
+       ],
+       [
+        0.9375,
+        -0.3827
+       ],
+       [
+        0.95,
+        -0.309
+       ],
+       [
+        0.9625,
+        -0.2334
+       ],
+       [
+        0.975,
+        -0.1564
+       ],
+       [
+        0.9875,
+        -0.0785
+       ],
+       [
+        1.0,
+        -0.0
+       ],
+       [
+        1.0125,
+        0.0785
+       ],
+       [
+        1.025,
+        0.1564
+       ],
+       [
+        1.0375,
+        0.2334
+       ],
+       [
+        1.05,
+        0.309
+       ],
+       [
+        1.0625,
+        0.3827
+       ],
+       [
+        1.075,
+        0.454
+       ],
+       [
+        1.0875,
+        0.5225
+       ],
+       [
+        1.1,
+        0.5878
+       ],
+       [
+        1.1125,
+        0.6494
+       ],
+       [
+        1.125,
+        0.7071
+       ],
+       [
+        1.1375,
+        0.7604
+       ],
+       [
+        1.15,
+        0.809
+       ],
+       [
+        1.1625,
+        0.8526
+       ],
+       [
+        1.175,
+        0.891
+       ],
+       [
+        1.1875,
+        0.9239
+       ],
+       [
+        1.2,
+        0.9511
+       ],
+       [
+        1.2125,
+        0.9724
+       ],
+       [
+        1.225,
+        0.9877
+       ],
+       [
+        1.2375,
+        0.9969
+       ],
+       [
+        1.25,
+        1.0
+       ],
+       [
+        1.2625,
+        0.9969
+       ],
+       [
+        1.275,
+        0.9877
+       ],
+       [
+        1.2875,
+        0.9724
+       ],
+       [
+        1.3,
+        0.9511
+       ],
+       [
+        1.3125,
+        0.9239
+       ],
+       [
+        1.325,
+        0.891
+       ],
+       [
+        1.3375,
+        0.8526
+       ],
+       [
+        1.35,
+        0.809
+       ],
+       [
+        1.3625,
+        0.7604
+       ],
+       [
+        1.375,
+        0.7071
+       ],
+       [
+        1.3875,
+        0.6494
+       ],
+       [
+        1.4,
+        0.5878
+       ],
+       [
+        1.4125,
+        0.5225
+       ],
+       [
+        1.425,
+        0.454
+       ],
+       [
+        1.4375,
+        0.3827
+       ],
+       [
+        1.45,
+        0.309
+       ],
+       [
+        1.4625,
+        0.2334
+       ],
+       [
+        1.475,
+        0.1564
+       ],
+       [
+        1.4875,
+        0.0785
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.5125,
+        -0.0785
+       ],
+       [
+        1.525,
+        -0.1564
+       ],
+       [
+        1.5375,
+        -0.2334
+       ],
+       [
+        1.55,
+        -0.309
+       ],
+       [
+        1.5625,
+        -0.3827
+       ],
+       [
+        1.575,
+        -0.454
+       ],
+       [
+        1.5875,
+        -0.5225
+       ],
+       [
+        1.6,
+        -0.5878
+       ],
+       [
+        1.6125,
+        -0.6494
+       ],
+       [
+        1.625,
+        -0.7071
+       ],
+       [
+        1.6375,
+        -0.7604
+       ],
+       [
+        1.65,
+        -0.809
+       ],
+       [
+        1.6625,
+        -0.8526
+       ],
+       [
+        1.675,
+        -0.891
+       ],
+       [
+        1.6875,
+        -0.9239
+       ],
+       [
+        1.7,
+        -0.9511
+       ],
+       [
+        1.7125,
+        -0.9724
+       ],
+       [
+        1.725,
+        -0.9877
+       ],
+       [
+        1.7375,
+        -0.9969
+       ],
+       [
+        1.75,
+        -1.0
+       ],
+       [
+        1.7625,
+        -0.9969
+       ],
+       [
+        1.775,
+        -0.9877
+       ],
+       [
+        1.7875,
+        -0.9724
+       ],
+       [
+        1.8,
+        -0.9511
+       ],
+       [
+        1.8125,
+        -0.9239
+       ],
+       [
+        1.825,
+        -0.891
+       ],
+       [
+        1.8375,
+        -0.8526
+       ],
+       [
+        1.85,
+        -0.809
+       ],
+       [
+        1.8625,
+        -0.7604
+       ],
+       [
+        1.875,
+        -0.7071
+       ],
+       [
+        1.8875,
+        -0.6494
+       ],
+       [
+        1.9,
+        -0.5878
+       ],
+       [
+        1.9125,
+        -0.5225
+       ],
+       [
+        1.925,
+        -0.454
+       ],
+       [
+        1.9375,
+        -0.3827
+       ],
+       [
+        1.95,
+        -0.309
+       ],
+       [
+        1.9625,
+        -0.2334
+       ],
+       [
+        1.975,
+        -0.1564
+       ],
+       [
+        1.9875,
+        -0.0785
+       ],
+       [
+        2.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 0
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "tepe",
+      "xk": 0.25,
+      "y": [
+       0,
+       1
+      ],
+      "etiket": "peak",
+      "renk": "lacivert",
+      "cumle": 2
+     },
+     {
+      "ad": "tepeden_tepeye",
+      "xk": 1.75,
+      "y": [
+       -1,
+       1
+      ],
+      "etiket": "peak to peak",
+      "etiket_sol": true,
+      "renk": "sari",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "rms",
+      "x": 1.0,
+      "y": 0.707,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "yesil",
+      "etiket": "effective value (RMS)",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Amplitude shows how far an oscillation moves away from its rest position.",
+    "For sound, we can think of amplitude in two ways: the displacement of molecules and the pressure change that goes with it.",
+    "On the pressure curve, the value from the zero line to the highest point is called the peak amplitude.",
+    "The value from the highest point to the lowest point is the peak-to-peak amplitude, which is twice the peak amplitude.",
+    "The value used most often in measurements is the effective value, or RMS value, which stands for root mean square.",
+    "For a pure tone, the effective value is about point seven zero seven times the peak amplitude.",
+    "The effective value best reflects the energy a sound carries; when we say sound pressure, we usually mean this value."
+   ]
+  },
+  {
+   "id": "bagimsiz",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Amplitude",
+   "baslik": "Same frequency, *different amplitude*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "adim": 1,
+     "ad": "Time (ms)"
+    },
+    "y": {
+     "min": -1.3,
+     "max": 1.3,
+     "isaretler": [
+      -1,
+      0,
+      1
+     ],
+     "ad": "Pressure (relative)"
+    },
+    "seriler": [
+     {
+      "ad": "guclu",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.0167,
+        0.1045
+       ],
+       [
+        0.0333,
+        0.2079
+       ],
+       [
+        0.05,
+        0.309
+       ],
+       [
+        0.0667,
+        0.4067
+       ],
+       [
+        0.0833,
+        0.5
+       ],
+       [
+        0.1,
+        0.5878
+       ],
+       [
+        0.1167,
+        0.6691
+       ],
+       [
+        0.1333,
+        0.7431
+       ],
+       [
+        0.15,
+        0.809
+       ],
+       [
+        0.1667,
+        0.866
+       ],
+       [
+        0.1833,
+        0.9135
+       ],
+       [
+        0.2,
+        0.9511
+       ],
+       [
+        0.2167,
+        0.9781
+       ],
+       [
+        0.2333,
+        0.9945
+       ],
+       [
+        0.25,
+        1.0
+       ],
+       [
+        0.2667,
+        0.9945
+       ],
+       [
+        0.2833,
+        0.9781
+       ],
+       [
+        0.3,
+        0.9511
+       ],
+       [
+        0.3167,
+        0.9135
+       ],
+       [
+        0.3333,
+        0.866
+       ],
+       [
+        0.35,
+        0.809
+       ],
+       [
+        0.3667,
+        0.7431
+       ],
+       [
+        0.3833,
+        0.6691
+       ],
+       [
+        0.4,
+        0.5878
+       ],
+       [
+        0.4167,
+        0.5
+       ],
+       [
+        0.4333,
+        0.4067
+       ],
+       [
+        0.45,
+        0.309
+       ],
+       [
+        0.4667,
+        0.2079
+       ],
+       [
+        0.4833,
+        0.1045
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.5167,
+        -0.1045
+       ],
+       [
+        0.5333,
+        -0.2079
+       ],
+       [
+        0.55,
+        -0.309
+       ],
+       [
+        0.5667,
+        -0.4067
+       ],
+       [
+        0.5833,
+        -0.5
+       ],
+       [
+        0.6,
+        -0.5878
+       ],
+       [
+        0.6167,
+        -0.6691
+       ],
+       [
+        0.6333,
+        -0.7431
+       ],
+       [
+        0.65,
+        -0.809
+       ],
+       [
+        0.6667,
+        -0.866
+       ],
+       [
+        0.6833,
+        -0.9135
+       ],
+       [
+        0.7,
+        -0.9511
+       ],
+       [
+        0.7167,
+        -0.9781
+       ],
+       [
+        0.7333,
+        -0.9945
+       ],
+       [
+        0.75,
+        -1.0
+       ],
+       [
+        0.7667,
+        -0.9945
+       ],
+       [
+        0.7833,
+        -0.9781
+       ],
+       [
+        0.8,
+        -0.9511
+       ],
+       [
+        0.8167,
+        -0.9135
+       ],
+       [
+        0.8333,
+        -0.866
+       ],
+       [
+        0.85,
+        -0.809
+       ],
+       [
+        0.8667,
+        -0.7431
+       ],
+       [
+        0.8833,
+        -0.6691
+       ],
+       [
+        0.9,
+        -0.5878
+       ],
+       [
+        0.9167,
+        -0.5
+       ],
+       [
+        0.9333,
+        -0.4067
+       ],
+       [
+        0.95,
+        -0.309
+       ],
+       [
+        0.9667,
+        -0.2079
+       ],
+       [
+        0.9833,
+        -0.1045
+       ],
+       [
+        1.0,
+        -0.0
+       ],
+       [
+        1.0167,
+        0.1045
+       ],
+       [
+        1.0333,
+        0.2079
+       ],
+       [
+        1.05,
+        0.309
+       ],
+       [
+        1.0667,
+        0.4067
+       ],
+       [
+        1.0833,
+        0.5
+       ],
+       [
+        1.1,
+        0.5878
+       ],
+       [
+        1.1167,
+        0.6691
+       ],
+       [
+        1.1333,
+        0.7431
+       ],
+       [
+        1.15,
+        0.809
+       ],
+       [
+        1.1667,
+        0.866
+       ],
+       [
+        1.1833,
+        0.9135
+       ],
+       [
+        1.2,
+        0.9511
+       ],
+       [
+        1.2167,
+        0.9781
+       ],
+       [
+        1.2333,
+        0.9945
+       ],
+       [
+        1.25,
+        1.0
+       ],
+       [
+        1.2667,
+        0.9945
+       ],
+       [
+        1.2833,
+        0.9781
+       ],
+       [
+        1.3,
+        0.9511
+       ],
+       [
+        1.3167,
+        0.9135
+       ],
+       [
+        1.3333,
+        0.866
+       ],
+       [
+        1.35,
+        0.809
+       ],
+       [
+        1.3667,
+        0.7431
+       ],
+       [
+        1.3833,
+        0.6691
+       ],
+       [
+        1.4,
+        0.5878
+       ],
+       [
+        1.4167,
+        0.5
+       ],
+       [
+        1.4333,
+        0.4067
+       ],
+       [
+        1.45,
+        0.309
+       ],
+       [
+        1.4667,
+        0.2079
+       ],
+       [
+        1.4833,
+        0.1045
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.5167,
+        -0.1045
+       ],
+       [
+        1.5333,
+        -0.2079
+       ],
+       [
+        1.55,
+        -0.309
+       ],
+       [
+        1.5667,
+        -0.4067
+       ],
+       [
+        1.5833,
+        -0.5
+       ],
+       [
+        1.6,
+        -0.5878
+       ],
+       [
+        1.6167,
+        -0.6691
+       ],
+       [
+        1.6333,
+        -0.7431
+       ],
+       [
+        1.65,
+        -0.809
+       ],
+       [
+        1.6667,
+        -0.866
+       ],
+       [
+        1.6833,
+        -0.9135
+       ],
+       [
+        1.7,
+        -0.9511
+       ],
+       [
+        1.7167,
+        -0.9781
+       ],
+       [
+        1.7333,
+        -0.9945
+       ],
+       [
+        1.75,
+        -1.0
+       ],
+       [
+        1.7667,
+        -0.9945
+       ],
+       [
+        1.7833,
+        -0.9781
+       ],
+       [
+        1.8,
+        -0.9511
+       ],
+       [
+        1.8167,
+        -0.9135
+       ],
+       [
+        1.8333,
+        -0.866
+       ],
+       [
+        1.85,
+        -0.809
+       ],
+       [
+        1.8667,
+        -0.7431
+       ],
+       [
+        1.8833,
+        -0.6691
+       ],
+       [
+        1.9,
+        -0.5878
+       ],
+       [
+        1.9167,
+        -0.5
+       ],
+       [
+        1.9333,
+        -0.4067
+       ],
+       [
+        1.95,
+        -0.309
+       ],
+       [
+        1.9667,
+        -0.2079
+       ],
+       [
+        1.9833,
+        -0.1045
+       ],
+       [
+        2.0,
+        -0.0
+       ],
+       [
+        2.0167,
+        0.1045
+       ],
+       [
+        2.0333,
+        0.2079
+       ],
+       [
+        2.05,
+        0.309
+       ],
+       [
+        2.0667,
+        0.4067
+       ],
+       [
+        2.0833,
+        0.5
+       ],
+       [
+        2.1,
+        0.5878
+       ],
+       [
+        2.1167,
+        0.6691
+       ],
+       [
+        2.1333,
+        0.7431
+       ],
+       [
+        2.15,
+        0.809
+       ],
+       [
+        2.1667,
+        0.866
+       ],
+       [
+        2.1833,
+        0.9135
+       ],
+       [
+        2.2,
+        0.9511
+       ],
+       [
+        2.2167,
+        0.9781
+       ],
+       [
+        2.2333,
+        0.9945
+       ],
+       [
+        2.25,
+        1.0
+       ],
+       [
+        2.2667,
+        0.9945
+       ],
+       [
+        2.2833,
+        0.9781
+       ],
+       [
+        2.3,
+        0.9511
+       ],
+       [
+        2.3167,
+        0.9135
+       ],
+       [
+        2.3333,
+        0.866
+       ],
+       [
+        2.35,
+        0.809
+       ],
+       [
+        2.3667,
+        0.7431
+       ],
+       [
+        2.3833,
+        0.6691
+       ],
+       [
+        2.4,
+        0.5878
+       ],
+       [
+        2.4167,
+        0.5
+       ],
+       [
+        2.4333,
+        0.4067
+       ],
+       [
+        2.45,
+        0.309
+       ],
+       [
+        2.4667,
+        0.2079
+       ],
+       [
+        2.4833,
+        0.1045
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.5167,
+        -0.1045
+       ],
+       [
+        2.5333,
+        -0.2079
+       ],
+       [
+        2.55,
+        -0.309
+       ],
+       [
+        2.5667,
+        -0.4067
+       ],
+       [
+        2.5833,
+        -0.5
+       ],
+       [
+        2.6,
+        -0.5878
+       ],
+       [
+        2.6167,
+        -0.6691
+       ],
+       [
+        2.6333,
+        -0.7431
+       ],
+       [
+        2.65,
+        -0.809
+       ],
+       [
+        2.6667,
+        -0.866
+       ],
+       [
+        2.6833,
+        -0.9135
+       ],
+       [
+        2.7,
+        -0.9511
+       ],
+       [
+        2.7167,
+        -0.9781
+       ],
+       [
+        2.7333,
+        -0.9945
+       ],
+       [
+        2.75,
+        -1.0
+       ],
+       [
+        2.7667,
+        -0.9945
+       ],
+       [
+        2.7833,
+        -0.9781
+       ],
+       [
+        2.8,
+        -0.9511
+       ],
+       [
+        2.8167,
+        -0.9135
+       ],
+       [
+        2.8333,
+        -0.866
+       ],
+       [
+        2.85,
+        -0.809
+       ],
+       [
+        2.8667,
+        -0.7431
+       ],
+       [
+        2.8833,
+        -0.6691
+       ],
+       [
+        2.9,
+        -0.5878
+       ],
+       [
+        2.9167,
+        -0.5
+       ],
+       [
+        2.9333,
+        -0.4067
+       ],
+       [
+        2.95,
+        -0.309
+       ],
+       [
+        2.9667,
+        -0.2079
+       ],
+       [
+        2.9833,
+        -0.1045
+       ],
+       [
+        3.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "strong",
+      "etiket_konum": [
+       0.25,
+       1.0
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "zayif",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.0167,
+        0.0523
+       ],
+       [
+        0.0333,
+        0.104
+       ],
+       [
+        0.05,
+        0.1545
+       ],
+       [
+        0.0667,
+        0.2034
+       ],
+       [
+        0.0833,
+        0.25
+       ],
+       [
+        0.1,
+        0.2939
+       ],
+       [
+        0.1167,
+        0.3346
+       ],
+       [
+        0.1333,
+        0.3716
+       ],
+       [
+        0.15,
+        0.4045
+       ],
+       [
+        0.1667,
+        0.433
+       ],
+       [
+        0.1833,
+        0.4568
+       ],
+       [
+        0.2,
+        0.4755
+       ],
+       [
+        0.2167,
+        0.4891
+       ],
+       [
+        0.2333,
+        0.4973
+       ],
+       [
+        0.25,
+        0.5
+       ],
+       [
+        0.2667,
+        0.4973
+       ],
+       [
+        0.2833,
+        0.4891
+       ],
+       [
+        0.3,
+        0.4755
+       ],
+       [
+        0.3167,
+        0.4568
+       ],
+       [
+        0.3333,
+        0.433
+       ],
+       [
+        0.35,
+        0.4045
+       ],
+       [
+        0.3667,
+        0.3716
+       ],
+       [
+        0.3833,
+        0.3346
+       ],
+       [
+        0.4,
+        0.2939
+       ],
+       [
+        0.4167,
+        0.25
+       ],
+       [
+        0.4333,
+        0.2034
+       ],
+       [
+        0.45,
+        0.1545
+       ],
+       [
+        0.4667,
+        0.104
+       ],
+       [
+        0.4833,
+        0.0523
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.5167,
+        -0.0523
+       ],
+       [
+        0.5333,
+        -0.104
+       ],
+       [
+        0.55,
+        -0.1545
+       ],
+       [
+        0.5667,
+        -0.2034
+       ],
+       [
+        0.5833,
+        -0.25
+       ],
+       [
+        0.6,
+        -0.2939
+       ],
+       [
+        0.6167,
+        -0.3346
+       ],
+       [
+        0.6333,
+        -0.3716
+       ],
+       [
+        0.65,
+        -0.4045
+       ],
+       [
+        0.6667,
+        -0.433
+       ],
+       [
+        0.6833,
+        -0.4568
+       ],
+       [
+        0.7,
+        -0.4755
+       ],
+       [
+        0.7167,
+        -0.4891
+       ],
+       [
+        0.7333,
+        -0.4973
+       ],
+       [
+        0.75,
+        -0.5
+       ],
+       [
+        0.7667,
+        -0.4973
+       ],
+       [
+        0.7833,
+        -0.4891
+       ],
+       [
+        0.8,
+        -0.4755
+       ],
+       [
+        0.8167,
+        -0.4568
+       ],
+       [
+        0.8333,
+        -0.433
+       ],
+       [
+        0.85,
+        -0.4045
+       ],
+       [
+        0.8667,
+        -0.3716
+       ],
+       [
+        0.8833,
+        -0.3346
+       ],
+       [
+        0.9,
+        -0.2939
+       ],
+       [
+        0.9167,
+        -0.25
+       ],
+       [
+        0.9333,
+        -0.2034
+       ],
+       [
+        0.95,
+        -0.1545
+       ],
+       [
+        0.9667,
+        -0.104
+       ],
+       [
+        0.9833,
+        -0.0523
+       ],
+       [
+        1.0,
+        -0.0
+       ],
+       [
+        1.0167,
+        0.0523
+       ],
+       [
+        1.0333,
+        0.104
+       ],
+       [
+        1.05,
+        0.1545
+       ],
+       [
+        1.0667,
+        0.2034
+       ],
+       [
+        1.0833,
+        0.25
+       ],
+       [
+        1.1,
+        0.2939
+       ],
+       [
+        1.1167,
+        0.3346
+       ],
+       [
+        1.1333,
+        0.3716
+       ],
+       [
+        1.15,
+        0.4045
+       ],
+       [
+        1.1667,
+        0.433
+       ],
+       [
+        1.1833,
+        0.4568
+       ],
+       [
+        1.2,
+        0.4755
+       ],
+       [
+        1.2167,
+        0.4891
+       ],
+       [
+        1.2333,
+        0.4973
+       ],
+       [
+        1.25,
+        0.5
+       ],
+       [
+        1.2667,
+        0.4973
+       ],
+       [
+        1.2833,
+        0.4891
+       ],
+       [
+        1.3,
+        0.4755
+       ],
+       [
+        1.3167,
+        0.4568
+       ],
+       [
+        1.3333,
+        0.433
+       ],
+       [
+        1.35,
+        0.4045
+       ],
+       [
+        1.3667,
+        0.3716
+       ],
+       [
+        1.3833,
+        0.3346
+       ],
+       [
+        1.4,
+        0.2939
+       ],
+       [
+        1.4167,
+        0.25
+       ],
+       [
+        1.4333,
+        0.2034
+       ],
+       [
+        1.45,
+        0.1545
+       ],
+       [
+        1.4667,
+        0.104
+       ],
+       [
+        1.4833,
+        0.0523
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.5167,
+        -0.0523
+       ],
+       [
+        1.5333,
+        -0.104
+       ],
+       [
+        1.55,
+        -0.1545
+       ],
+       [
+        1.5667,
+        -0.2034
+       ],
+       [
+        1.5833,
+        -0.25
+       ],
+       [
+        1.6,
+        -0.2939
+       ],
+       [
+        1.6167,
+        -0.3346
+       ],
+       [
+        1.6333,
+        -0.3716
+       ],
+       [
+        1.65,
+        -0.4045
+       ],
+       [
+        1.6667,
+        -0.433
+       ],
+       [
+        1.6833,
+        -0.4568
+       ],
+       [
+        1.7,
+        -0.4755
+       ],
+       [
+        1.7167,
+        -0.4891
+       ],
+       [
+        1.7333,
+        -0.4973
+       ],
+       [
+        1.75,
+        -0.5
+       ],
+       [
+        1.7667,
+        -0.4973
+       ],
+       [
+        1.7833,
+        -0.4891
+       ],
+       [
+        1.8,
+        -0.4755
+       ],
+       [
+        1.8167,
+        -0.4568
+       ],
+       [
+        1.8333,
+        -0.433
+       ],
+       [
+        1.85,
+        -0.4045
+       ],
+       [
+        1.8667,
+        -0.3716
+       ],
+       [
+        1.8833,
+        -0.3346
+       ],
+       [
+        1.9,
+        -0.2939
+       ],
+       [
+        1.9167,
+        -0.25
+       ],
+       [
+        1.9333,
+        -0.2034
+       ],
+       [
+        1.95,
+        -0.1545
+       ],
+       [
+        1.9667,
+        -0.104
+       ],
+       [
+        1.9833,
+        -0.0523
+       ],
+       [
+        2.0,
+        -0.0
+       ],
+       [
+        2.0167,
+        0.0523
+       ],
+       [
+        2.0333,
+        0.104
+       ],
+       [
+        2.05,
+        0.1545
+       ],
+       [
+        2.0667,
+        0.2034
+       ],
+       [
+        2.0833,
+        0.25
+       ],
+       [
+        2.1,
+        0.2939
+       ],
+       [
+        2.1167,
+        0.3346
+       ],
+       [
+        2.1333,
+        0.3716
+       ],
+       [
+        2.15,
+        0.4045
+       ],
+       [
+        2.1667,
+        0.433
+       ],
+       [
+        2.1833,
+        0.4568
+       ],
+       [
+        2.2,
+        0.4755
+       ],
+       [
+        2.2167,
+        0.4891
+       ],
+       [
+        2.2333,
+        0.4973
+       ],
+       [
+        2.25,
+        0.5
+       ],
+       [
+        2.2667,
+        0.4973
+       ],
+       [
+        2.2833,
+        0.4891
+       ],
+       [
+        2.3,
+        0.4755
+       ],
+       [
+        2.3167,
+        0.4568
+       ],
+       [
+        2.3333,
+        0.433
+       ],
+       [
+        2.35,
+        0.4045
+       ],
+       [
+        2.3667,
+        0.3716
+       ],
+       [
+        2.3833,
+        0.3346
+       ],
+       [
+        2.4,
+        0.2939
+       ],
+       [
+        2.4167,
+        0.25
+       ],
+       [
+        2.4333,
+        0.2034
+       ],
+       [
+        2.45,
+        0.1545
+       ],
+       [
+        2.4667,
+        0.104
+       ],
+       [
+        2.4833,
+        0.0523
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.5167,
+        -0.0523
+       ],
+       [
+        2.5333,
+        -0.104
+       ],
+       [
+        2.55,
+        -0.1545
+       ],
+       [
+        2.5667,
+        -0.2034
+       ],
+       [
+        2.5833,
+        -0.25
+       ],
+       [
+        2.6,
+        -0.2939
+       ],
+       [
+        2.6167,
+        -0.3346
+       ],
+       [
+        2.6333,
+        -0.3716
+       ],
+       [
+        2.65,
+        -0.4045
+       ],
+       [
+        2.6667,
+        -0.433
+       ],
+       [
+        2.6833,
+        -0.4568
+       ],
+       [
+        2.7,
+        -0.4755
+       ],
+       [
+        2.7167,
+        -0.4891
+       ],
+       [
+        2.7333,
+        -0.4973
+       ],
+       [
+        2.75,
+        -0.5
+       ],
+       [
+        2.7667,
+        -0.4973
+       ],
+       [
+        2.7833,
+        -0.4891
+       ],
+       [
+        2.8,
+        -0.4755
+       ],
+       [
+        2.8167,
+        -0.4568
+       ],
+       [
+        2.8333,
+        -0.433
+       ],
+       [
+        2.85,
+        -0.4045
+       ],
+       [
+        2.8667,
+        -0.3716
+       ],
+       [
+        2.8833,
+        -0.3346
+       ],
+       [
+        2.9,
+        -0.2939
+       ],
+       [
+        2.9167,
+        -0.25
+       ],
+       [
+        2.9333,
+        -0.2034
+       ],
+       [
+        2.95,
+        -0.1545
+       ],
+       [
+        2.9667,
+        -0.104
+       ],
+       [
+        2.9833,
+        -0.0523
+       ],
+       [
+        3.0,
+        -0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "weak",
+      "etiket_konum": [
+       1.25,
+       0.5
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Amplitude: related to _loudness_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Frequency: related to _pitch_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Amplitude and frequency are independent: a weak or a strong sound can be produced at the same frequency.",
+    "The two waves on screen have the same frequency, but the navy wave has half the amplitude of the blue wave.",
+    "As amplitude grows, we hear the sound as louder; this perception is called loudness.",
+    "Like the relationship between frequency and pitch, the relationship between amplitude and loudness is not linear.",
+    "When we strike a tuning fork harder, its frequency does not change; only its amplitude, and so its loudness, increases."
+   ]
+  },
+  {
+   "id": "kucuk",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Amplitude",
+   "baslik": "How *small?*",
+   "maddeler": [
+    {
+     "metin": "Motion at threshold: _smaller than an atom_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Practical measure: _pressure_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A microphone _senses_ pressure",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Eardrum",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 1
+     }
+    ],
+    "yakinlastir": {
+     "parca": "timpanik_membran",
+     "cumle": 1,
+     "olcek": 2.2
+    }
+   },
+   "cumleler": [
+    "For the faintest sounds the ear can hear, the displacement of molecules is incredibly small.",
+    "For a sound at threshold near one thousand hertz, sources give the eardrum's motion as smaller than the diameter of a hydrogen atom.",
+    "So we express amplitude not as displacement but as pressure, which is much easier to measure.",
+    "Microphones also sense pressure changes; sound level meters work on this principle.",
+    "Now let us look at the unit of pressure."
+   ]
+  },
+  {
+   "id": "paskal",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Sound pressure",
+   "baslik": "Pressure and the *pascal*",
+   "maddeler": [
+    {
+     "metin": "Pressure: _force / area_",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Unit: _pascal (Pa)_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Atmosphere: about _100,000 Pa_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Speech: about _0.02 Pa_",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Decapascal: _10 Pa_",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PASCAL",
+    "metin": "1 Pa = 1 *newton* / square meter",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Pressure is the force acting on a unit area.",
+    "Its unit is the pascal, written Pa; one pascal is a force of one newton acting on one square meter.",
+    "At sea level, atmospheric pressure is about one hundred thousand pascals.",
+    "Sound pressure is the very small, fast fluctuation around this steady atmospheric pressure.",
+    "Normal speech at one meter has a pressure of about point zero two pascals, less than one millionth of atmospheric pressure.",
+    "The decapascal used in tympanometry equals ten pascals; there, we change the static pressure in the ear canal."
+   ]
+  },
+  {
+   "id": "basinclar",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Sound pressure",
+   "baslik": "The *pressures* of sounds",
+   "sutunlar": [
+    "Sound",
+    "Approximate pressure"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Atmospheric pressure",
+      "100,000 Pa"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Hearing threshold",
+      "20 µPa"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Speech, 1 meter",
+      "0.02 Pa"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Rock concert",
+      "a few Pa"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Very loud sound",
+      "20 Pa"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The table shows the approximate pressures of some sounds, along with atmospheric pressure.",
+    "The faintest sound we can hear near one thousand hertz is about twenty micropascals, twenty millionths of a pascal.",
+    "Normal speech is about point zero two pascals, which is one thousand times the threshold.",
+    "In very noisy places such as a rock concert, the pressure can reach a few pascals.",
+    "About twenty pascals corresponds to very loud, uncomfortable sounds; this is one million times the threshold.",
+    "To handle such a wide range easily, we will learn the decibel scale in the next lesson."
+   ]
+  },
+  {
+   "id": "siddet",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Intensity",
+   "baslik": "Power and *intensity*",
+   "maddeler": [
+    {
+     "metin": "Acoustic power: _watt (W)_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Intensity: _W / m²_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Threshold: about _10⁻¹² W/m²_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Speech power: about _10 µW_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "INTENSITY",
+    "metin": "*Power* through a unit area",
+    "cumle": 1
+   },
+   "cumleler": [
+    "A sound source radiates a certain amount of acoustic energy per unit time; this is called acoustic power, and its unit is the watt.",
+    "Intensity is the part of this power that passes through a unit area, measured in watts per square meter.",
+    "The intensity of the faintest sounds we can hear is about ten to the minus twelve watts per square meter.",
+    "The acoustic power we produce when speaking averages about ten microwatts, tiny next to the power of a light bulb.",
+    "The fact that the ear can detect such tiny powers shows the remarkable sensitivity of hearing.",
+    "Intensity is usually not measured directly; it is mostly calculated from the measured pressure."
+   ]
+  },
+  {
+   "id": "kare",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Intensity",
+   "baslik": "Intensity and pressure: *the square relationship*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4.5,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "ad": "Pressure (times)"
+    },
+    "y": {
+     "min": 0,
+     "max": 18,
+     "adim": 4,
+     "ad": "Intensity (times)"
+    },
+    "seriler": [
+     {
+      "ad": "kare",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.2,
+        0.04
+       ],
+       [
+        0.4,
+        0.16
+       ],
+       [
+        0.6,
+        0.36
+       ],
+       [
+        0.8,
+        0.64
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.2,
+        1.44
+       ],
+       [
+        1.4,
+        1.96
+       ],
+       [
+        1.6,
+        2.56
+       ],
+       [
+        1.8,
+        3.24
+       ],
+       [
+        2.0,
+        4.0
+       ],
+       [
+        2.2,
+        4.84
+       ],
+       [
+        2.4,
+        5.76
+       ],
+       [
+        2.6,
+        6.76
+       ],
+       [
+        2.8,
+        7.84
+       ],
+       [
+        3.0,
+        9.0
+       ],
+       [
+        3.2,
+        10.24
+       ],
+       [
+        3.4,
+        11.56
+       ],
+       [
+        3.6,
+        12.96
+       ],
+       [
+        3.8,
+        14.44
+       ],
+       [
+        4.0,
+        16.0
+       ],
+       [
+        4.2,
+        17.64
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "iki_kat",
+      "x": 2,
+      "y": 4,
+      "dus": "xy",
+      "dolu": true,
+      "etiket": "2 times pressure: 4 times intensity",
+      "hiza": "start",
+      "dx": 14,
+      "dy": -6,
+      "cumle": 1
+     },
+     {
+      "ad": "uc_kat",
+      "x": 3,
+      "y": 9,
+      "dus": "xy",
+      "dolu": true,
+      "etiket": "3 times: 9 times",
+      "hiza": "start",
+      "dx": 14,
+      "dy": -6,
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Intensity proportional to _pressure squared_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "20 µPa: about _10⁻¹² W/m²_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "There is a very important relationship between intensity and pressure: intensity is proportional to the square of pressure.",
+    "If pressure doubles, intensity becomes four times greater.",
+    "If pressure triples, intensity becomes nine times greater, and if pressure rises tenfold, intensity rises a hundredfold.",
+    "In air, intensity is pressure squared divided by the characteristic impedance of air, which is about four hundred thirteen rayls.",
+    "Putting twenty micropascals into this formula gives about ten to the minus twelve watts; so the two threshold values agree.",
+    "This square relationship is why different formulas are used for pressure and intensity in decibel calculations.",
+    "We will see this in detail in the next lesson."
+   ]
+  },
+  {
+   "id": "ters_kare",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Inverse square law",
+   "baslik": "The inverse square *law*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "ad": "Distance from source (m)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.6,
+     "adim": 0.25,
+     "ond": 2,
+     "ad": "Ratio relative to 1 meter"
+    },
+    "seriler": [
+     {
+      "ad": "siddet",
+      "noktalar": [
+       [
+        0.8,
+        1.5625
+       ],
+       [
+        0.9,
+        1.2346
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.1,
+        0.8264
+       ],
+       [
+        1.2,
+        0.6944
+       ],
+       [
+        1.3,
+        0.5917
+       ],
+       [
+        1.4,
+        0.5102
+       ],
+       [
+        1.5,
+        0.4444
+       ],
+       [
+        1.6,
+        0.3906
+       ],
+       [
+        1.7,
+        0.346
+       ],
+       [
+        1.8,
+        0.3086
+       ],
+       [
+        1.9,
+        0.277
+       ],
+       [
+        2.0,
+        0.25
+       ],
+       [
+        2.1,
+        0.2268
+       ],
+       [
+        2.2,
+        0.2066
+       ],
+       [
+        2.3,
+        0.189
+       ],
+       [
+        2.4,
+        0.1736
+       ],
+       [
+        2.5,
+        0.16
+       ],
+       [
+        2.6,
+        0.1479
+       ],
+       [
+        2.7,
+        0.1372
+       ],
+       [
+        2.8,
+        0.1276
+       ],
+       [
+        2.9,
+        0.1189
+       ],
+       [
+        3.0,
+        0.1111
+       ],
+       [
+        3.1,
+        0.1041
+       ],
+       [
+        3.2,
+        0.0977
+       ],
+       [
+        3.3,
+        0.0918
+       ],
+       [
+        3.4,
+        0.0865
+       ],
+       [
+        3.5,
+        0.0816
+       ],
+       [
+        3.6,
+        0.0772
+       ],
+       [
+        3.7,
+        0.073
+       ],
+       [
+        3.8,
+        0.0693
+       ],
+       [
+        3.9,
+        0.0657
+       ],
+       [
+        4.0,
+        0.0625
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "intensity",
+      "etiket_konum": [
+       1.0,
+       1.0
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "basinc",
+      "noktalar": [
+       [
+        0.8,
+        1.25
+       ],
+       [
+        0.9,
+        1.1111
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.1,
+        0.9091
+       ],
+       [
+        1.2,
+        0.8333
+       ],
+       [
+        1.3,
+        0.7692
+       ],
+       [
+        1.4,
+        0.7143
+       ],
+       [
+        1.5,
+        0.6667
+       ],
+       [
+        1.6,
+        0.625
+       ],
+       [
+        1.7,
+        0.5882
+       ],
+       [
+        1.8,
+        0.5556
+       ],
+       [
+        1.9,
+        0.5263
+       ],
+       [
+        2.0,
+        0.5
+       ],
+       [
+        2.1,
+        0.4762
+       ],
+       [
+        2.2,
+        0.4545
+       ],
+       [
+        2.3,
+        0.4348
+       ],
+       [
+        2.4,
+        0.4167
+       ],
+       [
+        2.5,
+        0.4
+       ],
+       [
+        2.6,
+        0.3846
+       ],
+       [
+        2.7,
+        0.3704
+       ],
+       [
+        2.8,
+        0.3571
+       ],
+       [
+        2.9,
+        0.3448
+       ],
+       [
+        3.0,
+        0.3333
+       ],
+       [
+        3.1,
+        0.3226
+       ],
+       [
+        3.2,
+        0.3125
+       ],
+       [
+        3.3,
+        0.303
+       ],
+       [
+        3.4,
+        0.2941
+       ],
+       [
+        3.5,
+        0.2857
+       ],
+       [
+        3.6,
+        0.2778
+       ],
+       [
+        3.7,
+        0.2703
+       ],
+       [
+        3.8,
+        0.2632
+       ],
+       [
+        3.9,
+        0.2564
+       ],
+       [
+        4.0,
+        0.25
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "pressure",
+      "etiket_konum": [
+       3.0,
+       0.333
+      ],
+      "cumle": 5
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dortte_bir",
+      "x": 2,
+      "y": 0.25,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "one quarter",
+      "dy": 26,
+      "cumle": 4
+     },
+     {
+      "ad": "dokuzda_bir",
+      "x": 3,
+      "y": 0.111,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "one ninth",
+      "dy": 26,
+      "cumle": 4
+     },
+     {
+      "ad": "yari",
+      "x": 2,
+      "y": 0.5,
+      "renk": "lacivert",
+      "dolu": true,
+      "etiket": "pressure: half",
+      "hiza": "start",
+      "dx": 14,
+      "dy": -10,
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Area: _radius squared_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Twice as far: _one quarter_ intensity",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Applies in a _free field_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Sound from a point source spreads out in all directions as a sphere in a space without obstacles.",
+    "As we move away from the source, the same power spreads over an ever larger spherical surface.",
+    "The surface area of a sphere grows with the square of its radius.",
+    "So intensity falls in inverse proportion to the square of distance; this is called the inverse square law.",
+    "When distance doubles, intensity drops to one quarter, and when it triples, intensity drops to one ninth.",
+    "Pressure behaves like the square root of intensity, so when distance doubles, pressure is halved.",
+    "This law applies in a free field without reflections; in closed rooms, reflections reduce the drop."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Inverse square law",
+   "baslik": "Distance *in everyday life*",
+   "maddeler": [
+    {
+     "metin": "Half the distance: _four times the intensity_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Move closer, talk _face to face_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Remote microphone: _near the mouth_",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_Smaller_ drop in a room",
+     "cumle": 4,
+     "ikon": "ev"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DISTANCE",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "1 meter",
+      "cumle": 1,
+      "metin": "Intensity: 1 times"
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "2 meters",
+      "cumle": 1,
+      "metin": "Intensity: one quarter"
+     },
+     {
+      "ikon": "mikrofon",
+      "baslik": "Remote microphone",
+      "cumle": 3,
+      "metin": "Close to the talker"
+     }
+    ]
+   },
+   "cumleler": [
+    "The inverse square law is very useful in the daily life of people with hearing loss.",
+    "Halving the distance to the talker makes the intensity reaching the ear about four times greater.",
+    "So moving closer, talking face to face and not calling from behind are simple but effective communication tips.",
+    "Remote microphone systems work on the same principle: the microphone is near the talker's mouth, so the signal is strong.",
+    "In closed rooms, the drop is somewhat smaller because of reflections; we will look at room acoustics in later lessons.",
+    "In the next two lessons we will learn to express these ratios in decibels and to calculate the effect of distance."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Advise families to move closer rather than shout: halving the distance makes intensity four times greater. Shouting distorts speech and tires the talker.",
+   "cumleler": [
+    "A useful tip for counseling: advise families to speak from closer, not louder.",
+    "Halving the distance makes the intensity reaching the ear four times greater.",
+    "Shouting, on the other hand, disrupts the natural rhythm of speech, changes facial expression and tires the talker.",
+    "Speaking from close up and face to face also makes lipreading cues visible."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Amplitude: peak, peak to peak, _RMS_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sound pressure: _pascal_, threshold 20 µPa",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Intensity proportional to _pressure squared_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Twice the distance: _one quarter_ intensity",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Amplitude is the size of the oscillation; measurements mostly use the effective value, or RMS.",
+    "Sound pressure is measured in pascals; the faintest audible sound is about twenty micropascals, normal speech about point zero two pascals.",
+    "Intensity is the power passing through a unit area, and it is proportional to the square of pressure.",
+    "By the inverse square law, when distance doubles, intensity drops to one quarter and pressure to one half."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What happens to intensity when distance doubles?",
+   "secenekler": [
+    "Drops to half",
+    "Drops to one quarter",
+    "Does not change",
+    "Doubles"
+   ],
+   "dogru": 1,
+   "aciklama": "Inverse square law: intensity is inversely proportional to _the square of distance_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a free field, what happens to intensity if the distance from a point source doubles?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: it drops to one quarter.",
+    "Intensity is inversely proportional to the square of distance, while pressure is halved."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "What Is a *Decibel?* Making Sense of the Log Scale",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn the scale that turns these large ratios into handy numbers: the decibel.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

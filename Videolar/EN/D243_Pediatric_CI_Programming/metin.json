@@ -1,0 +1,1035 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D243_Pediatric_CI_Programming_EN",
+ "kapak": {
+  "ust": "LESSON 243",
+  "baslik": "Pediatric implant<br>*programming*",
+  "alt": "ECAP, ESRT and behavioral confirmation",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Pediatric CI Programming with Objective Measures | Lesson 243 | AIHEAR Audiology Academy",
+  "aciklama": "How do you map the implant of a baby who cannot tell you how loud a sound is? In this lesson we cover predicting the map with ECAP and ESRT, age-appropriate behavioral confirmation, sound field aided thresholds with a target of about 20 to 30 dB HL, tracking development and daily device checks.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Wolfe and Schafer, Programming Cochlear Implants; Hughes, Objective Measures in Cochlear Implants; Madell, Flexer, Wolfe and Schafer, Pediatric Audiology: Diagnosis, Technology, and Management; Sharma et al. (2002), A sensitive period for the development of the central auditory system in children with cochlear implants, Ear and Hearing.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "pediatricaudiology"
+  ],
+  "etiketler": [
+   "pediatric cochlear implant",
+   "implant programming",
+   "objective programming",
+   "ECAP",
+   "ESRT",
+   "aided thresholds",
+   "behavioral confirmation",
+   "VRA",
+   "play audiometry",
+   "pediatric audiology",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 243",
+   "baslik": "Pediatric implant *programming*",
+   "alt": "ECAP, ESRT and behavioral confirmation",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how an implant map is created for young children who cannot tell us how loud a sound is.",
+    "We will cover prediction from objective measures, age-appropriate behavioral confirmation, and checking the result with aided thresholds."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why is it different?",
+   "baslik": "*Why* is programming different in children?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Cannot report",
+     "cumle": 0,
+     "metin": "Cannot describe loudness"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Short attention",
+     "cumle": 1,
+     "metin": "Short, frequent sessions"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Overstimulation",
+     "cumle": 2,
+     "metin": "Startle, device refusal"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Critical period",
+     "cumle": 4,
+     "metin": "Early, accurate access"
+    }
+   ],
+   "cumleler": [
+    "Adults report their own T and C levels; babies and young children cannot say when they hear a sound or how loud it is.",
+    "A child's attention span is short, so sessions are kept short and repeated often.",
+    "Stimulation that is too loud can frighten the child and lead them to refuse to wear the processor.",
+    "Stimulation that is too soft makes speech sounds inaudible and slows development.",
+    "In this period, when the auditory brain is most flexible, early and consistent access to speech sounds is vital.",
+    "So programming in children is a process that combines objective measures, behavioral observation and family reports."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Why is it different?",
+   "baslik": "The *path* to a child's map",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Surgical data",
+     "cumle": 0,
+     "metin": "Impedance, ECAP, ESRT"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Objective prediction",
+     "cumle": 1,
+     "metin": "Profile of levels"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Behavior",
+     "cumle": 2,
+     "metin": "Observation and conditioning"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Aided threshold",
+     "cumle": 3,
+     "metin": "In the sound field"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Development",
+     "cumle": 4,
+     "metin": "Skills and language"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "It starts with the surgical measures; impedance and the electrically evoked compound action potential, or ECAP, guide the first map.",
+     "ses": "It starts with the surgical measures; impedance and the electrically evoked compound action potential, or E cap, guide the first map."
+    },
+    "Objective measures help predict how levels change along the electrodes, that is, the profile.",
+    "Behavioral observation and age-appropriate test methods show whether the predicted levels are correct.",
+    "Aided thresholds measured in the sound field check whether the map makes speech sounds audible.",
+    "Finally, the child's auditory skills and language development are tracked; if development is slower than expected, the map is reviewed.",
+    "These steps are repeated in a cycle, not once, at every visit throughout the first years."
+   ]
+  },
+  {
+   "id": "ecap_profil",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Prediction with ECAP",
+   "baslik": "From ECAP to the *map profile*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Electrode (example)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 100,
+     "max": 200,
+     "adim": 20,
+     "ad": "Current level"
+    },
+    "seriler": [
+     {
+      "ad": "ecap_esikleri",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        1,
+        180
+       ],
+       [
+        2,
+        176
+       ],
+       [
+        3,
+        174
+       ],
+       [
+        4,
+        177
+       ],
+       [
+        5,
+        172
+       ],
+       [
+        6,
+        170
+       ],
+       [
+        7,
+        172
+       ],
+       [
+        8,
+        175
+       ],
+       [
+        9,
+        171
+       ],
+       [
+        10,
+        173
+       ],
+       [
+        11,
+        176
+       ],
+       [
+        12,
+        179
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "ECAP thresholds",
+      "cumle": 0
+     },
+     {
+      "ad": "baslangic_c",
+      "noktalar": [
+       [
+        1,
+        168
+       ],
+       [
+        2,
+        164
+       ],
+       [
+        3,
+        162
+       ],
+       [
+        4,
+        165
+       ],
+       [
+        5,
+        160
+       ],
+       [
+        6,
+        158
+       ],
+       [
+        7,
+        160
+       ],
+       [
+        8,
+        163
+       ],
+       [
+        9,
+        159
+       ],
+       [
+        10,
+        161
+       ],
+       [
+        11,
+        164
+       ],
+       [
+        12,
+        167
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "etiket": "starting upper level",
+      "cumle": 3
+     },
+     {
+      "ad": "baslangic_t",
+      "noktalar": [
+       [
+        1,
+        125
+       ],
+       [
+        2,
+        121
+       ],
+       [
+        3,
+        119
+       ],
+       [
+        4,
+        122
+       ],
+       [
+        5,
+        117
+       ],
+       [
+        6,
+        115
+       ],
+       [
+        7,
+        117
+       ],
+       [
+        8,
+        120
+       ],
+       [
+        9,
+        116
+       ],
+       [
+        10,
+        118
+       ],
+       [
+        11,
+        121
+       ],
+       [
+        12,
+        124
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "predicted T",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ecap_esikleri",
+     "cumle": 1
+    },
+    {
+     "parca": "baslangic_c",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "This example shows ECAP thresholds measured on several electrodes.",
+     "ses": "This example shows E cap thresholds measured on several electrodes."
+    },
+    {
+     "yazi": "The absolute ECAP threshold does not give behavioral levels exactly, but it reflects well the shape of levels along the electrodes.",
+     "ses": "The absolute E cap threshold does not give behavioral levels exactly, but it reflects well the shape of levels along the electrodes."
+    },
+    {
+     "yazi": "In most children the ECAP threshold lies between T and C, often closer to C; in some children it may be above the C level.",
+     "ses": "In most children the E cap threshold lies between T and C, often closer to C; in some children it may be above the C level."
+    },
+    {
+     "yazi": "So many centers start upper levels in the first map following the shape of the ECAP profile, but somewhat below it.",
+     "ses": "So many centers start upper levels in the first map following the shape of the E cap profile, but somewhat below it."
+    },
+    "T levels can also be predicted from the same profile, or set as a fixed fraction of the upper level.",
+    "Then the whole profile is shifted up or down together in live sound, while the child's response is watched.",
+    "The fractions and rules used vary by center and device; the values in the graph are only examples."
+   ]
+  },
+  {
+   "id": "ecap_olcum",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Prediction with ECAP",
+   "baslik": "*ECAP* in an awake child",
+   "maddeler": [
+    {
+     "metin": "No sleep or sedation needed",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Child can watch a video",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "A few electrodes, a few minutes",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "In-between electrodes estimated",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Changes are tracked",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ADVANTAGE",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "No response needed",
+      "cumle": 0,
+      "metin": "Independent of behavior"
+     },
+     {
+      "ikon": "kronometre",
+      "baslik": "Quick",
+      "cumle": 2,
+      "metin": "Short session"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Because the ECAP is not clearly affected by sleep or anesthesia, it can be measured reliably in an awake child too.",
+     "ses": "Because the E cap is not clearly affected by sleep or anesthesia, it can be measured reliably in an awake child too."
+    },
+    "During the measurement, the child can sit on a lap and watch a silent video or play with a toy.",
+    "Measurements are usually made on several electrodes chosen along the array, which takes a few minutes.",
+    "Values for unmeasured electrodes are estimated by interpolating between their neighbors.",
+    {
+     "yazi": "ECAP thresholds can change in the first months, so they are repeated and compared at follow-up visits.",
+     "ses": "E cap thresholds can change in the first months, so they are repeated and compared at follow-up visits."
+    },
+    {
+     "yazi": "In children with no ECAP in surgery, a response can sometimes be obtained after activation.",
+     "ses": "In children with no E cap in surgery, a response can sometimes be obtained after activation."
+    }
+   ]
+  },
+  {
+   "id": "esrt",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Prediction with ESRT",
+   "baslik": "The upper limit with *ESRT*",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 1,
+    "kontra_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "implant stimulates",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_stapedius",
+     "metin": "measured with a probe",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "karsi_stapedius",
+     "cumle": 1
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The second objective tool is the electrically evoked stapedial reflex threshold, or ESRT, measured after surgery.",
+     "ses": "The second objective tool is the electrically evoked stapedial reflex threshold, or E S R T, measured after surgery."
+    },
+    "While the implant stimulates one electrode or several together, an immittance probe in the other ear watches for an admittance change.",
+    "The child needs to stay still and calm for a few seconds; sucking a pacifier or talking can spoil the recording.",
+    {
+     "yazi": "The ESRT relates well to the highest comfort level; most centers take care not to set upper levels above the ESRT.",
+     "ses": "The E S R T relates well to the highest comfort level; most centers take care not to set upper levels above the E S R T."
+    },
+    "If there is middle ear fluid in the other ear, the reflex cannot be measured, so tympanometry is done first.",
+    "In some children the reflex is absent even with a normal middle ear; the map then relies on other information.",
+    {
+     "yazi": "Used together, the ESRT and ECAP give a more reliable prediction of both the shape and the upper limit of the map.",
+     "ses": "Used together, the E S R T and E cap give a more reliable prediction of both the shape and the upper limit of the map."
+    }
+   ]
+  },
+  {
+   "id": "siralama",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Prediction with ESRT",
+   "baslik": "The *typical order* on one electrode",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 220,
+     "ad": "Current level (example)",
+     "isaretler": [
+      100,
+      130,
+      160,
+      190,
+      220
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [],
+     "ad": ""
+    },
+    "isaretler": [
+     {
+      "ad": "t",
+      "x": 125,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "T",
+      "cumle": 0
+     },
+     {
+      "ad": "ecap",
+      "x": 168,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "ECAP threshold",
+      "cumle": 1
+     },
+     {
+      "ad": "c",
+      "x": 185,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "C/M",
+      "cumle": 2
+     },
+     {
+      "ad": "esrt",
+      "x": 198,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "ESRT",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "guvenli",
+      "x": [
+       125,
+       198
+      ],
+      "y": 0.85,
+      "etiket": "the map is built in this range",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ecap",
+     "cumle": 1
+    },
+    {
+     "parca": "esrt",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "This diagram summarizes the order of levels on one electrode seen in most people; the T level is at the bottom.",
+    {
+     "yazi": "The ECAP threshold is often in the upper half of the dynamic range.",
+     "ses": "The E cap threshold is often in the upper half of the dynamic range."
+    },
+    "The comfort level lies a little above it.",
+    {
+     "yazi": "The ESRT is often close to, or slightly above, the comfort level.",
+     "ses": "The E S R T is often close to, or slightly above, the comfort level."
+    },
+    "This order is a general trend, not a firm rule; it is confirmed by behavioral observation in every child.",
+    "If the measures do not agree, the more cautious value is chosen and the child is followed closely."
+   ]
+  },
+  {
+   "id": "davranis",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Behavioral confirmation",
+   "baslik": "*Behavioral* methods by age",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Behavioral observation",
+     "cumle": 0,
+     "metin": "Sucking, eye opening, stilling"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "VRA",
+     "cumle": 2,
+     "metin": "From six months"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Play audiometry",
+     "cumle": 4,
+     "metin": "About two and a half years"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Self-report",
+     "cumle": 5,
+     "metin": "At school age"
+    }
+   ],
+   "cumleler": [
+    "In the youngest babies, behavioral observation is used; a pause in sucking, eye opening or stopping movement may count as a response.",
+    "These responses often appear above threshold, so on their own they are not reliable for setting a T level.",
+    "From about six months of age, visual reinforcement audiometry, or VRA, can give responses on each electrode or in live sound.",
+    "Electrodes are played one by one from the programming software; when the child turns their head, they are rewarded with a light-up toy.",
+    "After about two and a half years, with conditioned play audiometry, the child is taught to make a play move on hearing the sound.",
+    "Toward school age, the child can report loudness on a picture scale and compare electrodes.",
+    "We covered these methods in detail in the pediatric audiology lessons; the same principles apply in implant programming."
+   ]
+  },
+  {
+   "id": "isaretler",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Behavioral confirmation",
+   "baslik": "Too much, or *too little?*",
+   "maddeler": [
+    {
+     "metin": "Crying, pulling off the processor",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Blinking, startling",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "No interest in sound",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "No change in vocalizing",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "FAMILY OBSERVATION",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "At home",
+      "cumle": 5,
+      "metin": "Which sounds do they turn to?"
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Notes",
+      "cumle": 5,
+      "metin": "A short diary"
+     }
+    ]
+   },
+   "cumleler": [
+    "If stimulation is too loud, the child may cry or pull off the processor or the coil.",
+    "Blinking, startling or facial twitching at loud sounds can also be a sign of overstimulation or of facial nerve stimulation.",
+    "In that case the levels involved are lowered and the child is reassessed at the next visit.",
+    "If stimulation is too soft, the child may show no interest in their name or in surrounding sounds.",
+    "No change in vocalizing and babbling after several months also suggests inadequate access.",
+    "The family sees the child most; keeping short notes on which sounds the child turns to gives valuable information for programming."
+   ]
+  },
+  {
+   "id": "cihazli",
+   "tur": "gorsel",
+   "bolum_no": "PART 5",
+   "bolum": "Aided thresholds",
+   "baslik": "Target: *20 to 30* dB HL",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        250,
+        95
+       ],
+       [
+        500,
+        105
+       ],
+       [
+        1000,
+        115
+       ],
+       [
+        2000,
+        120
+       ],
+       [
+        4000,
+        120
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "unaided (example)",
+      "cumle": 0
+     },
+     {
+      "ad": "implantli",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        25
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        25
+       ],
+       [
+        4000,
+        30
+       ],
+       [
+        6000,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": 4,
+      "etiket": "with the implant",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hedef",
+      "y": [
+       20,
+       30
+      ],
+      "renk": "yesil",
+      "etiket": "target zone",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "hedef",
+     "cumle": 3
+    },
+    {
+     "parca": "implantli",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In this example, the child's unaided thresholds are profound; at high frequencies there is no response even at the audiometer limits.",
+    "To check the map, the child sits facing a loudspeaker and thresholds are found in the sound field with frequency-specific stimuli.",
+    "Frequency-modulated tones or narrowband noise are used as stimuli; pure tones from a loudspeaker can create standing waves.",
+    "With a cochlear implant, the aim is aided thresholds of about 20 to 30 dB HL between 250 and 6000 Hz.",
+    "This level shows that soft speech is also heard; if thresholds are clearly worse, T levels and microphone sensitivity are reviewed.",
+    "If thresholds are unexpectedly good, T levels may be too high, which can create constant background stimulation.",
+    "Aided thresholds alone are not enough; as the child grows, speech perception is also measured with word and sentence tests."
+   ]
+  },
+  {
+   "id": "gelisim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Aided thresholds",
+   "baslik": "*Tracking* development",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Questionnaires",
+     "cumle": 0,
+     "metin": "Family report"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Skill levels",
+     "cumle": 1,
+     "metin": "From detection to comprehension"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cortical response",
+     "cumle": 3,
+     "metin": "P1 latency"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Data logging",
+     "cumle": 4,
+     "metin": "Daily hours of use"
+    }
+   ],
+   "cumleler": [
+    "In young children, development is tracked regularly with standard parent questionnaires, such as meaningful auditory integration scales.",
+    "The levels of auditory skills, that is detection, discrimination, identification and comprehension, frame the progress.",
+    "The speech and language therapist's assessment compares the child's language development with that of peers.",
+    {
+     "yazi": "As Sharma and colleagues showed, P1 latency in cortical responses can be used to track maturation of the auditory cortex.",
+     "ses": "As Sharma and colleagues showed, P one latency in cortical responses can be used to track maturation of the auditory cortex."
+    },
+    "The processor's data logging shows how many hours a day the child uses the implant and in what environments.",
+    "If use is low, the reason is first addressed with the family, because no map can help with a processor that is not worn."
+   ]
+  },
+  {
+   "id": "takvim",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Aided thresholds",
+   "baslik": "The *schedule* for the first year",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Activation",
+     "cumle": 0,
+     "metin": "First map"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "First weeks",
+     "cumle": 1,
+     "metin": "Frequent adjustments"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "First months",
+     "cumle": 2,
+     "metin": "Aided thresholds"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "After that",
+     "cumle": 4,
+     "metin": "Less frequent visits"
+    }
+   ],
+   "cumleler": [
+    "The first map is made on activation day; in children this map is often deliberately cautious.",
+    "Because levels change quickly in the first weeks, visits are frequent; some centers see the child several times in the first month.",
+    "In the first months, aided thresholds and behavioral levels are measured more and more reliably.",
+    "Once levels stabilize, visit intervals lengthen, but children continue to be followed more often than adults.",
+    "At each visit, impedance, levels, aided thresholds, data logging and family observations are assessed together.",
+    "The schedule varies between centers; what matters is catching problems before they cause a loss in development."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Aided thresholds",
+   "baslik": "Daily *checks* at home",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hardware",
+     "cumle": 0,
+     "metin": "Battery, cable, coil"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Listening check",
+     "cumle": 1,
+     "metin": "Monitor earphones"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Ling sounds",
+     "cumle": 2,
+     "metin": "Every morning"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Reporting",
+     "cumle": 4,
+     "metin": "Call if something changes"
+    }
+   ],
+   "cumleler": [
+    "Every morning the family checks that the battery is charged, the cable is intact and the coil stays in place.",
+    "For some processors, monitor earphones or an app let you check that the microphone works by listening or with an indicator.",
+    "Then the Ling six sound test checks whether the child responds to each sound.",
+    "If the child stops responding to a sound they used to respond to, or suddenly starts refusing the processor, the center is called.",
+    "These simple checks keep a fault or a map problem from going unnoticed for days."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Book the appointment when the child is fed, rested and calm. Make a parent an observer, record responses together and keep the session short.",
+   "cumleler": [
+    "A tip from the clinic: schedule the child's programming appointment for a time when they are fed, rested and calm.",
+    "Include a parent as an observer in the session; they know the child's small reactions better than you do.",
+    "Record on which electrode and at what level each response was obtained; this record will guide you at the next visit.",
+    "Do not push a tired child; a short, successful session gives more information than a long, tearful one."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "ECAP: gives the profile of levels",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ESRT: guides the upper limit",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Behavioral confirmation is essential",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Aided threshold: about 20 to 30 dB HL",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "ECAP thresholds can be measured in an awake child and help predict the map profile along the electrodes.",
+     "ses": "E cap thresholds can be measured in an awake child and help predict the map profile along the electrodes."
+    },
+    {
+     "yazi": "The ESRT gives a value close to the comfort level and offers a safe limit for upper levels.",
+     "ses": "The E S R T gives a value close to the comfort level and offers a safe limit for upper levels."
+    },
+    "Objective predictions are confirmed with age-appropriate behavioral methods and family observations.",
+    "Sound field aided thresholds of about 20 to 30 dB HL are the target; development and hours of use are tracked regularly."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is the target for aided thresholds?",
+   "secenekler": [
+    "0 to 10 dB HL",
+    "20 to 30 dB HL",
+    "50 to 60 dB HL",
+    "70 dB HL and above"
+   ],
+   "dogru": 1,
+   "aciklama": "This level shows that _soft speech_ can be heard too.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a child with an implant, what level is usually the target for sound field aided thresholds?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: about 20 to 30 dB HL.",
+    "This level shows that soft speech sounds can be heard too; clearly worse thresholds call for a review of the map."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Bimodal* Hearing and Bilateral Implants",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about using an implant in one ear and a hearing aid in the other, and bilateral implants.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

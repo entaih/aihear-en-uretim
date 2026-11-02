@@ -1,0 +1,802 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D050_Binaural_Hearing_EN",
+ "kapak": {
+  "ust": "LESSON 50",
+  "baslik": "*Binaural*<br>hearing",
+  "alt": "Why are two ears better than one?",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "superior_oliver"
+  ]
+ },
+ "youtube": {
+  "baslik": "Binaural Hearing: Why Two Ears Beat One | Lesson 50 | AIHEAR Audiology Academy",
+  "aciklama": "Hearing with two ears makes it easier to locate sounds and to understand speech in noise. In this lesson we look at the interaural time difference (ITD), the interaural level difference (ILD), the head shadow effect, binaural summation and binaural squelch, and the everyday effects of one-sided hearing loss.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing; Blauert, Spatial Hearing; Katz, Handbook of Clinical Audiology; Silman, Gelfand and Silverman (1984), Late-onset auditory deprivation: effects of monaural versus binaural hearing aids, Journal of the Acoustical Society of America.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "binaural"
+  ],
+  "etiketler": [
+   "binaural hearing",
+   "interaural time difference",
+   "interaural level difference",
+   "head shadow effect",
+   "binaural summation",
+   "binaural squelch",
+   "sound localization",
+   "masking level difference",
+   "single-sided deafness",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 50",
+   "baslik": "*Binaural* hearing",
+   "alt": "Why are two ears better than one?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the advantages that hearing with two ears, binaural hearing, gives our brain.",
+    "We will look at the mechanisms that help us locate sounds, use the head shadow and understand in noise."
+   ]
+  },
+  {
+   "id": "avantajlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The advantage of two ears",
+   "baslik": "*What* do two ears give us?",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Localisation",
+     "metin": "Finding where a sound comes from",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Understanding in noise",
+     "metin": "Better than one ear",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Head shadow",
+     "metin": "Using the ear away from noise",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Binaural summation",
+     "metin": "Sound is perceived louder",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Hearing with two ears is called binaural hearing; hearing with one ear is monaural hearing."
+    },
+    "Two ears allow the brain to find where a sound is coming from.",
+    "They help us understand speech in noisy places better than with one ear.",
+    "They let us use the ear on the side away from the noise; this is making use of the head shadow effect.",
+    "The same sound heard with two ears is perceived as slightly louder; this is called binaural summation.",
+    "Most of these advantages rely on the brainstem comparing information from the two ears."
+   ]
+  },
+  {
+   "id": "beyin_sapi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The advantage of two ears",
+   "baslik": "*Where* do the two ears meet?",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "superior olivary complex",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "cochlear nucleus",
+     "cumle": 1
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior colliculus",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "auditory cortex",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 0
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Medial superior olive: time difference",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Lateral superior olive: level difference",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Recall from earlier lessons that information from the two ears first meets in the superior olivary complex in the brainstem.",
+    "Fibers leaving the cochlear nucleus reach the superior olivary complex on both the same and the opposite side.",
+    "The medial superior olive in this complex compares the difference in the arrival times of sound at the two ears.",
+    "The lateral superior olive assesses the level difference between the two ears.",
+    "This information is processed in the inferior colliculus and higher stations to determine the direction of the sound.",
+    "Thanks to the crossing fibers, both auditory cortices receive information from both ears."
+   ]
+  },
+  {
+   "id": "itd",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Localisation",
+   "baslik": "Interaural *time* difference",
+   "maddeler": [
+    {
+     "metin": "Sound reaches the far ear _a bit later_",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "At most about _0.7 ms_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Tiny differences are _detected_",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Most useful: _low_ frequencies",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "itd",
+     "yol_cumle": 0,
+     "etiket": "Up to about 0.7 ms"
+    },
+    "vurgula": [
+     {
+      "parca": "yakin_yol",
+      "cumle": 0
+     },
+     {
+      "parca": "uzak_yol",
+      "cumle": 1
+     },
+     {
+      "parca": "zaman_farki",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "When a sound comes from the side, it reaches the near ear slightly earlier and the far ear slightly later.",
+    "This delay is called the interaural time difference, or ITD.",
+    {
+     "yazi": "When a sound comes from directly to the side, this difference is at most about 0.6 to 0.7 milliseconds for an adult head.",
+     "ses": "When a sound comes from directly to the side, this difference is at most about zero point six to zero point seven milliseconds for an adult head."
+    },
+    "Under the best conditions, the hearing system can detect time differences as small as ten to twenty millionths of a second.",
+    "The time difference is most useful at low frequencies, below about one thousand five hundred hertz.",
+    "At higher frequencies the wavelength gets shorter, and it becomes unclear which wave peaks at the two ears match."
+   ]
+  },
+  {
+   "id": "ild",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Localisation",
+   "baslik": "Interaural *level* difference",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "ild",
+    "frekanslar": [
+     4000,
+     500
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "bas_golgesi",
+     "metin": "Head shadow",
+     "cumle": 1
+    },
+    {
+     "parca": "pes_dalga",
+     "metin": "Bends around the head",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 1
+    },
+    {
+     "parca": "tiz_dalga",
+     "cumle": 2
+    },
+    {
+     "parca": "pes_dalga",
+     "cumle": 4
+    },
+    {
+     "parca": "uzak_kulak",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Head: about 15 to 18 cm",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "500 Hz: about 70 cm",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "At high frequencies, over 20 dB",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The second cue for localisation is the interaural level difference, or ILD.",
+    "The head forms an obstacle to sound from the opposite side and creates a sound shadow at the far ear.",
+    "This shadow is clear for high-frequency sounds whose wavelength is shorter than the width of the head.",
+    "A four thousand hertz sound has a wavelength of about nine centimeters, while an adult head is clearly wider than that.",
+    "A five hundred hertz sound, with a wavelength of about seventy centimeters, easily bends around the head.",
+    "So the level difference can exceed twenty decibels at high frequencies, but stays at a few decibels at low frequencies."
+   ]
+  },
+  {
+   "id": "ikili_kuram",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Localisation",
+   "baslik": "The *duplex* theory",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Time difference (ITD)",
+     "metin": "Below 1500 Hz; medial superior olive",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Level difference (ILD)",
+     "metin": "High frequencies; lateral superior olive",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Envelope time difference",
+     "metin": "Extra cue in complex high sounds",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "The pinna",
+     "metin": "Up, down, front, back",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "According to Lord Rayleigh's duplex theory, the two cues divide the work by frequency."
+    },
+    "At low frequencies, direction is found mainly from the time difference, which is processed in the medial superior olive.",
+    "At high frequencies, the level difference comes to the fore and is assessed in the lateral superior olive.",
+    "Because of this division, the direction of pure tones between about one thousand five hundred and three thousand hertz is harder to find.",
+    "For high-frequency but complex sounds, time differences in the sound envelope give an extra cue.",
+    "The frequency changes created by the pinna help us tell up from down and front from back."
+   ]
+  },
+  {
+   "id": "koni",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Localisation",
+   "baslik": "Front or *back*?",
+   "maddeler": [
+    {
+     "metin": "Same-cue directions: the _cone of confusion_",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Pinna cues separate _front and back_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Head movement _resolves_ ambiguity",
+     "cumle": 4,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "About _1 degree_ resolution in front",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "etiketler": [
+     {
+      "parca": "kulak_kepcesi",
+      "metin": "pinna (auricle)",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "kulak_kepcesi",
+     "cumle": 3,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    "Time and level differences alone cannot tell every direction apart.",
+    "For example, sounds from straight ahead and from straight behind can reach the two ears with the same differences.",
+    "The region of directions that give the same differences is called the cone of confusion.",
+    "The auricle, or pinna, filters high-frequency sound differently depending on its direction and helps tell front from back.",
+    "Turning the head slightly also changes the differences at the two ears and quickly resolves the ambiguity.",
+    "For sounds in front, a healthy listener can detect a change in direction of even about one degree."
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Localisation",
+   "baslik": "*Direction* in a reverberant room",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Reflections",
+     "metin": "Sound also comes off walls",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "First sound",
+     "metin": "Sets the direction",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Precedence effect",
+     "metin": "Short-delay reflections fuse",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Long delay",
+     "metin": "Heard as a separate echo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In a closed room, sound reaches us both directly and as reflections from the walls.",
+    "Even so, we hear the sound in the direction of its source, because the brain gives priority to the first sound to arrive.",
+    "Reflections arriving after a short delay are not heard as separate sounds but fuse with the first; this is the precedence effect.",
+    "When the delay exceeds a few tens of milliseconds, the reflection starts to be heard as a separate echo.",
+    "The precedence effect helps us locate a talker and tell sounds apart in reverberant places."
+   ]
+  },
+  {
+   "id": "bas_golgesi",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Hearing in noise",
+   "baslik": "The *head shadow* effect",
+   "maddeler": [
+    {
+     "metin": "The head reduces noise _at one ear_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Better_ signal-to-noise ratio at that ear",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Largest effect at _high_ frequencies",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "The brain listens to the _better ear_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "golge"
+    },
+    "vurgula": [
+     {
+      "parca": "gurultu",
+      "cumle": 0
+     },
+     {
+      "parca": "bas_golgesi",
+      "cumle": 0
+     },
+     {
+      "parca": "iyi_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "kotu_kulak",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "When speech comes from one side and noise from the other, the head reduces the noise at the ear in its shadow.",
+    "At that ear the ratio of speech to noise, the signal-to-noise ratio, is better.",
+    "The head shadow effect is larger at high frequencies and matters for speech intelligibility.",
+    "In speech understanding tests, this effect is reported to give a benefit of a few decibels, often up to about six decibels.",
+    "This benefit is largely physical; the brain only needs to attend to the ear in the better position.",
+    "A person with one-sided loss loses this advantage when the noise comes from the side of the good ear."
+   ]
+  },
+  {
+   "id": "toplama_squelch",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Hearing in noise",
+   "baslik": "Summation and *squelch*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Binaural summation",
+     "metin": "About 3 dB gain at threshold",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Louder",
+     "metin": "Sound is perceived louder",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Helps speech",
+     "metin": "Small but valuable",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Binaural squelch",
+     "metin": "Uses differences between the ears",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise is suppressed",
+     "metin": "Speech is separated",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Central benefit",
+     "metin": "A few dB in noise",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "When sound is given to both ears together, the threshold improves by about three decibels over one ear; this is binaural summation."
+    },
+    "At levels above threshold, sound is perceived as clearly louder with two ears.",
+    "This effect makes a small but valuable contribution to understanding speech.",
+    {
+     "yazi": "Binaural squelch, by contrast, uses the time and level differences of speech and noise as they reach the two ears."
+    },
+    "Using these differences, the brainstem partly suppresses the noise and separates out the speech.",
+    "This central benefit is usually smaller than that of the head shadow, but it matters in real environments."
+   ]
+  },
+  {
+   "id": "mld",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Hearing in noise",
+   "baslik": "The binaural masking level *difference*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Same presentation",
+     "metin": "Tone, noise identical at both ears",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Phase inverted",
+     "metin": "Tone inverted at one ear",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Threshold improves",
+     "metin": "10 to 15 dB at 500 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Clinical use",
+     "metin": "Tests brainstem function",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The strength of binaural processing can be measured with the masking level difference, or MLD."
+    },
+    "First, the tone and noise are given identically to both ears, and the threshold of the tone is found.",
+    "Then the phase of the tone is inverted in one ear only; this time the tone is heard far more easily through the noise.",
+    "At low frequencies, for example five hundred hertz, this improvement is usually around ten to fifteen decibels in normal listeners.",
+    "Because the test reflects binaural processing in the brainstem, it is also used in auditory processing assessments."
+   ]
+  },
+  {
+   "id": "tek_tarafli",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical effects",
+   "baslik": "Example: *one-sided* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: moderate loss",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       45,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this example the right ear is within normal limits; thresholds were measured with insert earphones.",
+    "In the left ear there is a moderate hearing loss that increases with frequency.",
+    "Such a person can often understand someone facing them well in a quiet room.",
+    "But they may struggle to locate sounds, and difficulty rises markedly when speech comes from the left and noise from the right.",
+    "This is because the difference between the ears distorts the time and level cues and makes it harder to use the head shadow.",
+    "That is why one-sided losses can cause greater everyday difficulty than their audiogram suggests."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical effects",
+   "baslik": "*Two ears* in the clinic",
+   "maddeler": [
+    {
+     "metin": "Bilateral loss: advantage of _two_ devices",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "One device: _deprivation_ risk in unaided ear",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Severe one-sided loss: _different_ options",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Decision by person and _findings_",
+     "cumle": 5,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "BTE"
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "In bilateral hearing loss, fitting devices to both ears helps preserve binaural advantages.",
+    "Studies have shown that bilateral fitting can help with understanding in noise and with localisation.",
+    "In some people with bilateral loss who use only one device, the word recognition score of the unaided ear can fall over time.",
+    "This is called late-onset auditory deprivation.",
+    {
+     "yazi": "For severe one-sided loss there are CROS systems that route the signal to the other side, bone-anchored devices and cochlear implants."
+    },
+    "Each option has its own advantages; the decision depends on the person's hearing, expectations and the team's assessment."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical effects",
+   "baslik": "Clinical tip",
+   "metin": "With one-sided loss, advise keeping the talker on the good-ear side and the noise source on the side of the poorer ear. This simple seating makes understanding easier.",
+   "cumleler": [
+    "A clinical tip: teach a person with one-sided loss to use the head shadow to their advantage.",
+    "In a meeting or at a table, keeping the talker on the good-ear side makes understanding easier.",
+    "Leaving the noise source, such as a busy table or a door, on the side of the poorer ear also helps.",
+    "This simple advice is an important part of counselling, alongside measurement."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_ITD_: direction at low frequencies",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_ILD_ and head shadow: high frequencies",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Summation about _3 dB_, squelch a few dB",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "One-sided loss: direction and _noise_ difficulty",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "The interaural time difference is the main cue for localisation, especially at low frequencies.",
+    "The interaural level difference and the head shadow are prominent at high frequencies.",
+    "Binaural summation gives about three decibels at threshold, and binaural squelch gives an extra advantage in noise.",
+    "One-sided loss can make localisation and understanding in noise markedly harder."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "What is the main localisation cue at high frequencies?",
+   "secenekler": [
+    "Interaural time difference",
+    "Interaural level difference",
+    "Binaural summation",
+    "Bone conduction"
+   ],
+   "dogru": 1,
+   "aciklama": "High-frequency wavelengths are shorter than the head; the _head shadow_ creates a level difference at the far ear.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what is the main localisation cue at high frequencies?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the interaural level difference."
+    },
+    "High-frequency wavelengths are shorter than the head, so the head shadow creates a clear level difference at the far ear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vestibular Physiology: How We *Sense* Head Motion",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we return to the balance part of the inner ear and learn how head motion is sensed.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

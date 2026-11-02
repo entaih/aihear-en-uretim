@@ -1,0 +1,268 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R509_The_Diamond_in_a_Forest_Plot_EN",
+ "kapak": {
+  "ust": "QUICK FACT #509",
+  "baslik": "What the *diamond* means",
+  "alt": "How to read a forest plot",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 14,
+    "adim": 2,
+    "ad": "Mean difference (points); right favors device"
+   },
+   "y": {
+    "min": 0,
+    "max": 7,
+    "adim": 1,
+    "ters": true,
+    "yazilar": {
+     "1": "Study A",
+     "2": "Study B",
+     "3": "Study C",
+     "4": "Study D",
+     "5": "Study E",
+     "6": "Overall"
+    }
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "noktalar": [
+      [
+       1,
+       1
+      ],
+      [
+       7,
+       1
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "b",
+     "noktalar": [
+      [
+       2.5,
+       2
+      ],
+      [
+       9.5,
+       2
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "c",
+     "noktalar": [
+      [
+       -2,
+       3
+      ],
+      [
+       6,
+       3
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 3
+    },
+    {
+     "ad": "d",
+     "noktalar": [
+      [
+       3,
+       4
+      ],
+      [
+       7,
+       4
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "e",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       13,
+       5
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "tahminler",
+     "tur": "nokta",
+     "noktalar": [
+      [
+       4,
+       1
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       2,
+       3
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       7,
+       5
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 1
+    },
+    {
+     "ad": "elmas",
+     "noktalar": [
+      [
+       3.4,
+       6
+      ],
+      [
+       4.8,
+       5.7
+      ],
+      [
+       6.2,
+       6
+      ],
+      [
+       4.8,
+       6.3
+      ],
+      [
+       3.4,
+       6
+      ]
+     ],
+     "renk": "sari",
+     "dolgu": true,
+     "cumle": 5
+    }
+   ],
+   "bolgeler": [],
+   "isaretler": [
+    {
+     "ad": "sifir",
+     "x": 0,
+     "cizgi": "dikey",
+     "etiket": "no effect",
+     "cumle": 2
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What does the diamond at the bottom of a forest plot show? #shorts",
+  "aciklama": "The result of a meta-analysis is shown with a forest plot. Each row is a study: the dot shows that study's estimate and the horizontal line its 95 percent confidence interval; the vertical line in the middle is the line of no effect, which is zero for a mean difference. The diamond at the bottom is the pooled estimate: its center shows the overall effect, and its two ends the confidence interval. In the teaching example, the diamond does not cross zero and the pooled evidence suggests a benefit; whether the difference is clinically meaningful is a separate question.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "evidencebased",
+   "research"
+  ],
+  "etiketler": [
+   "meta-analysis",
+   "forest plot",
+   "confidence interval",
+   "pooled estimate",
+   "systematic review",
+   "evidence-based audiology",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What does the diamond at the bottom of a forest plot show?",
+  "bilgiler": [
+   "The dot is the study's estimate; the line, its confidence interval.",
+   "An interval crossing zero alone shows no significant difference.",
+   "The diamond shows the pooled estimate and its interval."
+  ],
+  "hashtag": [
+   "audiology",
+   "evidencebased",
+   "research"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #509",
+   "metin": "What does it *show?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What does the diamond at the bottom of a forest plot show?"
+   ]
+  },
+  {
+   "id": "grafik",
+   "tur": "zincir",
+   "baslik": "The forest *plot*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Dot",
+     "tr": "the study's estimate",
+     "cumle": 0
+    },
+    {
+     "ad": "Line",
+     "tr": "confidence interval",
+     "cumle": 0,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Diamond",
+     "tr": "pooled result",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Each row is a study: dot for estimate, line for confidence interval.",
+    "A study whose interval crosses zero shows no significant difference alone.",
+    "The bottom diamond is the pooled estimate; its ends show the interval.",
+    "If the diamond does not cross zero, pooled evidence suggests a benefit."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D299",
+ "kaynak_baslik": "Evidence-Based Audiology: Reading Systematic Reviews"
+}

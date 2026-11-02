@@ -1,0 +1,761 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D042_Reading_A_Spectrogram_EN",
+ "kapak": {
+  "ust": "LESSON 42",
+  "baslik": "Reading a<br>*spectrogram*",
+  "alt": "The acoustics of speech sounds",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "How to Read a Spectrogram: Acoustics of Speech | Lesson 42 | AIHEAR Audiology Academy",
+  "aciklama": "A spectrogram is a picture of speech that shows time, frequency and intensity together. In this lesson we cover the spectrogram axes, wideband and narrowband spectrograms, the F1 and F2 formants of vowels, the high-frequency energy of fricatives, voice onset time (VOT) in stops, and why all this matters in high-frequency hearing loss.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Kent RD and Read C, The Acoustic Analysis of Speech; Ladefoged P, A Course in Phonetics; Fant G, Acoustic Theory of Speech Production; Stevens KN, Acoustic Phonetics; Boersma P and Weenink D, Praat: doing phonetics by computer.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "speech"
+  ],
+  "etiketler": [
+   "spectrogram",
+   "formant",
+   "F1 F2",
+   "fricative",
+   "voice onset time",
+   "VOT",
+   "speech acoustics",
+   "source-filter model",
+   "Ling six sounds",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 42",
+   "baslik": "How to read a *spectrogram*",
+   "alt": "Formants, fricatives and voice onset time",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn to read the spectrogram, the picture of speech.",
+    "We will look at vowel formants, the high-frequency energy of fricatives and voice onset time in stop consonants."
+   ]
+  },
+  {
+   "id": "uc_gosterim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The language of the spectrogram",
+   "baslik": "From waveform to *spectrogram*",
+   "cizim": "spektrogram",
+   "ayar": {
+    "cumle": 2
+   },
+   "vurgula": [
+    {
+     "parca": "dalga_bicimi",
+     "cumle": 0
+    },
+    {
+     "parca": "frekans_ekseni",
+     "cumle": 1
+    },
+    {
+     "parca": "koyuluk",
+     "cumle": 2
+    },
+    {
+     "parca": "a_sesi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Waveform: _time_ and pressure",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Spectrum: _frequency_ and intensity",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Spectrogram: _all three_ at once",
+     "cumle": 2,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "We can show a sound in different ways; the first is the waveform, which shows pressure changing over time.",
+    "The spectrum shows how much energy a sound carries at each frequency at a given moment.",
+    {
+     "yazi": "The spectrogram combines the two: it shows how the frequency content changes over time."
+    },
+    "Because speech is a constantly changing sound, the spectrogram is one of the most powerful tools for studying it.",
+    {
+     "yazi": "The first sound spectrographs were developed at Bell Laboratories in the 1940s and transformed speech research.",
+     "ses": "The first sound spectrographs were developed at Bell Laboratories in the nineteen forties and transformed speech research."
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_bicimi",
+     "metin": "Waveform",
+     "cumle": 0
+    },
+    {
+     "parca": "formantlar",
+     "metin": "Formant bands in the vowel",
+     "cumle": 3
+    },
+    {
+     "parca": "s_sesi",
+     "metin": "s: high-frequency noise",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "eksenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The language of the spectrogram",
+   "baslik": "Three *axes*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Horizontal: time",
+     "metin": "Speech runs from left to right",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Vertical: frequency",
+     "metin": "Low at the bottom, high at the top",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Darkness: intensity",
+     "metin": "Darker areas are stronger",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Unlike the audiogram",
+     "metin": "There, frequency runs left to right",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "On a spectrogram, the horizontal axis is time; speech runs from left to right.",
+    "The vertical axis is frequency, with low frequencies at the bottom and high frequencies at the top.",
+    "The third dimension, intensity, is shown by darkness or color; dark or bright areas mean more energy.",
+    "Note that frequency runs from left to right on the audiogram, but from bottom to top on the spectrogram.",
+    "With these three axes in mind, we can read the traces of speech sounds."
+   ]
+  },
+  {
+   "id": "genis_dar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The language of the spectrogram",
+   "baslik": "Wideband and *narrowband*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Wideband",
+     "metin": "Short window: formant bands, time detail",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Narrowband",
+     "metin": "Long window: harmonics, frequency detail",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Spectrograms can be made with two basic settings: wideband and narrowband.",
+    "In a wideband spectrogram the analysis window is short, and formants appear as dark bands.",
+    "Time detail is good; each vibration of the vocal folds can be seen as a thin vertical line.",
+    "In a narrowband spectrogram the window is long; this time the individual harmonics appear as horizontal lines.",
+    "Frequency detail is good, but fast changes over time become blurred.",
+    "Both are valid: wideband is usually chosen for formants and consonants, narrowband for pitch and harmonics."
+   ]
+  },
+  {
+   "id": "kaynak_suzgec",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Vowels and formants",
+   "baslik": "Source and *filter*",
+   "cumleler": [
+    "To understand vowels, we use the source-filter model.",
+    {
+     "yazi": "The source is the vibration of the vocal folds; its rate is called the fundamental frequency, or F0.",
+     "ses": "The source is the vibration of the vocal folds; its rate is called the fundamental frequency, or F zero."
+    },
+    {
+     "yazi": "F0 is about one hundred to one hundred fifty hertz in men, two hundred to two hundred fifty in women, and higher in children.",
+     "ses": "F zero is about one hundred to one hundred fifty hertz in men, two hundred to two hundred fifty in women, and higher in children."
+    },
+    "Along with the fundamental, the vocal folds produce its multiples, the harmonics; the filter is the vocal tract from the larynx to the lips.",
+    "The vocal tract boosts certain frequency regions; these resonance regions are called formants.",
+    "As the tongue, jaw and lips change position, the formants move and different vowels emerge."
+   ],
+   "cizim": "kaynak_suzgec",
+   "ayar": {
+    "f0": 125,
+    "kaynak_cumle": 1,
+    "suzgec_cumle": 3,
+    "cikis_cumle": 4
+   },
+   "etiketler": [
+    {
+     "parca": "formantlar",
+     "metin": "Formants",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kaynak",
+     "cumle": 1
+    },
+    {
+     "parca": "f0",
+     "cumle": 2
+    },
+    {
+     "parca": "suzgec",
+     "cumle": 3
+    },
+    {
+     "parca": "formantlar",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Source: vocal folds, _F0_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Filter: the _vocal tract_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Mouth shape _moves the formants_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ]
+  },
+  {
+   "id": "formantlar",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Vowels and formants",
+   "baslik": "*F1 and F2* in vowels",
+   "sutunlar": [
+    "Vowel",
+    "F1 (Hz)",
+    "F2 (Hz)",
+    "Tongue position"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "i",
+      "About 300",
+      "About 2200",
+      "High, front"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "u",
+      "About 320",
+      "About 800",
+      "High, back"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "a",
+      "About 700",
+      "About 1250",
+      "Low"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "e",
+      "About 450",
+      "About 1900",
+      "Mid, front"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "o",
+      "About 450",
+      "About 900",
+      "Mid, back"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Each vowel is recognized largely by the position of its first two formants, F1 and F2."
+    },
+    {
+     "yazi": "The first formant is inversely related to tongue height: in high vowels such as /i/ and /u/, F1 is low.",
+     "ses": "The first formant is inversely related to tongue height: in high vowels such as ee and oo, F1 is low."
+    },
+    {
+     "yazi": "In low vowels with an open mouth, such as /a/, F1 is high, around seven hundred hertz.",
+     "ses": "In low vowels with an open mouth, such as ah, F1 is high, around seven hundred hertz."
+    },
+    {
+     "yazi": "The second formant relates to tongue frontness: F2 is high in front vowels such as /i/ and /e/, and low in back vowels such as /u/ and /o/.",
+     "ses": "The second formant relates to tongue frontness: F2 is high in front vowels such as ee and eh, and low in back vowels such as oo and oh."
+    },
+    "The values in the table are approximate examples for an adult male speaker; formants are higher in women and children.",
+    "Each of the eight Turkish vowels sits in its own place on the map formed by these two formants."
+   ]
+  },
+  {
+   "id": "unluler",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Vowels and formants",
+   "baslik": "Why are vowels *easy* to hear?",
+   "cizim": "konusma_muzu",
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vowels are _strong_ and low-weighted",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Front vowels: F2 above _2000 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "High-frequency loss: vowels may _blur_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "unluler",
+     "metin": "vowels: strong, low",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "metin": "consonants: weak, high",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Vowels are the strongest sounds of speech, and most of their energy lies below one thousand hertz.",
+    "That is why even people with high-frequency hearing loss usually hear vowels well.",
+    {
+     "yazi": "But telling vowels apart also needs the second formant; in front vowels such as /i/, this formant rises above two thousand hertz.",
+     "ses": "But telling vowels apart also needs the second formant; in front vowels such as ee, this formant rises above two thousand hertz."
+    },
+    {
+     "yazi": "With mid and high-frequency loss, Turkish vowel pairs such as i and ü, or e and ö, may be confused.",
+     "ses": "With mid and high-frequency loss, Turkish front vowels such as ee and its rounded pair, or eh and its rounded pair, may be confused."
+    },
+    "On the speech banana, too, we see vowels gathered in the low and strong region, and consonants in the higher and weaker region."
+   ]
+  },
+  {
+   "id": "surtunmeli",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Consonants",
+   "baslik": "*Fricative* consonants",
+   "maddeler": [
+    {
+     "metin": "_Turbulence_ in a narrow gap: noise",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "s: mostly above _4000 Hz_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "sh: from about _2000 Hz_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "f: weak and _diffuse_",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "z, v, zh: plus _voicing_",
+     "cumle": 6,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "unsuzler",
+      "metin": "s, sh, f",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Fricatives are produced by turbulence as air is forced through a narrow gap in the mouth."
+    },
+    "On the spectrogram they appear not as regular harmonics but as grainy noise spread over a wide area.",
+    "The energy of the s sound lies in the highest region, usually concentrated above four thousand hertz.",
+    "For sh, the space in front of the constriction is longer and the lips are slightly rounded.",
+    "So the energy of sh starts lower, at around two thousand to two thousand five hundred hertz.",
+    "The f sound is a weak noise spread over a wide area, which makes it one of the most easily missed sounds.",
+    "In voiced fricatives such as z, v and zh, besides the noise, a voicing bar from the vocal folds is seen at the very bottom."
+   ]
+  },
+  {
+   "id": "patlamali",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Consonants",
+   "baslik": "Stops and *VOT*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Closure",
+     "metin": "A short silent gap",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Burst",
+     "metin": "A short vertical trace",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "VOT",
+     "metin": "Time from burst to voicing",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "b, d, g",
+     "metin": "Voicing with or before burst",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "p, t, k",
+     "metin": "Delayed, aspirated voicing",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In stop consonants, the airflow is completely blocked for a moment; on the spectrogram this closure appears as a short silent gap.",
+    "Then, as the closure is released, a short vertical burst is seen.",
+    {
+     "yazi": "The time between the burst and the start of vocal fold vibration is called voice onset time, or VOT.",
+     "ses": "The time between the burst and the start of vocal fold vibration is called voice onset time, or V.O.T."
+    },
+    "In Turkish voiced stops such as b, d and g, voicing often starts with the burst or even before it.",
+    "In voiceless stops such as p, t and k, voicing starts with a clear delay, after a breathy aspiration noise.",
+    "This difference of a few tens of milliseconds shows how precisely the brain uses timing information."
+   ]
+  },
+  {
+   "id": "tiz_kayip",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "The spectrogram in the clinic",
+   "baslik": "What is *lost* in high-frequency loss?",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       20,
+       45,
+       65,
+       70
+      ],
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vowels are _heard_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "s, sh, f are _missed_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Suffixes and words _get confused_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "This example audiogram shows a loss that drops steeply above one thousand hertz; most vowel energy stays in the audible region.",
+    "But the energy of fricatives such as s, sh and f lies above the threshold line, in the inaudible region.",
+    "The person hears that someone is talking, but may misunderstand the words.",
+    "In Turkish, many suffixes and words contain the s sound; missing it can change the meaning.",
+    "With female and child talkers, s energy shifts even higher; this explains why wide-bandwidth amplification matters for children."
+   ]
+  },
+  {
+   "id": "ling",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "The spectrogram in the clinic",
+   "baslik": "In practice: the *Ling six sounds*",
+   "maddeler": [
+    {
+     "metin": "m, oo: _low_ region",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "ah: _mid_ region",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "ee: low F1, _high_ F2",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "sh, s: _high_ region",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Daily device _check_",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "vurgula": [
+     {
+      "parca": "unluler",
+      "cumle": 2
+     },
+     {
+      "parca": "unsuzler",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "A practical use of spectrogram knowledge is the Ling six sound test.",
+    "It uses the sounds m, oo, ah, ee, sh and s, which together roughly cover the frequency range of speech.",
+    "M and oo represent the low region, and ah the mid region.",
+    "Ee carries a low first formant and a high second formant, while sh and s represent the high region.",
+    "It is used, especially with children, to quickly check whether the device passes these sounds; we will cover it in detail later."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "The spectrogram in the clinic",
+   "baslik": "Steps for reading a *spectrogram*",
+   "adimlar": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Silent gap",
+     "metin": "Stop closure",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Voicing lines",
+     "metin": "Voicing bar at bottom",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Formant bands",
+     "metin": "Where F1, F2 are",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "High noise",
+     "metin": "Fricative consonants",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Transitions, duration",
+     "metin": "Consonant to vowel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "When reading a spectrogram, first look for silent gaps; these are often the closure phase of stops.",
+    "Then look for the voicing bar at the bottom and the thin vertical lines showing vocal fold vibration.",
+    {
+     "yazi": "In vowels, find the dark formant bands and note where F1 and F2 lie."
+    },
+    "Wide, grainy noise areas in the high region point to fricatives.",
+    "Finally, look at formant transitions between consonant and vowel, and at the duration of the sounds.",
+    {
+     "yazi": "You can try these steps by making a spectrogram of your own voice with free programs such as Praat."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "The spectrogram in the clinic",
+   "baslik": "Clinical tip",
+   "metin": "In speech testing, record which sounds are confused. Confusions of s, sh and f are often linked to the 2000 to 8000 Hz region and are valuable for device fitting.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from the clinic: in speech testing, note not only how many answers are correct, but also which sounds the patient confuses.",
+    "Confusions of s, sh and f are often linked to the region of the audiogram between two thousand and eight thousand hertz.",
+    "For example, a patient who hears sh or f instead of s may lack enough audibility in the high region.",
+    "These notes provide valuable information for device fitting and counselling."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Axes: _time_, frequency, intensity",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Vowels are recognized by _F1 and F2_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Fricatives: noise in the _high_ region",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Stops: gap, burst, _VOT_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "On a spectrogram, the horizontal axis shows time, the vertical axis frequency, and darkness shows intensity.",
+    "Vowels are recognized by the position of the first two formants, the resonances of the vocal tract.",
+    "Fricatives appear as noise in the high region; the energy of s is usually above four thousand hertz.",
+    "In stops, the closure gap, the burst and voice onset time separate voiced from voiceless sounds."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which sound appears as noise in the highest region of a spectrogram?",
+   "secenekler": [
+    "The vowel a",
+    "The consonant m",
+    "The consonant s",
+    "The vowel u"
+   ],
+   "dogru": 2,
+   "aciklama": "S is a _fricative_ consonant; its energy is usually concentrated above 4000 Hz.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which sound appears as noise in the highest region of a spectrogram?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is C: the consonant s."
+    },
+    "S is a fricative, and its energy usually appears above four thousand hertz as grainy noise."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The *Speech Banana*: Speech Sounds on the Audiogram",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will place speech sounds on the audiogram and look at the speech banana.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

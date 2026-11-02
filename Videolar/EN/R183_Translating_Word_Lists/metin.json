@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R183_Translating_Word_Lists_EN",
+ "kapak": {
+  "ust": "QUICK FACT #183",
+  "baslik": "Lists cannot be *translated*",
+  "alt": "How stress patterns shape speech tests",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why can't a speech test simply be translated into another language? #shorts",
+  "aciklama": "Speech tests depend on language. In Turkish, stress usually falls on a word's last syllable, so equal-stress spondee words are rare, and common Turkish SRT lists use three-syllable words instead. Tests should be done in the patient's native language, with norms for that language.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "speech",
+   "language"
+  ],
+  "etiketler": [
+   "speech test materials",
+   "SRT",
+   "spondee",
+   "word lists",
+   "speech audiometry",
+   "Turkish",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why can't a speech test simply be translated into another language?",
+  "bilgiler": [
+   "In Turkish, stress usually falls on a word's last syllable.",
+   "So equal-stress spondee words are rare in Turkish.",
+   "Common Turkish SRT lists use three-syllable words instead."
+  ],
+  "hashtag": [
+   "audiology",
+   "speech",
+   "language"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #183",
+   "metin": "Why can't a speech test just be *translated?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why can't a speech test simply be translated into another language?"
+   ]
+  },
+  {
+   "id": "vurgu",
+   "tur": "zincir",
+   "baslik": "Stress on the *last syllable*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Stress",
+     "tr": "last syllable",
+     "cumle": 0
+    },
+    {
+     "ad": "Spondees",
+     "tr": "rare",
+     "cumle": 1
+    },
+    {
+     "ad": "Lists",
+     "tr": "three syllables",
+     "cumle": 3
+    }
+   ],
+   "alt": "Test in the _native language_, with its norms",
+   "alt_cumle": 4,
+   "cumleler": [
+    "In Turkish, stress usually falls on a word's last syllable.",
+    "So equal-stress spondee words, common in English, are rare.",
+    "Translating an English list is not enough; word structures differ.",
+    "Common Turkish SRT lists therefore use three-syllable words.",
+    "Tests should be in the patient's native language, with its norms."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D097",
+ "kaynak_baslik": "Speech Test Materials in Turkish"
+}

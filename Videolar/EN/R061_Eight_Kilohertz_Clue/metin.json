@@ -1,0 +1,130 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R061_Eight_Kilohertz_Clue_EN",
+ "kapak": {
+  "ust": "QUICK FACT #61",
+  "baslik": "The noise notch: *8 kHz*",
+  "alt": "A notch at 3 to 6 kHz, recovery at 8 kHz",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How do you spot noise-induced hearing loss on an audiogram? #shorts",
+  "aciklama": "The typical sign of noise-induced hearing loss is a notch between 3 and 6 kHz with partial recovery at 8 kHz. Age-related loss does not show this recovery; thresholds keep worsening toward 8 kHz.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "noise"
+  ],
+  "etiketler": [
+   "noise-induced hearing loss",
+   "NIHL",
+   "4 kHz notch",
+   "noise notch",
+   "8 kHz recovery",
+   "audiogram",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How do you spot noise-induced hearing loss on an audiogram?",
+  "bilgiler": [
+   "The typical sign is a notch between 3 and 6 kHz.",
+   "At 8 kHz, thresholds recover again.",
+   "Age-related loss does not show this recovery."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "noise"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #61",
+   "metin": "How do you *spot* noise loss on an audiogram?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How do you spot noise-induced hearing loss on an audiogram?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "The clue: recovery *at 8 kHz*",
+   "sayi": "8",
+   "birim": "kHz",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The typical sign is a notch between three and six thousand hertz.",
+    "At eight thousand hertz, thresholds recover again.",
+    "Age-related loss shows no such recovery; thresholds keep worsening."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D140",
+ "kaynak_baslik": "Noise-Induced Hearing Loss and the 4 kHz Notch"
+}

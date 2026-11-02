@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R269_Testing_Until_a_Pass_EN",
+ "kapak": {
+  "ust": "QUICK FACT #269",
+  "baslik": "Testing until a *pass*",
+  "alt": "Why screening attempts are limited",
+  "cizim": "oae",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why is rescreening a baby until it passes a problem? #shorts",
+  "aciklama": "Testing again and again in one session until a pass raises the chance of a false pass by luck, so programs limit the number of attempts per session. Referring on one ear is still a refer result and is not trivial.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "newborn",
+   "screening"
+  ],
+  "etiketler": [
+   "newborn hearing screening",
+   "screening protocol",
+   "OAE",
+   "AABR",
+   "false pass",
+   "unilateral refer",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why is rescreening a baby until it passes a problem?",
+  "bilgiler": [
+   "Each extra attempt raises the chance of a false pass.",
+   "Programs limit the number of attempts per session.",
+   "Referring on one ear is still a refer."
+  ],
+  "hashtag": [
+   "audiology",
+   "newborn",
+   "screening"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #269",
+   "metin": "Just *one more try?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why is rescreening a baby until it passes a problem?"
+   ]
+  },
+  {
+   "id": "deneme",
+   "tur": "zincir",
+   "baslik": "Testing *again and again*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Attempt",
+     "tr": "refer",
+     "cumle": 0
+    },
+    {
+     "ad": "Repeat",
+     "tr": "chance rises",
+     "cumle": 1
+    },
+    {
+     "ad": "Limit",
+     "tr": "attempts capped",
+     "cumle": 2
+    }
+   ],
+   "alt": "One ear is _still a refer_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Testing a baby again and again until a pass is misleading.",
+    "Each attempt raises the chance of a false pass by luck.",
+    "So programs limit the number of attempts per session.",
+    "The date, method and result of each attempt are recorded.",
+    "Referring on one ear is still a refer; it is not trivial."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D173",
+ "kaynak_baslik": "Screening Protocols: OAE, AABR and Two-Stage"
+}

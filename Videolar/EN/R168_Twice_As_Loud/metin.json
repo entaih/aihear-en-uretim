@@ -1,0 +1,95 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R168_Twice_As_Loud_EN",
+ "kapak": {
+  "ust": "QUICK FACT #168",
+  "baslik": "Twice as *loud*",
+  "alt": "10 dB more, twice the loudness",
+  "cizim": "desibel_olcegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How many decibels make a sound twice as loud? #shorts",
+  "aciklama": "Above 40 phons, loudness doubles for roughly every 10-phon increase: 50 phons is 2 sones, 60 phons is 4 sones and 70 phons is 8 sones. In short, a tenfold increase in intensity, or 10 dB, only doubles perceived loudness.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "acoustics",
+   "hearing"
+  ],
+  "etiketler": [
+   "loudness",
+   "phon",
+   "sone",
+   "decibel",
+   "psychoacoustics",
+   "equal loudness",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How many decibels make a sound twice as loud?",
+  "bilgiler": [
+   "Doubling the intensity does not make a sound twice as loud.",
+   "Above 40 phons, about every 10 phons doubles the loudness.",
+   "A tenfold intensity increase, or 10 dB, only doubles loudness."
+  ],
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #168",
+   "metin": "How many dB is twice as *loud?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How many decibels make a sound twice as loud?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Loudness *doubles*",
+   "sayi": "+10",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Doubling the intensity does not make a sound twice as loud.",
+    {
+     "yazi": "Above 40 phons, about every 10 phons doubles the loudness.",
+     "ses": "Above forty phons, about every ten phons doubles the loudness."
+    },
+    {
+     "yazi": "40 phons is 1 sone, 50 is 2, 60 is 4.",
+     "ses": "Forty phons is one sone, fifty is two, sixty is four."
+    },
+    {
+     "yazi": "So a tenfold rise in intensity, 10 dB, only doubles loudness.",
+     "ses": "So a tenfold rise in intensity, ten decibels, only doubles loudness."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D080",
+ "kaynak_baslik": "Loudness Perception: Phons and Sones"
+}

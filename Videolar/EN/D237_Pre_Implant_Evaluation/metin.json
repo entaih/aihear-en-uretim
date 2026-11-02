@@ -1,0 +1,788 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D237_Pre_Implant_Evaluation_EN",
+ "kapak": {
+  "ust": "LESSON 237",
+  "baslik": "Pre-implant<br>*evaluation*",
+  "alt": "Tests and imaging",
+  "cizim": "ic_kulak_yolu_dibi",
+  "vurgula": [
+   "koklear_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "Pre-Implant Evaluation: Tests and Imaging | Lesson 237 | AIHEAR Audiology Academy",
+  "aciklama": "Which tests are done before a cochlear implant? In this lesson we learn about the history, the audiological test battery, assessment in children, the role of ABR and OAE, how vestibular tests help choose the ear, assessing the cochlea and cochlear nerve with CT and MRI, and expectation counseling.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Niparko (ed.), Cochlear Implants: Principles and Practices; Sennaroğlu and Bajin (2017), Classification and Current Management of Inner Ear Malformations, Balkan Medical Journal; Katz, Handbook of Clinical Audiology; Social Security Institution, Health Implementation Communiqué (SUT), Türkiye, section 3.3.33.B.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "cochlear implant evaluation",
+   "preoperative evaluation",
+   "cochlear nerve deficiency",
+   "expectation counseling",
+   "temporal bone CT",
+   "inner ear MRI",
+   "vestibular testing",
+   "ABR",
+   "ear selection",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 237",
+   "baslik": "Pre-implant *evaluation*",
+   "alt": "Tests, imaging and expectation counseling",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn which tests are done before a cochlear implant and what each one adds to the decision.",
+    "We will cover audiological, electrophysiological and vestibular tests, CT and MRI, and expectation counseling."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The evaluation pathway",
+   "baslik": "The evaluation *pathway*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "History",
+     "cumle": 0,
+     "metin": "Cause, duration, goals"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiology",
+     "cumle": 1,
+     "metin": "Unaided and aided"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrophysiology",
+     "cumle": 2,
+     "metin": "ABR, OAE, balance"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Imaging",
+     "cumle": 3,
+     "metin": "CT and MRI"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Team decision",
+     "cumle": 4,
+     "metin": "Counseling and consent"
+    }
+   ],
+   "cumleler": [
+    "The preoperative evaluation starts with a detailed history.",
+    "Audiological tests document the degree of loss and the benefit obtained with hearing aids.",
+    "Electrophysiological and vestibular tests add information that behavioral tests cannot provide.",
+    "Imaging shows whether the cochlea and the auditory nerve are suitable for an implant.",
+    "All findings are reviewed by the team, together with expectation counseling for the person and family.",
+    "Which ear will receive the implant is also often decided at the end of this evaluation."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The evaluation pathway",
+   "baslik": "What is asked in the *history?*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Cause",
+     "cumle": 0,
+     "metin": "Genetics, meningitis, CMV"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Duration",
+     "cumle": 1,
+     "metin": "How long the severe loss?"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aid history",
+     "cumle": 2,
+     "metin": "How long, how consistently?"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Communication mode",
+     "cumle": 3,
+     "metin": "Spoken or sign language"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Health status",
+     "cumle": 4,
+     "metin": "Other conditions, ear surgery"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Goals",
+     "cumle": 5,
+     "metin": "Expectations of person and family"
+    }
+   ],
+   "cumleler": [
+    "The cause of the loss is explored, such as genetic causes, meningitis, congenital cytomegalovirus infection or ototoxic drugs.",
+    "How long the severe loss has been present is one of the most important facts affecting the expected outcome.",
+    "How long and how many hours a day the hearing aids have been worn is recorded; data logging helps here.",
+    "The communication mode used by the person or family, such as spoken or sign language, affects the rehabilitation plan.",
+    "Previous ear surgery, chronic middle ear disease and general health are important for surgical planning.",
+    "Finally, what the person and family expect from the implant is discussed openly."
+   ]
+  },
+  {
+   "id": "odyoloji",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Audiological tests",
+   "baslik": "The audiological *test battery*",
+   "maddeler": [
+    {
+     "metin": "Unaided thresholds: air, bone, masked",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Tympanometry, acoustic reflex, OAE",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Aided tests with verified devices",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Residual hearing recorded in detail",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Each ear separately: ear selection",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        55,
+        70,
+        95,
+        110,
+        115,
+        115
+       ],
+       "cumle": 0,
+       "yanitsiz": [
+        4,
+        5
+       ]
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        60,
+        75,
+        100,
+        110,
+        115,
+        115
+       ],
+       "cumle": 0,
+       "yanitsiz": [
+        4,
+        5
+       ]
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Unaided pure tone thresholds are found for air and bone conduction in each ear, with masking when needed.",
+    "Tympanometry, acoustic reflexes and otoacoustic emissions help assess the middle ear and cochlear function.",
+    "After the hearing aids are verified with real ear measurement, aided thresholds and recorded speech tests are given.",
+    "Speech tests are done in quiet and, if needed, in noise, for each ear separately and for both ears together.",
+    "Residual low-frequency hearing is recorded in detail; this can influence the choice of electrode and surgical approach.",
+    "The separate performance of each ear is used to decide which ear will receive the implant."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Audiological tests",
+   "baslik": "Assessment in *children*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Age-appropriate testing",
+     "cumle": 0,
+     "metin": "Visual reinforcement, play"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Aided thresholds",
+     "cumle": 1,
+     "metin": "Are speech sounds audible?"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Parent questionnaires",
+     "cumle": 2,
+     "metin": "Auditory skills"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Language development",
+     "cumle": 3,
+     "metin": "Speech and language therapist"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Data logging",
+     "cumle": 4,
+     "metin": "Actual hours of use"
+    }
+   ],
+   "cumleler": [
+    "In children, age-appropriate behavioral methods are used: visual reinforcement audiometry or conditioned play audiometry.",
+    "Aided thresholds show how much of the speech sounds can be heard.",
+    "Parent questionnaires systematically record the child's auditory responses and skills in daily life.",
+    "The speech and language therapist assesses the child's language development compared with peers.",
+    "The device's data logging shows how much the child really wears the hearing aids; low use is addressed first.",
+    "Whether limited progress comes from too little use or from truly limited benefit is the key distinction for the decision."
+   ]
+  },
+  {
+   "id": "elektrofizyoloji",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Electrophysiology and balance",
+   "baslik": "Electrophysiological *tests*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "wave V: threshold estimate",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_I",
+     "metin": "wave I",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Threshold: ABR and ASSR",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "OAE present, ABR absent: neuropathy?",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Interpret with imaging",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "In infants and people who cannot respond reliably, the degree of loss is found with electrophysiological tests.",
+    "Frequency-specific auditory brainstem response, or ABR, and auditory steady-state response, or ASSR, are used to estimate thresholds.",
+    "If there is no ABR but otoacoustic emissions or a cochlear microphonic are present, auditory neuropathy spectrum disorder is considered.",
+    "This picture does not change the implant decision, but it affects the evaluation process and expectations.",
+    "Present otoacoustic emissions can also be seen in cochlear nerve deficiency, so they are interpreted together with imaging.",
+    "In selected cases where the nerve's status is in doubt, additional tests with electrical stimulation may also be considered."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Electrophysiology and balance",
+   "baslik": "Why a *balance test?*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "semicircular canals",
+     "cumle": 0
+    },
+    {
+     "parca": "sakkul",
+     "metin": "saccule: VEMP",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "lateral_kanal",
+     "cumle": 4
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Surgery can affect balance",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Helps choose the ear",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Motor development in children",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "In some people, implant surgery can reduce vestibular function on the operated side.",
+    "If vestibular function in the other ear is already weak, operating on the only well-functioning side can cause bilateral loss.",
+    "That is why vestibular tests inform the decision about which ear receives the implant.",
+    "In many children with profound loss, vestibular function is also affected; this can show up as delayed sitting and walking.",
+    {
+     "yazi": "Assessment can use the video head impulse test, caloric testing and vestibular evoked myogenic potentials, or VEMP.",
+     "ses": "Assessment can use the video head impulse test, caloric testing and vestibular evoked myogenic potentials, or vemp."
+    },
+    "In young children, age-appropriate tests and a history of motor development complete this information."
+   ]
+  },
+  {
+   "id": "bt",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Imaging",
+   "baslik": "What does *CT* show?",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cochlea: shape, ossification",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "facial nerve",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "internal auditory canal",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cochlear shape and malformations",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ossification: after meningitis",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Surgical landmarks",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklea",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 4,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "High-resolution computed tomography of the temporal bone, or CT, shows bony structures in detail.",
+    "The shape of the cochlea, the number of turns and inner ear malformations are assessed with CT.",
+    "Ossification inside the cochlea after meningitis is looked for specifically, because it makes electrode insertion harder.",
+    "The round window niche and the course of the facial nerve are important for the surgeon's planning.",
+    "Narrowing of the bony canal through which the cochlear nerve passes suggests the nerve may also be underdeveloped.",
+    "An enlarged vestibular aqueduct and the pneumatization of the mastoid are also included in the CT report."
+   ]
+  },
+  {
+   "id": "mr",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Imaging",
+   "baslik": "MRI and the *cochlear nerve*",
+   "cizim": "mr_ic_kulak_yolu",
+   "ayar": {
+    "sinir_cumle": 1,
+    "aplazi_cumle": 4
+   },
+   "etiketler": [
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "facial nerve: anterior superior",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "cochlear nerve: anterior inferior",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Magnetic resonance imaging, or MRI, shows the nerves and the inner ear fluids.",
+    "Across the internal auditory canal, four nerves are seen: the facial nerve anterior superior, the cochlear nerve anterior inferior.",
+    "The superior and inferior vestibular nerves lie posteriorly.",
+    "The cochlear nerve is normally similar to, or slightly larger than, the facial nerve in the same section.",
+    "A small or absent nerve is called cochlear nerve deficiency, and it directly affects the implant decision.",
+    "MRI also shows whether fibrous tissue has replaced the fluid inside the cochlea, and any possible brain findings."
+   ]
+  },
+  {
+   "id": "bt_mr",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Imaging",
+   "baslik": "CT or *MRI?*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "CT",
+     "cumle": 0,
+     "metin": "Bone detail, quick scan"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "MRI",
+     "cumle": 1,
+     "metin": "Nerves and fluid, no radiation"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "MRI in children",
+     "cumle": 2,
+     "metin": "Often with sedation"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Both in most centers",
+     "cumle": 3,
+     "metin": "They complement each other"
+    }
+   ],
+   "cumleler": [
+    "CT is superior for bone detail and is quick to acquire, but it involves ionizing radiation.",
+    "MRI uses no radiation and shows the nerves directly; it is the main method for assessing the cochlear nerve.",
+    "In young children, MRI often requires sedation or general anesthesia.",
+    "That is why many centers use both methods; which one comes first, or is used alone, varies by center.",
+    "In Türkiye, the Health Implementation Communiqué also requires CT or MRI to show inner ear development and the cochlear nerve.",
+    "Reviewing the images in the implant team with the radiologist and surgeon is more valuable than reading the report alone."
+   ]
+  },
+  {
+   "id": "kulak_secimi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Counseling",
+   "baslik": "Which *ear?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Residual hearing",
+     "cumle": 0,
+     "metin": "Which ear to preserve?"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Duration of deafness",
+     "cumle": 1,
+     "metin": "The shorter side"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Anatomy",
+     "cumle": 2,
+     "metin": "Ossification, malformation, nerve"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Vestibular function",
+     "cumle": 3,
+     "metin": "Protect the only good side"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bimodal plan",
+     "cumle": 4,
+     "metin": "Hearing aid on the other ear"
+    }
+   ],
+   "cumleler": [
+    "If one implant is planned, choosing the ear is a decision that weighs all the findings of the evaluation together.",
+    "The side with the shorter duration of severe loss usually responds better to stimulation.",
+    "A side with ossification, a malformation or a nerve problem on imaging may be less suitable.",
+    "Vestibular tests help protect the only well-functioning balance organ.",
+    "Some centers prefer to keep the better-aided ear with a hearing aid for bimodal use; others implant that ear.",
+    "Both approaches have their reasons; the team decides based on the person's findings."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Counseling",
+   "baslik": "Other *assessments*",
+   "maddeler": [
+    {
+     "metin": "Anesthesia and general health",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Meningitis vaccines: physician's advice",
+     "cumle": 1,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Psychological assessment",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Development and educational setting",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PURPOSE",
+    "metin": "Not to find barriers, but to plan *the process* well",
+    "cumle": 4
+   },
+   "cumleler": [
+    "The physician assesses the person's health in terms of general anesthesia and surgery.",
+    "Vaccination advice against meningitis risk in implant users is reviewed by the physician.",
+    "The psychologist assesses the expectations, coping capacity and sources of support of the person and family.",
+    "In children, general development, additional disabilities and the educational setting are also part of the plan.",
+    "These assessments are done not to block the implant but to plan the process afterward well."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Counseling",
+   "baslik": "Expectation *counseling*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "First sounds",
+     "cumle": 0,
+     "metin": "Mechanical, natural over time"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Variable outcomes",
+     "cumle": 1,
+     "metin": "Differ between people"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Rehabilitation",
+     "cumle": 2,
+     "metin": "Months of effort"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Residual hearing",
+     "cumle": 3,
+     "metin": "May be lost"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "MRI and magnet",
+     "cumle": 4,
+     "metin": "Know in advance"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Family role",
+     "cumle": 5,
+     "metin": "Daily practice"
+    }
+   ],
+   "cumleler": [
+    "Expectation counseling means talking realistically, in advance, about what the implant will and will not provide.",
+    "Outcomes vary markedly between people; two people of the same age can progress very differently.",
+    "The implant does not end with surgery; programming and auditory rehabilitation require months of regular effort.",
+    "It is stated clearly that residual hearing in the operated ear may be lost, even though surgeons try to preserve it.",
+    "It is explained that, because of the magnet in the internal unit, special precautions may be needed for future MRI scans.",
+    "It is stressed that family involvement in daily listening and speaking practice markedly affects the outcome."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "At the end of the evaluation, record the person's goals concretely and in writing, such as phone calls. Returning to them at follow-up helps compare expectations with outcomes.",
+   "cumleler": [
+    "A tip from the field: at the end of the evaluation, record the person's goals concretely and in writing.",
+    "Choose real-life goals, such as talking with a daughter on the phone or following the teacher in class.",
+    "Returning to these goals at follow-up after activation lets you see progress together with the person.",
+    "If a goal is unrealistic, it is much easier to discuss it gently and openly before surgery."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "History and audiology: degree and benefit",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "ABR, OAE and balance tests complete",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "CT shows bone, MRI the nerve",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Expectation counseling is part of the decision",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "A detailed history and audiological tests document the degree of loss and the benefit from verified hearing aids.",
+    "Electrophysiological and vestibular tests shed light on auditory neuropathy, nerve status and the choice of ear.",
+    "CT shows the bony structure of the cochlea and ossification, while MRI shows the cochlear nerve and inner ear fluids.",
+    "Realistic expectations, the rehabilitation plan and goals are discussed with the person and family before surgery."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is the main imaging method for the presence and size of the cochlear nerve?",
+   "secenekler": [
+    "Plain X-ray",
+    "CT",
+    "MRI",
+    "Ultrasound"
+   ],
+   "dogru": 2,
+   "aciklama": "MRI shows nerves directly; CT is superior for _bone_ detail.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which is the main imaging method for assessing the presence and size of the cochlear nerve?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: magnetic resonance imaging.",
+    "MRI shows the nerves in the internal auditory canal directly; CT gives indirect information because it shows the bony canal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Inner Ear Malformations: *The Sennaroglu Classification*",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "In the next lesson, we will look at inner ear malformations and the Sennaroglu classification, and their effect on the implant decision.",
+     "ses": "In the next lesson, we will look at inner ear malformations and the Sennarolu classification, and their effect on the implant decision."
+    },
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

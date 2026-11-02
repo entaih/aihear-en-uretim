@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R026_Weber_Poorer_Ear_EN",
+ "kapak": {
+  "ust": "QUICK FACT #26",
+  "baslik": "Sound in the *poorer ear*",
+  "alt": "The Weber test and conductive loss",
+  "cizim": "diyapazon",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does sound seem louder in the poorer ear? #shorts",
+  "aciklama": "In the Weber test, the tuning fork is placed on the middle of the forehead. In a one-sided conductive loss, the sound is heard in the poorer ear, because room noise masks it less there; in a one-sided sensorineural loss, the sound shifts to the better ear.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "tuningfork",
+   "hearing"
+  ],
+  "etiketler": [
+   "Weber test",
+   "tuning fork",
+   "lateralization",
+   "conductive hearing loss",
+   "tuning fork tests",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does sound sometimes seem louder in the poorer ear?",
+  "bilgiler": [
+   "In the Weber test, the fork is placed on the middle of the forehead.",
+   "In a one-sided conductive loss, it is heard in the poorer ear.",
+   "In a one-sided sensorineural loss, it is heard in the better ear."
+  ],
+  "hashtag": [
+   "audiology",
+   "tuningfork",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #26",
+   "metin": "Why is sound louder in *the poorer ear?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does sound sometimes seem louder in the poorer ear?"
+   ]
+  },
+  {
+   "id": "weber",
+   "tur": "zincir",
+   "baslik": "The *Weber* test",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Forehead",
+     "cumle": 0,
+     "tr": "midline"
+    },
+    {
+     "ad": "Skull",
+     "cumle": 0,
+     "gecikme": 0.9,
+     "tr": "vibration"
+    },
+    {
+     "ad": "Poorer ear",
+     "cumle": 1,
+     "tr": "conductive loss"
+    }
+   ],
+   "alt": "In sensorineural loss, sound shifts to the _better ear_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "In the Weber test, a vibrating fork goes on the forehead.",
+    "In a one-sided conductive loss, it is heard in the poorer ear.",
+    "Room noise masks the sound less in that ear.",
+    "In a one-sided sensorineural loss, it is heard in the better ear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D057",
+ "kaynak_baslik": "Tuning Fork Tests: Rinne, Weber and Bing"
+}

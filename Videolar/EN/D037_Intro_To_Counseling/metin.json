@@ -1,0 +1,603 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D037_Intro_To_Counseling_EN",
+ "kapak": {
+  "ust": "LESSON 37",
+  "baslik": "Talking with<br>*patients*",
+  "alt": "An introduction to audiology counseling",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Talking with Patients: Intro to Audiology Counseling | Lesson 37 | AIHEAR Audiology Academy",
+  "aciklama": "In audiology, counseling is an inseparable part of testing. In this lesson we look at the difference between informational and adjustment counseling, active listening and empathy, and using plain language instead of jargon. With examples, we also cover breaking information into chunks and the teach-back method.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Clark JG and English K, Counseling-Infused Audiologic Care; Luterman D, Counseling Persons with Communication Disorders and Their Families; Kessels RPC, Patients' memory for medical information (Journal of the Royal Society of Medicine, 2003); Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "counseling",
+   "patientcommunication"
+  ],
+  "etiketler": [
+   "audiology counseling",
+   "informational counseling",
+   "adjustment counseling",
+   "active listening",
+   "empathy",
+   "patient communication",
+   "plain language",
+   "teach-back",
+   "hearing loss",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 37",
+   "baslik": "*Counseling* in audiology",
+   "alt": "Active listening, empathy and clear language",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the basics of counseling in audiology: active listening, empathy, and sharing information clearly.",
+    "With examples, we will also see the difference between informational counseling and adjustment counseling."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "What is counseling?",
+   "baslik": "Counseling is *part* of testing",
+   "maddeler": [
+    {
+     "metin": "In every visit, at _every_ stage",
+     "cumle": 1,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Giving information and _listening_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Shared _decision_ making",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Knowing limits, _referring_",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        30,
+        35,
+        50,
+        65,
+        70
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "In audiology, counseling is not a separate task after testing; it is part of every minute spent with the patient.",
+    "We also counsel while taking the case history, explaining test results and describing the hearing aid process.",
+    "Counseling has two sides: giving accurate information and listening to the person's feelings.",
+    "The aim is for the person to understand their situation and to share in decisions that fit their own goals.",
+    "The audiologist counsels on communication and hearing; if deeper psychological problems appear, the person is referred onward.",
+    "In Türkiye, the physician makes the diagnosis; the audiologist explains test findings and the rehabilitation process within their own scope."
+   ]
+  },
+  {
+   "id": "unutma",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What is counseling?",
+   "baslik": "Most of what is said is *forgotten*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Quickly forgotten",
+     "metin": "Much of the information, very soon",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Anxiety",
+     "metin": "Makes it harder to take in",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Hearing loss",
+     "metin": "Makes our speech harder to follow",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "How we say it",
+     "metin": "As important as what we say",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Research shows that much of the information given by health professionals is forgotten within a short time.",
+    "An anxious patient, or the family of a newly diagnosed child, may hardly hear what is said after the first few sentences.",
+    "On top of that, the person in front of us has hearing loss, which makes our speech even harder to understand.",
+    "So how we say something matters as much as what we say.",
+    "In the rest of the lesson we will see methods we can use for this."
+   ]
+  },
+  {
+   "id": "iki_tur",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Two kinds of counseling",
+   "baslik": "Informational and *adjustment* counseling",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Informational",
+     "metin": "Results, type of loss, options",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Information questions",
+     "metin": "What, how, when?",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Adjustment",
+     "metin": "Feelings: grief, anger, denial, anxiety",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Why me?",
+     "metin": "Shows a need to be understood",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Counseling in audiology is usually divided into two kinds.",
+    "Informational counseling means explaining the test results, the type of loss and the possible options.",
+    "At this stage, the person usually asks what, how and when questions.",
+    "Adjustment counseling, on the other hand, means listening to and supporting the person's emotional reactions.",
+    "Grief, anger, denial and anxiety are natural parts of the process of coming to terms with a loss.",
+    "Questions such as why me, or is this my fault, often show a need to be understood rather than a need for information."
+   ]
+  },
+  {
+   "id": "tuzak",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Two kinds of counseling",
+   "baslik": "A common *mistake*",
+   "maddeler": [
+    {
+     "metin": "Answering feelings _with facts_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Example: _anatomy_ for a crying mother",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "First, notice the _feeling_",
+     "cumle": 3,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Then _return_ to information",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 1
+     }
+    ],
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "technical facts: the cochlea",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The most common mistake in counseling is answering an emotional question with technical information.",
+    "For example, when a mother who has just learned of her baby's hearing loss asks why, we may start explaining the structure of the cochlea.",
+    "Yet what the mother needs at that moment is often not anatomy, but for her feeling to be seen.",
+    "Instead, we should first notice the feeling and name it, for example by saying that this is very hard news.",
+    "When the person is ready, we return to the information, and it is then much easier to understand."
+   ]
+  },
+  {
+   "id": "aktif_dinleme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Active listening and empathy",
+   "baslik": "*Active listening* techniques",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Open question",
+     "metin": "Where do you struggle most?",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Reflection",
+     "metin": "That has really worn you out",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Summarizing",
+     "metin": "So it's hardest in meetings...",
+     "cumle": 3
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Silence",
+     "metin": "Giving time to think",
+     "cumle": 4
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Body language",
+     "metin": "Face to face, eye contact",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Active listening means not just hearing the other person, but showing them that we understand.",
+    "Open questions let the person describe their experience in their own words.",
+    "In reflection, we mirror back the feeling the person described, so they feel understood.",
+    "In summarizing, we briefly pull together what they said and check that we have understood correctly.",
+    "Short silences are valuable too; they give the person time to think and to express their feelings.",
+    "Facing the patient and making eye contact shows that we are listening and also makes lipreading easier."
+   ]
+  },
+  {
+   "id": "empati",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Active listening and empathy",
+   "baslik": "Empathy versus *pity*",
+   "ogeler": [
+    {
+     "ikon": "kalp",
+     "baslik": "Empathy",
+     "metin": "Understands the feeling, supports coping",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Example sentence",
+     "metin": "I can see this is hard for you",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Pity, brushing off",
+     "metin": "Don't worry, you'll get used to it",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Result",
+     "metin": "The person may feel alone",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "It is important to tell empathy apart from pity.",
+    "Empathy means understanding the person's feeling from their point of view and showing that we accept it.",
+    "A sentence such as I can see this is hard for you makes the person feel understood.",
+    "Empathy supports the person's ability to cope with the problem.",
+    "Pity, or quick reassurance such as don't worry, you'll get used to it, brushes the feeling aside.",
+    "Even when well meant, such responses can leave the person feeling alone."
+   ]
+  },
+  {
+   "id": "sade_dil",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clear information",
+   "baslik": "*Plain language* instead of jargon",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Sensorineural loss",
+     "metin": "Loss from the inner ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Conductive loss",
+     "metin": "A problem passing sound along",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Threshold",
+     "metin": "The softest sound heard",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech discrimination",
+     "metin": "Understanding words correctly",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The terms we use every day in the clinic are often unfamiliar to patients.",
+    "Instead of sensorineural loss, saying a loss that comes from the inner ear or the hearing nerve is easier to understand.",
+    "Conductive loss can be explained as a problem passing sound from the outer or middle ear to the inner ear.",
+    "Instead of threshold, saying the softest sound you can hear at each pitch is enough.",
+    "A speech discrimination score can be explained as how accurately you understand the words you hear.",
+    "There is no need to hide the term; explaining it plainly first and then naming it also helps the person when reading the report."
+   ]
+  },
+  {
+   "id": "parcala",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Clear information",
+   "baslik": "Breaking information into *chunks*",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       60,
+       65
+      ],
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 3
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Two or three_ key messages per visit",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Make it _concrete_ with visuals",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Teach-back",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Breaking information into small chunks makes it easier to remember; two or three key messages per visit are usually enough.",
+    "After each chunk, pause and check whether the person has understood.",
+    "Using visuals such as the speech banana when explaining the audiogram makes abstract numbers concrete.",
+    "With this example audiogram, we can show directly that vowels can be heard but high-pitched consonants may be missed.",
+    "The teach-back method means asking the person to explain what they have learned in their own words.",
+    "This method is not used to test the person, but to see how clearly we have explained."
+   ]
+  },
+  {
+   "id": "iki_yol",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clear information",
+   "baslik": "*Two ways* to reinforce information",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Spoken, interactive",
+     "metin": "Teach-back, instant correction",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Written, visual",
+     "metin": "Review at home, share with family",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Both together",
+     "metin": "Often the best result",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "There are two valid, complementary ways to reinforce information.",
+    "In the spoken, interactive way, teach-back lets misunderstandings be spotted and corrected right away.",
+    "This way can be adapted on the spot to the person's questions and concerns.",
+    "Written and visual materials provide a lasting resource the person can reread at home.",
+    "A copy of the audiogram or a short information sheet also makes it easier to share with family.",
+    "Used together, they often give the best result; the person's needs and the clinical setting decide the balance."
+   ]
+  },
+  {
+   "id": "konusma_kurallari",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clear information",
+   "baslik": "*Talking* with a person with hearing loss",
+   "maddeler": [
+    {
+     "metin": "Get _attention_ first, face them",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Face well lit, room _quiet_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Don't shout; speak _a bit slower_, clearly",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "If not understood, _rephrase_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Masks _block_ lipreading",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Before you start talking, get the person's attention and turn your face toward them.",
+    "Make sure your face is well lit, and move away from noise if you can.",
+    "Don't shout; shouting distorts the voice and changes lip movements, so speak a little slower and clearly instead.",
+    "When a sentence is not understood, say the same thing in different words rather than repeating the same words.",
+    "A face mask both reduces the voice and blocks lipreading; if needed, use a clear mask or a written note."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Clear information",
+   "baslik": "Clinical tip",
+   "metin": "Before ending the visit, ask the person for the two most important things they will remember. The answer shows which part of your explanation was unclear.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from practice: before ending the visit, ask the person what the two most important things they will remember from today are.",
+    "This question is not a test; it is a mirror showing how well your explanation was understood.",
+    "Briefly explain any missing point again right then, and back it up with a written note.",
+    "When people leave the clinic knowing their next step, cooperation and satisfaction increase."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Counseling is part of _every_ visit",
+     "cumle": 0,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Informational and _adjustment_ counseling",
+     "cumle": 1,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Active listening and _empathy_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Plain language, chunking, _teach-back_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Counseling is not separate from testing; it is a natural part of every visit.",
+    "Informational counseling deals with facts, adjustment counseling with feelings; an emotional question gets an emotional response first.",
+    "Open questions, reflection, summarizing and empathy help the person feel understood.",
+    "Plain language, chunking information and teach-back make information easier to remember."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "A mother of a newly diagnosed baby asks: why me? What comes first?",
+   "secenekler": [
+    "Explaining the cochlea",
+    "Noticing and acknowledging her feeling",
+    "Listing hearing aid options",
+    "Saying don't worry"
+   ],
+   "dogru": 1,
+   "aciklama": "This question is often not about information but a need to be _understood_: adjustment counseling first, then information.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: The mother of a newly diagnosed baby asks, why me? What should the first step be?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: noticing and acknowledging her feeling."
+    },
+    "This question often shows a need to be understood, not a need for information; we move to information when she is ready."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "dB SPL vs dB HL vs *dB SL*: When to Use Which",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we return to acoustics and learn the difference between dB SPL, dB HL and dB SL.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

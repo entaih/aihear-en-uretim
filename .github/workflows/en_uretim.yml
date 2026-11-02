@@ -1,0 +1,65 @@
+# AIHEAR Akademi: İngilizce ders/reels videolarını GitHub'ın makinelerinde paralel üretir.
+# Çalıştırma: Actions > "EN video uretimi" > Run workflow (ya da: gh workflow run en_uretim.yml -f liste=sira/dersler.txt)
+# Sonuç: her paket bir iş çıktısı (artifact) olur; yerelde _Kaynak/github/indir.py ile indirilip Videolar/EN altına konur.
+name: EN video uretimi
+on:
+  workflow_dispatch:
+    inputs:
+      liste:
+        description: 'Sıra dosyası (depoda)'
+        default: 'sira/dersler.txt'
+      paket:
+        description: 'Bir işin üreteceği ders sayısı'
+        default: '4'
+permissions:
+  contents: read
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matris: ${{ steps.p.outputs.matris }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: p
+        env:
+          LISTE: ${{ inputs.liste }}
+          PAKET: ${{ inputs.paket }}
+        run: python3 .github/plan.py "$LISTE" "$PAKET" >> "$GITHUB_OUTPUT"
+  uret:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        paket: ${{ fromJSON(needs.plan.outputs.matris) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: ~/.aihear_akademi
+          key: modeller-v1
+      - name: Modeller
+        run: bash .github/modeller.sh
+      - name: Tarayici
+        run: test -x /opt/microsoft/msedge/msedge || python -m playwright install --with-deps msedge
+      - name: Uret
+        env:
+          DERSLER: ${{ matrix.paket.dersler }}
+        run: |
+          export AKADEMI_PIPER_PYTHON="$(command -v python)"
+          export AKADEMI_PIPER_MODEL_EN="$HOME/.aihear_akademi/piper/en_US-ljspeech-high.onnx"
+          bash uret.sh $DERSLER
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: paket-${{ matrix.paket.no }}
+          path: cikti/
+          compression-level: 0
+          retention-days: 14

@@ -1,0 +1,672 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D052_Vestibulo_Ocular_Reflex_EN",
+ "kapak": {
+  "ust": "LESSON 52",
+  "baslik": "Vestibulo-ocular<br>*reflex*",
+  "alt": "Gain, phase and Ewald's laws",
+  "cizim": "vestibuler",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "The Vestibulo-Ocular Reflex: Keeping Vision Stable | Lesson 52 | AIHEAR Audiology Academy",
+  "aciklama": "The vestibulo-ocular reflex (VOR) keeps the image steady on the retina by turning the eyes equally and opposite to the head as it moves. In this lesson we look at the three-neuron reflex arc, canal and eye muscle pairings, VOR gain and phase, Ewald's laws, the different ways of measuring the VOR and the symptoms of VOR loss.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Leigh and Zee, The Neurology of Eye Movements; Jacobson and Shepard, Balance Function Assessment and Management; Halmagyi and Curthoys (1988), A clinical sign of canal paresis, Archives of Neurology; Herdman and Clendaniel, Vestibular Rehabilitation.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "VOR"
+  ],
+  "etiketler": [
+   "vestibulo-ocular reflex",
+   "VOR",
+   "VOR gain",
+   "phase",
+   "Ewald's laws",
+   "head impulse test",
+   "oscillopsia",
+   "VOR suppression",
+   "vestibular physiology",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 52",
+   "baslik": "The vestibulo-ocular *reflex*",
+   "alt": "Why does the image stay still as the head turns?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how our eyes keep the image steady while the head moves, through the vestibulo-ocular reflex.",
+    {
+     "yazi": "We will go step by step through the reflex arc, the concepts of gain and phase, and Ewald's laws."
+    }
+   ]
+  },
+  {
+   "id": "gorev",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The job of the reflex",
+   "baslik": "What does the *VOR* do?",
+   "maddeler": [
+    {
+     "metin": "Keeps the image steady on the _retina_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Eyes turn _equal and opposite_ to the head",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Latency under about _10 ms_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Visual tracking _cannot keep up_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "VOR",
+    "metin": "Head right, eyes *left*: the image stays still",
+    "cumle": 1
+   },
+   "cumleler": [
+    "The vestibulo-ocular reflex, or VOR, keeps the image steady on the retina while the head moves.",
+    "When the head turns one way, the eyes turn the other way at the same speed, so the target stays in place.",
+    "If the image slips across the retina by more than a few degrees per second, visual acuity drops markedly.",
+    "The VOR is very fast; the eye response begins less than about ten milliseconds after the head movement.",
+    "Visual tracking systems work with a delay of about one hundred milliseconds and cannot keep up with fast head movements.",
+    "That is why it is mainly the VOR that lets us see clearly while walking, running or turning the head quickly."
+   ]
+  },
+  {
+   "id": "uc_noron",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The job of the reflex",
+   "baslik": "The three-neuron *reflex arc*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Canal",
+     "metin": "Senses head motion",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Vestibular nerve",
+     "metin": "Neuron 1: Scarpa's ganglion",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Vestibular nucleus",
+     "metin": "Neuron 2: in the brainstem",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Motor nucleus",
+     "metin": "Neuron 3: III, IV, VI",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Eye muscles",
+     "metin": "Short path, fast response",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "At the core of the VOR is a short, three-neuron reflex arc.",
+    {
+     "yazi": "The first neuron is the vestibular nerve fiber, whose cell body lies in Scarpa's ganglion."
+    },
+    "The second neuron lies in the vestibular nuclei of the brainstem.",
+    "The third neuron is the motor neuron in the oculomotor, trochlear or abducens nucleus that drives the eye muscles.",
+    "This short path is why the reflex is so fast.",
+    "Alongside the direct path, there are indirect pathways that help hold eye position and extend the response."
+   ]
+  },
+  {
+   "id": "kanal_kas",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The job of the reflex",
+   "baslik": "From canal to *eye muscle*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Lateral canal: horizontal",
+     "metin": "Medial rectus and opposite lateral rectus",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Anterior canal: up",
+     "metin": "Superior rectus and opposite inferior oblique",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Posterior canal: down",
+     "metin": "Superior oblique and opposite inferior rectus",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Each canal connects to two muscles that produce eye movement in its own plane.",
+    "When the lateral canal is excited, the medial rectus on the same side and the lateral rectus on the opposite side contract.",
+    "For example, when the head turns right, the right lateral canal is excited and both eyes turn left together.",
+    "When the anterior canal is excited, the same-side superior rectus and opposite inferior oblique contract, and the eyes turn up.",
+    "When the posterior canal is excited, the same-side superior oblique and opposite inferior rectus contract, and the eyes turn down.",
+    "With the vertical canals, the eye movement also has a torsional component."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Gain and phase",
+   "baslik": "VOR *gain*",
+   "maddeler": [
+    {
+     "metin": "Gain: eye velocity over _head velocity_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Ideal value close to _one_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Low gain: _the image slips_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal limits vary by _test_",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "GAIN",
+    "metin": "Eye velocity over head velocity; ideal value close to *one*",
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "The first measure of how well the VOR works is gain: the ratio of eye velocity to head velocity."
+    },
+    "If the eye fully matches the head's movement, the gain is close to one.",
+    "If the gain is low, the eye lags behind the head, the image slips on the retina and corrective saccades are needed.",
+    {
+     "yazi": "For example, if the head turns at 200 degrees per second and the eye only at 100, the gain is 0.5.",
+     "ses": "For example, if the head turns at two hundred degrees per second and the eye only at one hundred, the gain is zero point five."
+    },
+    "A gain clearly above one also makes the image slip, in the opposite direction; in testing it often points to a technical problem.",
+    "Normal gain values vary by test and device; interpretation uses the laboratory's own norms."
+   ]
+  },
+  {
+   "id": "faz",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Gain and phase",
+   "baslik": "VOR *phase*",
+   "maddeler": [
+    {
+     "metin": "Phase: eye and head _timing_",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Ideally, eye and head _in sync_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_Phase lead_ in very slow rotation",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Measured_ on the rotary chair",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "faz_egrileri",
+    "cumle": 0,
+    "ayar": {
+     "faz": 30,
+     "kazanc": 0.9,
+     "bas_cumle": 0,
+     "goz_cumle": 1,
+     "faz_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "bas_hizi",
+      "cumle": 1
+     },
+     {
+      "parca": "goz_hizi",
+      "cumle": 2
+     },
+     {
+      "parca": "faz_farki",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The second measure is phase: the timing of the eye movement relative to the head movement.",
+    "In an ideal VOR, the eye moves at exactly the same time as the head, in the opposite direction.",
+    "In a sinusoidal rotation, the eye response may lag or lead the head; this difference is expressed in degrees.",
+    "In very slow rotations, because of the mechanics of the cupula, the eye response shifts ahead; this is called phase lead.",
+    "Phase and gain are measured together, especially in the sinusoidal rotary chair test.",
+    "Increased phase lead is a common finding in peripheral vestibular disorders."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Gain and phase",
+   "baslik": "Ways to *measure* the VOR",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Caloric test",
+     "metin": "Very low frequency; ears separately",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Rotary chair",
+     "metin": "Low, mid; gain, phase, symmetry",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "High frequency; six canals separately",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Bedside impulse test",
+     "metin": "High frequency; no device needed",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The VOR can be measured with different methods and at different movement speeds; each method has its own advantages.",
+    "The caloric test is a very low-frequency stimulus and compares the two ears separately.",
+    "The rotary chair measures gain, phase and symmetry in detail at low and mid frequencies; it is strong for monitoring bilateral loss.",
+    "The video head impulse test, or vHIT, examines the six canals separately at high frequencies similar to daily life.",
+    "The bedside head impulse test is a quick method that needs no device, but it cannot see covert saccades.",
+    "The caloric test and vHIT are widely used, while the rotary chair is expensive equipment found in fewer centers."
+   ]
+  },
+  {
+   "id": "gorsel_sistem",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Gain and phase",
+   "baslik": "The VOR and the *visual* systems",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "VOR",
+     "metin": "Works in fast motion, even in the dark",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Optokinetic",
+     "metin": "Follows a sliding scene",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Smooth pursuit",
+     "metin": "Follows a small moving target",
+     "cumle": 3
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Visual limit",
+     "metin": "Good when slow, delayed when fast",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The VOR does not work alone; it shares the work with the visual systems.",
+    "The VOR is effective in fast head movements and works even with the eyes closed or in the dark.",
+    "In long, constant rotations the VOR fades, and the optokinetic system, which follows a sliding scene, takes over.",
+    "The smooth pursuit system lets us follow a small moving target with our eyes.",
+    "The visual systems work well in slow movements, but because of their delay they cannot replace the VOR in fast head movements.",
+    "That is why slow-stimulus tests such as the rotary chair and the caloric test are done in the dark or with fixation removed."
+   ]
+  },
+  {
+   "id": "ewald",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Ewald's laws",
+   "baslik": "*Ewald's* laws",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "First law",
+     "metin": "Movement in the canal plane",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Second law",
+     "metin": "Lateral: flow to ampulla stronger",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Third law",
+     "metin": "Vertical: flow away stronger",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "By stimulating individual canals in pigeons, Ewald described three basic rules."
+    },
+    "First law: eye and head movements occur in the plane of the stimulated canal and in the direction of endolymph flow.",
+    "Second law: in the lateral canal, flow towards the ampulla produces a stronger response than flow in the opposite direction.",
+    "Third law: in the vertical canals, flow away from the ampulla produces the stronger response.",
+    "The basis of this asymmetry is that fibers can increase greatly with excitation but cannot fall below zero with inhibition.",
+    "The first law lets us work out which canal is involved from the direction of nystagmus in positional tests."
+   ]
+  },
+  {
+   "id": "ewald_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Ewald's laws",
+   "baslik": "The laws *in the clinic*",
+   "maddeler": [
+    {
+     "metin": "Fast impulse: the _excited_ side dominates",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Impulse to the right: _right_ lateral canal",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Saccade_ on impulses to the weak side",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "A _direction_ clue in positional tests",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "In very fast head movements, the inhibited side drops to zero and the response comes almost entirely from the excited side.",
+    "So when we thrust the head quickly to the right, we are mainly testing the right lateral canal.",
+    "If the right side is weak, the eyes are carried along with the head and a corrective saccade is needed to catch the target.",
+    "In slow movements, the healthy side can partly cover both directions, by being both excited and inhibited.",
+    "In lateral canal positional vertigo, the side where nystagmus is stronger is also interpreted using the second law."
+   ]
+  },
+  {
+   "id": "uyarlama",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Adaptation and the clinic",
+   "baslik": "The VOR *can adapt*",
+   "maddeler": [
+    {
+     "metin": "The cerebellum _recalibrates_ gain",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "New glasses: _adapted_ in a few days",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "The _basis_ of rehabilitation",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ADAPTATION",
+    "metin": "Image slip is an *error signal*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "The VOR is not a fixed reflex; when the image slips, the cerebellum recalibrates the gain.",
+    "For example, with new magnifying glasses the VOR gain must increase, and the person adapts within a few days.",
+    "This ability is called VOR adaptation and depends on an intact flocculus of the cerebellum.",
+    "The gaze stabilisation exercises in vestibular rehabilitation build on this principle.",
+    "Exercises are chosen and planned after a specialist assessment."
+   ]
+  },
+  {
+   "id": "baskilama",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Adaptation and the clinic",
+   "baslik": "When is the VOR *suppressed?*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Target still",
+     "metin": "VOR works, eyes turn opposite",
+     "cumle": 0
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Target moves along",
+     "metin": "Book turns with the head",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "VOR is suppressed",
+     "metin": "Eyes move with the head",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cerebellum",
+     "metin": "Provides the suppression",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Failure to suppress",
+     "metin": "Central sign, report to physician",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "If we turn our head while looking at a picture on the wall, the target is still and the VOR needs to work.",
+    "In this case the eyes turn opposite to the head and the picture stays clear.",
+    "But if we are looking at a book in our hands while turning in a chair, the target turns with the head.",
+    "This time the VOR must be suppressed; the eyes should move with the head.",
+    {
+     "yazi": "VOR suppression is provided by the cerebellum and can be measured in the rotary chair test."
+    },
+    "Impaired suppression points to a central rather than a peripheral problem; such findings are passed on to the physician."
+   ]
+  },
+  {
+   "id": "osilopsi",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Adaptation and the clinic",
+   "baslik": "VOR loss: *oscillopsia*",
+   "maddeler": [
+    {
+     "metin": "The _image bounces_ when walking",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Marked_ in bilateral loss",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dynamic visual acuity _drops_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Unsteadiness_ worse in the dark",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OSCILLOPSIA",
+    "metin": "*Image slip* with head movement",
+    "cumle": 1
+   },
+   "cumleler": [
+    "When the VOR is markedly reduced on both sides, the person says the image bounces or jumps while walking.",
+    {
+     "yazi": "This complaint is called oscillopsia and is seen especially in bilateral vestibular loss."
+    },
+    "Vision can be normal with the head still, but visual acuity drops markedly when the head moves.",
+    "At the bedside, the head is turned side to side at about two hertz as the person reads an eye chart: the dynamic visual acuity test.",
+    "When visual and body sense cues are reduced, for example in the dark, unsteadiness becomes even more marked."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Adaptation and the clinic",
+   "baslik": "Clinical tip",
+   "metin": "In the case history, always ask about being unable to read signs while walking or the image jumping. This question helps you spot bilateral VOR loss without vertigo.",
+   "cumleler": [
+    "A clinical tip: ask a person with unsteadiness whether the image jumps while they walk.",
+    "Struggling to make out signs or faces while walking can be the first clue to bilateral VOR loss.",
+    "These people often do not describe vertigo, so the complaint can easily be missed.",
+    "If this complaint comes with a history of ototoxic drugs, record the finding and pass it on to the physician."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_Three-neuron_ arc, latency under 10 ms",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Gain_: eye velocity over head velocity",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Phase_: eye and head timing",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Ewald_: plane and excitation asymmetry",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "The VOR works through a short three-neuron arc and responds with a delay of less than ten milliseconds.",
+    "Gain is the ratio of eye velocity to head velocity, and its ideal value is close to one.",
+    "Phase is the timing of the eye movement relative to the head; in very slow rotations the eye shifts ahead.",
+    {
+     "yazi": "According to Ewald's laws, movement is in the canal plane, and excitation gives a stronger response than inhibition."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "The head turns at 100 degrees per second, the eye at 80. What is the VOR gain?",
+   "secenekler": [
+    "0.2",
+    "0.8",
+    "1.25",
+    "80"
+   ],
+   "dogru": 1,
+   "aciklama": "Gain = eye velocity over head velocity: _80 over 100_, that is, 0.8.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: the head turns at 100 degrees per second while the eye turns at 80. What is the VOR gain?",
+     "ses": "Test yourself: the head turns at one hundred degrees per second while the eye turns at eighty. What is the VOR gain?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: 0.8.",
+     "ses": "The correct answer is B: zero point eight."
+    },
+    {
+     "yazi": "Gain is the ratio of eye velocity to head velocity: 80 over 100, that is, 0.8.",
+     "ses": "Gain is the ratio of eye velocity to head velocity: eighty over one hundred, that is, zero point eight."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How Balance Works: *Vision*, Vestibular, Somatosensory",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will see how vision, the vestibular system and body sense work together to keep us balanced.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

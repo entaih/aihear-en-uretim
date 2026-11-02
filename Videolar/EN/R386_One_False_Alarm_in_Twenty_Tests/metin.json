@@ -1,0 +1,793 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R386_One_False_Alarm_in_Twenty_Tests_EN",
+ "kapak": {
+  "ust": "QUICK FACT #386",
+  "baslik": "One alarm *in 20 tests*",
+  "alt": "Multiple comparisons and Bonferroni",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 4,
+    "adim": 1,
+    "ad": "Test statistic (z)"
+   },
+   "y": {
+    "min": 0,
+    "max": 1.15,
+    "adim": 0.5,
+    "yazisiz": true,
+    "ad": "Probability (relative)"
+   },
+   "seriler": [
+    {
+     "ad": "sifir_dagilimi",
+     "noktalar": [
+      [
+       -4.0,
+       0.0003
+      ],
+      [
+       -3.95,
+       0.0004
+      ],
+      [
+       -3.9,
+       0.0005
+      ],
+      [
+       -3.85,
+       0.0006
+      ],
+      [
+       -3.8,
+       0.0007
+      ],
+      [
+       -3.75,
+       0.0009
+      ],
+      [
+       -3.7,
+       0.0011
+      ],
+      [
+       -3.65,
+       0.0013
+      ],
+      [
+       -3.6,
+       0.0015
+      ],
+      [
+       -3.55,
+       0.0018
+      ],
+      [
+       -3.5,
+       0.0022
+      ],
+      [
+       -3.45,
+       0.0026
+      ],
+      [
+       -3.4,
+       0.0031
+      ],
+      [
+       -3.35,
+       0.0037
+      ],
+      [
+       -3.3,
+       0.0043
+      ],
+      [
+       -3.25,
+       0.0051
+      ],
+      [
+       -3.2,
+       0.006
+      ],
+      [
+       -3.15,
+       0.007
+      ],
+      [
+       -3.1,
+       0.0082
+      ],
+      [
+       -3.05,
+       0.0095
+      ],
+      [
+       -3.0,
+       0.0111
+      ],
+      [
+       -2.95,
+       0.0129
+      ],
+      [
+       -2.9,
+       0.0149
+      ],
+      [
+       -2.85,
+       0.0172
+      ],
+      [
+       -2.8,
+       0.0198
+      ],
+      [
+       -2.75,
+       0.0228
+      ],
+      [
+       -2.7,
+       0.0261
+      ],
+      [
+       -2.65,
+       0.0299
+      ],
+      [
+       -2.6,
+       0.034
+      ],
+      [
+       -2.55,
+       0.0387
+      ],
+      [
+       -2.5,
+       0.0439
+      ],
+      [
+       -2.45,
+       0.0497
+      ],
+      [
+       -2.4,
+       0.0561
+      ],
+      [
+       -2.35,
+       0.0632
+      ],
+      [
+       -2.3,
+       0.071
+      ],
+      [
+       -2.25,
+       0.0796
+      ],
+      [
+       -2.2,
+       0.0889
+      ],
+      [
+       -2.15,
+       0.0991
+      ],
+      [
+       -2.1,
+       0.1103
+      ],
+      [
+       -2.05,
+       0.1223
+      ],
+      [
+       -2.0,
+       0.1353
+      ],
+      [
+       -1.95,
+       0.1494
+      ],
+      [
+       -1.9,
+       0.1645
+      ],
+      [
+       -1.85,
+       0.1806
+      ],
+      [
+       -1.8,
+       0.1979
+      ],
+      [
+       -1.75,
+       0.2163
+      ],
+      [
+       -1.7,
+       0.2357
+      ],
+      [
+       -1.65,
+       0.2563
+      ],
+      [
+       -1.6,
+       0.278
+      ],
+      [
+       -1.55,
+       0.3008
+      ],
+      [
+       -1.5,
+       0.3247
+      ],
+      [
+       -1.45,
+       0.3495
+      ],
+      [
+       -1.4,
+       0.3753
+      ],
+      [
+       -1.35,
+       0.402
+      ],
+      [
+       -1.3,
+       0.4296
+      ],
+      [
+       -1.25,
+       0.4578
+      ],
+      [
+       -1.2,
+       0.4868
+      ],
+      [
+       -1.15,
+       0.5162
+      ],
+      [
+       -1.1,
+       0.5461
+      ],
+      [
+       -1.05,
+       0.5762
+      ],
+      [
+       -1.0,
+       0.6065
+      ],
+      [
+       -0.95,
+       0.6368
+      ],
+      [
+       -0.9,
+       0.667
+      ],
+      [
+       -0.85,
+       0.6968
+      ],
+      [
+       -0.8,
+       0.7261
+      ],
+      [
+       -0.75,
+       0.7548
+      ],
+      [
+       -0.7,
+       0.7827
+      ],
+      [
+       -0.65,
+       0.8096
+      ],
+      [
+       -0.6,
+       0.8353
+      ],
+      [
+       -0.55,
+       0.8596
+      ],
+      [
+       -0.5,
+       0.8825
+      ],
+      [
+       -0.45,
+       0.9037
+      ],
+      [
+       -0.4,
+       0.9231
+      ],
+      [
+       -0.35,
+       0.9406
+      ],
+      [
+       -0.3,
+       0.956
+      ],
+      [
+       -0.25,
+       0.9692
+      ],
+      [
+       -0.2,
+       0.9802
+      ],
+      [
+       -0.15,
+       0.9888
+      ],
+      [
+       -0.1,
+       0.995
+      ],
+      [
+       -0.05,
+       0.9988
+      ],
+      [
+       0.0,
+       1.0
+      ],
+      [
+       0.05,
+       0.9988
+      ],
+      [
+       0.1,
+       0.995
+      ],
+      [
+       0.15,
+       0.9888
+      ],
+      [
+       0.2,
+       0.9802
+      ],
+      [
+       0.25,
+       0.9692
+      ],
+      [
+       0.3,
+       0.956
+      ],
+      [
+       0.35,
+       0.9406
+      ],
+      [
+       0.4,
+       0.9231
+      ],
+      [
+       0.45,
+       0.9037
+      ],
+      [
+       0.5,
+       0.8825
+      ],
+      [
+       0.55,
+       0.8596
+      ],
+      [
+       0.6,
+       0.8353
+      ],
+      [
+       0.65,
+       0.8096
+      ],
+      [
+       0.7,
+       0.7827
+      ],
+      [
+       0.75,
+       0.7548
+      ],
+      [
+       0.8,
+       0.7261
+      ],
+      [
+       0.85,
+       0.6968
+      ],
+      [
+       0.9,
+       0.667
+      ],
+      [
+       0.95,
+       0.6368
+      ],
+      [
+       1.0,
+       0.6065
+      ],
+      [
+       1.05,
+       0.5762
+      ],
+      [
+       1.1,
+       0.5461
+      ],
+      [
+       1.15,
+       0.5162
+      ],
+      [
+       1.2,
+       0.4868
+      ],
+      [
+       1.25,
+       0.4578
+      ],
+      [
+       1.3,
+       0.4296
+      ],
+      [
+       1.35,
+       0.402
+      ],
+      [
+       1.4,
+       0.3753
+      ],
+      [
+       1.45,
+       0.3495
+      ],
+      [
+       1.5,
+       0.3247
+      ],
+      [
+       1.55,
+       0.3008
+      ],
+      [
+       1.6,
+       0.278
+      ],
+      [
+       1.65,
+       0.2563
+      ],
+      [
+       1.7,
+       0.2357
+      ],
+      [
+       1.75,
+       0.2163
+      ],
+      [
+       1.8,
+       0.1979
+      ],
+      [
+       1.85,
+       0.1806
+      ],
+      [
+       1.9,
+       0.1645
+      ],
+      [
+       1.95,
+       0.1494
+      ],
+      [
+       2.0,
+       0.1353
+      ],
+      [
+       2.05,
+       0.1223
+      ],
+      [
+       2.1,
+       0.1103
+      ],
+      [
+       2.15,
+       0.0991
+      ],
+      [
+       2.2,
+       0.0889
+      ],
+      [
+       2.25,
+       0.0796
+      ],
+      [
+       2.3,
+       0.071
+      ],
+      [
+       2.35,
+       0.0632
+      ],
+      [
+       2.4,
+       0.0561
+      ],
+      [
+       2.45,
+       0.0497
+      ],
+      [
+       2.5,
+       0.0439
+      ],
+      [
+       2.55,
+       0.0387
+      ],
+      [
+       2.6,
+       0.034
+      ],
+      [
+       2.65,
+       0.0299
+      ],
+      [
+       2.7,
+       0.0261
+      ],
+      [
+       2.75,
+       0.0228
+      ],
+      [
+       2.8,
+       0.0198
+      ],
+      [
+       2.85,
+       0.0172
+      ],
+      [
+       2.9,
+       0.0149
+      ],
+      [
+       2.95,
+       0.0129
+      ],
+      [
+       3.0,
+       0.0111
+      ],
+      [
+       3.05,
+       0.0095
+      ],
+      [
+       3.1,
+       0.0082
+      ],
+      [
+       3.15,
+       0.007
+      ],
+      [
+       3.2,
+       0.006
+      ],
+      [
+       3.25,
+       0.0051
+      ],
+      [
+       3.3,
+       0.0043
+      ],
+      [
+       3.35,
+       0.0037
+      ],
+      [
+       3.4,
+       0.0031
+      ],
+      [
+       3.45,
+       0.0026
+      ],
+      [
+       3.5,
+       0.0022
+      ],
+      [
+       3.55,
+       0.0018
+      ],
+      [
+       3.6,
+       0.0015
+      ],
+      [
+       3.65,
+       0.0013
+      ],
+      [
+       3.7,
+       0.0011
+      ],
+      [
+       3.75,
+       0.0009
+      ],
+      [
+       3.8,
+       0.0007
+      ],
+      [
+       3.85,
+       0.0006
+      ],
+      [
+       3.9,
+       0.0005
+      ],
+      [
+       3.95,
+       0.0004
+      ],
+      [
+       4.0,
+       0.0003
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "dolgu": true,
+     "etiket": "if H0 is true",
+     "etiket_konum": [
+      -2.6,
+      0.9
+     ],
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "gozlenen",
+     "x": 2.2,
+     "y": 1.05,
+     "cizgi": "dikey",
+     "etiket": "observed z = 2.2",
+     "cumle": 2
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "sag_kuyruk",
+     "x": [
+      2.2,
+      4
+     ],
+     "renk": "kirmizi",
+     "etiket": "1.4%",
+     "cumle": 3
+    },
+    {
+     "ad": "sol_kuyruk",
+     "x": [
+      -4,
+      -2.2
+     ],
+     "renk": "kirmizi",
+     "etiket": "1.4%",
+     "cumle": 4
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "With twenty separate tests, how many false alarms should we expect? #shorts",
+  "aciklama": "When a study makes many comparisons, the number of results that come out significant by chance also rises. If alpha is 0.05 and there is truly no difference, on average one false alarm is expected in twenty separate tests; testing each frequency and each ear separately increases this risk quickly. In the Bonferroni method, a simple fix, alpha is divided by the number of tests.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "statistics",
+   "research"
+  ],
+  "etiketler": [
+   "multiple comparisons",
+   "type I error",
+   "Bonferroni correction",
+   "p value",
+   "hypothesis testing",
+   "biostatistics",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "With twenty separate tests, how many false alarms should we expect?",
+  "bilgiler": [
+   "Many comparisons raise the number of chance findings.",
+   "With alpha at 0.05, expect one false alarm in twenty tests.",
+   "Bonferroni divides alpha by the number of tests."
+  ],
+  "hashtag": [
+   "audiology",
+   "statistics",
+   "research"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #386",
+   "metin": "How many *false alarms?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "With twenty separate tests, how many false alarms should we expect?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "One false alarm *in 20 tests*",
+   "sayi": "20",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "With many comparisons, more results come out significant by chance.",
+    "Suppose there is truly no difference.",
+    "Alpha zero point zero five: about one false alarm in twenty tests.",
+    "Testing each frequency and each ear separately raises this risk quickly.",
+    "The Bonferroni method divides alpha by the number of tests."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D119",
+ "kaynak_baslik": "Hypothesis Testing and P-Values in Audiology"
+}

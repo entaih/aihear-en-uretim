@@ -1,0 +1,106 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R307_When_Not_to_Maneuver_EN",
+ "kapak": {
+  "ust": "QUICK FACT #307",
+  "baslik": "*No maneuver* for this",
+  "alt": "Findings that do not fit typical BPPV",
+  "cizim": "nistagmus_izi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does every positional vertigo get a repositioning maneuver? #shorts",
+  "aciklama": "The success of a repositioning maneuver depends on an accurate diagnosis. If the nystagmus does not fit typical BPPV, for example if it has no latency, does not fatigue, or is purely downbeating, no maneuver is done; the findings are recorded and the patient is referred for physician evaluation. Downbeating positional nystagmus can also have central causes.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "BPPV",
+   "vestibular"
+  ],
+  "etiketler": [
+   "BPPV",
+   "positional nystagmus",
+   "repositioning maneuver",
+   "central positional nystagmus",
+   "downbeat nystagmus",
+   "physician referral",
+   "vestibular",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does every positional vertigo get a repositioning maneuver?",
+  "bilgiler": [
+   "Maneuver success depends on an accurate diagnosis.",
+   "No latency, no fatigue, or pure downbeat: no maneuver.",
+   "Findings are recorded and the patient is referred to a physician."
+  ],
+  "hashtag": [
+   "audiology",
+   "BPPV",
+   "vestibular"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #307",
+   "metin": "A maneuver for *every vertigo?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does every positional vertigo get a repositioning maneuver?"
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "zincir",
+   "baslik": "Not typical? *Stop*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "No latency",
+     "tr": "starts at once",
+     "cumle": 1
+    },
+    {
+     "ad": "Non-fatiguing",
+     "tr": "does not fade",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "Pure downbeat",
+     "tr": "may be central",
+     "cumle": 2
+    }
+   ],
+   "alt": "Not a maneuver: _physician referral_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The success of a maneuver depends on an accurate diagnosis.",
+    "Nystagmus with no latency, or that does not fatigue, is atypical.",
+    "Pure downbeating positional nystagmus can also have central causes.",
+    "In such cases, no maneuver is done; findings are recorded.",
+    "The patient is referred for physician evaluation."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D205",
+ "kaynak_baslik": "Repositioning Maneuvers: Epley, Semont, Gufoni"
+}

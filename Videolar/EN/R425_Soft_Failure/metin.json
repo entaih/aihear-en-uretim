@@ -1,0 +1,102 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R425_Soft_Failure_EN",
+ "kapak": {
+  "ust": "QUICK FACT #425",
+  "baslik": "Normal tests, *a problem*",
+  "alt": "Soft failure",
+  "cizim": "koklear_implant",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can an implant be faulty even when all the tests are normal? #shorts",
+  "aciklama": "In a hard failure, the internal unit fails, or telemetry and the integrity test are clearly abnormal. A soft failure, by contrast, is a drop in performance or nonauditory symptoms while the tests look normal; defined at a consensus conference in 2005, it is a diagnosis of exclusion, and the external unit, map, medical causes and electrode position are ruled out first.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "cochlearimplant",
+   "devicefailure"
+  ],
+  "etiketler": [
+   "soft failure",
+   "hard failure",
+   "device failure",
+   "integrity test",
+   "cochlear implant troubleshooting",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can an implant be faulty even when all the tests are normal?",
+  "bilgiler": [
+   "In a hard failure, tests are clearly abnormal.",
+   "In a soft failure, tests are normal but symptoms are present.",
+   "Soft failure is a diagnosis of exclusion."
+  ],
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "devicefailure"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #425",
+   "metin": "Could it be *faulty?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can an implant be faulty even when all the tests are normal?"
+   ]
+  },
+  {
+   "id": "ariza",
+   "tur": "zincir",
+   "baslik": "Two kinds of *failure*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Hard failure",
+     "tr": "abnormal tests",
+     "cumle": 0
+    },
+    {
+     "ad": "Soft failure",
+     "tr": "normal tests",
+     "cumle": 1
+    },
+    {
+     "ad": "Exclusion",
+     "tr": "others first",
+     "cumle": 3
+    }
+   ],
+   "alt": "Consensus: _2005_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "In a hard failure, the internal unit fails or tests are abnormal.",
+    "In a soft failure, tests look normal, but symptoms are present.",
+    "Performance drops, or nonauditory symptoms appear.",
+    "A diagnosis of exclusion: first rule out the external unit and map."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D247",
+ "kaynak_baslik": "Cochlear Implant Outcomes and Troubleshooting"
+}

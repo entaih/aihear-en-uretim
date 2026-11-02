@@ -1,0 +1,669 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D040_Noise_Types_EN",
+ "kapak": {
+  "ust": "LESSON 40",
+  "baslik": "White, pink,<br>*narrowband*",
+  "alt": "Noise types in audiology",
+  "cizim": "maskeleme",
+  "ayar": {
+   "ia_db": 40,
+   "test_kulak": "sag"
+  }
+ },
+ "youtube": {
+  "baslik": "Noise Types: White, Pink and Narrowband Noise | Lesson 40 | AIHEAR Audiology Academy",
+  "aciklama": "What is the difference between white noise and pink noise, and why do we use narrowband noise for masking? In this lesson we look at the noise spectrum, equal energy per hertz and per octave, the critical band, narrowband noise and speech noise.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ANSI S3.6, Specification for Audiometers; IEC 60645-1, Electroacoustics: Audiometric equipment; Fletcher H, Auditory patterns (Reviews of Modern Physics, 1940); Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "masking"
+  ],
+  "etiketler": [
+   "white noise",
+   "pink noise",
+   "narrowband noise",
+   "NBN",
+   "speech noise",
+   "critical band",
+   "effective masking",
+   "clinical masking",
+   "noise spectrum",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 40",
+   "baslik": "*Noise* types",
+   "alt": "White, pink, narrowband and speech noise",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the noise types used in audiology: white, pink, narrowband and speech noise.",
+    "We will see how the energy of each one is spread across frequencies, and why we choose different noises for masking."
+   ]
+  },
+  {
+   "id": "ton_gurultu",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is noise?",
+   "baslik": "Pure tone and *noise*",
+   "cizim": "dalga_bicimi",
+   "ayar": {
+    "seriler": [
+     "ton",
+     "gurultu"
+    ],
+    "cumleler": [
+     0,
+     1
+    ],
+    "frekans_hz": 500
+   },
+   "vurgula": [
+    {
+     "parca": "ton",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Pure tone: a _single_ frequency",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Noise: _random_ and irregular",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Spectrum: energy across _frequency_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ton",
+     "metin": "Pure tone: sine wave",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Noise: random wave",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "A pure tone is a sine wave that repeats regularly at a single frequency.",
+    "Noise, by contrast, is a sound with a random, irregular waveform that never repeats itself.",
+    "The energy of a noise is not gathered at one frequency; it is spread over a wide frequency range.",
+    {
+     "yazi": "The graph that shows how this energy is spread across frequencies is called the spectrum."
+    },
+    "We name noises by the shape of this spectrum, and that is where the color names come from."
+   ]
+  },
+  {
+   "id": "oktav",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "What is noise?",
+   "baslik": "Each octave is *twice* as wide",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "250-500 Hz",
+     "metin": "Width 250 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "500-1000 Hz",
+     "metin": "Width 500 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "1000-2000 Hz",
+     "metin": "Width 1000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "2000-4000 Hz",
+     "metin": "Width 2000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "4000-8000 Hz",
+     "metin": "Width 4000 Hz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "To understand noise types, let us first recall the octave: one octave is a doubling of frequency.",
+    "The octave from two hundred fifty to five hundred hertz is only two hundred fifty hertz wide.",
+    "The octave from one thousand to two thousand hertz, however, is one thousand hertz wide.",
+    "The octave from four thousand to eight thousand hertz is four thousand hertz wide.",
+    "So each octave is twice as wide as the one before; this simple fact is the key to the difference between white and pink noise."
+   ]
+  },
+  {
+   "id": "beyaz",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "White and pink noise",
+   "baslik": "*White* noise",
+   "maddeler": [
+    {
+     "metin": "_Equal_ energy in every hertz",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Octave energy _doubles_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A _3 dB_ rise per octave",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "High-pitched, like a _hiss_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "gurultu_spektrumu",
+    "cumle": 0,
+    "ayar": {
+     "tur": "beyaz",
+     "hz_cumle": 0,
+     "oktav_cumle": 2
+    },
+    "vurgula": [
+     {
+      "parca": "hz_cizgisi",
+      "cumle": 0
+     },
+     {
+      "parca": "oktav_bantlari",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "White noise has equal energy in every one-hertz slice; its spectrum is a flat line.",
+    "It is named after white light, which contains all colors equally.",
+    "But because each octave is twice as wide as the one before, the total energy in each octave also doubles.",
+    "Doubling the energy means a three decibel increase, so white noise rises by three decibels per octave.",
+    "That is why it sounds high-pitched, like a sharp hiss.",
+    "White noise is a broadband noise, and it is the basis of the broadband noise on audiometers."
+   ]
+  },
+  {
+   "id": "pembe",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "White and pink noise",
+   "baslik": "*Pink* noise",
+   "maddeler": [
+    {
+     "metin": "Equal energy in every _octave_",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Energy per hertz _falls_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sounds more _balanced_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Room and sound system _measurements_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "gurultu_spektrumu",
+    "cumle": 0,
+    "ayar": {
+     "tur": "pembe",
+     "hz_cumle": 1,
+     "oktav_cumle": 0
+    },
+    "vurgula": [
+     {
+      "parca": "oktav_bantlari",
+      "cumle": 0
+     },
+     {
+      "parca": "hz_cizgisi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Pink noise has equal energy in every octave."
+    },
+    "To achieve this, the energy per hertz halves, that is, falls by three decibels, each time the frequency doubles.",
+    "Because our ear perceives frequencies roughly in octaves, pink noise sounds more balanced and less high-pitched.",
+    "For this reason it is often used in room acoustics, loudspeaker and sound system measurements.",
+    "An even lower-pitched noise, whose energy per hertz falls by six decibels per octave, is called brown noise."
+   ]
+  },
+  {
+   "id": "beyaz_pembe",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "White and pink noise",
+   "baslik": "White and *pink* side by side",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "White noise",
+     "metin": "Equal per hertz, +3 dB per octave",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "High-pitched",
+     "metin": "Energy is heard as high-weighted",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Pink noise",
+     "metin": "Equal per octave, falls per hertz",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Balanced",
+     "metin": "Similar energy in every region",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Let us put the two side by side: in white noise the energy per hertz is constant, while in octave bands it rises three decibels per octave.",
+    "That is why the energy of white noise is heard as if it were concentrated at high frequencies.",
+    "In pink noise, the energy per octave is constant, and the energy per hertz falls three decibels per octave.",
+    "As a result, pink noise delivers a similar amount of energy to our hearing system in every frequency region."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "White and pink noise",
+   "baslik": "*Noise* in daily life",
+   "maddeler": [
+    {
+     "metin": "Sleep and focus _apps_",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Nursery: mind _level_ and distance",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Sound generators_ for tinnitus",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Office _sound masking_ systems",
+     "cumle": 4,
+     "ikon": "is_yeri"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 2
+     },
+     {
+      "parca": "trafik",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "White and pink noise are also used in devices and apps meant to help with sleep or focus.",
+    "Some white noise machines used in nurseries can reach high sound levels when run at maximum and close by.",
+    "So using them at a low level and away from the baby is a general safety recommendation.",
+    "Some sound generators used for tinnitus also produce broadband noise.",
+    "In open-plan offices, sound masking systems play specially filtered noise to reduce the intelligibility of nearby speech."
+   ]
+  },
+  {
+   "id": "kritik_bant",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Narrowband noise and masking",
+   "baslik": "Why *narrowband*?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Nearby_ frequencies mask a tone",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "The critical band",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Out-of-band energy: only _discomfort_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "tone region: critical band",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "When masking the non-test ear in pure-tone testing, we must think about which noise covers a tone most efficiently.",
+    "What masks a tone is only the part of the noise that falls in a narrow frequency region around that tone.",
+    {
+     "yazi": "This region is called the critical band; the concept goes back to Fletcher's 1940 study.",
+     "ses": "This region is called the critical band; the concept goes back to Fletcher's nineteen forty study."
+    },
+    "Noise outside the critical band adds nothing to masking; it only makes the sound louder and more uncomfortable.",
+    "That is why pure-tone masking uses narrowband noise centered on the test frequency."
+   ]
+  },
+  {
+   "id": "nbn",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Narrowband noise and masking",
+   "baslik": "*Narrowband* noise",
+   "maddeler": [
+    {
+     "metin": "Test frequency at the _centre_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Width: about _one third to half_ octave",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Same effect_ at a lower level",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Level: _dB EM_",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Can also be a sound-field _stimulus_",
+     "cumle": 4,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40,
+     "test_kulak": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Narrowband noise, or NBN, is made by filtering white noise around the test frequency.",
+    "Its bandwidth is usually between one third and one half of an octave; the limits are defined in audiometer standards.",
+    "It gives the same masking effect at a lower overall level, so it is more comfortable for the patient.",
+    {
+     "yazi": "On audiometers, the narrowband noise level is set in effective masking decibels, or dB EM.",
+     "ses": "On audiometers, the narrowband noise level is set in effective masking decibels, or decibels E.M."
+    },
+    "In sound-field testing there are two valid stimuli, frequency-modulated tones and narrowband noise; both reduce standing waves in the room."
+   ]
+  },
+  {
+   "id": "konusma_gurultusu",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Speech noise",
+   "baslik": "*Speech* noise",
+   "cizim": "konusma_muzu",
+   "vurgula": [
+    {
+     "parca": "muz",
+     "cumle": 0
+    },
+    {
+     "parca": "unluler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "The _average_ speech spectrum",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Flat to 1000 Hz, then _falls_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Masking_ in speech tests",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "unluler",
+     "metin": "low and mid: most energy",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Speech noise is a noise filtered so that its spectrum resembles the long-term average spectrum of speech.",
+    "In speech, energy is concentrated at low and mid frequencies; this noise is also flat up to about one thousand hertz, then falls off.",
+    "It is used to mask the non-test ear in speech audiometry, for example in the speech recognition threshold and word recognition tests.",
+    "The noise that masks speech most efficiently is the one that carries energy in the same frequency region as speech.",
+    "Some clinics also use broadband noise in speech tests; both approaches are valid, and what matters is setting the level correctly."
+   ]
+  },
+  {
+   "id": "bir_arada",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Speech noise",
+   "baslik": "Noises *together*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "White",
+     "metin": "Equal per hertz; broadband",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Pink",
+     "metin": "Equal per octave; acoustic measurement",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Narrowband (NBN)",
+     "metin": "Pure-tone masking",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech noise",
+     "metin": "Speech test masking",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Multitalker babble",
+     "metin": "Speech-in-noise tests",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "White noise carries equal energy per hertz and can be used for broadband masking.",
+    "Pink noise carries equal energy per octave and is used mainly in acoustic measurements.",
+    "Narrowband noise is concentrated around the test frequency and is the standard noise for pure-tone masking.",
+    "Speech noise mimics the spectrum of speech and is used for masking in speech tests.",
+    {
+     "yazi": "Multitalker babble, made of several people talking at once, mimics real life in speech-in-noise tests."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Speech noise",
+   "baslik": "Clinical tip",
+   "metin": "Before masking, tell the patient to ignore the hiss and respond only to tones. On the audiometer, check narrowband is selected for tones and speech noise for speech.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from the clinic: before you start masking, tell the patient you will play a hissing sound in one ear.",
+    "Ask them to ignore this sound and respond only to the beeps, that is, the tones.",
+    "Without this instruction, the patient may also respond to the noise, and thresholds can become confused.",
+    "Before testing, check that the right noise is selected on the audiometer: narrowband for tones, speech noise for speech."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "White: equal energy _per hertz_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Pink: equal energy _per octave_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Pure-tone masking: _narrowband_",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Speech tests: _speech noise_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "White noise carries equal energy per hertz and rises three decibels per octave.",
+    "Pink noise carries equal energy per octave and sounds more balanced.",
+    "Because only the noise within the critical band masks a tone, narrowband noise is used for pure-tone masking.",
+    "In speech tests, speech noise, which resembles the spectrum of speech, is used."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which is the standard noise for masking the non-test ear in pure-tone testing?",
+   "secenekler": [
+    "White noise",
+    "Pink noise",
+    "Narrowband noise",
+    "Multitalker babble"
+   ],
+   "dogru": 2,
+   "aciklama": "Only noise within the _critical band_ masks a tone; narrowband noise gives the same effect at a lower level.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which is the standard noise for masking the non-test ear in pure-tone testing?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is C: narrowband noise."
+    },
+    "Only noise within the critical band masks a tone; narrowband noise gives the same effect at a lower overall level."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Resonance, *Filters* and Octave Bands",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at resonance, filters and octave bands, the acoustics behind narrowband noise.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

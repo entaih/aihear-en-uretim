@@ -1,0 +1,817 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D016_Temporal_Bone_EN",
+ "kapak": {
+  "ust": "LESSON 16",
+  "baslik": "Temporal<br>*bone*",
+  "alt": "Where the ear lives",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "temporal_kemik"
+  ]
+ },
+ "youtube": {
+  "baslik": "The Temporal Bone: Where the Ear Lives | Lesson 16 | AIHEAR Audiology Academy",
+  "aciklama": "We explain the temporal bone that houses the ear: the pars squamosa, pars mastoidea, pars petrosa and pars tympanica, the mastoid air cells, the internal auditory canal, the key foramina and the course of the facial nerve through the bone. We also look at temporal bone fractures, mastoiditis and how the temporal bone differs in children.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gray's Anatomy: The Anatomical Basis of Clinical Practice; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; Schuknecht, Pathology of the Ear.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "anatomy",
+   "temporalbone"
+  ],
+  "etiketler": [
+   "temporal bone",
+   "os temporale",
+   "pars petrosa",
+   "mastoid",
+   "mastoid process",
+   "internal auditory canal",
+   "facial nerve",
+   "otic capsule",
+   "ear anatomy",
+   "temporal bone fracture",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 16",
+   "baslik": "The temporal *bone*",
+   "alt": "Where the ear lives",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will get to know the bone that houses the ear: the temporal bone.",
+    "We will see the four parts of the temporal bone, its key openings and its clinical importance for audiology."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Overview",
+   "baslik": "The ear's *bony home*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "temporal_kemik",
+     "metin": "Temporal bone (os temporale)",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Ear canal",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_kulak",
+     "metin": "Inner ear",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Facial nerve",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "Auditory nerve",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_kemik",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "At the _side and base_ of the skull",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Middle and inner ear _inside_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Structures are _close_ neighbors",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The temporal bone, os temporale in Latin, is a paired bone at the sides and base of the skull.",
+    "The inner part of the ear canal, the middle ear and the entire inner ear lie inside this bone.",
+    "In the section on screen you see the temporal bone and the hearing organ hidden inside it.",
+    "The facial nerve and the auditory nerve also pass through this bone.",
+    "The temporal bone borders the parietal, occipital, sphenoid and zygomatic bones, and forms a joint with the lower jaw.",
+    "Lying inside this hard bone protects the ear structures, but it also places them very close to one another.",
+    "So temporal bone anatomy is basic knowledge for both the audiologist and the ear surgeon."
+   ]
+  },
+  {
+   "id": "bolumler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Overview",
+   "baslik": "The *parts* of the temporal bone",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Pars squamosa",
+     "cumle": 1,
+     "metin": "Thin, flat plate at the temple"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Pars mastoidea",
+     "cumle": 2,
+     "metin": "Behind the ear, mastoid process"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Pars petrosa",
+     "cumle": 3,
+     "metin": "Hard pyramid, inner ear"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Pars tympanica",
+     "cumle": 4,
+     "metin": "Bony wall of the ear canal"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Styloid process",
+     "cumle": 5,
+     "metin": "Thin, pointed projection"
+    }
+   ],
+   "cumleler": [
+    "The temporal bone is classically studied in four parts.",
+    "The pars squamosa, or squamous part, is the thin, flat part at the temple.",
+    "The pars mastoidea, or mastoid part, lies behind the ear and forms the mastoid process below.",
+    "The pars petrosa, or petrous part, is the hard, pyramid-shaped part that extends toward the skull base and holds the inner ear.",
+    "The pars tympanica, or tympanic part, is a curved plate of bone that forms most of the bony wall of the ear canal.",
+    "In addition, a thin, pointed projection extends downward: the processus styloideus, or styloid process.",
+    "Some of these parts are separate pieces at birth and fuse in the first year of life."
+   ]
+  },
+  {
+   "id": "squamosa",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Outer parts",
+   "baslik": "Pars squamosa and *tympanica*",
+   "cizim": "temporal_kemik_yan",
+   "etiketler": [
+    {
+     "parca": "pars_squamosa",
+     "metin": "Pars squamosa",
+     "cumle": 0
+    },
+    {
+     "parca": "zigomatik_cikinti",
+     "metin": "Zygomatic process",
+     "cumle": 1
+    },
+    {
+     "parca": "mandibular_cukur",
+     "metin": "Mandibular fossa",
+     "cumle": 2
+    },
+    {
+     "parca": "pars_tympanica",
+     "metin": "Bony canal: pars tympanica",
+     "cumle": 4
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Tympanic membrane",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "pars_tympanica",
+     "cumle": 4
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Zygomatic process: _zygomatic arch_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Jaw joint: _in front of the ear canal_",
+     "cumle": 3,
+     "ikon": "agri"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 4,
+     "olcek": 1.5
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 5,
+     "olcek": 1.9
+    }
+   ],
+   "cumleler": [
+    "The pars squamosa is a thin, flat plate of bone to which the temporalis muscle attaches.",
+    "The zygomatic process extends forward and joins the cheekbone to form the zygomatic arch.",
+    "The mandibular fossa below this process receives the head of the lower jaw.",
+    "The jaw joint lies just in front of the ear canal, so jaw joint pain is sometimes felt as ear pain.",
+    "The pars tympanica forms the front and lower walls of the bony ear canal, and part of its back wall.",
+    "The edge of the tympanic membrane sits in a fine groove at the inner end of the bony canal; we will see this in detail later."
+   ],
+   "ayar": {
+    "kondil_cumle": 3
+   }
+  },
+  {
+   "id": "mastoid",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Outer parts",
+   "baslik": "The mastoid and its *air cells*",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "mastoid_hucreleri",
+     "metin": "Mastoid air cells",
+     "cumle": 2
+    },
+    {
+     "parca": "antrum",
+     "metin": "Mastoid antrum",
+     "cumle": 3
+    },
+    {
+     "parca": "aditus",
+     "metin": "Aditus ad antrum",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mastoid_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "antrum",
+     "cumle": 3
+    },
+    {
+     "parca": "aditus",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Connected_ to the middle ear",
+     "cumle": 3,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Mastoiditis: _spread of infection_",
+     "cumle": 4,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "The bone vibrator goes _here_",
+     "cumle": 6,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "mastoid_hucreleri",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "aditus",
+     "cumle": 4,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "The pars mastoidea ends in the bony bump we can feel behind the ear, the mastoid process.",
+    "The sternocleidomastoid muscle on the side of the neck attaches to this process.",
+    "The inside of the mastoid is full of small, air-filled spaces that look like a honeycomb: the mastoid air cells.",
+    "These cells open into the middle ear through a large space called the mastoid antrum and a narrow passage called the aditus ad antrum.",
+    "So a middle ear infection can spread to the mastoid; this is called mastoiditis.",
+    "The development of the mastoid air cells is called pneumatization; it continues after birth and varies greatly between people.",
+    "This mastoid process is also where we place the vibrator in bone conduction testing."
+   ]
+  },
+  {
+   "id": "petrosa",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Pars petrosa",
+   "baslik": "The petrous part: *home of the inner ear*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Cochlea",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Semicircular canals",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_kulak",
+     "metin": "Inner ear inside the otic capsule",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_kemik",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 4
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Otic capsule: the _hardest_ bone",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tegmen tympani: _roof of the middle ear_",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 5,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "The pars petrosa is the hardest part of the temporal bone; its name comes from the Latin word for rock.",
+    "It is pyramid-shaped; its base is on the outside, and its apex points toward the middle of the skull base.",
+    "The inner ear, that is, the cochlea, the vestibule and the semicircular canals, lies deep in this hard bone.",
+    "The hardest layer of bone around the inner ear is called the otic capsule; it is among the densest bones in the body.",
+    "A bulge on the upper surface of the pyramid, the eminentia arcuata, marks the position of the superior semicircular canal below it.",
+    "Here a thin plate called the tegmen tympani forms the roof of the middle ear and separates it from the middle cranial fossa.",
+    "Because the tegmen is very thin, middle ear disease can, rarely, spread into the skull."
+   ]
+  },
+  {
+   "id": "ic_kulak_yolu",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Pars petrosa",
+   "baslik": "The internal auditory *canal*",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinir_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "labirent_arteri",
+     "metin": "Labyrinthine artery",
+     "cumle": 1
+    },
+    {
+     "parca": "transvers_krista",
+     "metin": "Transverse crest",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Facial nerve",
+     "cumle": 3
+    },
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Superior vestibular nerve",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Cochlear nerve",
+     "cumle": 4
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Inferior vestibular nerve",
+     "cumle": 4
+    },
+    {
+     "parca": "dikey_krista",
+     "metin": "Bill's bar",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "transvers_krista",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 4
+    },
+    {
+     "parca": "dikey_krista",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "There is an opening on the back surface of the pyramid: the meatus acusticus internus, or internal auditory canal.",
+    "The facial nerve, the nerve for hearing and balance, and the labyrinthine artery that supplies the inner ear pass through this canal.",
+    "The far end of the canal is divided into upper and lower parts by a horizontal bony ridge.",
+    "In the upper part, the facial nerve lies in front and the superior vestibular nerve behind.",
+    "In the lower part, the cochlear nerve lies in front and the inferior vestibular nerve behind.",
+    "The vertical bony ridge that divides the upper part into front and back is called Bill's bar, after the surgeon who described it.",
+    "This layout explains why a mass in the internal auditory canal can affect hearing, balance and the facial muscles together."
+   ]
+  },
+  {
+   "id": "delikler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Pars petrosa",
+   "baslik": "Key *openings and vessels*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Stylomastoid foramen",
+     "cumle": 1,
+     "metin": "Exit of the facial nerve"
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Carotid canal",
+     "cumle": 2,
+     "metin": "Internal carotid artery"
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Jugular bulb",
+     "cumle": 3,
+     "metin": "Below the middle ear floor"
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Sigmoid sinus",
+     "cumle": 4,
+     "metin": "Inner surface of the mastoid"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Pulsatile tinnitus",
+     "cumle": 5,
+     "metin": "Nearby blood vessels"
+    }
+   ],
+   "cumleler": [
+    "The temporal bone has many openings and canals through which important structures pass.",
+    "The stylomastoid foramen is the opening between the styloid and mastoid processes; the facial nerve leaves the temporal bone here.",
+    "The carotid canal carries the internal carotid artery that supplies the brain, and it lies very close to the front wall of the middle ear.",
+    "Just below the floor of the middle ear lies the jugular bulb, the start of the jugular vein.",
+    "On the inner surface of the mastoid runs the sigmoid sinus, which drains blood from the brain.",
+    "Pulsatile tinnitus, heard in time with the heartbeat, can be linked to these nearby vessels; we will see this in later lessons."
+   ]
+  },
+  {
+   "id": "fasiyal",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical importance",
+   "baslik": "The course of the *facial nerve*",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "genikulat_ganglion",
+     "metin": "Geniculate ganglion",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_kanal",
+     "metin": "Facial canal",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "Oval window",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius_dali",
+     "metin": "Branch to stapedius",
+     "cumle": 4
+    },
+    {
+     "parca": "chorda_tympani",
+     "metin": "Chorda tympani",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "genikulat_ganglion",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_kanal",
+     "cumle": 2
+    },
+    {
+     "parca": "chorda_tympani",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Just above_ the oval window",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Must be _protected_ in surgery",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The facial nerve follows a long, winding course inside the temporal bone.",
+    "It enters through the internal auditory canal and, after a short segment, makes a sharp turn at the geniculate ganglion.",
+    "It then runs inside the facial canal on the inner wall of the middle ear, just above the oval window.",
+    "Then it turns downward, descends through the mastoid and exits through the stylomastoid foramen.",
+    "Along the way, it gives a branch to the stapedius muscle and the chorda tympani branch, which carries taste fibers.",
+    "This long course through bone makes protecting the facial nerve very important in fractures and in ear surgery."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical importance",
+   "baslik": "The temporal bone *in the clinic*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Longitudinal fracture",
+     "cumle": 2,
+     "metin": "More common, conductive"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Transverse fracture",
+     "cumle": 3,
+     "metin": "Inner ear, facial nerve"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Otic capsule",
+     "cumle": 4,
+     "metin": "Sparing or violating"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Mastoiditis, cholesteatoma",
+     "cumle": 5,
+     "metin": "Spread within bone"
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Imaging",
+     "cumle": 6,
+     "metin": "CT and MRI"
+    }
+   ],
+   "cumleler": [
+    "The temporal bone comes up in audiology in many clinical situations.",
+    "Temporal bone fractures can occur after head trauma.",
+    "Classically, longitudinal fractures are more common and mostly affect the middle ear, causing a conductive loss.",
+    "Transverse fractures affect the inner ear more often; sensorineural loss, vertigo and facial palsy can occur.",
+    "Today, fractures are also classed as otic capsule sparing or otic capsule violating; the latter has a more severe course.",
+    "Diseases such as acute mastoiditis and cholesteatoma also spread within the temporal bone.",
+    "Bone detail is examined with computed tomography, or CT, while nerves and soft tissue are examined with magnetic resonance imaging."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical importance",
+   "baslik": "The temporal bone *in children*",
+   "maddeler": [
+    {
+     "metin": "Mastoid process: _first two years_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Facial nerve exit _more superficial_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bony ear canal develops _later_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cochlea: _adult size_ at birth",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Ear canal",
+      "cumle": 3
+     },
+     {
+      "parca": "koklea",
+      "metin": "Cochlea",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "temporal_kemik",
+      "cumle": 1
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 3
+     },
+     {
+      "parca": "koklea",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "In infants, the temporal bone is clearly different from that of adults.",
+    "At birth, the mastoid process has not yet developed; it usually becomes prominent in the first two years of life.",
+    "So in infants, the point where the facial nerve leaves the bone is more superficial and more exposed to outside pressure.",
+    "The bony part of the ear canal is also absent at birth; the bony canal develops as the tympanic ring grows.",
+    "So an infant's ear canal is softer, and the pinna is pulled in a different direction for otoscopy; we will see this later.",
+    "The cochlea, however, is adult size at birth; the size of the inner ear does not change as the child grows."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "After head trauma with hearing complaints, measure air and bone conduction together; the middle ear, inner ear or both may be affected. Share findings with the physician.",
+   "cumleler": [
+    "A useful tip for the clinic: if a person with head trauma reports hearing problems, do not stop at air conduction testing.",
+    "In a temporal bone fracture, the middle ear, the inner ear or both can be affected.",
+    "Measuring air and bone conduction together shows the type of loss; ask about dizziness and facial weakness as well.",
+    "Findings are shared with the physician for referral; diagnosis and treatment decisions belong to the physician."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Four parts: _squamosa, mastoidea, petrosa, tympanica_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Inner ear: inside the _pars petrosa_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Mastoid cells open _into the middle ear_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Facial nerve: long path _through bone_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "The temporal bone is studied in four parts: the pars squamosa, pars mastoidea, pars petrosa and pars tympanica.",
+    "The inner ear lies inside the hardest part, the pars petrosa, surrounded by the otic capsule.",
+    "The mastoid cells open into the middle ear through the antrum; infection can spread to the mastoid this way.",
+    "The facial nerve enters through the internal auditory canal, follows a long path through bone and exits through the stylomastoid foramen."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In which part of the temporal bone is the inner ear?",
+   "secenekler": [
+    "Pars squamosa",
+    "Pars petrosa",
+    "Pars tympanica",
+    "Processus styloideus"
+   ],
+   "dogru": 1,
+   "aciklama": "The inner ear is protected by the otic capsule inside the _pars petrosa_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in which part of the temporal bone does the inner ear lie?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the pars petrosa, or petrous part.",
+    "The inner ear is protected inside a very hard bone called the otic capsule."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Outer Ear *Anatomy*: Pinna and Ear Canal",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will study the visible part of the ear: the pinna and the ear canal.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

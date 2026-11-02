@@ -1,0 +1,970 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D045_Central_Auditory_Pathway_EN",
+ "kapak": {
+  "ust": "LESSON 45",
+  "baslik": "From cochlea<br>to *cortex*",
+  "alt": "Stations of the central auditory pathway",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "The Central Auditory Pathway, Station by Station | Lesson 45 | AIHEAR Audiology Academy",
+  "aciklama": "How does sound reach the brain after the cochlea? In this lesson we look at the stations of the central auditory pathway, the cochlear nucleus, superior olivary complex, lateral lemniscus, inferior colliculus and medial geniculate body, along with crossed and uncrossed fibers and how these stations relate to the ABR waves.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Musiek FE and Baran JA, The Auditory System: Anatomy, Physiology, and Clinical Correlates; Møller AR, Hearing: Anatomy, Physiology, and Disorders of the Auditory System; Pickles, An Introduction to the Physiology of Hearing; Hall, New Handbook of Auditory Evoked Responses.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "neuroanatomy",
+   "hearing"
+  ],
+  "etiketler": [
+   "central auditory pathway",
+   "cochlear nucleus",
+   "superior olivary complex",
+   "inferior colliculus",
+   "medial geniculate body",
+   "lateral lemniscus",
+   "ABR waves",
+   "auditory nerve",
+   "neuroanatomy",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 45",
+   "baslik": "The *central* auditory pathway",
+   "alt": "From cochlea to cortex, station by station",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn, station by station, the path sound follows from the cochlea to the auditory cortex.",
+    "We will also look at crossed and uncrossed fibers, and how these stations relate to the waves of the auditory brainstem response, or ABR."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Overview of the pathway",
+   "baslik": "A *map* of the pathway",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cochlea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "auditory nerve",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "cochlear nucleus",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "superior olivary complex",
+     "cumle": 2
+    },
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "lateral lemniscus",
+     "cumle": 3
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior colliculus",
+     "cumle": 3
+    },
+    {
+     "parca": "mgb",
+     "metin": "medial geniculate body",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "auditory cortex",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 3
+    },
+    {
+     "parca": "mgb",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 1.7
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 2,
+     "olcek": 1.7
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "mgb",
+     "cumle": 4,
+     "olcek": 1.7
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 5,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Sound, turned into an electrical signal in the cochlea, reaches the brainstem through the auditory nerve.",
+    "In the brainstem, the signal first stops at the cochlear nucleus.",
+    "It then reaches the superior olivary complex.",
+    "Next it rises along the lateral lemniscus and reaches the inferior colliculus in the midbrain.",
+    "From here it passes to the medial geniculate body in the thalamus.",
+    "The final stop is the auditory cortex in the temporal lobe.",
+    "Now let us get to know each of these stations one by one."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Overview of the pathway",
+   "baslik": "*Four rules* of the pathway",
+   "maddeler": [
+    {
+     "metin": "A _synapse_ and processing at each station",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "The frequency map, _tonotopy_, is kept",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Most fibers cross to the _opposite side_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Parallel _subpathways_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 2
+     },
+     {
+      "parca": "lateral_lemniskus",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "The central auditory pathway is not a single cable; at each station the signal is passed to a new neuron and processed.",
+    "The frequency map that starts in the cochlea, called tonotopy, is preserved at every station along the pathway.",
+    "Most fibers cross to the opposite side in the brainstem, but some stay on the same side.",
+    "The pathway is also made up of parallel subpathways that carry different features of sound.",
+    "The number of neurons increases greatly at higher stations; the further the signal travels, the more complex its processing."
+   ]
+  },
+  {
+   "id": "nucleus",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Brainstem stations",
+   "baslik": "First stop: the *cochlear nucleus*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "auditory nerve",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "cochlear nucleus",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "All fibers synapse on the _same side_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ventral and _dorsal_ divisions",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Up to here, input from _one ear_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "The auditory nerve passes through the internal auditory canal and enters the brainstem where the pons meets the medulla oblongata.",
+    "The first stop is the cochlear nucleus in the brainstem.",
+    "All fibers of the auditory nerve synapse in the cochlear nucleus on their own side.",
+    "The nucleus has ventral and dorsal divisions, and each nerve fiber branches to reach all of them.",
+    "Different cell types separately process the timing, the onset or the spectral shape of the sound.",
+    "Up to this level the information belongs to one ear only; crossing begins after this point."
+   ]
+  },
+  {
+   "id": "oliva",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Brainstem stations",
+   "baslik": "The two ears *meet*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "superior olivary complex",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 0
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "The _first meeting_ of the two ears",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Part of the acoustic reflex _arc_",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "_Origin_ of efferent fibers",
+     "cumle": 6,
+     "ikon": "noron"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 1,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "A large share of fibers leaving the cochlear nucleus cross to the other side in a fiber bundle called the trapezoid body.",
+    "The fibers reach the superior olivary complex in the lower pons.",
+    "This is where information from the two ears meets for the first time.",
+    "That is why the superior olivary complex plays a key role in locating where a sound comes from.",
+    "The complex is made up of several separate nuclei, which is why it is called a complex.",
+    "The brainstem arc of the acoustic reflex also passes through this region.",
+    "In addition, the olivocochlear efferent fibers that return to the cochlea start from around this complex."
+   ]
+  },
+  {
+   "id": "mso_lso",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Brainstem stations",
+   "baslik": "*Two cues* for localisation",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Medial part",
+     "metin": "Interaural time difference",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "For low pitches",
+     "metin": "Time cue is strong",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Lateral part",
+     "metin": "Interaural level difference",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "For high pitches",
+     "metin": "Head shadow: level cue",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Two important parts of the superior olivary complex use different cues for the direction of sound.",
+    "The medial part compares very small differences in the time sound takes to reach each ear.",
+    "This time cue is especially strong for low-frequency sounds.",
+    "The lateral part compares the difference in level of the sound reaching the two ears.",
+    "Because the head shadow weakens high-frequency sounds more, the level cue is especially strong for high frequencies.",
+    "We will cover these two cues in detail in the lesson on binaural hearing."
+   ]
+  },
+  {
+   "id": "lemniskus_kollikulus",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Brainstem stations",
+   "baslik": "The ascending pathway and the *midbrain*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "lateral lemniscus",
+     "cumle": 0
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior colliculus",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "lateral_lemniskus",
+     "cumle": 0
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lemniscus: the main _ascending bundle_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Inferior colliculus: a _stop_ for nearly all fibers",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Information is _integrated_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "lateral_lemniskus",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 2,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "Fibers from the superior olivary complex and the cochlear nucleus rise along the lateral lemniscus.",
+    "This bundle also contains small nuclei, and there are connections between the two sides.",
+    "The bundle ends in the inferior colliculus in the midbrain.",
+    "Almost all ascending auditory fibers synapse at this station.",
+    "The inferior colliculus integrates the timing, level and frequency information arriving from the different brainstem stations.",
+    "It also contributes to reflex responses, such as turning the head and eyes towards a sudden sound."
+   ]
+  },
+  {
+   "id": "talamus",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Thalamus and cortex",
+   "baslik": "The gateway to the cortex: the *thalamus*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "mgb",
+     "metin": "medial geniculate body",
+     "cumle": 0,
+     "yer": "sag"
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "auditory cortex",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mgb",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "The _last_ relay, in the thalamus",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tonotopic part to the _primary cortex_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Auditory radiation",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "mgb",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3,
+     "olcek": 1.8
+    }
+   ],
+   "cumleler": [
+    "Fibers leaving the inferior colliculus reach the medial geniculate body in the thalamus.",
+    "This structure is the last relay station before auditory information reaches the cortex.",
+    "Its ventral division carries an orderly frequency map and projects to the primary auditory cortex.",
+    "From here, fibers reach the auditory cortex in the temporal lobe through a bundle called the auditory radiation.",
+    "We will look at the auditory cortex and the language areas in detail in the next lesson."
+   ]
+  },
+  {
+   "id": "istasyonlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Thalamus and cortex",
+   "baslik": "The stations *together*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Cochlear nucleus",
+     "metin": "Pons-medulla: first synapse",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Superior olivary complex",
+     "metin": "Lower pons: two ears, direction",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Lateral lemniscus",
+     "metin": "Pons: main ascending bundle",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Inferior colliculus",
+     "metin": "Midbrain: integration, reflexes",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Medial geniculate body",
+     "metin": "Thalamus: relay to cortex",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Auditory cortex",
+     "metin": "Temporal lobe: perception, meaning",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The cochlear nucleus is the station where the auditory nerve makes its first synapse and where the features of sound begin to be separated.",
+    "The superior olivary complex is where information from the two ears first meets and where directional cues are processed.",
+    "The lateral lemniscus is the main ascending bundle running from the pons to the midbrain.",
+    "The inferior colliculus is an obligatory stop where ascending information is integrated.",
+    "The medial geniculate body relays the information to the cortex from the thalamus.",
+    "The auditory cortex is where sound is perceived and begins to take on meaning."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Crossed fibers",
+   "baslik": "Crossed and *uncrossed* fibers",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Crossed pathway",
+     "metin": "Most fibers, opposite hemisphere",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Crossing points",
+     "metin": "Trapezoid body, lemniscus, inferior colliculus",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Uncrossed",
+     "metin": "Smaller, same side",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Result",
+     "metin": "Each ear in both hemispheres",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Let us follow the pathway from one ear, for example the left cochlea.",
+    "After the cochlear nucleus, most fibers cross to the other side; this is called the crossed, or contralateral, pathway.",
+    "That is why each ear is more strongly connected to the hemisphere on the opposite side.",
+    "Crossing happens at several points: in the trapezoid body, at the level of the lemniscus and between the colliculi.",
+    "A smaller share of fibers ascends on the same side; this is called the uncrossed, or ipsilateral, pathway.",
+    "As a result, above the cochlear nucleus each ear is represented in both hemispheres of the brain."
+   ]
+  },
+  {
+   "id": "tek_kulak",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Crossed fibers",
+   "baslik": "The *clinical result* of this layout",
+   "maddeler": [
+    {
+     "metin": "Nerve and nucleus: _one ear_ affected",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Higher up: audiogram may be _normal_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Hard tests: the _opposite ear_ affected",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "The _basis_ of central tests",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        15,
+        15
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "A problem at the level of the auditory nerve or cochlear nucleus can affect only the ear on that side.",
+    "But with a one-sided problem above the cochlear nucleus, the pure-tone audiogram often stays normal.",
+    "In this example audiogram, the thresholds of both ears are within normal limits.",
+    "Difficulty often shows up in the ear opposite the problem, on hard tests such as speech in noise or different stimuli to each ear.",
+    "This is the basis of the central auditory processing tests we will see later."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PART 5",
+   "bolum": "Link to the ABR",
+   "baslik": "Stations and *ABR waves*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "wave I: auditory nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_III",
+     "metin": "wave III: cochlear nucleus",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "wave V: lateral lemniscus and inferior colliculus",
+     "cumle": 3
+    },
+    {
+     "parca": "latans_I_V",
+     "metin": "I-V interval: brainstem conduction",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_III",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 3
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "These stations are the generators of the waves in the auditory brainstem response, or ABR, recording.",
+    {
+     "yazi": "Wave I arises from the end of the auditory nerve closest to the cochlea.",
+     "ses": "Wave one arises from the end of the auditory nerve closest to the cochlea."
+    },
+    {
+     "yazi": "The main generator of wave III is the cochlear nucleus in the brainstem.",
+     "ses": "The main generator of wave three is the cochlear nucleus in the brainstem."
+    },
+    {
+     "yazi": "Wave V arises from the region where the lateral lemniscus reaches the inferior colliculus.",
+     "ses": "Wave five arises from the region where the lateral lemniscus reaches the inferior colliculus."
+    },
+    {
+     "yazi": "The time between waves I and V shows how fast the signal travels through the brainstem.",
+     "ses": "The time between waves one and five shows how fast the signal travels through the brainstem."
+    },
+    "Each wave comes from the combined activity of several structures; this matching is a useful simplification."
+   ]
+  },
+  {
+   "id": "dalga_tablo",
+   "tur": "tablo",
+   "bolum_no": "PART 5",
+   "bolum": "Link to the ABR",
+   "baslik": "Wave and *generator*",
+   "sutunlar": [
+    "Wave",
+    "Main generator"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "I",
+      "Auditory nerve, distal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "II",
+      "Auditory nerve, proximal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "III",
+      "Cochlear nucleus"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "IV",
+      "Superior olivary complex"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "V",
+      "Lateral lemniscus, inferior colliculus"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Waves I and II arise from the auditory nerve; wave I from the part near the cochlea, wave II from the part near the brainstem.",
+     "ses": "Waves one and two arise from the auditory nerve; wave one from the part near the cochlea, wave two from the part near the brainstem."
+    },
+    {
+     "yazi": "Wave III is associated with the cochlear nucleus.",
+     "ses": "Wave three is associated with the cochlear nucleus."
+    },
+    {
+     "yazi": "Wave IV arises largely from the superior olivary complex and often merges with wave V.",
+     "ses": "Wave four arises largely from the superior olivary complex and often merges with wave five."
+    },
+    {
+     "yazi": "Wave V reflects the region where the lateral lemniscus reaches the inferior colliculus and is the wave used most in the clinic.",
+     "ses": "Wave five reflects the region where the lateral lemniscus reaches the inferior colliculus and is the wave used most in the clinic."
+    },
+    "As you can see, the ABR assesses only the brainstem part of the pathway; it does not show the thalamus or cortex."
+   ]
+  },
+  {
+   "id": "retrokoklear",
+   "tur": "odyogram",
+   "bolum_no": "PART 5",
+   "bolum": "Link to the ABR",
+   "baslik": "Example: *retrocochlear* suspicion",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: asymmetric high-frequency loss",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       50,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this example, the thresholds of the right ear are within normal limits.",
+    "In the left ear, however, there is a marked one-sided sensorineural loss in the high frequencies.",
+    "An asymmetric loss like this may suggest that the problem lies beyond the cochlea, for example in the auditory nerve.",
+    {
+     "yazi": "Further clues are speech discrimination in this ear worse than expected from thresholds, and a delayed wave V on the ABR.",
+     "ses": "Further clues are speech discrimination in this ear worse than expected from thresholds, and a delayed wave five on the ABR."
+    },
+    "The definitive assessment is made by a physician with imaging; audiological tests provide guiding information."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 5",
+   "bolum": "Link to the ABR",
+   "baslik": "Clinical tip",
+   "metin": "A normal audiogram does not mean the central auditory pathway is intact. If a patient reports trouble hearing in noise, take it seriously and refer for central tests if needed.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from the clinic: the pure-tone audiogram shows only thresholds.",
+    "Because each ear is represented in both hemispheres, a problem in the central pathway may not show on the audiogram.",
+    "Take seriously the history of someone who reports difficulty understanding in noise despite a normal audiogram.",
+    "In such cases, speech tests, the ABR and central auditory tests can provide more information."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Cochlear nucleus, superior olive, _lateral lemniscus_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Inferior colliculus, _medial geniculate body_, cortex",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Most fibers cross to the _opposite side_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "ABR waves: _brainstem_ stations",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In the brainstem, sound travels through the cochlear nucleus, the superior olivary complex and the lateral lemniscus.",
+    "It then reaches the auditory cortex via the inferior colliculus and the medial geniculate body.",
+    "Most fibers cross to the opposite side; above the cochlear nucleus, each ear is represented in both hemispheres.",
+    {
+     "yazi": "ABR waves reflect the brainstem stations: wave I the auditory nerve, wave V the inferior colliculus region.",
+     "ses": "ABR waves reflect the brainstem stations: wave one the auditory nerve, wave five the inferior colliculus region."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Where does information from the two ears first meet?",
+   "secenekler": [
+    "Cochlear nucleus",
+    "Superior olivary complex",
+    "Medial geniculate body",
+    "Auditory cortex"
+   ],
+   "dogru": 1,
+   "aciklama": "The cochlear nucleus receives input from one ear only; the two ears first meet in the _superior olivary complex_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: where does information from the two ears first meet?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the superior olivary complex."
+    },
+    "The cochlear nucleus gets input only from its own ear; information from the two ears first combines in the superior olivary complex."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The *Auditory Cortex* and Language Areas",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at the final stop of the pathway, the auditory cortex and the language areas.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

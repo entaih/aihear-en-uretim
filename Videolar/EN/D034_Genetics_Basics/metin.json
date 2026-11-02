@@ -1,0 +1,885 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D034_Genetics_Basics_EN",
+ "kapak": {
+  "ust": "LESSON 34",
+  "baslik": "Genetics<br>*basics*",
+  "alt": "Genes, alleles and inheritance patterns",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 3.5,
+    "ad": "For each child",
+    "isaretler": [
+     1,
+     2,
+     3
+    ],
+    "yazilar": {
+     "1": "Affected",
+     "2": "Carrier",
+     "3": "Noncarrier"
+    }
+   },
+   "y": {
+    "min": 0,
+    "max": 60,
+    "adim": 25,
+    "ad": "Probability (%)"
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       1,
+       25
+      ]
+     ],
+     "renk": "kirmizi",
+     "etiket": "25 percent",
+     "etiket_konum": [
+      1,
+      25
+     ]
+    },
+    {
+     "ad": "b",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       2,
+       50
+      ]
+     ],
+     "renk": "sari",
+     "etiket": "50 percent",
+     "etiket_konum": [
+      2,
+      50
+     ]
+    },
+    {
+     "ad": "c",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       3,
+       25
+      ]
+     ],
+     "renk": "mavi",
+     "etiket": "25 percent",
+     "etiket_konum": [
+      3,
+      25
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Genetics Basics: Genes, Alleles, Inheritance Patterns | Lesson 34 | AIHEAR Audiology Academy",
+  "aciklama": "We explain the basic concepts needed to understand genetic hearing loss: DNA, genes, chromosomes, alleles, genotype and phenotype. With examples, we look at autosomal recessive and dominant, X-linked and mitochondrial inheritance, pedigree symbols, penetrance and variable expressivity.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Thompson and Thompson Genetics in Medicine; Toriello and Smith, Hereditary Hearing Loss and Its Syndromes; Katz, Handbook of Clinical Audiology; Bennett RL et al., Standardized human pedigree nomenclature, Journal of Genetic Counseling (2008); Hacettepe University Institute of Population Studies, Turkey Demographic and Health Survey 2018.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "genetics",
+   "inheritance"
+  ],
+  "etiketler": [
+   "inheritance",
+   "genetics",
+   "autosomal recessive",
+   "autosomal dominant",
+   "X-linked inheritance",
+   "mitochondrial inheritance",
+   "pedigree",
+   "allele",
+   "genetic hearing loss",
+   "consanguinity",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 34",
+   "baslik": "Genetics *basics*",
+   "alt": "Genes, alleles and inheritance patterns",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the basic concepts needed to understand genetic hearing loss: genes, chromosomes and alleles.",
+    "We will look at autosomal dominant and recessive, X-linked and mitochondrial inheritance, and how to read a pedigree."
+   ]
+  },
+  {
+   "id": "dna",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "From DNA *to protein*",
+   "adimlar": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "DNA",
+     "cumle": 1,
+     "metin": "The text of heredity"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Gene",
+     "cumle": 2,
+     "metin": "A recipe for a protein"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Protein",
+     "cumle": 4,
+     "metin": "Does work in the cell"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tissue",
+     "cumle": 5,
+     "metin": "For example, the cochlea"
+    }
+   ],
+   "cumleler": [
+    "To understand inheritance, let us first get to know a few basic concepts.",
+    "DNA is the molecule that carries hereditary information in our cells; it is like a very long text written in a four-letter alphabet.",
+    "A section of this text that codes for a specific task is called a gene; a gene usually carries the recipe for making a protein.",
+    "Humans have about twenty thousand genes that code for proteins.",
+    "Proteins do the work of the cell; for example, some proteins in the cochlea let potassium ions pass between cells.",
+    "If a change in a gene disrupts the structure or amount of a protein, problems can arise in the tissue where that protein works."
+   ]
+  },
+  {
+   "id": "kromozom",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "46 *chromosomes*",
+   "maddeler": [
+    {
+     "metin": "_23 pairs_ of chromosomes",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "One from the mother, one _from the father_",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "22 pairs of _autosomes_",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Female XX, male _XY_",
+     "cumle": 4,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Mitochondrial DNA: _from the mother_",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CHROMOSOMES",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "gen_dna",
+      "baslik": "Autosomes",
+      "cumle": 3,
+      "metin": "22 pairs"
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Sex",
+      "cumle": 4,
+      "metin": "XX or XY"
+     },
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Mitochondria",
+      "cumle": 5,
+      "metin": "DNA from the mother"
+     }
+    ]
+   },
+   "cumleler": [
+    "In the cell nucleus, DNA is packed into bundles called chromosomes.",
+    "Humans have forty six chromosomes, that is, twenty three pairs.",
+    "One chromosome of each pair comes from the mother and the other from the father.",
+    "Twenty two pairs are autosomes, which do not depend on sex; the last pair is the sex chromosomes.",
+    "Females have two X chromosomes, and males have one X and one Y chromosome.",
+    "Mitochondria, the energy-producing parts of the cell, also have their own small DNA, and this DNA comes from the mother."
+   ]
+  },
+  {
+   "id": "alel",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "Allele, genotype, *phenotype*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Allele",
+     "cumle": 1,
+     "metin": "A version of a gene"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Homozygous",
+     "cumle": 2,
+     "metin": "Two copies the same"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Heterozygous",
+     "cumle": 2,
+     "metin": "Two copies different"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Phenotype",
+     "cumle": 4,
+     "metin": "For example, the audiogram"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Variant",
+     "cumle": 5,
+     "metin": "A change in a gene"
+    }
+   ],
+   "cumleler": [
+    "Each gene on the autosomes has two copies, one from the mother and one from the father.",
+    "The different versions of a gene are called alleles.",
+    "If a person's two copies are the same allele, the person is homozygous; if they are different alleles, heterozygous.",
+    "The genotype is the combination of alleles a person carries; the phenotype is the visible or measurable result.",
+    "In audiology, the phenotype is often the audiogram: the degree of loss, its configuration and its age of onset.",
+    "In the genetics literature, changes that cause disease are increasingly called pathogenic variants instead of mutations.",
+    "In this lesson, to keep things clear, we will use the terms altered gene and change."
+   ]
+  },
+  {
+   "id": "dominant_resesif",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "Dominant and *recessive*",
+   "maddeler": [
+    {
+     "metin": "Dominant: _one copy_ is enough",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Recessive: _two copies_ needed",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Carrier: _usually unaffected_",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Everyone is a _carrier_ of some changes",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CARRIER",
+    "metin": "A person with *one copy* of a recessive allele, usually unaffected",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Whether one copy of an allele is enough to show its effect determines the pattern of inheritance.",
+    "An allele that shows its effect even with a single copy is called a dominant allele.",
+    "An allele that needs both copies to show its effect is called a recessive allele.",
+    "A person who carries only one copy of a recessive allele is called a carrier; carriers are usually unaffected.",
+    "Everyone is a carrier of a few recessive changes; most of us never know it."
+   ]
+  },
+  {
+   "id": "resesif",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Inheritance patterns",
+   "baslik": "Autosomal *recessive* inheritance",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": "For each child",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Affected",
+      "2": "Carrier",
+      "3": "Noncarrier"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 25,
+     "ad": "Probability (%)"
+    },
+    "seriler": [
+     {
+      "ad": "etkilenmis",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        1,
+        25
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "25 percent",
+      "etiket_konum": [
+       1,
+       25
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "tasiyici",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        2,
+        50
+       ]
+      ],
+      "renk": "sari",
+      "etiket": "50 percent",
+      "etiket_konum": [
+       2,
+       50
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "tasimiyor",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        3,
+        25
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "25 percent",
+      "etiket_konum": [
+       3,
+       25
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Two carrier parents",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Same_ chance in every pregnancy",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "In siblings: _horizontal_ pattern",
+     "cumle": 5,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "In autosomal recessive inheritance, a child must receive two altered copies to be affected.",
+    "Most often, the mother and father are hearing carriers; each carries one altered copy and one working copy.",
+    "For each child of two such carriers, the chance of being affected is twenty five percent.",
+    "The chance that the child is a carrier is fifty percent, and the chance of carrying no altered copy is twenty five percent.",
+    "These chances apply anew in every pregnancy; having one affected child does not change the chances for the next.",
+    "In a pedigree, recessive conditions often appear in siblings of the same generation and may not appear in earlier generations.",
+    "Girls and boys are affected equally often."
+   ]
+  },
+  {
+   "id": "soy_agaci",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Inheritance patterns",
+   "baslik": "Consanguinity and *recessive risk*",
+   "cizim": "pedigri",
+   "ayar": {
+    "tip": "resesif",
+    "akraba_cumle": 1,
+    "tasiyici_cumle": 2,
+    "etkilenmis_cumle": 3
+   },
+   "notlar": [
+    {
+     "metin": "Square _male_, circle _female_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Double line: _related partners_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Türkiye: about _24 percent_",
+     "cumle": 5,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "On screen you see a simple pedigree; the Roman numerals show the generations.",
+    "In the first generation, the double line between the mother and father shows that the partners are related to each other.",
+    "Both are carriers of the same altered gene, and both have normal hearing.",
+    "In the second generation, one of four children has hearing loss; the filled symbol shows the affected person.",
+    "Related partners are more likely to carry the same altered gene from a shared ancestor, so the risk of recessive conditions rises.",
+    {
+     "yazi": "In Türkiye, according to the Turkey Demographic and Health Survey 2018, about twenty four percent of marriages are consanguineous.",
+     "ses": "In Türkiye, according to the Turkey Demographic and Health Survey twenty eighteen, about twenty four percent of marriages are consanguineous."
+    },
+    "We will look at consanguinity and genetic counseling in detail in a later lesson."
+   ],
+   "etiketler": [
+    {
+     "parca": "tasiyicilar",
+     "metin": "carrier",
+     "cumle": 2
+    },
+    {
+     "parca": "etkilenmis",
+     "metin": "affected",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "dominant",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Inheritance patterns",
+   "baslik": "Autosomal *dominant* inheritance",
+   "maddeler": [
+    {
+     "metin": "_One copy_ is enough",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "_50 percent_ for each child",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Vertical_ transmission across generations",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "De novo: a _new_ change",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0.5,
+      "max": 2.5,
+      "ad": "For each child",
+      "isaretler": [
+       1,
+       2
+      ],
+      "yazilar": {
+       "1": "Affected",
+       "2": "Unaffected"
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 60,
+      "adim": 25,
+      "ad": "Probability (%)"
+     },
+     "seriler": [
+      {
+       "ad": "etkilenmis",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         1,
+         50
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "50 percent",
+       "etiket_konum": [
+        1,
+        50
+       ],
+       "cumle": 1
+      },
+      {
+       "ad": "etkilenmemis",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         2,
+         50
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "50 percent",
+       "etiket_konum": [
+        2,
+        50
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "In autosomal dominant inheritance, a single altered copy is enough to be affected.",
+    "Each child of an affected parent has a fifty percent chance of receiving the altered copy.",
+    "So in a pedigree, dominant conditions are seen from generation to generation, in a vertical line.",
+    "Females and males are affected equally often, and the condition can also pass from father to son.",
+    "Nonsyndromic dominant hearing losses usually begin after birth and progress over time.",
+    "Sometimes there is no family history at all; the change has newly appeared in the child, and this is called a de novo change."
+   ]
+  },
+  {
+   "id": "x_mito",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Inheritance patterns",
+   "baslik": "X-linked and *mitochondrial*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "X-linked",
+     "cumle": 1,
+     "metin": "Males affected more often"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Carrier mother",
+     "cumle": 3,
+     "metin": "50 percent for sons"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Affected father",
+     "cumle": 4,
+     "metin": "Daughters carriers, sons not"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Mitochondrial",
+     "cumle": 5,
+     "metin": "Only from the mother"
+    }
+   ],
+   "cumleler": [
+    "In X-linked inheritance, the altered gene is on the X chromosome.",
+    "Because males have only one X chromosome, an X-linked recessive change shows its effect directly in males.",
+    "Thanks to the working copy on their second X chromosome, females are mostly carriers or mildly affected.",
+    "For each son of a carrier mother, the chance of being affected is fifty percent.",
+    "An affected father cannot pass the change to his sons, but all his daughters will be carriers.",
+    "In mitochondrial inheritance, the change passes only from the mother; all children of an affected mother carry the change.",
+    "The father's mitochondrial DNA is not passed to the children; we will see a drug-related example in later genetics lessons."
+   ]
+  },
+  {
+   "id": "semboller",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The pedigree",
+   "baslik": "Pedigree *symbols*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Square, circle",
+     "cumle": 1,
+     "metin": "Male and female"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Filled symbol",
+     "cumle": 1,
+     "metin": "Affected person"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Double line",
+     "cumle": 2,
+     "metin": "Related partners"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Siblings",
+     "cumle": 3,
+     "metin": "In birth order"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Arrow",
+     "cumle": 4,
+     "metin": "Index case"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Roman numerals",
+     "cumle": 5,
+     "metin": "Generations"
+    }
+   ],
+   "cumleler": [
+    "A pedigree is a drawing that shows the people in a family and their relationships with standard symbols.",
+    "Squares show males and circles show females; a filled symbol is an affected person.",
+    "Partners are joined by a horizontal line; a double line is used between related partners.",
+    "Children are shown by a vertical line coming down from this line and are placed from left to right in birth order.",
+    "The first person who brings the family to the clinic, the index case or proband, is marked with an arrow.",
+    "Generations are numbered with Roman numerals, and people in each generation are numbered from left to right."
+   ]
+  },
+  {
+   "id": "karmasik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The pedigree",
+   "baslik": "Why is it not always *simple?*",
+   "maddeler": [
+    {
+     "metin": "Penetrance: _not every carrier is affected_",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Variable expressivity: _different severity_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Same loss, _different genes_",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Family history _is not enough alone_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "IN THE SAME FAMILY",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "One person",
+      "cumle": 3,
+      "metin": "Severe hearing loss"
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Another",
+      "cumle": 3,
+      "metin": "Only a white forelock"
+     }
+    ]
+   },
+   "cumleler": [
+    "In real families, inheritance does not always look as tidy as in the textbook.",
+    "Penetrance is the share of people with the change who are actually affected; some carriers show no signs at all.",
+    "Variable expressivity means that people with the same change show findings of different severity.",
+    "For example, in Waardenburg syndrome, one person in a family may have severe hearing loss and another only a white forelock.",
+    "Also, the same hearing loss can come from different genes, and the same gene can show different inheritance patterns.",
+    "So family history alone does not give a definite answer; genetic evaluation and counseling are needed."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Hearing and genetics",
+   "baslik": "Why it *matters* for audiology",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Hair cells",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Supporting cells",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Nerve fibers",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_More than half_ of congenital losses",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Over 100_ genes",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "_Risk estimate_ for the family",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "Genetics is one of the fastest growing areas of audiology.",
+    "In developed countries, more than half of congenital hearing losses have a genetic cause.",
+    "Today, more than one hundred genes linked to hearing loss have been identified.",
+    "Most of these genes work in the cochlea: in the hair cells, in structures that keep the ion balance, and in nerve connections.",
+    "Knowing the pattern of inheritance helps estimate the risk for other children in the family.",
+    "We will cover syndromic and nonsyndromic losses, the most common genes and genetic counseling in detail in later lessons."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Draw relatives whose hearing status is unknown and mark them as unknown. Under affected people, write the age of onset and device use.",
+   "cumleler": [
+    "A useful tip for case history: when drawing a pedigree, do not leave out relatives whose hearing status is unknown.",
+    "Draw these people too and note that their status is unknown; unknown is not the same as normal.",
+    "Under each affected person's symbol, write the age of onset, whether the loss is in one or both ears, and device use.",
+    "Such a pedigree makes genetic evaluation much easier."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Genes: _two copies_, mother and father",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Recessive: two carriers, _25 percent_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Dominant: _50 percent_ for each child",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "X-linked: males; mitochondrial: _mother_",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    "Each gene has two copies, one from the mother and one from the father; the different versions of a gene are called alleles.",
+    "In autosomal recessive inheritance, each child of two carrier parents has a twenty five percent chance of being affected.",
+    "In autosomal dominant inheritance, the chance for each child of an affected parent is fifty percent.",
+    "In X-linked inheritance, males are affected more often; mitochondrial changes pass only from the mother."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is the risk for each child of two carrier parents?",
+   "secenekler": [
+    "0 percent",
+    "25 percent",
+    "50 percent",
+    "100 percent"
+   ],
+   "dogru": 1,
+   "aciklama": "In autosomal recessive inheritance, each child of two carriers has a _25 percent_ chance of being affected.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in an autosomal recessive loss, what is the chance of being affected for each child of two carrier parents?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: twenty five percent.",
+    "The chance that the child is a carrier is fifty percent."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How the Ear *Develops*: Embryology of the Ear",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how the ear develops in the womb: the embryology of the inner, middle and outer ear.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

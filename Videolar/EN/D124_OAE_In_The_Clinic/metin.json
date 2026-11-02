@@ -1,0 +1,836 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D124_OAE_In_The_Clinic_EN",
+ "kapak": {
+  "ust": "LESSON 124",
+  "baslik": "*OAE*<br>in the clinic",
+  "alt": "Screening, ototoxicity and pitfalls",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "TEOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "OAE in the Clinic: Uses and Pitfalls | Lesson 124 | AIHEAR Audiology Academy",
+  "aciklama": "Otoacoustic emissions play an important role in newborn screening, ototoxicity monitoring and the recognition of auditory neuropathy. In this lesson we use examples to look at the screening pathway, the need for automated ABR in intensive care infants, and the effects of middle ear effusion, vernix, probe fit and noise on the result.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: JCIH (2019), Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; ASHA (1994), Guidelines for the audiologic management of individuals receiving cochleotoxic drug therapy; Ministry of Health of Türkiye, Newborn Hearing Screening Program Circular (2014/27); Hall JW, Handbook of Otoacoustic Emissions; Dhar S, Hall JW, Otoacoustic Emissions: Principles, Procedures, and Protocols; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "OAE",
+   "newbornscreening"
+  ],
+  "etiketler": [
+   "otoacoustic emissions",
+   "OAE",
+   "newborn hearing screening",
+   "ototoxicity",
+   "auditory neuropathy",
+   "vernix",
+   "middle ear effusion",
+   "probe fit",
+   "JCIH",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 124",
+   "baslik": "*OAE* in the Clinic: Uses and Pitfalls",
+   "alt": "Screening, ototoxicity and factors that disturb the result",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we will learn the main clinical uses of otoacoustic emissions, or OAEs.",
+    "We will talk about newborn screening, ototoxicity monitoring, OAEs in auditory neuropathy, and the factors that disturb the results."
+   ]
+  },
+  {
+   "id": "roller",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Clinical uses",
+   "baslik": "The *clinical* roles of OAEs",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Newborn screening",
+     "metin": "Fast and objective",
+     "cumle": 1
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoxicity",
+     "metin": "Shows early change",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Auditory neuropathy",
+     "metin": "Together with ABR",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Cross-check",
+     "metin": "Supports behavioral testing",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Functional loss",
+     "metin": "Conflicts with reported loss",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the last three lessons, we saw what OAEs are and how they are measured; now let us look at what they do in the clinic.",
+    "The most common use is newborn hearing screening.",
+    "They are also used to monitor outer hair cell changes in patients receiving ototoxic drugs.",
+    "Together with the auditory brainstem response, or ABR, they help in recognizing auditory neuropathy.",
+    "They are a cross-check tool in children whose behavioral results are not reliable.",
+    "Normal OAEs despite a reported severe loss strengthen the suspicion of a functional hearing loss."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Newborn screening",
+   "baslik": "The screening *pathway*",
+   "adimlar": [
+    {
+     "ikon": "bebek",
+     "baslik": "First screen",
+     "metin": "Before discharge",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Rescreen",
+     "metin": "Referred babies again",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Diagnostic test",
+     "metin": "Audiological assessment",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "The 1-3-6 goal",
+     "metin": "Screen, diagnose, intervene",
+     "cumle": 4
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "National program",
+     "metin": "Ministry of Health",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "For healthy newborns, screening in many programs begins with OAEs before discharge.",
+    "OAE testing is fast and noninvasive, and it can be completed in a few minutes while the baby sleeps.",
+    "A baby who does not pass the first screen is screened again on the same day or shortly after.",
+    "A baby who also does not pass the rescreen is referred for diagnostic audiological assessment.",
+    "The Joint Committee on Infant Hearing, or JCIH, recommends completing screening by one month and diagnosis by three months.",
+    "Intervention is meant to begin by six months; this is called the one, three, six goal.",
+    "In Türkiye, the Ministry of Health also runs a national newborn hearing screening program."
+   ]
+  },
+  {
+   "id": "yogun_bakim",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "Newborn screening",
+   "baslik": "Well babies and *intensive care*",
+   "sol": {
+    "ust": "Well baby",
+    "maddeler": [
+     {
+      "metin": "OAE or AABR",
+      "cumle": 0
+     },
+     {
+      "metin": "Two-stage screening",
+      "cumle": 1
+     },
+     {
+      "metin": "Diagnostic test if referred",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "NICU (more than 5 days)",
+    "maddeler": [
+     {
+      "metin": "Automated ABR recommended",
+      "cumle": 2
+     },
+     {
+      "metin": "Why: risk of auditory neuropathy",
+      "cumle": 3
+     },
+     {
+      "metin": "OAE alone is not enough",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "In well-baby nurseries, screening can be done with OAEs or with the automated auditory brainstem response, or AABR.",
+    "Babies who do not pass are screened again in a second stage and, if needed, referred for diagnostic testing.",
+    "For babies who stay in the neonatal intensive care unit for more than five days, JCIH recommends screening with automated ABR.",
+    "The reason is that auditory neuropathy is more common in these babies.",
+    "Because OAEs can be normal in auditory neuropathy, screening with OAEs alone could pass these babies.",
+    "We will cover this topic in detail in the lesson on auditory neuropathy spectrum disorder."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Newborn screening",
+   "baslik": "Explaining the result to the *family*",
+   "maddeler": [
+    {
+     "metin": "Refer: _not a diagnosis_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Common causes: _temporary_ factors",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "The follow-up visit _matters_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Pass: _monitoring_ is still needed",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FOR THE FAMILY",
+    "metin": "A refer result means *further testing* is needed",
+    "cumle": 0
+   },
+   "cumleler": [
+    "When a refer result is explained to the family, it is stated clearly that it is not a diagnosis.",
+    "It is explained that a refer result is often linked to temporary causes such as fluid, vernix or noise.",
+    "But the importance of the follow-up visit is stressed, because some of the referred babies do have a true hearing loss.",
+    "A pass result does not rule out hearing problems that may develop later; the family is advised to watch speech development."
+   ]
+  },
+  {
+   "id": "ototoks",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Ototoxicity and neuropathy",
+   "baslik": "Ototoxicity *monitoring*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 750,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "f2 frequency (Hz)"
+    },
+    "y": {
+     "min": -20,
+     "max": 20,
+     "adim": 10,
+     "ad": "DP level (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "baslangic",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        3000,
+        9
+       ],
+       [
+        4000,
+        8
+       ],
+       [
+        6000,
+        6
+       ],
+       [
+        8000,
+        4
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "baseline",
+      "cumle": 3
+     },
+     {
+      "ad": "tedavi",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        2000,
+        9
+       ],
+       [
+        3000,
+        6
+       ],
+       [
+        4000,
+        1
+       ],
+       [
+        6000,
+        -6
+       ],
+       [
+        8000,
+        -10
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "during treatment",
+      "cumle": 4
+     },
+     {
+      "ad": "gurultu_tabani",
+      "noktalar": [
+       [
+        1000,
+        -2
+       ],
+       [
+        2000,
+        -8
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ],
+       [
+        8000,
+        -8
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "kesik": true,
+      "etiket": "noise floor",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "First, a baseline measurement",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Early drop at high frequencies",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Behavioral criteria: ASHA",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Some chemotherapy drugs, such as cisplatin, and aminoglycoside antibiotics can damage the ear.",
+    "This effect is called ototoxicity, and it usually affects the high frequencies first.",
+    "For monitoring, a baseline measurement is taken before treatment starts.",
+    {
+     "yazi": "In the example on the screen, the blue line shows the baseline DP-gram of the distortion product otoacoustic emission, or DPOAE.",
+     "ses": "In the example on the screen, the blue line shows the baseline D P gram of the distortion product otoacoustic emission, or DPOAE."
+    },
+    "On the red line, we see that the product at high frequencies has clearly decreased during treatment.",
+    "This drop in DPOAEs can appear before the patient reports any complaint, and sometimes before any change on the audiogram.",
+    "Criteria for audiogram change are set by the American Speech-Language-Hearing Association, or ASHA; the ototoxicity lesson covers them."
+   ]
+  },
+  {
+   "id": "noropati",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Ototoxicity and neuropathy",
+   "baslik": "OAEs and *auditory neuropathy*",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Outer hair cells: OAE",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Inner hair cell",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Nerve fibers",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "OAE present: outer hair cells",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "ABR absent or abnormal",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "OAEs may disappear over time",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "In auditory neuropathy, the outer hair cells are often intact, so OAEs can be recorded.",
+    "The problem lies in transmission at the inner hair cell, the synapse or the auditory nerve.",
+    "In this case, the ABR is absent or clearly abnormal.",
+    "The finding of present OAEs with an absent ABR is the most important clue to this condition.",
+    "In some patients, OAEs may disappear over time; so absent OAEs do not rule out the diagnosis, and the cochlear microphonic is also assessed.",
+    "Here, OAEs are not a test on their own; they gain meaning together with the ABR."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Factors that disturb the result",
+   "baslik": "Factors that *affect* the result",
+   "ogeler": [
+    {
+     "ikon": "akinti",
+     "baslik": "Middle ear effusion",
+     "metin": "Abolishes the response",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Vernix, cerumen",
+     "metin": "Blocks the ear canal",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Probe fit",
+     "metin": "Leak, blocked tip",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ambient noise",
+     "metin": "Raises the noise floor",
+     "cumle": 4
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "The baby's state",
+     "metin": "Sucking, crying, movement",
+     "cumle": 5
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Timing of the test",
+     "metin": "First hours are harder",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Because the OAE is a very small signal, many factors can disturb the result; knowing them reduces unnecessary refer results.",
+    "Middle ear effusion, that is, fluid in the middle ear, blocks the return of the emission to the ear canal and can abolish OAEs.",
+    "Vernix caseosa and debris left from birth in the newborn ear canal can block the probe and the canal.",
+    "If the probe fit is poor, the stimulus level changes, noise gets in and the recording is spoiled.",
+    "Ambient noise raises the noise floor and masks weak emissions.",
+    "The baby's sucking, crying or movement also adds noise to the recording.",
+    "In the first hours after birth, the refer rate is higher because of debris in the ear canal and the middle ear."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Factors that disturb the result",
+   "baslik": "The ear canal and the *middle ear*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Vernix, cerumen",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Fluid (effusion)",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "The cochlea may be intact",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "A blockage acts both ways",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "No OAE: possibly a conductive block",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Interpret with otoscopy and tympanometry",
+     "cumle": 4,
+     "ikon": "otoskop"
+    }
+   ],
+   "cumleler": [
+    "Let us see on the drawing where the problem lies.",
+    "Vernix or cerumen in the ear canal reduces how much stimulus reaches the cochlea and how much emission returns to the microphone.",
+    "Fluid in the middle ear weakens transmission in both directions; because the emission is so small, this loss can make it unmeasurable.",
+    "In both cases, the cochlea may be normal; this time, absent OAEs reflect a blockage in the conductive pathway.",
+    "This is why, in diagnostic assessment, OAEs are interpreted together with otoscopy and tympanometry.",
+    "Remember that a one thousand hertz probe tone is used for tympanometry in infants under six months."
+   ]
+  },
+  {
+   "id": "once",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Factors that disturb the result",
+   "baslik": "*Before* calling it a refer",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy",
+     "metin": "Is the canal clear?",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Probe check",
+     "metin": "Clean tip, good seal",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Quiet setting",
+     "metin": "Noise and the baby",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Repeat test",
+     "metin": "At a suitable time",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Referral",
+     "metin": "If the refer persists",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Before giving a refer result, check the ear canal with otoscopy.",
+    "Remove the probe, clean or change the tip, and reinsert it so that it seals well.",
+    "Quiet the room, and wait for the baby to fall asleep or settle.",
+    "If needed, repeat the measurement a few hours later or the next day.",
+    "The aim of these steps is not to change the result, but to measure under reliable conditions.",
+    "A baby who still does not pass on a repeat test under suitable conditions is referred for further testing according to the protocol."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Report the OAE result together with the tympanometry result. When there is a middle ear problem, absent OAEs do not mean a cochlear loss.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: never report an OAE result separately from tympanometry.",
+    "In an ear with a middle ear problem, absent OAEs do not mean a cochlear hearing loss.",
+    "In the report, write the OAE result, the tympanometry finding and the test conditions together.",
+    "A repeat measurement after the middle ear problem has resolved often clarifies the picture."
+   ]
+  },
+  {
+   "id": "islevsel",
+   "tur": "odyogram",
+   "bolum_no": "PART 5",
+   "bolum": "Cross-check",
+   "baslik": "Example: *conflicting* findings",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: reported severe loss",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: reported severe loss",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "TEOAE and DPOAE: _normal_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Reflex thresholds: _normal_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       70,
+       75,
+       80,
+       80,
+       85,
+       90
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       70,
+       75,
+       75,
+       80,
+       85,
+       90
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "An example: an adult gives thresholds that show a severe hearing loss in both ears.",
+    "In the same person, transient-evoked otoacoustic emissions, or TEOAEs, and DPOAEs are recorded at normal levels in both ears.",
+    "The acoustic reflex thresholds are also within normal limits.",
+    "Normal OAEs are not expected with a severe cochlear hearing loss; the findings conflict with each other.",
+    "This conflict strengthens the suspicion of a functional hearing loss; with normal reflexes, auditory neuropathy is unlikely.",
+    "The example is for teaching; in cases like this, assessment is done carefully, with the test battery."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Cross-check",
+   "baslik": "The *limits* of OAEs",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Not a threshold test",
+     "metin": "Does not give the degree",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Neural pathway",
+     "metin": "Does not rule out neuropathy",
+     "cumle": 2
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Cause of absence",
+     "metin": "Middle ear or cochlea",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Battery",
+     "metin": "With other tests",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In all these uses, the limits of OAEs must also be kept in mind.",
+    "OAE is not a threshold test; it does not tell the degree of hearing loss.",
+    "Normal OAEs do not rule out a mild hearing loss or auditory neuropathy.",
+    "Absent OAEs alone do not separate a middle ear problem from a cochlear hearing loss.",
+    "This is why OAEs are a strong, but not self-sufficient, part of the test battery."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Screening: _fast_ and objective",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "An _early_ warning in ototoxicity",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "OAE present, ABR absent: _neuropathy_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Effusion, vernix, _probe_, noise",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "OAEs are a fast and objective test in newborn screening; for intensive care infants, automated ABR is recommended.",
+    "In ototoxicity monitoring, DPOAEs can show changes at high frequencies early.",
+    "Absent ABR with present OAEs is the most important clue to auditory neuropathy.",
+    "Middle ear effusion, vernix, probe fit and noise can abolish OAEs while the cochlea is normal."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "How should a baby who stayed 10 days in the NICU be screened?",
+   "secenekler": [
+    "With TEOAE alone",
+    "With automated ABR",
+    "With tympanometry alone",
+    "No screening needed"
+   ],
+   "dogru": 1,
+   "aciklama": "In intensive care infants, screening is done with automated ABR because of the risk of _auditory neuropathy_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: How should a baby who stayed ten days in the neonatal intensive care unit be screened?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: with automated ABR.",
+    "These babies have a higher risk of auditory neuropathy; because OAEs can be normal, screening with OAEs alone is not enough."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Introduction to Auditory *Evoked Potentials*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we move from OAEs to brainstem and cortical responses, with an introduction to auditory evoked potentials.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

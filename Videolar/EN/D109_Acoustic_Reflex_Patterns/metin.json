@@ -1,0 +1,968 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D109_Acoustic_Reflex_Patterns_EN",
+ "kapak": {
+  "ust": "LESSON 109",
+  "baslik": "Reflex<br>*patterns*",
+  "alt": "Site of lesion and the Metz test",
+  "cizim": "akustik_refleks_arki"
+ },
+ "youtube": {
+  "baslik": "Acoustic Reflex Patterns and Site of Lesion | Lesson 109 | AIHEAR Audiology Academy",
+  "aciklama": "When ipsilateral and contralateral acoustic reflex findings are read together, conductive, cochlear, retrocochlear, brainstem and facial nerve patterns emerge. In this lesson we interpret the four-measurement reflex table, the Metz test and sample patterns step by step.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jerger S, Jerger J (1977), Diagnostic value of crossed versus uncrossed acoustic reflexes: eighth nerve and brain stem disorders, Archives of Otolaryngology; Metz O (1952), Threshold of reflex contractions of muscles of middle ear and recruitment of loudness, Archives of Otolaryngology; Gelfand SA, Schwander T, Silman S (1990), Acoustic reflex thresholds in normal and cochlear-impaired ears, Journal of Speech and Hearing Disorders; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acousticreflex",
+   "immittance"
+  ],
+  "etiketler": [
+   "acoustic reflex",
+   "reflex patterns",
+   "site of lesion",
+   "Metz test",
+   "retrocochlear",
+   "ipsilateral reflex",
+   "contralateral reflex",
+   "immittance audiometry",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 109",
+   "baslik": "Acoustic Reflex *Patterns* and Site of Lesion",
+   "alt": "Estimating the site of lesion with the acoustic reflex",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we will learn how the patterns formed by acoustic reflex findings help us estimate where a problem lies.",
+    "With sample tables, we will look at conductive, cochlear, retrocochlear, brainstem and facial nerve patterns, and at the Metz test."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The logic of reading",
+   "baslik": "Four measurements, *two questions*",
+   "maddeler": [
+    {
+     "metin": "Right ipsi: stimulus and probe _right_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Right contra: stimulus right, _probe left_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "A total of _four measurements_",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Stimulus side or _probe side?_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "akustik_refleks_arki",
+    "ayar": {
+     "uyarilan": "sag",
+     "ipsi_cumle": 2,
+     "kontra_cumle": 3
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "To read reflex patterns, let us first be clear about the four measurements made in every patient.",
+    "In this lesson, we name each measurement by the ear that receives the stimulus; this is a common convention.",
+    "In the right ipsilateral measurement, both the stimulus and the probe are in the right ear.",
+    "In the right contralateral measurement, the stimulus goes to the right ear, and the reflex is measured with the probe in the left ear.",
+    "The same two measurements are repeated for the left ear, which gives a table of four measurements.",
+    "For each finding, we ask two questions: is the problem on the stimulus side, or on the probe side?",
+    "The stimulus side reflects the sensory limb of the arc; the probe side reflects that ear's middle ear and facial nerve."
+   ]
+  },
+  {
+   "id": "kollar",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The logic of reading",
+   "baslik": "The *two limbs* of the arc",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 1,
+    "kontra_cumle": 5
+   },
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 3
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "CN VIII: sensory limb",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "CN VII: motor limb",
+     "cumle": 3
+    },
+    {
+     "parca": "kontralateral_yol",
+     "metin": "Crossing pathway",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Stimulus side: sensory limb",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Probe side: middle ear and CN VII",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Contra: brainstem crossing",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Splitting the reflex arc into two limbs makes the patterns easier to understand.",
+    "The sensory, or afferent, limb is made up of the cochlea and the auditory nerve of the stimulated ear.",
+    "If there is a problem in this limb, a stimulus to that ear affects both the ipsilateral and the contralateral reflex.",
+    "The motor, or efferent, limb is the facial nerve and the stapedius muscle; it is measured with the probe in the ear on that side.",
+    "If there is a problem in this limb, or in the middle ear holding the probe, measurements with the probe in that ear are affected.",
+    "The pathways that cross in the brainstem are what the two contralateral measurements have in common."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Peripheral patterns",
+   "baslik": "Pattern 1: *conductive* loss",
+   "sutunlar": [
+    "Measurement",
+    "Stimulus",
+    "Probe",
+    "Reflex"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Right ipsi",
+      "Right",
+      "Right",
+      "Absent"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Left contra",
+      "Left",
+      "Right",
+      "Absent"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Right contra",
+      "Right",
+      "Left",
+      "Elevated or absent"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Left ipsi",
+      "Left",
+      "Left",
+      "Normal"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "First example: the right ear has a moderate conductive hearing loss, and the left ear is normal.",
+    "In the right ipsilateral measurement, the probe is in the right ear and no reflex is recorded.",
+    "In the left contralateral measurement, the probe is also on the right; even though the left ear is normal, there is again no reflex.",
+    "In the right contralateral measurement, the stimulus goes to the conductive ear; the threshold rises by about the air-bone gap or is lost.",
+    "The left ipsilateral measurement is normal, because both the stimulus and the probe are in the healthy ear.",
+    "Even a small air-bone gap in the probe ear often prevents the reflex from being measured.",
+    "With a bilateral conductive hearing loss, the reflex is often absent in all four measurements."
+   ]
+  },
+  {
+   "id": "koklear",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Peripheral patterns",
+   "baslik": "Pattern 2: *cochlear* loss",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 90,
+     "adim": 10,
+     "ad": "Pure tone threshold (dB HL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 120,
+     "adim": 10,
+     "ad": "Reflex threshold (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "art",
+      "noktalar": [
+       [
+        0,
+        85
+       ],
+       [
+        10,
+        85
+       ],
+       [
+        20,
+        85
+       ],
+       [
+        30,
+        85
+       ],
+       [
+        40,
+        86
+       ],
+       [
+        50,
+        88
+       ],
+       [
+        60,
+        93
+       ],
+       [
+        70,
+        100
+       ],
+       [
+        80,
+        108
+       ],
+       [
+        90,
+        116
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "typical reflex threshold",
+      "etiket_konum": [
+       5,
+       90
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yok",
+      "y": [
+       105,
+       120
+      ],
+      "renk": "sari",
+      "etiket": "often no response",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kirilma",
+      "x": 50,
+      "y": 88,
+      "dus": "x",
+      "etiket": "about 50 dB HL",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Mild to moderate loss: normal threshold",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Above 50 to 60 dB HL: rises",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Severe loss: often absent",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Second example: a sensorineural hearing loss of cochlear origin.",
+    "In mild and moderate cochlear losses, reflex thresholds often stay within normal limits, around eighty five dB HL.",
+    "So the reflex appears at a lower sensation level than in a normal ear.",
+    "Once the loss exceeds about fifty to sixty dB HL, the reflex threshold starts to rise.",
+    "With more severe losses, the reflex is often absent up to the safe test limit.",
+    "This graph is schematic; in the clinic, norms from large samples, such as the ninetieth percentiles of Gelfand and colleagues, are used.",
+    "In a cochlear loss, both measurements with the stimulus in the affected ear are affected in the same way; the probe side causes no problem."
+   ]
+  },
+  {
+   "id": "metz",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Peripheral patterns",
+   "baslik": "The *Metz* test",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 350,
+     "max": 2800,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      500,
+      1000,
+      2000
+     ],
+     "ad": "Frequency (Hz)"
+    },
+    "y": {
+     "min": 0,
+     "max": 110,
+     "adim": 10,
+     "ters": true,
+     "ad": "Hearing level (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        500,
+        55
+       ],
+       [
+        1000,
+        60
+       ],
+       [
+        2000,
+        65
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "hearing threshold",
+      "cumle": 4
+     },
+     {
+      "ad": "refleks",
+      "noktalar": [
+       [
+        500,
+        95
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        2000,
+        105
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "reflex threshold",
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       60,
+       100
+      ],
+      "xk": 1000,
+      "etiket": "40 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal gap: 70 to 100 dB",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "60 dB or less: recruitment",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Not conclusive on its own",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The classic method that uses the gap between the reflex threshold and the hearing threshold is called the Metz recruitment test."
+    },
+    {
+     "yazi": "The test is named after the Danish researcher Otto Metz."
+    },
+    "In a normal hearing ear, the reflex appears about seventy to one hundred decibels above the hearing threshold.",
+    "If the gap is sixty decibels or less, the finding suggests that loudness grows quickly above threshold, which is recruitment.",
+    "In this example, at one thousand hertz the hearing threshold is sixty and the reflex threshold one hundred dB HL; the gap is only forty.",
+    "This finding is consistent with a hearing loss of cochlear origin.",
+    {
+     "yazi": "However, the Metz test does not separate the two on its own; a similar finding can occur with a retrocochlear lesion."
+    },
+    "This is why, today, the finding is evaluated together with the other patterns and the test battery."
+   ]
+  },
+  {
+   "id": "retro",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Retrocochlear patterns",
+   "baslik": "Pattern 3: *retrocochlear* lesion",
+   "sutunlar": [
+    "Measurement",
+    "Stimulus",
+    "Probe",
+    "Reflex"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Right ipsi",
+      "Right",
+      "Right",
+      "Absent or elevated"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Right contra",
+      "Right",
+      "Left",
+      "Absent or elevated"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Left ipsi",
+      "Left",
+      "Left",
+      "Normal"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Left contra",
+      "Left",
+      "Right",
+      "Normal"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Third example: a lesion affecting the right auditory nerve, that is, a retrocochlear lesion.",
+    "Here, in both measurements with the stimulus in the right ear, the reflex is absent or clearly elevated.",
+    "The key clue is that the reflex finding is out of proportion to the degree of hearing loss.",
+    "Measurements with the stimulus in the left ear are normal, because the right facial nerve and the right middle ear are intact.",
+    "For example, a completely absent reflex in an ear whose threshold is only thirty dB HL is striking.",
+    "A finding like this brings to mind auditory nerve lesions such as vestibular schwannoma and calls for further assessment.",
+    "Reflex decay can also be checked in the same ear; we will see this in the next lesson."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Retrocochlear patterns",
+   "baslik": "Example: an *out of proportion* finding",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: mild loss",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "A",
+     "renk": "yesil",
+     "metin": "Tympanogram: _type A in both ears_",
+     "cumle": 1
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "Right stimulus: _no reflex_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       30,
+       35,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Let us look at a sample audiogram that fits this pattern: mild hearing loss in the right ear and normal hearing in the left.",
+    "Both tympanograms are type A, so both middle ears appear normal.",
+    "With the stimulus in the right ear, no reflex is recorded up to the highest safe level tested.",
+    "In a mild loss, the reflex threshold is expected to be within normal limits, so the finding is out of proportion.",
+    "This picture calls for referral for further assessment; the example is for teaching."
+   ]
+  },
+  {
+   "id": "beyinsapi",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Retrocochlear patterns",
+   "baslik": "Pattern 4: *brainstem* lesion",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 2,
+    "kontra_cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "beyin_sapi",
+     "cumle": 0
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 1
+    },
+    {
+     "parca": "ipsilateral_yol",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kontralateral_yol",
+     "metin": "Crossing pathway: affected",
+     "cumle": 1
+    },
+    {
+     "parca": "ipsilateral_yol",
+     "metin": "Same-side pathway: intact",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Both contras absent or high",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ipsilaterals normal",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Hearing may be normal",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "The fourth example is a lesion in the middle of the brainstem that affects the crossing pathways.",
+    "Here, in both contralateral measurements, the reflex is absent or clearly elevated.",
+    "The ipsilateral measurements can stay normal, because the same-side pathway is completed without crossing.",
+    "Hearing thresholds may be normal or near normal, which makes the finding even more meaningful.",
+    "This pattern can be seen in conditions that affect the brainstem, such as multiple sclerosis, or with masses.",
+    "Here we clearly see why ipsilateral and contralateral measurements should be done together."
+   ]
+  },
+  {
+   "id": "fasiyal",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Facial nerve",
+   "baslik": "Pattern 5: *facial nerve*",
+   "sutunlar": [
+    "Measurement",
+    "Stimulus",
+    "Probe",
+    "Reflex"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Right ipsi",
+      "Right",
+      "Right",
+      "Absent"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Left contra",
+      "Left",
+      "Right",
+      "Absent"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Right contra",
+      "Right",
+      "Left",
+      "Normal"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Left ipsi",
+      "Left",
+      "Left",
+      "Normal"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Fifth example: the right facial nerve is affected before the point where its stapedius branch leaves.",
+    "In both measurements with the probe in the right ear, the reflex is absent, because the right stapedius cannot contract.",
+    "Measurements with the probe in the left ear are normal.",
+    "This pattern looks like a conductive loss in the probe ear; the tympanogram and the audiogram tell them apart.",
+    "With a facial nerve problem, hearing and the tympanogram are usually normal.",
+    {
+     "yazi": "In Bell's palsy, a present reflex may suggest that the lesion lies distal to the origin of the stapedius branch."
+    },
+    "The return of the reflex over time can also be followed as a sign of recovery."
+   ]
+  },
+  {
+   "id": "hepsi",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Facial nerve",
+   "baslik": "Patterns *together*",
+   "sutunlar": [
+    "Condition",
+    "Affected measurements"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Conductive (probe ear)",
+      "Probe on that side"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Cochlear, severe",
+      "Stimulus on that side"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "CN VIII",
+      "Stimulus on that side"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Midline brainstem",
+      "Both contralaterals"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "CN VII",
+      "Probe on that side"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "With a conductive loss or a facial nerve problem, measurements with the probe in the affected ear are disturbed.",
+    "With a severe cochlear loss, the reflex rises or disappears when the stimulus goes to the affected ear.",
+    "With an auditory nerve lesion, the stimulus side is also affected, but the finding is out of proportion to the degree of hearing loss.",
+    "With a lesion in the middle of the brainstem, both contralateral measurements are disturbed and the ipsilaterals are spared.",
+    "For a facial nerve problem, a normal tympanogram and a normal audiogram are what tell it apart.",
+    "Instead of memorizing this table, thinking about the two limbs of the arc leads to the right answer in every new case."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Interpretation",
+   "baslik": "The *order* for reading a pattern",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tympanogram",
+     "metin": "Is the middle ear intact?",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiogram",
+     "metin": "What degree of loss?",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Four measurements",
+     "metin": "Which are abnormal?",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Common side",
+     "metin": "Stimulus or probe?",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Combine",
+     "metin": "Interpret with the battery",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "When interpreting a reflex table, first look at the tympanograms of both ears.",
+    "Then note the degree of loss in each ear from the audiogram, because the expected reflex threshold depends on it.",
+    "Next, mark which of the four measurements are absent or elevated.",
+    "Look for what the abnormal measurements share: the same stimulus ear, the same probe ear, or both contralaterals?",
+    "If the finding cannot be explained by the degree of loss, state this clearly in the report.",
+    "As a last step, combine the result with tests such as speech tests and the auditory brainstem response, and with the physician's assessment."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Before interpreting an absent reflex, check the tympanogram of the probe ear. A small conductive problem in the ear holding the probe can change the whole pattern.",
+   "cumle": 1,
+   "cumleler": [
+    "A practical tip: when you see a pattern in a reflex table, question the probe ear first.",
+    "Clear negative pressure or effusion in the probe ear can abolish reflexes on its own and create a false pattern.",
+    "If in doubt, repeat the measurement with the pressure set to the peak pressure, and check the probe fit.",
+    "A true nerve or brainstem pattern is still seen consistently after these checks."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Interpretation",
+   "baslik": "*Limits* of the patterns",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal reflex",
+     "metin": "Does not rule out a lesion",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Severe loss",
+     "metin": "Harder to tell apart",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Normal variation",
+     "metin": "Reflex sometimes absent",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Decision",
+     "metin": "Battery and physician",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Reflex patterns are a powerful tool, but they have some limitations.",
+    "Normal reflexes do not rule out a retrocochlear lesion; reflexes can be normal, especially with small tumors.",
+    "In an ear with severe hearing loss, an absent reflex makes it hard to separate a neural problem from a cochlear loss.",
+    "In a small share of people with normal hearing, the reflex may be absent, especially at high frequencies.",
+    "This is why reflex findings do not make a diagnosis on their own; they strengthen or weaken a possibility.",
+    "The decision about whether imaging is needed always belongs to the physician."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_Stimulus_ side: sensory limb",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Probe_ side: middle ear and CN VII",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Both _contras_ abnormal: brainstem",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Metz_: gap of 60 dB or less",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Abnormal results tied to the stimulus ear suggest the sensory limb of the arc, that is, the cochlea and the auditory nerve.",
+    "Abnormal results tied to the probe ear suggest a conductive problem in that ear, or the facial nerve.",
+    "When both contralateral measurements are abnormal together, a problem in the middle of the brainstem comes to mind.",
+    {
+     "yazi": "In the Metz test, a gap of sixty decibels or less between the reflex and hearing thresholds suggests recruitment."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Right ear 30 dB HL, normal tympanogram, no reflex with right stimulus. What is suspected?",
+   "secenekler": [
+    "Right conductive loss",
+    "Right retrocochlear lesion",
+    "Left facial nerve problem",
+    "Normal finding"
+   ],
+   "dogru": 1,
+   "aciklama": "An absent reflex _out of proportion_ to a mild loss raises questions about the auditory nerve on the stimulus side.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: The right ear is at thirty dB HL, the tympanogram is normal, and right stimulation gives no reflex. What is suspected?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a possible right retrocochlear lesion.",
+    "An absent reflex out of proportion to a mild loss questions the auditory nerve on the stimulus side and calls for further assessment."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The Acoustic Reflex *Decay* Test",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will look at the reflex decay test, which measures whether the reflex fades during a sustained sound.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

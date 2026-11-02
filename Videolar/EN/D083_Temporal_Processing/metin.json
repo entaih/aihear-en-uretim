@@ -1,0 +1,795 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D083_Temporal_Processing_EN",
+ "kapak": {
+  "ust": "LESSON 83",
+  "baslik": "Temporal<br>*processing*",
+  "alt": "Gap detection and temporal integration",
+  "cizim": "ses_dalgasi",
+  "ayar": {
+   "frekans_hz": 1000
+  }
+ },
+ "youtube": {
+  "baslik": "Temporal Processing: Gap Detection and Integration | Lesson 83 | AIHEAR Audiology Academy",
+  "aciklama": "How finely can the ear resolve time? In this lesson we look at temporal resolution and the gap detection threshold, temporal integration over about 200 to 300 milliseconds, temporal ordering and the clinical tests that measure them, through their links with speech perception.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hirsh (1959), Auditory perception of temporal order, Journal of the Acoustical Society of America; Musiek et al. (2005), GIN (Gaps-In-Noise) test performance in subjects with confirmed central auditory nervous system involvement, Ear and Hearing; Moore, An Introduction to the Psychology of Hearing; Musiek and Chermak, Handbook of Central Auditory Processing Disorder.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "psychoacoustics",
+   "temporalprocessing"
+  ],
+  "etiketler": [
+   "temporal processing",
+   "gap detection",
+   "temporal resolution",
+   "temporal integration",
+   "temporal ordering",
+   "GIN test",
+   "frequency pattern test",
+   "duration pattern test",
+   "auditory processing",
+   "psychoacoustics",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 83",
+   "baslik": "Temporal *processing*",
+   "alt": "Gap detection, integration and ordering",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how the auditory system processes the timing information in sound.",
+    "We will see gap detection, temporal integration, temporal ordering and their importance in the clinic."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Time and hearing",
+   "baslik": "*Four faces* of temporal processing",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Temporal resolution",
+     "metin": "Catching rapid changes",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Temporal integration",
+     "metin": "Summing energy over time",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Temporal ordering",
+     "metin": "Knowing the order of sounds",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Temporal masking",
+     "metin": "Effect of earlier and later sounds",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sound is made not only of frequency and intensity but also of changes over time; processing these changes is called temporal processing.",
+    "Temporal resolution is the ability to detect very brief and rapid changes in sound.",
+    "Temporal integration is the ear's summing of a sound's energy over a certain period of time.",
+    "Temporal ordering is knowing the order in which successive sounds arrive.",
+    "Temporal masking is one sound covering a sound just before or after it; we saw this in the previous lesson.",
+    "In this lesson, we will look at the first three in turn."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Time and hearing",
+   "baslik": "Speech is woven *in time*",
+   "maddeler": [
+    {
+     "metin": "p and b: _voice onset time_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Consonant transitions: _tens of milliseconds_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Brief silence_ before stops",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Stress and rhythm: _duration cues_",
+     "cumle": 4,
+     "ikon": "muzik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "ses_dalgasi",
+    "ayar": {
+     "frekans_hz": 1000
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Timing information is one of the cornerstones of understanding speech.",
+    "For example, the main cue separating p and b is the moment the vocal folds start to vibrate, called voice onset time.",
+    "The rapid formant changes in transitions from a consonant to a vowel last only a few tens of milliseconds.",
+    "The brief silences before stop consonants also help us tell which sound was said.",
+    "Stress, rhythm and intonation also depend on the durations of sounds and their pattern over time.",
+    "So a weakness in temporal processing can make speech harder to understand, even with a normal audiogram."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Temporal resolution",
+   "baslik": "How is gap *detection* measured?",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise",
+     "metin": "A continuous segment",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Brief gap",
+     "metin": "A few milliseconds",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise",
+     "metin": "Starts again",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Was there a gap?",
+     "metin": "Shortest gap is sought",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The most widely used measure of temporal resolution is gap detection.",
+    "The listener hears a segment of noise.",
+    "A very brief silence, a gap, is placed in the middle of the noise, and the noise then continues.",
+    "The listener is asked whether they noticed the gap; the gap is made shorter and shorter.",
+    "The shortest gap detected reliably is called the gap detection threshold.",
+    "This measure shows on how fine a time scale the auditory system can catch a sound stopping and starting again."
+   ]
+  },
+  {
+   "id": "esikler",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Temporal resolution",
+   "baslik": "*How many* milliseconds is a gap threshold?",
+   "sutunlar": [
+    "Condition",
+    "Approximate threshold",
+    "Note"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Broadband noise",
+      "2 to 3 ms",
+      "Young, normal hearing"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "GIN test",
+      "about 5 ms",
+      "Normal adult mean"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Low narrowband",
+      "Longer",
+      "Narrow filter rings"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Older age",
+      "Usually longer",
+      "Even with normal audiogram"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In young, normal-hearing adults, the gap detection threshold in broadband noise is about two to three milliseconds.",
+    "In the clinical Gaps-In-Noise, or GIN, test, the mean threshold of normal adults has been reported as about five milliseconds.",
+    "For low-frequency narrowband sounds the threshold is longer, because narrow auditory filters keep ringing after the stimulus stops.",
+    "Thresholds vary with the test, stimulus level and method, so each test should be interpreted with its own norms.",
+    "In older adults, gap thresholds are usually longer, even when the audiogram is normal."
+   ]
+  },
+  {
+   "id": "zarf",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "Temporal resolution",
+   "baslik": "Envelope and *fine structure*",
+   "sol": {
+    "ust": "Envelope (slow change)",
+    "maddeler": [
+     {
+      "metin": "_Amplitude_ fluctuation of sound",
+      "cumle": 1
+     },
+     {
+      "metin": "Syllable and rhythm cues",
+      "cumle": 2
+     },
+     {
+      "metin": "_Largely enough_ for speech in quiet",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Fine structure (fast oscillation)",
+    "maddeler": [
+     {
+      "metin": "_Each_ oscillation of the wave",
+      "cumle": 4
+     },
+     {
+      "metin": "Pitch, music and direction cues",
+      "cumle": 5
+     },
+     {
+      "metin": "_Helps_ understanding in noise",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "We can think of the timing information in sound in two layers.",
+    "The envelope is the slow fluctuation of the sound's amplitude over time.",
+    "Cues such as syllable onsets, rhythm and stress are carried largely in the envelope.",
+    {
+     "yazi": "In nineteen ninety five, Shannon and colleagues showed that speech in quiet is largely understood from the envelopes of just a few bands."
+    },
+    "Temporal fine structure is the timing of each individual oscillation of the wave.",
+    "Fine structure is important for pitch perception, music, and localization using the time difference between the ears.",
+    "It also helps to separate speech from noise; cochlear implants, however, largely cannot convey this information."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Temporal resolution",
+   "baslik": "Clinical *gap* tests",
+   "maddeler": [
+    {
+     "metin": "GIN: _random gaps in noise_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Each ear tested _separately_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "RGDT: _tone and click pairs_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Result: compare with _age norms_",
+     "cumle": 5,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 1
+     },
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The Gaps-In-Noise test, or GIN, places gaps of different lengths at random positions within segments of noise.",
+    {
+     "yazi": "Musiek and colleagues described the test in two thousand five and found it sensitive to central auditory nervous system lesions."
+    },
+    "The patient presses a button each time they hear a gap; each ear is tested separately.",
+    {
+     "yazi": "The Random Gap Detection Test, or RGDT, uses pairs of tones or clicks separated by gaps of different durations.",
+     "ses": "The Random Gap Detection Test, or R.G.D.T., uses pairs of tones or clicks separated by gaps of different durations."
+    },
+    "The listener says whether they heard one sound or two, and the shortest interval heard as two sounds is found.",
+    "The results of both tests are interpreted against norms for age and for the version used."
+   ]
+  },
+  {
+   "id": "butunlesme",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Temporal integration",
+   "baslik": "Short sound, *higher* threshold",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 10,
+     "max": 1000,
+     "log": true,
+     "ad": "Tone duration (ms)",
+     "isaretler": [
+      10,
+      20,
+      50,
+      100,
+      200,
+      500,
+      1000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 15,
+     "adim": 5,
+     "ad": "Threshold elevation (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        10,
+        13
+       ],
+       [
+        20,
+        10
+       ],
+       [
+        50,
+        6
+       ],
+       [
+        100,
+        3
+       ],
+       [
+        160,
+        1.2
+       ],
+       [
+        250,
+        0.3
+       ],
+       [
+        400,
+        0
+       ],
+       [
+        1000,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "on_kat",
+      "x": [
+       20,
+       200
+      ],
+      "y": 12.5,
+      "etiket": "10 times longer",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kisa_ton",
+      "x": 20,
+      "y": 10,
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "butunlesme_suresi",
+      "x": [
+       200,
+       300
+      ],
+      "renk": "sari",
+      "etiket": "200-300 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "esik",
+     "cumle": 1
+    },
+    {
+     "parca": "on_kat",
+     "cumle": 2
+    },
+    {
+     "parca": "butunlesme_suresi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Double duration: threshold _about 3 dB_ better",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Limit: _about 200 to 300 ms_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Beyond that, threshold _stays flat_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Now on to temporal integration: the ear sums the energy of a short sound over a certain period.",
+    "So a very short tone is harder to hear than a long tone at the same level, and its threshold is higher.",
+    "Up to a certain duration, doubling the duration improves threshold by about three decibels, and a tenfold rise by about ten.",
+    "This improvement continues up to about two hundred to three hundred milliseconds; this is called the integration time.",
+    "For sounds longer than this, increasing the duration hardly changes the threshold.",
+    "The same principle applies to loudness; very short sounds are heard as softer."
+   ]
+  },
+  {
+   "id": "butunlesme_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Temporal integration",
+   "baslik": "Integration *in the clinic*",
+   "maddeler": [
+    {
+     "metin": "Audiometric tones are _long enough_",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Brief stimuli: ABR threshold _higher_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cochlear loss _reduces_ integration",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "In pure-tone audiometry, the tone is presented for about one to two seconds to stay well above the integration time.",
+    "This way, the threshold is measured without being affected by the duration of the sound.",
+    "The click and brief tone stimuli used in the auditory brainstem response, by contrast, last only a few milliseconds.",
+    {
+     "yazi": "So thresholds with brief stimuli come out higher than behavioral thresholds; normalized hearing level, or nHL, calibration allows for this.",
+     "ses": "So thresholds with brief stimuli come out higher than behavioral thresholds; normalized hearing level, or N.H.L., calibration allows for this."
+    },
+    "In cochlear hearing loss, the difference between the thresholds of short and long tones shrinks; that is, temporal integration is reduced.",
+    "This finding shows that a damaged cochlea cannot sum sound energy over time the way a normal ear does."
+   ]
+  },
+  {
+   "id": "siralama",
+   "tur": "karsilastir",
+   "bolum_no": "PART 4",
+   "bolum": "Temporal ordering",
+   "baslik": "Two sounds, or *which came first?*",
+   "sol": {
+    "ust": "Separating two sounds",
+    "maddeler": [
+     {
+      "metin": "Just _a few milliseconds_ suffice",
+      "cumle": 1
+     },
+     {
+      "metin": "Mostly _peripheral_ resolution",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Naming their order",
+    "maddeler": [
+     {
+      "metin": "About _20 ms_ needed",
+      "cumle": 2
+     },
+     {
+      "metin": "Requires central processing",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Temporal ordering is the ability to determine the order of successive sounds.",
+    "A gap of a few milliseconds is enough to notice that two brief sounds are two sounds rather than one.",
+    {
+     "yazi": "In nineteen fifty nine, Hirsh showed that about twenty milliseconds are needed to say reliably which of two sounds came first."
+    },
+    "So detecting a sound is easy, while labeling the order requires higher-level, central processing.",
+    "Perceiving the order of syllables and sounds correctly in speech depends on this skill."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Temporal ordering",
+   "baslik": "Pattern *tests*",
+   "ogeler": [
+    {
+     "ikon": "muzik",
+     "baslik": "Frequency pattern",
+     "metin": "High, low, high",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Duration pattern",
+     "metin": "Long, short, long",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Labeling",
+     "metin": "Both hemispheres together",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Humming",
+     "metin": "Imitating the pattern",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the clinic, temporal ordering is assessed with pattern tests.",
+    "In the frequency pattern test, three tones are played in a row, and the patient names the order, for example high, low, high.",
+    "In the duration pattern test, the tones have the same frequency but are ordered by long and short durations.",
+    "Labeling the pattern in words requires both hemispheres and the transfer between them through the corpus callosum.",
+    "If the patient cannot label the pattern but can imitate it correctly by humming, this difference adds information to the interpretation.",
+    "These tests are often used in central auditory processing assessments."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Temporal ordering",
+   "baslik": "*Who* has weaker temporal processing?",
+   "maddeler": [
+    {
+     "metin": "Older age: trouble with _fast speech_",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Auditory processing disorder",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Central nervous system _lesions_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Auditory neuropathy: _marked_ impairment",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Complaints about understanding in noise and fast speech may suggest temporal processing, even with a normal audiogram.",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Temporal processing slows with age; older adults especially struggle to follow fast speech.",
+    "Some children with auditory processing disorder perform poorly on temporal tests.",
+    "Lesions affecting the temporal lobe and brainstem can also impair gap detection and pattern tests.",
+    "In auditory neuropathy, the timing of nerve responses is disrupted, so temporal resolution is clearly affected.",
+    "So complaints of difficulty in noise and with fast speech should be taken seriously, even when the audiogram is normal."
+   ]
+  },
+  {
+   "id": "destek",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Temporal ordering",
+   "baslik": "Giving time *time*",
+   "maddeler": [
+    {
+     "metin": "Clear, slightly _slower_ speech",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reducing noise and _reverberation_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Remote microphone _systems_",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Auditory training: _individual_ assessment",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SUPPORT",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Environment",
+      "metin": "Quiet, low reverberation",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Communication",
+      "metin": "Clear speech",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "When talking with people with weak temporal processing, speaking clearly and a little more slowly gives sounds time to separate.",
+    "Reverberation fills the silent gaps and blurs timing cues, so reducing noise and reverberation helps.",
+    "At school and in meetings, remote microphone systems send the talker's voice directly, independent of the room.",
+    "Auditory training programs for temporal skills are also used; since benefit varies between people, results should be measured regularly.",
+    "These suggestions do not replace a comprehensive audiological assessment."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Check pure-tone thresholds before temporal tests and present the stimulus at a clearly audible level. Attention and comprehension problems can also lower scores.",
+   "cumleler": [
+    "A tip from the clinic: always look at the pure-tone thresholds before interpreting temporal tests.",
+    "If the stimulus is not audible enough, a poor result may come from hearing loss rather than a temporal problem.",
+    "Teach the task with practice items before testing, and make sure the patient uses the words high and low correctly.",
+    "Attention and memory also affect these tests; decide based on the whole test battery, not on a single low score."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Gap threshold: about _2 to 3 ms_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Integration: about _200 to 300 ms_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Ordering: about _20 ms_ needed",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Clinic: _GIN_ and pattern tests",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Temporal resolution is measured with gap detection; in young adults, the threshold in broadband noise is about two to three milliseconds.",
+    "The ear sums sound energy over about two hundred to three hundred milliseconds; shorter sounds have higher thresholds.",
+    "About twenty milliseconds are needed to name the order of two sounds; this is a central skill.",
+    {
+     "yazi": "In the clinic, the GIN, the RGDT, and the frequency and duration pattern tests assess temporal processing.",
+     "ses": "In the clinic, the GIN, the R.G.D.T., and the frequency and duration pattern tests assess temporal processing."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Temporal integration lasts up to about how long?",
+   "secenekler": [
+    "2 to 3 ms",
+    "20 ms",
+    "200 to 300 ms",
+    "2 to 3 seconds"
+   ],
+   "dogru": 2,
+   "aciklama": "The threshold improves with duration up to _about 200 to 300 ms_, then stays flat.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: temporal integration lasts up to about how long?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: about two hundred to three hundred milliseconds.",
+    "Up to this duration, the threshold improves as the sound gets longer; for longer sounds, the threshold hardly changes."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Sound *Localization* and Binaural Perception",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we return to how the two ears work together and look at how we localize sound, from a psychoacoustic view.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

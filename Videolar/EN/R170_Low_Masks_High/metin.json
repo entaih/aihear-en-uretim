@@ -1,0 +1,105 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R170_Low_Masks_High_EN",
+ "kapak": {
+  "ust": "QUICK FACT #170",
+  "baslik": "Low *masks* high",
+  "alt": "Upward spread of masking",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why do low sounds mask high sounds more? #shorts",
+  "aciklama": "The traveling wave always moves from the base of the cochlea toward the apex; a low sound passes through the high-frequency regions before reaching its own place and vibrates them too. So a low sound masks a high sound much more strongly than the reverse; this is called upward spread of masking.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "acoustics",
+   "noise"
+  ],
+  "etiketler": [
+   "masking",
+   "upward spread of masking",
+   "traveling wave",
+   "critical band",
+   "speech in noise",
+   "psychoacoustics",
+   "cochlea",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why do low sounds mask high sounds more?",
+  "bilgiler": [
+   "A low sound masks a high sound much more than the reverse.",
+   "The traveling wave passes the high-frequency base before reaching its place.",
+   "So low-pitched noise covers the high consonants in speech."
+  ],
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "noise"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #170",
+   "metin": "Why do low sounds mask *more?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why do low sounds mask high sounds more?"
+   ]
+  },
+  {
+   "id": "yayilim",
+   "tur": "zincir",
+   "baslik": "*Upward* spread of masking",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Low sound",
+     "tr": "enters at the base",
+     "cumle": 0
+    },
+    {
+     "ad": "High regions",
+     "tr": "vibrate too",
+     "cumle": 1
+    },
+    {
+     "ad": "Then",
+     "tr": "wave dies quickly",
+     "cumle": 2
+    }
+   ],
+   "alt": "_Upward spread_: from low to high",
+   "alt_cumle": 3,
+   "cumleler": [
+    "The traveling wave always moves from the cochlear base toward the apex.",
+    "A low sound passes high-frequency regions first and vibrates them too.",
+    "After its peak, the wave dies out quickly, not spreading lower.",
+    "So low masks high far more strongly than high masks low.",
+    "Low noises like air conditioning cover the high consonants of speech."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D082",
+ "kaynak_baslik": "Masking and the Critical Band"
+}

@@ -1,0 +1,218 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D063_Audiogram_Configurations_EN",
+  "kapak": {
+    "ust": "LESSON 63",
+    "baslik": "Audiogram<br>*configurations*",
+    "alt": "Flat, sloping, notched, cookie-bite",
+    "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [
+      {"kulak": "sag", "tip": "hava", "degerler": [10, 10, 10, 25, 50, 25]},
+      {"kulak": "sol", "tip": "hava", "degerler": [20, 35, 50, 50, 35, 25]}]}
+  },
+  "youtube": {
+    "baslik": "Audiogram Configurations and What They Suggest | Lesson 63 | AIHEAR Audiology Academy",
+    "aciklama": "Configuration is the shape that thresholds trace across frequency on the audiogram. In this lesson, we use sample audiograms to look at flat, rising, sloping and precipitously sloping configurations, the 4 kHz notch, and the cookie-bite and reverse cookie-bite shapes, and we discuss how to describe them in a report.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Lloyd and Kaplan, Audiometric Interpretation: A Manual of Basic Audiometry; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "audiogram", "hearing"],
+    "etiketler": ["audiogram configuration", "flat audiogram", "sloping hearing loss", "4 kHz notch", "noise notch", "cookie-bite audiogram", "reverse cookie-bite", "audiogram interpretation", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 63", "baslik": "Audiogram *Configurations* and What They Suggest", "alt": "Flat, sloping, notched and cookie-bite",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn to recognize and correctly name the shape of the audiogram, its configuration.",
+       "We will see each configuration on a sample audiogram and discuss how to describe it in a report."]},
+
+    {"id": "tanim", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "What is configuration?", "baslik": "*Describing* an audiogram", "yan": {"tur": "kart", "ust": "CONFIGURATION", "metin": "The *shape* thresholds trace across frequency", "cumle": 1},
+     "maddeler": [
+       {"metin": "Degree: _how much_ loss?", "cumle": 2, "ikon": "grafik"},
+       {"metin": "Type: _where_ is the loss?", "cumle": 2, "ikon": "kulak"},
+       {"metin": "Configuration: _what shape?_", "cumle": 1, "ikon": "odyogram"},
+       {"metin": "Symmetry: are the ears _alike?_", "cumle": 4, "ikon": "denge"}],
+     "cumleler": [
+       "When describing an audiogram, we look at four features: the degree, type and configuration of the loss, and the symmetry between the ears.",
+       "Configuration is the shape that the thresholds trace across frequency, in other words, the form of the audiogram curve.",
+       "As we saw in earlier lessons, degree and type tell us how much loss there is and where it comes from.",
+       "Configuration shows which frequencies the loss is concentrated in.",
+       "Two losses of the same degree can cause very different difficulties in daily life if their configurations differ."]},
+
+    {"id": "onem", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "What is configuration?", "baslik": "Why does shape *matter?*",
+     "maddeler": [
+       {"metin": "Shows the _impact_ on daily life", "cumle": 0, "ikon": "konusma"},
+       {"metin": "An average can _hide_ the shape", "cumle": 2, "ikon": "uyari"},
+       {"metin": "Clues to cause, _guidance_ for fitting", "cumle": 3, "ikon": "isitme_cihazi"}],
+     "cumleler": [
+       "Configuration helps us predict how a loss will affect daily life.",
+       "For example, the same average threshold can cause very different speech problems in a flat loss and in a steeply sloping loss.",
+       "Because the pure tone average includes only a few frequencies, it can hide this difference.",
+       "Configuration also gives clues to possible causes and guides hearing aid fitting."]},
+
+    {"id": "siniflama", "tur": "tablo", "bolum_no": "PART 1", "bolum": "What is configuration?", "baslik": "Classification by *slope*", "sutunlar": ["Configuration", "Approximate criterion"],
+     "satirlar": [
+       {"hucreler": ["Flat", "Under 5 dB/octave"], "cumle": 1},
+       {"hucreler": ["Rising", "Improves toward highs"], "cumle": 2},
+       {"hucreler": ["Gradually sloping", "5 to 12 dB/octave"], "cumle": 3},
+       {"hucreler": ["Sharply sloping", "15 to 20 dB/octave"], "cumle": 4},
+       {"hucreler": ["Precipitously sloping", "25+ dB/octave"], "cumle": 5}],
+     "cumleler": [
+       "Configurations are classified by how much the thresholds change per octave.",
+       "If thresholds change by less than five decibels per octave, the configuration is flat.",
+       "If thresholds improve by more than five decibels per octave toward the high frequencies, we speak of a rising configuration.",
+       "If thresholds worsen by about five to twelve decibels per octave, it is called gradually sloping.",
+       "If the worsening is about fifteen to twenty decibels per octave, it is called sharply sloping.",
+       "If there is a drop of twenty five decibels or more per octave after a certain frequency, it is called precipitously sloping.",
+       "These limits are based on the widely used classification of Lloyd and Kaplan; sources may differ slightly."]},
+
+    {"id": "duz", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Flat, sloping and rising", "baslik": "*Flat* configuration", "yan": {"tur": "odyogram", "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [{"kulak": "sag", "tip": "hava", "degerler": [45, 45, 50, 50, 50, 55], "cumle": 1}]}},
+     "maddeler": [
+       {"metin": "_Similar_ thresholds at all frequencies", "cumle": 0},
+       {"metin": "Common in conductive losses", "cumle": 2},
+       {"metin": "Also seen in sensorineural losses", "cumle": 3}],
+     "cumleler": [
+       "In a flat configuration, thresholds are close to one another at all frequencies.",
+       "In this example, the right ear thresholds are between forty five and fifty five dB HL and form an almost horizontal line.",
+       "A flat configuration is common in conductive losses such as otitis media with effusion.",
+       "A flat curve can also be seen in some sensorineural losses.",
+       "In a flat loss, all frequencies of speech are turned down to a similar degree.",
+       "That is why, especially in flat conductive losses, making sound louder often brings clear benefit."]},
+
+    {"id": "egimli", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Flat, sloping and rising", "baslik": "*Sloping* configuration", "yan": {"tur": "odyogram", "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [{"kulak": "sag", "tip": "hava", "degerler": [20, 25, 35, 45, 55, 65], "cumle": 1}]}},
+     "maddeler": [
+       {"metin": "_Steadily_ worse toward the highs", "cumle": 0},
+       {"metin": "Among the _most common_ in adults", "cumle": 2},
+       {"metin": "Typical of age-related loss", "cumle": 3}],
+     "cumleler": [
+       "In a sloping, or falling, configuration, thresholds get steadily worse as frequency rises.",
+       "In this example, the threshold is twenty dB HL at two hundred fifty hertz and drops to sixty five dB HL at eight thousand hertz.",
+       "It is one of the most common configurations in adults.",
+       "Age-related hearing loss typically appears as a symmetric curve in both ears, falling toward the high frequencies.",
+       "These people hear vowels but miss high-pitched consonants; we saw this in detail with the speech banana.",
+       "Where the slope begins and how steep it is also affect how much gain is given at each frequency in hearing aid fitting."]},
+
+    {"id": "keskin", "tur": "odyogram", "bolum_no": "PART 2", "bolum": "Flat, sloping and rising", "baslik": "*Precipitously* sloping configuration", "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [10, 10, 15, 50, 80, 90], "cumle": 0}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Right ear_: air conduction", "cumle": 0},
+       {"isaret": "✓", "renk": "yesil", "metin": "_Normal_: up to 25 dB HL", "cumle": 0}],
+     "cumleler": [
+       "In this example, thresholds are within normal limits up to one thousand hertz.",
+       "Between one thousand and two thousand hertz, however, the threshold drops by thirty five decibels at once.",
+       "This sudden drop after a certain frequency is called a precipitously sloping configuration.",
+       "In such losses, the region of the drop may contain areas where the cochlea barely functions; these are called cochlear dead regions.",
+       "Testing interoctave frequencies where the drop occurs, for example fifteen hundred hertz, clarifies the shape of the curve.",
+       "Because their low frequencies are good, these people sometimes notice their loss late."]},
+
+    {"id": "yukselen", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Flat, sloping and rising", "baslik": "*Rising* configuration", "yan": {"tur": "odyogram", "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [{"kulak": "sol", "tip": "hava", "degerler": [50, 45, 35, 25, 20, 20], "cumle": 0}]}},
+     "maddeler": [
+       {"metin": "_Worse_ at low frequencies", "cumle": 0},
+       {"metin": "_Rare_ compared with falling shapes", "cumle": 1},
+       {"metin": "Example: early Meniere's disease", "cumle": 2},
+       {"metin": "Example: stiffening conductive problems", "cumle": 3}],
+     "cumleler": [
+       "In a rising configuration, the loss is greater at low frequencies, and thresholds improve toward the high frequencies.",
+       "This shape is much rarer than a falling configuration.",
+       "For example, a low-frequency sensorineural loss can be seen in the early stage of Meniere's disease.",
+       "Some conductive problems that increase middle ear stiffness can also affect the low frequencies more.",
+       "None of these examples establishes a diagnosis on its own; configuration is only a clue."]},
+
+    {"id": "centik", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "The notch", "baslik": "The *4 kHz* notch", "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [10, 10, 10, 25, 50, 25], "cumle": 1}, {"kulak": "sol", "tip": "hava", "degerler": [10, 10, 15, 30, 55, 30], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal", "cumle": 0}},
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Right ear_: air conduction", "cumle": 1},
+       {"isaret": "X", "renk": "sol", "metin": "_Left ear_: air conduction", "cumle": 1},
+       {"isaret": "✓", "renk": "yesil", "metin": "_Normal_: up to 25 dB HL", "cumle": 0}],
+     "cumleler": [
+       "A notch is a dip in threshold in a certain frequency region, followed by recovery.",
+       "In this example, both ears show a clear dip at four thousand hertz.",
+       "At eight thousand hertz, the thresholds improve again; this is called recovery.",
+       "A notch like this between three thousand and six thousand hertz is typical of noise-induced hearing loss.",
+       "The exact location of the notch varies between people; it can appear at three thousand, four thousand or six thousand hertz.",
+       "In this example, the finding is a clue that calls for a detailed noise history; a diagnosis is not made from the audiogram alone.",
+       "Another notch, seen in bone conduction around two thousand hertz, the Carhart notch, is linked to otosclerosis; we cover it separately."]},
+
+    {"id": "kurabiye", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "The cookie-bite", "baslik": "The *cookie-bite*", "yan": {"tur": "odyogram", "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [{"kulak": "sol", "tip": "hava", "degerler": [20, 35, 50, 50, 35, 25], "cumle": 1}]}},
+     "maddeler": [
+       {"metin": "_Worse_ in the mid frequencies", "cumle": 0},
+       {"metin": "A _U_ shape on the audiogram", "cumle": 1},
+       {"metin": "Often linked to hereditary loss", "cumle": 3},
+       {"metin": "Difficulty understanding speech", "cumle": 4}],
+     "cumleler": [
+       "In a cookie-bite configuration, the loss is concentrated in the mid frequencies, while the low and high frequencies are better.",
+       "On the audiogram, it forms a U shape, as if a bite had been taken out of the middle of the curve.",
+       "In this example, thresholds are fifty dB HL at one thousand and two thousand hertz, and about twenty to twenty five dB HL at the ends.",
+       "This configuration is often associated with hereditary sensorineural losses.",
+       "Because the mid frequencies matter for speech, the person may struggle to understand speech even though the outer frequencies are good."]},
+
+    {"id": "ters", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "The cookie-bite", "baslik": "The *reverse* cookie-bite",
+     "yan": {"tur": "odyogram", "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [{"kulak": "sag", "tip": "hava", "degerler": [45, 35, 20, 20, 35, 50], "cumle": 1}]}},
+     "maddeler": [
+       {"metin": "Poor at the ends, _better_ in the middle", "cumle": 0},
+       {"metin": "An _inverted U_ on the audiogram", "cumle": 1},
+       {"metin": "_Rare_ in general practice", "cumle": 2},
+       {"metin": "Often reported in Meniere's, _not specific_", "cumle": 3},
+       {"metin": "_Recheck_ the measurement", "cumle": 4}],
+     "cumleler": [
+       "The reverse cookie-bite is the opposite: the low and high frequencies are poor, and the mid frequencies are better.",
+       "On the audiogram, it forms an inverted U shape.",
+       "It is a rare configuration in general clinical practice.",
+       "Lloyd and Kaplan call this a peaked audiogram; it is often reported in Meniere's disease, but it is not specific to it.",
+       "With unexpected shapes like this, it is also important to recheck the results to rule out measurement error."]},
+
+    {"id": "simetri", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Reporting", "baslik": "*Symmetry*",
+     "maddeler": [
+       {"metin": "_Compare_ the two ears", "cumle": 0, "ikon": "kulak"},
+       {"metin": "Small difference: _symmetric_", "cumle": 1, "ikon": "denge"},
+       {"metin": "Asymmetry criteria _vary_ by source", "cumle": 2, "ikon": "kitap"},
+       {"metin": "Unexplained asymmetry: _note it_", "cumle": 3, "ikon": "rapor"}],
+     "cumleler": [
+       "After describing the configuration, we compare the two ears.",
+       "If the threshold difference between the ears is small, the loss is considered symmetric.",
+       "Sources use different criteria for asymmetry, for example a difference of fifteen decibels or more at two or more frequencies.",
+       "A clear and unexplained asymmetry is noted as a finding that may need further evaluation.",
+       "Together, configuration and symmetry complete the picture of the loss."]},
+
+    {"id": "ozet_tablo", "tur": "tablo", "bolum_no": "PART 5", "bolum": "Reporting", "baslik": "Configurations *at a glance*", "sutunlar": ["Configuration", "Shape", "Possible link"],
+     "satirlar": [
+       {"hucreler": ["Flat", "Horizontal line", "Conductive losses"], "cumle": 0},
+       {"hucreler": ["Sloping", "Falling toward highs", "Age-related loss"], "cumle": 0},
+       {"hucreler": ["Rising", "Improving toward highs", "Early Meniere's disease"], "cumle": 0},
+       {"hucreler": ["Notched", "Dip at 4 kHz", "Noise exposure"], "cumle": 0},
+       {"hucreler": ["Cookie-bite", "Dip in middle", "Hereditary losses"], "cumle": 0},
+       {"hucreler": ["Reverse cookie-bite", "Dips at ends", "Meniere's (not specific)"], "cumle": 0}],
+     "cumleler": [
+       "Now let us see all the configurations together.",
+       "The links in the table are only possible examples; the same configuration can arise from different causes.",
+       "Configuration gains meaning together with the history, the type of loss and other tests.",
+       "Writing the degree, type, configuration and symmetry together in the report makes the information clear to everyone who reads it.",
+       "For example: symmetric, mild to moderate, sloping sensorineural hearing loss in both ears."]},
+
+    {"id": "ipucu", "tur": "ipucu", "bolum_no": "PART 5", "bolum": "Reporting", "baslik": "Clinical tip", "metin": "If adjacent octaves differ by 20 dB or more, test the interoctave frequencies too; if 6000 Hz is skipped, a noise notch can be missed.",
+     "cumleler": [
+       "A tip from practice: octave frequencies alone may not be enough to see the configuration correctly.",
+       "If adjacent octaves differ by twenty decibels or more, test the interoctave frequencies too.",
+       "If six thousand hertz in particular is skipped, a noise-induced notch can be missed.",
+       "Three thousand hertz clarifies where a steep drop begins and covers a region that matters for speech."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [
+       {"metin": "Configuration: the _shape_ of the thresholds", "cumle": 0, "ikon": "odyogram"},
+       {"metin": "Flat, rising, sloping, _precipitous_", "cumle": 1, "ikon": "grafik"},
+       {"metin": "Notch: 4 kHz dip, 8 kHz _recovery_", "cumle": 2, "ikon": "gurultu"},
+       {"metin": "Cookie-bite: loss in the _mid_ frequencies", "cumle": 3, "ikon": "tablo"}],
+     "cumleler": [
+       "Configuration is the shape the thresholds trace across frequency, and it is described with degree, type and symmetry.",
+       "By slope, we distinguish flat, rising, sloping and precipitously sloping configurations.",
+       "A four thousand hertz notch with recovery at eight thousand hertz calls for questions about noise history.",
+       "In a cookie-bite, the loss is in the mid frequencies; in a reverse cookie-bite, it is at the outer frequencies."]},
+
+    {"id": "test", "tur": "test", "soru": "What is the shape that dips at 4 kHz and recovers at 8 kHz called?", "secenekler": ["Flat configuration", "Notch", "Cookie-bite", "Rising configuration"], "dogru": 1, "aciklama": "A shape that dips in one region and then recovers is a _notch_; it calls for questions about noise history.",
+     "cumleler": [
+       {"yazi": "Test yourself: What do we call the shape where thresholds dip at four thousand hertz and recover at eight thousand hertz?", "sonra_bekle": 5},
+       "The correct answer is B: a notch.",
+       "This shape is typical of noise-induced hearing loss, but a diagnosis is made together with the history and other findings."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "Common *Mistakes* in Pure-Tone Audiometry", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will look at common mistakes in pure tone audiometry and how we can avoid them.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

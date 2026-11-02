@@ -1,0 +1,721 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D022_Eustachian_Tube_EN",
+ "kapak": {
+  "ust": "LESSON 22",
+  "baslik": "The *Eustachian*<br>tube",
+  "alt": "Auditory tube: structure and function",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "ostaki_borusu"
+  ]
+ },
+ "youtube": {
+  "baslik": "The Eustachian Tube: Anatomy and Function | Lesson 22 | AIHEAR Audiology Academy",
+  "aciklama": "The Eustachian tube connects the middle ear to the nasopharynx. In this lesson we cover its bony and cartilaginous parts, the muscles that open it, and its ventilation, drainage and protection functions. We also look at how it differs in children, its dysfunctions and how it is assessed in the clinic.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Bluestone, Eustachian Tube: Structure, Function, Role in Otitis Media; Gray's Anatomy; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "anatomy",
+   "middleear"
+  ],
+  "etiketler": [
+   "Eustachian tube",
+   "auditory tube",
+   "tuba auditiva",
+   "tensor veli palatini",
+   "nasopharynx",
+   "middle ear ventilation",
+   "type C tympanogram",
+   "otitis media",
+   "Valsalva",
+   "patulous Eustachian tube",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 22",
+   "baslik": "The auditory tube: the *Eustachian tube*",
+   "alt": "Anatomy, functions and differences in children",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will examine the channel that connects the middle ear to the nasopharynx: the Eustachian tube.",
+    "We will learn its structure, how it opens and closes, its three main functions, and why it causes problems more easily in children."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Anatomy",
+   "baslik": "From the middle ear to the *nasopharynx*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Auditory tube (Eustachian tube)",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Middle ear",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Nasopharynx",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "About _36 mm_ in adults",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Forward, medial and _downward_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "The channel leaving the anterior wall of the middle ear is anatomically called the tuba auditiva, the Eustachian tube.",
+    {
+     "yazi": "It is named after Bartolomeo Eustachi, the sixteenth-century Italian anatomist who described it."
+    },
+    {
+     "yazi": "The tube connects the middle ear to the nasopharynx, the upper part of the throat behind the nose."
+    },
+    "In adults it is about thirty six millimeters long.",
+    "It runs forward, medially and downward from the middle ear; its opening in the nasopharynx is lower than its opening in the middle ear.",
+    "Its opening in the nasopharynx lies on the lateral wall and is surrounded by a cartilaginous bulge."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "bolumler",
+   "bolum_no": "PART 1",
+   "bolum": "Anatomy",
+   "baslik": "Bony and *cartilaginous* parts",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Bony part: _one third_, 12 mm",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bony part _always open_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Cartilaginous part: _two thirds_, 24 mm",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Cartilaginous part _closed_ at rest",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Junction: the _isthmus_, narrowest point",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "ostaki_borusu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 0
+     },
+     {
+      "parca": "tensor_timpani_kas",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Eustachian tube",
+      "cumle": 0
+     },
+     {
+      "parca": "tensor_timpani_kas",
+      "metin": "Tensor tympani canal",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Like the ear canal, the Eustachian tube is made of two different parts, but in the reverse order.",
+    "The third closest to the middle ear is bony and about twelve millimeters long.",
+    "The bony part lies inside the temporal bone, just below the tensor tympani canal, and is always open.",
+    "The two thirds closest to the nasopharynx are made of cartilage and membrane and are about twenty four millimeters long.",
+    "The cartilaginous part is closed at rest and opens only briefly at certain moments.",
+    {
+     "yazi": "The point where the two parts meet is the narrowest part of the tube and is called the isthmus."
+    },
+    "In the ear canal the outer third was cartilage; in the Eustachian tube it is the two thirds on the nasopharynx side."
+   ]
+  },
+  {
+   "id": "kaslar",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Anatomy",
+   "baslik": "The muscles that *open* the tube",
+   "maddeler": [
+    {
+     "metin": "_Tensor veli palatini_: the main opener",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Opens with swallowing and _yawning_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Levator veli palatini: _support_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Function _impaired_ in cleft palate",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ostaki_kaslari",
+    "cumle": 0,
+    "ayar": {
+     "acilma": 1,
+     "acilma_cumle": 2
+    },
+    "etiketler": [
+     {
+      "parca": "tensor_veli_palatini",
+      "metin": "Tensor veli palatini",
+      "cumle": 0
+     },
+     {
+      "parca": "lumen",
+      "metin": "Lumen",
+      "cumle": 2
+     },
+     {
+      "parca": "levator_veli_palatini",
+      "metin": "Levator veli palatini",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "tensor_veli_palatini",
+      "cumle": 0
+     },
+     {
+      "parca": "kikirdak",
+      "cumle": 2
+     },
+     {
+      "parca": "lumen",
+      "cumle": 2
+     },
+     {
+      "parca": "levator_veli_palatini",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The main muscle that opens the cartilaginous part is the musculus tensor veli palatini, the tensor of the soft palate."
+    },
+    "Like the tensor tympani, this muscle is supplied by the mandibular branch of the trigeminal nerve.",
+    "During swallowing and yawning it contracts, pulls on the cartilaginous wall and briefly opens the tube.",
+    "The levator veli palatini also helps open the tube as it lifts the soft palate.",
+    "In children with cleft palate these muscles attach differently, so the tube opens poorly and middle ear fluid is very common."
+   ]
+  },
+  {
+   "id": "islevler",
+   "bolum_no": "PART 2",
+   "bolum": "Three functions",
+   "baslik": "Three main *functions*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Ventilation",
+     "metin": "Equalizes pressure; if impaired, negative pressure",
+     "cumle": 1
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Drainage",
+     "metin": "Clears secretions; if impaired, fluid builds up",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Protection",
+     "metin": "Stays closed; blocks secretions and sound",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The Eustachian tube has three main functions: ventilation, drainage and protection.",
+    "Ventilation lets air enter the middle ear regularly and equalizes its pressure with the outside.",
+    "Drainage carries secretions from the middle ear to the nasopharynx through ciliated cells and muscle action.",
+    "The protective function relies on the tube staying closed at rest.",
+    "A closed tube makes it harder for secretions and microbes in the nasopharynx to pass into the middle ear.",
+    "It also keeps the person's own voice and breathing sounds from reaching the middle ear directly."
+   ]
+  },
+  {
+   "id": "havalandirma",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Three functions",
+   "baslik": "Ventilation and *pressure*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "C",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Mucosa _absorbs gas_",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Opening: pressure _equalizes_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "No opening: _type C_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "In a healthy ear, middle ear pressure is close to the outside pressure, and the tympanogram peaks near zero.",
+    "But the middle ear mucosa constantly absorbs the gas in the cavity.",
+    "By opening briefly during swallowing, the tube replaces the lost air and equalizes the pressure.",
+    "If the tube cannot open well enough, negative pressure builds in the middle ear and the tympanogram peak shifts to negative pressure.",
+    "The fullness felt in the ear as a plane descends is related to this; outside pressure rises, but the tube fails to open and equalize it.",
+    "Swallowing, yawning or chewing gum opens the tube and eases this feeling."
+   ]
+  },
+  {
+   "id": "sivi",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Three functions",
+   "baslik": "Example: dysfunction and *fluid*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Air conduction_: 25 to 30 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Masked bone conduction_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "B",
+     "renk": "yesil",
+     "metin": "Tympanogram: _type B_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       30,
+       25,
+       25,
+       25,
+       30
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       5,
+       5,
+       10,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      5,
+      30
+     ],
+     "etiket": "25 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "If negative pressure lasts a long time, the middle ear mucosa may start to secrete fluid into the cavity.",
+    "In this example, a child's right ear shows mildly reduced air conduction thresholds, while masked bone conduction is normal.",
+    {
+     "yazi": "The tympanogram is type B with a normal ear canal volume; this picture is consistent with middle ear fluid."
+    },
+    "The air-bone gap of about twenty five decibels comes from the fluid blocking the transmission of sound.",
+    {
+     "yazi": "As tube function recovers, the fluid often decreases, and the tympanogram may return first to type C, then to type A."
+    },
+    "The final assessment and the follow-up decision always belong to the physician."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "bolum_no": "PART 3",
+   "bolum": "Child and adult",
+   "baslik": "A *different* tube in children",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Length",
+     "metin": "Infant 18 mm, adult 36 mm",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Adult angle",
+     "metin": "About 45 degrees to the horizontal",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Infant angle",
+     "metin": "About 10 degrees, almost horizontal",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Cartilage and muscle",
+     "metin": "Softer cartilage, weaker muscle in infants",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Age seven",
+     "metin": "Reaches adult length",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In children, the Eustachian tube is clearly different from the adult tube.",
+    "In infants the tube is about eighteen millimeters long, roughly half the adult length.",
+    "In adults the tube forms an angle of about forty five degrees with the horizontal plane.",
+    "In infants this angle is about ten degrees; the tube is almost horizontal.",
+    "The infant's tubal cartilage is softer, and the opening muscle works less efficiently.",
+    "The tube usually reaches adult length at around seven years of age."
+   ]
+  },
+  {
+   "id": "otitis",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Child and adult",
+   "baslik": "Why is *otitis* common in children?",
+   "maddeler": [
+    {
+     "metin": "Short, horizontal tube: _easy passage_",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Weak opening: _negative pressure_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Large _adenoid_ tissue",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Frequent upper respiratory infections",
+     "cumle": 3,
+     "ikon": "enfeksiyon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "C",
+       "cumle": 1
+      },
+      {
+       "tip": "B",
+       "cumle": 4
+      }
+     ]
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "A short, horizontal tube makes it easier for secretions and microbes in the nasopharynx to reach the middle ear.",
+    "Because the tube opens weakly, ventilation is poor and negative pressure develops more easily.",
+    "Large adenoid tissue in the nasopharynx can also narrow the tube opening and act as a source of microbes.",
+    "The frequent upper respiratory infections of young children swell the tube's mucosa and impair its function.",
+    "Together, these factors explain why otitis media, inflammation of the middle ear, is so common in children.",
+    "As the tube grows longer and steeper, middle ear problems usually become less frequent."
+   ]
+  },
+  {
+   "id": "bozukluk",
+   "bolum_no": "PART 4",
+   "bolum": "Disorders and assessment",
+   "baslik": "A tube that won't open, or won't *close*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Tube won't open",
+     "metin": "Negative pressure, type C, fullness",
+     "cumle": 1
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "If prolonged",
+     "metin": "Fluid may build up in the middle ear",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Patulous tube",
+     "metin": "Autophony: hears own voice echoing",
+     "cumle": 3
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "On tympanometry",
+     "metin": "Ripples in time with breathing",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Eustachian tube dysfunction can appear in two opposite forms.",
+    {
+     "yazi": "The more common form is a tube that cannot open well enough; negative middle ear pressure and a type C tympanogram are seen."
+    },
+    "The person feels fullness in the ear; if this lasts, fluid may build up in the middle ear.",
+    "Less often, the tube stays open more than normal; this is called a patulous Eustachian tube.",
+    "These people hear their own voice and breathing echoing loudly and unpleasantly in their ears; this is called autophony.",
+    "During tympanometry, deep breathing can produce ripples on the curve that are in time with respiration."
+   ]
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Disorders and assessment",
+   "baslik": "How is tube function *assessed?*",
+   "maddeler": [
+    {
+     "metin": "_Valsalva_: nose closed, air pushed",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Toynbee_: nose closed, swallowing",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "_Tympanograms_ before and after",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Special tests: _tubomanometry_, sonotubometry",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "C",
+       "cumle": 3
+      },
+      {
+       "tip": "A",
+       "cumle": 3
+      }
+     ]
+    },
+    "cumle": 3
+   },
+   "cumleler": [
+    "There is more than one method for assessing Eustachian tube function, and each has its own advantages.",
+    "In the Valsalva maneuver, the person closes the mouth and nose and gently strains to push air into the middle ear.",
+    {
+     "yazi": "In the Toynbee maneuver, the person swallows with the nose closed; this usually creates mild negative pressure in the middle ear."
+    },
+    "A change in peak pressure between tympanograms taken before and after the maneuvers shows that the tube can open.",
+    "Special tests such as sonotubometry and tubomanometry measure tube opening more directly, but not every clinic has them.",
+    "In routine practice in Türkiye, assessment is mostly done with tympanometry and these simple maneuvers."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Disorders and assessment",
+   "baslik": "Clinical tip",
+   "metin": "When you see a type C tympanogram, ask the patient to swallow a few times and repeat the measurement. A peak shifting toward zero shows the tube can open.",
+   "cumleler": [
+    {
+     "yazi": "A tip from practice: when you see a type C tympanogram, do not write the result down right away."
+    },
+    "Ask the patient to swallow a few times and repeat the measurement.",
+    "A peak that shifts toward zero shows that the tube can open; this information is valuable in the report.",
+    "In children, crying and sniffing can also change the peak pressure, so measure during a calm moment."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Bony _one third_, cartilaginous two thirds",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Opening muscle: _tensor veli palatini_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ventilation, drainage and _protection_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "In children: _short and horizontal_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "The third of the Eustachian tube on the middle ear side is bone; the two thirds on the nasopharynx side are cartilage.",
+    "Closed at rest, the tube is opened by the tensor veli palatini muscle during swallowing and yawning.",
+    "The tube ventilates the middle ear, drains its secretions and protects it from the nasopharynx.",
+    "In children the tube is short, nearly horizontal and opens more weakly, so middle ear problems are more common."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which is the main muscle that opens the Eustachian tube?",
+   "secenekler": [
+    "Tensor tympani",
+    "Stapedius",
+    "Tensor veli palatini",
+    "Levator veli palatini"
+   ],
+   "dogru": 2,
+   "aciklama": "The _tensor veli palatini_ opens the tube by pulling on its cartilaginous wall during swallowing and yawning.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: Which is the main muscle that opens the Eustachian tube during swallowing?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is C: the tensor veli palatini."
+    },
+    "This muscle is supplied by the trigeminal nerve; its function is impaired in cleft palate, so middle ear problems are common."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The Inner Ear: Bony and *Membranous Labyrinth*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will go beyond the medial wall of the middle ear to examine the inner ear: the bony and membranous labyrinth.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

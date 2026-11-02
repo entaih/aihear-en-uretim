@@ -1,0 +1,96 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R007_One_Millimeter_One_Kilometer_EN",
+ "kapak": {
+  "ust": "QUICK FACT #7",
+  "baslik": "1 mm to *1 km*",
+  "alt": "The huge pressure range of the ear",
+  "cizim": "desibel_olcegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "If the faintest sound were 1 mm, how long would the loudest be? #shorts",
+  "aciklama": "Between the faintest sound we can hear and a very loud sound, the pressure differs about a million times. If the faintest sound were 1 mm on a ruler, the loudest would be 1 km; the decibel fits this range into 0 to 120 dB SPL.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "decibel",
+   "facts"
+  ],
+  "etiketler": [
+   "decibel",
+   "dB SPL",
+   "sound pressure",
+   "logarithmic scale",
+   "hearing",
+   "audiology",
+   "acoustics",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "If the faintest sound were one millimeter, how long is the loudest?",
+  "bilgiler": [
+   "The faintest and a very loud sound differ about a million times in pressure.",
+   "If the faintest sound were 1 mm, the loudest would be 1 km.",
+   "The decibel fits this range into 0 to 120 dB SPL."
+  ],
+  "hashtag": [
+   "audiology",
+   "decibel",
+   "facts"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #7",
+   "metin": "If the faintest sound is 1 mm, *the loudest?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "If the faintest sound were one millimeter, how long is the loudest?"
+   ]
+  },
+  {
+   "id": "km",
+   "tur": "buyuk_sayi",
+   "ust": "The loudest sound: *one kilometer*",
+   "sayi": "1",
+   "birim": "km",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "In pressure, the difference is about a million times.",
+    "On a ruler, it would run from one millimeter to one kilometer."
+   ]
+  },
+  {
+   "id": "db",
+   "tur": "buyuk_sayi",
+   "ust": "In decibels: *zero to 120*",
+   "sayi": "120",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Decibels fit this range into zero to one hundred twenty dB SPL."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D013",
+ "kaynak_baslik": "What Is a Decibel?"
+}

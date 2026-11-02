@@ -1,0 +1,1339 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D106_Tympanometric_Values_EN",
+ "kapak": {
+  "ust": "LESSON 106",
+  "baslik": "Tympanometric<br>*values*",
+  "alt": "Peak admittance, pressure, width, volume",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -400,
+    "max": 200,
+    "adim": 100,
+    "ad": "Pressure (daPa)"
+   },
+   "y": {
+    "min": 0.8,
+    "max": 1.8,
+    "adim": 0.2,
+    "ond": 1,
+    "ad": "Admittance (mmho)"
+   },
+   "seriler": [
+    {
+     "ad": "egri",
+     "noktalar": [
+      [
+       -400,
+       0.9
+      ],
+      [
+       -380,
+       0.903
+      ],
+      [
+       -360,
+       0.907
+      ],
+      [
+       -340,
+       0.91
+      ],
+      [
+       -320,
+       0.913
+      ],
+      [
+       -300,
+       0.917
+      ],
+      [
+       -280,
+       0.92
+      ],
+      [
+       -260,
+       0.923
+      ],
+      [
+       -240,
+       0.927
+      ],
+      [
+       -220,
+       0.93
+      ],
+      [
+       -200,
+       0.933
+      ],
+      [
+       -180,
+       0.937
+      ],
+      [
+       -160,
+       0.94
+      ],
+      [
+       -140,
+       0.945
+      ],
+      [
+       -120,
+       0.956
+      ],
+      [
+       -100,
+       0.996
+      ],
+      [
+       -80,
+       1.108
+      ],
+      [
+       -60,
+       1.325
+      ],
+      [
+       -40,
+       1.58
+      ],
+      [
+       -20,
+       1.7
+      ],
+      [
+       0,
+       1.586
+      ],
+      [
+       20,
+       1.339
+      ],
+      [
+       40,
+       1.128
+      ],
+      [
+       60,
+       1.023
+      ],
+      [
+       80,
+       0.99
+      ],
+      [
+       100,
+       0.985
+      ],
+      [
+       120,
+       0.987
+      ],
+      [
+       140,
+       0.99
+      ],
+      [
+       160,
+       0.993
+      ],
+      [
+       180,
+       0.997
+      ],
+      [
+       200,
+       1.0
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Tympanometric Values: Peak, Pressure, Width, Volume | Lesson 106 | AIHEAR Audiology Academy",
+  "aciklama": "The numbers on a tympanogram matter as much as its letter type. In this lesson we use examples to look at how peak compensated static admittance (Ytm), tympanometric peak pressure (TPP), tympanometric width (TW) and ear canal volume (ECV) are measured, their approximate normal ranges in adults, and the test conditions that affect the results.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Margolis and Heller (1987), Screening tympanometry: criteria for medical referral, Audiology; ASHA (1997), Guidelines for Audiologic Screening; Katz, Handbook of Clinical Audiology; Hunter and Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice; BSA, Recommended Procedure: Tympanometry.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "tympanometry",
+   "immittance"
+  ],
+  "etiketler": [
+   "tympanometric values",
+   "peak compensated static admittance",
+   "Ytm",
+   "tympanometric peak pressure",
+   "TPP",
+   "tympanometric width",
+   "TW",
+   "ear canal volume",
+   "ECV",
+   "tympanometry norms",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 106",
+   "baslik": "*Tympanometric* Values: Peak, Pressure, Width, Volume",
+   "alt": "Peak admittance, pressure, width and volume",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn the four numerical values read from a tympanogram and their approximate normal ranges in adults.",
+    "We will see how test conditions affect these values and how to interpret sample results."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Four values",
+   "baslik": "One curve, *four values*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Pressure (daPa)"
+    },
+    "y": {
+     "min": 0.8,
+     "max": 1.8,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admittance (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "egri",
+      "noktalar": [
+       [
+        -400,
+        0.9
+       ],
+       [
+        -380,
+        0.903
+       ],
+       [
+        -360,
+        0.907
+       ],
+       [
+        -340,
+        0.91
+       ],
+       [
+        -320,
+        0.913
+       ],
+       [
+        -300,
+        0.917
+       ],
+       [
+        -280,
+        0.92
+       ],
+       [
+        -260,
+        0.923
+       ],
+       [
+        -240,
+        0.927
+       ],
+       [
+        -220,
+        0.93
+       ],
+       [
+        -200,
+        0.933
+       ],
+       [
+        -180,
+        0.937
+       ],
+       [
+        -160,
+        0.94
+       ],
+       [
+        -140,
+        0.945
+       ],
+       [
+        -120,
+        0.956
+       ],
+       [
+        -100,
+        0.996
+       ],
+       [
+        -80,
+        1.108
+       ],
+       [
+        -60,
+        1.325
+       ],
+       [
+        -40,
+        1.58
+       ],
+       [
+        -20,
+        1.7
+       ],
+       [
+        0,
+        1.586
+       ],
+       [
+        20,
+        1.339
+       ],
+       [
+        40,
+        1.128
+       ],
+       [
+        60,
+        1.023
+       ],
+       [
+        80,
+        0.99
+       ],
+       [
+        100,
+        0.985
+       ],
+       [
+        120,
+        0.987
+       ],
+       [
+        140,
+        0.99
+       ],
+       [
+        160,
+        0.993
+       ],
+       [
+        180,
+        0.997
+       ],
+       [
+        200,
+        1.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ecv",
+      "x": 200,
+      "y": 1.0,
+      "dus": "x",
+      "dolu": true,
+      "renk": "lacivert",
+      "etiket": "ECV",
+      "dy": -26,
+      "cumle": 1
+     },
+     {
+      "ad": "tpp",
+      "x": -20,
+      "y": 1.7,
+      "dus": "x",
+      "dolu": true,
+      "renk": "kirmizi",
+      "etiket": "TPP",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "ytm",
+      "y": [
+       1.0,
+       1.7
+      ],
+      "xk": -20,
+      "etiket": "Ytm",
+      "cumle": 2
+     },
+     {
+      "ad": "tw",
+      "x": [
+       -62,
+       18
+      ],
+      "y": 1.35,
+      "etiket": "TW",
+      "etiket_alt": true,
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "ECV: the value at plus 200 daPa",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ytm: the height of the peak",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TPP and TW: peak position and width",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "On the screen, we see a sample type A tympanogram without the ear canal contribution subtracted.",
+    "The value at plus two hundred decapascals belongs to the ear canal air; from it, the ear canal volume, or ECV, is calculated.",
+    "The height of the peak above this baseline is the peak compensated static admittance of the middle ear.",
+    "The pressure at which the peak occurs is the tympanometric peak pressure.",
+    "The pressure width at half the peak height is the tympanometric width.",
+    "These four values add numbers to the Jerger type and make borderline curves easier to interpret."
+   ]
+  },
+  {
+   "id": "ytm",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Four values",
+   "baslik": "Peak static *admittance*",
+   "maddeler": [
+    {
+     "metin": "_Ytm_: peak minus the plus 200 baseline",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Adults: about _0.3 to 1.7 mmho_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Low: _stiffness_ or fluid",
+     "cumle": 4,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "High: _flaccid membrane_ or chain discontinuity",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "Ytm",
+    "metin": "*How easily* the middle ear transmits sound",
+    "cumle": 1
+   },
+   "cumleler": [
+    {
+     "yazi": "Peak compensated static admittance, or Ytm, is found by subtracting the ear canal baseline from the peak value.",
+     "ses": "Peak compensated static admittance, or Y.T.M, is found by subtracting the ear canal baseline from the peak value."
+    },
+    {
+     "yazi": "So Ytm is the admittance of the middle ear system alone, after the ear canal contribution is removed.",
+     "ses": "So Y.T.M is the admittance of the middle ear system alone, after the ear canal contribution is removed."
+    },
+    "Most instruments do this subtraction themselves and show the compensated curve.",
+    {
+     "yazi": "In adults, Ytm is taken as about zero point three to one point seven millimhos; the normal range is lower in children.",
+     "ses": "In adults, Y.T.M is taken as about zero point three to one point seven millimhos; the normal range is lower in children."
+    },
+    {
+     "yazi": "A low Ytm may suggest that the middle ear system is stiffer, or that fluid is reducing its movement.",
+     "ses": "A low Y.T.M may suggest that the middle ear system is stiffer, or that fluid is reducing its movement."
+    },
+    {
+     "yazi": "A high Ytm may suggest a flaccid or thin tympanic membrane, or ossicular chain discontinuity.",
+     "ses": "A high Y.T.M may suggest a flaccid or thin tympanic membrane, or ossicular chain discontinuity."
+    },
+    {
+     "yazi": "The normal range is wide and overlaps with values from diseased ears, so Ytm is not interpreted on its own.",
+     "ses": "The normal range is wide and overlaps with values from diseased ears, so Y.T.M is not interpreted on its own."
+    }
+   ]
+  },
+  {
+   "id": "tpp",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Four values",
+   "baslik": "Tympanometric *peak pressure*",
+   "maddeler": [
+    {
+     "metin": "_TPP_: pressure at the peak",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "An _estimate_ of middle ear pressure",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Adults: about _minus 100 to plus 50_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Clearly negative: question _Eustachian tube_ function",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EFFECTS",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Sweep direction",
+      "metin": "Peak shifts that way",
+      "cumle": 5
+     },
+     {
+      "ikon": "kronometre",
+      "baslik": "Pump speed",
+      "metin": "Changes the value",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Tympanometric peak pressure, or TPP, is the ear canal pressure at which the curve peaks.",
+    "Admittance is highest when ear canal pressure equals middle ear pressure, so TPP is an estimate of middle ear pressure.",
+    "In adults, TPP is usually about minus one hundred to plus fifty decapascals; some sources accept down to minus one hundred fifty as normal.",
+    "A clearly negative TPP suggests that the Eustachian tube is not ventilating the middle ear well enough.",
+    "Clearly positive pressure is less common; it can be seen with crying, nose blowing or in the early stage of acute otitis media.",
+    "TPP is affected by test conditions: the peak shifts slightly in the direction of the pressure sweep.",
+    "Pump speed can also change peak pressure and height, so the clinic always uses the same protocol."
+   ]
+  },
+  {
+   "id": "tw",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Width and volume",
+   "baslik": "Tympanometric *width*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Pressure (daPa)"
+    },
+    "y": {
+     "min": 0,
+     "max": 0.8,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admittance (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "dar",
+      "noktalar": [
+       [
+        -400,
+        0.0
+       ],
+       [
+        -380,
+        0.0
+       ],
+       [
+        -360,
+        0.0
+       ],
+       [
+        -340,
+        0.0
+       ],
+       [
+        -320,
+        0.0
+       ],
+       [
+        -300,
+        0.0
+       ],
+       [
+        -280,
+        0.0
+       ],
+       [
+        -260,
+        0.0
+       ],
+       [
+        -240,
+        0.0
+       ],
+       [
+        -220,
+        0.0
+       ],
+       [
+        -200,
+        0.0
+       ],
+       [
+        -180,
+        0.0
+       ],
+       [
+        -160,
+        0.0
+       ],
+       [
+        -140,
+        0.001
+       ],
+       [
+        -120,
+        0.009
+       ],
+       [
+        -100,
+        0.044
+       ],
+       [
+        -80,
+        0.147
+       ],
+       [
+        -60,
+        0.35
+       ],
+       [
+        -40,
+        0.589
+       ],
+       [
+        -20,
+        0.7
+       ],
+       [
+        0,
+        0.589
+       ],
+       [
+        20,
+        0.35
+       ],
+       [
+        40,
+        0.147
+       ],
+       [
+        60,
+        0.044
+       ],
+       [
+        80,
+        0.009
+       ],
+       [
+        100,
+        0.001
+       ],
+       [
+        120,
+        0.0
+       ],
+       [
+        140,
+        0.0
+       ],
+       [
+        160,
+        0.0
+       ],
+       [
+        180,
+        0.0
+       ],
+       [
+        200,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "narrow, sharp",
+      "etiket_konum": [
+       10,
+       0.68
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "genis",
+      "noktalar": [
+       [
+        -400,
+        0.001
+       ],
+       [
+        -380,
+        0.002
+       ],
+       [
+        -360,
+        0.004
+       ],
+       [
+        -340,
+        0.007
+       ],
+       [
+        -320,
+        0.012
+       ],
+       [
+        -300,
+        0.02
+       ],
+       [
+        -280,
+        0.031
+       ],
+       [
+        -260,
+        0.047
+       ],
+       [
+        -240,
+        0.067
+       ],
+       [
+        -220,
+        0.093
+       ],
+       [
+        -200,
+        0.125
+       ],
+       [
+        -180,
+        0.16
+       ],
+       [
+        -160,
+        0.198
+       ],
+       [
+        -140,
+        0.235
+       ],
+       [
+        -120,
+        0.269
+       ],
+       [
+        -100,
+        0.296
+       ],
+       [
+        -80,
+        0.314
+       ],
+       [
+        -60,
+        0.32
+       ],
+       [
+        -40,
+        0.314
+       ],
+       [
+        -20,
+        0.296
+       ],
+       [
+        0,
+        0.269
+       ],
+       [
+        20,
+        0.235
+       ],
+       [
+        40,
+        0.198
+       ],
+       [
+        60,
+        0.16
+       ],
+       [
+        80,
+        0.125
+       ],
+       [
+        100,
+        0.093
+       ],
+       [
+        120,
+        0.067
+       ],
+       [
+        140,
+        0.047
+       ],
+       [
+        160,
+        0.031
+       ],
+       [
+        180,
+        0.02
+       ],
+       [
+        200,
+        0.012
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "wide, rounded",
+      "etiket_konum": [
+       -330,
+       0.12
+      ],
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "tw_dar",
+      "x": [
+       -60,
+       20
+      ],
+      "y": 0.35,
+      "etiket": "about 80 daPa",
+      "cumle": 2
+     },
+     {
+      "ad": "tw_genis",
+      "x": [
+       -180,
+       60
+      ],
+      "y": 0.16,
+      "etiket": "about 240 daPa",
+      "etiket_alt": true,
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Pressure range at half height",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Adults: about 50 to 110 daPa",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Wide TW: possible effusion",
+     "cumle": 6,
+     "ikon": "akinti"
+    }
+   ],
+   "cumleler": [
+    "Tympanometric width, or TW, is the pressure range measured at half the peak height of the curve.",
+    "The blue curve shows a narrow, sharp peak.",
+    "At half height, the range between its two sides is about eighty decapascals.",
+    "In adults, TW is usually about fifty to one hundred ten decapascals; it is slightly wider in children.",
+    "The red curve is low and rounded; its peak is not distinct.",
+    "This curve's width is about two hundred forty decapascals.",
+    "A wide TW makes effusion more likely, especially in children; screening guidelines flag widths above about two hundred fifty decapascals.",
+    "TW is valuable because it can show a rounded curve in numbers even when peak height is within normal limits."
+   ]
+  },
+  {
+   "id": "ecv",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Width and volume",
+   "baslik": "Ear canal *volume*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Air between probe and eardrum",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Stiffened at plus 200 daPa",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Adds to the measure if perforated",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Adults: about 0.6 to 1.5 ml",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Very large: perforation or open tube",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Very small: blocked tip or wax",
+     "cumle": 5,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Ear canal volume, or ECV, is the volume of air between the probe tip and the tympanic membrane.",
+    "At plus two hundred decapascals the tympanic membrane is stiffened, so the value measured at this pressure mostly belongs to the ear canal.",
+    "In adults, ECV is about zero point six to one point five milliliters; it is lower in children because the ear canal is smaller.",
+    "ECV is most useful in interpreting type B curves, which have no peak.",
+    "If the volume is much larger than expected for age, the probe tone also reaches the middle ear; a perforation or open tube is considered.",
+    "If the volume is very small, the probe tip may be against the ear canal wall or blocked.",
+    "How deeply the probe tip is inserted also affects the value, so small differences are interpreted with care."
+   ]
+  },
+  {
+   "id": "normlar",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Norms",
+   "baslik": "*Approximate* norms in adults",
+   "sutunlar": [
+    "Value",
+    "Approximate range",
+    "Unit"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ytm",
+      "0.3 to 1.7",
+      "mmho"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "TPP",
+      "Minus 100, plus 50",
+      "daPa"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "TW",
+      "50 to 110",
+      "daPa"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "ECV",
+      "0.6 to 1.5",
+      "ml"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Let us put the approximate normal ranges for two hundred twenty six hertz tympanometry in adults in a table.",
+    "Peak static admittance is about zero point three to one point seven millimhos.",
+    "Peak pressure is about minus one hundred to plus fifty decapascals.",
+    "Tympanometric width is about fifty to one hundred ten decapascals.",
+    "Ear canal volume is about zero point six to one point five milliliters.",
+    "These ranges are approximate; there are small differences between published studies and instruments.",
+    "Separate age-based norms are used for children; infants under six months need one thousand hertz testing and its own norms."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Norms",
+   "baslik": "Conditions that *change* the values",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Baseline choice",
+     "metin": "Plus 200 or minus 400",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Pump speed",
+     "metin": "A fast sweep changes the peak",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Sweep direction",
+     "metin": "Peak shifts that way",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Repeat testing",
+     "metin": "Values may change run to run",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "When calculating Ytm, the value at plus two hundred decapascals is usually used as the baseline.",
+     "ses": "When calculating Y.T.M, the value at plus two hundred decapascals is usually used as the baseline."
+    },
+    {
+     "yazi": "If the baseline is taken at minus four hundred, Ytm comes out somewhat higher, because the negative tail of the curve is often lower.",
+     "ses": "If the baseline is taken at minus four hundred, Y.T.M comes out somewhat higher, because the negative tail of the curve is often lower."
+    },
+    "As pump speed increases, peak height and pressure may change; the norms were obtained at a specific speed.",
+    "Sweep direction also affects peak pressure; with a positive-to-negative sweep, the peak looks slightly more negative.",
+    "In repeated measurements, stretching and relaxing of the tympanic membrane can change the values slightly.",
+    "So choose norms from a source that matches the protocol of the instrument you use."
+   ]
+  },
+  {
+   "id": "ornekler",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "Sample *results*",
+   "sutunlar": [
+    "Example",
+    "Ytm (mmho)",
+    "TW (daPa)",
+    "ECV (ml)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "0.8",
+      "75",
+      "1.1"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "2",
+      "0.25",
+      "230",
+      "1.0"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3",
+      "2.4",
+      "60",
+      "1.2"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4",
+      "No peak",
+      "-",
+      "3.2"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Let us look at four sample adult results; in example 1, all values are in the normal range and peak pressure is minus ten decapascals.",
+     "ses": "Let us look at four sample adult results; in example one, all values are in the normal range and peak pressure is minus ten decapascals."
+    },
+    {
+     "yazi": "In example 2, Ytm is low, TW is wide and peak pressure is minus one hundred twenty; the curve is low and rounded.",
+     "ses": "In example two, Y.T.M is low, T.W is wide and peak pressure is minus one hundred twenty; the curve is low and rounded."
+    },
+    "This picture may be consistent with possible middle ear fluid; it is assessed together with otoscopy.",
+    {
+     "yazi": "In example 3, Ytm is two point four millimhos, clearly above normal.",
+     "ses": "In example three, Y.T.M is two point four millimhos, clearly above normal."
+    },
+    "If the audiogram is normal, a flaccid membrane comes to mind; with a clear air-bone gap, chain discontinuity is considered.",
+    {
+     "yazi": "In example 4, there is no peak and the volume is three point two milliliters; a perforation or an open ventilation tube is considered.",
+     "ses": "In example four, there is no peak and the volume is three point two milliliters; a perforation or an open ventilation tube is considered."
+    },
+    "In each example, the numbers tell much more than the letter type alone."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "The *order* for reading the values",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "ECV",
+     "metin": "Probe and eardrum intact?",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Is there a peak?",
+     "metin": "If not, type B",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "TPP",
+     "metin": "Is pressure normal?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ytm and TW",
+     "metin": "Height and shape",
+     "cumle": 3
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Combine",
+     "metin": "Otoscopy and audiogram",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "When reading a result, look at volume first; a very large or very small ECV must be explained before interpreting the rest of the curve.",
+    "Then check whether there is a clear peak; if not, the curve is type B and is interpreted by volume.",
+    "If there is a peak, assess peak pressure; a clearly negative pressure raises questions about Eustachian tube function.",
+    {
+     "yazi": "Then look at peak height with Ytm and at shape with TW.",
+     "ses": "Then look at peak height with Y.T.M and at shape with T.W."
+    },
+    "These two values make the decision easier for curves where the letter type is borderline.",
+    "In the last step, interpret all values together with otoscopy and the audiogram."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "If Ytm is within normal limits but TW is wide, repeat the test and compare with otoscopy; a rounded peak may be an early sign of fluid.",
+   "cumleler": [
+    {
+     "yazi": "Looking only at Ytm can miss some effusions.",
+     "ses": "Looking only at Y.T.M can miss some effusions."
+    },
+    {
+     "yazi": "If Ytm is near the lower limit of normal but the width is clearly increased, the curve has become rounded.",
+     "ses": "If Y.T.M is near the lower limit of normal but the width is clearly increased, the curve has become rounded."
+    },
+    "In that case, repeat the test and compare the result with the otoscopy findings.",
+    "Especially in children, borderline findings like these are followed with a recheck after some time."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "*What* should the report include?",
+   "maddeler": [
+    {
+     "metin": "Probe tone, _each ear_ separately",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "_Ytm, TPP, TW and ECV_ values",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Jerger type and _norms used_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Otoscopy_ and test notes",
+     "cumle": 3,
+     "ikon": "otoskop"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 0
+      }
+     ]
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "The report first states the probe tone, and results are written separately for each ear.",
+    {
+     "yazi": "The four values, Ytm, TPP, TW and ECV, are recorded with their units.",
+     "ses": "The four values, Y.T.M, T.P.P, T.W and E.C.V, are recorded with their units."
+    },
+    "The Jerger type is added next to these values, and the norm table used for comparison is stated.",
+    "Otoscopy findings and notes such as crying or movement during testing are also added.",
+    "A report like this allows change to be tracked accurately at the next visit."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Ytm: about _0.3 to 1.7 mmho_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TPP: about _minus 100 to plus 50_",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "TW: _width_ at half height",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "ECV: about _0.6 to 1.5 ml_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Peak static admittance is the admittance of the middle ear alone; in adults it is about zero point three to one point seven millimhos.",
+    "Tympanometric peak pressure estimates middle ear pressure; in adults it is about minus one hundred to plus fifty decapascals.",
+    "Tympanometric width is the pressure range at half the peak height; a wide TW raises the likelihood of effusion.",
+    "Ear canal volume is measured at plus two hundred decapascals; in adults it is about zero point six to one point five milliliters."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Child: Ytm 0.9, TW 260 daPa, ECV 0.8 ml. Which stands out?",
+   "secenekler": [
+    "Ytm",
+    "TW",
+    "ECV",
+    "None"
+   ],
+   "dogru": 1,
+   "aciklama": "Ytm and ECV are within the expected range, but _TW is above about 250 daPa_ and the curve is rounded.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: In a child, Ytm is zero point nine, TW two hundred sixty and ECV zero point eight. Which value stands out?",
+     "ses": "Test yourself: In a child, Y.T.M is zero point nine, T.W two hundred sixty and E.C.V zero point eight. Which value stands out?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: tympanometric width.",
+    "Peak height and volume are in the expected range, but the width is above two hundred fifty decapascals; the curve is rounded."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*High-Frequency* (1000 Hz) Tympanometry in Infants",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will see why we use one thousand hertz tympanometry in infants under six months.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

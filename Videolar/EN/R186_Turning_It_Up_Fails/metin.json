@@ -1,0 +1,87 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R186_Turning_It_Up_Fails_EN",
+ "kapak": {
+  "ust": "QUICK FACT #186",
+  "baslik": "Turning it up *fails*",
+  "alt": "SNR loss",
+  "cizim": "isitme_cihazi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "In noise, does turning up both speech and noise help? #shorts",
+  "aciklama": "SNR loss is how much better a signal-to-noise ratio a person needs, compared with normal hearing, to understand the same amount. Raising speech and noise together does not change this ratio, so it does not close the SNR loss; solutions such as directional or remote microphones are needed.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "noise",
+   "hearing"
+  ],
+  "etiketler": [
+   "SNR loss",
+   "signal-to-noise ratio",
+   "speech in noise",
+   "QuickSIN",
+   "directional microphone",
+   "remote microphone",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "In noise, does turning up both speech and noise help?",
+  "bilgiler": [
+   "SNR loss is the extra signal-to-noise ratio needed versus normal hearing.",
+   "Raising speech and noise together does not change this ratio.",
+   "Directional or remote microphones are needed instead."
+  ],
+  "hashtag": [
+   "audiology",
+   "noise",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #186",
+   "metin": "Does turning *everything* up help?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "In noise, does turning up both speech and noise help?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "*SNR loss* in this example",
+   "sayi": "8",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "People who struggle in noise need a higher signal-to-noise ratio.",
+    "The difference from normal hearing is SNR loss; here, eight decibels.",
+    "Raising speech and noise together does not change this ratio.",
+    "So it does not close the SNR loss.",
+    "Solutions like directional or remote microphones are needed instead."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D099",
+ "kaynak_baslik": "Speech-in-Noise Tests: QuickSIN, HINT, Matrix"
+}

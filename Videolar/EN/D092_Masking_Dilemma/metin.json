@@ -1,0 +1,811 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D092_Masking_Dilemma_EN",
+ "kapak": {
+  "ust": "LESSON 92",
+  "baslik": "The masking<br>*dilemma*",
+  "alt": "A dead end in bilateral conductive loss",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      55,
+      60,
+      60,
+      55,
+      60,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      60,
+      60,
+      65,
+      60,
+      60,
+      65
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      5,
+      5,
+      10,
+      10,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "The Masking Dilemma in Bilateral Conductive Loss | Lesson 92 | AIHEAR Audiology Academy",
+  "aciklama": "In bilateral conductive loss, the least noise needed can exceed the most noise allowed. In this lesson we use sample calculations to work through why the masking dilemma happens, how insert earphones help, cross-check tests and how bone-conduction ABR gives ear-specific information.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hall, New Handbook of Auditory Evoked Responses; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "masking",
+   "audiometry"
+  ],
+  "etiketler": [
+   "masking dilemma",
+   "bilateral conductive hearing loss",
+   "insert earphones",
+   "bone-conduction ABR",
+   "overmasking",
+   "clinical masking",
+   "cross-check principle",
+   "Naunton",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 92",
+   "baslik": "The Masking *Dilemma* in Bilateral Conductive Loss",
+   "alt": "A dead end in bilateral conductive loss",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn about the hardest situation in clinical masking: the masking dilemma.",
+    "We will see why the dilemma occurs, how insert earphones help, and how we support ear-specific information with other tests."
+   ]
+  },
+  {
+   "id": "tablo_odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "What is the dilemma?",
+   "baslik": "A *large gap* in both ears",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Unmasked bone conduction",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       55,
+       60,
+       60,
+       55,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       60,
+       60,
+       65,
+       60,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      60
+     ],
+     "etiket": "50 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "In this example, the air conduction thresholds of both ears are between fifty five and sixty five decibels.",
+    "The unmasked bone conduction thresholds are between five and ten decibels, which is normal.",
+    "Both ears may have an air-bone gap of about fifty decibels, but we do not know whose unmasked bone conduction this is.",
+    "By the bone conduction rule, both ears need bone conduction masking; the air conduction rule may also call for masking.",
+    "But when we try to deliver the noise, we find that no level works.",
+    {
+     "yazi": "This dead end is called the masking dilemma; it is generally credited to Naunton, who described it in 1960.",
+     "ses": "This dead end is called the masking dilemma; it is generally credited to Naunton, who described it in nineteen sixty."
+    }
+   ]
+  },
+  {
+   "id": "bilinen",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "What is the dilemma?",
+   "baslik": "What do we *know*, and what not?",
+   "maddeler": [
+    {
+     "metin": "At least one cochlea is _normal_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "At least one ear has _a conductive component_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Air conduction thresholds may stay _uncertain_ too",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Unknown: bone conduction of _each ear_",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "UNCERTAINTY",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kemik_vibratoru",
+      "baslik": "Bone conduction",
+      "metin": "Whose is it?",
+      "cumle": 4
+     },
+     {
+      "ikon": "odyogram",
+      "baslik": "Type of loss",
+      "metin": "Different in each ear?",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Even if we cannot mask, we know some things: since unmasked bone conduction is normal, at least one cochlea works normally.",
+    "Since the air conduction thresholds are clearly poor, at least one ear has a conductive component.",
+    "Because the air conduction rule also calls for masking, ear-specific air conduction thresholds may not be certain in a dilemma either.",
+    "This is because a tone given to the poorer ear may have crossed the skull and been heard by the better cochlea.",
+    "What we really do not know is each ear's own bone conduction threshold, that is, whether the gap truly exists in both ears.",
+    "For example, one ear may have a conductive loss and the other a mixed or sensorineural loss."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is the dilemma?",
+   "baslik": "A shrinking *window*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "karsi_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 1
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 3
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "karsi_kulak",
+     "metin": "NTE: conductive block",
+     "cumle": 0
+    },
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: good bone conduction",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Least noise _rises_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Most noise _falls_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "The plateau _disappears_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "The dilemma has two causes; the first is a conductive loss in the non-test ear, or NTE.",
+    "Noise from the earphone must overcome this block to reach the NTE cochlea, so the least noise rises by the size of the air-bone gap.",
+    "The second cause is good bone conduction in the test ear, or TE.",
+    "Noise reaches the TE cochlea weakened only by interaural attenuation, or IA, and masks it, so the most noise stays low.",
+    "When the least noise reaches and passes the most noise, no window is left in which to find a plateau.",
+    "The noise goes straight from undermasking to overmasking; a stable zone showing the true threshold never appears."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Calculation and inserts",
+   "baslik": "The bone conduction *window* at 1000 Hz",
+   "sutunlar": [
+    "Case",
+    "Least (dB EM)",
+    "Most (dB EM)",
+    "Result"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Gap 55, supra-aural",
+      "75",
+      "45",
+      "Dilemma"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Gap 55, insert",
+      "75",
+      "60",
+      "Dilemma"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Gap 25, supra-aural",
+      "45",
+      "45",
+      "No window"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Gap 25, insert",
+      "45",
+      "60",
+      "Plateau possible"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Let us apply the formulas from the previous lesson at one thousand hertz, for bone conduction masking of the right ear.",
+    "TE bone conduction is ten and the NTE gap fifty five; with the safety factor, the least noise is seventy five dB effective masking, dB EM.",
+    "Since the NTE has a conductive loss, no occlusion correction is added; the most noise is ten plus forty minus five, or forty five dB EM.",
+    "With insert earphones and an IA of fifty five, the most noise rises to sixty, but it is still below the least noise of seventy five.",
+    "In a milder loss with a gap of twenty five decibels, the least and the most noise meet at forty five with supra-aural earphones.",
+    "In the same loss with inserts, the most noise rises to sixty; a fifteen decibel window opens and a plateau can be searched for."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Calculation and inserts",
+   "baslik": "The first solution: *insert* earphones",
+   "ogeler": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Higher IA",
+     "metin": "Even higher at low frequencies",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Less occlusion",
+     "metin": "Helps bone conduction masking",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Deep insertion",
+     "metin": "Determines the IA",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Has limits",
+     "metin": "May fail with large gaps",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "When a masking dilemma is suspected, the first step is to use insert earphones for both the tone and the noise.",
+    "IA is higher with insert earphones; at low frequencies it is often above even the conservative value.",
+    "As IA rises, the most noise rises; in air conduction masking the least noise also falls, so the window widens from both sides.",
+    "Insert earphones also reduce the occlusion effect, which lowers the noise needed for bone conduction masking.",
+    "These advantages depend on placing the foam tip deep and correctly in the ear canal.",
+    "But as the calculation showed, with very large gaps even insert earphones may not solve the dilemma."
+   ]
+  },
+  {
+   "id": "cozum",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Calculation and inserts",
+   "baslik": "An example *solved* with inserts",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Right_: masked bone conduction",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left_: masked bone conduction",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       35,
+       35,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       35,
+       35,
+       40,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       10
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "In this example, air conduction in both ears was between thirty five and forty decibels, and unmasked bone conduction was around ten.",
+    "The window calculated with insert earphones was open, so the plateau method could be applied in both ears.",
+    "The masked bone conduction thresholds of the right ear stayed between ten and fifteen decibels.",
+    "Masked bone conduction in the left ear was found at a similar level.",
+    "This showed that the air-bone gap was real in both ears, that is, a bilateral conductive loss.",
+    "With supra-aural earphones, it would not have been possible to reach this result in the same patient."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Calculation and inserts",
+   "baslik": "*Who* runs into the dilemma?",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Bilateral otitis",
+     "metin": "With effusion or chronic",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Bilateral otosclerosis",
+     "metin": "Wide gap",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ear canal atresia",
+     "metin": "Inserts cannot be fitted",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Mixed loss",
+     "metin": "Gaps on both sides",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The dilemma appears in losses with a clear conductive component in both ears, and it gets harder to solve as the gap grows.",
+    "Bilateral otitis media with effusion, or chronic otitis media, is a common example.",
+    "In bilateral otosclerosis, a dilemma can also develop as the air-bone gap progresses.",
+    "Congenital aural atresia is the hardest case; the conductive loss is large and insert earphones cannot be fitted.",
+    "In atresia, bone conduction thresholds are often supported by electrophysiological tests for ear-specific information.",
+    "A similar problem can occur in mixed losses if there is a clear gap on both sides."
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Supporting tests",
+   "baslik": "*Cross-check* tests",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tympanometry",
+     "metin": "Middle ear status",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Acoustic reflex",
+     "metin": "Usually absent in conductive loss",
+     "cumle": 2
+    },
+    {
+     "ikon": "diyapazon",
+     "baslik": "Tuning fork",
+     "metin": "Gives a rough direction",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Bone-conduction ABR",
+     "metin": "Ear-specific information",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "When the dilemma cannot be solved, the audiogram must be supported by other tests; this is the cross-check principle.",
+    "Tympanometry shows the status of each middle ear separately and supports the source of the conductive component.",
+    "In conductive loss, acoustic reflexes are usually absent, which confirms the conductive component.",
+    "Tuning fork tests can give a rough direction, but their interpretation is limited in bilateral loss.",
+    {
+     "yazi": "Older methods such as the sensorineural acuity level, or SAL test, proposed by Jerger and Tillman in 1960, are not widely used today.",
+     "ses": "Older methods such as the sensorineural acuity level, or S.A.L test, proposed by Jerger and Tillman in nineteen sixty, are not widely used today."
+    },
+    "Today the strongest support is the auditory brainstem response evoked by bone conduction."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Supporting tests",
+   "baslik": "Bone-conduction *ABR*",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Wave I: same side",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Wave V",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Two-channel recording: _ipsilateral and contralateral_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bone conduction IA in infants: _higher_",
+     "cumle": 4,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "If needed, mask _with inserts_",
+     "cumle": 5,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "The auditory brainstem response, or ABR, can also be evoked with a bone vibrator; this is called bone-conduction ABR.",
+    "The recording is taken from two channels at once, from electrodes on the stimulated side and on the opposite side.",
+    "Wave I arises from the part of the auditory nerve near the cochlea and is usually clear only in the channel on the stimulated side.",
+    "Comparing the presence of wave I and the wave V latencies in the two channels tells us which cochlea the response comes from.",
+    "In infants, interaural attenuation for bone conduction is higher than in adults, which makes ear-specific testing easier.",
+    "When needed, masking is also delivered to the opposite ear through an insert earphone.",
+    "Bone-conduction ABR is a valuable support, especially in children with atresia and when behavioral testing is not possible."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical pathway and report",
+   "baslik": "A *roadmap* when a dilemma is suspected",
+   "adimlar": [
+    {
+     "ikon": "tablo",
+     "baslik": "Calculate the window",
+     "metin": "Least and most",
+     "cumle": 0
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Use inserts",
+     "metin": "For tone and noise",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Cross-check",
+     "metin": "Immittance and reflexes",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Bone-conduction ABR",
+     "metin": "If needed",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "State it in the report",
+     "metin": "Write the uncertainty clearly",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In practice, the first step is to calculate the least and the most noise for each frequency and see whether the window is open.",
+    "If the window is closed, try again with insert earphones for the tone and the noise.",
+    "If the dilemma persists, use cross-check tests such as tympanometry and acoustic reflexes.",
+    "If ear-specific bone conduction information is needed for a treatment decision, bone-conduction ABR is considered.",
+    "Finally, state any uncertainty that could not be resolved clearly in the report."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical pathway and report",
+   "baslik": "What goes *in the report?*",
+   "maddeler": [
+    {
+     "metin": "Do not report thresholds _as certain_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "_Note_ the masking dilemma",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "_Record_ the noise levels used",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Add_ supporting test results",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SAMPLE NOTE",
+    "metin": "Ear-specific bone conduction *could not be determined* due to a masking dilemma",
+    "cumle": 1
+   },
+   "cumleler": [
+    "If the dilemma could not be solved, do not report unmasked thresholds, or thresholds obtained without a plateau, as if they were certain.",
+    "State clearly in the report that ear-specific bone conduction could not be determined because of a masking dilemma.",
+    "Record the noise levels tried and the type of earphone used.",
+    "Add the results of tympanometry, acoustic reflexes and, if available, bone-conduction ABR to the interpretation.",
+    "After surgery on one ear, the gap in that ear may close; the opposite ear can then be masked easily."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "In bilateral conductive loss, start testing with insert earphones from the beginning. Fewer frequencies will need masking, and the dilemma often never arises.",
+   "cumleler": [
+    "A tip from the clinic: if the history or otoscopy suggests a bilateral conductive loss, start testing with insert earphones right away.",
+    "This way you will not have to change earphones and repeat measurements later.",
+    "Insert earphones both reduce the need for air conduction masking and widen the window in bone conduction masking.",
+    "This may not be possible if there is discharge or atresia in the ear canal; then plan cross-check tests early."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "The least noise exceeds _the most_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cause: NTE block, _good TE bone_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "First solution: _insert_ earphones",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Support: _bone-conduction ABR_, immittance",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "In a masking dilemma, the least noise needed reaches or exceeds the most noise, where overmasking begins; no plateau can be found.",
+    "It happens because the NTE conductive block raises the least noise and good TE bone conduction lowers the most noise.",
+    "Insert earphones widen the window by raising IA and reducing occlusion, but they may not be enough for very large gaps.",
+    "If it cannot be solved, immittance tests and bone-conduction ABR give support, and the uncertainty is stated in the report."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "What is the first practical step to reduce the masking dilemma?",
+   "secenekler": [
+    "Raise the noise by 20 dB",
+    "Use insert earphones",
+    "Skip masking",
+    "Measure bone conduction at forehead"
+   ],
+   "dogru": 1,
+   "aciklama": "Insert earphones _raise IA_ and reduce occlusion; the masking window widens.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: What is the first practical step to reduce the masking dilemma?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: use insert earphones.",
+    "Insert earphones raise interaural attenuation and reduce occlusion, so the window between the least and the most noise widens."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Masking* Practice with Real Audiograms",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will apply all the masking rules step by step to realistic sample audiograms.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

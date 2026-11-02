@@ -1,0 +1,218 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D060_Hughson_Westlake_EN",
+  "kapak": {
+    "ust": "LESSON 60",
+    "baslik": "Finding the<br>*threshold*",
+    "alt": "The modified Hughson-Westlake method",
+    "cizim": "odyometre"
+  },
+  "youtube": {
+    "baslik": "Finding Air-Conduction Thresholds: Hughson-Westlake | Lesson 60 | AIHEAR Audiology Academy",
+    "aciklama": "In pure tone audiometry, air conduction thresholds are found with the modified Hughson-Westlake method. In this lesson, we go step by step through the definition of threshold, familiarization, the down 10 dB, up 5 dB rule, the frequency order, a sample threshold search and common mistakes.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); Carhart and Jerger, Preferred method for clinical determination of pure-tone thresholds (Journal of Speech and Hearing Disorders, 1959); British Society of Audiology, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "audiometry", "hearing"],
+    "etiketler": ["Hughson-Westlake", "modified Hughson-Westlake", "pure tone audiometry", "air conduction threshold", "threshold", "ascending approach", "descending approach", "audiogram", "ASHA guidelines", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 60", "baslik": "Finding Air-Conduction *Thresholds*: Hughson-Westlake", "alt": "The modified Hughson-Westlake method, step by step",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn how air conduction thresholds are found in pure tone audiometry, using the modified Hughson-Westlake method.",
+       "Starting from the definition of threshold, we will follow a sample threshold search step by step and talk about common mistakes."]},
+
+    {"id": "esik", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Threshold and method", "baslik": "What is a *threshold?*",
+     "maddeler": [{"metin": "The _lowest_ audible level", "cumle": 0, "ikon": "kulak"}, {"metin": "Not a sharp line, a _probability_", "cumle": 1, "ikon": "grafik"}, {"metin": "_Confirmed_ by repeated trials", "cumle": 3, "ikon": "kontrol_listesi"}, {"metin": "At least two responses, e.g. _two of three_", "cumle": 4, "ikon": "dogru"}],
+     "yan": {"tur": "kart", "ust": "THRESHOLD", "metin": "The lowest level with responses on at least *half* of ascending trials", "cumle": 3},
+     "cumleler": [
+       "A threshold is the lowest level at which a person can hear a sound.",
+       "But a threshold is not a sharp line; near threshold, the person sometimes hears the sound and sometimes does not.",
+       "So the threshold is defined in terms of probability.",
+       "In the modified Hughson-Westlake method, threshold is the lowest level at which responses occur on at least half of the ascending trials.",
+       "In practice, this means at least two responses on ascending trials at the same level, for example two out of three.",
+       "This definition appears in the guidelines of the American Speech-Language-Hearing Association, or ASHA."]},
+
+    {"id": "koken", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Threshold and method", "baslik": "*Origins* of the method",
+     "maddeler": [{"metin": "Hughson and Westlake: the _ascending_ approach", "cumle": 0, "ikon": "kitap"}, {"metin": "Carhart and Jerger: the _modified_ method", "cumle": 1, "ikon": "kitap"}, {"metin": "The _basis_ of international guidelines", "cumle": 3, "ikon": "kontrol_listesi"}],
+     "cumleler": [
+       "The method is named after Hughson and Westlake, who described reaching the threshold with an ascending approach.",
+       "Carhart and Jerger simplified this approach and proposed the modified Hughson-Westlake method we use today.",
+       "At the heart of the method, the sound is always presented from silence up to an audible level, that is, from below upward.",
+       "International guidelines are based on this method, although the descending approach is also widely used in clinical practice.",
+       {"yazi": "The method recommended by the British Society of Audiology, or BSA, rests on the same principles.", "ses": "The method recommended by the British Society of Audiology, or B.S.A, rests on the same principles."}],
+     "yan": {"tur": "ikonlar", "ust": "KEY PRINCIPLE", "cumle": 2,
+      "ogeler": [{"ikon": "sessizlik", "baslik": "From below upward", "metin": "From silence to audible", "cumle": 2}, {"ikon": "rapor", "baslik": "BSA method", "metin": "Rests on the same principles", "cumle": 4}]}},
+
+    {"id": "neden_yukselen", "tur": "karsilastir", "bolum_no": "PART 1", "bolum": "Threshold and method", "baslik": "Ascending and *descending* approaches",
+     "sol": {"ust": "Ascending", "maddeler": [{"metin": "Sound rises from silence to _audible_", "cumle": 1}, {"metin": "Response to a _newly_ detected sound", "cumle": 2}, {"metin": "The _basis_ of international guidelines", "cumle": 3}]},
+     "sag": {"ust": "Descending", "maddeler": [{"metin": "Sound falls from audible to _silence_", "cumle": 4}, {"metin": "Patient _first recognizes_ the target sound", "cumle": 5}, {"metin": "_More common_ in Türkiye", "cumle": 6}]},
+     "cumleler": [
+       "The threshold can be approached from two directions: presenting the sound from below upward, or from above downward.",
+       "In the ascending approach, the sound starts at an inaudible level and is raised step by step.",
+       "So the patient responds to a sound they have just detected, and responding out of habit becomes less likely.",
+       "The modified Hughson-Westlake method and international guidelines define threshold from these ascending trials.",
+       "In the descending approach, the sound starts at a clearly audible level and is lowered until the response stops.",
+       "The advantage of this approach is that the patient recognizes the target sound from the start and picks out faint tones more easily.",
+       "For this reason, the descending method is more widely used in clinics in Türkiye.",
+       "Both approaches have their own advantages; what matters is to apply the chosen method consistently and to state it in the report."]},
+
+    {"id": "hazirlik", "tur": "gorsel", "bolum_no": "PART 2", "bolum": "Preparation and instructions", "baslik": "Preparing for the *test*", "cizim": "odyometre",
+     "etiketler": [{"parca": "cihaz", "metin": "audiometer", "cumle": 0}, {"parca": "kulaklik", "metin": "earphones: air conduction", "cumle": 1}, {"parca": "hasta_butonu", "metin": "patient response button", "cumle": 2}],
+     "vurgula": [{"parca": "kulaklik", "cumle": 1}, {"parca": "hasta_butonu", "cumle": 2}],
+     "notlar": [{"metin": "Otoscopy first", "cumle": 0, "ikon": "otoskop"}, {"metin": "Patient should not see the tester", "cumle": 3, "ikon": "goz"}],
+     "cumleler": [
+       "Before starting the test, otoscopy should have been done and the earphones placed correctly.",
+       "In air conduction testing, sound is delivered through supra-aural earphones or insert earphones.",
+       "The patient presses a button or raises a hand each time they hear the sound.",
+       "The patient is seated so that they cannot see the tester's hands or the audiometer display.",
+       "This prevents responses prompted by visual cues.",
+       "The red earphone goes on the right ear and the blue earphone on the left ear."]},
+
+    {"id": "talimat", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Preparation and instructions", "baslik": "Clear, *standard* instructions",
+     "maddeler": [{"metin": "_Report_ even very faint sounds", "cumle": 0, "ikon": "konusma"}, {"metin": "Press when heard, release when gone", "cumle": 1, "ikon": "hasta_butonu"}, {"metin": "_Check_ the instructions are understood", "cumle": 3, "ikon": "soru"}, {"metin": "Start with the _better_ ear", "cumle": 4, "ikon": "kulak"}],
+     "cumleler": [
+       "The instructions are short and clear: press the button every time you hear a sound, however faint.",
+       "Ask the patient to press as soon as they hear the sound and to release when it stops.",
+       "Stress that they should respond to every sound they hear, no matter how faint.",
+       "After giving the instructions, check with a short question that the patient has understood.",
+       "Testing begins with the ear the patient says is the better one.",
+       "If the patient reports no difference between the ears, clinics usually start with the right ear."]},
+
+    {"id": "alistirma", "tur": "akis", "bolum_no": "PART 3", "bolum": "The method, step by step", "baslik": "*Familiarization* first",
+     "adimlar": [{"ikon": "kulaklik", "baslik": "1000 Hz", "metin": "Start at 30 dB HL", "cumle": 1}, {"ikon": "soru", "baslik": "If no response", "metin": "50 dB HL", "cumle": 2}, {"ikon": "grafik", "baslik": "Raise 10 dB", "metin": "Until a response", "cumle": 2}, {"ikon": "dogru", "baslik": "Response", "metin": "Start the threshold search", "cumle": 3}],
+     "cumleler": [
+       "Testing begins at one thousand hertz, because thresholds are usually measured most consistently at this frequency.",
+       "First, a clearly audible tone is given so the patient can learn the sound; the ASHA guideline suggests thirty dB HL for this.",
+       "If there is no response, the tone is given at fifty dB HL; if there is still no response, it is raised in ten decibel steps.",
+       "When the patient hears the tone and responds, familiarization is complete and the threshold search begins.",
+       "The aim of this first response is to help the patient recognize the sound they are listening for."]},
+
+    {"id": "kural", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "The method, step by step", "baslik": "*Down 10*, up 5",
+     "maddeler": [{"metin": "Response: decrease by _10 dB_", "cumle": 0, "ikon": "dogru"}, {"metin": "No response: increase by _5 dB_", "cumle": 1, "ikon": "yanlis"}, {"metin": "Tone duration 1 to 2 seconds", "cumle": 3, "ikon": "kronometre"}, {"metin": "Keep the intervals _irregular_", "cumle": 4, "ikon": "dikkat"}, {"metin": "Only _ascending_ responses count here", "cumle": 5, "ikon": "grafik"}],
+     "cumleler": [
+       "The rule of the threshold search is simple: when the patient responds, the level is lowered by ten decibels.",
+       "When the patient does not respond, the level is raised by five decibels.",
+       "This rule is easy to remember as down ten, up five.",
+       "Each tone is presented for about one to two seconds.",
+       "The silent intervals between tones should be irregular; a rhythmic presentation leads the patient to respond by guessing.",
+       "In this method, threshold is determined from the responses on ascending trials."]},
+
+    {"id": "ornek_arama", "tur": "tablo", "bolum_no": "PART 3", "bolum": "The method, step by step", "baslik": "A sample *threshold search*",
+     "sutunlar": ["Step", "Level (dB HL)", "Response", "Next step"],
+     "satirlar": [{"hucreler": ["1", "30", "Yes", "Down 10 dB"], "cumle": 1}, {"hucreler": ["2", "20", "Yes", "Down 10 dB"], "cumle": 1}, {"hucreler": ["3", "10", "No", "Up 5 dB"], "cumle": 2}, {"hucreler": ["4", "15", "No", "Up 5 dB"], "cumle": 2}, {"hucreler": ["5", "20", "Yes (1st ascending)", "Down 10 dB"], "cumle": 3}, {"hucreler": ["6", "10 and 15", "No", "Up 5 dB"], "cumle": 4}, {"hucreler": ["7", "20", "Yes (2nd ascending)", "Threshold: 20 dB HL"], "cumle": 5, "vurgu": true}],
+     "cumleler": [
+       "Now let us follow a sample threshold search at one thousand hertz, step by step.",
+       "The patient responds at thirty dB HL; we go down ten decibels to twenty and get a response again.",
+       "There is no response at ten dB HL; we go up five decibels to fifteen, and there is still no response.",
+       "A response comes at twenty dB HL; this is the first ascending response at twenty.",
+       "We go down ten decibels again and up in five decibel steps; there is no response at ten or fifteen.",
+       "A response comes again at twenty dB HL; this is the second ascending response at the same level.",
+       "Because there was no response at fifteen on either ascending trial, the threshold in this example is recorded as twenty dB HL."]},
+
+    {"id": "sira", "tur": "akis", "bolum_no": "PART 3", "bolum": "The method, step by step", "baslik": "Frequency *order*",
+     "adimlar": [{"ikon": "kulaklik", "baslik": "1000 Hz", "metin": "Start", "cumle": 0}, {"ikon": "ses_dalgasi", "baslik": "High frequencies", "metin": "2000, 4000, 8000 Hz", "cumle": 0}, {"ikon": "kontrol_listesi", "baslik": "Retest 1000 Hz", "metin": "Usually within 5 dB", "cumle": 1}, {"ikon": "ses_dalgasi", "baslik": "Low frequencies", "metin": "500 and 250 Hz", "cumle": 3}, {"ikon": "kulak", "baslik": "Second ear", "metin": "Same order, no retest", "cumle": 4}],
+     "cumleler": [
+       "After one thousand hertz, two thousand, four thousand and eight thousand hertz are tested in turn.",
+       "Then one thousand hertz is measured again; this retest shows whether the patient's responses are consistent.",
+       "The two measurements should usually differ by no more than five decibels; if they do, at least one more frequency is retested.",
+       "Then five hundred and two hundred fifty hertz are tested.",
+       "The same order is followed in the second ear; according to ASHA, the one thousand hertz retest is not needed in this ear."]},
+
+    {"id": "ara_frekans", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "The method, step by step", "baslik": "Interoctave *frequencies*",
+     "maddeler": [{"metin": "_20 dB_ or more between adjacent octaves", "cumle": 1, "ikon": "grafik"}, {"metin": "3000 and 6000 Hz: _routine_ in ASHA", "cumle": 2, "ikon": "kitap"}, {"metin": "750 and 1500 Hz: when needed", "cumle": 3, "ikon": "ses_dalgasi"}, {"metin": "125 Hz: in low-frequency losses", "cumle": 4, "ikon": "ses_dalgasi"}],
+     "cumleler": [
+       "In some cases, interoctave frequencies are added to the standard octave frequencies.",
+       "If two adjacent octave frequencies differ by twenty decibels or more, the frequency in between is also tested.",
+       "Three thousand and six thousand hertz are on the routine list in the ASHA guideline; some clinics test them only by this rule.",
+       "Seven hundred fifty and fifteen hundred hertz can also be added in similar situations.",
+       "If there is a loss at low frequencies, one hundred twenty five hertz can also be tested.",
+       "These extra measurements show the shape of the audiogram more accurately and are also useful in hearing aid fitting."],
+     "yan": {"tur": "odyogram", "grafik": {"frekanslar": [125, 250, 500, 750, 1000, 1500, 2000, 3000, 4000, 6000, 8000], "seriler": []}}},
+
+    {"id": "ton", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "The method, step by step", "baslik": "Types of *tone*",
+     "maddeler": [{"metin": "Pulsed tone: _easier_ to detect", "cumle": 1, "ikon": "ses_dalgasi"}, {"metin": "Continuous tone: use _consistently_", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Sound field: _frequency-modulated_ tone", "cumle": 3, "ikon": "hoparlor"}],
+     "cumleler": [
+       "Audiometers can present the tone in different ways.",
+       "Pulsed tones, which switch off and on at short intervals, make the sound easier to detect for many patients.",
+       "A continuous tone can also be used; what matters is choosing one presentation mode and using it consistently with each patient.",
+       "In sound field testing through loudspeakers, a frequency-modulated tone is used instead of a pure tone.",
+       "This prevents standing waves from forming in the room and the sound level from fluctuating at the position of the ear."]},
+
+    {"id": "kayit", "tur": "odyogram", "bolum_no": "PART 4", "bolum": "Recording and next steps", "baslik": "Recording the *thresholds*",
+     "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Right ear_: red circle", "cumle": 1}, {"isaret": "X", "renk": "sol", "metin": "_Left ear_: blue cross", "cumle": 2}, {"isaret": "✓", "renk": "yesil", "metin": "_Normal_: up to 25 dB HL", "cumle": 3}],
+     "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [10, 10, 10, 15, 35, 40], "cumle": 1}, {"kulak": "sol", "tip": "hava", "degerler": [10, 15, 15, 20, 40, 45], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal", "cumle": 3}},
+     "cumleler": [
+       "Each threshold is marked right away at the line for that frequency.",
+       "In this example, the right ear air conduction thresholds are shown with a red circle.",
+       "The left ear air conduction thresholds are shown with a blue cross.",
+       "In both ears, thresholds are within normal limits up to two thousand hertz; from four thousand hertz there is a mild drop.",
+       "Symbols for the same ear are joined with a straight line; we will cover recording standards in a separate lesson.",
+       "Marking thresholds as soon as they are found reduces the risk of recording them later at the wrong frequency or for the wrong ear."]},
+
+    {"id": "yanit_yok", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Recording and next steps", "baslik": "If there is *no response*",
+     "maddeler": [{"metin": "No response at the device limit", "cumle": 0, "ikon": "odyometre"}, {"metin": "Symbol at the limit, _down arrow_ below", "cumle": 1, "ikon": "odyogram"}, {"metin": "_Not joined_ to neighboring thresholds", "cumle": 2, "ikon": "yanlis"}, {"metin": "Watch for _vibration_ at low frequencies", "cumle": 3, "ikon": "dokunma"}],
+     "cumleler": [
+       "If there is no response even at the audiometer's maximum output, that frequency is recorded as no response.",
+       "In this case, the symbol is placed at the device limit, with a small downward arrow added below it.",
+       "No-response symbols are not joined to neighboring thresholds with a line.",
+       "Remember that at very high levels, especially at low frequencies, the patient may feel vibration instead of hearing the sound.",
+       "Such a response should not be recorded as a true threshold; it should be noted separately on the audiogram."]},
+
+    {"id": "sonraki_adim", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Recording and next steps", "baslik": "After air *conduction*",
+     "maddeler": [{"metin": "Thresholds not normal: _bone conduction_", "cumle": 0, "ikon": "kemik_vibratoru"}, {"metin": "Large difference between ears: _masking_", "cumle": 1, "ikon": "gurultu"}, {"metin": "_Cross-check_ with speech tests", "cumle": 3, "ikon": "konusma"}],
+     "cumleler": [
+       "If air conduction thresholds are outside normal limits, bone conduction is measured to find the type of loss.",
+       "If there is a large difference between the ears, masking may be needed, because the good ear may hear the sound meant for the poor ear.",
+       "We will see in detail when and how to mask in the clinical masking lessons.",
+       "Speech audiometry results are also compared with pure tone thresholds as a cross-check."]},
+
+    {"id": "ozel", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Recording and next steps", "baslik": "Special *situations*",
+     "maddeler": [{"metin": "For patients who can respond and cooperate", "cumle": 0, "ikon": "hasta_butonu"}, {"metin": "Children: _play_ and visual reward", "cumle": 1, "ikon": "cocuk"}, {"metin": "Fatigue: short _breaks_", "cumle": 2, "ikon": "yasli"}, {"metin": "_State_ the method in the report", "cumle": 3, "ikon": "rapor"}],
+     "cumleler": [
+       "The modified Hughson-Westlake method is designed for people who can understand the instructions and respond with a button.",
+       "In young children, the same threshold logic is adapted with play or visual reinforcement methods.",
+       "In older patients or those who tire quickly, short breaks improve the consistency of responses.",
+       "Whatever method is used, stating the method and the reliability of responses in the report is good practice."]},
+
+    {"id": "hatalar", "tur": "karsilastir", "bolum_no": "PART 5", "bolum": "Common mistakes", "baslik": "*False* responses",
+     "sol": {"ust": "False positive", "maddeler": [{"metin": "_Response_ with no sound", "cumle": 0}, {"metin": "Rhythmic presentation, expectation", "cumle": 1}, {"metin": "Confusion with tinnitus", "cumle": 2}]},
+     "sag": {"ust": "False negative", "maddeler": [{"metin": "_No response_ to a sound", "cumle": 4}, {"metin": "Fatigue, distraction", "cumle": 5}, {"metin": "Misunderstood instructions", "cumle": 5}]},
+     "cumleler": [
+       "A response given when no sound was presented is called a false positive response.",
+       "Rhythmic presentation and the patient guessing while waiting for the next sound increase false positive responses.",
+       "Patients with tinnitus, or ringing in the ears, may confuse the tone with their tinnitus; pulsed tones help here.",
+       "To catch false positive responses, longer silent intervals are left from time to time to see whether a response comes.",
+       "No response when a sound was presented is called a false negative response.",
+       "Fatigue, distraction or misunderstood instructions can cause this."]},
+
+    {"id": "ipucu", "tur": "ipucu", "bolum_no": "PART 5", "bolum": "Common mistakes", "baslik": "Clinical tip",
+     "metin": "If responses become inconsistent, do not speed up: stop, repeat the instructions and return to familiarization if needed. A 1000 Hz retest gap over 5 dB is an early warning.",
+     "cumleler": [
+       "A tip from practice: when responses become inconsistent, stop instead of speeding up.",
+       "Give the instructions again briefly and clearly, and go back to the familiarization step if needed.",
+       "A one thousand hertz retest that differs by more than five decibels is an early sign that such a step is needed.",
+       "Writing a short note on the reliability of responses in the report helps the results to be interpreted correctly."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [{"metin": "Two approaches: _ascending_ and descending", "cumle": 0, "ikon": "grafik"}, {"metin": "Familiarization: 1000 Hz, _30 dB HL_", "cumle": 1, "ikon": "kulaklik"}, {"metin": "Rule: _10 dB_ down, 5 dB up", "cumle": 2, "ikon": "dogru"}, {"metin": "Order: 1000 Hz, highs, _1000 retest_, lows", "cumle": 3, "ikon": "kontrol_listesi"}],
+     "cumleler": [
+       "The threshold can be reached with an ascending or a descending approach; both have their own advantages.",
+       "The test begins at one thousand hertz with familiarization using a clearly audible tone.",
+       "After a response, go down ten decibels; after no response, go up five decibels.",
+       "The frequency order is one thousand hertz, the high frequencies, the one thousand hertz retest and then the low frequencies."]},
+
+    {"id": "test", "tur": "test", "soru": "How is the level changed when the patient does not respond?",
+     "secenekler": ["Lowered by 10 dB", "Raised by 5 dB", "Raised by 10 dB", "Not changed"], "dogru": 1,
+     "aciklama": "Modified Hughson-Westlake: _down 10 dB_ after a response, up 5 dB after none.",
+     "cumleler": [
+       {"yazi": "Test yourself: In the modified Hughson-Westlake method, how is the level changed when the patient does not respond?", "sonra_bekle": 5},
+       "The correct answer is B: it is raised by five decibels.",
+       "The rule in this method is down ten, up five, and the threshold is based on responses on ascending trials."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "How to Perform *Bone-Conduction* Audiometry", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will see how bone conduction thresholds are measured and what the pitfalls of this measurement are.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

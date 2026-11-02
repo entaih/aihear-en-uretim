@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R288_The_Unaided_Ear_EN",
+ "kapak": {
+  "ust": "QUICK FACT #288",
+  "baslik": "The *unaided* ear",
+  "alt": "Late-onset auditory deprivation",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "With bilateral loss and one aid, what happens to the other ear? #shorts",
+  "aciklama": "In some people with bilateral loss who wear only one hearing aid, the word recognition score of the unaided ear declines over time while thresholds stay the same. This is called late-onset auditory deprivation and was first described in 1984.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "binaural"
+  ],
+  "etiketler": [
+   "late-onset auditory deprivation",
+   "bilateral fitting",
+   "binaural amplification",
+   "word recognition",
+   "monaural fitting",
+   "hearing aid",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "With bilateral loss and one aid, what happens to the other ear?",
+  "bilgiler": [
+   "The aided ear's score may stay stable while the unaided ear's drops.",
+   "Meanwhile, thresholds in both ears do not change.",
+   "Fitting that ear later helps some people partly."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "binaural"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #288",
+   "metin": "What happens to *the other ear?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "With bilateral loss and one aid, what happens to the other ear?"
+   ]
+  },
+  {
+   "id": "yoksunluk",
+   "tur": "zincir",
+   "baslik": "Late-onset *deprivation*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Aided ear",
+     "tr": "score stable",
+     "cumle": 0
+    },
+    {
+     "ad": "Unaided ear",
+     "tr": "score drops",
+     "cumle": 1
+    },
+    {
+     "ad": "Thresholds",
+     "tr": "unchanged",
+     "cumle": 2
+    }
+   ],
+   "alt": "Same thresholds, _lower score_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "In some people, the aided ear's word recognition stays stable for years.",
+    "The unaided ear's score, however, declines over time.",
+    "Yet thresholds in both ears have not changed.",
+    "This is called late-onset auditory deprivation.",
+    "Fitting that ear later helps some partly, but not others."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D194",
+ "kaynak_baslik": "Bilateral Fitting, CROS and BiCROS"
+}

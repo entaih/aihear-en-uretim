@@ -1,0 +1,116 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R005_Conductive_Loss_Limit_EN",
+ "kapak": {
+  "ust": "QUICK FACT #5",
+  "baslik": "The *limit* of conductive loss",
+  "alt": "Why does it rarely exceed 60 dB?",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      40,
+      40,
+      35,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does conductive hearing loss rarely exceed 60 dB? #shorts",
+  "aciklama": "Conductive hearing loss usually does not exceed about 60 dB, because louder sounds reach the cochlea through the skull anyway. So a very severe loss is not expected to be explained by a conductive component alone.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "hearing"
+  ],
+  "etiketler": [
+   "conductive hearing loss",
+   "air-bone gap",
+   "bone conduction",
+   "types of hearing loss",
+   "audiogram",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does conductive loss usually stay below sixty decibels?",
+  "bilgiler": [
+   "A problem in the outer or middle ear causes conductive loss.",
+   "This loss usually does not exceed about 60 dB.",
+   "Louder sounds reach the cochlea through the skull anyway."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #5",
+   "metin": "Why does conductive loss stop near *sixty decibels?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does conductive loss usually stay below sixty decibels?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "The *upper limit* of conductive loss",
+   "sayi": "60",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "A problem in the outer or middle ear causes conductive loss.",
+    "This loss usually does not exceed about sixty decibels.",
+    "Louder sounds reach the cochlea through the skull anyway.",
+    "So a very severe loss is not explained by conduction alone."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D004",
+ "kaynak_baslik": "Conductive, Sensorineural and Mixed Hearing Loss"
+}

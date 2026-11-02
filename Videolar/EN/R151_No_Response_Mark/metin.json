@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R151_No_Response_Mark_EN",
+ "kapak": {
+  "ust": "QUICK FACT #151",
+  "baslik": "What *no response* means",
+  "alt": "NR marks the limit of the audiometer",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does a no-response mark mean no hearing at all? #shorts",
+  "aciklama": "If there is no response even at the audiometer's maximum output, it is recorded as no response, or NR. No response does not mean there is no hearing; it only shows that the threshold is worse than the audiometer can measure.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "audiometry"
+  ],
+  "etiketler": [
+   "no response",
+   "NR",
+   "audiogram symbols",
+   "audiometer",
+   "pure-tone audiometry",
+   "reading an audiogram",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does a no-response mark mean no hearing at all?",
+  "bilgiler": [
+   "With no response at maximum output, NR is recorded.",
+   "In air conduction, the symbol sits at the device limit with an outward arrow.",
+   "No response does not mean there is no hearing at all."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "audiometry"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #151",
+   "metin": "Does *no response* mean no hearing?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does a no-response mark mean no hearing at all?"
+   ]
+  },
+  {
+   "id": "nr",
+   "tur": "zincir",
+   "baslik": "The *no response* mark",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Device limit",
+     "tr": "maximum output",
+     "cumle": 0
+    },
+    {
+     "ad": "Slanting arrow",
+     "tr": "pointing outward",
+     "cumle": 1
+    },
+    {
+     "ad": "No line",
+     "tr": "never connected",
+     "cumle": 2
+    }
+   ],
+   "alt": "Threshold _beyond the device limit_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "If even the maximum output gets no response, it is marked NR.",
+    "For air conduction, the symbol sits at the limit, arrow slanting outward.",
+    "No-response symbols are never connected with lines.",
+    "No response does not mean there is no hearing at all.",
+    "It shows the threshold is worse than the device can measure."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D062",
+ "kaynak_baslik": "Audiogram Symbols and Recording Standards"
+}

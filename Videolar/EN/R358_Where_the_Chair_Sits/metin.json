@@ -1,0 +1,87 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R358_Where_the_Chair_Sits_EN",
+ "kapak": {
+  "ust": "QUICK FACT #358",
+  "baslik": "Where the *chair* sits",
+  "alt": "Half a meter in sound field: 6 dB",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does sliding the chair half a meter forward change the result? #shorts",
+  "aciklama": "In sound field testing, the patient's head should be at the point where the calibration was made. A patient sitting half a meter in front of a speaker calibrated at one meter receives, in theory, about 6 decibels more; reflections in the room may make the difference a bit smaller, but the thresholds will still be wrong. Marking the position of the chair on the floor is a simple fix.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "soundfield",
+   "calibration"
+  ],
+  "etiketler": [
+   "sound field testing",
+   "loudspeaker calibration",
+   "inverse square law",
+   "decibel math",
+   "test room",
+   "threshold measurement",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does sliding the chair half a meter forward change the result?",
+  "bilgiler": [
+   "The patient's head should be at the calibration point.",
+   "Half a meter closer gives about 6 dB more, in theory.",
+   "Mark the chair position on the floor."
+  ],
+  "hashtag": [
+   "audiology",
+   "soundfield",
+   "calibration"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #358",
+   "metin": "Does half a meter *matter?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does sliding the chair half a meter forward change the result?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Half a meter closer: *extra*",
+   "sayi": "6",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "In sound field testing, the head must be at the calibration point.",
+    "Calibrated at one meter, the speaker is louder at half a meter.",
+    "In theory, the difference is about six decibels.",
+    "Reflections may shrink it a bit, but thresholds will still be wrong.",
+    "Marking the chair position on the floor is a simple fix."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D014",
+ "kaynak_baslik": "Decibel Math: Adding Sounds and Distance Effects"
+}

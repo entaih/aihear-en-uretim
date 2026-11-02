@@ -1,0 +1,126 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R213_What_Clicks_Miss_EN",
+ "kapak": {
+  "ust": "QUICK FACT #213",
+  "baslik": "What clicks *miss*",
+  "alt": "Click ABR and frequency specificity",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      40,
+      20,
+      15,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does a normal click ABR mean a normal audiogram? #shorts",
+  "aciklama": "A click is a broadband stimulus, but the click ABR mainly reflects the region of about 2000 to 4000 Hz. In an ear with low-frequency loss, the click ABR threshold can be normal; so stimuli such as tone bursts are used for frequency-specific threshold estimation.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ABR",
+   "audiogram"
+  ],
+  "etiketler": [
+   "click ABR",
+   "tone burst",
+   "frequency specificity",
+   "threshold estimation",
+   "ABR stimuli",
+   "chirp",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does a normal click ABR mean a normal audiogram?",
+  "bilgiler": [
+   "The click ABR mainly reflects about 2000 to 4000 Hz.",
+   "With low-frequency loss, the click ABR threshold can be normal.",
+   "Tone bursts are used for frequency-specific estimates."
+  ],
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "audiogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #213",
+   "metin": "Normal click ABR, *normal audiogram?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does a normal click ABR mean a normal audiogram?"
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "zincir",
+   "baslik": "What a click *reflects*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Click",
+     "tr": "broadband",
+     "cumle": 0
+    },
+    {
+     "ad": "2-4 kHz",
+     "tr": "main source",
+     "cumle": 1
+    },
+    {
+     "ad": "Tone burst",
+     "tr": "frequency-specific",
+     "cumle": 4
+    }
+   ],
+   "alt": "A normal click ABR _is not normal everywhere_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "A click briefly excites a wide part of the cochlea at once.",
+    {
+     "yazi": "But the click ABR mainly reflects about 2000 to 4000 Hz.",
+     "ses": "But the click ABR mainly reflects about two to four thousand hertz."
+    },
+    "In this example, low frequencies show moderate loss; high frequencies are normal.",
+    "In such an ear, the click ABR threshold can be near normal.",
+    "Tone bursts and similar stimuli are used for frequency-specific thresholds."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D128",
+ "kaynak_baslik": "ABR Stimuli: Clicks, Tone Bursts and Chirps"
+}

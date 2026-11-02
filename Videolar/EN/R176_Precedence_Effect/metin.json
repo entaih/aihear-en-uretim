@@ -1,0 +1,105 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R176_Precedence_Effect_EN",
+ "kapak": {
+  "ust": "QUICK FACT #176",
+  "baslik": "Why echoes *stay hidden*",
+  "alt": "The precedence effect",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "In a reverberant room, why do we hear sound from its source? #shorts",
+  "aciklama": "In a closed room, the direct sound reaches the ear first, and reflections arrive a few milliseconds later from other directions. With a short delay, a reflection fuses with the first sound, and the sound is heard from the direction of the first arrival; this is the precedence effect.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "acoustics"
+  ],
+  "etiketler": [
+   "precedence effect",
+   "echo",
+   "echo threshold",
+   "sound localization",
+   "room acoustics",
+   "reverberation",
+   "psychoacoustics",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "In a reverberant room, why do we hear sound from its source?",
+  "bilgiler": [
+   "The direct sound arrives first; reflections come a few milliseconds later.",
+   "With a short delay, they fuse; direction follows the first sound.",
+   "That is why lecture halls add a small delay to rear loudspeakers."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "acoustics"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #176",
+   "metin": "Why does sound come from the *source?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "In a reverberant room, why do we hear sound from its source?"
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "zincir",
+   "baslik": "The *precedence* effect",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Direct",
+     "tr": "arrives first",
+     "cumle": 0
+    },
+    {
+     "ad": "Reflection",
+     "tr": "ms later",
+     "cumle": 1
+    },
+    {
+     "ad": "Fusion",
+     "tr": "first sound wins",
+     "cumle": 2
+    }
+   ],
+   "alt": "Lecture hall: sound seems to come _from the stage_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The direct sound takes the shortest path, so it arrives first.",
+    "Reflections arrive a few milliseconds later, from other directions.",
+    "With a short delay, they fuse; direction follows the first sound.",
+    "This is called the precedence effect.",
+    "That is why halls add a small delay to rear loudspeakers."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D084",
+ "kaynak_baslik": "Sound Localization and Binaural Perception"
+}

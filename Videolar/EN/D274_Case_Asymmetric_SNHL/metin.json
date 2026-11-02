@@ -1,0 +1,1128 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D274_Case_Asymmetric_SNHL_EN",
+ "kapak": {
+  "ust": "LESSON 274",
+  "baslik": "Case: an *asymmetric*<br>loss",
+  "alt": "Poor speech score, reflex findings",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      20,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      35,
+      50,
+      60,
+      65
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Case: Asymmetric SNHL with Poor Word Recognition | Lesson 274 | AIHEAR Audiology Academy",
+  "aciklama": "We assess a fictional adult case of asymmetric sensorineural hearing loss step by step: applying asymmetry criteria, a disproportionately poor word score and the rollover index, the reflex pattern and reflex decay, a sample ABR finding, ENT referral and report wording.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Jerger and Jerger, Diagnostic significance of PB word functions (1971); Dubno et al., Confidence limits for maximum word-recognition scores (1995).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibularschwannoma",
+   "casestudy"
+  ],
+  "etiketler": [
+   "asymmetric sensorineural hearing loss",
+   "asymmetric hearing loss",
+   "rollover",
+   "rollover index",
+   "acoustic reflex decay",
+   "vestibular schwannoma",
+   "retrocochlear",
+   "ABR",
+   "audiology case",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 274",
+   "baslik": "Case: an *asymmetric* loss",
+   "alt": "Poor speech score and retrocochlear suspicion",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we work through an adult case with asymmetric sensorineural loss and a lower than expected word recognition score.",
+    "We will apply asymmetry criteria, read the rollover and reflex findings, and see the audiologist's role in referral for further testing."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Sample case: *history*",
+   "maddeler": [
+    {
+     "metin": "A sample man, aged fifty-two",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Reduced hearing on the _left_ for a year",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Now holds the phone to the right",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "_One-sided_ tinnitus on the left",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Mild unsteadiness, no vertigo",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "One-sided loss",
+      "metin": "Slowly progressive",
+      "cumle": 1
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "One-sided tinnitus",
+      "metin": "In the same ear",
+      "cumle": 3
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Unsteadiness",
+      "metin": "Mild, constant",
+      "cumle": 4
+     }
+    ],
+    "ust": "RED FLAGS"
+   },
+   "cumleler": [
+    "Our case is a fictional example: a fifty-two-year-old man comes in with reduced hearing in his left ear.",
+    "The complaint has been present for about a year and has grown slowly; he describes no sudden onset.",
+    "He noticed the loss when he could not understand speech after holding the phone to his left ear out of habit.",
+    "There is constant, high-pitched tinnitus in the left ear; there is no tinnitus in the right ear.",
+    "He describes an occasional mild feeling of unsteadiness, but no spinning attacks of vertigo.",
+    "There is no history of noise exposure, firearm use, ear surgery or head trauma."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram and asymmetry",
+   "baslik": "A *sensorineural* loss in the left ear",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: mild high-frequency slope",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left_: masked bone conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       25,
+       25,
+       30
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       55,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       20,
+       25,
+       35,
+       45,
+       50,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     8000
+    ]
+   },
+   "cumleler": [
+    "Otoscopy is normal in both ears; right thresholds slope slightly toward the high frequencies and can be considered age-related.",
+    "In the left ear there is a loss that grows clearly above 1000 hertz; thresholds are 50 dB HL at 2000 hertz and 65 dB HL at 8000 hertz.",
+    "Left bone conduction, measured with the right ear masked, overlaps air conduction, so the loss is sensorineural.",
+    "Had it been measured unmasked, left bone conduction might have come from the right cochlea, showing a false air-bone gap.",
+    "Testing used insert earphones; left air minus right bone conduction stayed below interaural attenuation, so no masking was needed.",
+    "The picture is consistent with an asymmetric sensorineural hearing loss in the left ear.",
+    "Now let us test whether this asymmetry is significant with the criteria we saw in an earlier lesson."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram and asymmetry",
+   "baslik": "*Apply* the criteria",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Two adjacent frequencies",
+     "metin": "2 and 3 kHz: 30 dB",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "The 3000 rule",
+     "metin": "3 kHz: 30 dB difference",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "20 at one frequency",
+     "metin": "4 kHz: 35 dB difference",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "A commonly used criterion counts a difference of 15 dB or more at two adjacent frequencies as significant.",
+    "In our case the difference is 30 dB at 2000 hertz and again 30 dB at 3000 hertz; the criterion is met.",
+    "The 3000 rule, which looks only at 3000 hertz, also has its 15 dB limit clearly exceeded.",
+    "In protocols looking for 20 dB at a single frequency, the 35 dB difference at 4000 hertz is also enough.",
+    "So whichever criterion we use, this asymmetry is significant; the report names the criterion used.",
+    "The history has no noise, trauma or ear disease to explain the asymmetry, and one-sided tinnitus and unsteadiness come with it."
+   ]
+  },
+  {
+   "id": "aciklama",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram and asymmetry",
+   "baslik": "Is there an explaining *cause*?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "One-sided noise",
+     "metin": "Firearms, heavy machinery",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ear history",
+     "metin": "Surgery, chronic disease",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Earlier attacks",
+     "metin": "Meniere's, sudden loss",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "In this case",
+     "metin": "No explaining cause",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "When an asymmetry is found, the first question is whether a known cause can explain it; for example, one-sided noise exposure.",
+    "Past chronic ear disease or ear surgery can also cause more loss in one ear.",
+    "Meniere's disease or an earlier sudden hearing loss can also leave a one-sided sensorineural loss.",
+    "Our case has none of these causes, which makes the asymmetry an unexplained finding.",
+    "Even when a known cause is found, referral is still made if the explanation is not enough."
+   ]
+  },
+  {
+   "id": "anatomi",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram and asymmetry",
+   "baslik": "Why does it need *attention*?",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "koklear_sinir",
+     "metin": "cochlear nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "vestibular nerves",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "facial nerve",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Nerves run _side by side_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tumor is _benign_, slow",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "The _physician_ diagnoses",
+     "cumle": 5,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "An unexplained asymmetry may call for imaging of the internal auditory canal or the cerebellopontine angle.",
+    "In this region the cochlear nerve, the vestibular nerves and the facial nerve run side by side.",
+    "The most common tumor here is the vestibular schwannoma, which arises from the Schwann cells of the vestibular nerve.",
+    "The tumor is benign and usually grows slowly; as it grows it can press on the cochlear nerve and the cochlea's blood supply.",
+    "One-sided loss, one-sided tinnitus and mild unsteadiness are among the most common signs of this tumor.",
+    "But most of these signs also have other causes; the audiologist notes the possibility, while the physician and imaging make the diagnosis."
+   ]
+  },
+  {
+   "id": "pipb",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Speech tests",
+   "baslik": "*Rollover* in the left ear",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 100,
+     "adim": 10,
+     "ad": "Presentation level (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Word recognition (%)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        25,
+        20
+       ],
+       [
+        35,
+        70
+       ],
+       [
+        45,
+        92
+       ],
+       [
+        55,
+        96
+       ],
+       [
+        65,
+        96
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "right",
+      "cumle": 0
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        45,
+        8
+       ],
+       [
+        55,
+        30
+       ],
+       [
+        65,
+        48
+       ],
+       [
+        75,
+        60
+       ],
+       [
+        85,
+        40
+       ],
+       [
+        90,
+        28
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "left",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "pbmax",
+      "x": 75,
+      "y": 60,
+      "dus": "x",
+      "etiket": "maximum: 60%",
+      "cumle": 2
+     },
+     {
+      "ad": "pbmin",
+      "x": 90,
+      "y": 28,
+      "dus": "x",
+      "etiket": "28%",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Right: _96 percent_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Left: _lower_ than expected",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Index _0.53_: rollover",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The right word recognition score is 96 percent, consistent with the degree of loss.",
+    "In the left ear, with the right ear masked, scores were measured at several levels; this curve is a performance-intensity function.",
+    "The highest left score is 60 percent, at 75 dB HL.",
+    "For an ear with a pure-tone average of about 37 dB, this score is clearly lower than expected.",
+    "When the level rises to 90 dB HL the score drops to 28 percent; a falling score at high levels is called rollover.",
+    "The rollover index is the difference between the highest and lowest scores divided by the highest: sixty minus twenty eight, over sixty.",
+    "The result is about zero point five three, above the zero point four five criterion proposed for the Jerger and Jerger lists."
+   ]
+  },
+  {
+   "id": "skor",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Speech tests",
+   "baslik": "What does a low score *tell us?*",
+   "maddeler": [
+    {
+     "metin": "Score _disproportionately_ low for the loss",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Rollover_ at high levels",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Recorded material, proper masking",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Not diagnostic on its own",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Cochlear",
+      "metin": "Score matches the loss",
+      "cumle": 1
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "Retrocochlear",
+      "metin": "Score disproportionately low",
+      "cumle": 0
+     }
+    ],
+    "ust": "COMPARE"
+   },
+   "cumleler": [
+    "A word score that is disproportionately low for the degree of loss is a retrocochlear warning sign.",
+    "Marked rollover at high levels points the same way; in cochlear losses the score is usually maintained at high levels.",
+    "The confidence limits published by Dubno and colleagues show the lowest expected score for a given pure-tone average.",
+    "For this comparison to be valid, recorded material must be used and the opposite ear must be masked at a suitable level.",
+    "Still, scores can fluctuate on short lists, and rollover is not seen in every retrocochlear problem; the finding is part of the battery."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Reflex findings",
+   "baslik": "Acoustic *reflexes*",
+   "sutunlar": [
+    "Measure",
+    "500 Hz",
+    "1000 Hz",
+    "2000 Hz"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Right ipsi",
+      "85",
+      "85",
+      "90"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Right contra",
+      "90",
+      "90",
+      "95"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Left ipsi",
+      "90",
+      "Absent",
+      "Absent"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Left contra",
+      "95",
+      "Absent",
+      "Absent"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Tympanograms are type A in both ears; the middle ear systems are normal.",
+    "With the stimulus in the right ear, reflexes are at expected levels in both ipsilateral and contralateral measures.",
+    "With the stimulus in the left ear, there is no reflex at 1000 and 2000 hertz; at 500 hertz it appears only at 90 dB HL.",
+    "The left threshold at 1000 hertz is 35 dB HL; a cochlear loss of this degree does not usually abolish the reflex.",
+    "An absent or elevated reflex when the affected ear receives the stimulus suggests a problem in the sensory limb of the reflex arc.",
+    "This pattern is consistent with the retrocochlear pattern we saw in the lesson on reflex patterns."
+   ]
+  },
+  {
+   "id": "adaptasyon",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Reflex findings",
+   "baslik": "Reflex *decay*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Time (seconds)"
+    },
+    "y": {
+     "min": 0,
+     "max": 110,
+     "adim": 25,
+     "ad": "Reflex amplitude (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        100
+       ],
+       [
+        2,
+        99
+       ],
+       [
+        4,
+        97
+       ],
+       [
+        6,
+        95
+       ],
+       [
+        8,
+        94
+       ],
+       [
+        10,
+        92
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "normal",
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        0,
+        100
+       ],
+       [
+        1,
+        92
+       ],
+       [
+        2,
+        78
+       ],
+       [
+        3,
+        62
+       ],
+       [
+        4,
+        48
+       ],
+       [
+        5,
+        38
+       ],
+       [
+        6,
+        31
+       ],
+       [
+        8,
+        23
+       ],
+       [
+        10,
+        18
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "left, 500 Hz",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yari",
+      "y": [
+       0,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "below half",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dort",
+      "x": 4,
+      "y": 48,
+      "dus": "x",
+      "etiket": "about 4 s",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "At 500 hertz, where a left reflex was present, a decay test was done: a ten-second tone 10 dB above the reflex threshold.",
+    "The dashed gray line shows amplitude maintained for ten seconds in a normal ear.",
+    "In the left ear, amplitude falls quickly within a few seconds and drops below half at about four seconds.",
+    "Amplitude falling below half within ten seconds is positive reflex decay and suggests retrocochlear pathology.",
+    "A negative result would not rule out a retrocochlear problem; the finding is always interpreted as part of the battery."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "The findings *together*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Asymmetry",
+     "metin": "Significant on every criterion",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech",
+     "metin": "Disproportionately low, rollover",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Reflexes",
+     "metin": "Absent with left stimulus, decay",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Symptoms",
+     "metin": "One-sided tinnitus",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Let us bring the findings together: an unexplained sensorineural asymmetry, confirmed with masking and significant on every criterion.",
+    "A word score disproportionately low for the degree of loss, with marked rollover.",
+    "Absent or elevated reflexes when the left ear is stimulated, and positive reflex decay.",
+    "These come with one-sided tinnitus and mild unsteadiness in the same ear.",
+    "None of these findings is conclusive alone, but together they strongly support looking for a retrocochlear cause."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "The referral *process*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Verify",
+     "metin": "Masking, retest",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Report",
+     "metin": "Criterion and findings",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Refer",
+     "metin": "ENT physician",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Physician decides",
+     "metin": "MRI or ABR",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Follow up",
+     "metin": "Check the visit happened",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The first step is to verify the asymmetry: is masking adequate, and are the thresholds the same on retest?",
+    "The report clearly includes the asymmetry criterion used, the speech and reflex findings and the accompanying symptoms.",
+    "The person is referred to an ENT physician with the findings; the referral note asks for assessment from a retrocochlear standpoint.",
+    {
+     "yazi": "The physician decides on imaging and method; the gold standard is magnetic resonance imaging, or MRI, with contrast or special sequences.",
+     "ses": "The physician decides on imaging and method; the gold standard is magnetic resonance imaging, or M R I, with contrast or special sequences."
+    },
+    "In some centers, the auditory brainstem response, or ABR, is also added to the battery according to protocol.",
+    "The audiologist checks whether the person reached the physician and schedules a follow-up visit."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "A sample *ABR* finding",
+   "cizim": "abr",
+   "ayar": {
+    "i_v_uzama": 0.8
+   },
+   "etiketler": [
+    {
+     "parca": "latans_I_V",
+     "metin": "I-V: 4.8 ms",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Right: I-V about _4.0 ms_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Left: I-V about _4.8 ms_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "A normal ABR does not replace MRI",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Let us look at a sample ABR recording made according to the center's protocol.",
+    {
+     "yazi": "In the right ear, waves I, III and V are at expected latencies; the I-V interval is about four milliseconds.",
+     "ses": "In the right ear, waves one, three and five are at expected latencies; the one to five interval is about four milliseconds."
+    },
+    {
+     "yazi": "In the left ear, wave I is visible but wave V is delayed; the I-V interval is about 4.8 milliseconds.",
+     "ses": "In the left ear, wave one is visible but wave five is delayed; the one to five interval is about 4.8 milliseconds."
+    },
+    {
+     "yazi": "If the I-V interval exceeds about 4.4 to 4.5 milliseconds, a retrocochlear delay is suggested.",
+     "ses": "If the one to five interval exceeds about 4.4 to 4.5 milliseconds, a retrocochlear delay is suggested."
+    },
+    "Remember: with small tumors the ABR can be normal; a normal ABR does not replace imaging.",
+    {
+     "yazi": "This result is not a diagnosis either; it is an additional finding that supports the physician's MRI decision.",
+     "ses": "This result is not a diagnosis either; it is an additional finding that supports the physician's M R I decision."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not play down the asymmetry, and do not alarm the person either; explain the finding clearly and always check that they saw the physician.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: when making the referral, speak without alarming the person, but without playing down the finding.",
+    "For example, you can say: the difference between your ears is larger than expected; your physician's assessment matters to find out why.",
+    "Words like tumor or cancer, or percentages of likelihood, are not things for the audiologist to say.",
+    "Asking whether the person went to the appointment makes sure the referral reaches an outcome."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "Sample *report* wording",
+   "maddeler": [
+    {
+     "metin": "Left: asymmetric sensorineural hearing loss",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "State the asymmetry criterion used",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Disproportionately low score, rollover 0.53",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "No reflex with left stimulus, decay",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Recommendation: ENT, retrocochlear assessment",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        15,
+        20,
+        25,
+        30
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Pure tones: left mild to moderate sensorineural hearing loss increasing toward high frequencies; right ear consistent with age.",
+    "Asymmetry: significant by our clinic protocol's criterion of 15 dB at two adjacent frequencies.",
+    "Speech: left word recognition score disproportionately low for the loss; rollover index zero point five three.",
+    "Immittance: type A tympanograms; reflexes absent or elevated with left stimulation, positive reflex decay at 500 hertz.",
+    "Recommendation: referral to an ENT physician for retrocochlear assessment, and a follow-up audiogram when the physician sees fit."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "The *audiologist* afterward",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "If MRI is normal",
+     "metin": "Monitoring at set intervals",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "If there is a tumor",
+     "metin": "The medical team weighs options",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Serial measures",
+     "metin": "Course of thresholds and scores",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing support",
+     "metin": "Hearing aid or CROS",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "If the MRI is normal, the person may still be followed audiologically at set intervals to see whether the loss progresses.",
+     "ses": "If the M R I is normal, the person may still be followed audiologically at set intervals to see whether the loss progresses."
+    },
+    "If a tumor is found, the medical team weighs options such as monitoring, surgery or radiotherapy.",
+    "Throughout this process, the audiologist documents the course of hearing with serial audiograms and speech scores.",
+    {
+     "yazi": "Depending on remaining hearing and the speech score, a hearing aid or a CROS system that routes sound to the other side can be discussed.",
+     "ses": "Depending on remaining hearing and the speech score, a hearing aid or a cross system that routes sound to the other side can be discussed."
+    },
+    "Since a low speech score can limit the expected benefit of a device, expectations are discussed realistically from the start."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Report asymmetry by the criterion's name",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Disproportionate low score, rollover: warning",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Absent reflex, decay: retrocochlear pattern",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Physician orders MRI; audiologist refers",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Asymmetric sensorineural loss is confirmed with masking and reported with the name of the criterion used.",
+    "A word score disproportionately low for the loss, and rollover, are retrocochlear warning signs.",
+    "Absent reflexes when the affected ear is stimulated, and positive reflex decay, point the same way.",
+    "The physician decides on imaging; the audiologist's role is to verify the finding, report it and follow up on the referral."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "The ABR is normal. What does it mean?",
+   "secenekler": [
+    "There is definitely no tumor",
+    "It does not rule out a small tumor",
+    "MRI is no longer needed",
+    "The asymmetry is ignored"
+   ],
+   "dogru": 1,
+   "aciklama": "With small tumors the ABR _can be normal_; the imaging decision is the physician's.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a person with asymmetric loss, the ABR is normal. What does this result mean?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: it does not rule out a small tumor.",
+    {
+     "yazi": "The ABR has low sensitivity for small tumors; the gold standard is MRI, and the physician decides on imaging.",
+     "ses": "The ABR has low sensitivity for small tumors; the gold standard is M R I, and the physician decides on imaging."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: *Fluctuating* Low-Frequency Loss in Meniere's",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case we will look at an adult with a fluctuating low-frequency loss followed with serial audiograms.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

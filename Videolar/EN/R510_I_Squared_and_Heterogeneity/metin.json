@@ -1,0 +1,255 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R510_I_Squared_and_Heterogeneity_EN",
+ "kapak": {
+  "ust": "QUICK FACT #510",
+  "baslik": "Do studies *agree?*",
+  "alt": "Heterogeneity and I²",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 14,
+    "adim": 2,
+    "ad": "Mean difference (points); right favors device"
+   },
+   "y": {
+    "min": 0,
+    "max": 7,
+    "adim": 1,
+    "ters": true,
+    "yazilar": {
+     "1": "Study A",
+     "2": "Study B",
+     "3": "Study C",
+     "4": "Study D",
+     "5": "Study E",
+     "6": "Overall"
+    }
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "noktalar": [
+      [
+       1,
+       1
+      ],
+      [
+       7,
+       1
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "b",
+     "noktalar": [
+      [
+       2.5,
+       2
+      ],
+      [
+       9.5,
+       2
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "c",
+     "noktalar": [
+      [
+       -2,
+       3
+      ],
+      [
+       6,
+       3
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 3
+    },
+    {
+     "ad": "d",
+     "noktalar": [
+      [
+       3,
+       4
+      ],
+      [
+       7,
+       4
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "e",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       13,
+       5
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "tahminler",
+     "tur": "nokta",
+     "noktalar": [
+      [
+       4,
+       1
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       2,
+       3
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       7,
+       5
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 1
+    },
+    {
+     "ad": "elmas",
+     "noktalar": [
+      [
+       3.4,
+       6
+      ],
+      [
+       4.8,
+       5.7
+      ],
+      [
+       6.2,
+       6
+      ],
+      [
+       4.8,
+       6.3
+      ],
+      [
+       3.4,
+       6
+      ]
+     ],
+     "renk": "sari",
+     "dolgu": true,
+     "cumle": 5
+    }
+   ],
+   "bolgeler": [],
+   "isaretler": [
+    {
+     "ad": "sifir",
+     "x": 0,
+     "cizgi": "dikey",
+     "etiket": "no effect",
+     "cumle": 2
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How is agreement between studies in a meta-analysis measured? #shorts",
+  "aciklama": "Heterogeneity means the results of the studies in a meta-analysis differ more than chance can explain. As a numerical measure, the I² statistic is given; it shows, as a percentage, how much of the variation comes from real differences. According to the Cochrane Handbook, an I² below 40 percent may often be unimportant, while above 75 percent is read as very high heterogeneity and calls a single pooled result into question; these limits are a rough guide.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "evidencebased",
+   "research"
+  ],
+  "etiketler": [
+   "meta-analysis",
+   "heterogeneity",
+   "I squared",
+   "Cochrane",
+   "systematic review",
+   "evidence-based audiology",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How is agreement between studies in a meta-analysis measured?",
+  "bilgiler": [
+   "Heterogeneity is variation that chance cannot explain.",
+   "An I² below 40 percent may often be unimportant.",
+   "Above 75 percent is very high heterogeneity."
+  ],
+  "hashtag": [
+   "audiology",
+   "evidencebased",
+   "research"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #510",
+   "metin": "How much *agreement?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How is agreement between studies in a meta-analysis measured?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Very high *heterogeneity*",
+   "sayi": "75",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Heterogeneity means results differ more than chance can explain.",
+    {
+     "yazi": "Its measure is the I² statistic: the share from real differences.",
+     "ses": "Its measure is the I squared statistic: the share from real differences."
+    },
+    "Per the Cochrane Handbook, below forty percent may often be unimportant.",
+    "Above seventy five percent is very high, questioning a single pooled result."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D299",
+ "kaynak_baslik": "Evidence-Based Audiology: Reading Systematic Reviews"
+}

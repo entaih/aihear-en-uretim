@@ -1,0 +1,275 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D001_What_Is_An_Audiogram_EN",
+  "kapak": {
+    "ust": "LESSON 1",
+    "baslik": "Reading an<br>*audiogram*",
+    "alt": "Axes, symbols, degree and type",
+    "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [
+      {"kulak": "sag", "tip": "hava", "degerler": [10, 10, 15, 15, 20, 25]},
+      {"kulak": "sol", "tip": "hava", "degerler": [15, 15, 20, 35, 50, 55]}]}
+  },
+  "youtube": {
+    "baslik": "What Is an Audiogram and How Do You Read It? | Lesson 01 | AIHEAR Audiology Academy",
+    "aciklama": "We learn the frequency and dB HL axes of the audiogram and the symbols for the right and left ears and for air and bone conduction. Then we use sample audiograms to read the degree, type and configuration of a hearing loss step by step.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Audiometric Symbols (1990); ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "audiogram", "hearing"],
+    "etiketler": ["audiogram", "how to read an audiogram", "air conduction", "bone conduction", "dB HL", "pure tone audiometry", "hearing loss", "audiology lessons", "audiology student", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 1", "baslik": "What Is an *Audiogram* and How Do You Read It?",
+     "alt": "Axes, symbols, degree, type and configuration",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this first lesson, we meet the audiogram, the most basic document in the audiology clinic.",
+       "Step by step, we will look at its axes and symbols, and at how to read the degree, type and shape of a hearing loss."]},
+
+    {"id": "tanim", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "What is an audiogram?", "baslik": "What is an *audiogram*?",
+     "maddeler": [
+       {"metin": "A _graph_ of hearing thresholds", "cumle": 0, "ikon": "odyogram"},
+       {"metin": "Obtained by _pure tone audiometry_", "cumle": 1, "ikon": "odyometre"},
+       {"metin": "Each ear is tested _separately_", "cumle": 3, "ikon": "kulak"},
+       {"metin": "Air and _bone conduction_ are measured", "cumle": 4, "ikon": "kemik_vibratoru"}],
+     "yan": {"tur": "kart", "ust": "THRESHOLD", "metin": "The *lowest* level heard on about half of the trials", "cumle": 2},
+     "cumleler": [
+       "An audiogram is a graph that shows a person's hearing thresholds at different frequencies.",
+       "These thresholds are measured with pure tone audiometry, that is, by presenting pure tones of a single frequency.",
+       "The threshold is the lowest intensity at which the person hears the sound on about half of the trials.",
+       "Each ear is tested separately, and the results are shown on one graph or on two separate graphs.",
+       "Thresholds are measured by two routes: air conduction and bone conduction.",
+       "Comparing these two routes tells us which part of the ear the hearing loss comes from."]},
+
+    {"id": "olcum", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "What is an audiogram?", "baslik": "*How* are thresholds measured?",
+     "cizim": "odyometre",
+     "etiketler": [
+       {"parca": "cihaz", "metin": "Audiometer", "cumle": 0},
+       {"parca": "kulaklik", "metin": "Earphones: air conduction", "cumle": 1},
+       {"parca": "kemik_vibratoru", "metin": "Bone vibrator", "cumle": 3},
+       {"parca": "hasta_butonu", "metin": "Response button", "cumle": 5}],
+     "notlar": [
+       {"metin": "Air: outer, middle and inner ear", "cumle": 2, "ikon": "kulaklik"},
+       {"metin": "Bone: directly to the inner ear", "cumle": 4, "ikon": "kemik_vibratoru"},
+       {"metin": "Down 10 dB, up 5 dB", "cumle": 6, "ikon": "grafik"}],
+     "cumleler": [
+       "Thresholds are measured with a device called an audiometer, which produces pure tones.",
+       "In air conduction testing, the sound is delivered through supra-aural or insert earphones.",
+       "This sound passes through the outer, middle and inner ear, so it tests the whole auditory pathway.",
+       "In bone conduction testing, a bone vibrator is placed on the mastoid bone behind the ear.",
+       "The vibrator vibrates the skull and carries sound to the inner ear, largely bypassing the outer and middle ear.",
+       "Each time the patient hears the sound, they press a button or raise a hand.",
+       "The threshold is usually found with a simple rule: down ten decibels after a response, up five decibels after no response."]},
+
+    {"id": "yatay", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "The axes", "baslik": "Horizontal axis: *frequency*",
+     "maddeler": [
+       {"metin": "Unit: _hertz_ (Hz)", "cumle": 0, "ikon": "ses_dalgasi"},
+       {"metin": "Left to right: _low to high pitch_", "cumle": 1, "ikon": "muzik"},
+       {"metin": "Routine range: _250 to 8000 Hz_", "cumle": 2, "ikon": "odyometre"},
+       {"metin": "Interoctave frequencies: _1500, 3000, 6000 Hz_", "cumle": 4, "ikon": "odyogram"}],
+     "yan": {"tur": "kart", "ust": "OCTAVE", "metin": "An interval where the frequency *doubles*", "cumle": 3},
+     "cumleler": [
+       "The horizontal axis of the audiogram shows frequency, and its unit is the hertz.",
+       "Frequency increases from left to right, so low-pitched sounds are on the left and high-pitched sounds on the right.",
+       "Routine testing usually covers the frequencies from two hundred fifty to eight thousand hertz.",
+       "These frequencies are spaced one octave apart, and the frequency doubles with each octave.",
+       "If two neighboring octaves differ markedly, interoctave frequencies such as fifteen hundred or three thousand hertz are also tested.",
+       "The human ear can hear from about twenty to twenty thousand hertz.",
+       "The most important region for understanding speech lies roughly between five hundred and four thousand hertz."]},
+
+    {"id": "dikey", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "The axes", "baslik": "Vertical axis: *hearing level*",
+     "maddeler": [
+       {"metin": "Unit: _dB HL_", "cumle": 0, "ikon": "hoparlor"},
+       {"metin": "_0 dB HL_: average threshold of young adults", "cumle": 1, "ikon": "kulak"},
+       {"metin": "Lower on the chart: _louder_ sound", "cumle": 3, "ikon": "gurultu"},
+       {"metin": "Range: _-10 to 120 dB HL_", "cumle": 4, "ikon": "odyogram"}],
+     "yan": {"tur": "kart", "ust": "NOTE", "metin": "0 dB HL does not mean *silence*", "cumle": 2},
+     "cumleler": [
+       "The vertical axis shows hearing level, measured in decibels hearing level, written dB HL for short.",
+       "Zero dB HL corresponds to the average threshold of young adults with normal hearing at each frequency.",
+       "So zero does not mean silence, and values such as minus ten dB HL can also be seen.",
+       "The further down the axis, the louder the sound has to be, which means poorer hearing.",
+       "The graph usually covers the range from minus ten to one hundred twenty dB HL.",
+       "On a standard audiogram, one octave across equals twenty decibels down, so audiograms can be compared."]},
+
+    {"id": "muz", "tur": "gorsel", "bolum_no": "PART 2", "bolum": "The axes", "baslik": "The speech *banana*",
+     "cizim": "konusma_muzu",
+     "notlar": [
+       {"metin": "Vowels: low-pitched and stronger", "cumle": 1, "ikon": "konusma"},
+       {"metin": "s, sh, f: high-pitched and weak", "cumle": 2, "ikon": "ses_dalgasi"},
+       {"metin": "High-frequency loss: consonants are missed", "cumle": 4, "ikon": "kulak_tikali"}],
+     "cumleler": [
+       "When we plot speech sounds on the audiogram, they form a banana-shaped area called the speech banana.",
+       "Vowels are lower in pitch and stronger, so they sit on the left side of the banana and lower down.",
+       "Fricative consonants such as s, sh and f are high-pitched and weak; they sit in the upper right part of the banana.",
+       "A person whose thresholds lie above the banana, at lower decibel levels, can hear these sounds.",
+       "Someone with a high-frequency loss hears the vowels but may miss the high consonants, and says: I hear, but I cannot understand.",
+       "The speech banana is a very useful tool when explaining an audiogram to a patient and their family."]},
+
+    {"id": "isaretler", "tur": "tablo", "bolum_no": "PART 3", "bolum": "Symbols", "baslik": "Audiogram *symbols*",
+     "sutunlar": ["Measurement", "Right ear", "Left ear"],
+     "satirlar": [
+       {"hucreler": ["Air conduction", "O (red)", "X (blue)"], "cumle": 1, "vurgu": true},
+       {"hucreler": ["Air, masked", "Triangle", "Square"], "cumle": 2},
+       {"hucreler": ["Bone conduction", "&lt;", "&gt;"], "cumle": 3},
+       {"hucreler": ["Bone, masked", "[", "]"], "cumle": 4},
+       {"hucreler": ["No response", "Down arrow", "Down arrow"], "cumle": 5}],
+     "cumleler": [
+       "Audiogram symbols are mostly based on the guideline of the American Speech-Language-Hearing Association, or ASHA.",
+       "For air conduction, the right ear is marked with a red circle and the left ear with a blue cross.",
+       "If masking was used, air conduction is marked with a triangle for the right ear and a square for the left ear.",
+       "For bone conduction, a less-than sign is used for the right ear and a greater-than sign for the left ear.",
+       "For masked bone conduction, an opening square bracket is drawn for the right ear and a closing one for the left ear.",
+       "If there is no response even at the maximum output of the audiometer, a downward arrow is added below the symbol.",
+       "Air conduction symbols are joined with a solid line.",
+       "We will cover masking in detail in later lessons; for now, it is enough to recognize the symbols."]},
+
+    {"id": "normal", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Symbols", "baslik": "Example: *normal* hearing",
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Right ear_: air conduction", "cumle": 0},
+       {"isaret": "X", "renk": "sol", "metin": "_Left ear_: air conduction", "cumle": 1},
+       {"isaret": "✓", "renk": "yesil", "metin": "_Normal_: up to 25 dB HL", "cumle": 2}],
+     "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [10, 10, 5, 10, 15, 15], "cumle": 0}, {"kulak": "sol", "tip": "hava", "degerler": [10, 15, 10, 15, 20, 15], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal", "cumle": 2}},
+     "cumleler": [
+       "In this example, we see the air conduction thresholds of the right ear as red circles.",
+       "The thresholds of the left ear are marked with blue crosses.",
+       "In adults, thresholds of twenty five dB HL or better are usually considered within normal limits.",
+       "This limit varies slightly between classifications; the World Health Organization, for example, uses twenty decibels.",
+       "For children, many clinics use a stricter limit, usually fifteen decibels.",
+       "In this example, all thresholds of both ears fall within the green zone, so hearing is within normal limits."]},
+
+    {"id": "uc_soru", "tur": "ikonlar", "bolum_no": "PART 4", "bolum": "Degree and type",
+     "baslik": "Read an audiogram with *three questions*",
+     "ogeler": [
+       {"ikon": "grafik", "baslik": "Degree", "metin": "How much loss?", "cumle": 1},
+       {"ikon": "kulak", "baslik": "Type", "metin": "Where is the loss?", "cumle": 2},
+       {"ikon": "odyogram", "baslik": "Configuration", "metin": "What shape?", "cumle": 3},
+       {"ikon": "kulaklik", "baslik": "Each ear", "metin": "Answered separately", "cumle": 4}],
+     "cumleler": [
+       "When we read an audiogram, we look for the answers to three questions for each ear.",
+       "The first is degree: how large is the loss?",
+       "The second is type: which part of the ear does the loss come from?",
+       "The third is configuration: what shape does the loss take across frequencies?",
+       "We answer these three questions for each ear separately, and then compare the two ears.",
+       "Now let us take these questions one by one."]},
+
+    {"id": "derece", "tur": "tablo", "bolum_no": "PART 4", "bolum": "Degree and type", "baslik": "Degree: *pure tone average*",
+     "sutunlar": ["Degree", "dB HL"],
+     "satirlar": [
+       {"hucreler": ["Normal", "-10 to 25"], "cumle": 2},
+       {"hucreler": ["Mild", "26 to 40"], "cumle": 3, "vurgu": true},
+       {"hucreler": ["Moderate", "41 to 55"], "cumle": 4},
+       {"hucreler": ["Moderately severe", "56 to 70"], "cumle": 4},
+       {"hucreler": ["Severe", "71 to 90"], "cumle": 4},
+       {"hucreler": ["Profound", "91 and above"], "cumle": 4}],
+     "cumleler": [
+       "The degree of loss is usually described with the pure tone average, or PTA.",
+       "In its most common form, it is the average of the air conduction thresholds at five hundred, one thousand and two thousand hertz.",
+       "The average is then graded with a classification like the one in this table.",
+       "For example, an ear with an average threshold of thirty five decibels has a mild loss on this scale.",
+       "Forty five decibels is moderate, and eighty decibels is severe.",
+       "Different organizations use slightly different cut-offs; we will compare them in detail in lesson five."]},
+
+    {"id": "iletim", "tur": "odyogram", "bolum_no": "PART 4", "bolum": "Degree and type", "baslik": "Type: *conductive* loss",
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Air conduction_: right ear", "cumle": 1},
+       {"isaret": "&lt;", "renk": "sag", "metin": "_Bone conduction_: right ear", "cumle": 2}],
+     "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [40, 40, 35, 35, 40, 45], "cumle": 1}, {"kulak": "sag", "tip": "kemik", "degerler": [10, 10, 5, 10, 15], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}, "aralik": {"konum": [1, 10, 40], "etiket": "30 dB", "cumle": 3}},
+     "cumleler": [
+       "To find the type of loss, we compare air conduction with bone conduction.",
+       "In this example, the air conduction thresholds of the right ear lie between thirty five and forty five decibels.",
+       "The bone conduction thresholds, however, remain in the normal zone.",
+       "The difference between the two thresholds is called the air-bone gap; here it is about thirty decibels.",
+       "If bone conduction is normal, air conduction is reduced and the gap is clear, the loss is conductive.",
+       "This pattern suggests that the problem is in the outer or middle ear, while the inner ear is working well."]},
+
+    {"id": "sensorinoral", "tur": "odyogram", "bolum_no": "PART 4", "bolum": "Degree and type",
+     "baslik": "Type: *sensorineural* loss",
+     "lejant": [
+       {"isaret": "X", "renk": "sol", "metin": "_Air conduction_: left ear", "cumle": 1},
+       {"isaret": "&gt;", "renk": "sol", "metin": "_Bone conduction_: left ear", "cumle": 2}],
+     "grafik": {"seriler": [{"kulak": "sol", "tip": "hava", "degerler": [20, 25, 35, 50, 60, 65], "cumle": 1}, {"kulak": "sol", "tip": "kemik", "degerler": [15, 25, 35, 45, 55], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "Now let us look at another example, this time from a left ear.",
+       "The air conduction thresholds get steadily worse toward the high frequencies.",
+       "The bone conduction thresholds closely follow air conduction; the difference does not exceed ten decibels.",
+       "When air and bone conduction drop together like this, we call it a sensorineural hearing loss.",
+       "In this type, the problem lies in the inner ear or the auditory nerve.",
+       "If both air and bone conduction are reduced and there is a significant gap between them, it is called a mixed loss.",
+       "A mixed loss has both a conductive and a sensorineural component; we will look at the types in detail in lesson four."]},
+
+    {"id": "konfigurasyon", "tur": "tablo", "bolum_no": "PART 5", "bolum": "Configuration",
+     "baslik": "Configuration: the *shape* of the loss", "sutunlar": ["Shape", "Appearance"],
+     "satirlar": [
+       {"hucreler": ["Flat", "All frequencies similar"], "cumle": 1},
+       {"hucreler": ["Rising", "Low frequencies worse"], "cumle": 2},
+       {"hucreler": ["Sloping", "High frequencies worse"], "cumle": 3, "vurgu": true},
+       {"hucreler": ["Notched", "Dip in one region"], "cumle": 4},
+       {"hucreler": ["Cookie-bite", "Mid frequencies worse"], "cumle": 5}],
+     "cumleler": [
+       "The third question is configuration, the shape the loss takes across frequencies.",
+       "If the thresholds are similar at all frequencies, it is called a flat configuration.",
+       "If the loss is greater at low frequencies and the curve rises toward the right, we speak of a rising configuration.",
+       "A curve that gets worse toward the high frequencies is a sloping configuration, one of the most common shapes.",
+       "In a notched configuration, there is a clear dip in one frequency region, followed by recovery.",
+       "A shape with greater loss in the mid frequencies is called a cookie-bite."]},
+
+    {"id": "konfig_ornek", "tur": "odyogram", "bolum_no": "PART 5", "bolum": "Configuration",
+     "baslik": "Sloping and *notched* examples",
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Right_: sloping", "cumle": 0},
+       {"isaret": "X", "renk": "sol", "metin": "_Left_: 4000 Hz notch", "cumle": 2}],
+     "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [15, 20, 30, 45, 60, 70], "cumle": 0}, {"kulak": "sol", "tip": "hava", "degerler": [10, 10, 10, 15, 45, 20], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "In this example, the right ear shows a sloping loss that grows steadily toward the high frequencies.",
+       "The low frequencies are within normal limits; from one thousand hertz upward, the thresholds get steadily worse.",
+       "The left ear shows a notch at four thousand hertz; at eight thousand hertz the threshold recovers.",
+       "A notch like this, between three thousand and six thousand hertz, is common in people with long-term noise exposure.",
+       "Still, a notch alone does not establish a diagnosis; it is interpreted together with the history and other tests.",
+       "Configuration gives important clues about the possible causes of a loss and about hearing aid fitting."]},
+
+    {"id": "simetri", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Configuration",
+     "baslik": "*Compare* the two ears",
+     "maddeler": [
+       {"metin": "_Symmetric_ or asymmetric?", "cumle": 1, "ikon": "kulak"},
+       {"metin": "A clear difference: _note it_", "cumle": 2, "ikon": "uyari"},
+       {"metin": "Report: _degree, type, configuration_", "cumle": 3, "ikon": "rapor"}],
+     "cumleler": [
+       "In the last step, we compare the two ears with each other.",
+       "If the thresholds of the two ears are close, the loss is symmetric; if they differ clearly, it is asymmetric.",
+       "Criteria for asymmetry vary between sources, but a clear difference is always noted and may need further evaluation.",
+       "Finally, the report states the degree, type and configuration for each ear.",
+       "A sample statement could be: moderate, sloping, sensorineural hearing loss in the right ear."]},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical tip",
+     "metin": "Check the legend before you start reading: the earphones used, masking and no-response points directly change your interpretation.",
+     "cumleler": [
+       "A useful habit in the clinic: check the legend before you start reading an audiogram.",
+       "Which earphones were used, whether masking was applied and which points had no response all directly change the interpretation.",
+       "For example, an unmasked bone conduction threshold may actually be the response of the opposite ear.",
+       "And do not read a point with an arrow as a true threshold; it only tells us there was no response up to the audiometer limit."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [
+       {"metin": "Horizontal axis *frequency*, vertical axis dB HL", "cumle": 0, "ikon": "odyogram"},
+       {"metin": "Right red O, left *blue X*", "cumle": 1, "ikon": "kulaklik"},
+       {"metin": "Air and bone show the *type*", "cumle": 2, "ikon": "kemik_vibratoru"},
+       {"metin": "Order: *degree*, type, configuration", "cumle": 3, "ikon": "kontrol_listesi"}],
+     "cumleler": [
+       "The horizontal axis of the audiogram shows frequency, and the vertical axis shows hearing level in dB HL.",
+       "The right ear is marked with a red circle and the left ear with a blue cross; bone conduction has its own symbols.",
+       "The relationship between air and bone conduction shows whether a loss is conductive, sensorineural or mixed.",
+       "For each ear, we read the degree, type and configuration in that order."]},
+
+    {"id": "test", "tur": "test", "soru": "Bone conduction is normal and air conduction is 40 dB HL. What type of loss is this?",
+     "secenekler": ["Sensorineural", "Conductive", "Mixed", "Normal hearing"], "dogru": 1,
+     "aciklama": "Normal bone conduction with a clear _air-bone gap_: conductive loss.",
+     "cumleler": [
+       {"yazi": "Test yourself: If bone conduction is normal and air conduction is forty dB HL, what type of loss is it?", "sonra_bekle": 5},
+       "The correct answer is B, conductive. Reduced air conduction with normal bone conduction creates a clear air-bone gap."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "What Is Audiology and What Does an Audiologist *Do?*", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will talk about what audiology is and the areas in which an audiologist works.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

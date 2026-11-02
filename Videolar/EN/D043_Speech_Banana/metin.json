@@ -1,0 +1,148 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D043_Speech_Banana_EN",
+  "kapak": {
+    "ust": "LESSON 43",
+    "baslik": "The speech<br>*banana*",
+    "alt": "Where are speech sounds on the audiogram?",
+    "cizim": "konusma_muzu"
+  },
+  "youtube": {
+    "baslik": "The Speech Banana: Speech Sounds on the Audiogram | Lesson 43 | AIHEAR Audiology Academy",
+    "aciklama": "Speech sounds fall in a banana-shaped region on the audiogram. In this lesson, we use a sample audiogram to look at the frequency and intensity of speech, the long-term average speech spectrum (LTASS), where vowels and consonants sit on the audiogram and which sounds are missed with hearing loss.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; Byrne et al., An international comparison of long-term average speech spectra (Journal of the Acoustical Society of America, 1994); Mueller and Killion, An easy method for calculating the articulation index (The Hearing Journal, 1990); Ling, Speech and the Hearing-Impaired Child; ANSI S3.5, Methods for Calculation of the Speech Intelligibility Index.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "speechbanana", "hearing"],
+    "etiketler": ["speech banana", "LTASS", "speech spectrum", "phonemes", "vowels", "consonants", "formants", "Ling six sounds", "speech intelligibility index", "audiogram", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 43", "baslik": "The Speech *Banana*: Speech Sounds on the Audiogram", "alt": "Where do speech sounds fall on the audiogram?",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn where speech sounds fall on the audiogram, in what is called the speech banana.",
+       "Then we will use a sample audiogram to see which sounds are missed with a hearing loss."]},
+
+    {"id": "konusma", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "The acoustics of speech", "baslik": "Speech is a *complex* sound", "maddeler": [{"metin": "Key information: about _250 to 8000 Hz_", "cumle": 1, "ikon": "konusma"}, {"metin": "Each sound has its own frequency and _intensity_", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Normal conversation: about _60 dB SPL_", "cumle": 3, "ikon": "hoparlor"}, {"metin": "Dynamic range: about _30 dB_", "cumle": 4, "ikon": "grafik"}], "yan": {"tur": "cizim", "cizim": "desibel_olcegi", "cumle": 0, "vurgula": [{"parca": "konusma", "cumle": 3}], "etiketler": [{"parca": "konusma", "metin": "Conversation: about 60 dB SPL", "cumle": 3}]},
+     "cumleler": [
+       "Unlike pure tones, speech is a complex sound that contains many frequencies at the same time.",
+       "The information needed to understand speech is spread from about two hundred fifty to eight thousand hertz.",
+       "Each speech sound is concentrated in a different frequency region of this range, at a different intensity.",
+       "The average level of normal conversation at a distance of one meter is about sixty dB SPL.",
+       "There is a dynamic range of about thirty decibels between the strongest and the weakest parts of speech.",
+       "So to hear speech fully, we need to hear not only the average but also the weakest sounds."]},
+
+    {"id": "ltass", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "The acoustics of speech", "baslik": "*LTASS*: the average speech spectrum", "maddeler": [{"metin": "Most energy in the _low_ region", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Level _falls_ toward high frequencies", "cumle": 3, "ikon": "grafik"}, {"metin": "_Similar_ across languages", "cumle": 4, "ikon": "konusma"}], "yan": {"tur": "kart", "ust": "LTASS", "metin": "The *average* energy of long speech by frequency", "cumle": 1},
+     "cumleler": [
+       "To study speech as a whole, we use the long-term average speech spectrum, or LTASS.",
+       "The LTASS shows the average energy in each frequency band over a long stretch of speech.",
+       "Most of the energy of speech is in the low region, between about two hundred fifty and five hundred hertz.",
+       "As frequency rises, the average level gradually falls.",
+       "Comparisons across languages have shown that the average speech spectrum is quite similar from one language to another.",
+       "This similarity makes it easier to use the same hearing aid fitting targets in different languages."]},
+
+    {"id": "unlu_unsuz", "tur": "karsilastir", "bolum_no": "PART 2", "bolum": "Vowels and consonants", "baslik": "Vowels and *consonants*", "sol": {"ust": "Vowels", "maddeler": [{"metin": "_Stronger_", "cumle": 1}, {"metin": "Energy in low and mid range", "cumle": 1}, {"metin": "Identified by _formants_", "cumle": 2}]}, "sag": {"ust": "Consonants", "maddeler": [{"metin": "Mostly _weaker_", "cumle": 3}, {"metin": "Key cues in the high range", "cumle": 3}, {"metin": "Carry distinguishing information", "cumle": 4}]},
+     "cumleler": [
+       "We can roughly divide speech sounds, or phonemes, into two groups: vowels and consonants.",
+       "Vowels are stronger, and their energy is mostly concentrated at low and mid frequencies.",
+       "Each vowel is defined by the position of energy concentrations called formants.",
+       "Most consonants are weaker and carry their key cues at high frequencies.",
+       "Classic texts stress that vowels carry most of the power of speech, while consonants carry much of its distinguishing cues.",
+       "Consonants are also recognized by the brief formant changes they cause as they move into a neighboring vowel."]},
+
+    {"id": "formant", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Vowels and consonants", "baslik": "Vowels and *formants*", "maddeler": [{"metin": "First formant (F1): in the _low_ region", "cumle": 1, "ikon": "ses_dalgasi"}, {"metin": "Second formant (F2): _varies_ by vowel", "cumle": 2, "ikon": "grafik"}, {"metin": "/i/ (ee): F2 in the _high_ region", "cumle": 3, "ikon": "konusma"}, {"metin": "/u/ (oo): F2 in the _low_ region", "cumle": 4, "ikon": "konusma"}, {"metin": "Turkish has _eight_ vowels", "cumle": 5, "ikon": "kitap"}],
+     "cumleler": [
+       "Let us look at vowels a little more closely.",
+       "The first formant of each vowel is usually in the low region and is related to tongue height.",
+       "The second formant changes clearly depending on whether the tongue is toward the front or the back.",
+       "For example, the second formant of the vowel ee is in the high region, above about two thousand hertz.",
+       "The second formant of the vowel oo stays in the low region, at about one thousand hertz or below.",
+       "Turkish has eight vowels; because of these differences, a person with high-frequency loss may confuse some vowels too."]},
+
+    {"id": "muz", "tur": "gorsel", "bolum_no": "PART 2", "bolum": "Vowels and consonants", "baslik": "The speech *banana*", "cizim": "konusma_muzu", "notlar": [{"metin": "Low and strong: vowels, /m/, /n/", "cumle": 1, "ikon": "hoparlor"}, {"metin": "Mid to high: /sh/, /ch/, /k/, /t/", "cumle": 3, "ikon": "konusma"}, {"metin": "High and soft: /s/, /f/", "cumle": 4, "ikon": "sessizlik"}], "vurgula": [{"parca": "muz", "cumle": 0}, {"parca": "unluler", "cumle": 1}, {"parca": "unsuzler", "cumle": 3}],
+     "cumleler": [
+       "When we place speech sounds on the audiogram, a banana-shaped region appears; this is called the speech banana.",
+       "On the left and lower side of the banana, the low and stronger region, we find the vowels and nasal sounds such as m and n.",
+       "In the middle, around one thousand to two thousand hertz, are the second formants of vowels and some consonants.",
+       {"yazi": "Consonants such as sh, ch, k and t sit in a higher-pitched and weaker region.", "ses": "Consonants such as shh, chuh, kay and tee sit in a higher-pitched and weaker region."},
+       "Furthest to the right and at the top, the high and weakest region, are fricatives such as s and f.",
+       "This region is the approximate place of normal-level speech on the audiogram, and it changes with the speaker."]},
+
+    {"id": "ling", "tur": "tablo", "bolum_no": "PART 2", "bolum": "Vowels and consonants", "baslik": "The Ling *six sounds*", "sutunlar": ["Sound", "Approximate frequency region"], "satirlar": [{"hucreler": ["/m/", "250 to 500 Hz"], "cumle": 2}, {"hucreler": ["/u/ (oo)", "300 and 900 Hz"], "cumle": 2}, {"hucreler": ["/a/ (ah)", "700 and 1200 Hz"], "cumle": 2}, {"hucreler": ["/i/ (ee)", "300 and 2500 Hz"], "cumle": 3}, {"hucreler": ["/sh/", "2000 to 4000 Hz"], "cumle": 3}, {"hucreler": ["/s/", "4000 Hz and above"], "cumle": 3}],
+     "cumleler": [
+       "A practical way to use the speech banana in the clinic is the Ling six sound test.",
+       {"yazi": "The test uses six sounds that sweep the speech range from low to high: m, oo, ah, ee, sh and s.", "ses": "The test uses six sounds that sweep the speech range from low to high: mm, oo, ah, ee, shh and sss."},
+       {"yazi": "The m and oo sounds represent the low region, and ah represents the mid region.", "ses": "The mm and oo sounds represent the low region, and ah represents the mid region."},
+       {"yazi": "The ee sound carries energy in both the low and the high region, while sh and s represent the high region.", "ses": "The ee sound carries energy in both the low and the high region, while shh and sss represent the high region."},
+       {"yazi": "If a child cannot detect the s sound, their access to speech at high frequencies may be limited.", "ses": "If a child cannot detect the sss sound, their access to speech at high frequencies may be limited."},
+       "We will cover this test in detail later, in the lesson on hearing aid checks."]},
+
+    {"id": "ornek", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "What is missed with hearing loss?", "baslik": "Example: *high-frequency* loss", "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Right ear_: air conduction", "cumle": 0}, {"isaret": "X", "renk": "sol", "metin": "_Left ear_: air conduction", "cumle": 0}, {"isaret": "✓", "renk": "yesil", "metin": "_Normal_: up to 25 dB HL", "cumle": 0}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [15, 15, 20, 40, 60, 65], "cumle": 0}, {"kulak": "sol", "tip": "hava", "degerler": [15, 20, 20, 45, 60, 70], "cumle": 0}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal", "cumle": 0}},
+     "cumleler": [
+       "In this sample audiogram, thresholds in both ears are within normal limits up to one thousand hertz.",
+       "Above two thousand hertz, thresholds drop clearly and reach around sixty dB HL at four thousand hertz.",
+       "This person can easily hear the vowels and low consonants of normal conversation.",
+       {"yazi": "But many of the high, weak consonants such as s, f, sh and t fall below threshold.", "ses": "But many of the high, weak consonants such as ess, eff, shh and tee fall below threshold."},
+       "A complaint these people often voice is that they hear the sounds but cannot make out the words.",
+       "This difficulty grows even more in noisy places."]},
+
+    {"id": "hangi_ses", "tur": "tablo", "bolum_no": "PART 3", "bolum": "What is missed with hearing loss?", "baslik": "Which loss, *which sounds?*", "sutunlar": ["Region of loss", "Most affected"], "satirlar": [{"hucreler": ["High frequencies", "/s/, /f/, /sh/, /t/"], "cumle": 1}, {"hucreler": ["Mid frequencies", "F2, /ch/, /k/"], "cumle": 2}, {"hucreler": ["Low frequencies", "/m/, /n/, /u/"], "cumle": 3}, {"hucreler": ["All frequencies", "All of speech"], "cumle": 4}],
+     "cumleler": [
+       "This table sums up which sounds are affected, depending on the region of loss.",
+       {"yazi": "In high-frequency loss, sounds such as s, f, sh and t are affected most; this is the most common situation.", "ses": "In high-frequency loss, sounds such as ess, eff, shh and tee are affected most; this is the most common situation."},
+       {"yazi": "In mid-frequency loss, the second formants of vowels and consonants such as ch and k become harder.", "ses": "In mid-frequency loss, the second formants of vowels and consonants such as chuh and kay become harder."},
+       {"yazi": "In low-frequency loss, nasal sounds such as m and n and vowels such as oo are affected.", "ses": "In low-frequency loss, nasal sounds such as mm and nn and vowels such as oo are affected."},
+       "In a flat loss, all of speech becomes quieter, depending on the degree of loss.",
+       {"yazi": "In Turkish, s and sh occur in many suffixes, so grammatical cues can also be missed with high-frequency loss.", "ses": "In Turkish, sss and shh occur in many suffixes, so grammatical cues can also be missed with high-frequency loss."}]},
+
+    {"id": "derece", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "What is missed with hearing loss?", "baslik": "Degree of loss and the *banana*", "maddeler": [{"metin": "Mild loss: the banana's _upper edge_", "cumle": 1, "ikon": "odyogram"}, {"metin": "Moderate loss: passes _through_ the banana", "cumle": 2, "ikon": "odyogram"}, {"metin": "Severe loss: _below_ the banana", "cumle": 3, "ikon": "odyogram"}], "yan": {"tur": "ikonlar", "ust": "EFFECT ON SPEECH", "cumle": 1, "ogeler": [{"ikon": "kulak", "baslik": "Mild", "metin": "Weakest sounds are missed", "cumle": 1}, {"ikon": "kulak_tikali", "baslik": "Moderate", "metin": "Much of speech is not heard", "cumle": 2}, {"ikon": "uyari", "baslik": "Severe", "metin": "Normal speech largely not heard", "cumle": 3}]},
+     "cumleler": [
+       "The speech banana also helps us interpret the degree of loss in terms of speech.",
+       "In a mild loss, thresholds usually touch the upper edge of the banana; the weakest sounds are missed, but most speech is heard.",
+       "In a moderate loss, thresholds pass through the banana, and a large part of normal conversation is not heard.",
+       "In a severe loss, thresholds fall below the banana, and speech at normal levels is largely not heard.",
+       "This interpretation gives a concrete language for talking with the patient about the need for hearing aids and about expectations."]},
+
+    {"id": "nokta", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Audibility", "baslik": "The *count-the-dots* audiogram", "maddeler": [{"metin": "_100 dots_ in the banana region", "cumle": 0, "ikon": "odyogram"}, {"metin": "Dots _denser_ at important frequencies", "cumle": 1, "ikon": "grafik"}, {"metin": "Dots below the threshold line are _counted_", "cumle": 2, "ikon": "kontrol_listesi"}, {"metin": "Result: a rough estimate of audibility", "cumle": 3, "ikon": "rapor"}], "yan": {"tur": "kart", "ust": "SII", "metin": "An index showing how much of speech is *audible*", "cumle": 3},
+     "cumleler": [
+       "A practical extension of the speech banana is the count-the-dots audiogram, in which one hundred dots are placed in the banana.",
+       "The dots are packed more densely at the frequencies that matter more for understanding speech.",
+       "We count the dots that fall below the person's threshold line, in the audible region.",
+       "This number gives a rough estimate of the speech intelligibility index, or SII.",
+       "The SII shows how much of speech is audible; it is not a direct percentage of understanding.",
+       "This tool is very handy when explaining to the patient and family how the loss affects everyday speech."]},
+
+    {"id": "mesafe", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Audibility", "baslik": "The banana is not *fixed*", "maddeler": [{"metin": "Doubling distance: about _6 dB_ drop", "cumle": 1, "ikon": "hoparlor"}, {"metin": "Soft voice: the banana moves _up_", "cumle": 2, "ikon": "sessizlik"}, {"metin": "Noise and reverberation _mask_ consonants", "cumle": 3, "ikon": "gurultu"}],
+     "cumleler": [
+       "The speech banana is not fixed; it shifts with the speaker's voice level and distance.",
+       "In a free field, the level drops by about six decibels each time the distance to the speaker doubles.",
+       "With a soft voice, the banana moves up into the weaker region, and with a loud voice it moves down.",
+       "Noise and reverberation reduce audibility by masking weak, high-pitched consonants in particular.",
+       "That is why people with hearing loss find it easier to be close to the speaker and able to see their face.",
+       "We will cover this topic in detail in the next lesson, when we look at room acoustics."]},
+
+    {"id": "ipucu", "tur": "ipucu", "bolum_no": "PART 4", "bolum": "Audibility", "baslik": "Clinical tip", "metin": "When explaining results, draw the speech banana on the patient's audiogram; seeing which sounds fall outside the threshold makes the loss concrete.",
+     "cumleler": [
+       "A tip from practice: when you explain the results, draw the speech banana on the patient's audiogram.",
+       "Seeing which sounds the threshold line leaves out turns the loss from an abstract number into something concrete.",
+       "Family members also understand more easily why they should speak more clearly and face to face, not just louder.",
+       "But also explain that the banana is an approximate region that shifts with the speaker and the distance."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*", "maddeler": [{"metin": "Speech: about _250 to 8000 Hz_", "cumle": 0, "ikon": "ses_dalgasi"}, {"metin": "Vowels are _low and strong_", "cumle": 1, "ikon": "konusma"}, {"metin": "Consonants like /s/, /f/: _high and soft_", "cumle": 2, "ikon": "sessizlik"}, {"metin": "High-frequency loss: consonants _missed_", "cumle": 3, "ikon": "kulak_tikali"}],
+     "cumleler": [
+       "The key information in speech spans about two hundred fifty to eight thousand hertz and a range of about thirty decibels.",
+       "Vowels are stronger and sit in the low, lower part of the speech banana.",
+       "Weak sounds such as fricative consonants are in the high, upper part of the banana.",
+       "So in the most common high-frequency losses, the person hears the voice but misses the details."]},
+
+    {"id": "test", "tur": "test", "soru": "Which sound is missed most easily with high-frequency loss?", "secenekler": ["The vowel /a/", "The vowel /u/", "The consonant /s/", "The consonant /m/"], "dogru": 2, "aciklama": "/s/ is in the _high, soft_ region; with high-frequency loss it falls below threshold.",
+     "cumleler": [
+       {"yazi": "Test yourself: A person with hearing loss at high frequencies misses which of these sounds most easily?", "sonra_bekle": 5},
+       {"yazi": "The correct answer is C: the consonant s.", "ses": "The correct answer is C: the consonant sss."},
+       {"yazi": "The s sound is in the high, weak region of the speech banana, so with high-frequency loss it often falls below threshold.", "ses": "The sss sound is in the high, weak region of the speech banana, so with high-frequency loss it often falls below threshold."}]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "Room Acoustics: Reverberation and *Signal-to-Noise*", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will see how reverberation and the signal-to-noise ratio affect speech understanding.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

@@ -1,0 +1,965 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D129_Neurodiagnostic_ABR_EN",
+ "kapak": {
+  "ust": "LESSON 129",
+  "baslik": "*Neurodiagnostic*<br>ABR",
+  "alt": "Looking for a retrocochlear lesion",
+  "cizim": "abr",
+  "ayar": {
+   "i_v_uzama": 0.8
+  }
+ },
+ "youtube": {
+  "baslik": "Neurodiagnostic ABR: Looking for Retrocochlear Lesions | Lesson 129 | AIHEAR Audiology Academy",
+  "aciklama": "We explain how the auditory brainstem response (ABR) is used when a retrocochlear lesion is suspected. With examples, we cover interpeak latencies, the interaural wave V latency difference (IT5), correction for high-frequency hearing loss, typical patterns, and the sensitivity limits of ABR compared with MRI.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Selters and Brackmann (1977), Acoustic tumor detection with brain stem electric response audiometry; Don et al., Stacked ABR studies.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "retrocochlear"
+  ],
+  "etiketler": [
+   "neurodiagnostic ABR",
+   "retrocochlear",
+   "IT5",
+   "wave V",
+   "interpeak latency",
+   "vestibular schwannoma",
+   "acoustic neuroma",
+   "auditory brainstem response",
+   "stacked ABR",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 129",
+   "baslik": "*Neurodiagnostic* ABR",
+   "alt": "Assessing retrocochlear lesions",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how the auditory brainstem response, or ABR, is used to investigate retrocochlear problems.",
+    {
+     "yazi": "With examples, we will cover the latency criteria we look at, the interaural wave V difference, and the limits of the method.",
+     "ses": "With examples, we will cover the latency criteria we look at, the interaural wave five difference, and the limits of the method."
+    }
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The goal",
+   "baslik": "What does retrocochlear *mean?*",
+   "maddeler": [
+    {
+     "metin": "Retrocochlear: the pathway _beyond the cochlea_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Auditory nerve and _brainstem_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Classic example: _vestibular schwannoma_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "ABR shows _conduction_, imaging shows _structure_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 1
+     },
+     {
+      "parca": "koklear_nukleus",
+      "cumle": 1
+     },
+     {
+      "parca": "lateral_lemniskus",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "isitme_siniri",
+      "metin": "retrocochlear region",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Retrocochlear means beyond the cochlea and covers the pathway from the auditory nerve to the brainstem."
+    },
+    "A problem in this region can slow the signal in the brainstem or cause it to lose synchrony.",
+    {
+     "yazi": "The most classic example is vestibular schwannoma, a benign tumor that grows in the internal auditory canal."
+    },
+    "Multiple sclerosis, vascular problems affecting the brainstem, and other tumors can also disrupt the ABR.",
+    "The ABR measures how fast and how regularly the signal is conducted; imaging methods show the structure itself.",
+    {
+     "yazi": "So neurodiagnostic ABR is a screening and supporting test; the diagnosis is made by physician assessment and imaging."
+    }
+   ]
+  },
+  {
+   "id": "ikv",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The goal",
+   "baslik": "A *tight space* in the internal auditory canal",
+   "cizim": "ic_kulak_yolu_dibi",
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Superior vestibular nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Inferior vestibular nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Cochlear nerve",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Facial nerve (VII)",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tumor mostly from the _vestibular_ nerve",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Compression: cochlear nerve _conduction slows_",
+     "cumle": 2,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "The internal auditory canal is a narrow bony channel through which the hearing, balance and facial nerves pass together.",
+    {
+     "yazi": "Vestibular schwannoma usually arises from the Schwann cells in the sheath of the superior or inferior vestibular nerve."
+    },
+    "As the tumor grows, it compresses the neighboring cochlear nerve; nerve conduction slows and synchrony breaks down.",
+    "The labyrinthine artery that supplies the cochlea can also be affected, so cochlear findings are sometimes present as well.",
+    "The facial nerve, which runs through the same canal, can be affected by large tumors, but facial palsy is rare early on."
+   ]
+  },
+  {
+   "id": "protokol",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Protocol",
+   "baslik": "Neurodiagnostic ABR *steps*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiogram first",
+     "metin": "Know the degree of loss",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "High intensity",
+     "metin": "Click, 80 to 90 dB nHL",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Slow rate",
+     "metin": "11 to 21 per second",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Repeat recording",
+     "metin": "At least two runs",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Both ears",
+     "metin": "Compare with same settings",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A current audiogram should be available before neurodiagnostic ABR, because cochlear hearing loss affects latencies.",
+    {
+     "yazi": "The stimulus is a click or broadband chirp at high intensity, for example 80 to 90 dB nHL, that is, normalized hearing level.",
+     "ses": "The stimulus is a click or broadband chirp at high intensity, for example eighty to ninety decibels N H L, that is, normalized hearing level."
+    },
+    {
+     "yazi": "To see the waves clearly, the stimulus rate is kept low, for example about 11 to 21 per second.",
+     "ses": "To see the waves clearly, the stimulus rate is kept low, for example about eleven to twenty one per second."
+    },
+    "At least two recordings are obtained in each condition to confirm that the waves are repeatable.",
+    "Both ears are tested with the same stimulus, the same intensity and the same settings, so the ears can be compared.",
+    "If there is a clear asymmetry between the ears, masking noise may be given to the opposite ear to prevent cross-hearing.",
+    "Some protocols also add recordings at higher rates, because impaired conduction can become more obvious at high rates."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Protocol",
+   "baslik": "The *criteria* we check",
+   "sutunlar": [
+    "Criterion",
+    "Caution limit",
+    "Note"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Wave V latency",
+      "Above the norm",
+      "About 6 ms"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "I-III interval",
+      "Above about 2.5 ms",
+      "Lower brainstem"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "III-V interval",
+      "Above about 2.4 ms",
+      "Upper brainstem"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "I-V interval",
+      "Above about 4.5 ms",
+      "Total conduction"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Interaural wave V",
+      "0.3 to 0.4 ms",
+      "IT5"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Absent waves",
+      "Unrepeatable response",
+      "Inconsistent with hearing"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The first criterion is wave V latency at high intensity; in adults, the upper limit is usually around 6 milliseconds.",
+     "ses": "The first criterion is wave five latency at high intensity; in adults, the upper limit is usually around six milliseconds."
+    },
+    {
+     "yazi": "An I-III interval above about 2.5 milliseconds suggests delayed conduction between the auditory nerve and the lower pons.",
+     "ses": "A one to three interval above about two point five milliseconds suggests delayed conduction between the auditory nerve and the lower pons."
+    },
+    {
+     "yazi": "A III-V interval above about 2.4 milliseconds may point to a delay in the upper part of the brainstem.",
+     "ses": "A three to five interval above about two point four milliseconds may point to a delay in the upper part of the brainstem."
+    },
+    {
+     "yazi": "An I-V interval above about 4.4 to 4.5 milliseconds is the most widely used delay criterion.",
+     "ses": "A one to five interval above about four point four to four point five milliseconds is the most widely used delay criterion."
+    },
+    {
+     "yazi": "An interaural wave V difference above about 0.3 to 0.4 milliseconds is also considered abnormal.",
+     "ses": "An interaural wave five difference above about zero point three to zero point four milliseconds is also considered abnormal."
+    },
+    "Finally, absent waves that hearing level cannot explain, or an unrepeatable recording, are also important findings.",
+    "The limits in the table are approximate; each clinic should use norms obtained with its own device and protocol."
+   ]
+  },
+  {
+   "id": "iv",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Examples",
+   "baslik": "A prolonged *I-V* interval",
+   "cizim": "abr",
+   "ayar": {
+    "i_v_uzama": 0.8
+   },
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "wave I: normal position",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "wave V: delayed",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dashed line: _normal_ recording",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Periphery intact, _conduction slow_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "On screen, the dashed line shows a normal recording and the solid line an example recording.",
+    {
+     "yazi": "In this example, wave I is at a normal latency; so the first step of conduction from the cochlea to the nerve starts on time.",
+     "ses": "In this example, wave one is at a normal latency; so the first step of conduction from the cochlea to the nerve starts on time."
+    },
+    {
+     "yazi": "Wave V, however, arrives clearly later than in the normal recording.",
+     "ses": "Wave five, however, arrives clearly later than in the normal recording."
+    },
+    {
+     "yazi": "As a result, the I-V interval is prolonged to about 4.8 milliseconds and exceeds the normal limit.",
+     "ses": "As a result, the one to five interval is prolonged to about four point eight milliseconds and exceeds the normal limit."
+    },
+    "This pattern suggests that the delay lies not in the cochlea but in nerve and brainstem conduction, and needs further assessment."
+   ]
+  },
+  {
+   "id": "it5",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Examples",
+   "baslik": "The interaural *wave V difference*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 4.5,
+     "max": 7,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Wave V latency (ms)"
+    },
+    "y": {
+     "min": 0.3,
+     "max": 2.7,
+     "ad": "Ear",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Left",
+      "2": "Right"
+     }
+    },
+    "isaretler": [
+     {
+      "ad": "sag",
+      "x": 5.6,
+      "y": 2,
+      "renk": "kirmizi",
+      "dolu": true,
+      "etiket": "right: 5.6 ms",
+      "cumle": 1,
+      "dus": "x"
+     },
+     {
+      "ad": "sol",
+      "x": 6.1,
+      "y": 1,
+      "renk": "sol",
+      "dolu": true,
+      "etiket": "left: 6.1 ms",
+      "cumle": 2,
+      "dus": "x"
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "x": [
+       5.6,
+       6.1
+      ],
+      "y": 1.5,
+      "etiket": "0.5 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Same intensity, _same settings_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Difference above _0.3 to 0.4 ms_: caution",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "The patient is _their own control_",
+     "cumle": 5,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The interaural wave V latency difference, or IT5, is the difference between the wave V latencies of the two ears at the same intensity.",
+     "ses": "The interaural wave five latency difference, or I T five, is the difference between the wave five latencies of the two ears at the same intensity."
+    },
+    {
+     "yazi": "In this example, wave V in the right ear is seen at 5.6 milliseconds.",
+     "ses": "In this example, wave five in the right ear is seen at five point six milliseconds."
+    },
+    {
+     "yazi": "In the left ear, at the same intensity, wave V arrives at 6.1 milliseconds.",
+     "ses": "In the left ear, at the same intensity, wave five arrives at six point one milliseconds."
+    },
+    {
+     "yazi": "The difference is 0.5 milliseconds.",
+     "ses": "The difference is zero point five milliseconds."
+    },
+    {
+     "yazi": "A difference above about 0.3 to 0.4 milliseconds is usually considered abnormal; this example is above that limit.",
+     "ses": "A difference above about zero point three to zero point four milliseconds is usually considered abnormal; this example is above that limit."
+    },
+    "The strength of this criterion is that it compares the patient with their own other ear; factors like age and sex affect both ears.",
+    "However, this comparison is most reliable when the cochlear hearing levels of the two ears are close to each other."
+   ]
+  },
+  {
+   "id": "duzeltme",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Examples",
+   "baslik": "High-frequency loss *prolongs latency*",
+   "maddeler": [
+    {
+     "metin": "High-frequency cochlear loss _delays wave V_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "In asymmetric loss, IT5 _can mislead_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Each 10 dB above 50 dB: _0.1 ms_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Safest: look at the _I-V interval_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        25,
+        30,
+        35
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        25,
+        45,
+        70,
+        75
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "A cochlear loss in the high frequencies can delay wave V, because it affects the region the click stimulates most strongly.",
+     "ses": "A cochlear loss in the high frequencies can delay wave five, because it affects the region the click stimulates most strongly."
+    },
+    "In an asymmetric high-frequency loss like this example, the interaural difference may also come from the cochlear difference.",
+    {
+     "yazi": "In a common correction from Selters and Brackmann, 0.1 ms is subtracted for every 10 dB of 4000 Hz loss above 50 dB.",
+     "ses": "In a common correction from Selters and Brackmann, zero point one milliseconds is subtracted for every ten decibels of four thousand hertz loss above fifty."
+    },
+    {
+     "yazi": "In this example, the left 4000 Hz threshold is 70 decibels, so a correction of about 0.2 milliseconds is made.",
+     "ses": "In this example, the left four thousand hertz threshold is seventy decibels, so a correction of about zero point two milliseconds is made."
+    },
+    {
+     "yazi": "Corrections are rough estimates; if wave I is visible, the I-V interval is more reliable because the cochlea affects it much less.",
+     "ses": "Corrections are rough estimates; if wave one is visible, the one to five interval is more reliable because the cochlea affects it much less."
+    },
+    {
+     "yazi": "If wave I is weak, the ear canal electrode we saw in earlier lessons can make wave I more prominent.",
+     "ses": "If wave one is weak, the ear canal electrode we saw in earlier lessons can make wave one more prominent."
+    }
+   ]
+  },
+  {
+   "id": "desenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Patterns",
+   "baslik": "Retrocochlear *patterns*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Prolonged intervals",
+     "metin": "Long I-III or I-V",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Asymmetry",
+     "metin": "Interaural wave V difference",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Wave I only",
+     "metin": "Later waves absent",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "No response",
+     "metin": "Despite fairly good hearing",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Poor repeatability",
+     "metin": "Runs do not overlap",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Low V/I",
+     "metin": "Wave V very small",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In retrocochlear lesions, the most common pattern is prolonged interpeak intervals, especially the I-III and I-V intervals.",
+     "ses": "In retrocochlear lesions, the most common pattern is prolonged interpeak intervals, especially the one to three and one to five intervals."
+    },
+    {
+     "yazi": "In unilateral lesions, the interaural wave V difference is often the first finding to stand out.",
+     "ses": "In unilateral lesions, the interaural wave five difference is often the first finding to stand out."
+    },
+    {
+     "yazi": "Sometimes only wave I is seen and the later waves are lost; this suggests the signal breaks down in the more central part of the nerve.",
+     "ses": "Sometimes only wave one is seen and the later waves are lost; this suggests the signal breaks down in the more central part of the nerve."
+    },
+    "When hearing thresholds are good enough to record an ABR, the absence of any wave is also a strong warning sign.",
+    "Recordings obtained in the same condition that do not match each other can also point to a loss of synchrony.",
+    {
+     "yazi": "A wave V clearly smaller than wave I is considered an additional, supporting finding.",
+     "ses": "A wave five clearly smaller than wave one is considered an additional, supporting finding."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Before interpreting an absent ABR, check the audiogram: severe loss alone can erase the waves. No response despite good hearing is a strong warning sign.",
+   "cumleler": [
+    "A clinical tip: always check the audiogram before interpreting absent waves.",
+    "If there is a severe loss in the high frequencies, the inability to record a click ABR may also be cochlear in origin.",
+    "In contrast, the absence of any repeatable wave in an ear with fairly good hearing is much more significant for a retrocochlear problem.",
+    "State this distinction clearly in the report; the reading physician judges the weight of the finding from it."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Sensitivity",
+   "baslik": "The *limits* of ABR",
+   "maddeler": [
+    {
+     "metin": "_High_ sensitivity for large tumors",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Clearly lower_ for small tumors",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal ABR _does not rule out_ a tumor",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Gold standard: _contrast-enhanced MRI_",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "COMPARISON",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Large tumor",
+      "metin": "ABR mostly abnormal",
+      "cumle": 0
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Small tumor",
+      "metin": "ABR may be normal",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In studies, conventional ABR was abnormal in the great majority of large vestibular schwannomas."
+    },
+    "But in small tumors confined to the internal auditory canal, especially those under one centimeter, sensitivity drops clearly.",
+    "A small tumor can grow without affecting some of the nerve fibers and may not change the click response.",
+    "So a normal ABR result does not definitively rule out a retrocochlear lesion.",
+    "Today, the gold standard for retrocochlear assessment is magnetic resonance imaging, or MRI, often with contrast.",
+    "ABR remains valuable for people who cannot have an MRI or for whom it is unsuitable, and when functional information is needed."
+   ]
+  },
+  {
+   "id": "mr_abr",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Sensitivity",
+   "baslik": "ABR and MRI *together*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "MRI",
+     "metin": "Shows structure, catches small tumors",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "ABR",
+     "metin": "Measures function, low cost, noninvasive",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Advanced ABR",
+     "metin": "Example: stacked ABR",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Decision",
+     "metin": "The physician decides",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "MRI directly shows the presence, size and location of a tumor; it can detect lesions of even a few millimeters.",
+    "ABR measures function rather than structure; it is noninvasive, relatively low cost, and tells us how the patient's auditory pathway works.",
+    "These two methods do not replace each other; they complement each other.",
+    {
+     "yazi": "Advanced techniques such as stacked ABR have been developed to increase sensitivity to small tumors, but they are not widely used."
+    },
+    "The physician decides which imaging is done and when; the audiologist's role is to present the findings clearly."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "PART 6",
+   "bolum": "In practice",
+   "baslik": "Other *brainstem* problems",
+   "maddeler": [
+    {
+     "metin": "Multiple sclerosis: _I-V and III-V_ may lengthen",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Brainstem stroke or _hemorrhage_",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Brainstem or _cerebellopontine angle_ tumor",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Monitoring_ with serial recordings",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 0
+     },
+     {
+      "parca": "lateral_lemniskus",
+      "cumle": 1
+     },
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In diseases that affect myelin, such as multiple sclerosis, the III-V and I-V intervals in particular may lengthen and waves may degrade.",
+     "ses": "In diseases that affect myelin, such as multiple sclerosis, the three to five and one to five intervals in particular may lengthen and waves may degrade."
+    },
+    "Strokes or hemorrhages affecting the brainstem can also delay specific waves, depending on the site of the lesion.",
+    "Other tumors in the cerebellopontine angle, the region between the cerebellum and the pons, can give similar findings.",
+    "In these cases, the ABR can be abnormal even with normal hearing thresholds, because the ABR measures conduction, not threshold.",
+    "In some cases, serial ABR recordings are also used to follow the course of the disease."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 6",
+   "bolum": "In practice",
+   "baslik": "Reporting and *referral*",
+   "maddeler": [
+    {
+     "metin": "Report absolute and interpeak _latencies_",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "State IT5 and any _correction_ used",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Describe the result _against norms_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "If abnormal, _refer to a physician_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "REPORT WORDING",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Appropriate",
+      "metin": "ABR abnormal for retrocochlear involvement",
+      "cumle": 2
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Not appropriate",
+      "metin": "A diagnostic statement",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "For each ear, the report lists the absolute latencies of waves I, III and V and the interpeak intervals.",
+     "ses": "For each ear, the report lists the absolute latencies of waves one, three and five and the interpeak intervals."
+    },
+    {
+     "yazi": "The interaural wave V difference is stated, along with any correction that was used.",
+     "ses": "The interaural wave five difference is stated, along with any correction that was used."
+    },
+    "The result is described, according to the clinic's norms, as normal or as abnormal for retrocochlear involvement.",
+    "With an abnormal finding, the audiologist's role is to refer the patient to a physician for further assessment.",
+    "The report does not diagnose; instead of saying there is a tumor, it states the findings may be consistent with a retrocochlear process."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Neurodiagnostic ABR measures _brainstem conduction_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Prolonged I-V and _IT5_ are key criteria",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "High-frequency loss prolongs latency: _correct_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Normal ABR _does not rule out_ small tumors",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Neurodiagnostic ABR uses a high-intensity click to assess auditory nerve and brainstem conduction.",
+    {
+     "yazi": "Prolonged interpeak intervals and an interaural wave V difference above about 0.3 to 0.4 milliseconds are the key criteria.",
+     "ses": "Prolonged interpeak intervals and an interaural wave five difference above about zero point three to zero point four milliseconds are the key criteria."
+    },
+    {
+     "yazi": "High-frequency cochlear loss can delay wave V, so the audiogram must always be interpreted alongside it.",
+     "ses": "High-frequency cochlear loss can delay wave five, so the audiogram must always be interpreted alongside it."
+    },
+    "ABR is not sensitive to small tumors; the decision on imaging belongs to the physician."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Right V: 5.6 ms, left V: 6.1 ms. How is the difference read?",
+   "secenekler": [
+    "Within normal limits",
+    "Abnormal, further assessment",
+    "Conductive loss only"
+   ],
+   "dogru": 1,
+   "aciklama": "The difference is _0.5 ms_; above about 0.3 to 0.4 ms is usually considered abnormal. Check the audiogram first.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: wave V is 5.6 milliseconds on the right and 6.1 on the left. How is this difference interpreted?",
+     "ses": "Test yourself: wave five is five point six milliseconds on the right and six point one on the left. How is this difference interpreted?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: it is abnormal and needs further assessment.",
+    {
+     "yazi": "The difference is 0.5 milliseconds, above the usually accepted limit; before interpreting, check the audiograms of both ears.",
+     "ses": "The difference is zero point five milliseconds, above the usually accepted limit; before interpreting, check the audiograms of both ears."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Threshold ABR: Frequency-Specific Testing in *Infants*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will see how we use ABR for frequency-specific threshold estimation in infants.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

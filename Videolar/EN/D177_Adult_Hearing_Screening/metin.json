@@ -1,0 +1,878 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D177_Adult_Hearing_Screening_EN",
+ "kapak": {
+  "ust": "LESSON 177",
+  "baslik": "Adult<br>*hearing screening*",
+  "alt": "HHIE-S and the digits-in-noise test",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 24,
+    "ad": "Digit triplet number",
+    "isaretler": [
+     1,
+     5,
+     10,
+     15,
+     20,
+     23
+    ]
+   },
+   "y": {
+    "min": -14,
+    "max": 2,
+    "adim": 2,
+    "ad": "SNR (dB)"
+   },
+   "seriler": [
+    {
+     "ad": "iz",
+     "noktalar": [
+      [
+       1,
+       0
+      ],
+      [
+       2,
+       -2
+      ],
+      [
+       3,
+       -4
+      ],
+      [
+       4,
+       -6
+      ],
+      [
+       5,
+       -8
+      ],
+      [
+       6,
+       -10
+      ],
+      [
+       7,
+       -8
+      ],
+      [
+       8,
+       -10
+      ],
+      [
+       9,
+       -12
+      ],
+      [
+       10,
+       -10
+      ],
+      [
+       11,
+       -8
+      ],
+      [
+       12,
+       -10
+      ],
+      [
+       13,
+       -12
+      ],
+      [
+       14,
+       -10
+      ],
+      [
+       15,
+       -12
+      ],
+      [
+       16,
+       -10
+      ],
+      [
+       17,
+       -8
+      ],
+      [
+       18,
+       -10
+      ],
+      [
+       19,
+       -12
+      ],
+      [
+       20,
+       -10
+      ],
+      [
+       21,
+       -12
+      ],
+      [
+       22,
+       -10
+      ],
+      [
+       23,
+       -12
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "sure": 3,
+     "etiket": "adaptive track",
+     "cumle": 1
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "dalgalanma",
+     "y": [
+      -12,
+      -8
+     ],
+     "renk": "sari",
+     "etiket": "oscillation zone",
+     "cumle": 3
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "srt",
+     "x": 18,
+     "y": -10,
+     "cizgi": "yatay",
+     "etiket": "SRT about -10 dB",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Hearing Screening in Adults and Older Adults | Lesson 177 | AIHEAR Audiology Academy",
+  "aciklama": "How is hearing screened in adults? In this lesson we cover 25 dB HL screening audiometry, scoring the HHIE-S questionnaire, the digits-in-noise test and its adaptive method, the World Health Organization's hearWHO app, the whispered voice test, and the 2021 USPSTF review.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ASHA, Guidelines for Audiologic Screening; US Preventive Services Task Force, Screening for Hearing Loss in Older Adults (2021); Ventry and Weinstein, Identification of elderly people with hearing problems (Asha, 1983); Smits, Kapteyn and Houtgast, Development and validation of an automatic speech-in-noise screening test by telephone (Int J Audiol, 2004); WHO, hearWHO; Pirozzo et al., Whispered voice test for screening for hearing impairment (BMJ, 2003).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingscreening",
+   "presbycusis"
+  ],
+  "etiketler": [
+   "adult hearing screening",
+   "HHIE-S",
+   "Hearing Handicap Inventory for the Elderly",
+   "digits-in-noise test",
+   "hearWHO",
+   "screening audiometry",
+   "whispered voice test",
+   "USPSTF",
+   "age-related hearing loss",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 177",
+   "baslik": "Screening adults and *older adults*",
+   "alt": "Audiometry, HHIE-S and the digits-in-noise test",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we complete the screening programs section with hearing screening in adults and older adults.",
+    {
+     "yazi": "We will look at screening audiometry, the screening form of the Hearing Handicap Inventory for the Elderly, digits-in-noise and hearWHO.",
+     "ses": "We will look at screening audiometry, the screening form of the Hearing Handicap Inventory for the Elderly, digits-in-noise and hear W H O."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why, and who?",
+   "baslik": "*Why* is adult screening hard?",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Common but insidious",
+     "metin": "Slow onset, noticed late",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Debate on evidence",
+     "metin": "USPSTF 2021: insufficient evidence",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "WHO approach",
+     "metin": "Hearing in care for older people",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "According to the World Health Organization, more than a quarter of people over sixty have a disabling hearing loss.",
+    "Because the loss progresses slowly, people often do not notice or accept it for a long time; seeking help can be delayed for years.",
+    "Screening aims to find loss early in people without complaints and refer them for assessment.",
+    {
+     "yazi": "The US Preventive Services Task Force, or USPSTF, published a statement on this topic in 2021.",
+     "ses": "The US Preventive Services Task Force, or U S P S T F, published a statement on this topic in twenty twenty one."
+    },
+    "It found the evidence insufficient to assess the benefits and harms of screening adults aged fifty and older without symptoms.",
+    "This does not mean screening is useless; the American Speech-Language-Hearing Association, or ASHA, argued for recommending it.",
+    "In its integrated care approach for older people, the World Health Organization also lists hearing among core functions to check regularly."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Screening audiometry",
+   "baslik": "Screening level: *25 dB HL*",
+   "lejant": [
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "25 dB HL screening limit",
+     "cumle": 1
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: refer at 4000 Hz",
+     "cumle": 3
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: pass",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       20,
+       40,
+       50
+      ],
+      "cumle": 3
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       20,
+       25,
+       40
+      ],
+      "cumle": 4
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Screening",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "The most common adult method is screening audiometry: no threshold is sought; we only check whether a tone is heard at a set level.",
+    "ASHA's adult screening guideline uses twenty five decibels HL at one, two and four kilohertz in each ear.",
+    "If there is no response at any of these three frequencies in either ear, the person does not pass.",
+    "In the example, the right ear hears the tone at one and two kilohertz, but at four kilohertz it is outside the limit, at forty decibels.",
+    "The left ear is within the limit at all three frequencies tested.",
+    "In older adults, not passing at four kilohertz is very common.",
+    "The guideline accepts a higher referral rate for the sake of a single, clear criterion for everyone."
+   ]
+  },
+  {
+   "id": "pratik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Screening audiometry",
+   "baslik": "Screening audiometry in *practice*",
+   "maddeler": [
+    {
+     "metin": "First otoscopy and a brief history",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Quietest room, biological check",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Did not pass: diagnostic assessment",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Complaints: assess even after a pass",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Before screening, a brief history is taken and the ear canal is checked with an otoscope; occluding earwax can spoil the result.",
+    "Screening is done with a currently calibrated device in the quietest room possible; the day starts with a biological check.",
+    "If ambient noise is high, insert or noise-reducing earphones lower the rate of false refers.",
+    "A person who does not pass is not diagnosed; they are referred for a full audiological assessment.",
+    "Even after a pass, anyone with hearing complaints, one-sided symptoms, tinnitus or dizziness should also be assessed.",
+    "The screening result and referral advice are given to the person in writing, which reduces loss to follow-up."
+   ]
+  },
+  {
+   "id": "hhie_yapi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The HHIE-S questionnaire",
+   "baslik": "*HHIE-S*: a short questionnaire",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ten questions",
+     "metin": "Five emotional, five social",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Three answers",
+     "metin": "Yes 4, sometimes 2, no 0",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Total score",
+     "metin": "0 to 40",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Audiometry measures the degree of hearing loss, but it does not show the loss's impact on the person's life.",
+    {
+     "yazi": "The tool most often used for this is the screening version of the Hearing Handicap Inventory for the Elderly, or HHIE-S.",
+     "ses": "The tool most often used for this is the screening version of the Hearing Handicap Inventory for the Elderly, or H H I E S."
+    },
+    "The form has ten questions.",
+    "Five ask about emotional impact, such as embarrassment and frustration, and five about social and situational impact.",
+    "Each question is answered yes, sometimes or no; yes scores four, sometimes two, and no zero.",
+    "The scores are added; the total ranges from zero to forty, and a higher score means greater perceived handicap.",
+    {
+     "yazi": "The form was shortened in 1983 from Ventry and Weinstein's original twenty five item inventory.",
+     "ses": "The form was shortened in nineteen eighty three from Ventry and Weinstein's original twenty five item inventory."
+    }
+   ]
+  },
+  {
+   "id": "hhie_puan",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The HHIE-S questionnaire",
+   "baslik": "The HHIE-S *score*",
+   "sutunlar": [
+    "Total score",
+    "Common interpretation"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 to 8",
+      "No significant handicap"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "10 to 24",
+      "Mild to moderate handicap"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "26 to 40",
+      "Significant handicap"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Above 8",
+      "Further assessment advised"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Because points rise in steps of four or two, the total is always an even number.",
+    "In a common classification, a score from zero to eight shows no significant hearing handicap.",
+    "A score of ten to twenty four suggests mild to moderate handicap, and twenty six to forty significant handicap.",
+    "ASHA's adult screening guideline also recommends using the questionnaire together with audiometry.",
+    "In many screening programs, a score above eight is used as the criterion for referral for further assessment.",
+    "When the questionnaire is used in another language, such as Turkish, a translation with proven validity and reliability should be chosen."
+   ]
+  },
+  {
+   "id": "birlikte",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The HHIE-S questionnaire",
+   "baslik": "Why use *both* together?",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Audiometry",
+     "metin": "Degree of loss",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Questionnaire",
+     "metin": "Impact on life",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Together",
+     "metin": "The right person at the right time",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Screening audiometry objectively shows whether hearing threshold is better or worse than a set level.",
+    "The questionnaire shows how the person experiences this loss in daily life.",
+    "Of two people with the same degree of loss, one may report no problems while the other describes clear difficulty.",
+    "Using both together catches hidden losses and helps identify people who are ready to get help.",
+    "A high questionnaire score also gives a clue about the person's motivation for rehabilitation."
+   ]
+  },
+  {
+   "id": "din",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "The digits-in-noise test",
+   "baslik": "The *digits*-in-noise test",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Digit triplets",
+     "metin": "For example 2, 5, 1",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise",
+     "metin": "Speech-shaped",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Adaptive SNR",
+     "metin": "Harder after a correct answer",
+     "cumle": 2
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Remote",
+     "metin": "Phone or app",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Result: SRT",
+     "metin": "dB SNR",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the digits-in-noise test, the person hears sequences of three digits in noise and keys in the digits heard.",
+    "The noise resembles the long-term spectrum of speech and masks the digits.",
+    "After a correct triplet, the signal-to-noise ratio is lowered for the next triplet; after an error it is raised. This is an adaptive method.",
+    {
+     "yazi": "The test is based on a telephone screening test developed in the Netherlands by Smits and colleagues in 2004, and takes about three minutes.",
+     "ses": "The test is based on a telephone screening test developed in the Netherlands by Smits and colleagues in two thousand four, and takes about three minutes."
+    },
+    "Digits are a small set of familiar words, so language level has little effect; the test can be done by phone or app.",
+    "The result is the signal-to-noise ratio at which half the triplets are understood: the speech reception threshold, in decibels SNR."
+   ]
+  },
+  {
+   "id": "din_iz",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "The digits-in-noise test",
+   "baslik": "The adaptive track: *an example*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "ad": "Digit triplet number",
+     "isaretler": [
+      1,
+      5,
+      10,
+      15,
+      20,
+      23
+     ]
+    },
+    "y": {
+     "min": -14,
+     "max": 2,
+     "adim": 2,
+     "ad": "SNR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "iz",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        -2
+       ],
+       [
+        3,
+        -4
+       ],
+       [
+        4,
+        -6
+       ],
+       [
+        5,
+        -8
+       ],
+       [
+        6,
+        -10
+       ],
+       [
+        7,
+        -8
+       ],
+       [
+        8,
+        -10
+       ],
+       [
+        9,
+        -12
+       ],
+       [
+        10,
+        -10
+       ],
+       [
+        11,
+        -8
+       ],
+       [
+        12,
+        -10
+       ],
+       [
+        13,
+        -12
+       ],
+       [
+        14,
+        -10
+       ],
+       [
+        15,
+        -12
+       ],
+       [
+        16,
+        -10
+       ],
+       [
+        17,
+        -8
+       ],
+       [
+        18,
+        -10
+       ],
+       [
+        19,
+        -12
+       ],
+       [
+        20,
+        -10
+       ],
+       [
+        21,
+        -12
+       ],
+       [
+        22,
+        -10
+       ],
+       [
+        23,
+        -12
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "sure": 3,
+      "etiket": "adaptive track",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "dalgalanma",
+      "y": [
+       -12,
+       -8
+      ],
+      "renk": "sari",
+      "etiket": "oscillation zone",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "srt",
+      "x": 18,
+      "y": -10,
+      "cizgi": "yatay",
+      "etiket": "SRT about -10 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Correct: SNR goes down",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Wrong: SNR goes up",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Average: SRT",
+     "cumle": 4,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "This graph shows a sample adaptive track in the digits-in-noise test; the values are for teaching purposes.",
+    "The test starts at an easy ratio; as long as the person answers correctly, the signal-to-noise ratio drops in two decibel steps.",
+    "When the person misses a triplet, the ratio goes up again.",
+    "After a while, the track moves up and down around the level where the person understands about half the triplets.",
+    "The average of these swings gives the speech reception threshold; in this example, about minus ten decibels.",
+    "The lower the threshold, that is, the further in the negative direction, the better the person understands speech in noise."
+   ]
+  },
+  {
+   "id": "hearwho",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "The digits-in-noise test",
+   "baslik": "WHO's *hearWHO* app",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Free app",
+     "metin": "Digit triplets, 23 sets",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Below 50",
+     "metin": "See a professional",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "50 to 75",
+     "metin": "Retest once a year",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Above 75",
+     "metin": "Good hearing, yearly check",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The World Health Organization's hearWHO app is a free screening tool that uses digits-in-noise technology.",
+     "ses": "The World Health Organization's hear W H O app is a free screening tool that uses digits-in-noise technology."
+    },
+    "The person listens through headphones to twenty three digit triplets in noise; the result is a score from zero to one hundred.",
+    "A score below fifty suggests some degree of hearing loss, and the person is advised to see a professional.",
+    "For a score of fifty to seventy five, retesting about once a year and protection from loud sounds are advised.",
+    "A score above seventy five shows good hearing; repeating the test yearly, or when a change is noticed, is advised.",
+    "The app is designed for people aged twelve and over; its result is not a diagnosis but a signal for referral."
+   ]
+  },
+  {
+   "id": "basit",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "The digits-in-noise test",
+   "baslik": "*Simpler* methods",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Whispered voice test",
+     "metin": "From behind, one ear at a time",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "A single question",
+     "metin": "Do you have a hearing problem?",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Limitation",
+     "metin": "Not standardized, variable",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "When no equipment is available, the whispered voice test can be used.",
+    "The tester stands behind the person, masks the other ear, and whispers numbers or letters.",
+    "In a systematic review in adults, its sensitivity was ninety to one hundred percent and its specificity seventy to eighty seven percent.",
+    "We saw sensitivity and specificity in detail in the research lessons; these values show the test can do quite well in screening.",
+    "Simply asking the person whether they have a hearing problem is also a simple but valuable first step.",
+    "But whisper intensity varies between testers, so these methods are not standardized; screening audiometry is preferred when possible."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Tell a person who did not pass that the result is not a diagnosis, only a sign that a full assessment is needed, and plan the appointment together.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: the weakest link in adult screening is the person who does not pass but never comes for diagnostic assessment.",
+    "Explain calmly and clearly that the result is not a diagnosis; it only means their hearing needs to be measured in detail.",
+    "If possible, plan the appointment together during the screening and involve someone close to the person.",
+    "For people with high questionnaire scores, reminding them of their own complaints increases their motivation to come."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_25 dB HL_ at 1, 2, 4 kHz",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "HHIE-S: 10 questions, 0 to 40 points",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Digits test: _SRT_ in noise",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Did not pass: diagnostic assessment",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Adult screening audiometry uses twenty five decibels HL at one, two and four kilohertz in each ear.",
+    {
+     "yazi": "The HHIE-S is a short ten-item questionnaire; a score above eight is a common criterion for further assessment.",
+     "ses": "The H H I E S is a short ten-item questionnaire; a score above eight is a common criterion for further assessment."
+    },
+    {
+     "yazi": "The digits-in-noise test measures the speech reception threshold in noise adaptively; hearWHO uses this technology.",
+     "ses": "The digits-in-noise test measures the speech reception threshold in noise adaptively; hear W H O uses this technology."
+    },
+    "Screening does not diagnose; anyone who does not pass or has complaints is referred for a full audiological assessment."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "HHIE-S score of 14: what is advised?",
+   "secenekler": [
+    "The result is normal",
+    "Further assessment",
+    "Yearly questionnaire only",
+    "The test is invalid"
+   ],
+   "dogru": 1,
+   "aciklama": "A score above eight is the criterion for _further assessment_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: an older adult has an HHIE-S score of fourteen. By the commonly used criterion, what is advised?",
+     "sonra_bekle": 5,
+     "ses": "Test yourself: an older adult has an H H I E S score of fourteen. By the commonly used criterion, what is advised?"
+    },
+    "The correct answer is B: further assessment.",
+    "A score of fourteen suggests mild to moderate perceived handicap; the person is referred for a full audiological assessment."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How Hearing Aids Work: *Core* Components",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we start the hearing aids section and learn the basic components of a hearing aid.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

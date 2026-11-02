@@ -1,0 +1,106 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R372_A_Male_Voice_on_the_Phone_EN",
+ "kapak": {
+  "ust": "QUICK FACT #372",
+  "baslik": "The missing *fundamental*",
+  "alt": "The right pitch, even on the phone",
+  "cizim": "atim_dizisi",
+  "ayar": {
+   "frekans_hz": 250
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Phones cut low sounds; how does a male voice keep its pitch? #shorts",
+  "aciklama": "A telephone line cuts sound below about 300 hertz, yet we still hear a male voice at the right pitch, because the harmonics carry it. The regularity of the harmonics is perceived as the pitch of a fundamental that is not there. This is called the missing fundamental, and the pitch heard is called the residue pitch.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "psychoacoustics",
+   "pitch"
+  ],
+  "etiketler": [
+   "missing fundamental",
+   "residue pitch",
+   "pitch perception",
+   "harmonics",
+   "fundamental frequency",
+   "psychoacoustics",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Phones cut low sounds; how does a male voice keep its pitch?",
+  "bilgiler": [
+   "A telephone cuts sound below about 300 Hz.",
+   "The harmonics carry the pitch.",
+   "This is called the missing fundamental."
+  ],
+  "hashtag": [
+   "audiology",
+   "psychoacoustics",
+   "pitch"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #372",
+   "metin": "Pitch on *the phone?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Phones cut low sounds; how does a male voice keep its pitch?"
+   ]
+  },
+  {
+   "id": "perde",
+   "tur": "zincir",
+   "baslik": "The missing *fundamental*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Phone",
+     "tr": "nothing below 300 Hz",
+     "cumle": 0
+    },
+    {
+     "ad": "Harmonics",
+     "tr": "passed through",
+     "cumle": 1
+    },
+    {
+     "ad": "Pitch",
+     "tr": "still heard",
+     "cumle": 2
+    }
+   ],
+   "alt": "Residue _pitch_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "A telephone line cuts sound below about three hundred hertz.",
+    "Yet a male voice keeps its pitch, because the harmonics carry it.",
+    "The harmonics' regularity is heard as the pitch of the absent fundamental.",
+    "This is the missing fundamental; the pitch heard is the residue pitch."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D081",
+ "kaynak_baslik": "Pitch Perception and Frequency Discrimination"
+}

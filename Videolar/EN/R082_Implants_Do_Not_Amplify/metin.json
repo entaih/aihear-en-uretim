@@ -1,0 +1,103 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R082_Implants_Do_Not_Amplify_EN",
+ "kapak": {
+  "ust": "QUICK FACT #82",
+  "baslik": "Implants don't *amplify*",
+  "alt": "They turn sound into an electrical code",
+  "cizim": "koklear_implant",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does a cochlear implant make sound louder? #shorts",
+  "aciklama": "A cochlear implant does not amplify sound; it bypasses damaged hair cells and turns sound into an electrical code the auditory nerve can use. The sound processor processes sound, the coil sends the signal through the skin to the internal unit, and electrodes stimulate the nerve directly.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "cochlearimplant",
+   "hearing"
+  ],
+  "etiketler": [
+   "cochlear implant",
+   "sound processor",
+   "electrode array",
+   "electrical stimulation",
+   "auditory nerve",
+   "hearing loss",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does a cochlear implant make sound louder?",
+  "bilgiler": [
+   "A cochlear implant does not amplify sound; it turns it into electrical code.",
+   "The coil passes signal and power through the skin to the internal unit.",
+   "Electrodes inside the cochlea stimulate the auditory nerve directly."
+  ],
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #82",
+   "metin": "Does a cochlear implant *amplify sound?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does a cochlear implant make sound louder?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "The *sound path* in an implant",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Processor",
+     "tr": "processes sound",
+     "cumle": 1
+    },
+    {
+     "ad": "Coil",
+     "tr": "through the skin",
+     "cumle": 2
+    },
+    {
+     "ad": "Electrode",
+     "tr": "stimulates nerve",
+     "cumle": 3
+    }
+   ],
+   "alt": "Damaged _hair cells_ are bypassed.",
+   "alt_cumle": 0,
+   "cumleler": [
+    "No; it turns sound into an electrical code the nerve can use.",
+    "The sound processor in the external unit picks up and processes sound.",
+    "The coil passes signal and power through the skin to the implant.",
+    "Electrodes inside the cochlea stimulate the auditory nerve directly."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D235",
+ "kaynak_baslik": "How Does a Cochlear Implant Work?"
+}

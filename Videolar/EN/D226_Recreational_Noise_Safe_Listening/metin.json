@@ -1,0 +1,766 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D226_Recreational_Noise_Safe_Listening_EN",
+ "kapak": {
+  "ust": "LESSON 226",
+  "baslik": "Safe<br>*listening*",
+  "alt": "Earphones, concerts and WHO criteria",
+  "cizim": "desibel_olcegi",
+  "vurgula": [
+   "konser"
+  ]
+ },
+ "youtube": {
+  "baslik": "Recreational Noise and Safe Listening | Lesson 226 | AIHEAR Audiology Academy",
+  "aciklama": "How long, and at what level, is it safe to listen through earphones? In this lesson we learn about sources of recreational noise, the weekly sound dose criterion of the World Health Organization and ITU (80 dB(A) for 40 hours a week), the standard for safe listening venues and ways to raise awareness among young people.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: WHO and ITU (2019), Safe listening devices and systems: a WHO-ITU standard (ITU-T H.870); WHO (2022), Global standard for safe listening venues and events; Dillard et al. (2022), Prevalence and global estimates of unsafe listening practices in adolescents and young adults, BMJ Global Health; WHO (2021), World Report on Hearing; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "safelistening",
+   "hearinghealth"
+  ],
+  "etiketler": [
+   "safe listening",
+   "recreational noise",
+   "earphones",
+   "personal audio system",
+   "World Health Organization",
+   "WHO ITU H.870",
+   "weekly sound dose",
+   "concert noise",
+   "noise-induced hearing loss",
+   "Make Listening Safe",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 226",
+   "baslik": "Safe *listening*",
+   "alt": "Recreational noise and WHO criteria",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will look at noise outside work: listening through earphones, concerts and entertainment venues.",
+    "We will learn the safe listening criteria of the World Health Organization and ways to raise awareness among young people."
+   ]
+  },
+  {
+   "id": "kaynaklar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Recreational noise",
+   "baslik": "Recreational *noise*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Earphone listening",
+     "cumle": 0,
+     "metin": "Music, video, podcasts"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Concerts, festivals",
+     "cumle": 1,
+     "metin": "High levels for hours"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Nightclubs",
+     "cumle": 2,
+     "metin": "Close speakers, long hours"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sports and stadiums",
+     "cumle": 3,
+     "metin": "Fans, public address"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Gyms",
+     "cumle": 4,
+     "metin": "Loud music classes"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Gaming headsets",
+     "cumle": 5,
+     "metin": "Long sessions"
+    }
+   ],
+   "cumleler": [
+    "Recreational noise is loud sound people choose to be exposed to in their free time; its most common source is earphone listening.",
+    "At concerts and festivals, sound levels can stay high for hours.",
+    "In nightclubs, being close to speakers and staying all night raise the dose quickly.",
+    "In stadiums, crowd noise and public address systems reach high levels within a short time.",
+    "Group exercise classes with loud music are also an important but often overlooked source.",
+    "Long gaming sessions with headsets are also a new habit that raises the weekly dose among young people."
+   ]
+  },
+  {
+   "id": "yayginlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Recreational noise",
+   "baslik": "How *big* is the problem?",
+   "maddeler": [
+    {
+     "metin": "Unsafe listening common in youth",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "About a quarter with earphones",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "About half at venues",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Over a billion young people at risk",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Volume goes up in noise",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SAFE LISTENING",
+    "metin": "Listening at a level and duration that do *not* harm the ear",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Unsafe listening habits are common, especially among young people aged 12 to 35.",
+    {
+     "yazi": "According to a large review published in 2022, about a quarter of young people listened at unsafe levels on personal devices.",
+     "ses": "According to a large review published in twenty twenty two, about a quarter of young people listened at unsafe levels on personal devices."
+    },
+    "The same review estimated that about half of young people were exposed to unsafe levels at entertainment venues.",
+    "The World Health Organization reports that more than a billion young people may be at risk of hearing loss from unsafe listening.",
+    "In noisy places such as a bus or the subway, people turn the volume up even more to hear the music.",
+    "So the use of a personal audio system can lead to much higher doses than listening in a quiet room."
+   ]
+  },
+  {
+   "id": "butce",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Weekly sound dose",
+   "baslik": "The weekly *sound allowance*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 5.5,
+     "ad": "Average listening level",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "yazilar": {
+      "1": "80 dB(A)",
+      "2": "86 dB(A)",
+      "3": "92 dB(A)",
+      "4": "98 dB(A)",
+      "5": "101 dB(A)"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 44,
+     "adim": 10,
+     "ad": "Weekly time (hours)"
+    },
+    "seriler": [
+     {
+      "ad": "d80",
+      "tur": "cubuk",
+      "genislik": 0.55,
+      "noktalar": [
+       [
+        1,
+        40
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "40 hours",
+      "etiket_konum": [
+       1,
+       40
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "d86",
+      "tur": "cubuk",
+      "genislik": 0.55,
+      "noktalar": [
+       [
+        2,
+        10
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "10 hours",
+      "etiket_konum": [
+       2,
+       10
+      ],
+      "cumle": 4
+     },
+     {
+      "ad": "d92",
+      "tur": "cubuk",
+      "genislik": 0.55,
+      "noktalar": [
+       [
+        3,
+        2.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "2.5 hours",
+      "etiket_konum": [
+       3,
+       2.5
+      ],
+      "cumle": 4
+     },
+     {
+      "ad": "d98",
+      "tur": "cubuk",
+      "genislik": 0.55,
+      "noktalar": [
+       [
+        4,
+        0.63
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "38 min",
+      "etiket_konum": [
+       4,
+       0.63
+      ],
+      "cumle": 5
+     },
+     {
+      "ad": "d101",
+      "tur": "cubuk",
+      "genislik": 0.55,
+      "noktalar": [
+       [
+        5,
+        0.31
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "19 min",
+      "etiket_konum": [
+       5,
+       0.31
+      ],
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Safe listening means listening at combinations of level and duration that carry a low risk of harming hearing.",
+    {
+     "yazi": "The 2019 standard of the World Health Organization and the International Telecommunication Union defines a weekly dose for adults.",
+     "ses": "The twenty nineteen standard of the World Health Organization and the International Telecommunication Union defines a weekly dose for adults."
+    },
+    {
+     "yazi": "This dose is equivalent to listening at 80 dB(A) for 40 hours a week.",
+     "ses": "This dose is equivalent to listening at eighty decibels A for forty hours a week."
+    },
+    "By the equal energy principle, each time the level rises by three decibels, the time that uses up the same dose is halved.",
+    {
+     "yazi": "So the weekly allowance falls to 10 hours at 86 dB(A) and to about two and a half hours at 92 dB(A).",
+     "ses": "So the weekly allowance falls to ten hours at eighty six decibels A and to about two and a half hours at ninety two decibels A."
+    },
+    {
+     "yazi": "At 98 dB(A), the allowance drops to about 38 minutes, and at 101 dB(A) to less than 20 minutes.",
+     "ses": "At ninety eight decibels A, the allowance drops to about thirty eight minutes, and at one hundred one decibels A to less than twenty minutes."
+    },
+    "So at very high levels, the weekly allowance can fit into the length of a few songs."
+   ]
+  },
+  {
+   "id": "modlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Weekly sound dose",
+   "baslik": "Two *protection levels*",
+   "maddeler": [
+    {
+     "metin": "Mode 1: 40 hours a week, _80 dB(A)_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Mode 2: 40 hours a week, _75 dB(A)_",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Workplace criterion: 8 hours a day",
+     "cumle": 3,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Concert: about 24 minutes at 100 dB(A)",
+     "cumle": 4,
+     "ikon": "muzik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 4,
+    "vurgula": [
+     {
+      "parca": "konser",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "In the standard, this criterion recommended for adults is called mode 1.",
+    {
+     "yazi": "For children and sensitive users, mode 2 is stricter: 75 dB(A) for 40 hours a week.",
+     "ses": "For children and sensitive users, mode two is stricter: seventy five decibels A for forty hours a week."
+    },
+    "These levels were chosen cautiously, to protect the great majority of listeners.",
+    "Workplace action values, by contrast, are defined over an eight-hour day; both criteria share the same aim but serve different populations.",
+    {
+     "yazi": "If the average level at a concert is 100 dB(A), the weekly allowance is used up in about 24 minutes.",
+     "ses": "If the average level at a concert is one hundred decibels A, the weekly allowance is used up in about twenty four minutes."
+    },
+    "So a two-hour concert like this uses about five weeks of listening allowance in a single night."
+   ]
+  },
+  {
+   "id": "hafta",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Weekly sound dose",
+   "baslik": "Example: the dose of *one week*",
+   "sutunlar": [
+    "Activity",
+    "Time",
+    "Level",
+    "Share of allowance"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Earphones while commuting",
+      "5 hours",
+      "85 dB(A)",
+      "about 40 percent"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Exercise class",
+      "3 hours",
+      "88 dB(A)",
+      "about 50 percent"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Concert",
+      "2 hours",
+      "100 dB(A)",
+      "about 500 percent"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Total",
+      "10 hours",
+      "",
+      "about 590 percent"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Let us imagine a sample week for a young person and calculate how much of the weekly allowance each activity uses.",
+    {
+     "yazi": "Listening for an hour a day on the way to school or work, at about 85 dB(A), uses about 40 percent of the allowance.",
+     "ses": "Listening for an hour a day on the way to school or work, at about eighty five decibels A, uses about forty percent of the allowance."
+    },
+    {
+     "yazi": "Three hours a week of exercise classes with music at 88 dB(A) add about 50 percent more.",
+     "ses": "Three hours a week of exercise classes with music at eighty eight decibels A add about fifty percent more."
+    },
+    {
+     "yazi": "A two-hour concert at 100 dB(A) on the weekend is, on its own, about five times the allowance.",
+     "ses": "A two-hour concert at one hundred decibels A on the weekend is, on its own, about five times the allowance."
+    },
+    "In total, this week's dose reaches about six times the dose considered safe.",
+    "The example shows that most of the dose often comes from a single loud activity, and that is where protection helps most."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "WHO standards",
+   "baslik": "The safe listening *device*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Dose tracking",
+     "cumle": 0,
+     "metin": "Weekly allowance calculated"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Information and alerts",
+     "cumle": 1,
+     "metin": "Notice as allowance runs out"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Volume limiting",
+     "cumle": 2,
+     "metin": "Automatic or voluntary"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Parental control",
+     "cumle": 3,
+     "metin": "On children's devices"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "User information",
+     "cumle": 4,
+     "metin": "Safe listening tips"
+    }
+   ],
+   "cumleler": [
+    "The same standard also defines the features that devices such as phones and music players are recommended to have.",
+    "The device tracks the sound dose the user listens to and shows how much of the weekly allowance has been used.",
+    "As the allowance nears its end, the user receives personalized information and an alert.",
+    "If the allowance is exceeded, the volume can be limited automatically or with the user's consent.",
+    "On devices used by children, parents should be able to limit the volume.",
+    "Some of these features are already found in the health and sound settings of some smartphones; showing them to users helps."
+   ]
+  },
+  {
+   "id": "mekan",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "WHO standards",
+   "baslik": "*Six features* for venues",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Level limit",
+     "cumle": 0,
+     "metin": "100 dB(A) over 15 minutes"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Live monitoring",
+     "cumle": 1,
+     "metin": "Calibrated device, records"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Acoustic setup",
+     "cumle": 2,
+     "metin": "Sound system and room"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protector supply",
+     "cumle": 3,
+     "metin": "Earplugs for the audience"
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Quiet zone",
+     "cumle": 4,
+     "metin": "Resting the ears"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Training",
+     "cumle": 5,
+     "metin": "Informing staff and audience"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In 2022, the World Health Organization published a global standard for safe listening venues and events.",
+     "ses": "In twenty twenty two, the World Health Organization published a global standard for safe listening venues and events."
+    },
+    {
+     "yazi": "The first feature is not exceeding 100 dB(A) averaged over fifteen minutes.",
+     "ses": "The first feature is not exceeding one hundred decibels A averaged over fifteen minutes."
+    },
+    "Sound levels are monitored live and recorded by designated staff using calibrated devices.",
+    "Room acoustics and the sound system are set up to give good sound without unnecessary loudness.",
+    "Hearing protectors are provided to the audience, and their correct use is explained.",
+    "Quieter areas are set aside where ears can rest, and staff and audience are informed about safe listening.",
+    "This standard is not a binding law but a framework prepared for countries and venues to adopt."
+   ]
+  },
+  {
+   "id": "belirti",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Awareness",
+   "baslik": "*Warning* signs after a concert",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "outer hair cells",
+     "cumle": 4
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "synapses and nerve fibers",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 4
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ringing and fullness: a warning",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Recovery does not mean undamaged",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Sudden one-sided loss: see a doctor",
+     "cumle": 5,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "The most important thing to explain to young people is the warning signs the body gives.",
+    "Ringing in the ears, fullness and muffled hearing after loud sound are signs of a temporary threshold shift.",
+    "These symptoms usually pass within hours, sometimes a few days, but their recovery does not show that the ear is undamaged.",
+    "Animal studies have shown that after such exposure, the synapses between hair cells and nerve fibers can be permanently reduced.",
+    "Repeated temporary shifts can, over time, turn into permanent damage to the outer hair cells.",
+    "If symptoms do not pass, or there is a sudden drop in hearing in one ear, the person should see a physician without delay."
+   ]
+  },
+  {
+   "id": "oneriler",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Awareness",
+   "baslik": "Safe listening *tips*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Turn it down",
+     "cumle": 0,
+     "metin": "Protect the allowance"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Limit time",
+     "cumle": 1,
+     "metin": "Take breaks"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Good earphones",
+     "cumle": 2,
+     "metin": "Noise canceling"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Track it",
+     "cumle": 3,
+     "metin": "Phone dose data"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Wear protection",
+     "cumle": 4,
+     "metin": "Earplugs at concerts"
+    }
+   ],
+   "cumleler": [
+    "The first tip is simple: keeping the volume low is the step that protects the weekly allowance most.",
+    "Limiting listening time and taking regular breaks also reduce the dose.",
+    "Earphones that fit well or cancel noise reduce the need to turn the volume up in noisy places.",
+    "Following the phone's sound dose data lets people see their habits as a concrete number.",
+    "At concerts and clubs, wearing earplugs, staying away from speakers and taking breaks in quiet areas are recommended.",
+    "Regular hearing checks are the way to catch early changes."
+   ]
+  },
+  {
+   "id": "farkindalik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Awareness",
+   "baslik": "*Awareness* among young people",
+   "ogeler": [
+    {
+     "ikon": "okul",
+     "baslik": "School programs",
+     "cumle": 0,
+     "metin": "Education at an early age"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Apps",
+     "cumle": 1,
+     "metin": "Measurement and screening"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Musicians and DJs",
+     "cumle": 3,
+     "metin": "Role models"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Positive message",
+     "cumle": 4,
+     "metin": "Balance, not bans"
+    }
+   ],
+   "cumleler": [
+    "Starting safe listening education at school age makes it easier to shape behavior before habits settle.",
+    {
+     "yazi": "Tools such as the hearWHO app, developed by the World Health Organization for hearing screening, help people monitor their own hearing.",
+     "ses": "Tools such as the hear W H O app, developed by the World Health Organization for hearing screening, help people monitor their own hearing."
+    },
+    "But giving information alone does not always change behavior; young people often see the risk as distant and not their own.",
+    {
+     "yazi": "When musicians and DJs wear hearing protection, they set a strong example for young people."
+    },
+    "The message works better when it is not about banning music but about enjoying it for many years.",
+    "Audiologists can take on an important educational role in schools, youth centers and on social media."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If you must raise your voice to talk to someone an arm's length away, the level is probably too high. Always ask about earphone habits in the history.",
+   "cumleler": [
+    "A tip from the field: if you need to raise your voice to talk to someone an arm's length away, the place is probably too loud.",
+    "This simple rule teaches young people to recognize a risky setting even without a sound level meter.",
+    "In a young person's audiological history, always ask how many hours a day they use earphones and in what settings.",
+    "Opening the phone's sound dose screen together turns an abstract warning into the person's own data."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Adult criterion: 40 hours, 80 dB(A)",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Time halves every 3 dB",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Venues: 100 dB(A) over 15 minutes",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Warning signs: ringing, fullness",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The World Health Organization and the ITU recommend for adults a weekly dose equal to 80 dB(A) for 40 hours.",
+     "ses": "The World Health Organization and the I T U recommend for adults a weekly dose equal to eighty decibels A for forty hours."
+    },
+    "Each time the level rises by three decibels, the safe time is halved; at very high levels, the allowance is measured in minutes.",
+    {
+     "yazi": "The 2022 venue standard includes a limit of 100 dB(A) averaged over fifteen minutes and five supporting features.",
+     "ses": "The twenty twenty two venue standard includes a limit of one hundred decibels A averaged over fifteen minutes and five supporting features."
+    },
+    "Ringing and fullness are warnings even when temporary; awareness in young people grows with positive, concrete messages."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "With 80 dB(A) for 40 hours a week, about how long is safe at 89 dB(A)?",
+   "secenekler": [
+    "20 hours",
+    "10 hours",
+    "5 hours",
+    "1 hour"
+   ],
+   "dogru": 2,
+   "aciklama": "From 80 to 89 is 9 dB: halved three times, 40, 20, 10, _5 hours_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: by the criterion of 80 dB(A) for 40 hours a week, about how long is the safe weekly time at 89 dB(A)?",
+     "ses": "Test yourself: by the criterion of eighty decibels A for forty hours a week, about how long is the safe weekly time at eighty nine decibels A?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: about five hours.",
+    "Nine decibels means three steps of three decibels, so the time is halved three times: 40, 20, 10 and 5 hours."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Medicolegal Basics: *Calculating* Hearing Handicap",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will move to medicolegal assessment and how the percentage of hearing handicap is calculated.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R101_One_Test_Is_Not_Enough_EN",
+ "kapak": {
+  "ust": "QUICK FACT #101",
+  "baslik": "One test *isn't enough*",
+  "alt": "Each test looks at one part of the pathway",
+  "cizim": "kulak_kesit",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why isn't one hearing test enough? #shorts",
+  "aciklama": "In audiology, no conclusion rests on a single test: tympanometry assesses the middle ear, otoacoustic emissions the cochlea, and the auditory brainstem response the neural pathway. Under the cross-check principle described by Jerger and Hayes in 1976, a result is not accepted as final until another independent test confirms it.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingtest",
+   "facts"
+  ],
+  "etiketler": [
+   "test battery",
+   "cross-check principle",
+   "tympanometry",
+   "otoacoustic emissions",
+   "ABR",
+   "Jerger",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why isn't one hearing test enough?",
+  "bilgiler": [
+   "Each test looks at a different part of the auditory pathway.",
+   "Tympanometry assesses the middle ear, OAE the cochlea, ABR the neural pathway.",
+   "Cross-check principle (Jerger and Hayes, 1976): another test confirms a result."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingtest",
+   "facts"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #101",
+   "metin": "Why isn't one hearing test *enough?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why isn't one hearing test enough?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Each test checks *one part*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Middle ear",
+     "tr": "tympanometry",
+     "cumle": 1
+    },
+    {
+     "ad": "Cochlea",
+     "tr": "OAE",
+     "cumle": 1,
+     "gecikme": 1.3
+    },
+    {
+     "ad": "Neural path",
+     "tr": "ABR",
+     "cumle": 1,
+     "gecikme": 2.4
+    }
+   ],
+   "alt": "_Cross-check_: tests confirm each other.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Hearing is a chain running from the outer ear to the cortex.",
+    "Tympanometry assesses the middle ear, OAE the cochlea, ABR the neural pathway.",
+    {
+     "yazi": "In 1976, Jerger and Hayes described the cross-check principle.",
+     "ses": "In nineteen seventy six, Jerger and Hayes described the cross-check principle."
+    },
+    "No result is final until an independent test confirms it."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D008",
+ "kaynak_baslik": "The Audiology Test Battery: What Each Test Tells Us"
+}

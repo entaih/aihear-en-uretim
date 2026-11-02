@@ -1,0 +1,739 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D094_Why_Speech_Audiometry_EN",
+ "kapak": {
+  "ust": "LESSON 94",
+  "baslik": "Speech<br>*audiometry*",
+  "alt": "Goals and test types",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Why Speech Audiometry? Goals and Test Types | Lesson 94 | AIHEAR Audiology Academy",
+  "aciklama": "A pure tone audiogram shows how soft a sound we can hear; speech audiometry measures how well we understand speech. In this lesson we introduce the goals of speech audiometry, threshold tests (SDT, SRT), suprathreshold tests (SDS, MCL, UCL), test materials and the ideas of open and closed sets.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology; ASHA, Guidelines for Determining Threshold Level for Speech.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "speechaudiometry",
+   "hearing"
+  ],
+  "etiketler": [
+   "speech audiometry",
+   "SDT",
+   "speech detection threshold",
+   "SRT",
+   "speech recognition threshold",
+   "SDS",
+   "word recognition",
+   "open set closed set",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 94",
+   "baslik": "Why Speech *Audiometry?* Goals and Test Types",
+   "alt": "Why is it done, and which tests does it include?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn why speech audiometry is done and which tests it includes.",
+    "We will meet threshold and suprathreshold tests, test materials and the ideas of open and closed sets."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Goals",
+   "baslik": "Why a *speech* test?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Verification",
+     "metin": "Cross-checks pure tone thresholds",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Understanding",
+     "metin": "How clear is speech?",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Counseling",
+     "metin": "Expected benefit from devices",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Diagnostic clue",
+     "metin": "Disproportionately low score",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Functional loss",
+     "metin": "Mismatch between thresholds",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Speech audiometry is the general name for hearing tests that use speech stimuli.",
+    "Its first goal is to check whether the pure tone thresholds are reliable by comparing them with the speech threshold.",
+    "Its second goal is to show not just whether a person hears speech, but how clearly they understand it.",
+    "Third, it helps set realistic expectations in hearing aid or cochlear implant decisions and in counseling.",
+    "Scores lower than expected for the degree of loss can suggest a problem beyond the cochlea, which guides the test battery.",
+    "A clear mismatch between pure tone and speech thresholds is an important finding when a functional hearing loss is suspected.",
+    "In short, the pure tone audiogram shows audibility, and speech tests show what hearing means for everyday communication."
+   ]
+  },
+  {
+   "id": "yetmez",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Goals",
+   "baslik": "Why pure tones are *not enough*",
+   "maddeler": [
+    {
+     "metin": "Speech is a _rapidly changing_ complex signal",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Loss does not only _soften_, it distorts",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Same audiogram, _different_ understanding",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "The brain _takes part_ too",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "A pure tone is a steady stimulus of a single frequency; speech is a complex signal whose frequency and intensity change rapidly.",
+    "Soft consonants, especially at high frequencies, play a large role in understanding speech.",
+    "According to Plomp's model, hearing loss has two components: one that makes sounds softer and one that distorts them.",
+    "We can largely make up for the first by making sounds louder; the second does not improve with amplification.",
+    "This is why two people with similar audiograms can understand speech at very different levels.",
+    "Understanding speech also requires the auditory pathways, language and attention to work together."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Test types",
+   "baslik": "*Four families* of speech tests",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Threshold tests",
+     "metin": "SDT and SRT",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Suprathreshold",
+     "metin": "SDS, MCL and UCL",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "In noise",
+     "metin": "QuickSIN, HINT, matrix tests",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Special tests",
+     "metin": "Central auditory assessment",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "We can group speech tests into four families according to their purpose.",
+    "Threshold tests look for the lowest level at which speech is detected or starts to be understood.",
+    "Suprathreshold tests measure how well speech is understood, or how uncomfortable it is, when it is presented at a clearly audible level.",
+    "Speech-in-noise tests imitate the hardest condition of daily life: background noise.",
+    "Special tests use dichotic or degraded speech stimuli to assess central auditory processing.",
+    "In this lesson, we will take a general look at the first two families; we will cover each one in detail in later lessons."
+   ]
+  },
+  {
+   "id": "sdt_srt",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Test types",
+   "baslik": "Detecting and *understanding*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Speech level (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Correct responses (%)"
+    },
+    "seriler": [
+     {
+      "ad": "fark_etme",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        5,
+        15
+       ],
+       [
+        10,
+        50
+       ],
+       [
+        15,
+        85
+       ],
+       [
+        20,
+        98
+       ],
+       [
+        25,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "detection",
+      "cumle": 1
+     },
+     {
+      "ad": "alma",
+      "noktalar": [
+       [
+        9,
+        2
+       ],
+       [
+        14,
+        15
+       ],
+       [
+        19,
+        50
+       ],
+       [
+        24,
+        85
+       ],
+       [
+        29,
+        98
+       ],
+       [
+        34,
+        100
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "recognition",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sdt",
+      "x": 10,
+      "y": 50,
+      "dus": "x",
+      "etiket": "SDT",
+      "cumle": 1
+     },
+     {
+      "ad": "srt",
+      "x": 19,
+      "y": 50,
+      "dus": "x",
+      "etiket": "SRT",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "x": [
+       10,
+       19
+      ],
+      "y": 35,
+      "etiket": "8 to 10 dB",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "SDT: detecting _the presence_ of speech",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "SRT: repeating _half_ of the words",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "SDT is usually 8 to 10 dB better",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Let us see the difference between the two threshold tests on this schematic graph.",
+    {
+     "yazi": "The speech detection threshold, or SDT, is the lowest level at which a person notices that speech is present."
+    },
+    {
+     "yazi": "In the SDT, the patient does not need to understand the word; it is enough to signal hearing the speech sound."
+    },
+    "The speech recognition threshold, or SRT, is the lowest level at which fifty percent of the words are repeated correctly.",
+    "Understanding takes more sound energy than just detecting, so the SRT curve shifts to the right.",
+    {
+     "yazi": "As a result, the SDT is usually about eight to ten decibels better than the SRT."
+    },
+    {
+     "yazi": "The SDT is a valuable option for young children who cannot do an SRT, and for patients with language barriers or who cannot speak."
+    }
+   ]
+  },
+  {
+   "id": "esik_ustu",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Test types",
+   "baslik": "Suprathreshold *tests*",
+   "maddeler": [
+    {
+     "metin": "_SDS_: percent of words correct, comfortable level",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_MCL_: most comfortable level",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_UCL_: uncomfortable loudness level",
+     "cumle": 3,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Testing at several levels: _performance curve_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "QUESTION",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Threshold test",
+      "metin": "How soft can they hear?",
+      "cumle": 0
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Suprathreshold",
+      "metin": "Once heard, how much is understood?",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The best known suprathreshold test is the speech discrimination score, or SDS.",
+    "In this test, words are presented at a comfortably audible level, and the percentage repeated correctly is calculated.",
+    "The most comfortable level, or MCL, is the level at which speech is most comfortable to listen to.",
+    "The uncomfortable loudness level, or UCL, is the level at which speech becomes uncomfortable.",
+    "These two measures are used especially in hearing aid fitting and in assessing sound sensitivity.",
+    "If word recognition is measured at several levels, we get a performance curve that changes with intensity."
+   ]
+  },
+  {
+   "id": "materyal",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Materials and presentation",
+   "baslik": "Test *materials*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Syllable",
+     "metin": "Catches a single sound difference",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "One-syllable word",
+     "metin": "Word recognition tests",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Multisyllable word",
+     "metin": "Threshold tests",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Sentence",
+     "metin": "Closest to everyday speech",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Digits",
+     "metin": "Less affected by language skills",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The materials used in speech tests can be ordered from the smallest unit to the largest.",
+    "Nonsense syllables are used to examine whether a single sound difference can be discriminated.",
+    "One-syllable words are the core material of word recognition tests.",
+    "Multisyllable words are easier to recognize and are preferred in threshold tests.",
+    "Sentences contain context, so they are closest to everyday speech and are often used in tests in noise.",
+    "Digits come from a small set that everyone knows, so they are less affected by language and vocabulary."
+   ]
+  },
+  {
+   "id": "set",
+   "tur": "karsilastir",
+   "bolum_no": "PART 3",
+   "bolum": "Materials and presentation",
+   "baslik": "Open set or *closed set?*",
+   "sol": {
+    "ust": "Open set",
+    "maddeler": [
+     {
+      "metin": "No choices given, _word is repeated_",
+      "cumle": 0
+     },
+     {
+      "metin": "Harder, closer to real life",
+      "cumle": 1
+     },
+     {
+      "metin": "Patient must be able to speak",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Closed set",
+    "maddeler": [
+     {
+      "metin": "Patient _points_ to a choice",
+      "cumle": 3
+     },
+     {
+      "metin": "Young children and nonverbal patients",
+      "cumle": 4
+     },
+     {
+      "metin": "Guessing raises the score",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "In open set tests, the patient is given no choices; they repeat or write the word they heard.",
+    "This format is harder and gives a picture closer to everyday communication.",
+    "But the patient must be able to speak, and their response must be understood correctly.",
+    "In closed set tests, the patient points to what they heard among a few pictures or words.",
+    {
+     "yazi": "This format is useful for young children and people with speech disorders; in English, the WIPI picture test is an example."
+    },
+    "In a closed set there is a chance of guessing right, so scores are higher than in open sets and are not directly comparable."
+   ]
+  },
+  {
+   "id": "sunum",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Materials and presentation",
+   "baslik": "Presentation and *response*",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "odyometre",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 2
+    },
+    {
+     "parca": "interkom",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "odyometre",
+     "metin": "speech channel",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "each ear separately",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "sound field",
+     "cumle": 2
+    },
+    {
+     "parca": "interkom",
+     "metin": "talkback",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Recorded material is more standardized",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Response: repeating, writing, pointing",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Speech stimuli are delivered through the speech channel of the audiometer, and this channel is also calibrated regularly.",
+    "In tests with earphones, each ear is assessed separately.",
+    "Sound-field tests through loudspeakers show how both ears work together, or aided performance.",
+    "The stimulus can come from recorded material or monitored live voice; recorded material gives more standardized results.",
+    "The audiologist hears the patient's spoken response through the booth's talkback system.",
+    "The response can be given by repeating the word, writing it or pointing to a picture."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "For patients with a different first language, limited literacy or a strong regional accent, adapt the materials and response format, and note this in the report.",
+   "cumleler": [
+    "Speech tests depend on language; this is their most important difference from pure tone testing.",
+    "In a patient whose first language is not the test language, a low score may come from language rather than hearing.",
+    "In such cases, materials less affected by language, such as digits or closed sets, may be preferred.",
+    "State any adaptation you made in the report, so that the next test can be compared under the same conditions."
+   ]
+  },
+  {
+   "id": "birlikte",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Interpreting together",
+   "baslik": "Pure tones and speech *together*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: sloping high-frequency loss",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_SRT_: 25 dB HL, agrees with PTA",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_SDS_: 76 percent at 70 dB HL",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       60,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "In this example, we see a hearing loss in the right ear that slopes toward the high frequencies.",
+    "The average of the thresholds at five hundred, one thousand and two thousand hertz, the pure tone average, is about twenty eight decibels.",
+    "The SRT was found at twenty five decibels HL; the difference is within ten decibels, so the results support each other.",
+    "The word recognition score is seventy six percent at seventy decibels HL.",
+    "If the patient says they hear speech in quiet but mix up some words, this picture fits that report.",
+    "Together, pure tone and speech results describe both the degree of the loss and its effect on everyday communication."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpreting together",
+   "baslik": "*What* goes in the report?",
+   "maddeler": [
+    {
+     "metin": "Test type and _word list used_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Presentation level and _transducer_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Recorded or _live voice_",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_Masking level_ to the opposite ear",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RULE",
+    "metin": "A score without its test conditions *cannot be interpreted*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "The report first states which test and which word list were used.",
+    "It states the presentation level and whether the test was done with earphones or in the sound field.",
+    "Whether recorded material or monitored live voice was used is also noted, since it affects the result.",
+    "If the opposite ear was masked, the noise level used is also recorded.",
+    "Without this information, a speech score cannot be interpreted correctly or compared with later tests."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Speech tests measure _understanding_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Threshold tests: _SDT and SRT_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "SDT _8 to 10 dB_ better than SRT",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Open and closed sets _not comparable_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Speech audiometry verifies pure tone thresholds and shows how clearly speech is understood.",
+    {
+     "yazi": "The threshold tests are SDT and SRT; the suprathreshold tests are SDS, MCL and UCL."
+    },
+    "The speech detection threshold is usually about eight to ten decibels better than the speech recognition threshold.",
+    "Closed set tests are useful for young children, but their scores are not directly comparable with open set scores."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "SRT is 40 dB HL. Where is the SDT expected?",
+   "secenekler": [
+    "40 to 50 dB HL",
+    "30 to 32 dB HL",
+    "10 dB HL",
+    "60 dB HL"
+   ],
+   "dogru": 1,
+   "aciklama": "Detecting speech takes less energy than understanding it; the SDT is _about 8 to 10 dB_ better than the SRT.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: A patient's SRT is forty decibels HL. Roughly where would you expect the SDT to be?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: around thirty to thirty two decibels HL.",
+    {
+     "yazi": "Detecting speech takes less sound energy than understanding it, so the SDT is about eight to ten decibels better."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How to Find the Speech Recognition *Threshold* (SRT)",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn step by step how to find the speech recognition threshold, the SRT.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

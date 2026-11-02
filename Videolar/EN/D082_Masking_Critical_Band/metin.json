@@ -1,0 +1,719 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D082_Masking_Critical_Band_EN",
+ "kapak": {
+  "ust": "LESSON 82",
+  "baslik": "Masking and<br>*critical bands*",
+  "alt": "How does one sound cover another?",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 500
+  }
+ },
+ "youtube": {
+  "baslik": "Masking and the Critical Band | Lesson 82 | AIHEAR Audiology Academy",
+  "aciklama": "Why does noise make a sound inaudible? In this lesson we look at psychoacoustic masking, Fletcher's critical band experiment, auditory filters, why low-pitched sounds mask high-pitched sounds more, known as the upward spread of masking, forward and backward masking, and informational masking.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Fletcher (1940), Auditory patterns, Reviews of Modern Physics; Glasberg and Moore (1990), Derivation of auditory filter shapes from notched-noise data, Hearing Research; Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "psychoacoustics",
+   "masking"
+  ],
+  "etiketler": [
+   "masking",
+   "critical band",
+   "auditory filter",
+   "equivalent rectangular bandwidth",
+   "upward spread of masking",
+   "forward masking",
+   "backward masking",
+   "informational masking",
+   "notched noise",
+   "psychoacoustics",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 82",
+   "baslik": "Masking and the *critical band*",
+   "alt": "How does one sound cover another?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how one sound makes another sound inaudible, that is, psychoacoustic masking.",
+    "Step by step, we will see the critical band, auditory filters, the upward spread of masking and temporal masking."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "What is masking?",
+   "baslik": "*Defining* masking",
+   "maddeler": [
+    {
+     "metin": "One sound _raises the threshold_ of another",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "The covering sound: _masker_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "The covered sound: _signal_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Amount: _masked minus quiet threshold_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EXAMPLE",
+    "metin": "10 dB in quiet, 40 dB in noise: *30 dB* of masking",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Masking is the rise in the hearing threshold of one sound in the presence of another sound.",
+    "The covering sound is called the masker, and the sound that becomes harder to hear is called the signal.",
+    "The amount of masking is found by subtracting the signal's threshold in quiet from its threshold measured with the masker present.",
+    "For example, if a tone is heard at ten decibels in quiet and at forty decibels in noise, the amount of masking is thirty decibels.",
+    "In daily life, this is the main reason we find it hard to follow speech in a noisy café.",
+    "In clinical masking, we use the same principle on purpose, keeping the opposite ear busy with noise."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What is masking?",
+   "baslik": "Types of masking over *time*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Simultaneous",
+     "metin": "Signal and noise together",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Forward masking",
+     "metin": "Noise first, signal after",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Backward masking",
+     "metin": "Signal first, noise after",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "We divide masking into three types by the timing of the masker and the signal.",
+    "In simultaneous masking, the signal and the masker are present at the same time; it is the strongest and most studied type.",
+    "In forward masking, a signal arriving shortly after the masker ends is harder to hear.",
+    "In backward masking, the signal comes shortly before the masker and is still affected.",
+    "Forward and backward masking together are called temporal masking.",
+    "Let us start with simultaneous masking, because the concept of the critical band was born here."
+   ]
+  },
+  {
+   "id": "fletcher",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "The critical band",
+   "baslik": "Fletcher's *band-widening* experiment",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Fixed tone",
+     "metin": "For example, 1000 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Narrow noise",
+     "metin": "Around the tone",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Band widens",
+     "metin": "Threshold rises",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Critical band",
+     "metin": "Then threshold stays flat",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The concept of the critical band is based on experiments published by Harvey Fletcher in nineteen forty."
+    },
+    "In the experiment, the threshold of a tone of fixed frequency, for example one thousand hertz, is measured in noise.",
+    "The noise is first given as a narrow band around the tone; the noise level per hertz is kept constant.",
+    "As the band widens, the total noise energy increases and the tone's threshold rises too.",
+    "But once the band goes beyond a certain width, the threshold no longer rises, even though the noise keeps increasing.",
+    "This limiting width is called the critical band; only the noise inside this band masks the tone."
+   ]
+  },
+  {
+   "id": "filtre",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The critical band",
+   "baslik": "The cochlea is a *filter bank*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Base: high",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "metin": "Apex: low",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "1000 Hz region",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Each region is a _band-pass filter_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Critical band: the filter's _width_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "This finding rests on the cochlea: the base of the basilar membrane responds to high frequencies and the apex to low ones.",
+    "A one thousand hertz tone stimulates most strongly its own region, where the traveling wave peaks.",
+    "Each region behaves like a filter that passes only a certain frequency range; this is called an auditory filter.",
+    "The critical band is the effective width of this auditory filter.",
+    "When hearing a tone, the ear listens to the output of the filter centered on that tone; noise outside the filter adds little to this output.",
+    "So the noise that masks a tone most efficiently is a narrow band around that tone."
+   ]
+  },
+  {
+   "id": "genislik",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "The critical band",
+   "baslik": "*How* wide is the auditory filter?",
+   "sutunlar": [
+    "Center frequency",
+    "ERB (approx.)",
+    "Share of center"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "52 Hz",
+      "21 percent"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "79 Hz",
+      "16 percent"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "133 Hz",
+      "13 percent"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "241 Hz",
+      "12 percent"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "456 Hz",
+      "11 percent"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Filter width increases with frequency; today it is most often expressed as the equivalent rectangular bandwidth, or ERB.",
+     "ses": "Filter width increases with frequency; today it is most often expressed as the equivalent rectangular bandwidth, or E.R.B."
+    },
+    {
+     "yazi": "The table gives approximate values for young normal-hearing adults, from the nineteen ninety formula of Glasberg and Moore."
+    },
+    "Although the filter looks narrow at low frequencies, it is wider relative to the center frequency.",
+    {
+     "yazi": "At one thousand hertz, the ERB is about one hundred thirty three hertz, about thirteen percent of the center frequency.",
+     "ses": "At one thousand hertz, the E.R.B. is about one hundred thirty three hertz, about thirteen percent of the center frequency."
+    },
+    "At high frequencies the width rises to hundreds of hertz, but the ratio stays around eleven to twelve percent.",
+    {
+     "yazi": "Zwicker's classic critical band scale gives somewhat wider values and divides the hearing range into about twenty four bands."
+    }
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The critical band",
+   "baslik": "*How* is the filter measured?",
+   "maddeler": [
+    {
+     "metin": "Notched noise: _no noise around the tone_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Wider notch: _lower threshold_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "At moderate levels, _roughly symmetrical_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Tuning curve: _V-shaped_ selectivity",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "METHODS",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Notched noise",
+      "metin": "Shape of the filter",
+      "cumle": 0
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Tuning curve",
+      "metin": "Frequency selectivity",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Today the shape of the auditory filter is usually measured with the notched-noise method; the area around the tone is cleared of noise.",
+    "As the notch widens, less noise falls into the filter and the tone's threshold drops.",
+    "From how the threshold changes with notch width, the width and shape of the filter are calculated.",
+    "At moderate levels the filter is roughly symmetrical; at high levels, its low-frequency side becomes broader.",
+    "Another method is the psychophysical tuning curve, which plots the masker level needed at each frequency to mask a fixed, soft tone.",
+    "In a normal ear this curve is sharp and V-shaped, and it shows the frequency selectivity of the ear."
+   ]
+  },
+  {
+   "id": "klinik_bant",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The critical band",
+   "baslik": "The critical band *in the clinic*",
+   "maddeler": [
+    {
+     "metin": "Pure-tone masking: _narrowband noise_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Energy outside the band _only annoys_",
+     "cumle": 1,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Wider filters: _easier_ masking",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "ayar": {
+     "ia_db": 40
+    },
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "metin": "Narrowband noise",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "This is why, in pure-tone audiometry, we mask the opposite ear with narrowband noise centered on the test frequency.",
+    "Energy falling outside the critical band does not add to masking; it only makes the sound louder and more annoying.",
+    "Narrowband noise gives the same masking effect with a lower overall loudness.",
+    "The narrowband noise in audiometers is kept a little wider than the critical band to cover differences between people.",
+    "In cochlear damage, auditory filters broaden, so the same noise masks the signal more easily in the damaged ear.",
+    "We will return to this in the lesson on how cochlear damage changes perception."
+   ]
+  },
+  {
+   "id": "yayilim",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Spread of masking",
+   "baslik": "Low sounds mask *high* sounds",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "500 Hz wave",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "metin": "Passes the high region",
+     "cumle": 2
+    },
+    {
+     "parca": "tepe",
+     "metin": "Lower regions: little effect",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Masking is not symmetrical: a low-pitched sound masks a high-pitched sound much more strongly than the reverse.",
+    "The reason is the structure of the traveling wave; the wave always moves from the base of the cochlea toward the apex.",
+    "A five hundred hertz sound passes the high-frequency regions at the base before reaching its own region, and sets them vibrating too.",
+    "After the wave peaks, it dies out quickly, so it hardly spreads to lower-frequency regions.",
+    "As a result, the effect of a low-frequency masker spreads toward high frequencies; this is called the upward spread of masking.",
+    {
+     "yazi": "This asymmetry was first shown in nineteen twenty four, in two-tone experiments by Wegel and Lane."
+    }
+   ]
+  },
+  {
+   "id": "pes_tiz",
+   "tur": "karsilastir",
+   "bolum_no": "PART 3",
+   "bolum": "Spread of masking",
+   "baslik": "Low masker, *high* masker",
+   "sol": {
+    "ust": "Low-frequency masker",
+    "maddeler": [
+     {
+      "metin": "Effect spreads widely _toward highs_",
+      "cumle": 0
+     },
+     {
+      "metin": "Spread _grows_ with level",
+      "cumle": 1
+     },
+     {
+      "metin": "Examples: engines, air conditioning, crowds",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "High-frequency masker",
+    "maddeler": [
+     {
+      "metin": "Effect stays in a _narrow_ area",
+      "cumle": 3
+     },
+     {
+      "metin": "_Hardly affects_ lower sounds",
+      "cumle": 4
+     },
+     {
+      "metin": "Examples: whistling, hissing",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "The effect of a low-frequency masker spreads over a wide area above its own frequency.",
+    "As the masker level rises, this spread grows disproportionately, because the filter's low-frequency side broadens at high levels.",
+    "So sounds rich in low frequencies, such as engine noise, air conditioning hum and crowd noise, are very effective maskers.",
+    "The effect of a high-frequency masker, by contrast, stays in a narrow area around its own frequency.",
+    "A high-frequency masker changes the threshold of lower sounds very little.",
+    "High-pitched sounds such as whistling or hissing can be annoying, but they hardly cover the low-frequency parts of speech."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Spread of masking",
+   "baslik": "Upward spread and *speech*",
+   "maddeler": [
+    {
+     "metin": "Strong vowels mask _weak consonants_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Low noise wipes out _high consonants_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Too much low gain in aids is _harmful_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "unluler",
+      "cumle": 0
+     },
+     {
+      "parca": "unsuzler",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "In speech, strong, low-frequency vowels can partly mask the weak, high-frequency consonants that follow right after them.",
+    "In a noisy place, low-frequency noise covers the high-frequency consonants that carry the intelligibility of speech.",
+    "This explains why speech in noise breaks down first in the consonants.",
+    "In hearing aids, too much low-frequency gain in noisy places can cover high-frequency information by the same mechanism.",
+    "So many hearing aids offer programs and settings that reduce low-frequency gain in noise.",
+    "In cochlear damage, the filters broaden, so the upward spread becomes even more marked."
+   ]
+  },
+  {
+   "id": "zamansal",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Temporal and informational masking",
+   "baslik": "*Masking* along the time axis",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Backward masking",
+     "metin": "A few tens of ms before",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Masker",
+     "metin": "Simultaneous effect strongest",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Forward masking",
+     "metin": "About 100 to 200 ms",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Let us think of temporal masking on a timeline; the strongest effect is seen while the masker is on.",
+    "The masker's effect does not vanish when it ends; forward masking fades over about one hundred to two hundred milliseconds.",
+    "The closer the signal is to the end of the masker, and the louder the masker, the greater the forward masking.",
+    "Backward masking occurs over a much shorter interval, only a few tens of milliseconds, and its amount is smaller.",
+    "Backward masking decreases clearly with practice, so it is linked more with central processing.",
+    "Forward masking, by contrast, partly reflects the recovery time of the cochlea and auditory nerve after a stimulus."
+   ]
+  },
+  {
+   "id": "bilgisel",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Temporal and informational masking",
+   "baslik": "Energetic or *informational*?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Energetic",
+     "metin": "Energy overlaps in a filter",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Informational",
+     "metin": "Similar sounds get mixed",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Central process",
+     "metin": "Attention and segregation",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "More vulnerable",
+     "metin": "Children and older adults",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The masking we have described so far comes from energy overlapping in the same auditory filters; this is called energetic masking.",
+    "But sometimes a signal cannot be understood even though it is clearly represented in the cochlea.",
+    "For example, when two people talk at once, the second talker's words get mixed with the target speech; this is called informational masking.",
+    "Informational masking relates to central processes such as attention, segregation and uncertainty.",
+    "It decreases when the target and the masker come from different directions, or when their voices are clearly different.",
+    "Children and older adults are usually more affected by informational masking."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If low-frequency thresholds are unexpectedly high, think of ambient noise. Booth noise is mostly low-pitched and masks the low frequencies most.",
+   "cumleler": [
+    "A tip from the clinic: if only the low-frequency thresholds on an audiogram are unexpectedly poor, think of ambient noise.",
+    "Ambient noises such as ventilation, equipment fans and traffic are mostly rich in low frequencies.",
+    "This noise masks the test tone simultaneously and raises thresholds, especially at two hundred fifty and five hundred hertz.",
+    "Make sure the booth door is closed; if in doubt, insert earphones attenuate outside noise better.",
+    "Test room noise should be measured regularly to make sure it does not exceed the maximum permissible levels in the standards."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Masking: one sound _raises the threshold_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Only _critical band_ noise masks a tone",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Lows mask highs: _upward spread_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Forward masking lasts _100 to 200 ms_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Masking is the rise in the threshold of one sound in the presence of another; its amount is measured in decibels.",
+    "Only noise inside the auditory filter, the critical band, masks a tone; that is why narrowband noise is used in the clinic.",
+    "Because of the structure of the traveling wave, low sounds mask high sounds more; this is called the upward spread of masking.",
+    "Forward masking lasts about one hundred to two hundred milliseconds; backward masking is much shorter and weaker."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "In which case is masking greatest?",
+   "secenekler": [
+    "4000 Hz noise, 500 Hz tone",
+    "500 Hz noise, 4000 Hz tone",
+    "Equal in both directions"
+   ],
+   "dogru": 1,
+   "aciklama": "The traveling wave moves from base to apex; a low-frequency masker _also vibrates the high-frequency region_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: at the same level, in which case is masking greater?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: five hundred hertz noise masks a four thousand hertz tone more.",
+    "The traveling wave of a low sound passes through the high-frequency regions before reaching its own; this is the upward spread of masking."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Temporal Processing: *Gap Detection* and Integration",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how the ear processes time: gap detection and temporal integration.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

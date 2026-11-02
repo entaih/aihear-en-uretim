@@ -1,0 +1,149 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D057_Tuning_Fork_Tests_EN",
+  "kapak": {
+    "ust": "LESSON 57",
+    "baslik": "*Tuning fork*<br>tests",
+    "alt": "Rinne, Weber and Bing",
+    "cizim": "diyapazon"
+  },
+  "youtube": {
+    "baslik": "Tuning Fork Tests: Rinne, Weber and Bing | Lesson 57 | AIHEAR Audiology Academy",
+    "aciklama": "Tuning fork tests give quick preliminary information about the type of hearing loss. In this lesson, we look at how to use a 512 Hz tuning fork, what positive and negative Rinne results mean, lateralization in the Weber test, the occlusion effect in the Bing test and the limits of these tests.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology; Roeser, Valente and Hosford-Dunn, Audiology: Diagnosis.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "tuningfork", "hearing"],
+    "etiketler": ["tuning fork tests", "tuning fork", "Rinne test", "Weber test", "Bing test", "512 Hz", "occlusion effect", "conductive hearing loss", "sensorineural hearing loss", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 57", "baslik": "*Tuning Fork* Tests: Rinne, Weber and Bing", "alt": "How to perform and interpret the Rinne, Weber and Bing tests",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn three classic tuning fork tests: the Rinne, Weber and Bing tests.",
+       "We will see how each test is done, what the results mean and what the limits of these tests are."]},
+
+    {"id": "frekans", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "The tuning fork", "baslik": "Why *512 Hz?*", "maddeler": [{"metin": "256 Hz: more _vibration_ felt", "cumle": 2, "ikon": "dokunma"}, {"metin": "1024 Hz: sound _fades_ quickly", "cumle": 3, "ikon": "sessizlik"}, {"metin": "512 Hz: the best _balance_", "cumle": 4, "ikon": "dogru"}], "yan": {"tur": "cizim", "cizim": "diyapazon", "cumle": 0, "vurgula": [{"parca": "diyapazon", "cumle": 0}], "etiketler": [{"parca": "diyapazon", "metin": "Tuning fork", "cumle": 0}]},
+     "cumleler": [
+       "A tuning fork is a metal fork that, when struck, vibrates at a set frequency and produces a sound close to a pure tone.",
+       "It was used to tell types of hearing loss apart long before the audiometer, and it is still a quick bedside test today.",
+       "Lower-pitched forks, such as a two hundred fifty six hertz fork, are easily felt as vibration on bone.",
+       "The sound of a one thousand twenty four hertz fork, on the other hand, fades very quickly.",
+       "Five hundred twelve hertz gives a good balance between the two, so it is the most commonly chosen frequency."]},
+
+    {"id": "uygulama", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "The tuning fork", "baslik": "Correct *technique*", "maddeler": [{"metin": "Hold the stem, _do not touch_ the tines", "cumle": 0, "ikon": "dokunma"}, {"metin": "Strike _lightly_ on a pad or knee", "cumle": 1, "ikon": "diyapazon"}, {"metin": "Do not strike a hard surface", "cumle": 2, "ikon": "yanlis"}, {"metin": "Choose a quiet room", "cumle": 4, "ikon": "sessizlik"}], "yan": {"tur": "ikonlar", "ust": "REMEMBER", "cumle": 3, "ogeler": [{"ikon": "kronometre", "baslik": "Be quick", "metin": "To the test point within seconds", "cumle": 3}, {"ikon": "grafik", "baslik": "Qualitative information", "metin": "No numerical result", "cumle": 5}]},
+     "cumleler": [
+       "The tuning fork is held by its stem; touching the vibrating tines stops the vibration at once.",
+       "The tines are set vibrating by striking them lightly on a rubber pad, the knee or the elbow.",
+       "Striking a hard surface such as a table creates unwanted overtones and distorts the sound.",
+       "The vibrating fork should be brought to the test point within a few seconds, because the sound fades over time.",
+       "The test should be done in as quiet a room as possible.",
+       "Because the strength of the strike varies a little each time, tuning fork tests give qualitative, not numerical, information."]},
+
+    {"id": "rinne", "tur": "gorsel", "bolum_no": "PART 2", "bolum": "The Rinne test", "baslik": "The *Rinne* test", "cizim": "diyapazon", "ayar": {"test": "rinne"}, "vurgula": [{"parca": "mastoid", "cumle": 1}, {"parca": "kulak", "cumle": 2}], "etiketler": [{"parca": "mastoid", "metin": "mastoid: bone conduction", "cumle": 1}, {"parca": "kulak", "metin": "ear canal opening: air conduction", "cumle": 2}],
+     "cumleler": [
+       "The Rinne test compares air conduction with bone conduction in the same ear.",
+       "The stem of the vibrating fork is placed on the mastoid bone behind the ear being tested.",
+       "Then the tines are held about two and a half centimeters in front of the ear canal opening.",
+       "In the most common method, the patient is asked whether the sound is louder on the bone or in front of the ear.",
+       "In another method, we wait until the sound fades on the bone, then move the fork straight to the front of the ear.",
+       "In this timing method, if the patient hears the sound again in front of the ear, air conduction is better."]},
+
+    {"id": "rinne_yorum", "tur": "karsilastir", "bolum_no": "PART 2", "bolum": "The Rinne test", "baslik": "Interpreting the *Rinne* test", "sol": {"ust": "Rinne positive", "maddeler": [{"metin": "Air conduction _better_ than bone", "cumle": 0}, {"metin": "Normal ear", "cumle": 1}, {"metin": "Or sensorineural loss", "cumle": 1}]}, "sag": {"ust": "Rinne negative", "maddeler": [{"metin": "Bone conduction _better_ than air", "cumle": 3}, {"metin": "Suggests a conductive problem", "cumle": 4}, {"metin": "Needs a clear air-bone gap", "cumle": 5}]},
+     "cumleler": [
+       "If the sound heard by air conduction is louder than by bone conduction, the result is recorded as Rinne positive.",
+       "Rinne positive is the expected result in a normal ear or in sensorineural loss, because both pathways are affected together.",
+       "Note that here the word positive means normal; this naming often confuses students.",
+       "If the sound heard by bone conduction is louder, the result is Rinne negative.",
+       "Rinne negative suggests a conductive problem in that ear, that is, an air-bone gap.",
+       "But with small gaps the test often stays positive; at five hundred twelve hertz, a gap of about twenty to thirty decibels is usually needed."]},
+
+    {"id": "yanlis_negatif", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "The Rinne test", "baslik": "False *negative* Rinne", "maddeler": [{"metin": "One-sided, _severe_ sensorineural loss", "cumle": 0, "ikon": "kulak"}, {"metin": "Vibration _reaches_ the other cochlea", "cumle": 1, "ikon": "ses_dalgasi"}, {"metin": "The other ear must be _masked_", "cumle": 4, "ikon": "gurultu"}], "yan": {"tur": "cizim", "cizim": "maskeleme", "ayar": {"ia_db": 0}, "cumle": 0, "vurgula": [{"parca": "kafatasi", "cumle": 1}, {"parca": "karsi_kulak", "cumle": 2}, {"parca": "maskeleme_gurultusu", "cumle": 4}], "etiketler": [{"parca": "karsi_kulak", "metin": "The good ear hears", "cumle": 2}]},
+     "cumleler": [
+       "An important pitfall of the Rinne test is a one-sided, severe sensorineural loss.",
+       "Vibration in the skull reaches both cochleae with almost no loss.",
+       "So when the fork is placed on the mastoid of the poor ear, the patient actually hears it with the good ear.",
+       "Because the poor ear cannot hear the sound through the air, the result is Rinne negative, even though there is no conductive problem.",
+       "This is called a false negative Rinne; to tell it apart, the good ear must be masked with noise.",
+       "The Weber test also helps in this situation; let us move on to it now."]},
+
+    {"id": "weber", "tur": "gorsel", "bolum_no": "PART 3", "bolum": "The Weber test", "baslik": "The *Weber* test", "cizim": "diyapazon", "ayar": {"test": "weber"}, "vurgula": [{"parca": "alin", "cumle": 0}], "etiketler": [{"parca": "alin", "metin": "midline of the forehead", "cumle": 0}], "notlar": [{"metin": "Other points: top of head, bridge of nose, upper front teeth", "cumle": 1, "ikon": "dokunma"}, {"metin": "Question: Where do you hear the sound?", "cumle": 2, "ikon": "soru"}, {"metin": "Normal: in the middle or inside the head", "cumle": 4, "ikon": "dogru"}],
+     "cumleler": [
+       "In the Weber test, the stem of the vibrating fork is placed on the midline of the head, usually the middle of the forehead.",
+       "The top of the head, the bridge of the nose or the upper front teeth can also be used.",
+       "The patient is asked where they hear the sound: in the middle, on the right or on the left?",
+       "The question should not be leading; ask where they hear the sound, not which ear hears it.",
+       "With normal hearing, or with a symmetrical loss in both ears, the sound is heard in the middle or inside the head.",
+       "Some patients cannot place the sound on either side; in that case, the result is recorded as indeterminate."]},
+
+    {"id": "weber_yorum", "tur": "karsilastir", "bolum_no": "PART 3", "bolum": "The Weber test", "baslik": "*Lateralization* in the Weber test", "sol": {"ust": "Conductive loss", "maddeler": [{"metin": "Sound shifts to the _poorer_ ear", "cumle": 0}, {"metin": "Less masking by room noise", "cumle": 1}, {"metin": "An occlusion-like effect", "cumle": 2}]}, "sag": {"ust": "Sensorineural loss", "maddeler": [{"metin": "Sound shifts to the _better_ ear", "cumle": 3}, {"metin": "The healthier cochlea is more sensitive", "cumle": 3}]},
+     "cumleler": [
+       "In a one-sided conductive loss, the sound is heard in the poorer ear; this shift to one side is called lateralization.",
+       "One reason is that in the ear with a conductive problem, less room noise reaches the cochlea and masks the sound less.",
+       "A mechanism similar to the occlusion effect and changes in the middle ear also contribute to this result.",
+       "In a one-sided sensorineural loss, the sound is heard in the better ear, because the healthier cochlea is more sensitive to vibration.",
+       "The Weber test is quite sensitive even to small one-sided conductive losses.",
+       "Interpreting the Weber result together with the Rinne gives far more information than either test alone."]},
+
+    {"id": "bing", "tur": "gorsel", "bolum_no": "PART 4", "bolum": "The Bing test", "baslik": "The *Bing* test", "cizim": "diyapazon", "ayar": {"test": "bing"}, "vurgula": [{"parca": "mastoid", "cumle": 0}, {"parca": "kulak", "cumle": 1}], "etiketler": [{"parca": "mastoid", "metin": "mastoid: tuning fork", "cumle": 0}, {"parca": "kulak", "metin": "tragus: close and open the canal", "cumle": 1}], "notlar": [{"metin": "Normal and sensorineural: sound gets louder", "cumle": 2, "ikon": "hoparlor"}, {"metin": "Conductive: no change", "cumle": 3, "ikon": "kulak_tikali"}],
+     "cumleler": [
+       "In the Bing test, the tuning fork is again placed on the mastoid.",
+       "Meanwhile, the ear canal is alternately closed and opened by pressing on the tragus.",
+       "In a normal ear or in sensorineural loss, the sound is louder when the canal is closed; this is called Bing positive.",
+       "In conductive loss, closing the canal hardly changes the sound; this is called Bing negative.",
+       "The increase is due to the occlusion effect: a closed ear canal boosts the sound heard by bone conduction, especially low pitches.",
+       "In an ear with a conductive problem, this effect is already largely present, so closing the canal adds no further change.",
+       "The Bing test can be an extra source of information when the Rinne result is unclear."]},
+
+    {"id": "tablo", "tur": "tablo", "bolum_no": "PART 5", "bolum": "Interpretation and limits", "baslik": "*Combining* the findings", "sutunlar": ["Example case", "Rinne", "Weber", "Bing"], "satirlar": [{"hucreler": ["Normal hearing", "Positive", "Midline", "Positive"], "cumle": 0}, {"hucreler": ["Right conductive", "Negative on right", "To the right", "Negative on right"], "cumle": 1}, {"hucreler": ["Right sensorineural", "Positive on right", "To the left", "Positive on right"], "cumle": 2}],
+     "cumleler": [
+       "Let us combine the three tests in a table: with normal hearing, Rinne and Bing are positive, and Weber is midline.",
+       "In this example, if the right ear has a conductive loss, Rinne and Bing are negative on the right, and Weber shifts to the right.",
+       "If the right ear has a sensorineural loss, Rinne and Bing stay positive, and Weber shifts to the left, the better ear.",
+       "When the results agree, they give valuable preliminary information about the type of loss before pure tone audiometry.",
+       "If the results conflict, the audiometric findings are trusted more, and the test is repeated if needed.",
+       "Understanding the logic lasts longer than memorizing the table: in conductive loss, bone conduction is relatively strong compared with air."]},
+
+    {"id": "vaka", "tur": "odyogram", "bolum_no": "PART 5", "bolum": "Interpretation and limits", "baslik": "Example: *right* conductive loss", "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Air conduction_: right ear", "cumle": 0}, {"isaret": "[", "renk": "sag", "metin": "_Masked bone conduction_: right ear", "cumle": 0}, {"isaret": "X", "renk": "sol", "metin": "_Air conduction_: left ear", "cumle": 1}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [45, 45, 40, 40, 45, 50], "cumle": 0}, {"kulak": "sag", "tip": "kemik_maskeli", "degerler": [10, 10, 5, 10, 15], "cumle": 0}, {"kulak": "sol", "tip": "hava", "degerler": [10, 10, 5, 10, 10, 15], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}, "aralik": {"konum": [1, 10, 45], "etiket": "35 dB", "cumle": 2}},
+     "cumleler": [
+       "In this sample audiogram, right ear air conduction is between forty and fifty dB HL, while masked bone conduction is normal.",
+       "In this example, the left ear is within normal limits.",
+       "At five hundred hertz, there is an air-bone gap of about thirty five decibels.",
+       "With this picture, we would expect the Rinne test to be negative in the right ear.",
+       "In the Weber test, we would expect the sound to shift to the right, the ear with the loss.",
+       "The Bing test would also be negative in the right ear; closing the canal would hardly change the sound."]},
+
+    {"id": "sinirlar", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Interpretation and limits", "baslik": "*Limitations*", "maddeler": [{"metin": "Strike strength and room _vary_", "cumle": 0, "ikon": "gurultu"}, {"metin": "Can miss small conductive losses", "cumle": 1, "ikon": "uyari"}, {"metin": "_Less reliable_ in children", "cumle": 2, "ikon": "cocuk"}, {"metin": "_No substitute_ for audiometry", "cumle": 3, "ikon": "odyometre"}], "yan": {"tur": "ikonlar", "ust": "OTHER OPTIONS", "cumle": 4, "ogeler": [{"ikon": "kitap", "baslik": "Schwabach test", "metin": "Rarely used today", "cumle": 4}, {"ikon": "kemik_vibratoru", "baslik": "Audiometric Weber", "metin": "A more controlled option", "cumle": 5}]},
+     "cumleler": [
+       "Tuning fork tests are quick and cheap, but the strength of the strike and room noise affect the results.",
+       "The Rinne test can miss small air-bone gaps.",
+       "Reliability drops in young children and in people who find it hard to respond.",
+       "So tuning fork tests are a screening and cross-check tool; they are no substitute for audiometry.",
+       "Other tuning fork tests, such as the Schwabach test, have also been described, but they are rarely used today.",
+       "The audiometric Weber test, done with the audiometer and the bone vibrator on the forehead, is a more controlled option."]},
+
+    {"id": "ipucu", "tur": "ipucu", "bolum_no": "PART 5", "bolum": "Interpretation and limits", "baslik": "Clinical tip", "metin": "If the audiogram shows a one-sided conductive loss, also do a Weber; if it shifts to the other ear, review bone conduction and masking results.",
+     "cumleler": [
+       "A tip from practice: when you see a one-sided conductive loss on the audiogram, do the Weber test as well.",
+       "A Weber that shifts to the ear with the loss gives a cross-check that agrees with the audiogram.",
+       "If, against expectations, the Weber shifts to the other ear, review the bone conduction results and the masking levels.",
+       "This small check can help you catch masking errors early."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*", "maddeler": [{"metin": "Most common: the _512 Hz_ fork", "cumle": 0, "ikon": "diyapazon"}, {"metin": "Rinne negative suggests a _conductive_ problem", "cumle": 1, "ikon": "kulak"}, {"metin": "Weber: conductive _poorer_, sensorineural better ear", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Bing: tests the _occlusion effect_", "cumle": 3, "ikon": "kulak_tikali"}],
+     "cumleler": [
+       "In tuning fork tests, the five hundred twelve hertz fork is used most often.",
+       "The Rinne test compares air and bone conduction in the same ear; a negative result suggests a conductive problem.",
+       "In the Weber test, the sound shifts to the poorer ear in conductive loss and to the better ear in sensorineural loss.",
+       "The Bing test checks the occlusion effect; none of these tests replaces audiometry."]},
+
+    {"id": "test", "tur": "test", "soru": "With a left conductive loss, where does the Weber shift?", "secenekler": ["To the right ear", "To the left ear", "Stays midline", "Not heard at all"], "dogru": 1, "aciklama": "In conductive loss, the Weber shifts to the _ear with the loss_.",
+     "cumleler": [
+       {"yazi": "Test yourself: In a person with a conductive hearing loss in the left ear only, where is the sound heard in the Weber test?", "sonra_bekle": 5},
+       "The correct answer is B: in the left ear.",
+       "In conductive loss, the sound shifts to the ear with the loss, where room noise masks it less."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "How an Audiometer Works: *Controls* and Transducers", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will get to know the audiometer controls and transducers such as earphones and the bone vibrator.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

@@ -1,0 +1,105 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R071_Receiver_Is_A_Speaker_EN",
+ "kapak": {
+  "ust": "QUICK FACT #71",
+  "baslik": "Receiver: really a *speaker*",
+  "alt": "How sound travels through a hearing aid",
+  "cizim": "isitme_cihazi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does a hearing aid's receiver pick up sound? #shorts",
+  "aciklama": "In a hearing aid, the receiver is a tiny loudspeaker that turns the processed signal back into sound. Sound enters the microphone, is shaped in the processor and leaves the receiver into the ear canal.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "hearing"
+  ],
+  "etiketler": [
+   "hearing aid",
+   "receiver",
+   "loudspeaker",
+   "microphone",
+   "DSP",
+   "digital signal processor",
+   "hearing aid components",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does a hearing aid's receiver pick up sound?",
+  "bilgiler": [
+   "The receiver delivers sound to the ear; it does not pick it up.",
+   "Sound enters the microphone, is shaped in the processor, leaves the receiver.",
+   "The receiver is actually a tiny loudspeaker."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #71",
+   "metin": "Does the receiver *pick up sound?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does a hearing aid's receiver pick up sound?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Sound's path *inside the aid*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Microphone",
+     "tr": "picks up sound",
+     "cumle": 1
+    },
+    {
+     "ad": "Processor",
+     "tr": "shapes it",
+     "cumle": 1,
+     "gecikme": 1.0
+    },
+    {
+     "ad": "Receiver",
+     "tr": "loudspeaker",
+     "cumle": 1,
+     "gecikme": 2.0
+    }
+   ],
+   "alt": "The receiver _delivers sound_ to the ear.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "No; the name can be misleading.",
+    "Sound enters the microphone, gets shaped in the processor, exits the receiver.",
+    "The receiver is a tiny loudspeaker turning the signal back into sound."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D178",
+ "kaynak_baslik": "How Hearing Aids Work: Core Components"
+}

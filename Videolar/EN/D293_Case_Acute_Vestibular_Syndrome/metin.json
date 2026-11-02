@@ -1,0 +1,1176 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D293_Case_Acute_Vestibular_Syndrome_EN",
+ "kapak": {
+  "ust": "LESSON 293",
+  "baslik": "Peripheral or<br>*central*?",
+  "alt": "Case: acute vestibular syndrome",
+  "cizim": "beyin_sapi_vestibuler"
+ },
+ "youtube": {
+  "baslik": "Case: Acute Vestibular Syndrome, Peripheral or Central? | Lesson 293 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional adult case we evaluate acute vestibular syndrome: warning signs, HINTS (head impulse, nystagmus, test of skew) and HINTS plus, comparing peripheral and central patterns, urgent referral steps, and identifying the involved nerve division with vHIT, caloric testing and VEMP.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Kattah et al., HINTS to Diagnose Stroke in the Acute Vestibular Syndrome, Stroke, 2009; Barany Society, Vestibular Neuritis: Diagnostic Criteria (2022); Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "HINTS",
+   "casestudy"
+  ],
+  "etiketler": [
+   "acute vestibular syndrome",
+   "AVS",
+   "HINTS",
+   "head impulse test",
+   "test of skew",
+   "stroke",
+   "vHIT",
+   "caloric test",
+   "vestibular neuritis",
+   "urgent referral",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 293",
+   "baslik": "Case: acute *vestibular* syndrome",
+   "alt": "Peripheral or central? HINTS and urgent referral",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we evaluate, step by step, a patient with severe dizziness that began suddenly and has not stopped.",
+    "We will apply the head impulse, nystagmus and skew findings, video head impulse and caloric results, and urgent referral criteria."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History and first look",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "Example man, fifty-two years old",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Constant_ spinning since yesterday morning",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Nausea, vomiting, worse with movement",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "A cold one week ago",
+     "cumle": 3,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "History of high blood pressure",
+     "cumle": 4,
+     "ikon": "kalp"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Onset",
+      "metin": "Yesterday morning",
+      "cumle": 1
+     },
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Course",
+      "metin": "Constant",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalp",
+      "baslik": "Risk",
+      "metin": "High blood pressure",
+      "cumle": 4
+     }
+    ],
+    "ust": "HISTORY"
+   },
+   "cumleler": [
+    "Our case is entirely fictional: a fifty-two-year-old man comes to the audiology unit with a balance test request from his family physician.",
+    "The spinning began when he woke up yesterday morning and has not stopped since; it is constant, not in attacks.",
+    "He has had nausea and vomited a few times; every head movement makes it worse.",
+    "He had a cold a week ago.",
+    "He is followed for high blood pressure; this also calls for attention to a possible vascular cause.",
+    "The time the symptoms began is written down right away, because it may become critical later."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "History and first look",
+   "baslik": "Acute vestibular *syndrome*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Sudden onset",
+     "metin": "Within hours",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Constant",
+     "metin": "Lasts for days",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nystagmus",
+     "metin": "Present on exam",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Unsteadiness",
+     "metin": "Clear when walking",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Acute vestibular syndrome, or AVS, is severe dizziness that starts suddenly and continues without stopping.",
+     "ses": "Acute vestibular syndrome, or A V S, is severe dizziness that starts suddenly and continues without stopping."
+    },
+    "Symptoms are not limited to hours; they usually last for days.",
+    "On examination, spontaneous nystagmus is usually seen.",
+    "It is accompanied by clear unsteadiness when walking.",
+    "The diagnostic criteria for vestibular neuritis require constant dizziness lasting at least twenty four hours.",
+    "The most common cause is a peripheral problem such as vestibular neuritis, but a cerebellar or brainstem stroke can present the same way."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "History and first look",
+   "baslik": "*Warning signs* first",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Double vision",
+     "metin": "Vision loss",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech, swallowing",
+     "metin": "Slurred speech",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Numbness, weakness",
+     "metin": "Face, arm, leg",
+     "cumle": 2
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Sudden headache",
+     "metin": "Or neck pain",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Unable to stand",
+     "metin": "Even with help",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "New hearing loss",
+     "metin": "One-sided",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Before any test, warning signs are asked about and observed; the first is double vision or loss of vision.",
+    "Speech or swallowing problems are asked about, and his speech is listened to.",
+    "Numbness, weakness and clumsiness in the face, arm or leg are asked about.",
+    "A sudden, severe headache or neck pain is an important warning sign.",
+    "A patient who cannot stand even with help is evaluated urgently, whatever the other findings.",
+    "New hearing loss with acute dizziness also needs urgent evaluation for a stroke of the artery supplying the inner ear."
+   ]
+  },
+  {
+   "id": "nistagmus",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "HINTS",
+   "baslik": "Nystagmus: *one direction*",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sol",
+    "tur": "sicramali",
+    "yavas_cumle": 1,
+    "hizli_cumle": 1,
+    "baslik": "Left-beating nystagmus"
+   },
+   "notlar": [
+    {
+     "metin": "Direction: _left_, fixed",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "No change with gaze",
+     "cumle": 2,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Our patient has none of these warning signs; he can stand without support, but sways when walking.",
+    "Looking straight ahead with video goggles, a left-beating, horizontal and slightly torsional nystagmus is seen.",
+    "The nystagmus increases on left gaze and decreases on right gaze, but its direction does not change; this fits Alexander's law.",
+    "Peripheral nystagmus usually beats toward the healthy ear; left-beating nystagmus may fit a problem on the right side.",
+    "If the nystagmus changed direction with gaze, or were purely vertical or purely torsional, we would suspect a central cause.",
+    "Peripheral nystagmus decreases clearly with visual fixation, so observation is done with video goggles, removing fixation."
+   ]
+  },
+  {
+   "id": "hit",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "HINTS",
+   "baslik": "Head impulse: saccade on the *right*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 400,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 260,
+     "adim": 50,
+     "ad": "Velocity (deg/s)"
+    },
+    "seriler": [
+     {
+      "ad": "bas",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        40,
+        60
+       ],
+       [
+        80,
+        180
+       ],
+       [
+        110,
+        220
+       ],
+       [
+        140,
+        170
+       ],
+       [
+        180,
+        60
+       ],
+       [
+        220,
+        5
+       ],
+       [
+        260,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "head",
+      "cumle": 1
+     },
+     {
+      "ad": "sol_itme",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        55
+       ],
+       [
+        85,
+        172
+       ],
+       [
+        115,
+        210
+       ],
+       [
+        145,
+        160
+       ],
+       [
+        185,
+        55
+       ],
+       [
+        225,
+        4
+       ],
+       [
+        265,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "eye: leftward impulse",
+      "cumle": 2
+     },
+     {
+      "ad": "sag_itme",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        25
+       ],
+       [
+        85,
+        70
+       ],
+       [
+        115,
+        90
+       ],
+       [
+        145,
+        70
+       ],
+       [
+        185,
+        30
+       ],
+       [
+        215,
+        10
+       ],
+       [
+        235,
+        150
+       ],
+       [
+        255,
+        200
+       ],
+       [
+        275,
+        120
+       ],
+       [
+        300,
+        10
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "eye: rightward impulse",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sakkad_bolgesi",
+      "x": [
+       215,
+       300
+      ],
+      "renk": "sari",
+      "etiket": "corrective saccade",
+      "cumle": 4
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "sakkad_bolgesi",
+     "metin": "Corrective saccade",
+     "cumle": 4,
+     "yer": "ust"
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Leftward impulse: _normal_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Rightward impulse: _saccade_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The head impulse test checks each side of the vestibulo-ocular reflex, or VOR, separately; neck problems were ruled out first.",
+    "The navy line shows head velocity during a quick head impulse.",
+    "With a leftward impulse, the eye turns at almost the same speed as the head; the left VOR is adequate.",
+    "With a rightward impulse, however, eye velocity lags far behind the head, and gaze slips off the target.",
+    "The patient makes a corrective saccade to catch the target again; in other words, the right VOR is weak.",
+    "In acute vestibular syndrome, an abnormal head impulse test fits a peripheral cause, because the problem lies in the labyrinth or nerve."
+   ]
+  },
+  {
+   "id": "skew",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "HINTS",
+   "baslik": "Test of skew: no *vertical shift*",
+   "cizim": "goz_kapatma",
+   "notlar": [
+    {
+     "metin": "Alternate cover test",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Vertical correction: _none_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "The third step is the test of skew, done with the alternate cover test.",
+    "While the patient looks straight ahead, one eye is covered, and then the hand moves quickly to the other eye.",
+    "We watch whether the uncovered eye makes an upward or downward correction to catch the target.",
+    "Our patient shows no vertical corrective movement, so no skew deviation is found.",
+    "Skew deviation suggests the brainstem part of the otolith pathway is affected; its presence is a central sign."
+   ],
+   "ayar": {
+    "sapma": false,
+    "kapat_cumle": 1,
+    "duzeltme_cumle": 3
+   }
+  },
+  {
+   "id": "hints",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "HINTS",
+   "baslik": "HINTS: a *peripheral* pattern",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Head impulse",
+     "metin": "Abnormal: right saccade",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Nystagmus",
+     "metin": "One direction, left",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Skew",
+     "metin": "No vertical shift",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Hearing",
+     "metin": "No new loss",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Let us read HINTS, the head impulse, nystagmus and test of skew findings, together: the head impulse test is abnormal on the right.",
+    "The nystagmus beats in one direction and does not change with gaze.",
+    "There is no skew deviation.",
+    "A simple finger rub check shows no new hearing loss either; the fourth component of HINTS plus also fits the peripheral pattern.",
+    "All three components must fit the peripheral pattern; even a single central finding suggests a central cause."
+   ]
+  },
+  {
+   "id": "ornek_b",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "HINTS",
+   "baslik": "Example B: a *central* pattern",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Head impulse",
+     "metin": "Normal: no saccade",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Nystagmus",
+     "metin": "Changes with gaze",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Skew",
+     "metin": "Vertical correction present",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Decision",
+     "metin": "Emergency physician",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Now consider another example with the same complaints: this time the head impulse test is normal on both sides.",
+    "The nystagmus beats right on right gaze and left on left gaze; it changes direction with gaze.",
+    "On alternate cover, one eye makes an upward correction from below; there is skew deviation.",
+    "In this context, a normal head impulse test is not reassuring; in most strokes the VOR pathway is spared, so the test is normal.",
+    "Even one of these findings is enough to stop testing and refer the patient for emergency physician evaluation without delay."
+   ]
+  },
+  {
+   "id": "acil",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Referral and follow-up",
+   "baslik": "Urgent *referral* steps",
+   "adimlar": [
+    {
+     "ikon": "uyari",
+     "baslik": "Stop testing",
+     "metin": "Battery put on hold",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Note the time",
+     "metin": "Onset or last known well",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Emergency route",
+     "metin": "Per local protocol",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Brief summary",
+     "metin": "Findings and video",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Without delay",
+     "metin": "To emergency physician",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "If there is a central pattern or a warning sign, the planned test battery is put on hold at once.",
+    "The time of symptom onset, or the time last known well, is recorded; some stroke treatments are possible only in the first hours.",
+    "The facility's emergency referral route is used; the patient is not sent alone or driving.",
+    "A short, clear summary of the findings is passed on, if possible with a video recording of the eye movements.",
+    "Doubt is reason enough to ask for urgent evaluation; an unnecessary referral is always better than a missed stroke."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical alert",
+   "metin": "A peripheral pattern does not replace physician evaluation. HINTS is a referral tool, not a diagnosis.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: even with a peripheral pattern, a patient with acute vestibular syndrome not yet seen by a physician must see one that day.",
+    "The high accuracy of HINTS was shown in early studies with experienced examiners and in patients at high stroke risk.",
+    "Accuracy can drop clearly when the exam is done by people with limited training.",
+    "So record your findings, and leave diagnosis and treatment decisions to the physician."
+   ]
+  },
+  {
+   "id": "vhit",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "vHIT and caloric",
+   "baslik": "vHIT: *six canals*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "ad": "Canal",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "yazilar": {
+      "1": "Right lateral",
+      "2": "Right anterior",
+      "3": "Right posterior",
+      "4": "Left lateral",
+      "5": "Left anterior",
+      "6": "Left posterior"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "vHIT gain"
+    },
+    "seriler": [
+     {
+      "ad": "dusuk",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0.42
+       ],
+       [
+        2,
+        0.55
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "low, with saccades",
+      "cumle": 2
+     },
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        0.86
+       ],
+       [
+        4,
+        0.95
+       ],
+       [
+        5,
+        0.9
+       ],
+       [
+        6,
+        0.88
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "normal",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 3.5,
+      "y": 0.8,
+      "cizgi": "yatay",
+      "etiket": "about 0.8 for lateral",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Right lateral: _0.42_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Right anterior: _0.55_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Right posterior: _preserved_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Our patient was seen by a physician in the emergency department the same day and came back two weeks later for detailed vestibular tests.",
+    {
+     "yazi": "On the video head impulse test, or vHIT, gain is normal for the three left canals and the right posterior canal.",
+     "ses": "On the video head impulse test, or V hit, gain is normal for the three left canals and the right posterior canal."
+    },
+    "Right lateral canal gain is 0.42 and right anterior canal gain is 0.55; both show repeatable saccades.",
+    "Some saccades are covert saccades that occur during the head movement; these cannot be seen with the naked eye at the bedside.",
+    "Involvement of the lateral and anterior canals with a spared posterior canal suggests the superior vestibular nerve division is affected.",
+    "Gain is always interpreted together with saccades; the number alone is not enough."
+   ]
+  },
+  {
+   "id": "kalorik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "vHIT and caloric",
+   "baslik": "Caloric test: weakness on the *right*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "ad": "Irrigation",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Right warm",
+      "2": "Right cool",
+      "3": "Left warm",
+      "4": "Left cool"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 30,
+     "adim": 5,
+     "ad": "Slow phase velocity (deg/s)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        6
+       ],
+       [
+        2,
+        5
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "right: weak",
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        26
+       ],
+       [
+        4,
+        22
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "left",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Right: _clearly reduced_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Weakness: _about 63 percent_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Agrees_ with vHIT",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Once the nausea settles, a bithermal caloric test is done.",
+    "Slow phase velocities for warm and cool irrigations of the right ear are clearly reduced.",
+    "Responses in the left ear are at the expected level.",
+    "Right unilateral weakness by the Jongkees formula is about sixty three percent; over twenty to twenty five percent is usually significant.",
+    {
+     "yazi": "The caloric test checks the lateral canal at a very low frequency, while vHIT checks all six canals at high frequency.",
+     "ses": "The caloric test checks the lateral canal at a very low frequency, while V hit checks all six canals at high frequency."
+    },
+    "Here, both tests point the same way: a clear loss in the right lateral canal pathway."
+   ]
+  },
+  {
+   "id": "vemp",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "vHIT and caloric",
+   "baslik": "Which *division* is involved?",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Superior division: oVEMP absent",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Inferior division: cVEMP present",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The superior division serves the lateral and anterior canals, the utricle and part of the saccule; the inferior serves the rest.",
+    {
+     "yazi": "The ocular vestibular evoked myogenic potential, or oVEMP, is absent on the right; it relates to the utricle and the superior division.",
+     "ses": "The ocular vestibular evoked myogenic potential, or O vemp, is absent on the right; it relates to the utricle and the superior division."
+    },
+    {
+     "yazi": "The cervical VEMP, or cVEMP, is normal on both sides; the saccule and the inferior division appear spared.",
+     "ses": "The cervical VEMP, or C vemp, is normal on both sides; the saccule and the inferior division appear spared."
+    },
+    "The audiogram is normal in both ears, which is important in ruling out labyrinthitis and a stroke of the artery supplying the inner ear.",
+    "All findings fit a peripheral vestibular loss affecting the right superior vestibular division; the physician makes the diagnosis."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Referral and follow-up",
+   "baslik": "Follow-up and *rehabilitation*",
+   "maddeler": [
+    {
+     "metin": "Physician follow-up continues",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Referral for vestibular rehabilitation",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Do not avoid movement",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "vHIT and questionnaire at follow-up",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "New symptoms: seek help immediately",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "denge",
+      "baslik": "Rehabilitation",
+      "metin": "Exercise program",
+      "cumle": 1
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Follow-up",
+      "metin": "vHIT and questionnaire",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Warning",
+      "metin": "Urgent for new symptoms",
+      "cumle": 5
+     }
+    ],
+    "ust": "AFTERWARD"
+   },
+   "cumleler": [
+    "Diagnosis, treatment and medication decisions belong to the physician; the audiologist reports test results and observations.",
+    "If symptoms ease at rest but unsteadiness persists with head movement, the patient may be referred for vestibular rehabilitation.",
+    "The patient is told that avoiding head movement can delay central compensation.",
+    {
+     "yazi": "At follow-up, vHIT, the Dizziness Handicap Inventory and balance observations show progress.",
+     "ses": "At follow-up, V hit, the Dizziness Handicap Inventory and balance observations show progress."
+    },
+    "Complaints may lessen during compensation even if gain stays low; saccades may also become covert over time.",
+    "He is told in writing to seek emergency care at once if new neurological symptoms, hearing loss or severe headache appear."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Referral and follow-up",
+   "baslik": "Example *report* language",
+   "maddeler": [
+    {
+     "metin": "Spontaneous nystagmus: left, one direction",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Head impulse abnormal right, no skew",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "vHIT: right lateral and anterior low",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Caloric: 63 percent right weakness",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "oVEMP absent right, cVEMP normal",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 2,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 6.6,
+      "ad": "Canal",
+      "isaretler": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ],
+      "yazilar": {
+       "1": "Right lateral",
+       "2": "Right anterior",
+       "3": "Right posterior",
+       "4": "Left lateral",
+       "5": "Left anterior",
+       "6": "Left posterior"
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 1.2,
+      "adim": 0.2,
+      "ond": 1,
+      "ad": "vHIT gain"
+     },
+     "seriler": [
+      {
+       "ad": "dusuk",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         0.42
+        ],
+        [
+         2,
+         0.55
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "low, with saccades",
+       "cumle": 2
+      },
+      {
+       "ad": "normal",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         3,
+         0.86
+        ],
+        [
+         4,
+         0.95
+        ],
+        [
+         5,
+         0.9
+        ],
+        [
+         6,
+         0.88
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "normal",
+       "cumle": 1
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "sinir",
+       "x": 3.5,
+       "y": 0.8,
+       "cizgi": "yatay",
+       "etiket": "about 0.8 for lateral",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Example report language: at first visit, left-beating spontaneous nystagmus not changing with gaze was seen; no skew deviation was found.",
+    "The bedside head impulse test was abnormal on the right; the patient was referred for emergency physician evaluation the same day.",
+    {
+     "yazi": "At week two, vHIT shows low gains with saccades for the right lateral and anterior canals; the other canals are normal.",
+     "ses": "At week two, V hit shows low gains with saccades for the right lateral and anterior canals; the other canals are normal."
+    },
+    "The caloric test showed a right unilateral weakness of about sixty three percent.",
+    {
+     "yazi": "Right oVEMP was absent and cVEMP was normal bilaterally; findings fit involvement of the right superior vestibular division.",
+     "ses": "Right O vemp was absent and C vemp was normal bilaterally; findings fit involvement of the right superior vestibular division."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "First ask about and observe warning signs",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Peripheral: abnormal head impulse, one direction",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Normal head impulse, skew: central",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "vHIT, caloric and VEMP show involvement",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In acute vestibular syndrome, warning signs are asked about and observed first; if one is present, urgent referral follows.",
+    "In the peripheral pattern, the head impulse test is abnormal, the nystagmus beats in one direction, and there is no skew deviation.",
+    "A normal head impulse, direction-changing nystagmus, skew deviation or new hearing loss suggests a central cause and needs urgent referral.",
+    {
+     "yazi": "After the acute phase, vHIT, caloric testing and VEMP show the involved division and the degree of loss.",
+     "ses": "After the acute phase, V hit, caloric testing and VEMP show the involved division and the degree of loss."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In constant dizziness, which finding suggests a central cause?",
+   "secenekler": [
+    "Corrective saccade on the right",
+    "One-direction nystagmus",
+    "Normal head impulse test",
+    "Caloric weakness"
+   ],
+   "dogru": 2,
+   "aciklama": "In most strokes the _VOR pathway is spared_; the head impulse is normal.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a patient with acute, constant dizziness, which finding suggests a central cause?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: a normal head impulse test.",
+    "In a peripheral loss the head impulse is abnormal; in most cerebellar or brainstem strokes the VOR pathway is spared, so the test is normal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tele-Audiology: *Remote* Testing and Fitting",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we move on to current topics and learn about tele-audiology, that is, remote testing and fitting.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

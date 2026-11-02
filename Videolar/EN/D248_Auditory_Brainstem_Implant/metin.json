@@ -1,0 +1,715 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D248_Auditory_Brainstem_Implant_EN",
+ "kapak": {
+  "ust": "LESSON 248",
+  "baslik": "Auditory brainstem<br>*implant*",
+  "alt": "No cochlea or nerve: the ABI",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "koklear_nukleus"
+  ]
+ },
+ "youtube": {
+  "baslik": "Auditory Brainstem Implant (ABI) | Lesson 248 | AIHEAR Audiology Academy",
+  "aciklama": "How can we reach hearing when there is no cochlea or no cochlear nerve? In this lesson we cover the logic of the auditory brainstem implant (ABI), neurofibromatosis type 2 and nontumor indications, electrode placement on the cochlear nucleus, initial activation and programming, expected outcomes and rehabilitation.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Colletti et al. (2009), Outcomes in nontumor adults fitted with the auditory brainstem implant: 10 years' experience, Otology and Neurotology; Sennaroglu et al. (2011), Auditory brainstem implantation in children and non-neurofibromatosis type 2 patients: a consensus statement, Otology and Neurotology; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ABI",
+   "hearing"
+  ],
+  "etiketler": [
+   "auditory brainstem implant",
+   "ABI",
+   "neurofibromatosis type 2",
+   "NF2",
+   "cochlear nerve aplasia",
+   "cochlear nucleus",
+   "EABR",
+   "inner ear malformation",
+   "Sennaroglu",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 248",
+   "baslik": "Auditory brainstem *implant*",
+   "alt": "No cochlea or nerve: the ABI",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about the implant that reaches the auditory pathway at the brainstem when a cochlear implant is not possible.",
+    "We will cover indications, electrode placement, programming and expected outcomes."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why the brainstem?",
+   "baslik": "*Bypassing* the cochlea and nerve",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cochlea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "auditory nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "cochlear nucleus",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 6
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "A cochlear implant needs two things to work: a cochlea to hold the electrodes and an auditory nerve to carry the stimulation.",
+    "If the cochlea never developed, or is too ossified for an electrode to be inserted, a cochlear implant cannot be used.",
+    "If the auditory nerve is absent or was cut during surgery, there is no nerve left for electrodes in the cochlea to stimulate.",
+    "The auditory brainstem implant, or ABI, bypasses both of these steps.",
+    "The electrodes are placed directly on the cochlear nucleus in the brainstem.",
+    "The cochlear nucleus is where the auditory nerve makes its first synapse in the brainstem.",
+    "From here, the signal follows the familiar central auditory pathway to reach the auditory cortex."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Why the brainstem?",
+   "baslik": "A *short history* of the ABI",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "1979",
+     "cumle": 0,
+     "metin": "First single electrode"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Multichannel",
+     "cumle": 1,
+     "metin": "Paddle-shaped array"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "2000",
+     "cumle": 2,
+     "metin": "US approval for NF2"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Nontumor",
+     "cumle": 3,
+     "metin": "Children and adults"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In 1979, William House and William Hitselberger placed the first ABI, a single electrode, in a patient with neurofibromatosis type 2.",
+     "ses": "In nineteen seventy nine, William House and William Hitselberger placed the first ABI, a single electrode, in a patient with neurofibromatosis type 2."
+    },
+    "In the following years, systems with many electrodes on a flat, paddle-shaped carrier were developed.",
+    {
+     "yazi": "In the US, approval came in 2000 for patients with neurofibromatosis type 2 aged twelve years and older.",
+     "ses": "In the US, approval came in two thousand for patients with neurofibromatosis type 2 aged twelve years and older."
+    },
+    "In Europe, Colletti and colleagues began using the ABI in adults and children without tumors as well.",
+    {
+     "yazi": "In Türkiye, Sennaroglu and his team at Hacettepe University published extensive ABI experience in children with inner ear malformations.",
+     "ses": "In Türkiye, Sennarolu and his team at Hacettepe University published extensive ABI experience in children with inner ear malformations."
+    },
+    {
+     "yazi": "In 2011, an international consensus statement was published on the ABI in children and in nontumor conditions.",
+     "ses": "In twenty eleven, an international consensus statement was published on the ABI in children and in nontumor conditions."
+    }
+   ]
+  },
+  {
+   "id": "nf2",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Who is it for?",
+   "baslik": "Neurofibromatosis *type 2*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "internal auditory canal",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "cochlear nerve",
+     "cumle": 3
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "vestibular nerve",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The first and classic indication for the ABI is neurofibromatosis type 2, or NF2.",
+     "ses": "The first and classic indication for the ABI is neurofibromatosis type 2, or N F 2."
+    },
+    "In this genetic disease, bilateral vestibular schwannomas develop, arising from the vestibular nerve in the internal auditory canal.",
+    {
+     "yazi": "The current name of the disease is NF2-related schwannomatosis.",
+     "ses": "The current name of the disease is N F 2 related schwannomatosis."
+    },
+    "As the tumors grow or are removed surgically, the cochlear nerve is damaged and bilateral deafness may develop.",
+    "So the ABI is often placed in the same operation in which the tumor is removed.",
+    {
+     "yazi": "In selected NF2 patients whose cochlear nerve can be preserved, a cochlear implant may also be an option; the team decides.",
+     "ses": "In selected N F 2 patients whose cochlear nerve can be preserved, a cochlear implant may also be an option; the team decides."
+    }
+   ]
+  },
+  {
+   "id": "tumor_disi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Who is it for?",
+   "baslik": "Nontumor *indications*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Nerve aplasia",
+     "cumle": 0,
+     "metin": "No cochlear nerve"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "No cochlea",
+     "cumle": 2,
+     "metin": "Michel, cochlear aplasia"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Ossification",
+     "cumle": 3,
+     "metin": "After meningitis"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Trauma",
+     "cumle": 4,
+     "metin": "Nerve avulsion"
+    }
+   ],
+   "cumleler": [
+    "In children, the most common nontumor indication is cochlear nerve aplasia, where the cochlear nerve never developed.",
+    "When the nerve is very thin and the picture unclear, some centers first try a cochlear implant and consider an ABI if it is not enough.",
+    "In Michel aplasia, rudimentary otocyst and cochlear aplasia, seen in an earlier lesson, there is no cochlea; so the option is an ABI.",
+    "Complete ossification of the cochlea after meningitis, where no electrode can be inserted, is also an indication.",
+    "Avulsion of the cochlear nerve from a temporal bone fracture may also be considered for an ABI.",
+    "In all these conditions, diagnosis rests on magnetic resonance imaging, or MRI, and CT, with audiological and electrophysiological findings.",
+    "The decision is made by an experienced team, after the expected outcomes have been explained to the family in detail."
+   ]
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Who is it for?",
+   "baslik": "Evaluation *before an ABI*",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Imaging",
+     "cumle": 0,
+     "metin": "Cochlea and nerve"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Hearing tests",
+     "cumle": 1,
+     "metin": "Hearing aid trial"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrophysiology",
+     "cumle": 2,
+     "metin": "Any response?"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Family and team",
+     "cumle": 4,
+     "metin": "Expectations and decision"
+    }
+   ],
+   "cumleler": [
+    "Evaluation begins with detailed MRI and CT that show the state of the cochlea and the cochlear nerve.",
+    "Behavioral hearing tests and a suitable hearing aid trial show whether any residual hearing exists.",
+    "Electrophysiological tests give additional information on whether part of the auditory pathway can be stimulated.",
+    "The child's general development, additional disabilities and the family's ability to keep up with rehabilitation are also assessed.",
+    "All findings are discussed by a team of neurosurgeon, ear surgeon, audiologist, radiologist and speech and language therapist.",
+    "The family is told clearly that the ABI aims for a different and usually more limited outcome than a cochlear implant."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Surgery and placement",
+   "baslik": "*Where* does the electrode go?",
+   "cizim": "beyin_sapi_implanti",
+   "etiketler": [
+    {
+     "parca": "koklear_nukleus",
+     "metin": "electrode here",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "superior olivary complex",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "ABI surgery requires neurosurgical and ear surgery experience, and the two teams often work together.",
+    "The electrode carrier is advanced into the lateral recess of the fourth ventricle and seated on the surface of the cochlear nucleus.",
+    "The carrier is a small, flat paddle; depending on the manufacturer, it holds about twelve to twenty one electrodes.",
+    "Because the cochlear nucleus cannot be fully seen, anatomical landmarks are used to find the right position.",
+    "During surgery, the electrically evoked auditory brainstem response, or EABR, is recorded to see whether the auditory pathway is stimulated.",
+    "If needed, the carrier is moved in small steps until the best response is obtained.",
+    "The receiver-stimulator and external unit resemble those of a cochlear implant; the key difference is the electrode's position and shape."
+   ],
+   "ayar": {
+    "elektrot_cumle": 1,
+    "ust_yollar_cumle": 4
+   }
+  },
+  {
+   "id": "aktivasyon",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Programming",
+   "baslik": "*Initial activation* of the ABI",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Supervision",
+     "cumle": 0,
+     "metin": "Under medical monitoring"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "One electrode at a time",
+     "cumle": 2,
+     "metin": "Any sensation?"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Side effect",
+     "cumle": 3,
+     "metin": "Electrode switched off"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Pitch order",
+     "cumle": 4,
+     "metin": "Person specific"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Map",
+     "cumle": 5,
+     "metin": "With remaining electrodes"
+    }
+   ],
+   "cumleler": [
+    "Initial activation is often done in a hospital setting, with heart rhythm and vital signs monitored.",
+    "The reason is that stimulation in the brainstem can also affect other nearby neural structures.",
+    "Each electrode is stimulated one at a time, starting at a low level, and the person is asked whether there is any auditory sensation.",
+    "Electrodes that cause nonauditory sensations are switched off; some electrodes may produce no sensation at all.",
+    "The pitch order of electrodes that give auditory sensations is set one by one; unlike in a cochlear implant, this order is not regular.",
+    "The map is built from the electrodes that give auditory sensations, following their pitch order.",
+    "Because fewer electrodes can be used and levels vary, programming is a longer process that needs patience."
+   ]
+  },
+  {
+   "id": "yan_etki",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Programming",
+   "baslik": "Nonauditory *sensations*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Tingling",
+     "cumle": 0,
+     "metin": "In the body or face"
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Dizziness",
+     "cumle": 1,
+     "metin": "Balance pathways"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Vision",
+     "cumle": 2,
+     "metin": "Image jitter"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Throat",
+     "cumle": 3,
+     "metin": "Tightness, coughing"
+    }
+   ],
+   "cumleler": [
+    "The most commonly reported nonauditory sensation is tingling somewhere in the body or in the face.",
+    "Dizziness or a feeling of swaying suggests that balance pathways are being stimulated.",
+    "Some people describe the image jittering or a movement in their eyes.",
+    "Sensations such as throat tightness or an urge to cough have also been reported.",
+    "These sensations usually stop when stimulation stops; they are resolved by switching off that electrode or changing the stimulation pattern.",
+    "In children who cannot talk, facial expression, eye movements and behavior are watched carefully to detect these sensations."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "gorsel",
+   "bolum_no": "PART 5",
+   "bolum": "Outcomes",
+   "baslik": "With and *without* tumors",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": "",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "NF2 (tumor)",
+      "2": "nontumor adults"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Open-set speech, mean (percent)"
+    },
+    "seriler": [
+     {
+      "ad": "tumor",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        10
+       ]
+      ],
+      "renk": "gri",
+      "cumle": 2
+     },
+     {
+      "ad": "tumorsuz",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        59
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "tumorsuz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Outcomes with the ABI are usually more limited and more variable than with a cochlear implant.",
+    {
+     "yazi": "In most NF2 patients, the ABI provides awareness of environmental sounds and supports lipreading.",
+     "ses": "In most N F 2 patients, the ABI provides awareness of environmental sounds and supports lipreading."
+    },
+    {
+     "yazi": "In the 2009 study by Colletti and colleagues, mean open-set speech recognition in NF2 patients was about ten percent.",
+     "ses": "In the two thousand nine study by Colletti and colleagues, mean open-set speech recognition in N F 2 patients was about ten percent."
+    },
+    "In the same study, the mean in adults without tumors was about fifty nine percent, and some could use the telephone.",
+    {
+     "yazi": "This difference is explained by the tumor and surgery in NF2 also being able to damage the cochlear nucleus.",
+     "ses": "This difference is explained by the tumor and surgery in N F 2 also being able to damage the cochlear nucleus."
+    },
+    "The values on the graph are the means of a single center; results may differ in other series.",
+    {
+     "yazi": "A small share of NF2 patients can also reach open-set speech understanding; so the outcome is judged separately for each person.",
+     "ses": "A small share of N F 2 patients can also reach open-set speech understanding; so the outcome is judged separately for each person."
+    }
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Outcomes",
+   "baslik": "ABI in children: *expectations*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Sound awareness",
+     "cumle": 0,
+     "metin": "In most children"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech perception",
+     "cumle": 1,
+     "metin": "Develops in some"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Early age",
+     "cumle": 2,
+     "metin": "Better outcomes"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Long training",
+     "cumle": 4,
+     "metin": "Family and therapist"
+    }
+   ],
+   "cumleler": [
+    "Most children with an ABI develop sound awareness and notice environmental sounds.",
+    "Some develop closed and open-set speech perception and spoken language; but progress is slower than in children with cochlear implants.",
+    "Early implantation and the absence of additional disabilities are usually linked to better outcomes.",
+    "Some children may need communication to continue with sign language or visual support.",
+    "Intensive, long-term auditory rehabilitation is an integral part of the ABI; the family is at the center of this process.",
+    "Before surgery, the family is told clearly that possible outcomes span a wide range."
+   ]
+  },
+  {
+   "id": "rehab",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Outcomes",
+   "baslik": "*Rehabilitation* after an ABI",
+   "maddeler": [
+    {
+     "metin": "Start with sound awareness",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Listening together with lipreading",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Short, frequent, regular sessions",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Personal, achievable goals",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "GOALS",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Environmental sounds",
+      "cumle": 4,
+      "metin": "Door, phone, name"
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Lipreading",
+      "cumle": 5,
+      "metin": "Easier understanding"
+     }
+    ]
+   },
+   "cumleler": [
+    "Rehabilitation after an ABI starts from the lowest step of auditory skills, that is, detecting the presence of sounds.",
+    "In adults, listening is often practiced together with lipreading, because the ABI's most common benefit is making lipreading easier.",
+    "Then come work on discriminating and identifying sounds; these steps can take months and years.",
+    "Short, frequent and regular sessions are more effective than long but infrequent ones.",
+    "Goals are set for each person: hearing a knock at the door, the phone or one's own name are meaningful gains.",
+    "Improvement in lipreading skill is also measured, tracked and shared with the person."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "At every visit, record in a table which electrodes give auditory and which give nonauditory sensations in the ABI user. Changes can occur over time; retest switched-off electrodes.",
+   "cumleler": [
+    "A tip from the clinic: at every visit, record which electrodes give auditory and which give nonauditory sensations for the ABI user.",
+    "The sensation an electrode gives can change over time; an electrode switched off earlier may later give an auditory sensation.",
+    "So retest switched-off electrodes at set intervals, starting from a low level.",
+    "Judge progress not only with speech tests but with goals that suit the person, such as sound awareness and help with lipreading."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "ABI: stimulates the cochlear nucleus",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "NF2 and nontumor indications",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Side-effect electrodes switched off",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Outcomes limited and variable",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The auditory brainstem implant bypasses the cochlea and auditory nerve and stimulates the cochlear nucleus in the brainstem directly.",
+    {
+     "yazi": "The classic indication is NF2; cochlear nerve aplasia, absent cochlea, severe ossification and trauma are nontumor indications.",
+     "ses": "The classic indication is N F 2; cochlear nerve aplasia, absent cochlea, severe ossification and trauma are nontumor indications."
+    },
+    "In programming, each electrode is tested one by one; those with nonauditory sensations are switched off, and pitch order is set per person.",
+    {
+     "yazi": "Outcomes are more limited and variable than with a cochlear implant; in nontumor patients they are usually better than in NF2.",
+     "ses": "Outcomes are more limited and variable than with a cochlear implant; in nontumor patients they are usually better than in N F 2."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is the option if there is no cochlear nerve?",
+   "secenekler": [
+    "Powerful hearing aid",
+    "Bone-conduction implant",
+    "Auditory brainstem implant",
+    "Middle ear implant"
+   ],
+   "dogru": 2,
+   "aciklama": "Without a nerve, stimulation goes directly to the _cochlear nucleus_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a child with cochlear nerve aplasia, which option could be considered instead of a cochlear implant?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: an auditory brainstem implant.",
+    "Without a cochlear nerve, electrodes in the cochlea have nothing to stimulate; the ABI stimulates the cochlear nucleus directly."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Bone-Conduction Implants: *Percutaneous* vs Transcutaneous",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about bone-conduction implants, that is, systems that pass through the skin and systems that stay under it.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

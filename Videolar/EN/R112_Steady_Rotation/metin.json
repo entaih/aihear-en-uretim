@@ -1,0 +1,103 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R112_Steady_Rotation_EN",
+ "kapak": {
+  "ust": "QUICK FACT #112",
+  "baslik": "Steady spin *goes unfelt*",
+  "alt": "The cupula and changes in speed",
+  "cizim": "vestibuler",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why don't the semicircular canals sense steady rotation? #shorts",
+  "aciklama": "When the head turns, the bony canal moves with it, but the endolymph lags behind by inertia and bends the cupula. If rotation continues at a constant speed, the fluid turns with the canal and the cupula returns within a few seconds; so the canals sense changes in speed.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "balance",
+   "vestibular"
+  ],
+  "etiketler": [
+   "semicircular canals",
+   "cupula",
+   "endolymph",
+   "vestibular system",
+   "balance",
+   "dizziness",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why don't the semicircular canals sense steady rotation?",
+  "bilgiler": [
+   "As the head turns, endolymph lags behind and bends the cupula.",
+   "At constant speed, the fluid turns with the canal; the cupula returns.",
+   "The canals sense changes in speed, not steady speed."
+  ],
+  "hashtag": [
+   "audiology",
+   "balance",
+   "vestibular"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #112",
+   "metin": "Why isn't steady spin *sensed?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why don't the semicircular canals sense steady rotation?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "The *cupula* and endolymph",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Start",
+     "tr": "fluid lags behind",
+     "cumle": 0
+    },
+    {
+     "ad": "Cupula",
+     "tr": "bends",
+     "cumle": 1
+    },
+    {
+     "ad": "Steady speed",
+     "tr": "cupula returns",
+     "cumle": 3
+    }
+   ],
+   "alt": "The canals sense _changes in speed_.",
+   "alt_cumle": 3,
+   "cumleler": [
+    "As the head turns, the canal moves but endolymph lags behind.",
+    "This relative flow bends the cupula and excites or inhibits hair cells.",
+    "If rotation continues at constant speed, the fluid turns with the canal.",
+    "The cupula returns within seconds; the canals sense changes in speed."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D026",
+ "kaynak_baslik": "The Vestibular Labyrinth: Otoliths and Canals"
+}

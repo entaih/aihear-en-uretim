@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R285_SII_Is_Not_a_Percentage_EN",
+ "kapak": {
+  "ust": "QUICK FACT #285",
+  "baslik": "SII: *not a percentage*",
+  "alt": "The Speech Intelligibility Index",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "If the SII is 0.5, does the person understand half the words? #shorts",
+  "aciklama": "The Speech Intelligibility Index (SII) summarizes how much speech is audible, weighted by band importance, on a scale from 0 to 1; the 1000 and 2000 Hz bands carry about half the information. But the SII is not a percentage of understanding; a value of 0.5 does not mean half the words will be understood.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "SII"
+  ],
+  "etiketler": [
+   "SII",
+   "Speech Intelligibility Index",
+   "audibility",
+   "band importance",
+   "speech mapping",
+   "ANSI S3.5",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "If the SII is 0.5, does the person understand half the words?",
+  "bilgiler": [
+   "The SII summarizes audible speech from 0 to 1.",
+   "The 1000 and 2000 Hz bands carry about half the information.",
+   "An SII of 0.5 does not mean half the words are understood."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "SII"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #285",
+   "metin": "Half *understood?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "If the SII is 0.5, does the person understand half the words?"
+   ]
+  },
+  {
+   "id": "sii",
+   "tur": "zincir",
+   "baslik": "Reading the *SII*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "0 to 1",
+     "tr": "audibility summary",
+     "cumle": 0
+    },
+    {
+     "ad": "Band importance",
+     "tr": "1 and 2 kHz: half",
+     "cumle": 2
+    },
+    {
+     "ad": "Not a percent",
+     "tr": "not understanding",
+     "cumle": 3
+    }
+   ],
+   "alt": "Audibility, _not understanding_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The SII summarizes how much speech is audible, from 0 to 1.",
+    "In each band, the audible part is weighted by band importance.",
+    "The 1000 and 2000 hertz bands carry about half the information.",
+    "But 0.5 does not mean half the words will be understood.",
+    "The SII summarizes audibility; alone, it does not predict understanding."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D191",
+ "kaynak_baslik": "Speech Mapping and Verification with ISTS"
+}

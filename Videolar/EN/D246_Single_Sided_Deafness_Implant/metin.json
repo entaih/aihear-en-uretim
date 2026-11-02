@@ -1,0 +1,734 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D246_Single_Sided_Deafness_Implant_EN",
+ "kapak": {
+  "ust": "LESSON 246",
+  "baslik": "Single-sided<br>deafness and *implants*",
+  "alt": "CROS, bone conduction and cochlear implants",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      10,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      95,
+      105,
+      110,
+      115,
+      120,
+      120
+     ],
+     "yanitsiz": [
+      4,
+      5
+     ]
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  }
+ },
+ "youtube": {
+  "baslik": "Single-Sided Deafness and the Cochlear Implant Option | Lesson 246 | AIHEAR Audiology Academy",
+  "aciklama": "What options are there for someone with one normal ear and one deaf ear? In this lesson we cover the everyday effects of single-sided deafness, how CROS and bone-conduction devices compare with a cochlear implant, outcomes for localization and hearing in noise, the effect on tinnitus, and key points in candidacy.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Van de Heyning et al. (2008), Incapacitating unilateral tinnitus in single-sided deafness treated by cochlear implantation, Annals of Otology, Rhinology and Laryngology; Arndt et al. (2011), Comparison of pseudobinaural hearing to real binaural hearing rehabilitation after cochlear implantation in patients with unilateral deafness and tinnitus, Otology and Neurotology; Wolfe, Cochlear Implants; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "singlesideddeafness"
+  ],
+  "etiketler": [
+   "single-sided deafness",
+   "SSD",
+   "cochlear implant",
+   "CROS",
+   "bone-conduction device",
+   "spatial hearing",
+   "sound localization",
+   "tinnitus",
+   "asymmetric hearing loss",
+   "head shadow",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 246",
+   "baslik": "Single-sided deafness and *implants*",
+   "alt": "CROS, bone conduction and cochlear implants",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the options for people with one normal ear and one deaf ear, and where the cochlear implant fits.",
+    "We will compare signal rerouting, bone-conduction devices and the implant for localization, hearing in noise and tinnitus."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "Single-sided deafness",
+   "baslik": "Example: a deaf *left ear*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Left ear_: masked air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ range",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       10,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       95,
+       105,
+       110,
+       115,
+       120,
+       120
+      ],
+      "yanitsiz": [
+       4,
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this example, hearing in the right ear is within normal limits.",
+    "In the left ear, masked testing shows a profound loss; at the high frequencies there is no response at the audiometer limit.",
+    "When one ear is near normal and the other has too much loss to benefit from a hearing aid, this is called single-sided deafness.",
+    "When the better ear also has a mild to moderate loss and the ears differ clearly, this is called asymmetric hearing loss.",
+    "These people hear the person in front of them easily in quiet; so the problem is often underestimated.",
+    "Yet they have clear difficulties in the noisy, busy settings of everyday life."
+   ]
+  },
+  {
+   "id": "sorunlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Single-sided deafness",
+   "baslik": "*Everyday life* with one ear",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Localization",
+     "cumle": 0,
+     "metin": "Where is the sound?"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "In noise",
+     "cumle": 1,
+     "metin": "Speech from the poor side"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Listening effort",
+     "cumle": 3,
+     "metin": "Fatigue"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "cumle": 4,
+     "metin": "Ringing in the deaf ear"
+    }
+   ],
+   "cumleler": [
+    "Spatial hearing, that is, locating sounds and separating them by direction, requires two ears.",
+    "When speech comes from the deaf side, the head shadow weakens it, and less of it reaches the good ear.",
+    "If the noise comes from the good ear's side, understanding speech becomes even harder.",
+    "People describe constant effort to follow conversation in a crowd, and being tired by the end of the day.",
+    "Many people also have tinnitus in the deaf ear, which can clearly affect quality of life.",
+    "Children with a unilateral loss have a higher risk of difficulties at school and in language; they are followed closely."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Single-sided deafness",
+   "baslik": "Cause and *duration* matter",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Sudden loss",
+     "cumle": 0,
+     "metin": "Common cause in adults"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Surgery, trauma",
+     "cumle": 1,
+     "metin": "Tumor, fracture"
+    },
+    {
+     "ikon": "virus",
+     "baslik": "Congenital CMV",
+     "cumle": 2,
+     "metin": "Common cause in children"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Cochlear nerve",
+     "cumle": 3,
+     "metin": "Imaging is essential"
+    }
+   ],
+   "cumleler": [
+    "Common causes of single-sided deafness in adults include sudden hearing loss, inner ear infections and Meniere's disease.",
+    "Vestibular schwannoma surgery and temporal bone fractures can also cause single-sided deafness.",
+    "In children, congenital cytomegalovirus infection is an important cause.",
+    "Some children born with single-sided deafness have a deficient cochlear nerve; so imaging comes before the implant decision.",
+    "Besides the cause, we ask how long the loss has been present, because this is one of the factors that most affects implant outcome.",
+    "When the cochlear nerve has been cut during surgery, an implant is not an option."
+   ]
+  },
+  {
+   "id": "secenekler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Options",
+   "baslik": "Four *options*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Strategies",
+     "cumle": 0,
+     "metin": "Position and communication"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "CROS",
+     "cumle": 1,
+     "metin": "Carries sound to good ear"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Bone conduction",
+     "cumle": 2,
+     "metin": "Carries it through the skull"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Cochlear implant",
+     "cumle": 3,
+     "metin": "Stimulates the deaf ear"
+    }
+   ],
+   "cumleler": [
+    "For some people, information and communication strategies are enough: for example, sitting with the good ear toward the speaker in meetings.",
+    "Contralateral routing of signals, or CROS, carries sound from the deaf side wirelessly to a receiver on the good ear.",
+    "Bone-conduction devices carry sound from the deaf side to the cochlea on the good side through skull vibration.",
+    "Unlike the others, a cochlear implant stimulates the deaf ear itself again.",
+    "We covered CROS and bone-conduction devices in earlier lessons; now let us compare them with the implant.",
+    "The choice among options is made after unbiased information, together with the person's goals and everyday settings."
+   ]
+  },
+  {
+   "id": "yonlendirme",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Options",
+   "baslik": "Rerouting or *stimulating?*",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "cros",
+    "cihaz": "ikisi",
+    "kotu_kulak": "sag",
+    "cihaz_cumle": 2,
+    "aktarim_cumle": 2,
+    "implant_cumle": 5
+   },
+   "etiketler": [
+    {
+     "parca": "yakin_kulak",
+     "metin": "deaf ear",
+     "cumle": 0
+    },
+    {
+     "parca": "uzak_kulak",
+     "metin": "good ear",
+     "cumle": 0
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "head shadow",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 1
+    },
+    {
+     "parca": "uzak_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "yakin_kulak",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In this drawing, sound comes from the deaf ear's side; the ear on the other side hears normally.",
+    "Because of the head shadow, speech reaches the good ear weakened, especially at high frequencies.",
+    "CROS and bone-conduction devices overcome the shadow by carrying this sound to the good ear; speech from the poor side is heard better.",
+    "But in both systems, all sounds finally reach a single cochlea; in other words, the person still hears with one ear.",
+    "So localization does not improve, and if noise comes from the poor side, the noise is carried to the good ear as well.",
+    "A cochlear implant gives the deaf ear its own input back; the brain again receives information from two separate ears.",
+    "Although the acoustic sound of the normal ear and the electric sound of the implant differ, the brain can learn over time to combine them."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Options",
+   "baslik": "*Weighing* the options",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "CROS",
+     "cumle": 0,
+     "metin": "No surgery, try at once"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Bone conduction",
+     "cumle": 2,
+     "metin": "High-frequency loss across skull"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implant",
+     "cumle": 4,
+     "metin": "Surgery and long training"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Decision",
+     "cumle": 6,
+     "metin": "The person's goals"
+    }
+   ],
+   "cumleler": [
+    "CROS needs no surgery, can be tried at once and easily stopped; so it is often the first option tried.",
+    "The receiver on the good ear is usually fitted with an open tip; but some people find wearing devices on both ears bothersome.",
+    "With a bone-conduction device, vibration loses some strength crossing the skull to the other cochlea, especially at high frequencies.",
+    "This device can be tried without surgery on a band; permanent use, however, requires an implant placed in the bone.",
+    "A cochlear implant requires surgery, and results require months of regular use and listening training.",
+    "For each option, care, cost, reimbursement and any future need for magnetic resonance imaging, or MRI, are also discussed.",
+    "In the end, the right option depends on the person's everyday settings and which difficulty they most want to solve."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Implant outcomes",
+   "baslik": "*What* changes with an implant?",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Localization",
+     "cumle": 0,
+     "metin": "Clear improvement"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "In noise",
+     "cumle": 2,
+     "metin": "Gain depends on setup"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "cumle": 4,
+     "metin": "Reduced in most"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Quality of life",
+     "cumle": 5,
+     "metin": "Less effort"
+    }
+   ],
+   "cumleler": [
+    "Studies show that in single-sided deafness, an implant improves localization more than CROS and bone-conduction devices do.",
+    "Localization often does not reach the level of people with normal hearing, but it gives a noticeable improvement in daily life.",
+    "The gain for understanding in noise depends on which side the speech and the noise come from.",
+    "The gain is clearest when speech comes from the implanted side; when both come from the front, the gain is smaller.",
+    "Many people are reported to have clearly less tinnitus in the deaf ear while the implant is on.",
+    "People usually report less listening effort and a better quality of life; but the benefit varies from person to person."
+   ]
+  },
+  {
+   "id": "tinnitus",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Implant outcomes",
+   "baslik": "Effect *on* tinnitus",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": "",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "before surgery",
+      "2": "implant off",
+      "3": "implant on"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tinnitus severity (0 to 10)"
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        8
+       ]
+      ],
+      "renk": "gri",
+      "cumle": 1
+     },
+     {
+      "ad": "kapali",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        6.5
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 3
+     },
+     {
+      "ad": "acik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "acik",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In 2008, Van de Heyning and colleagues reported that an implant reduced tinnitus in people with single-sided deafness and severe tinnitus.",
+     "ses": "In two thousand eight, Van de Heyning and colleagues reported that an implant reduced tinnitus in people with single-sided deafness and severe tinnitus."
+    },
+    "This schematic graph shows the general picture seen in such studies; the values are not real data.",
+    "For most people, tinnitus severity drops clearly while the implant is on.",
+    "In some people the effect partly persists when the implant is switched off; in others, tinnitus returns to its earlier level.",
+    "Tinnitus should not be expected to disappear completely; so the person is given a realistic expectation.",
+    "Tinnitus is not considered a reason for an implant on its own, but together with hearing goals."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Implant outcomes",
+   "baslik": "Candidacy *criteria*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "2019",
+     "cumle": 0,
+     "metin": "US approval"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Age",
+     "cumle": 1,
+     "metin": "Five years and older"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Better ear",
+     "cumle": 2,
+     "metin": "Average 30 dB HL or better"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Trial",
+     "cumle": 3,
+     "metin": "At least one month"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Türkiye",
+     "cumle": 5,
+     "metin": "Check current regulation"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Some centers in Europe have implanted single-sided deafness since the 2000s; in the US, this use was approved in 2019.",
+     "ses": "Some centers in Europe have implanted single-sided deafness since the two thousands; in the US, this use was approved in twenty nineteen."
+    },
+    "These approvals covered people aged five years and older.",
+    "The definition of single-sided deafness required a four-frequency average of thirty decibels HL or better in the good ear.",
+    "One approval required at least one month's trial of a hearing aid, CROS or similar device without benefit before the implant.",
+    "For asymmetric loss, more loss is allowed in the better ear, and a clear difference between the two ears is required.",
+    {
+     "yazi": "Criteria vary by country and device; for reimbursement in Türkiye, always check the current Health Implementation Communiqué, the SUT.",
+     "ses": "Criteria vary by country and device; for reimbursement in Türkiye, always check the current Health Implementation Communiqué, the S.U.T."
+    }
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "What affects outcome",
+   "baslik": "Who does *better?*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Duration",
+     "cumle": 0,
+     "metin": "Short duration of deafness"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Congenital loss",
+     "cumle": 1,
+     "metin": "Early intervention essential"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nerve",
+     "cumle": 3,
+     "metin": "Intact cochlear nerve"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Motivation",
+     "cumle": 4,
+     "metin": "Regular use"
+    }
+   ],
+   "cumleler": [
+    "In adults, the shorter the duration of deafness, the better implant outcomes usually are; so evaluation should not be delayed.",
+    "In children born with single-sided deafness, the auditory pathway of the deaf ear receives no stimulation for years.",
+    "In these children, meaningful benefit is expected only if the implant is done early; done late, results may be very limited.",
+    "Imaging should show that the cochlear nerve is intact.",
+    "Because the normal ear stays dominant, regular use and getting used to the implant take patience; motivation clearly affects outcome.",
+    "If the person's goals are unclear or their expectations unrealistic, more detailed counseling is needed before the decision."
+   ]
+  },
+  {
+   "id": "rehab",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "What affects outcome",
+   "baslik": "*Training* the implanted ear",
+   "maddeler": [
+    {
+     "metin": "The normal ear stays dominant",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Stream sound to the implant only",
+     "cumle": 1,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Short, regular listening sessions",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Balance between the two ears",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "dis_islemci",
+      "metin": "direct audio streaming",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dis_islemci",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "In single-sided deafness, the normal ear hears sound much more clearly, so at first the brain may ignore the implant.",
+    "To train the implanted ear alone, a sound source such as a phone or an audiobook can be streamed directly to the processor.",
+    "Meanwhile the normal ear does not hear; the person listens only through the implant and tries to understand speech.",
+    "Short listening sessions done every day help develop speech understanding with the implanted ear.",
+    "In programming, implant loudness is balanced with the normal ear; sound should feel balanced, not piled up on one side.",
+    "The implant will sound different from the normal ear; it is explained from the start that this is expected."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Explain all options to a person with single-sided deafness without bias. A trial of CROS or a bone-conduction device on a band before surgery clarifies expectations.",
+   "cumleler": [
+    "A tip from the clinic: at the first visit, explain all options to a person with single-sided deafness fairly, with pros and limits.",
+    "Before the surgical decision, trying CROS or a bone-conduction device on a band in everyday settings clarifies the person's needs.",
+    "Because duration of deafness affects implant outcome, refer a person interested in an implant for evaluation without delay.",
+    "For a person who develops single-sided deafness after sudden hearing loss, plan this visit after medical treatment is complete."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "One ear impairs localization",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "CROS and bone conduction: reroute sound",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Implant: stimulates the deaf ear",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Duration and nerve shape outcome",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Single-sided deafness impairs localization and hearing in noise, raises listening effort and often comes with tinnitus.",
+    "CROS and bone-conduction devices carry sound from the deaf side to the good ear; but they do not restore two-eared hearing.",
+    "A cochlear implant stimulates the deaf ear itself; benefits are reported for localization, some noise conditions and tinnitus.",
+    "Outcome depends on duration of deafness, the state of the cochlear nerve and regular use; criteria vary by country."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which option aims to restore localization?",
+   "secenekler": [
+    "CROS system",
+    "Bone-conduction device",
+    "Cochlear implant",
+    "Hearing aid on one ear"
+   ],
+   "dogru": 2,
+   "aciklama": "The implant stimulates _the deaf ear itself_; the others carry sound to the good ear.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in single-sided deafness, which option aims to restore localization?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: a cochlear implant.",
+    "CROS and bone-conduction devices carry sound to one cochlea; the implant gives the deaf ear its own input, aiming for two-eared hearing."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "CI *Outcomes* and Troubleshooting",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about the factors that affect implant performance, device failure and MRI safety.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

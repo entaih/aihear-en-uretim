@@ -1,0 +1,904 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D223_Noise_Measurement_Dosimetry_EN",
+ "kapak": {
+  "ust": "LESSON 223",
+  "baslik": "Noise measurement and<br>*dosimetry*",
+  "alt": "Weighting, Leq and LEX,8h",
+  "cizim": "gurultu_spektrumu"
+ },
+ "youtube": {
+  "baslik": "Noise Measurement and Dosimetry | Lesson 223 | AIHEAR Audiology Academy",
+  "aciklama": "How is workplace noise measured, and how is a worker's daily exposure calculated? In this lesson we learn about the sound level meter, A and C frequency weighting, time weighting, the equivalent continuous sound level (Leq), the daily noise exposure level (LEX,8h), the personal noise dosimeter, measurement strategies and how decibels add as energy.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: IEC 61672-1, Electroacoustics: Sound level meters; IEC 61252, Electroacoustics: Specifications for personal sound exposure meters; ISO 9612, Acoustics: Determination of occupational noise exposure, Engineering method; ISO 1999; NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998); Regulation on the Protection of Employees from Noise-Related Risks, Türkiye, Official Gazette 28.07.2013, No. 28721.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "occupationalhealth",
+   "noise"
+  ],
+  "etiketler": [
+   "noise measurement",
+   "dosimetry",
+   "noise dosimeter",
+   "sound level meter",
+   "A-weighting",
+   "C-weighting",
+   "Leq",
+   "LEX,8h",
+   "noise dose",
+   "ISO 9612",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 223",
+   "baslik": "Noise measurement and *dosimetry*",
+   "alt": "Sound level meter, weighting and daily exposure",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how noise is measured at work and how a worker's daily exposure is calculated.",
+    "We will cover the sound level meter, frequency and time weighting, the equivalent continuous sound level and the personal dosimeter."
+   ]
+  },
+  {
+   "id": "ses_olcer",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The measuring device",
+   "baslik": "The sound level *meter*",
+   "maddeler": [
+    {
+     "metin": "Sound pressure level at one point",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Microphone, filters, display",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "IEC 61672: class 1 and class 2",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Calibration_ check before and after",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_duzeyi_olcer",
+    "cumle": 1,
+    "ayar": {
+     "kalibrator_cumle": 4
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "Microphone",
+      "cumle": 1
+     },
+     {
+      "parca": "gosterge",
+      "metin": "Display",
+      "cumle": 1
+     },
+     {
+      "parca": "kalibrator",
+      "metin": "Calibrator",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "A sound level meter is a device that measures the sound pressure level at one point.",
+    "Its basic parts are a microphone, an amplifier, frequency and time weighting filters and a display.",
+    {
+     "yazi": "The international standard IEC 61672 defines the performance of sound level meters.",
+     "ses": "The international standard I E C sixty one six seven two defines the performance of sound level meters."
+    },
+    "The standard defines two accuracy classes: class 1 is more precise, and class 2 is used for general field measurements.",
+    "Before and after measurement, the device is checked with an acoustic calibrator.",
+    {
+     "yazi": "A calibrator is a small device that delivers sound of known frequency and level to the microphone, for example 94 decibels at 1000 hertz.",
+     "ses": "A calibrator is a small device that delivers sound of known frequency and level to the microphone, for example ninety four decibels at one thousand hertz."
+    },
+    "If there is a clear difference between the two checks, the measurement is not considered reliable and is repeated."
+   ]
+  },
+  {
+   "id": "agirlik",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The measuring device",
+   "baslik": "A and C *weighting*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 31.5,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      31.5,
+      63,
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -40,
+     "max": 5,
+     "adim": 10,
+     "ad": "Correction (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "a_egrisi",
+      "noktalar": [
+       [
+        31.5,
+        -39.4
+       ],
+       [
+        63,
+        -26.2
+       ],
+       [
+        125,
+        -16.1
+       ],
+       [
+        250,
+        -8.6
+       ],
+       [
+        500,
+        -3.2
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        1.2
+       ],
+       [
+        4000,
+        1.0
+       ],
+       [
+        8000,
+        -1.1
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "A",
+      "cumle": 1
+     },
+     {
+      "ad": "c_egrisi",
+      "noktalar": [
+       [
+        31.5,
+        -3.0
+       ],
+       [
+        63,
+        -0.8
+       ],
+       [
+        125,
+        -0.2
+       ],
+       [
+        250,
+        0
+       ],
+       [
+        500,
+        0
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        -0.2
+       ],
+       [
+        4000,
+        -0.8
+       ],
+       [
+        8000,
+        -3.0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "C",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "a125",
+      "x": 125,
+      "y": -16.1,
+      "etiket": "about -16 dB",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A: similar to ear sensitivity",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "dB(A) for occupational exposure",
+     "cumle": 3,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "C: nearly flat, peak value",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "The human ear is not equally sensitive at all frequencies; it is less sensitive to low sounds, especially at moderate levels.",
+    "A-weighting filters the measured sound in a way that resembles this sensitivity of the ear.",
+    {
+     "yazi": "As the blue curve shows, the A filter is zero at 1000 Hz, about minus 16 decibels at 125 Hz and about minus 39 at 31.5 Hz.",
+     "ses": "The blue curve shows the A filter at zero at one thousand hertz, about minus sixteen decibels at one twenty five hertz and minus thirty nine at thirty one point five."
+    },
+    {
+     "yazi": "An A-weighted result is written as dB(A), and it is used for occupational exposure because it relates well to hearing loss risk.",
+     "ses": "An A-weighted result is written as decibels A, and it is used for occupational exposure because it relates well to hearing loss risk."
+    },
+    "C-weighting, as the dashed line shows, is nearly flat; it reduces only slightly at the very low and very high ends.",
+    {
+     "yazi": "That is why peak sound pressure is measured with C-weighting, and the result is written as dB(C).",
+     "ses": "That is why peak sound pressure is measured with C-weighting, and the result is written as decibels C."
+    },
+    "A measurement with no filter at all is called Z-weighting, that is, zero weighting."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The measuring device",
+   "baslik": "Time *weighting*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Fast (F)",
+     "metin": "About 125 milliseconds",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Slow (S)",
+     "metin": "1 second",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Peak",
+     "metin": "Highest instantaneous value",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Integrating",
+     "metin": "Energy average",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sound level fluctuates over time; how quickly the meter follows these fluctuations is called time weighting.",
+    "The fast setting uses a time constant of about 125 milliseconds and follows changes closely.",
+    "The slow setting uses a 1 second time constant and gives a steadier display.",
+    "These settings show the instantaneous level, but on their own they do not give the total energy over a working day.",
+    "The highest instantaneous value of impulse sounds is measured separately as the peak value.",
+    "What occupational exposure really needs is an integrating measurement that averages energy over time.",
+    "So in occupational measurements, the equivalent level we will see in the next part is recorded instead of an instantaneous value."
+   ]
+  },
+  {
+   "id": "olcum_adim",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The measuring device",
+   "baslik": "Measuring at a *fixed point*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Calibrate",
+     "metin": "Check with calibrator",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Set up",
+     "metin": "Weighting, measurement type",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Position",
+     "metin": "At ear height",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Measure and record",
+     "metin": "Long enough",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Fixed-point measurement with a sound level meter also follows set steps.",
+    "First the device is checked with the calibrator, and the weighting and measurement type are selected.",
+    "The microphone is held at the worker's position at ear height; the person measuring holds it away from the body to avoid blocking sound.",
+    "The measurement runs long enough to reflect how the sound varies, and its duration is recorded.",
+    "Where there is air movement, a windscreen is fitted on the microphone.",
+    "This method is also used to map the noise of machines and work areas."
+   ]
+  },
+  {
+   "id": "leq",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Leq and daily level",
+   "baslik": "Equivalent continuous *sound level*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 8,
+     "adim": 1,
+     "ad": "Shift (hours)"
+    },
+    "y": {
+     "min": 75,
+     "max": 100,
+     "adim": 5,
+     "ad": "Level (dB(A))"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        0,
+        85
+       ],
+       [
+        2,
+        85
+       ],
+       [
+        2,
+        95
+       ],
+       [
+        3,
+        95
+       ],
+       [
+        3,
+        80
+       ],
+       [
+        5,
+        80
+       ],
+       [
+        5,
+        92
+       ],
+       [
+        6,
+        92
+       ],
+       [
+        6,
+        85
+       ],
+       [
+        8,
+        85
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "example day",
+      "cumle": 2
+     },
+     {
+      "ad": "leq",
+      "noktalar": [
+       [
+        0,
+        89
+       ],
+       [
+        8,
+        89
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "etiket": "Leq about 89",
+      "cumle": 5
+     },
+     {
+      "ad": "ortalama",
+      "noktalar": [
+       [
+        0,
+        86
+       ],
+       [
+        8,
+        86
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "arithmetic mean 86",
+      "cumle": 5
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "tepe_saat",
+      "x": 2.5,
+      "y": 95,
+      "etiket": "1 hour at 95",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Steady level with the same energy",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Energy average, not arithmetic",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Short high levels dominate",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The equivalent continuous sound level, or Leq, is the steady level that carries the same energy as a fluctuating sound.",
+     "ses": "The equivalent continuous sound level, or L E Q, is the steady level that carries the same energy as a fluctuating sound."
+    },
+    {
+     "yazi": "When measured with A-weighting, it is written as LAeq.",
+     "ses": "When measured with A-weighting, it is written as L A E Q."
+    },
+    {
+     "yazi": "In this example graph, the worker's level varies between 80 and 95 dB(A) during the day.",
+     "ses": "In this example graph, the worker's level varies between eighty and ninety five decibels A during the day."
+    },
+    {
+     "yazi": "Leq is the energy average of these fluctuations, not the arithmetic mean.",
+     "ses": "L E Q is the energy average of these fluctuations, not the arithmetic mean."
+    },
+    {
+     "yazi": "Short periods of high level add a lot of energy, so they raise the Leq markedly.",
+     "ses": "Short periods of high level add a lot of energy, so they raise the L E Q markedly."
+    },
+    {
+     "yazi": "In this example the Leq comes out at about 89 dB(A), while the arithmetic mean of the levels is about 86.",
+     "ses": "In this example the L E Q comes out at about eighty nine decibels A, while the arithmetic mean of the levels is about eighty six."
+    },
+    {
+     "yazi": "So one hour of work at 95 dB(A) matters far more than the quieter hours of the day.",
+     "ses": "So one hour of work at ninety five decibels A matters far more than the quieter hours of the day."
+    }
+   ]
+  },
+  {
+   "id": "lex",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Leq and daily level",
+   "baslik": "Daily exposure level: *LEX,8h*",
+   "maddeler": [
+    {
+     "metin": "Level normalized to an eight-hour day",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Short shift lowers it, long raises",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Example: 4 hours at 91 = 88 dB(A)",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Regulation values use this level",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EXAMPLE CALCULATION",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "4 hours",
+      "metin": "91 dB(A)",
+      "cumle": 3
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Spread over 8 hours",
+      "metin": "Energy is halved",
+      "cumle": 4
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Result",
+      "metin": "88 dB(A)",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The daily noise exposure level is written as LEX,8h.",
+     "ses": "The daily noise exposure level is written as L E X eight hours."
+    },
+    {
+     "yazi": "This value is the LAeq over the actual working time, normalized to an eight-hour working day.",
+     "ses": "This value is the L A E Q over the actual working time, normalized to an eight-hour working day."
+    },
+    "If the noisy working time is shorter than eight hours, the daily level falls; if it is longer, it rises.",
+    {
+     "yazi": "For example, someone who works 4 hours at 91 dB(A) with no significant noise for the rest of the day has a daily level of 88 dB(A).",
+     "ses": "For example, someone who works four hours at ninety one decibels A with no significant noise for the rest of the day has a daily level of eighty eight decibels A."
+    },
+    "This is because halving the time halves the energy, which means a 3 decibel reduction.",
+    "The action and limit values of the regulation in Türkiye are compared against this daily level.",
+    {
+     "yazi": "For calculating daily and weekly levels, the regulation refers to the Turkish standard TS 2607 ISO 1999.",
+     "ses": "For calculating daily and weekly levels, the regulation refers to the Turkish standard T S twenty six oh seven, ISO nineteen ninety nine."
+    }
+   ]
+  },
+  {
+   "id": "dozimetre",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Dosimetry",
+   "baslik": "The personal *dosimeter*",
+   "maddeler": [
+    {
+     "metin": "Moves with the worker",
+     "cumle": 1,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "IEC 61252 standard",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Microphone: shoulder on the exposed side",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Leq, LEX,8h, peak, dose",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Knocks and shouting _mislead_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "dozimetre",
+    "cumle": 1,
+    "ayar": {
+     "mikrofon_cumle": 3,
+     "sonuc_cumle": 4
+    },
+    "etiketler": [
+     {
+      "parca": "dozimetre",
+      "metin": "Dosimeter",
+      "cumle": 1
+     },
+     {
+      "parca": "mikrofon",
+      "metin": "Microphone: on the shoulder",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "If a worker moves between places and tasks during the day, a fixed-point measurement is not enough.",
+    "A noise dosimeter is a meter worn by the worker that accumulates exposure over the whole shift.",
+    {
+     "yazi": "The performance of personal sound exposure meters is defined by the IEC 61252 standard.",
+     "ses": "The performance of personal sound exposure meters is defined by the I E C sixty one two five two standard."
+    },
+    "The microphone is usually placed on the shoulder on the side closer to the noise source, near the ear.",
+    {
+     "yazi": "At the end of the shift, the device gives results such as Leq, daily exposure level, peak value and percent dose.",
+     "ses": "At the end of the shift, the device gives results such as L E Q, daily exposure level, peak value and percent dose."
+    },
+    "A dosimeter reflects the worker's real movements, but it can be affected by artificial sounds such as knocks on the microphone or shouting.",
+    "So the worker is told not to touch the microphone, and the recording is later reviewed over time.",
+    "The dosimeter is also checked with a calibrator before and after the shift."
+   ]
+  },
+  {
+   "id": "strateji",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Dosimetry",
+   "baslik": "Measurement *strategies*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Task-based",
+     "metin": "Task level and duration",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Job-based",
+     "metin": "Samples from a group",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Full-day",
+     "metin": "Dosimeter for the whole shift",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The international standard ISO 9612 defines three strategies for measuring occupational noise.",
+     "ses": "The international standard ISO ninety six twelve defines three strategies for measuring occupational noise."
+    },
+    "In task-based measurement, the working day is divided into tasks, and the level and duration of each task are found separately.",
+    "In job-based measurement, sample measurements are taken from a group of workers doing the same job.",
+    "In full-day measurement, the worker is followed with a dosimeter for the whole shift.",
+    "The choice depends on how regular the work is and how much the worker moves around during the day.",
+    "Whichever strategy is chosen, the measurement uncertainty is also calculated and stated in the report.",
+    "Task-based measurement also shows which task should be prioritized for noise reduction."
+   ]
+  },
+  {
+   "id": "toplama",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Calculation and interpretation",
+   "baslik": "Decibels *do not simply add*",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "Two machines",
+     "metin": "85 + 85 = 88 dB(A)",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "100 percent dose",
+     "metin": "85 dB(A), 8 hours",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Every 3 dB",
+     "metin": "Dose doubles",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Decibels do not add arithmetically; it is the energies of the sounds that add.",
+    {
+     "yazi": "For example, when two machines each producing 85 dB(A) run together, the total is about 88 dB(A), not 170.",
+     "ses": "For example, when two machines each producing eighty five decibels A run together, the total is about eighty eight decibels A, not one hundred seventy."
+    },
+    "The percent dose given by a dosimeter is based on the same energy principle.",
+    {
+     "yazi": "With a reference of 85 dB(A) and a 3 decibel exchange rate, 85 dB(A) for eight hours means a 100 percent dose.",
+     "ses": "With a reference of eighty five decibels A and a three decibel exchange rate, eighty five decibels A for eight hours means a one hundred percent dose."
+    },
+    {
+     "yazi": "Every 3 decibel increase doubles the dose: eight hours at 88 dB(A) is a 200 percent dose, and at 91 dB(A) a 400 percent dose.",
+     "ses": "Every three decibels doubles the dose: eight hours at eighty eight decibels A is two hundred percent, and at ninety one decibels A, four hundred percent."
+    },
+    "The dosimeter's reference level and exchange rate must be set to match the regulation being applied.",
+    "The loudest of the sources running together sets the total level, so noise reduction starts with the loudest source."
+   ]
+  },
+  {
+   "id": "odyolog",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Calculation and interpretation",
+   "baslik": "The audiologist and *measurement results*",
+   "maddeler": [
+    {
+     "metin": "Measurement is mostly occupational hygiene",
+     "cumle": 0,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Reading and interpreting results",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Together with audiogram changes",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "A basis for choosing protectors",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "gurultu_spektrumu",
+    "ayar": {
+     "tur": "pembe",
+     "gosterim": "oktav",
+     "oktav_cumle": 3
+    },
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "oktav_bantlari",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Noise measurement is mostly the field of occupational hygiene and safety specialists.",
+    "The audiologist, however, should be able to read the results and interpret them together with audiometric findings.",
+    "For example, if audiogram changes cluster in a department with high exposure, the program needs to be reviewed.",
+    "Measurement results, together with octave band analysis, are also used to decide how much attenuation a hearing protector needs.",
+    "Tracking measurement and audiometry results together makes it easier to evaluate how well the hearing conservation program works.",
+    "We will cover types of hearing protectors and their real-world protection in the next lesson."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In the report, include not only the result but also the device class, calibration checks, weighting, duration and the dosimeter's reference and exchange rate settings.",
+   "cumleler": [
+    "A clinical tip: in the measurement report, write down not only the result but also the measurement conditions.",
+    "The class of the device, the calibration checks, the weighting settings and the measurement duration should be in the report.",
+    "For a dosimeter, always note the values to which the reference level and exchange rate were set.",
+    "Without this information, the results of two measurements cannot be compared with confidence."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "A: exposure, C: peak value",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Leq: energy average",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "LEX,8h: normalized to eight hours",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Dosimeter: personal, whole-shift measurement",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Occupational exposure is measured with A-weighting, and peak sound pressure with C-weighting.",
+    {
+     "yazi": "Leq is the energy average of a fluctuating sound; short periods of high level raise it markedly.",
+     "ses": "L E Q is the energy average of a fluctuating sound; short periods of high level raise it markedly."
+    },
+    "The daily exposure level is the level over the working time normalized to an eight-hour day.",
+    "A personal dosimeter accumulates exposure over the shift and gives the result as a level and a percent dose."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Two 85 dB(A) machines together give how many dB(A)?",
+   "secenekler": [
+    "85",
+    "About 88",
+    "95",
+    "170"
+   ],
+   "dogru": 1,
+   "aciklama": "The energy doubles: a _3 decibel_ increase.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: two machines each produce 85 dB(A). When they run together, what is the total level, approximately?",
+     "ses": "Test yourself: two machines each produce eighty five decibels A. When they run together, what is the total level, approximately?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: about 88 dB(A).",
+     "ses": "The correct answer is B: about eighty eight decibels A."
+    },
+    "The energy doubles, which means a 3 decibel increase; decibels do not add arithmetically."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Hearing Protectors: Types and *Real-World* Protection",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn about the types of hearing protectors and the protection they really give in the field.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

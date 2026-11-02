@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R392_Staying_Alert_in_the_Chair_EN",
+ "kapak": {
+  "ust": "QUICK FACT #392",
+  "baslik": "Stay *alert* in the chair",
+  "alt": "Drowsy patient, falsely low gain",
+  "cizim": "nistagmus_izi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why is the patient asked to count during rotary chair testing? #shorts",
+  "aciklama": "In rotary chair testing, the person sits in darkness and eye movements are recorded with video goggles. To keep the vestibulo-ocular reflex from fading in darkness, the person stays alert with mental tasks such as counting. Gain is the ratio of slow phase eye velocity to chair velocity; a drowsy patient can give falsely low gain, so keep up mental tasks at every frequency.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "vestibular",
+   "VOR"
+  ],
+  "etiketler": [
+   "rotary chair",
+   "VOR gain",
+   "vestibulo-ocular reflex",
+   "sinusoidal harmonic acceleration",
+   "vestibular testing",
+   "balance",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why is the patient asked to count during rotary chair testing?",
+  "bilgiler": [
+   "The person is tested in darkness with video goggles.",
+   "Tasks like counting keep the reflex from fading.",
+   "A drowsy patient can give falsely low gain."
+  ],
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "VOR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #392",
+   "metin": "Why *count?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why is the patient asked to count during rotary chair testing?"
+   ]
+  },
+  {
+   "id": "uyanik",
+   "tur": "zincir",
+   "baslik": "Stay *alert*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Darkness",
+     "tr": "video goggles",
+     "cumle": 0
+    },
+    {
+     "ad": "Mental task",
+     "tr": "counting",
+     "cumle": 1
+    },
+    {
+     "ad": "Drowsy",
+     "tr": "falsely low gain",
+     "cumle": 3
+    }
+   ],
+   "alt": "Keep tasks going _at every frequency_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The person sits in darkness; video goggles record eye movements.",
+    "Counting keeps them alert so the vestibulo-ocular reflex does not fade.",
+    "Gain is slow phase eye velocity divided by chair velocity.",
+    "A drowsy patient can give falsely low gain.",
+    "So keep up mental tasks at every frequency."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D162",
+ "kaynak_baslik": "Rotary Chair and Computerized Posturography"
+}

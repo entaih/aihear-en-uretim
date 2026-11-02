@@ -1,0 +1,101 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R500_Three_Models_of_Tele_Audiology_EN",
+ "kapak": {
+  "ust": "QUICK FACT #500",
+  "baslik": "Remote, but *how?*",
+  "alt": "Synchronous, asynchronous, hybrid",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does tele-audiology always mean a live video call? #shorts",
+  "aciklama": "Tele-audiology is the remote delivery of audiology services through communication technologies. In synchronous service, the audiologist and patient are connected at the same time; in asynchronous service, data such as video otoscopy images or automated audiograms are first collected and then reviewed by the specialist; in a hybrid model, data are collected in advance and results are shared in a live call. Tele-audiology does not replace in-person care; used with the right patient and for the right purpose, it complements it.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "teleaudiology",
+   "digitalhealth"
+  ],
+  "etiketler": [
+   "tele-audiology",
+   "telehealth",
+   "synchronous service",
+   "asynchronous service",
+   "remote testing",
+   "video otoscopy",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does tele-audiology always mean a live video call?",
+  "bilgiler": [
+   "Synchronous: audiologist and patient connected at the same time.",
+   "Asynchronous: data collected first, reviewed later.",
+   "Hybrid: data in advance, results in a live call."
+  ],
+  "hashtag": [
+   "audiology",
+   "teleaudiology",
+   "digitalhealth"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #500",
+   "metin": "Always *live?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does tele-audiology always mean a live video call?"
+   ]
+  },
+  {
+   "id": "model",
+   "tur": "zincir",
+   "baslik": "Three *models*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Synchronous",
+     "tr": "at the same time",
+     "cumle": 0
+    },
+    {
+     "ad": "Asynchronous",
+     "tr": "stored first",
+     "cumle": 1
+    },
+    {
+     "ad": "Hybrid",
+     "tr": "both together",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "In synchronous service, audiologist and patient are connected at the same time.",
+    "In asynchronous service, data are collected first, then reviewed by the specialist.",
+    "In a hybrid model, data come first; results are shared live.",
+    "The choice depends on service type, connection quality and patient needs."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D294",
+ "kaynak_baslik": "Tele-Audiology: Remote Testing and Fitting"
+}

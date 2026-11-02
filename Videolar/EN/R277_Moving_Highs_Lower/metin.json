@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R277_Moving_Highs_Lower_EN",
+ "kapak": {
+  "ust": "QUICK FACT #277",
+  "baslik": "Moving highs *lower*",
+  "alt": "How frequency compression works",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can inaudible high sounds be moved to a lower region? #shorts",
+  "aciklama": "In steeply sloping losses, conventional gain often cannot make high frequencies audible. Frequency compression leaves sounds below the cutoff unchanged and squeezes the region above it into a narrower range, but real-ear measurement first shows how far conventional gain can go.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "frequencylowering"
+  ],
+  "etiketler": [
+   "frequency lowering",
+   "frequency compression",
+   "cutoff frequency",
+   "dead region",
+   "steeply sloping loss",
+   "hearing aid",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can inaudible high sounds be moved to a lower region?",
+  "bilgiler": [
+   "Sounds below the cutoff frequency stay unchanged.",
+   "Here, information up to 10 kHz fits below 5 kHz.",
+   "Frequency lowering is not a shortcut for missing high-frequency gain."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "frequencylowering"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #277",
+   "metin": "Where do *lost highs* go?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can inaudible high sounds be moved to a lower region?"
+   ]
+  },
+  {
+   "id": "sikistirma",
+   "tur": "zincir",
+   "baslik": "Frequency *compression*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Below 2500 Hz",
+     "tr": "unchanged",
+     "cumle": 1
+    },
+    {
+     "ad": "Above",
+     "tr": "compressed",
+     "cumle": 2
+    },
+    {
+     "ad": "10 kHz",
+     "tr": "below 5 kHz",
+     "cumle": 3
+    }
+   ],
+   "alt": "Vowels and tone _preserved_",
+   "alt_cumle": 1,
+   "cumleler": [
+    "In steeply sloping loss, gain often cannot make high sounds audible.",
+    "In frequency compression, sounds below the cutoff frequency stay unchanged.",
+    "The region above it is squeezed into a narrower range.",
+    "Here, information up to 10 kilohertz fits below 5 kilohertz.",
+    "Conventional gain comes first; frequency lowering is not a shortcut."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D182",
+ "kaynak_baslik": "Channels, Bands and Frequency Lowering"
+}

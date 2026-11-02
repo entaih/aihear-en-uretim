@@ -1,0 +1,118 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R336_Ten_Decibel_Shift_EN",
+ "kapak": {
+  "ust": "QUICK FACT #336",
+  "baslik": "Three frequencies, *10 decibels*",
+  "alt": "Standard threshold shift (STS)",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      5,
+      5,
+      10,
+      20,
+      30,
+      35,
+      25,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Which change counts as an alarm in workplace hearing monitoring? #shorts",
+  "aciklama": "Under the US OSHA definition, a standard threshold shift (STS) is an average worsening of 10 dB or more at 2000, 3000 and 4000 Hz compared with the baseline audiogram. In the example, the shifts are 10, 15 and 15 dB, averaging about 13 dB; the shift is confirmed by retesting.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "noise",
+   "occupationalhealth"
+  ],
+  "etiketler": [
+   "standard threshold shift",
+   "STS",
+   "baseline audiogram",
+   "audiometric monitoring",
+   "OSHA",
+   "hearing conservation program",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Which change counts as an alarm in workplace hearing monitoring?",
+  "bilgiler": [
+   "STS looks only at 2, 3 and 4 kHz.",
+   "An average worsening of 10 dB or more counts as a shift.",
+   "A shift is confirmed by retesting, not one measurement."
+  ],
+  "hashtag": [
+   "audiology",
+   "noise",
+   "occupationalhealth"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #336",
+   "metin": "When is it *an alarm?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Which change counts as an alarm in workplace hearing monitoring?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Average of *2, 3 and 4 kHz*",
+   "sayi": "10",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The US OSHA definition of standard threshold shift uses only three frequencies.",
+    "They are 2000, 3000 and 4000 hertz, where noise damage appears first.",
+    "An average worsening of 10 decibels or more from baseline counts.",
+    "In the example, shifts of 10, 15 and 15 average about 13.",
+    "The shift is confirmed by retesting; one measurement is not enough."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D225",
+ "kaynak_baslik": "Workplace Audiometric Monitoring and Threshold Shift"
+}

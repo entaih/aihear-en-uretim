@@ -1,0 +1,100 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R001_Smallest_Bone_EN",
+ "kapak": {
+  "ust": "QUICK FACT #1",
+  "baslik": "Smallest bone in your *body?*",
+  "alt": "The stapes, about 3 mm",
+  "cizim": "uzengi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Where is the smallest bone in your body? #shorts",
+  "aciklama": "At about 3 mm long, the stapes is the smallest bone in the human body. Together with the malleus and incus, it carries vibrations from the eardrum to the inner ear.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ear",
+   "facts"
+  ],
+  "etiketler": [
+   "stapes",
+   "smallest bone",
+   "middle ear",
+   "ossicles",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #1",
+   "metin": "Where is the smallest bone in your *body?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Where is the smallest bone in your body?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "The *stapes*, in the middle ear",
+   "sayi": "3",
+   "birim": "mm",
+   "cizim": true,
+   "cizim_cumle": 1,
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "In your middle ear. It is called the stapes.",
+    "It is only about 3 mm long. Smaller than a grain of rice."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "A chain that *carries sound*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Malleus",
+     "cumle": 0
+    },
+    {
+     "ad": "Incus",
+     "cumle": 0,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Stapes",
+     "cumle": 0,
+     "gecikme": 1.1
+    }
+   ],
+   "alt": "It passes vibrations from the eardrum to the _inner ear_.",
+   "alt_cumle": 1,
+   "cumleler": [
+    "The malleus, incus and stapes form a tiny chain.",
+    "The stapes is the last link, passing vibrations to the inner ear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D020"
+}

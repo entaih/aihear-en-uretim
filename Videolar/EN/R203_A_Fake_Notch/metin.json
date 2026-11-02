@@ -1,0 +1,124 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R203_A_Fake_Notch_EN",
+ "kapak": {
+  "ust": "QUICK FACT #203",
+  "baslik": "A *fake* notch",
+  "alt": "Calibration errors create false findings",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      15,
+      15,
+      25,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can a faulty audiometer draw a fake hearing loss? #shorts",
+  "aciklama": "In this example, the earphone output at 4000 Hz is 10 dB too low, so a normal-hearing person's threshold is measured 10 dB worse. The result is a fake notch suggesting noise-induced loss, and the same error repeats in every patient tested on that device.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiometry",
+   "calibration"
+  ],
+  "etiketler": [
+   "audiometer calibration",
+   "calibration",
+   "ISO 389",
+   "IEC 60645",
+   "artificial ear",
+   "coupler",
+   "pure-tone audiometry",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can a faulty audiometer draw a fake hearing loss?",
+  "bilgiler": [
+   "Here, the 4000 Hz output is 10 dB too low.",
+   "A normal ear shows a fake notch suggesting noise-induced loss.",
+   "Daily checks and regular calibration catch this early."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "calibration"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #203",
+   "metin": "Can an audiometer draw *fake loss?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can a faulty audiometer draw a fake hearing loss?"
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "zincir",
+   "baslik": "A *fake* notch",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "4000 Hz",
+     "tr": "10 dB too low",
+     "cumle": 0
+    },
+    {
+     "ad": "Threshold",
+     "tr": "10 dB worse",
+     "cumle": 1
+    },
+    {
+     "ad": "Notch",
+     "tr": "false finding",
+     "cumle": 2
+    }
+   ],
+   "alt": "The problem is _in the device, not the ear_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Here, the earphone output at four thousand hertz is ten decibels low.",
+    "So a normal ear's threshold there is measured ten decibels worse.",
+    "The result is a fake notch suggesting noise-induced loss.",
+    "The same error repeats in every patient tested on that device.",
+    "Daily checks and regular calibration catch this kind of error early."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D113",
+ "kaynak_baslik": "Audiometer Calibration: Why and How"
+}

@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R111_Two_Windows_EN",
+ "kapak": {
+  "ust": "QUICK FACT #111",
+  "baslik": "Two inner ear *windows*",
+  "alt": "The oval and round windows",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does the inner ear have two windows? #shorts",
+  "aciklama": "Fluids cannot be compressed, so when the stapes pushes the oval window in, the round window membrane bulges out. This back-and-forth movement lets the inner ear fluids and the basilar membrane vibrate. If a third opening forms in the bony labyrinth, some sound energy escapes through it.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ear",
+   "anatomy"
+  ],
+  "etiketler": [
+   "inner ear",
+   "oval window",
+   "round window",
+   "third window",
+   "stapes",
+   "labyrinth",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does the inner ear have two windows?",
+  "bilgiler": [
+   "Fluids cannot be compressed.",
+   "When the stapes pushes the oval window in, the round window bulges out.",
+   "If a third opening forms, energy escapes: the third window effect."
+  ],
+  "hashtag": [
+   "audiology",
+   "ear",
+   "anatomy"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #111",
+   "metin": "Why does the inner ear have *two windows?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does the inner ear have two windows?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Fluid *cannot be compressed*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oval",
+     "tr": "pushed in",
+     "cumle": 1
+    },
+    {
+     "ad": "Round",
+     "tr": "bulges out",
+     "cumle": 1,
+     "gecikme": 1.6
+    },
+    {
+     "ad": "Vibration",
+     "tr": "basilar membrane",
+     "cumle": 2
+    }
+   ],
+   "alt": "A third opening: _the third window effect_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "The fluids in the inner ear cannot be compressed.",
+    "The stapes pushes the oval window in; the round window bulges out.",
+    "This lets the fluids and the basilar membrane vibrate.",
+    "If a third opening forms, some sound energy escapes through it."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D023",
+ "kaynak_baslik": "The Inner Ear: Bony and Membranous Labyrinth"
+}

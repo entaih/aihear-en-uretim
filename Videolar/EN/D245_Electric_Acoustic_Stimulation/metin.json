@@ -1,0 +1,767 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D245_Electric_Acoustic_Stimulation_EN",
+ "kapak": {
+  "ust": "LESSON 245",
+  "baslik": "Electric-acoustic<br>*stimulation*",
+  "alt": "Acoustic and electric in one ear",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      30,
+      45,
+      70,
+      95,
+      105,
+      110
+     ],
+     "yanitsiz": [
+      5
+     ]
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  }
+ },
+ "youtube": {
+  "baslik": "Electric-Acoustic Stimulation (EAS) and Hybrid Systems | Lesson 245 | AIHEAR Audiology Academy",
+  "aciklama": "Can one ear receive both acoustic and electric stimulation when low-frequency hearing remains but the high frequencies are lost? In this lesson we cover the candidacy logic of electric-acoustic stimulation (EAS), hearing preservation surgery, how hearing preservation is classified, programming and expected outcomes.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: von Ilberg et al. (1999), Electric-acoustic stimulation of the auditory system, ORL; Gantz and Turner (2003), Combining acoustic and electrical hearing, Laryngoscope; Skarzynski et al. (2013), Towards a consensus on a hearing preservation classification system, Acta Oto-Laryngologica; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "EAS"
+  ],
+  "etiketler": [
+   "electric-acoustic stimulation",
+   "EAS",
+   "hybrid cochlear implant",
+   "hybrid device",
+   "hearing preservation",
+   "residual hearing",
+   "crossover frequency",
+   "round window",
+   "steeply sloping hearing loss",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 245",
+   "baslik": "Electric-acoustic *stimulation*",
+   "alt": "Acoustic and electric in the same ear",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how one ear can receive both acoustic and electric stimulation when low-frequency hearing remains.",
+    "We will cover candidacy, hearing preservation surgery, programming and expected outcomes."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "Who is it for?",
+   "baslik": "Example: a *steeply sloping* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ range",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       45,
+       70,
+       95,
+       105,
+       110
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this example, the right ear has a mild to moderate loss in the low frequencies and a profound loss in the high frequencies.",
+    "In steeply sloping losses like this, a hearing aid makes low sounds audible but often cannot make high-frequency consonants audible.",
+    "The person hears sounds but struggles to understand speech, especially in noise and with high-frequency consonants.",
+    "A standard cochlear implant conveys high frequencies well, but natural low-frequency hearing may be lost when the electrode is inserted.",
+    "Electric-acoustic stimulation, or EAS, aims to combine these two worlds in the same ear.",
+    "The high frequencies are stimulated electrically by the implant, and the low frequencies acoustically with amplified sound.",
+    "The values are only an example; the actual candidacy decision follows a full evaluation and a team discussion."
+   ]
+  },
+  {
+   "id": "aday",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Who is it for?",
+   "baslik": "EAS *candidacy*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Low frequencies",
+     "cumle": 0,
+     "metin": "Usable hearing"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "High frequencies",
+     "cumle": 2,
+     "metin": "Severe to profound"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Aided understanding",
+     "cumle": 3,
+     "metin": "Limited benefit"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Criteria",
+     "cumle": 4,
+     "metin": "Vary by country and device"
+    }
+   ],
+   "cumleler": [
+    "An EAS candidate has usable residual hearing in the low frequencies that can benefit from amplification.",
+    "For example, US approval studies required thresholds up to five hundred hertz no worse than about sixty to sixty five decibels HL.",
+    "In the mid and high frequencies, the loss is severe to profound.",
+    "With well-fitted hearing aids, word recognition benefit is limited; this is the same logic as standard implant candidacy.",
+    "Criteria vary by country, device and reimbursement rules; in Türkiye, the current Health Implementation Communiqué should be checked.",
+    "Whether the residual hearing is progressive also matters; with a rapidly progressing loss, preserved hearing may not last long."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Who is it for?",
+   "baslik": "A *short history* of EAS",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "1999",
+     "cumle": 0,
+     "metin": "First EAS report"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Short electrode",
+     "cumle": 1,
+     "metin": "Limited to the base"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Soft surgery",
+     "cumle": 2,
+     "metin": "Protect the cochlea"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Single processor",
+     "cumle": 3,
+     "metin": "Acoustic and electric"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In 1999, von Ilberg and colleagues reported the first results combining electric and acoustic stimulation in the same ear.",
+     "ses": "In nineteen ninety nine, von Ilberg and colleagues reported the first results combining electric and acoustic stimulation in the same ear."
+    },
+    "Around the same time, Gantz and Turner tried to preserve low-frequency hearing with short electrodes placed only in the cochlear base.",
+    "In the years that followed, thin, flexible electrodes and surgical techniques that cause minimal cochlear damage were developed.",
+    "Today, in many systems the same processor delivers both the implant stimulation and acoustic sound into the ear canal.",
+    "Preserving residual hearing is now a goal not only for EAS candidates but in many standard implant surgeries as well."
+   ]
+  },
+  {
+   "id": "koklea",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "How does it work?",
+   "baslik": "Electric at the base, acoustic at the *apex*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: electric stimulation",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "apex: acoustic stimulation",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "round window",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The logic of EAS rests on the frequency map of the cochlea.",
+    "The hair cells at the base are largely lost; this region is stimulated electrically by the electrode array.",
+    "Near the apex, the hair cells largely still work; low sounds reach this region acoustically, through the traveling wave.",
+    "So the array is advanced in a way that does not damage this region; its length and insertion depth are chosen accordingly.",
+    "The electrode is usually inserted slowly through the round window, so as to cause minimal damage to the inner structures of the cochlea.",
+    "Two kinds of stimulation then work side by side in the same ear: electric for the highs, acoustic sound for the lows."
+   ]
+  },
+  {
+   "id": "bolgeler",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "How does it work?",
+   "baslik": "The crossover *frequency*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "kalan_isitme",
+      "noktalar": [
+       [
+        125,
+        30
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        40
+       ],
+       [
+        750,
+        55
+       ],
+       [
+        1000,
+        70
+       ],
+       [
+        2000,
+        95
+       ],
+       [
+        4000,
+        105
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "residual hearing",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "akustik",
+      "x": [
+       125,
+       750
+      ],
+      "renk": "sari",
+      "etiket": "acoustic",
+      "cumle": 1
+     },
+     {
+      "ad": "elektrik",
+      "x": [
+       750,
+       8000
+      ],
+      "renk": "mavi",
+      "etiket": "electric",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesisim",
+      "x": 750,
+      "y": 55,
+      "cizgi": "dikey",
+      "etiket": "crossover frequency",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "akustik",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrik",
+     "cumle": 2
+    },
+    {
+     "parca": "kesisim",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "This graph shows the preserved low-frequency hearing of an example EAS user after surgery.",
+    "In the low frequencies, where acoustic amplification helps, sound is delivered into the ear canal through a receiver.",
+    "Higher frequencies are assigned to the electrodes and delivered electrically.",
+    "The point where the two regions meet is called the crossover frequency; it is chosen from the person's audiogram.",
+    "When setting the crossover, the aim is to avoid both overlap between the two kinds of stimulation and a gap between them.",
+    "The acoustic part is usually delivered by a small receiver linked to the same processor, with an earmold or an ear tip."
+   ]
+  },
+  {
+   "id": "cerrahi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Hearing preservation",
+   "baslik": "Hearing preservation *surgery*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Round window",
+     "cumle": 0,
+     "metin": "Small, smooth entry"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Slow insertion",
+     "cumle": 1,
+     "metin": "No pressure rise"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Thin electrode",
+     "cumle": 2,
+     "metin": "Flexible, suitable length"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Steroids",
+     "cumle": 3,
+     "metin": "At some centers"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Intraoperative monitoring",
+     "cumle": 4,
+     "metin": "With ECochG"
+    }
+   ],
+   "cumleler": [
+    "Hearing preservation requires as little trauma to the cochlea as possible; this is also called soft surgery.",
+    "The electrode is usually advanced very slowly and in a controlled way through the round window or a small nearby opening.",
+    "A thin, flexible electrode of suitable length lowers the chance of damaging the basilar membrane and inner structures.",
+    "Some centers use steroids around the time of surgery to protect the inner ear.",
+    "Monitoring the cochlear response with electrocochleography during surgery can show the surgeon a risk of damage in real time.",
+    "These techniques are chosen by the surgeon and the team; the audiologist measures hearing in detail before and after surgery."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Hearing preservation",
+   "baslik": "How much was *preserved?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 1000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "noktalar": [
+       [
+        125,
+        25
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        40
+       ],
+       [
+        1000,
+        70
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "before surgery",
+      "cumle": 0
+     },
+     {
+      "ad": "sonra",
+      "noktalar": [
+       [
+        125,
+        55
+       ],
+       [
+        250,
+        60
+       ],
+       [
+        500,
+        70
+       ],
+       [
+        1000,
+        95
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "after surgery",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayma",
+      "y": [
+       30,
+       60
+      ],
+      "xk": 250,
+      "etiket": "threshold shift",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kayma",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Before surgery, low-frequency thresholds are measured in detail; in this example, the navy line shows the preoperative thresholds.",
+    "After surgery, thresholds are measured again; most people show some shift.",
+    "The size of the shift is calculated from the difference between the pre and postoperative low-frequency averages.",
+    {
+     "yazi": "The 2013 classification by Skarzynski and colleagues relates the shift to the residual hearing range and gives preservation as a percentage.",
+     "ses": "The twenty thirteen classification by Skarzynski and colleagues relates the shift to the residual hearing range and gives preservation as a percentage."
+    },
+    "Above seventy five percent is complete, twenty five to seventy five percent partial, and below twenty five percent minimal preservation.",
+    "If no measurable hearing remains, there is considered to be no preservation.",
+    "This shared language lets us compare the results of different centers and techniques; this example corresponds to partial preservation."
+   ]
+  },
+  {
+   "id": "uzun_vade",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Hearing preservation",
+   "baslik": "Is preserved hearing *permanent?*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Delayed loss",
+     "cumle": 0,
+     "metin": "Months or years later"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Causes",
+     "cumle": 1,
+     "metin": "Not fully known"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Flexibility",
+     "cumle": 2,
+     "metin": "Switch to electric"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Counseling",
+     "cumle": 4,
+     "metin": "Explain beforehand"
+    }
+   ],
+   "cumleler": [
+    "In some people, hearing that is preserved right after surgery may decline over months or years.",
+    "The cause is not fully known; tissue reaction in the inner ear and the natural progression of the loss are among the possible factors.",
+    "If low-frequency hearing declines, the map can be changed to send the low frequencies to the electrodes, with fully electric stimulation.",
+    "So some teams prefer an electrode that reaches a depth able to carry the low frequencies too, if needed.",
+    "Before surgery, the person is told clearly that the team will try to preserve residual hearing, but that this is not guaranteed."
+   ]
+  },
+  {
+   "id": "programlama",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Programming and outcomes",
+   "baslik": "EAS *programming*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Current audiogram",
+     "cumle": 0,
+     "metin": "At every visit"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Crossover",
+     "cumle": 1,
+     "metin": "Choosing the frequency"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Acoustic part",
+     "cumle": 2,
+     "metin": "With a prescription"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Electric part",
+     "cumle": 3,
+     "metin": "T and C/M"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Verification",
+     "cumle": 4,
+     "metin": "Measurement and testing"
+    }
+   ],
+   "cumleler": [
+    "EAS programming starts with a current audiogram at every visit, because the acoustic part is set directly from these thresholds.",
+    "The crossover frequency is chosen from the upper limit up to which low-frequency hearing can benefit from acoustic amplification.",
+    "The acoustic part is fitted like a hearing aid with a prescription formula and, if possible, verified with real ear measurement.",
+    "In the electric part, as with a standard implant, T and C or M levels are set.",
+    "Finally, we check whether the two parts sound natural and balanced together, and speech tests are done.",
+    "As residual hearing changes, the crossover frequency and acoustic gain are updated too."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Programming and outcomes",
+   "baslik": "*What* to expect with EAS",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "In noise",
+     "cumle": 0,
+     "metin": "Better than electric alone"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Music",
+     "cumle": 2,
+     "metin": "Melody and timbre"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Naturalness",
+     "cumle": 3,
+     "metin": "More natural sound"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Together",
+     "cumle": 4,
+     "metin": "Better than either alone"
+    }
+   ],
+   "cumleler": [
+    "Studies show that preserved low-frequency hearing contributes clearly to understanding speech, especially in noise.",
+    "This is explained by low-frequency pitch information helping to separate speech from the background.",
+    "In music listening, melody and timbre perception are usually better than with electric stimulation alone.",
+    "Users often find the sound more natural and less mechanical.",
+    "For many people, the benefit of acoustic and electric stimulation together exceeds that of either one alone.",
+    "The benefit varies from person to person and depends on how much hearing is preserved."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Remeasure low-frequency thresholds at every EAS visit. If thresholds have changed, update acoustic gain and crossover frequency the same day.",
+   "cumleler": [
+    "A tip from the clinic: at every visit, remeasure the low-frequency thresholds of the EAS user's implanted ear.",
+    "Missing a threshold change and keeping the old acoustic settings leads to either too little or too much low-frequency amplification.",
+    "If thresholds have worsened, update the acoustic gain and crossover frequency the same day, and explain the reason to the person.",
+    "Tell the person to contact the center without delay if they notice a sudden change in their hearing."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Highs electric, lows acoustic",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Candidate: low hearing present, high absent",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Preservation with soft surgery",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Benefit in noise and music",
+     "cumle": 3,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "Electric-acoustic stimulation stimulates the high frequencies electrically and the low frequencies acoustically in the same ear.",
+    "The candidate has usable low-frequency hearing but a severe to profound loss in the high frequencies.",
+    "Hearing preservation surgery and electrode choice aim to keep low-frequency hearing; preservation may be complete, partial or minimal.",
+    "Preserved low-frequency hearing helps speech in noise, music and naturalness; thresholds are remeasured at every visit."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "How are low frequencies delivered in EAS?",
+   "secenekler": [
+    "By electric stimulation",
+    "By acoustic amplification",
+    "By bone conduction",
+    "They are not delivered"
+   ],
+   "dogru": 1,
+   "aciklama": "Residual low-frequency hearing is stimulated _acoustically_, the highs electrically.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in an EAS system, how are the low frequencies usually delivered?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: by acoustic amplification.",
+    "Preserved low-frequency hearing is stimulated with amplified sound in the ear canal; the high frequencies are assigned to the electrodes."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Single-Sided Deafness and the *Cochlear Implant* Option",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about the cochlear implant in single-sided deafness and how it compares with other options.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

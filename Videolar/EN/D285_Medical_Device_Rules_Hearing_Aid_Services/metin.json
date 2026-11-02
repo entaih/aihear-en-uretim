@@ -1,0 +1,716 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D285_Medical_Device_Rules_Hearing_Aid_Services_EN",
+ "kapak": {
+  "ust": "LESSON 285",
+  "baslik": "Medical device<br>*rules*",
+  "alt": "MDR, CE, ÜTS, hearing aid centers",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Medical Device Rules and Hearing Aid Services | Lesson 285 | AIHEAR Audiology Academy",
+  "aciklama": "What rules apply to hearing aids and implants? In this lesson we learn the EU Medical Device Regulation (MDR), Türkiye's Medical Device Regulation, the CE mark, the Product Tracking System (ÜTS), reporting adverse events, and the documentation, record and repair duties of hearing aid centers in Türkiye. This is not legal advice; check the current legislation.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Regulation (EU) 2017/745 on medical devices; Türkiye's Medical Device Regulation (Official Gazette, June 2, 2021, No. 31499, repeat issue; TİTCK text, Articles 18, 20, 34, 85, 109); Regulation on Custom-Made Prosthesis and Orthosis Centers and Hearing Aid Centers (Official Gazette, September 24, 2011, No. 28064; current text in the Legislation Information System, Articles 9, 15, 16, 19).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "medicaldevices",
+   "hearingaids"
+  ],
+  "etiketler": [
+   "medical device rules",
+   "Medical Device Regulation",
+   "MDR 2017/745",
+   "CE marking",
+   "Product Tracking System",
+   "UDI",
+   "hearing aid center",
+   "adverse event reporting",
+   "medical devices in Türkiye",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 285",
+   "baslik": "Medical device *rules*",
+   "alt": "MDR, CE mark, ÜTS, hearing aid centers",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the European Union regulation on hearing aids and implants, and Türkiye's Medical Device Regulation.",
+    {
+     "yazi": "We will also look at the CE mark, the Product Tracking System and the duties of hearing aid centers.",
+     "ses": "We will also look at the C E mark, the Product Tracking System and the duties of hearing aid centers."
+    }
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Medical devices",
+   "baslik": "What *is* a medical device?",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aid",
+     "metin": "A device used every day",
+     "cumle": 1
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implants",
+     "metin": "Placed in the body",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Measuring devices",
+     "metin": "Audiometer, immittance",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Software",
+     "metin": "Can have a medical purpose",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A medical device is the general name for products used for medical purposes such as diagnosis, monitoring, treatment or easing a disability.",
+    "A hearing aid is a medical device, because it is used to reduce the impact of hearing loss.",
+    "Active devices placed in the body, such as cochlear implants, are in the highest risk class and follow the strictest rules.",
+    "Measuring instruments such as audiometers, immittance devices and otoacoustic emission devices are also medical devices.",
+    "Software used for a medical purpose can also count as a medical device; we will return to this in the automation lesson.",
+    "The audiologist selects, fits and uses these devices; so device rules bear directly on the audiologist's daily work."
+   ]
+  },
+  {
+   "id": "ab",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Medical devices",
+   "baslik": "From the EU to *Türkiye*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "EU MDR",
+     "metin": "Regulation 2017/745",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Türkiye",
+     "metin": "Medical Device Regulation 2021",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Alignment",
+     "metin": "The same requirements",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Authority",
+     "metin": "TİTCK",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In the European Union, medical devices are governed by the Medical Device Regulation 2017/745, or MDR.",
+     "ses": "In the European Union, medical devices are governed by the Medical Device Regulation twenty seventeen slash seven four five, or MDR."
+    },
+    {
+     "yazi": "This regulation was adopted in 2017 and tightened the rules on clinical evidence, traceability and post-market surveillance.",
+     "ses": "This regulation was adopted in twenty seventeen and tightened the rules on clinical evidence, traceability and post-market surveillance."
+    },
+    {
+     "yazi": "Türkiye's Medical Device Regulation, aligned with it, was published in the Official Gazette of June 2, 2021, No. 31499, repeat issue.",
+     "ses": "Türkiye's Medical Device Regulation, aligned with it, was published in the Official Gazette of June second, twenty twenty-one, number three one four nine nine."
+    },
+    {
+     "yazi": "Article 109 of the Regulation states that the text was prepared taking into account EU Regulation 2017/745 and its amendments.",
+     "ses": "Article 109 of the Regulation states that the text was prepared taking into account EU Regulation twenty seventeen slash seven four five and its amendments."
+    },
+    {
+     "yazi": "In Türkiye, the authority that applies the Regulation is the Turkish Medicines and Medical Devices Agency, TİTCK.",
+     "ses": "In Türkiye, the authority that applies the Regulation is the Turkish Medicines and Medical Devices Agency, T I T C K."
+    },
+    "The Regulation has been amended several times; check the current text in the Legislation Information System or on the Agency's site."
+   ]
+  },
+  {
+   "id": "roller",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Medical devices",
+   "baslik": "Who does *what?*",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "Manufacturer",
+     "metin": "Design, production, responsibility",
+     "cumle": 0
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Importer, distributor",
+     "metin": "Check conformity",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Notified body",
+     "metin": "Conformity assessment",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Agency",
+     "metin": "Surveillance and inspection",
+     "cumle": 4
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Health professional",
+     "metin": "Correct use, reporting",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the Regulation, the parties that bring a device to market are called economic operators; first among them is the manufacturer.",
+    "The manufacturer is responsible for the device's design, production, technical file and monitoring after it is placed on the market.",
+    "The importer and distributor check that the device they supply carries the required markings and documents.",
+    "For higher-risk devices, an independent notified body assesses conformity.",
+    "The Agency monitors the market and takes action on problem devices.",
+    "Health institutions and health professionals are also listed in the Regulation among the parties with duties."
+   ]
+  },
+  {
+   "id": "ce",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Medical devices",
+   "baslik": "The CE *mark*",
+   "maddeler": [
+    {
+     "metin": "Declaration of conformity with requirements",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Affixed by the manufacturer",
+     "cumle": 1,
+     "ikon": "fabrika"
+    },
+    {
+     "metin": "Not on custom-made devices",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Label, instructions for use",
+     "cumle": 4,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "The mark alone isn't quality",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "islemci",
+      "metin": "label and mark",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The CE conformity mark is the mark by which the manufacturer shows that the device meets the Regulation's requirements.",
+     "ses": "The C E conformity mark is the mark by which the manufacturer shows that the device meets the Regulation's requirements."
+    },
+    {
+     "yazi": "After the conformity assessment is complete, the manufacturer draws up a declaration of conformity and affixes the CE mark.",
+     "ses": "After the conformity assessment is complete, the manufacturer draws up a declaration of conformity and affixes the C E mark."
+    },
+    {
+     "yazi": "Article 20 of the Regulation states that devices meeting the requirements carry the CE mark.",
+     "ses": "Article 20 of the Regulation states that devices meeting the requirements carry the C E mark."
+    },
+    "The same article exempts custom-made devices made for one person, and devices for investigation, from this rule.",
+    "On the label of a device they use, the audiologist should see this mark, the manufacturer details and, in Türkiye, instructions in Turkish.",
+    {
+     "yazi": "The CE mark shows conformity with minimum safety and performance requirements; it does not show the device is the best one for that patient.",
+     "ses": "The C E mark shows conformity with minimum safety and performance requirements; it does not show the device is the best one for that patient."
+    }
+   ]
+  },
+  {
+   "id": "uts",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Medical devices",
+   "baslik": "Product Tracking System: *ÜTS*",
+   "ogeler": [
+    {
+     "ikon": "yazilim",
+     "baslik": "ÜTS",
+     "metin": "National registration system",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Unique device identifier",
+     "metin": "An identity for each device",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Health institutions",
+     "metin": "Have duties too",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Traceability",
+     "metin": "Which device, with whom?",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In Türkiye, medical devices are registered and tracked through the national Product Tracking System, known as ÜTS.",
+     "ses": "In Türkiye, medical devices are registered and tracked through the national Product Tracking System, known as U T S."
+    },
+    {
+     "yazi": "Article 34 of the Regulation states that economic operators must meet their duties related to ÜTS.",
+     "ses": "Article 34 of the Regulation states that economic operators must meet their duties related to U T S."
+    },
+    "The same article lists this duty for health institutions and health professionals too.",
+    {
+     "yazi": "Devices are identified by unique device identification, or UDI.",
+     "ses": "Devices are identified by unique device identification, or U D I."
+    },
+    {
+     "yazi": "The UDI appears on the device label and packaging; it is also used when reporting serious adverse events.",
+     "ses": "The U D I appears on the device label and packaging; it is also used when reporting serious adverse events."
+    },
+    {
+     "yazi": "Detailed ÜTS duties are set by rules the Agency publishes and are updated over time.",
+     "ses": "Detailed U T S duties are set by rules the Agency publishes and are updated over time."
+    },
+    "The aim is traceability: when a problem arises with a device, it must be possible to find which serial number is with which person."
+   ]
+  },
+  {
+   "id": "bildirim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Medical devices",
+   "baslik": "Reporting adverse *events*",
+   "maddeler": [
+    {
+     "metin": "Suspect a serious adverse event",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Report to the Agency",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Keep the device and details",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Implant card stays with the patient",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 4,
+    "etiketler": [
+     {
+      "parca": "alici_uyarici",
+      "metin": "implant",
+      "cumle": 4
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "alici_uyarici",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "If a device failure or unexpected effect seriously affected a patient's health, this is called a serious adverse event.",
+    "Under Article 85 of the Regulation, suspected serious adverse events are reported to the Agency by health professionals, users and patients.",
+    "The Agency records these reports and makes sure the manufacturer is informed.",
+    "In such a case, the device, serial number, date of the event and the patient's condition are recorded; the device is kept if possible.",
+    "Article 18 of the Regulation requires that, for implanted devices, the patient is given an implant card with the device identity.",
+    "A cochlear implant user carrying this card means the right information is reached quickly before procedures such as imaging."
+   ]
+  },
+  {
+   "id": "merkez",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Hearing aid centers",
+   "baslik": "Hearing aid *centers*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "2011 regulation",
+     "metin": "Official Gazette 28064",
+     "cumle": 0
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Definition",
+     "metin": "Sales, maintenance, fitting",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "License",
+     "metin": "Premises and staff conditions",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Responsible manager",
+     "metin": "Required at every center",
+     "cumle": 4
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Amendments",
+     "metin": "Several since 2012",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In Türkiye, hearing aid centers are governed by a regulation published in the Official Gazette of September 24, 2011, No. 28064.",
+     "ses": "In Türkiye, hearing aid centers are governed by a regulation published in the Official Gazette of September twenty-fourth, twenty eleven, number two eight zero six four."
+    },
+    "It is the Regulation on Custom-Made Prosthesis and Orthosis Centers and Hearing Aid Centers.",
+    "The Regulation covers workplaces where hearing aids are sold, maintained, repaired and fitted.",
+    "Centers open with a license; the premises, equipment and staff conditions are listed in detail in the Regulation.",
+    "Under Article 9 of the Regulation, every center has a qualified person working as the responsible manager.",
+    "Because the rules on the responsible manager's qualifications have been updated by amendments, read the current text before applying.",
+    {
+     "yazi": "The Regulation has been amended several times since 2012; the latest amendments are from 2021 and 2023.",
+     "ses": "The Regulation has been amended several times since twenty twelve; the latest amendments are from twenty twenty-one and twenty twenty-three."
+    }
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Hearing aid centers",
+   "baslik": "The service *flow*",
+   "adimlar": [
+    {
+     "ikon": "hekim",
+     "baslik": "Documents",
+     "metin": "Prescription, report or audiogram",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Selection and fitting",
+     "metin": "Based on need",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Information",
+     "metin": "In Turkish, in writing",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Records",
+     "metin": "Patient register",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Follow-up",
+     "metin": "Checks and fine-tuning",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Under Article 16, a center cannot sell or fit a hearing aid without a specialist physician's prescription, report or audiogram.",
+    "The hearing aid is selected and fitted based on the patient's audiological findings and everyday needs.",
+    "Use and care information and the center's contact details are explained to the patient and given in writing, in Turkish.",
+    "Details such as the patient's identity and contact information and the device's type and features are entered in the patient register.",
+    "After fitting, regular checks, fine-tuning and verification measurements are part of the service.",
+    "The Regulation also states that sales cannot take place outside the licensed premises."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Hearing aid centers",
+   "baslik": "Record-keeping *duties*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Patient register",
+     "metin": "Per the Regulation's form",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Electronic records",
+     "metin": "Written records still required",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Retention",
+     "metin": "At least five years",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "ÜTS",
+     "metin": "Device traceability",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "KVKK",
+     "metin": "Special category data",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The center keeps a patient register that follows the forms annexed to the Regulation.",
+    "Records may also be kept on a computer, but the written record requirement stays; the responsible manager is responsible for both.",
+    "Under Article 15, all records, registers and files are kept for five years; in an ongoing dispute, until the process ends.",
+    {
+     "yazi": "The device's identity and to whom it was given must also be traceable under the ÜTS duties.",
+     "ses": "The device's identity and to whom it was given must also be traceable under the U T S duties."
+    },
+    "These records contain health data; the Personal Data Protection Law, KVKK, from the consent lesson, applies here too."
+   ]
+  },
+  {
+   "id": "onarim",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Hearing aid centers",
+   "baslik": "Faults, repair and *warranty*",
+   "maddeler": [
+    {
+     "metin": "A route to complain about faulty devices",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Free repair or replacement",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Loaner device during repair",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Warranty terms in writing",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Fault records and reporting",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Repair",
+      "metin": "Free, per the Regulation",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Loaner device",
+      "metin": "The patient keeps hearing",
+      "cumle": 2
+     }
+    ],
+    "ust": "ARTICLE 19"
+   },
+   "cumleler": [
+    "If a fitted device is faulty or was fitted wrongly, the patient can use the complaint route set out in the Regulation.",
+    "Under Article 19, a device found nonconforming is repaired or replaced free of charge and fitted again.",
+    "The hearing aid center must provide the patient with a hearing aid during the repair or replacement period.",
+    "The length and scope of the warranty follow consumer law and the sales documents; they should be given to the patient in writing.",
+    "For publicly reimbursed devices, the Social Security Institution's rules also apply; these rules are updated often.",
+    "Every fault and repair is recorded; repeated or serious problems are assessed for reporting to the Agency."
+   ]
+  },
+  {
+   "id": "tanitim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Hearing aid centers",
+   "baslik": "Sales and *promotion*",
+   "ogeler": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "Licensed premises",
+     "metin": "No sales outside",
+     "cumle": 0
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Advertising",
+     "metin": "Must follow the law",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "No exaggeration",
+     "metin": "Realistic promises",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ethics",
+     "metin": "The patient's benefit first",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Under the Regulation, a center cannot sell anywhere other than its licensed premises.",
+    "Promotion and advertising must follow the relevant laws; the Regulation also refers to other laws on this.",
+    "Exaggerated promises, such as regaining normal hearing with a device, are both misleading and against ethical principles.",
+    "The rules on sales pressure and conflict of interest from the ethics lesson come before the limits of the law.",
+    "Legal details can change; an audiologist planning a center should follow the current texts and the provincial health directorate's practice."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "At every fitting, record the serial number, the fitting date and the written information given; traceability protects both the patient and you.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the field: at every fitting, record the serial number and the fitting date.",
+    "Check that a written copy of the use and care information you gave the patient is in the file.",
+    "When a fault or complaint comes in, these records help you see faster whether the problem comes from the device or the settings.",
+    "Traceability is not just a duty; it is also a way to give patients safe care."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "EU MDR 2017/745 and Türkiye's Regulation",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "CE mark, UDI and ÜTS",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Serious adverse events reported to the Agency",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Centers: documents, records, repair duties",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Türkiye's Medical Device Regulation was published in 2021 and is aligned with EU Regulation 2017/745.",
+     "ses": "Türkiye's Medical Device Regulation was published in twenty twenty-one and is aligned with EU Regulation twenty seventeen slash seven four five."
+    },
+    {
+     "yazi": "Conforming devices carry the CE mark, are identified by a unique device identifier and are tracked through ÜTS.",
+     "ses": "Conforming devices carry the C E mark, are identified by a unique device identifier and are tracked through U T S."
+    },
+    "Health professionals can also report suspected serious adverse events to the Agency; the implant card stays with the patient.",
+    "Hearing aid centers work from a prescription, report or audiogram, keep records for five years and provide a loaner during repairs."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What does the CE mark show?",
+   "secenekler": [
+    "Best device for the patient",
+    "Conformity with requirements",
+    "A free warranty",
+    "Insurance coverage"
+   ],
+   "dogru": 1,
+   "aciklama": "The CE mark is how the manufacturer shows the device's _conformity with the Regulation's requirements_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what does the CE mark on a hearing aid show?",
+     "sonra_bekle": 5,
+     "ses": "Test yourself: what does the C E mark on a hearing aid show?"
+    },
+    "The correct answer is B: the device's conformity with the Regulation's requirements.",
+    "The mark does not show that the device is the right choice for that patient; the choice rests on the audiological assessment."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Infection Control and *Clinical Safety* in Audiology",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will cover infection control and clinical safety in the audiology clinic.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

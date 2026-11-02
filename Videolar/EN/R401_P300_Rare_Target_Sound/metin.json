@@ -1,0 +1,221 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R401_P300_Rare_Target_Sound_EN",
+ "kapak": {
+  "ust": "QUICK FACT #401",
+  "baslik": "The *counting* wave",
+  "alt": "P300 and the rare target sound",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -100,
+    "max": 600,
+    "ad": "Time (ms)",
+    "isaretler": [
+     0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600
+    ]
+   },
+   "y": {
+    "min": -6,
+    "max": 12,
+    "adim": 3,
+    "ad": "Amplitude (µV)"
+   },
+   "seriler": [
+    {
+     "ad": "sik",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -3.5
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       250,
+       0.5
+      ],
+      [
+       350,
+       0.5
+      ],
+      [
+       450,
+       0
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "etiket": "frequent stimulus",
+     "cumle": 1
+    },
+    {
+     "ad": "seyrek",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -4
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       230,
+       -1
+      ],
+      [
+       320,
+       9
+      ],
+      [
+       400,
+       5
+      ],
+      [
+       480,
+       1
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kalin": true,
+     "etiket": "rare target",
+     "cumle": 2
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "p300",
+     "x": 320,
+     "y": 9,
+     "etiket": "P300",
+     "dus": "x",
+     "cumle": 3
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How does counting rare sounds change a brain wave? #shorts",
+  "aciklama": "In P300 recording, the person is asked to count the rare sounds or press a button at each one; for the attended target sound, a large positive wave appears at around 300 milliseconds. The rarer the target sound, the larger the P300; if the person does not do the task or is distracted, the response shrinks or disappears.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "electrophysiology",
+   "brain"
+  ],
+  "etiketler": [
+   "P300",
+   "oddball paradigm",
+   "cognitive potentials",
+   "attention",
+   "endogenous response",
+   "auditory evoked potential",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How does counting rare sounds change a brain wave?",
+  "bilgiler": [
+   "The person is asked to count the rare target sounds.",
+   "For the target, a large positive wave appears at about 300 milliseconds.",
+   "If attention wanders, the P300 shrinks or disappears."
+  ],
+  "hashtag": [
+   "audiology",
+   "electrophysiology",
+   "brain"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #401",
+   "metin": "What does *counting change?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How does counting rare sounds change a brain wave?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "P300 *latency*",
+   "sayi": "300",
+   "birim": "ms",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    {
+     "yazi": "For the P300, the person counts the rare sounds.",
+     "ses": "For the P three hundred, the person counts the rare sounds."
+    },
+    "Each target brings a large positive wave near three hundred milliseconds.",
+    "The rarer the target sound, the larger this wave.",
+    {
+     "yazi": "If attention wanders, the P300 shrinks or disappears.",
+     "ses": "If attention wanders, the P three hundred shrinks or disappears."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D202",
+ "kaynak_baslik": "P300 and MMN: Cognitive Auditory Potentials"
+}

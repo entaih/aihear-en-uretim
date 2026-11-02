@@ -1,0 +1,696 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D204_BPPV_EN",
+ "kapak": {
+  "ust": "LESSON 204",
+  "baslik": "What is<br>*BPPV?*",
+  "alt": "Ear stones and positional vertigo",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Benign Paroxysmal Positional Vertigo (BPPV) | Lesson 204 | AIHEAR Audiology Academy",
+  "aciklama": "What is BPPV, and how do ear stones cause dizziness? In this lesson we cover the mechanisms of canalithiasis and cupulolithiasis, why the posterior canal is most often involved, the upbeating torsional nystagmus seen on the Dix-Hallpike test, and the warning signs that point to central causes.\\n\\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\\n\\nSources: Jacobson and Shepard, Balance Function Assessment and Management; Bhattacharyya et al., Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update), Otolaryngology-Head and Neck Surgery (2017); von Brevern et al., Benign paroxysmal positional vertigo: Diagnostic criteria, Journal of Vestibular Research (2015); Katz, Handbook of Clinical Audiology.\\n\\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "BPPV",
+   "vertigo"
+  ],
+  "etiketler": [
+   "BPPV",
+   "benign paroxysmal positional vertigo",
+   "canalithiasis",
+   "cupulolithiasis",
+   "Dix-Hallpike",
+   "nystagmus",
+   "otoconia",
+   "vestibular disorders",
+   "dizziness",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 204",
+   "baslik": "*BPPV*: positional vertigo",
+   "alt": "Benign paroxysmal positional vertigo",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about the most common vestibular disorder, BPPV, or benign paroxysmal positional vertigo.",
+    "We will cover its mechanism, which canal is involved, and the nystagmus features seen on positional testing."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "What is BPPV?",
+   "baslik": "What does the name *tell us?*",
+   "maddeler": [
+    {
+     "metin": "_Benign_: not dangerous",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Paroxysmal_: sudden, brief attacks",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_Positional_: triggered by head position",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Vertigo_: a sensation of spinning",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PREVALENCE",
+    "metin": "Lifetime prevalence about *2.4 percent*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Benign means harmless; in other words, the condition is not life-threatening.",
+    "Paroxysmal means attacks that start suddenly and are brief.",
+    "Positional means the attacks are triggered when the head changes position relative to gravity.",
+    "Vertigo is the illusion that oneself or the surroundings are spinning.",
+    "BPPV is the most common cause of peripheral vestibular vertigo.",
+    {
+     "yazi": "Population studies have reported a lifetime prevalence of about 2.4 percent."
+    },
+    "It is more common in women, and its incidence increases with age."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "What is BPPV?",
+   "baslik": "The typical *history*",
+   "maddeler": [
+    {
+     "metin": "Rolling over, lying down, getting up",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Looking up, bending forward",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Spinning that lasts seconds",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Nausea, unsteadiness between attacks",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "BPPV does _not affect_ hearing",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "In the typical history, the person describes intense spinning that starts when rolling over in bed, lying down or getting up.",
+    "Looking up at a high shelf, or bending forward to pick something up, can also trigger an attack.",
+    "The spinning is brief; it usually passes within seconds, in less than a minute.",
+    "Nausea may accompany an attack, and mild unsteadiness may remain between attacks.",
+    "The person can often say clearly which side they turn to when the dizziness starts.",
+    "BPPV itself does not cause hearing loss or tinnitus; if these are present, another ear problem is considered.",
+    "Some people say the attacks are most noticeable in the morning, when first getting out of bed."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What is BPPV?",
+   "baslik": "Causes and *risk factors*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Idiopathic",
+     "metin": "Usually no cause is found",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Head trauma",
+     "metin": "Most common secondary cause",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Inner ear disease",
+     "metin": "Vestibular neuritis, Meniere's",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Bed rest",
+     "metin": "Long periods in bed",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Older age",
+     "metin": "Link with bone metabolism",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In most cases of BPPV no clear cause is found; this is called idiopathic BPPV.",
+    "Among secondary causes, head trauma is the one most often listed.",
+    "BPPV can also develop after inner ear diseases such as vestibular neuritis and Meniere's disease.",
+    "Prolonged bed rest and restricted head movement are also counted among the risk factors.",
+    "Some studies report links between BPPV and older age, osteoporosis and low vitamin D levels.",
+    "These associations are observational; none of them alone is accepted as a cause of BPPV."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Mechanism",
+   "baslik": "When ear stones come *loose*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "utricle",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "semicircular canals",
+     "cumle": 3
+    },
+    {
+     "parca": "ampulla",
+     "metin": "ampulla and cupula",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Otoconia break off the utricle",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Stones enter a canal",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "The cupula is wrongly stimulated",
+     "cumle": 6,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "utrikul",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 5,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "To understand BPPV, let us look at two parts of the vestibular organ: the utricle and the semicircular canals.",
+    "The sensory area of the utricle carries small calcium carbonate crystals called otoconia, or ear stones.",
+    "These crystals can break loose with age, trauma or an inner ear disease.",
+    "When the head reaches certain positions, the loose crystals can move from the utricle into one of the semicircular canals.",
+    "Normally the semicircular canals are sensitive not to gravity but to rotational head movements.",
+    "The widening at the base of each canal is called the ampulla, and the gelatinous structure inside it is the cupula.",
+    "Crystals in a canal deflect the cupula with gravity even when the head has stopped, sending a false rotation signal to the brain.",
+    "This false signal causes both the vertigo and the nystagmus in the eyes."
+   ]
+  },
+  {
+   "id": "iki_mekanizma",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "Mechanism",
+   "baslik": "Canalithiasis and *cupulolithiasis*",
+   "sol": {
+    "ust": "Canalithiasis",
+    "maddeler": [
+     {
+      "metin": "Stones float freely in the canal",
+      "cumle": 0
+     },
+     {
+      "metin": "Starts after a short latency",
+      "cumle": 2
+     },
+     {
+      "metin": "Lasts less than a minute",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Cupulolithiasis",
+    "maddeler": [
+     {
+      "metin": "Stones stuck to the cupula",
+      "cumle": 4
+     },
+     {
+      "metin": "Latency short or absent",
+      "cumle": 5
+     },
+     {
+      "metin": "Persists while the position is held",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "The most common mechanism is canalithiasis: the crystals float freely in the canal fluid.",
+    "When the head changes position, the crystals slide along the canal with gravity, dragging the fluid and deflecting the cupula.",
+    "Because the crystals take a moment to start moving, nystagmus begins after a latency of a few seconds.",
+    "Once the crystals settle at the lowest point of the canal, the fluid stops, so nystagmus usually lasts less than a minute.",
+    "In the less common cupulolithiasis, the crystals are stuck directly to the cupula.",
+    "The cupula then becomes heavy and deflects as soon as the head changes position, with no latency or a very short one.",
+    "The cupula stays deflected as long as the head stays in that position, so nystagmus can last longer than a minute."
+   ]
+  },
+  {
+   "id": "kanallar",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Mechanism",
+   "baslik": "Which *canal?*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "posterior_kanal",
+     "metin": "Posterior: 85 to 95 percent",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_kanal",
+     "metin": "Lateral: 5 to 15 percent",
+     "cumle": 3
+    },
+    {
+     "parca": "superior_kanal",
+     "metin": "Anterior: rare",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "superior_kanal",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Posterior: Dix-Hallpike",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Lateral: supine roll test",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Caution with downbeating nystagmus",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "BPPV can occur in any of the three semicircular canals, but their frequencies differ greatly.",
+    "The posterior canal is most often involved; it is responsible in about 85 to 95 percent of cases.",
+    "This is because the posterior canal is the lowest part of the inner ear both upright and lying down, so crystals easily fall into it.",
+    "Second comes the lateral, or horizontal, canal, reported in about 5 to 15 percent of cases.",
+    "Lateral canal involvement is assessed with a test in which the supine patient's head is turned right and left.",
+    "Anterior canal involvement is rare; when downbeating nystagmus is seen, ruling out central causes is especially important.",
+    "In some people more than one canal is involved at the same time; this is more likely after head trauma."
+   ]
+  },
+  {
+   "id": "dix",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Positional test findings",
+   "baslik": "The *Dix-Hallpike* test",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Seated",
+     "metin": "Head 45 degrees to test side",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Quickly supine",
+     "metin": "Head slightly extended",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Observe",
+     "metin": "At least 30 seconds",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Back to sitting",
+     "metin": "Slowly, eyes watched again",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The main diagnostic test for posterior canal BPPV is the Dix-Hallpike test.",
+    "The patient sits on the examination table and the head is turned about 45 degrees toward the ear being tested.",
+    "The patient is then quickly laid supine, with the head supported about 20 degrees below the table edge.",
+    "In this position the eyes are watched for at least 30 seconds for nystagmus and vertigo.",
+    "This maneuver brings the posterior canal on the tested side into the plane of gravity and sets the crystals moving.",
+    "The patient is then slowly brought back to sitting, and the eyes are watched again.",
+    "The test is done for each side separately; the down ear in which nystagmus appears is considered the affected ear."
+   ]
+  },
+  {
+   "id": "nistagmus",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Positional test findings",
+   "baslik": "Posterior canal *nystagmus*",
+   "sutunlar": [
+    "Feature",
+    "Typical finding"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Direction",
+      "Upbeating, torsional"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Latency",
+      "A few seconds"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Duration",
+      "Under one minute"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Time course",
+      "Crescendo, then decrescendo"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "On repetition",
+      "Weakens, fatigues"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "On sitting up",
+      "Direction reverses"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "In posterior canal canalithiasis, the nystagmus is upbeating and torsional, that is, it has a rotational component.",
+    "In the torsional component, the upper pole of the eye beats toward the lower, affected ear.",
+    "Nystagmus starts a few seconds after the head reaches the test position; this delay is called latency.",
+    "It is brief, usually ending in less than a minute.",
+    "Its intensity first increases, then decreases, and the patient feels the spinning follow the same course.",
+    "If the test is repeated right away, the nystagmus usually weakens; this is called fatigue.",
+    "When the patient sits up, the nystagmus often reappears in the opposite direction and more weakly."
+   ]
+  },
+  {
+   "id": "lateral",
+   "tur": "karsilastir",
+   "bolum_no": "PART 3",
+   "bolum": "Positional test findings",
+   "baslik": "Lateral canal *nystagmus*",
+   "sol": {
+    "ust": "Geotropic",
+    "maddeler": [
+     {
+      "metin": "Beats toward the ground",
+      "cumle": 2
+     },
+     {
+      "metin": "Mostly canalithiasis",
+      "cumle": 3
+     },
+     {
+      "metin": "Stronger side: affected ear",
+      "cumle": 4
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Apogeotropic",
+    "maddeler": [
+     {
+      "metin": "Beats away from the ground",
+      "cumle": 5
+     },
+     {
+      "metin": "Mostly cupulolithiasis",
+      "cumle": 5
+     },
+     {
+      "metin": "Weaker side: affected ear",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "For the lateral canal, the patient lies supine and the head is turned about 90 degrees to one side, then to the other.",
+    "In lateral canal involvement the nystagmus is horizontal and changes direction with the side the head is turned to.",
+    "Nystagmus that beats toward the ground on both sides is called geotropic nystagmus.",
+    "Geotropic nystagmus mostly suggests canalithiasis of the lateral canal.",
+    "In this case, the side with stronger nystagmus is usually the affected ear.",
+    "Nystagmus that beats away from the ground on both sides is called apogeotropic and mostly suggests cupulolithiasis.",
+    "In the apogeotropic type, the side with weaker nystagmus is usually the affected ear."
+   ]
+  },
+  {
+   "id": "kirmizi",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Warning signs and course",
+   "baslik": "Findings that *suggest* a central cause",
+   "maddeler": [
+    {
+     "metin": "Pure downbeating nystagmus without torsion",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "No latency, no fatigue",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Direction not matching the canal plane",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Double vision, speech or gait problems",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REFER",
+    "metin": "Any warning sign requires *medical assessment*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Remember that positional nystagmus is not always BPPV; some central nervous system problems can look similar.",
+    "Pure downbeating positional nystagmus with no torsional component may suggest a central cause.",
+    "Nystagmus that starts with no latency, does not fatigue and persists while the position is held also needs attention.",
+    "If the direction of nystagmus does not match the plane of the stimulated canal, typical BPPV cannot explain the picture.",
+    "Double vision, speech disturbance, gait unsteadiness or a new severe headache are also warning signs.",
+    "If any of these signs is present, the person needs to be referred for medical assessment without delay."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Warning signs and course",
+   "baslik": "Natural course and *recurrence*",
+   "maddeler": [
+    {
+     "metin": "May resolve on its own",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Recurrence is _common_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Fall risk in older adults",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Treatment: repositioning maneuvers",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "A large proportion of BPPV cases can resolve on their own within weeks.",
+    "But recurrence is common; a person may have new attacks over the years.",
+    "In older adults, untreated BPPV is linked with unsteadiness and a risk of falls.",
+    "This is why positional testing is important in people with a typical history.",
+    "The main approach in BPPV is repositioning maneuvers that aim to move the crystals out of the canal; that is our next lesson.",
+    "A person who fears attacks may avoid head movements, and this avoidance can prolong the feeling of unsteadiness."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Test with Frenzel lenses or video goggles; without fixation, torsional nystagmus is easier to see. If neck movement is limited, use the side-lying test.",
+   "cumleler": [
+    "A tip from the field: do positional tests with Frenzel lenses or video goggles whenever possible.",
+    "When visual fixation is removed, nystagmus is not suppressed, and the torsional component in particular is much easier to see.",
+    "A video recording also lets you confirm the direction of brief nystagmus later by replaying it slowly.",
+    "For people whose neck movement is limited or painful, the side-lying test can be used instead of Dix-Hallpike.",
+    "Asking about neck and back problems before testing matters for both patient safety and test quality."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Loose otoconia enter a canal",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Canalithiasis brief, cupulolithiasis longer",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Most often the posterior canal",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Upbeating torsional, with latency, brief",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that in BPPV, otoconia that break off the utricle enter a semicircular canal.",
+    "In canalithiasis nystagmus has a latency and is brief; in cupulolithiasis it has no latency and lasts longer.",
+    "The posterior canal is most often involved and is assessed with the Dix-Hallpike test.",
+    "The typical finding is upbeating torsional nystagmus that starts after a few seconds and lasts less than a minute."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is the typical nystagmus in posterior canal canalithiasis?",
+   "secenekler": [
+    "Pure downbeating, no latency",
+    "Upbeating torsional, brief",
+    "Horizontal, lasting minutes",
+    "No nystagmus"
+   ],
+   "dogru": 1,
+   "aciklama": "Nystagmus with latency, _upbeating and torsional_, lasting less than a minute.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in posterior canal canalithiasis, what is the typical nystagmus on the Dix-Hallpike test?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: upbeating, torsional and brief nystagmus.",
+    "The nystagmus starts after a latency of a few seconds, lasts less than a minute and fatigues on repetition."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Repositioning Maneuvers: *Epley*, Semont, Gufoni",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will examine the repositioning maneuvers used for the posterior and lateral canals.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

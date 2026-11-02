@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R378_Room_Noise_Band_by_Band_EN",
+ "kapak": {
+  "ust": "QUICK FACT #378",
+  "baslik": "Room noise, *band by band*",
+  "alt": "How is ambient noise measured?",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Is test room noise judged by a single decibel value? #shorts",
+  "aciklama": "The maximum permissible ambient noise in a test room is not given as a single number but as octave or third-octave band levels, so a single A-weighted decibel value is not enough. The microphone is placed where the patient's head will be, at ear height, with the door closed and ventilation, lights and computers running. Because noise can change during the day, repeat the measurement during the clinic's busiest hours.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "testbooth",
+   "audiometry"
+  ],
+  "etiketler": [
+   "ambient noise",
+   "MPANL",
+   "test booth",
+   "octave band",
+   "sound level meter",
+   "audiometry",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Is test room noise judged by a single decibel value?",
+  "bilgiler": [
+   "Limits are given separately for each octave band.",
+   "The microphone goes at the patient's head position, at ear height.",
+   "Measure under real conditions, including busy hours."
+  ],
+  "hashtag": [
+   "audiology",
+   "testbooth",
+   "audiometry"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #378",
+   "metin": "A single *number?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Is test room noise judged by a single decibel value?"
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "zincir",
+   "baslik": "How is room noise *measured?*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Octave bands",
+     "tr": "each band separate",
+     "cumle": 0
+    },
+    {
+     "ad": "Head position",
+     "tr": "ear height",
+     "cumle": 2
+    },
+    {
+     "ad": "Real conditions",
+     "tr": "everything running",
+     "cumle": 3
+    }
+   ],
+   "alt": "Busy hours: _measure again_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "No; limits are given separately for each octave band.",
+    "So a single A-weighted decibel value is not enough.",
+    "The microphone goes where the patient's head will be, at ear height.",
+    "Measure with the door closed, and ventilation, lights and computers running.",
+    "Noise changes during the day; repeat during the busiest clinic hours."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D115",
+ "kaynak_baslik": "Test Room Standards: Maximum Ambient Noise"
+}

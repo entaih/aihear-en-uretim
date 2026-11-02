@@ -1,0 +1,113 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R021_Vanishing_S_and_Sh_EN",
+ "kapak": {
+  "ust": "QUICK FACT #21",
+  "baslik": "Vanishing *s and sh*",
+  "alt": "The speech banana and high-frequency loss",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Which speech sounds does high-frequency hearing loss take away? #shorts",
+  "aciklama": "On the speech banana, vowels are low-pitched and strong, while consonants such as s and f are high-pitched and weak. A person with high-frequency loss hears the vowels but misses these consonants; in Turkish, s and sh occur in many suffixes, so grammatical cues can be missed too.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "speech"
+  ],
+  "etiketler": [
+   "speech banana",
+   "high-frequency hearing loss",
+   "speech sounds",
+   "consonants",
+   "audiogram",
+   "hearing loss",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Which speech sounds does high-frequency hearing loss take away?",
+  "bilgiler": [
+   "Vowels are low and strong; consonants like s and f are high and weak.",
+   "With high-frequency loss, vowels are heard but these consonants are missed.",
+   "In Turkish, s and sh occur in many suffixes, so grammar cues can vanish."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "speech"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #21",
+   "metin": "Which speech sounds does high-frequency loss *take away?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Which speech sounds does high-frequency hearing loss take away?"
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "zincir",
+   "baslik": "The *speech banana*: low to high",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Vowels",
+     "cumle": 0,
+     "tr": "low, strong"
+    },
+    {
+     "ad": "Sh, ch, k, t",
+     "cumle": 1,
+     "tr": "higher"
+    },
+    {
+     "ad": "S, f",
+     "cumle": 2,
+     "tr": "high, weak"
+    }
+   ],
+   "alt": "In Turkish, _s and sh_ occur in many suffixes",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Vowels are stronger and sit in the low region.",
+    {
+     "yazi": "Sh, ch, k and t are higher and weaker.",
+     "ses": "Shh, chuh, kay and tee are higher and weaker."
+    },
+    {
+     "yazi": "S and f sit in the highest, weakest region.",
+     "ses": "Ess and eff sit in the highest, weakest region."
+    },
+    "With high-frequency loss, vowels are heard but these consonants missed.",
+    {
+     "yazi": "In Turkish, s and sh mark many suffixes; grammar cues vanish too.",
+     "ses": "In Turkish, sss and shh mark many suffixes; grammar cues vanish too."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D043",
+ "kaynak_baslik": "The Speech Banana: Speech Sounds on the Audiogram"
+}

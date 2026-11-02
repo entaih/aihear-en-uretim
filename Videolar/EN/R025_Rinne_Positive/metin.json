@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R025_Rinne_Positive_EN",
+ "kapak": {
+  "ust": "QUICK FACT #25",
+  "baslik": "Positive, but *normal*",
+  "alt": "The surprising name in the Rinne test",
+  "cizim": "diyapazon",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can a positive test result be normal? #shorts",
+  "aciklama": "In the Rinne test, if the sound is heard louder in front of the ear (air conduction) than on the mastoid bone (bone conduction), the result is Rinne positive; this is what we expect in a normal ear. A negative result suggests a conductive problem.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "tuningfork",
+   "hearing"
+  ],
+  "etiketler": [
+   "Rinne test",
+   "tuning fork",
+   "tuning fork tests",
+   "air conduction",
+   "bone conduction",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can a positive test result be normal?",
+  "bilgiler": [
+   "The fork goes first on the mastoid bone, then in front of the ear.",
+   "If it sounds louder by air, the result is Rinne positive.",
+   "Here, the word positive means normal."
+  ],
+  "hashtag": [
+   "audiology",
+   "tuningfork",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #25",
+   "metin": "Can a positive result *be normal?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can a positive test result be normal?"
+   ]
+  },
+  {
+   "id": "rinne",
+   "tur": "zincir",
+   "baslik": "The *Rinne* test",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Mastoid",
+     "cumle": 0,
+     "tr": "bone conduction"
+    },
+    {
+     "ad": "Ear canal",
+     "cumle": 1,
+     "tr": "air conduction"
+    },
+    {
+     "ad": "Positive",
+     "cumle": 2,
+     "tr": "air is louder"
+    }
+   ],
+   "alt": "Rinne positive: the expected result in a _normal_ ear",
+   "alt_cumle": 3,
+   "cumleler": [
+    "The tuning fork is first placed on the mastoid bone.",
+    "Then its prongs are held in front of the ear canal.",
+    "If it sounds louder by air, the result is Rinne positive.",
+    "Here, the word positive means normal.",
+    "Louder by bone is Rinne negative, suggesting a conductive problem."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D057",
+ "kaynak_baslik": "Tuning Fork Tests: Rinne, Weber and Bing"
+}

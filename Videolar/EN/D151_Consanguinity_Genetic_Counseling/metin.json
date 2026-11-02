@@ -1,0 +1,719 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D151_Consanguinity_Genetic_Counseling_EN",
+ "kapak": {
+  "ust": "LESSON 151",
+  "baslik": "Consanguinity and<br>*counseling*",
+  "alt": "Recessive risk and the audiologist's role",
+  "cizim": "koklea_kesit",
+  "ayar": {
+   "potasyum": true
+  }
+ },
+ "youtube": {
+  "baslik": "Consanguinity and Genetic Counseling in Audiology | Lesson 151 | AIHEAR Audiology Academy",
+  "aciklama": "We look at how consanguinity raises the risk of autosomal recessive hearing loss, at current data from Türkiye, and at how to explain risk at its true size. We cover the principles of genetic counseling, referral for genetic testing, what test results mean and the audiologist's role in informing families.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Koç, Türkiye'de Akraba Evliliklerinin Yaygınlığının Değişimi ve Dirençli Grupların Belirlenmesi, Turkish Journal of Public Health (2022); Bennett et al., Genetic counseling and screening of consanguineous couples and their offspring, Journal of Genetic Counseling (2002); Li et al., Clinical evaluation and etiologic diagnosis of hearing loss: A clinical practice resource of the ACMG, Genetics in Medicine (2022); GeneReviews, Genetic Hearing Loss Overview.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "geneticcounseling",
+   "consanguinity"
+  ],
+  "etiketler": [
+   "consanguinity",
+   "genetic counseling",
+   "carrier",
+   "autosomal recessive",
+   "genetic test results",
+   "variant of uncertain significance",
+   "hearing loss genetics",
+   "recurrence risk",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 151",
+   "baslik": "Consanguinity and *counseling*",
+   "alt": "The audiologist's role in genetic counseling",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn how consanguinity affects the risk of hearing loss and the audiologist's role in genetic counseling.",
+    "We will cover how to explain risk, referral for genetic testing and what test results mean."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Consanguinity",
+   "baslik": "What is *consanguinity?*",
+   "maddeler": [
+    {
+     "metin": "Two people with a _common ancestor_",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "First cousins share _one eighth_ of genes",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "The same rare change _in two copies_",
+     "cumle": 2,
+     "ikon": "dna"
+    },
+    {
+     "metin": "_Common_ in many societies",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Attitude: _nonjudgmental_ and respectful",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FIRST COUSINS",
+    "metin": "Share *one eighth* of their genes on average",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Consanguinity is a marriage between two people who share a common ancestor; the most common example is a first-cousin marriage.",
+    "First cousins share, on average, one eighth of their genes from their common ancestors.",
+    "This raises the chance that their children carry the same rare change in both copies.",
+    "Consanguineous marriage is common in many societies around the world and has cultural, social and economic reasons.",
+    "The audiologist's attitude on this topic should be informative and respectful, not judgmental."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Consanguinity",
+   "baslik": "*Consanguinity* in Türkiye",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "About 50 years ago",
+      "2": "2018 survey"
+     },
+     "ad": "Period"
+    },
+    "y": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Consanguineous marriage (%)"
+    },
+    "seriler": [
+     {
+      "ad": "eski",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        27
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "about 27 percent",
+      "cumle": 1
+     },
+     {
+      "ad": "yeni",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        24
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "about 24 percent",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "genel",
+      "x": 2.5,
+      "y": 24,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "sari",
+      "etiket": "overall: about 24 percent",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In Türkiye, according to the 2018 national Demographic and Health Survey, about twenty four percent of marriages are consanguineous.",
+     "ses": "In Türkiye, according to the twenty eighteen national Demographic and Health Survey, about twenty four percent of marriages are consanguineous."
+    },
+    "Over the last fifty years, this rate has fallen only slightly, from about twenty seven percent to twenty four percent.",
+    "This slow decline shows that consanguineous marriage is a persistent tradition.",
+    "The rate varies clearly by region, education level and generation.",
+    "So consanguinity is declining, but it is still a common part of the history in the families we see in the clinic."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Consanguinity",
+   "baslik": "*How* does risk increase?",
+   "adimlar": [
+    {
+     "ikon": "ev",
+     "baslik": "Common ancestor",
+     "metin": "A single carrier",
+     "cumle": 0
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Two branches",
+     "metin": "Change passes down both sides",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Cousin marriage",
+     "metin": "Both may be carriers",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Child",
+     "metin": "25 percent each pregnancy",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Let us imagine a single recessive change in a common ancestor.",
+    "Over generations, this change can pass down two separate branches of the family.",
+    "When cousins from these two branches marry, the chance that both carry the same change increases.",
+    "If both are carriers, the chance that a child is affected is twenty five percent in each pregnancy.",
+    "In unrelated couples, the same rare change being present on both sides is much less likely.",
+    "This is why consanguinity especially raises the frequency of rare recessive conditions."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Consanguinity",
+   "baslik": "The *size* of the risk",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "General population",
+     "metin": "2 to 3 percent",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "First cousins",
+     "metin": "About 2 to 3 points more",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Most children",
+     "metin": "Are born healthy",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Known condition",
+     "metin": "Risk much higher",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Explaining the size of the risk correctly prevents both needless worry and false reassurance.",
+    "In the general population, the risk of a serious congenital problem in any baby is about two to three percent.",
+    "For first-cousin couples, an added risk of about two to three percentage points has been reported.",
+    "In other words, most children of first-cousin couples are born healthy.",
+    "But if a recessive condition is already known in the family, the risk for that condition can be much higher."
+   ]
+  },
+  {
+   "id": "isitme",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Hearing loss and genetics",
+   "baslik": "The link with *hearing loss*",
+   "maddeler": [
+    {
+     "metin": "Most nonsyndromic losses are _recessive_",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "_Rare genes_ also pair up",
+     "cumle": 1,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Helps find _new genes_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Recessive _syndromes_ also increase",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Not every loss is _genetic_",
+     "cumle": 4,
+     "ikon": "virus"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        80,
+        90,
+        95,
+        100,
+        105,
+        105
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        80,
+        85,
+        95,
+        100,
+        100,
+        105
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Because most nonsyndromic genetic losses are recessive, hearing loss is at the center of this topic.",
+    "With consanguinity, changes in rare genes can also come together in two copies, which widens the range of genetic causes.",
+    "In these families, both copies coming from the same ancestor has also helped researchers find new hearing genes.",
+    "Recessive syndromes such as Usher and Pendred can also be more common in consanguineous families.",
+    "But not every loss in a consanguineous family is genetic; environmental causes such as infection are also considered."
+   ]
+  },
+  {
+   "id": "danismanlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Hearing loss and genetics",
+   "baslik": "What is genetic *counseling?*",
+   "maddeler": [
+    {
+     "metin": "Helps people understand and _adapt_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Information, _risk_, test options",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Nondirective_: the family decides",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Confidentiality and _informed consent_",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Risk calculation is _not the audiologist's job_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TEAM",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Medical genetics",
+      "metin": "Diagnosis and interpretation",
+      "cumle": 4
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Genetic counselor",
+      "metin": "Counseling",
+      "cumle": 4
+     },
+     {
+      "ikon": "odyolog",
+      "baslik": "Audiologist",
+      "metin": "Hearing findings",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Genetic counseling is a process that helps individuals and families understand and adapt to a genetic condition.",
+    "Giving information, calculating risk, explaining test options and supporting decision making are parts of this process.",
+    "Counseling is nondirective; decisions belong to the family, and the counselor does not impose any option.",
+    "Confidentiality, informed consent and voluntariness are core principles.",
+    "Genetic counseling is provided by medical geneticists and genetic counselors.",
+    "The audiologist is part of this team, but risk calculation and interpreting results are outside the audiologist's scope."
+   ]
+  },
+  {
+   "id": "yonlendirme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Referral and results",
+   "baslik": "When to *refer?*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Unknown cause",
+     "metin": "Permanent sensorineural loss",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Family history",
+     "metin": "Hearing loss or consanguinity",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Other findings",
+     "metin": "Eyes, kidneys, thyroid, heart",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Progressive loss",
+     "metin": "Recurring in the family",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In which situations should referral for genetic evaluation be considered?",
+    "Current guidelines recommend genetic evaluation for children with permanent sensorineural loss of unknown cause.",
+    "A family history of hearing loss, or parents who are related, strengthens the case for referral.",
+    "Findings beyond hearing, in the eyes, kidneys, thyroid, heart or skin, suggest a syndromic cause.",
+    "Progressive losses in adults that recur in the family can also be evaluated genetically."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Referral and results",
+   "baslik": "What results *mean*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Positive",
+     "metin": "Explanatory change found",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Negative",
+     "metin": "Cause not excluded",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Uncertain",
+     "metin": "Not used for decisions",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Carrier",
+     "metin": "One copy, usually unaffected",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Knowing what test results mean helps you avoid misleading statements when talking with the family.",
+    "A positive result means a change that explains the loss was found; this is called a pathogenic or likely pathogenic variant.",
+    "A negative result does not mean the loss is not genetic, only that no explanatory change was found in the genes examined.",
+    "A variant of uncertain significance is a change that cannot be classed as harmful or harmless; it is not used for clinical decisions.",
+    "A carrier result means the person carries a change in one copy and is usually not affected in recessive conditions.",
+    "Results need to be explained with these distinctions, in plain language, and together with a genetic counselor."
+   ]
+  },
+  {
+   "id": "ilkeler",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Talking with families",
+   "baslik": "Principles of *giving information*",
+   "maddeler": [
+    {
+     "metin": "Clear, _nonjudgmental_ language",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "No _blame_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Explain _why_ you ask",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Risk: _percentages and frequencies_ together",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Written information and a _follow-up visit_",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EXAMPLE",
+    "metin": "25 percent = a *one in four* chance",
+    "cumle": 3
+   },
+   "cumleler": [
+    "When informing a family, the first principle is to use clear, nonjudgmental language.",
+    "Avoid blaming statements; no one is responsible for the genes they carry.",
+    "When asking whether the parents are related, explain why it matters; the question should not come across as blame.",
+    "Give risks as frequencies as well as percentages; for example, twenty five percent means a one in four chance.",
+    "Accept that the information cannot all be absorbed at once; offer written information and a follow-up visit.",
+    "Respect the family's communication and education preferences, including sign language."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "A 25 percent risk applies anew in every pregnancy. If the first child is affected, gently correct the belief that the next three will be unaffected.",
+   "cumleler": [
+    "A clinical tip: when explaining a twenty five percent risk, watch for a common misconception.",
+    "Some families think that if the first child is affected, the next three children will be unaffected.",
+    "In fact, the risk is the same in every pregnancy; the outcome of one pregnancy does not change the next.",
+    "Clarifying this point and answering questions together with the genetic counselor helps prevent wrong decisions."
+   ]
+  },
+  {
+   "id": "akrabalar",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Talking with families",
+   "baslik": "Relatives and the *future*",
+   "maddeler": [
+    {
+     "metin": "_Carrier testing_ offered to relatives",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_Young couples_ planning consanguineous marriage",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Pregnancy options: _in counseling_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "The decision is _entirely the family's_",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "_Respect_ for difference",
+     "cumle": 4,
+     "ikon": "kalp"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "OPTIONS",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "gen_dna",
+      "baslik": "Carrier testing",
+      "metin": "For relatives",
+      "cumle": 0
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Counseling",
+      "metin": "Information and support",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "When a change is found in the family, carrier testing can be offered to relatives.",
+    "This information matters especially for young couples who are related, or who are considering marrying a relative.",
+    "Options for future pregnancies are discussed in detail in genetic counseling.",
+    "Whether or not to use these options is entirely the family's decision.",
+    "Some families see hearing loss not as a deficit but as a difference; this view is also respected."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Talking with families",
+   "baslik": "The audiologist's *steps*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Notice",
+     "metin": "History and findings",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Explain",
+     "metin": "Purpose of evaluation",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Refer",
+     "metin": "Through the physician",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Share",
+     "metin": "Complete hearing findings",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Monitor",
+     "metin": "Whatever the result",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Let us summarize the audiologist's role in the genetic process step by step.",
+    "First, they use the history and findings to recognize families who may benefit from genetic evaluation.",
+    "They briefly explain to the family the purpose of genetic evaluation and what it may involve.",
+    "Through the physician, they arrange referral to the medical genetics unit.",
+    "They share the audiogram, the auditory brainstem response, or ABR, and other hearing findings fully and clearly.",
+    "Whatever the genetic result, they continue hearing monitoring and rehabilitation."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Consanguinity raises _recessive_ risk",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Türkiye: about _24 percent_, declining",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Counseling is _nondirective_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Negative result: _cause not excluded_",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Consanguinity raises the chance that the same rare recessive change comes together in two copies in a child.",
+    {
+     "yazi": "According to the 2018 survey, the rate in Türkiye is about twenty four percent and is clearly falling in younger generations.",
+     "ses": "According to the twenty eighteen survey, the rate in Türkiye is about twenty four percent and is clearly falling in younger generations."
+    },
+    "Genetic counseling is nondirective; it gives information and leaves the decision to the family.",
+    "A negative test result does not exclude a genetic cause; results are explained together with a genetic counselor."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "A carrier couple's first child is affected. Second child's risk?",
+   "secenekler": [
+    "Zero",
+    "25 percent",
+    "50 percent",
+    "100 percent"
+   ],
+   "dogru": 1,
+   "aciklama": "The risk is 25 percent again _in every pregnancy_; earlier outcomes do not change it.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: If a carrier couple's first child is affected, what is the chance that the second child is affected?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: twenty five percent.",
+    "The risk is the same in every pregnancy; the previous child's status does not change this chance."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Approach to the Dizzy Patient: *History* Comes First",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we move on to vestibular assessment and learn how to approach a dizzy patient through the history.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,726 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D044_Room_Acoustics_EN",
+ "kapak": {
+  "ust": "LESSON 44",
+  "baslik": "Reverberation and<br>*SNR*",
+  "alt": "Room acoustics and understanding speech",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Room Acoustics: Reverberation and Signal-to-Noise | Lesson 44 | AIHEAR Audiology Academy",
+  "aciklama": "How does the acoustics of a room affect understanding speech? In this lesson we look at direct sound and reflections, reverberation time (RT60), signal-to-noise ratio (SNR), critical distance and classroom acoustics targets (35 dBA, 0.6 seconds, SNR of at least +15 dB). We also compare approaches that improve the room and the signal.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ANSI/ASA S12.60, Acoustical Performance Criteria, Design Requirements, and Guidelines for Schools; ASHA, Guidelines for Addressing Acoustics in Educational Settings (2005); World Health Organization, Guidelines for Community Noise (1999); Crandell CC and Smaldino JJ, Classroom acoustics for children with normal hearing and with hearing impairment (Language, Speech, and Hearing Services in Schools, 2000); ISO 3382, Measurement of room acoustic parameters.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "classroomacoustics"
+  ],
+  "etiketler": [
+   "room acoustics",
+   "reverberation time",
+   "RT60",
+   "signal-to-noise ratio",
+   "SNR",
+   "critical distance",
+   "classroom acoustics",
+   "ANSI S12.60",
+   "remote microphone",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 44",
+   "baslik": "*Room acoustics*: reverberation and SNR",
+   "alt": "Reverberation time, signal-to-noise ratio, critical distance",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how rooms affect understanding speech, through reverberation and the signal-to-noise ratio.",
+    "We will also look at critical distance and the acoustic targets recommended for classrooms."
+   ]
+  },
+  {
+   "id": "yansimalar",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Sound in a room",
+   "baslik": "Direct sound and *reflections*",
+   "cumleler": [
+    "In a closed room, a talker's voice first reaches the listener directly, along the shortest path.",
+    "The sound also strikes the walls, ceiling and floor, and the reflected sounds reach the listener a little later.",
+    "Early reflections arriving within about the first fifty milliseconds merge with the direct sound and can strengthen speech.",
+    "The cloud of later, gradually decaying reflections is called reverberation.",
+    "Reverberation smears speech sounds over one another and reduces intelligibility."
+   ],
+   "cizim": "oda_plani",
+   "ayar": {
+    "mod": "yansima",
+    "dogrudan_cumle": 0,
+    "yansima_cumle": 1,
+    "ekogram_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "dogrudan_ses",
+     "metin": "Direct sound",
+     "cumle": 0
+    },
+    {
+     "parca": "yansimalar",
+     "metin": "Reflections",
+     "cumle": 1
+    },
+    {
+     "parca": "erken_yansimalar",
+     "metin": "First 50 ms",
+     "cumle": 2
+    },
+    {
+     "parca": "yankilanma",
+     "metin": "Reverberation",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dogrudan_ses",
+     "cumle": 0
+    },
+    {
+     "parca": "yansimalar",
+     "cumle": 1
+    },
+    {
+     "parca": "erken_yansimalar",
+     "cumle": 2
+    },
+    {
+     "parca": "yankilanma",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Direct_ sound arrives first",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Early reflections _strengthen_ speech",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Reverberation reduces _intelligibility_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ]
+  },
+  {
+   "id": "rt60",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Sound in a room",
+   "baslik": "Reverberation time: *RT60*",
+   "maddeler": [
+    {
+     "metin": "Time for a _60 dB_ drop after offset",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Volume _lengthens_, absorption shortens",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Hard surfaces lengthen, _soft_ shorten",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Measured by _interrupted noise_ or impulse",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sonum_egrisi",
+    "cumle": 0,
+    "ayar": {
+     "rt60": 0.8,
+     "rt60_cumle": 0,
+     "kesilme_cumle": 0
+    },
+    "vurgula": [
+     {
+      "parca": "rt60",
+      "cumle": 0
+     },
+     {
+      "parca": "altmis_db_ok",
+      "cumle": 1
+     },
+     {
+      "parca": "sonum",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kesilme",
+      "metin": "source stops",
+      "cumle": 0,
+      "yer": "alt"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Reverberation time, or RT60, is the time it takes for the sound level to fall by sixty decibels after the source stops.",
+     "ses": "Reverberation time, or R.T. sixty, is the time it takes for the sound level to fall by sixty decibels after the source stops."
+    },
+    "A sixty decibel drop means the sound intensity falls to one millionth.",
+    {
+     "yazi": "According to the Sabine formula, reverberation time rises with room volume and falls with the total sound absorption of the surfaces."
+    },
+    "Hard surfaces such as concrete, glass and tiles lengthen it; acoustic ceilings, carpets and curtains absorb sound and shorten it.",
+    "It can be measured with the interrupted noise method or by recording the decay of an impulse; both are defined in standards."
+   ]
+  },
+  {
+   "id": "ornekler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Sound in a room",
+   "baslik": "Reverberation time *examples*",
+   "ogeler": [
+    {
+     "ikon": "okul",
+     "baslik": "Treated classroom",
+     "metin": "0.4 to 0.6 seconds",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Untreated classroom",
+     "metin": "Often over 1 second",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Concert hall",
+     "metin": "About 2 seconds",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Large place of worship",
+     "metin": "Several seconds",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Reverberation times differ greatly between environments.",
+    "In an acoustically treated classroom, the time is kept at around half a second.",
+    "In untreated classrooms with hard surfaces, it can often exceed one second.",
+    "Concert halls aim for about two seconds so that music sounds full.",
+    "In large places of worship it can rise to several seconds, which makes speech hard to understand.",
+    "So a room that is good for music can be poor for understanding speech."
+   ]
+  },
+  {
+   "id": "bulasma",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Sound in a room",
+   "baslik": "Reverberation *masks* consonants",
+   "cizim": "konusma_muzu",
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "The _tail_ of a strong vowel",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "The weak consonant is _masked_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Noise plus reverberation: _worse_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "unluler",
+     "metin": "vowels: strong",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "metin": "consonants: weak",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "To see the effect of reverberation, think of a word: a strong vowel lingers in the room for a while after it ends.",
+    "This tail falls on top of the weak consonant that follows and masks it.",
+    "As we saw on the speech banana, vowels are strong and consonants weak, so consonants are lost the most.",
+    "As a result, syllable boundaries and word endings become blurred.",
+    "When noise and reverberation occur together, they can cause a much greater loss than either one alone."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Signal-to-noise ratio",
+   "baslik": "Signal-to-noise ratio: *SNR*",
+   "maddeler": [
+    {
+     "metin": "Speech level _minus_ noise level",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "65 and 55 dB: _+10 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Negative_ if noise is louder",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Often _inadequate_ in classrooms",
+     "cumle": 4,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 1
+     },
+     {
+      "parca": "trafik",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "konusma",
+      "metin": "speech",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The signal-to-noise ratio, or SNR, is the difference between the level of the target sound and the level of the background noise."
+    },
+    "For example, if the teacher's voice is sixty five decibels at the ear and the noise is fifty five, the SNR is plus ten decibels.",
+    "If the noise is louder than the speech, the SNR is negative.",
+    "Because decibels are logarithmic, the difference between two levels actually expresses the ratio of two intensities, hence the name.",
+    "Measurements show that the SNR in classrooms often falls below the level recommended for learning."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Signal-to-noise ratio",
+   "baslik": "Who needs a *better SNR*?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Adults with normal hearing",
+     "metin": "Fill gaps from context",
+     "cumle": 0
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Children",
+     "metin": "Cannot fill in missing sounds",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "People with hearing loss",
+     "metin": "Need a higher SNR",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Older adults and others",
+     "metin": "New language learners, attention difficulties",
+     "cumle": 4
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Classroom target",
+     "metin": "At least +15 dB for children",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "An adult with normal hearing usually understands speech comfortably at a positive SNR.",
+    "That is because language knowledge and context let them easily fill in missing sounds.",
+    "Children are still learning language, so they cannot fill in missing sounds; they need a better SNR for the same performance.",
+    "People with hearing loss also often need a clearly higher SNR for the same performance.",
+    "Older adults, people learning a new language, and children with attention or language difficulties are also more affected by noise.",
+    "That is why an SNR of at least plus fifteen decibels at the ear is recommended for children in the classroom."
+   ]
+  },
+  {
+   "id": "kritik_mesafe",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Critical distance",
+   "baslik": "*Critical distance*",
+   "maddeler": [
+    {
+     "metin": "Double distance: about _6 dB_ less",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Reverberant sound similar _everywhere_",
+     "cumle": 1,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Critical distance: the two are _equal_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Beyond it, reverberation _dominates_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Only _one or two_ meters in classrooms",
+     "cumle": 5,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "In open space, doubling the distance from the source lowers the direct sound by about six decibels; this is the inverse square law.",
+    "In a closed room, however, the reverberant sound is at roughly the same level everywhere in the room.",
+    "Close to the source the direct sound dominates; moving away, the direct sound weakens while the reverberant sound stays the same.",
+    "The distance at which the direct and reverberant sound levels are equal is called the critical distance.",
+    "Beyond the critical distance, the listener hears mainly reverberant sound, and speech clarity drops markedly.",
+    "Critical distance grows as the room gets larger and reverberation decreases; in a typical classroom it is only a few meters."
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "halka_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "dogrudan_alan",
+      "cumle": 2
+     },
+     {
+      "parca": "kritik_mesafe",
+      "cumle": 3
+     },
+     {
+      "parca": "yankilanan_alan",
+      "cumle": 4
+     },
+     {
+      "parca": "on_siralar",
+      "cumle": 5
+     }
+    ]
+   }
+  },
+  {
+   "id": "hedefler",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Classroom and clinic",
+   "baslik": "Classroom acoustics *targets*",
+   "sutunlar": [
+    "Source",
+    "Background noise",
+    "Reverberation time"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ANSI S12.60",
+      "35 dBA",
+      "0.6 seconds"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "ANSI, large classroom",
+      "35 dBA",
+      "0.7 seconds"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "WHO",
+      "35 dBA",
+      "About 0.6 seconds"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "ASHA",
+      "35 dBA, SNR +15",
+      "0.6 seconds"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Acoustic targets have been defined so that speech is well understood in classrooms.",
+    {
+     "yazi": "The American standard ANSI S12.60 limits noise to 35 dBA and reverberation time to 0.6 seconds for an empty, mid-sized classroom.",
+     "ses": "The American classroom acoustics standard limits noise to thirty five decibels A and reverberation time to zero point six seconds for an empty, mid-sized classroom."
+    },
+    {
+     "yazi": "For larger classrooms the reverberation limit is 0.7 seconds.",
+     "ses": "For larger classrooms the reverberation limit is zero point seven seconds."
+    },
+    {
+     "yazi": "The World Health Organization also recommends classroom noise not above 35 dBA and a reverberation time of about 0.6 seconds.",
+     "ses": "The World Health Organization also recommends classroom noise not above thirty five decibels A and a reverberation time of about zero point six seconds."
+    },
+    "The American Speech-Language-Hearing Association, or ASHA, adds an SNR of at least plus fifteen decibels at the child's ear.",
+    "Other countries have similar guidelines; in Türkiye, too, there is a regulation on protecting buildings against noise.",
+    "However, a large share of real classrooms are reported to fall short of these targets."
+   ]
+  },
+  {
+   "id": "cozumler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Classroom and clinic",
+   "baslik": "Improving the room or the *signal*",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Soft surfaces",
+     "metin": "Acoustic ceiling, carpet, curtains",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Noise control",
+     "metin": "Windows, ventilation, corridor",
+     "cumle": 2
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Helps everyone",
+     "metin": "All students benefit",
+     "cumle": 3
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Remote microphone",
+     "metin": "Voice straight to the device",
+     "cumle": 5
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sound-field system",
+     "metin": "Spreads sound evenly",
+     "cumle": 6
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Sitting close",
+     "metin": "Within the critical distance",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "There are two complementary approaches to improving a classroom; the first is treating the room itself.",
+    "Acoustic ceilings, carpets and curtains shorten the reverberation time.",
+    "Controlling windows, ventilation and corridor noise lowers background noise.",
+    "Treating the room benefits every student in the class.",
+    "The second approach is improving the signal.",
+    "Remote microphone systems, which send the teacher's voice from a worn microphone straight to the student's device, clearly improve the SNR.",
+    "Sound-field systems, which spread the voice evenly through loudspeakers placed in the room, can also be used.",
+    "Sitting where the student can see the teacher's face, within the critical distance, is also a simple but effective measure.",
+    "These approaches should be considered together, not as substitutes for one another."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Classroom and clinic",
+   "baslik": "*Room acoustics* in the clinic",
+   "maddeler": [
+    {
+     "metin": "Test room: low _noise_ and reverberation",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Directional microphones can _improve_ SNR",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Devices _cannot fully fix_ reverberation",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Communication_ strategies in counselling",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "mikrofon",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Test rooms used for audiometry are also specially designed for low background noise and a short reverberation time.",
+    "Directional microphones in hearing aids can improve the SNR somewhat by emphasising speech from the front.",
+    "But because reverberant sound arrives from all directions, devices cannot fully remove the effect of reverberation.",
+    "In counselling, simple strategies are explained, such as sitting away from the noise source and where the talker's face is visible."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Classroom and clinic",
+   "baslik": "Clinical tip",
+   "metin": "When a patient struggles in noise, ask about the setting: room, surfaces, distance, noise source. Halving the distance to the talker raises direct sound by about 6 dB.",
+   "cumle": 2,
+   "cumleler": [
+    "A tip from the clinic: when a patient reports difficulty understanding in noise, ask in detail about the settings where they struggle.",
+    "The size of the room, the hardness of the surfaces, the distance to the talker and where the noise comes from all give useful clues.",
+    "Halving the distance to the talker raises the direct sound by about six decibels and improves the SNR within the critical distance.",
+    "These simple changes can make a clear difference in daily life, independent of device settings."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "RT60: time for _60 dB_ decay",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "SNR: speech minus _noise_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Critical distance: direct and reverberant _equal_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Classroom: _35 dBA_, 0.6 s, SNR +15 dB",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "Reverberation time is the time it takes for the level to fall by sixty decibels after the sound stops.",
+    "The signal-to-noise ratio is the difference between speech and noise levels; children and people with hearing loss need a better ratio.",
+    "Beyond the critical distance, reverberant sound becomes dominant and speech clarity drops.",
+    {
+     "yazi": "For classrooms, the targets are 35 dBA background noise, a 0.6 second reverberation time, and an SNR of at least plus fifteen decibels.",
+     "ses": "For classrooms, the targets are thirty five decibels A background noise, a zero point six second reverberation time, and an SNR of at least plus fifteen decibels."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "What is the reverberation time target for an empty, mid-sized classroom?",
+   "secenekler": [
+    "0.3 seconds",
+    "0.6 seconds",
+    "1.2 seconds",
+    "2 seconds"
+   ],
+   "dogru": 1,
+   "aciklama": "ANSI S12.60 and ASHA recommend _0.6 seconds_ and 35 dBA background noise for classrooms.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what is the reverberation time target for an empty, mid-sized classroom?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: 0.6 seconds.",
+     "ses": "The correct answer is B: zero point six seconds."
+    },
+    "Longer reverberation lets the tails of vowels mask consonants and blurs speech."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The *Central Auditory Pathway*, Station by Station",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will follow the central auditory pathway from the cochlea to the cortex, station by station.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

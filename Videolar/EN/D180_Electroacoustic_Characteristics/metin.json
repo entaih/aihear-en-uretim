@@ -1,0 +1,1119 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D180_Electroacoustic_Characteristics_EN",
+ "kapak": {
+  "ust": "LESSON 180",
+  "baslik": "Electroacoustic<br>*characteristics*",
+  "alt": "Gain, OSPL90, frequency response",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  }
+ },
+ "youtube": {
+  "baslik": "Electroacoustics: Gain, Maximum Output, Response | Lesson 180 | AIHEAR Audiology Academy",
+  "aciklama": "How are the gain, maximum output and frequency response of a hearing aid defined and measured? In this lesson we use the ANSI S3.22 definitions to cover OSPL90, full-on gain, the reference test setting, frequency range, harmonic distortion and equivalent input noise.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ANSI/ASA S3.22, Specification of Hearing Aid Characteristics; IEC 60118 series, Electroacoustics: Hearing aids; Dillon, Hearing Aids; Stelmachowicz et al., Effect of stimulus bandwidth on the perception of /s/ in normal- and hearing-impaired children and adults, Journal of the Acoustical Society of America (2001); Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "electroacoustics"
+  ],
+  "etiketler": [
+   "electroacoustic measurement",
+   "hearing aid gain",
+   "OSPL90",
+   "frequency response",
+   "harmonic distortion",
+   "THD",
+   "equivalent input noise",
+   "ANSI S3.22",
+   "test box",
+   "2 cc coupler",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 180",
+   "baslik": "Electroacoustic *characteristics*",
+   "alt": "Gain, maximum output, frequency response",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how to define and measure the gain, maximum output and frequency response of a hearing aid.",
+    "We will also cover quality measures such as harmonic distortion and equivalent input noise, as defined in the standards."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "Why do we *measure?*",
+   "maddeler": [
+    {
+     "metin": "Does the aid match manufacturer data?",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Standards: _ANSI S3.22_, IEC 60118",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Measured in a 2 cc coupler, test box",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Adaptive features switched off",
+     "cumle": 5,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "microphone",
+      "cumle": 3
+     },
+     {
+      "parca": "alici",
+      "metin": "receiver",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Electroacoustic measurements show whether a hearing aid matches the characteristics reported by the manufacturer.",
+    "Before a new aid is delivered, and when there is a complaint of malfunction, these measurements provide quality control.",
+    {
+     "yazi": "In the US these measurements follow the ANSI S3.22 standard, and internationally the IEC 60118 series of standards.",
+     "ses": "In the U.S. these measurements follow the ANSI S three point twenty two standard, and internationally the I E C sixty one eighteen series of standards."
+    },
+    {
+     "yazi": "The measurement is done in a soundproof test box, with the aid connected to a standard coupler with a volume of 2 cc.",
+     "ses": "The measurement is done in a soundproof test box, with the aid connected to a standard coupler with a volume of two cc."
+    },
+    "A coupler is not an ear, so the results show the aid's own characteristics, not its performance in the person's ear.",
+    "Before measuring, adaptive features such as noise reduction and feedback management are switched off.",
+    "The aid is measured in omnidirectional microphone mode, at the widest frequency response and highest output setting."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "What is *gain?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 40,
+     "max": 120,
+     "adim": 20,
+     "ad": "Level (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "giris",
+      "noktalar": [
+       [
+        200,
+        60
+       ],
+       [
+        8000,
+        60
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 2,
+      "etiket": "input: 60 dB SPL",
+      "etiket_konum": [
+       250,
+       60
+      ],
+      "etiket_dy": 26
+     },
+     {
+      "ad": "cikis",
+      "noktalar": [
+       [
+        200,
+        78
+       ],
+       [
+        500,
+        88
+       ],
+       [
+        1000,
+        96
+       ],
+       [
+        1600,
+        101
+       ],
+       [
+        2500,
+        100
+       ],
+       [
+        3500,
+        93
+       ],
+       [
+        5000,
+        80
+       ],
+       [
+        6500,
+        68
+       ],
+       [
+        8000,
+        58
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "output",
+      "etiket_konum": [
+       2500,
+       100
+      ],
+      "etiket_dy": -16
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hfa",
+      "x": [
+       1000,
+       2500
+      ],
+      "renk": "sari",
+      "etiket": "HFA",
+      "cumle": 5
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kazanc_okun",
+      "xk": 1600,
+      "y": [
+       60,
+       101
+      ],
+      "etiket": "gain 41 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "cikis",
+     "cumle": 3
+    },
+    {
+     "parca": "kazanc_okun",
+     "cumle": 3
+    },
+    {
+     "parca": "hfa",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "The most basic concept is gain: how many decibels the aid adds to the sound.",
+    "Gain is found by subtracting the input level from the output level.",
+    {
+     "yazi": "In this example graph, the aid receives an input of 60 dB SPL at every frequency."
+    },
+    {
+     "yazi": "The output measured in the coupler at 1600 Hz is 101 dB SPL, so the gain at this frequency is 41 decibels.",
+     "ses": "The output measured in the coupler at sixteen hundred hertz is one hundred one decibels SPL, so the gain at this frequency is forty one decibels."
+    },
+    "Gain varies with frequency; in this aid it is lower at low and very high frequencies.",
+    {
+     "yazi": "To summarize it in a single number, the standard uses the high-frequency average, or HFA.",
+     "ses": "To summarize it in a single number, the standard uses the high-frequency average, or H F A."
+    },
+    {
+     "yazi": "HFA is the average of the values at 1000, 1600 and 2500 Hz; the manufacturer may also define three other frequencies.",
+     "ses": "H F A is the average of the values at one thousand, sixteen hundred and twenty five hundred hertz; the manufacturer may also define three other frequencies."
+    }
+   ]
+  },
+  {
+   "id": "ospl",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Gain and output",
+   "baslik": "The *OSPL90* curve",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 80,
+     "max": 130,
+     "adim": 10,
+     "ad": "Output (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "ospl90",
+      "noktalar": [
+       [
+        200,
+        100
+       ],
+       [
+        500,
+        110
+       ],
+       [
+        1000,
+        115
+       ],
+       [
+        1600,
+        118
+       ],
+       [
+        2500,
+        116
+       ],
+       [
+        3500,
+        112
+       ],
+       [
+        5000,
+        104
+       ],
+       [
+        6500,
+        96
+       ],
+       [
+        8000,
+        90
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": 6,
+      "cumle": 1,
+      "etiket": "OSPL90",
+      "etiket_konum": [
+       500,
+       110
+      ],
+      "etiket_dy": -18
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hfa",
+      "x": [
+       1000,
+       2500
+      ],
+      "renk": "sari",
+      "etiket": "HFA",
+      "cumle": 5
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "tepe",
+      "x": 1600,
+      "y": 118,
+      "etiket": "peak",
+      "renk": "kirmizi",
+      "cumle": 4
+     },
+     {
+      "ad": "hfa_ospl90",
+      "x": 5000,
+      "y": 116,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "average ≈ 116",
+      "dy": -14,
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ospl90",
+     "cumle": 3
+    },
+    {
+     "parca": "tepe",
+     "cumle": 4
+    },
+    {
+     "parca": "hfa_ospl90",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The standard measure of maximum output is OSPL90: the output sound pressure level in the coupler for a 90 dB SPL input.",
+     "ses": "The standard measure of maximum output is O S P L ninety: the output sound pressure level in the coupler for a ninety decibel SPL input."
+    },
+    "In this measurement, the aid's gain is turned fully on and the frequency is swept.",
+    "With gain fully on, a ninety decibel input drives most aids to their output limit, that is, into saturation.",
+    "So the curve shows the highest sound level the aid can deliver at each frequency.",
+    {
+     "yazi": "In this example, the curve peaks at 1600 Hz, at about 118 dB SPL.",
+     "ses": "In this example, the curve peaks at sixteen hundred hertz, at about one hundred eighteen decibels SPL."
+    },
+    {
+     "yazi": "The average at 1000, 1600 and 2500 hertz is reported as HFA-OSPL90; here about 116 dB SPL.",
+     "ses": "The average at one thousand, sixteen hundred and twenty five hundred hertz is reported as H F A O S P L ninety; here about one hundred sixteen decibels SPL."
+    },
+    "The standard sets a tolerance of plus or minus 4 decibels for this average, relative to the manufacturer's value.",
+    "In the clinic, maximum output is set so that it does not exceed the person's loudness discomfort level."
+   ]
+  },
+  {
+   "id": "rts",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Gain and output",
+   "baslik": "Full-on gain and the *reference setting*",
+   "maddeler": [
+    {
+     "metin": "Full-on gain: _50 dB SPL_ input",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Reference setting: 60 dB SPL input",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "HFA gain = HFA-OSPL90 minus 77",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Output 17 dB below the limit",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Full-on",
+      "cumle": 0,
+      "metin": "50 dB SPL input"
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Reference setting",
+      "cumle": 2,
+      "metin": "60 dB SPL input"
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Headroom",
+      "cumle": 5,
+      "metin": "17 dB below the limit"
+     }
+    ],
+    "ust": "TWO SETTINGS"
+   },
+   "cumleler": [
+    "Full-on gain is the gain measured with a 50 dB SPL input while the gain control is at maximum.",
+    "It is reported as a high-frequency average and has a tolerance of plus or minus 5 decibels relative to the manufacturer's value.",
+    "Most other measurements are made at the reference test setting, with a 60 dB SPL input.",
+    {
+     "yazi": "At this setting, gain is adjusted so that HFA gain equals HFA-OSPL90 minus 77 decibels, within plus or minus 1.5 decibels.",
+     "ses": "At this setting, gain is adjusted so that H F A gain equals H F A O S P L ninety minus seventy seven decibels, within plus or minus one point five decibels."
+    },
+    "If the aid's full-on gain cannot reach this value, the reference setting is the full-on position.",
+    "The logic of this rule is simple: a sixty decibel input produces an output 17 decibels below the maximum output.",
+    "So the aid is tested in a working range similar to everyday use, without saturating during the measurement."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Frequency response",
+   "baslik": "Frequency response and *range*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Gain (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "yanit",
+      "noktalar": [
+       [
+        100,
+        2
+       ],
+       [
+        200,
+        10
+       ],
+       [
+        300,
+        18
+       ],
+       [
+        500,
+        28
+       ],
+       [
+        1000,
+        36
+       ],
+       [
+        1600,
+        41
+       ],
+       [
+        2500,
+        40
+       ],
+       [
+        3500,
+        34
+       ],
+       [
+        5000,
+        22
+       ],
+       [
+        6500,
+        12
+       ],
+       [
+        8000,
+        6
+       ],
+       [
+        10000,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 0,
+      "etiket": "frequency response",
+      "etiket_konum": [
+       1000,
+       36
+      ],
+      "etiket_dy": -18,
+      "etiket_dx": -40
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "hfa_cizgisi",
+      "x": 7000,
+      "y": 39,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "HFA ≈ 39 dB",
+      "dy": -12,
+      "cumle": 1,
+      "renk": "lacivert"
+     },
+     {
+      "ad": "alt_cizgi",
+      "x": 7000,
+      "y": 19,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "HFA minus 20 dB",
+      "dy": -12,
+      "cumle": 2,
+      "renk": "sari"
+     },
+     {
+      "ad": "f1",
+      "x": 310,
+      "y": 19,
+      "dus": "x",
+      "etiket": "f1",
+      "cumle": 3
+     },
+     {
+      "ad": "f2",
+      "x": 5450,
+      "y": 19,
+      "dus": "x",
+      "etiket": "f2",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "aralik",
+      "x": [
+       310,
+       5450
+      ],
+      "y": 6,
+      "etiket": "frequency range",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "alt_cizgi",
+     "cumle": 2
+    },
+    {
+     "parca": "f1",
+     "cumle": 3
+    },
+    {
+     "parca": "f2",
+     "cumle": 3
+    },
+    {
+     "parca": "aralik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The frequency response is gain plotted against frequency at the reference test setting, with a 60 dB SPL input.",
+    "In this example, the high-frequency average is about 39 decibels.",
+    "The standard defines the frequency range with a line drawn 20 decibels below this average.",
+    {
+     "yazi": "The lowest frequency where the response curve crosses this line is called f1, and the highest is called f2.",
+     "ses": "The lowest frequency where the response curve crosses this line is called F one, and the highest is called F two."
+    },
+    "In this example, the frequency range is about 300 Hz to 5400 Hz.",
+    "The measured curve must stay within plus or minus 4 decibels of the manufacturer's curve at low and mid frequencies, 6 at high ones.",
+    "This is the range in the coupler; in the ear canal, the response differs depending on the earmold and vent."
+   ]
+  },
+  {
+   "id": "bant",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Frequency response",
+   "baslik": "Why does bandwidth *matter?*",
+   "maddeler": [
+    {
+     "metin": "/s/ energy lies at high frequencies",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Children learn what they hear",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "High frequencies improve music quality",
+     "cumle": 4,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Feedback sets the limit",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "spektrogram",
+    "cumle": 0,
+    "ayar": {
+     "cumle": 1
+    },
+    "vurgula": [
+     {
+      "parca": "s_sesi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The energy of fricative consonants in speech, such as s and sh, lies mostly at high frequencies.",
+    "Especially for female and child talkers, the energy of the s sound extends above 4000 Hz.",
+    {
+     "yazi": "Studies by Stelmachowicz and colleagues showed that children need a wide bandwidth to learn these sounds.",
+     "ses": "Studies by Stelmakovich and colleagues showed that children need a wide bandwidth to learn these sounds."
+    },
+    "In English, grammatical markers such as plurals and possessives are carried by these sounds, so language learning can be affected.",
+    "A wide bandwidth also helps music and environmental sounds sound more natural.",
+    "In practice, high-frequency gain is often limited by receiver power and acoustic feedback."
+   ]
+  },
+  {
+   "id": "thd",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Distortion and noise",
+   "baslik": "Harmonic *distortion*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 40,
+     "max": 110,
+     "adim": 10,
+     "ad": "Output (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "temel",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        500,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "genislik": 0.25,
+      "taban": 40,
+      "cumle": 0,
+      "etiket": "fundamental",
+      "etiket_konum": [
+       500,
+       100
+      ],
+      "etiket_dy": -14,
+      "etiket_hiza": "middle",
+      "etiket_dx": 0
+     },
+     {
+      "ad": "harmonikler",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1000,
+        70
+       ],
+       [
+        1500,
+        62
+       ]
+      ],
+      "renk": "kirmizi",
+      "genislik": 0.25,
+      "taban": 40,
+      "cumle": 4,
+      "etiket": "harmonics",
+      "etiket_konum": [
+       1000,
+       70
+      ],
+      "etiket_dy": -14,
+      "etiket_hiza": "middle",
+      "etiket_dx": 0
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "xk": 700,
+      "y": [
+       70,
+       100
+      ],
+      "etiket": "30 dB",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "temel",
+     "cumle": 0
+    },
+    {
+     "parca": "harmonikler",
+     "cumle": 1
+    },
+    {
+     "parca": "fark",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A healthy aid only amplifies an incoming pure tone; a faulty aid adds new frequencies to the sound.",
+    "These new components appear at exact multiples of the input frequency and are called harmonics.",
+    "Total harmonic distortion, or THD, is the ratio of the total power of the harmonics to the fundamental.",
+    "This ratio is given as a percentage.",
+    {
+     "yazi": "In this example, next to the 500 Hz fundamental, two harmonics appear at 1000 and 1500 Hz."
+    },
+    "The second harmonic is about 30 decibels below the fundamental; on its own, this corresponds to about 3 percent distortion.",
+    {
+     "yazi": "In the standard, the measurement is made at 500, 800 and 1600 Hz with a 70 dB SPL input; at the highest frequency the input is 65 dB SPL."
+    },
+    "The measured value may exceed the manufacturer's value by at most 3 percent; high THD suggests a weak battery or a damaged receiver."
+   ]
+  },
+  {
+   "id": "ein",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Distortion and noise",
+   "baslik": "Equivalent input *noise*",
+   "maddeler": [
+    {
+     "metin": "The aid's own internal noise",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Output noise minus gain",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Tolerance: manufacturer value _plus 3 dB_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Audible in quiet and open fits",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "mikrofon",
+      "baslik": "Microphone",
+      "cumle": 0,
+      "metin": "Internal noise source"
+     },
+     {
+      "ikon": "sessizlik",
+      "baslik": "Quiet room",
+      "cumle": 5,
+      "metin": "A hiss may be heard"
+     }
+    ],
+    "ust": "INTERNAL NOISE"
+   },
+   "cumleler": [
+    "Every hearing aid produces a small amount of noise from its microphone and circuits, even with no input.",
+    "Equivalent input noise expresses this internal noise as if it were an external sound at the input.",
+    {
+     "yazi": "The calculation: the HFA gain for a 50 dB SPL input is subtracted from the noise level measured in the coupler with no input.",
+     "ses": "The calculation: the H F A gain for a fifty decibel SPL input is subtracted from the noise level measured in the coupler with no input."
+    },
+    {
+     "yazi": "For example, if the output noise is 58 dB SPL and the gain is 38 decibels, the equivalent input noise is 20 dB SPL."
+    },
+    "The measured value may exceed the manufacturer's value by at most 3 decibels.",
+    "People with near-normal low-frequency hearing may hear this noise as a hiss, especially in quiet settings and with an open fit."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Distortion and noise",
+   "baslik": "Other *measurements*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Battery current",
+     "cumle": 0,
+     "metin": "65 dB SPL, 1000 Hz"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Telecoil response",
+     "cumle": 2,
+     "metin": "With a magnetic field source"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Input-output curve",
+     "cumle": 3,
+     "metin": "In compression aids"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Attack and release",
+     "cumle": 4,
+     "metin": "Speed of compression"
+    }
+   ],
+   "cumleler": [
+    "Battery current is measured at the reference setting with a 1000 Hz, 65 dB SPL input, and tells us about battery life.",
+    "It may exceed the manufacturer's value by at most 20 percent; high current can explain a battery that runs down faster than expected.",
+    "In aids with a telecoil, the telecoil response is measured with a source that simulates the magnetic field of a telephone.",
+    "In compression aids, the input-output curve is plotted from 50 to 90 dB SPL in 5 decibel steps.",
+    "Attack and release times are also measured by suddenly changing the input level.",
+    "We will cover these last two measurements in detail in the next lesson on compression."
+   ]
+  },
+  {
+   "id": "ozet_tablo",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Distortion and noise",
+   "baslik": "Measurements *at a glance*",
+   "sutunlar": [
+    "Measurement",
+    "Input",
+    "Tolerance"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "HFA-OSPL90",
+      "90 dB SPL",
+      "± 4 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Full-on gain",
+      "50 dB SPL",
+      "± 5 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Frequency response",
+      "60 dB SPL",
+      "4 to 6 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "THD",
+      "70 dB SPL",
+      "+ 3 percent"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Equivalent input noise",
+      "No input",
+      "+ 3 dB"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Battery current",
+      "65 dB SPL",
+      "+ 20 percent"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Now let us see the measurements together: maximum output uses a 90 dB SPL input, and HFA-OSPL90 has a tolerance of plus or minus 4 decibels.",
+     "ses": "Now let us see the measurements together: maximum output uses a ninety decibel SPL input, and H F A O S P L ninety has a tolerance of plus or minus four decibels."
+    },
+    "Full-on gain is measured with a 50 dB SPL input and has a tolerance of plus or minus 5 decibels.",
+    "Frequency response is measured with a 60 dB SPL input; the tolerance is 4 to 6 decibels depending on the frequency region.",
+    "Harmonic distortion is measured with a 70 dB SPL input and may exceed the manufacturer's value by at most 3 percent.",
+    {
+     "yazi": "The tolerance is plus 3 decibels for equivalent input noise and plus 20 percent for battery current."
+    },
+    {
+     "yazi": "These values summarize the part of ANSI S3.22 used most often in the clinic.",
+     "ses": "These values summarize the part of ANSI S three point twenty two used most often in the clinic."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If an aid comes back sounding weak or crackly, first measure it in the test box and compare the result with its delivery measurement.",
+   "cumleler": [
+    "A tip from the field: keep the pre-delivery test box measurement of every new aid in its file.",
+    "When the user complains that the sound has weakened or crackles, repeat the same measurement.",
+    "Reduced gain may point to a blocked receiver or microphone port; increased distortion may point to a weak battery or damaged receiver.",
+    "When comparing, make sure you measure with the same program, the same settings and adaptive features switched off.",
+    "This simple comparison prevents unnecessary fine-tuning and wrong referrals for repair."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and quiz",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Gain: output minus input",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "OSPL90: output at 90 dB SPL input",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Frequency range: HFA minus 20 dB",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "THD and internal noise show quality",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In this lesson we saw that gain is found by subtracting the input level from the output level, and is summarized with the HFA.",
+     "ses": "In this lesson we saw that gain is found by subtracting the input level from the output level, and is summarized with the H F A."
+    },
+    {
+     "yazi": "Maximum output is defined by the OSPL90 curve, measured with full-on gain and a 90 dB SPL input.",
+     "ses": "Maximum output is defined by the O S P L ninety curve, measured with full-on gain and a ninety decibel SPL input."
+    },
+    {
+     "yazi": "The frequency range lies between the points where the response curve crosses the line 20 decibels below the HFA value.",
+     "ses": "The frequency range lies between the points where the response curve crosses the line twenty decibels below the H F A value."
+    },
+    "Harmonic distortion and equivalent input noise show the aid's sound quality and soundness."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and quiz",
+   "soru": "HFA-OSPL90 is 116 dB SPL. Reference HFA gain?",
+   "secenekler": [
+    "17 dB",
+    "39 dB",
+    "56 dB",
+    "77 dB"
+   ],
+   "dogru": 1,
+   "aciklama": "Reference setting: HFA gain = HFA-OSPL90 minus _77 dB_; 116 minus 77 is 39 dB.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: an aid's HFA-OSPL90 is 116 dB SPL. About how many decibels is the HFA gain at the reference test setting?",
+     "ses": "Test yourself: an aid's H F A O S P L ninety is one hundred sixteen decibels SPL. About how many decibels is the H F A gain at the reference test setting?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: 39 decibels.",
+    {
+     "yazi": "At the reference setting, HFA gain is HFA-OSPL90 minus 77 decibels: 116 minus 77, which is 39 decibels.",
+     "ses": "At the reference setting, H F A gain is H F A O S P L ninety minus seventy seven decibels: one hundred sixteen minus seventy seven, which is thirty nine decibels."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Compression in Hearing Aids: *WDRC*, Kneepoint, Ratio",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at how the aid changes its gain with input level, in other words, compression.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

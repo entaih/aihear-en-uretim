@@ -1,0 +1,877 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D146_Enlarged_Vestibular_Aqueduct_EN",
+ "kapak": {
+  "ust": "LESSON 146",
+  "baslik": "Enlarged vestibular<br>*aqueduct*",
+  "alt": "EVA, SLC26A4 and Pendred syndrome",
+  "cizim": "vestibuler",
+  "ayar": {
+   "akuadukt": true
+  },
+  "vurgula": [
+   "vestibuler_akuadukt",
+   "endolenfatik_kese"
+  ]
+ },
+ "youtube": {
+  "baslik": "Enlarged Vestibular Aqueduct (EVA) | Lesson 146 | AIHEAR Audiology Academy",
+  "aciklama": "We explain the diagnostic criteria for enlarged vestibular aqueduct, the fluctuating and stepwise progressive hearing loss of childhood, and sudden drops after minor head trauma. We also cover the SLC26A4 gene, Pendred syndrome, the low-frequency air-bone gap and audiological monitoring.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Valvassori and Clemis, The large vestibular aqueduct syndrome, Laryngoscope (1978); Boston et al., The large vestibular aqueduct: a new definition based on audiologic and computed tomography correlation, Otolaryngology Head and Neck Surgery (2007); GeneReviews, Pendred Syndrome / Nonsyndromic Enlarged Vestibular Aqueduct; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "EVA",
+   "pediatricaudiology"
+  ],
+  "etiketler": [
+   "enlarged vestibular aqueduct",
+   "EVA",
+   "Pendred syndrome",
+   "SLC26A4",
+   "fluctuating hearing loss",
+   "progressive hearing loss",
+   "Mondini",
+   "hearing loss in children",
+   "third window",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 146",
+   "baslik": "Enlarged vestibular *aqueduct*",
+   "alt": "EVA, SLC26A4 and Pendred syndrome",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn about the enlarged vestibular aqueduct, an inner ear difference that is common in children.",
+    "We will cover the diagnostic criteria, the fluctuating and progressive hearing loss, the related genes and Pendred syndrome."
+   ]
+  },
+  {
+   "id": "anatomi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Structure and diagnosis",
+   "baslik": "The vestibular *aqueduct*",
+   "cizim": "vestibuler",
+   "ayar": {
+    "akuadukt": true,
+    "akuadukt_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "vestibuler_akuadukt",
+     "metin": "Vestibular aqueduct",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kanal",
+     "metin": "Endolymphatic duct",
+     "cumle": 1
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "metin": "Endolymphatic sac",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_akuadukt",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_akuadukt",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "vestibuler_akuadukt",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The vestibular aqueduct is a thin bony canal that runs from the inner ear into the cranial cavity.",
+    "It contains the endolymphatic duct, which leads to the endolymphatic sac on the back surface of the temporal bone.",
+    "A normal aqueduct is very narrow; its width at the midpoint is usually less than one millimeter.",
+    {
+     "yazi": "An enlarged vestibular aqueduct, or EVA, is one that is wider than normal.",
+     "ses": "An enlarged vestibular aqueduct, or E V A, is one that is wider than normal."
+    },
+    "It is one of the most common inner ear differences seen with sensorineural loss in children.",
+    "The enlargement is usually bilateral, but it can also be unilateral."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "tablo",
+   "bolum_no": "PART 1",
+   "bolum": "Structure and diagnosis",
+   "baslik": "Diagnostic *criteria*",
+   "sutunlar": [
+    "Criterion",
+    "Measured at",
+    "Enlarged if"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Valvassori (1978)",
+      "Midpoint",
+      "Over 1.5 mm"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Cincinnati (2007)",
+      "Midpoint",
+      "1 mm or more"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Cincinnati (2007)",
+      "Operculum",
+      "2 mm or more"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "EVA is diagnosed by measuring the aqueduct on computed tomography or magnetic resonance imaging.",
+     "ses": "E V A is diagnosed by measuring the aqueduct on computed tomography or magnetic resonance imaging."
+    },
+    {
+     "yazi": "By the classic Valvassori criterion, the aqueduct is enlarged if its midpoint width exceeds 1.5 millimeters.",
+     "ses": "By the classic Valvassori criterion, the aqueduct is enlarged if its midpoint width exceeds one point five millimeters."
+    },
+    {
+     "yazi": "The newer Cincinnati criteria count a midpoint width of 1 millimeter or more as enlarged.",
+     "ses": "The newer Cincinnati criteria count a midpoint width of one millimeter or more as enlarged."
+    },
+    {
+     "yazi": "Under the same criteria, the aqueduct is also enlarged if its operculum, the outer opening, is 2 millimeters or wider.",
+     "ses": "Under the same criteria, the aqueduct is also enlarged if its operculum, the outer opening, is two millimeters or wider."
+    },
+    "The midpoint lies halfway between the common crus and the outer opening of the aqueduct.",
+    "The choice of criterion changes the diagnosis rate; the images are interpreted by the radiologist and physician."
+   ]
+  },
+  {
+   "id": "eslik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Structure and diagnosis",
+   "baslik": "*Associated* cochlear differences",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "EVA alone",
+     "metin": "Cochlea looks normal",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Incomplete partition",
+     "metin": "Apical septa missing",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Large sac",
+     "metin": "Well shown on MRI",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Surgical relevance",
+     "metin": "Considered in planning",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "EVA can occur alone or together with other structural differences of the cochlea.",
+     "ses": "E V A can occur alone or together with other structural differences of the cochlea."
+    },
+    "The most common associated difference is incomplete partition type two, in which the apical septa of the cochlea are underdeveloped.",
+    "The classic name for this combination is the Mondini deformity.",
+    "The endolymphatic sac is often enlarged too; magnetic resonance imaging shows this well.",
+    "These structural differences are important information for the surgical team when planning a cochlear implant."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The hearing loss",
+   "baslik": "Stepwise *progression*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 2,
+     "max": 12,
+     "adim": 2,
+     "ad": "Age (years)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ters": true,
+     "ad": "Average threshold (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        2,
+        40
+       ],
+       [
+        4,
+        42
+       ],
+       [
+        5.4,
+        45
+       ],
+       [
+        5.5,
+        70
+       ],
+       [
+        6.5,
+        55
+       ],
+       [
+        8,
+        57
+       ],
+       [
+        9.2,
+        60
+       ],
+       [
+        9.3,
+        85
+       ],
+       [
+        10.5,
+        75
+       ],
+       [
+        12,
+        78
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 4,
+      "etiket": "example child",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "travma1",
+      "x": 5.5,
+      "y": 70,
+      "etiket": "minor head trauma",
+      "cumle": 3
+     },
+     {
+      "ad": "travma2",
+      "x": 9.3,
+      "y": 85,
+      "etiket": "second drop",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "duzelme",
+      "x": [
+       5.5,
+       6.5
+      ],
+      "renk": "sari",
+      "etiket": "partial recovery",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In EVA, the loss is often found at birth or in early childhood; sometimes it appears later in children who passed screening.",
+     "ses": "In E V A, the loss is often found at birth or in early childhood; sometimes it appears later in children who passed screening."
+    },
+    "This example graph shows one child's average threshold over the years.",
+    "The loss does not progress in a straight line; it worsens in steps, with sudden drops.",
+    "In this example, the two drops followed minor head injuries.",
+    "After a drop, hearing can partly recover, but it often does not fully return to its earlier level.",
+    "The degree of loss varies widely, from mild to profound."
+   ]
+  },
+  {
+   "id": "tetikleyici",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The hearing loss",
+   "baslik": "What *triggers* sudden drops",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Minor head trauma",
+     "metin": "Most often reported",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Pressure change",
+     "metin": "Diving, flying",
+     "cumle": 1
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Straining",
+     "metin": "Raised intracranial pressure",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Dizziness",
+     "metin": "May come with a drop",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Among the reported triggers of sudden drops, minor head trauma is the one most often named.",
+    "Pressure changes such as diving or flying can also be triggers.",
+    "Situations that raise intracranial pressure, such as heavy lifting and straining, have also been proposed.",
+    "This is why physicians give some families advice about head knocks and contact sports; this advice comes from the physician.",
+    {
+     "yazi": "Some drops come with dizziness; some children with EVA have vestibular symptoms.",
+     "ses": "Some drops come with dizziness; some children with E V A have vestibular symptoms."
+    }
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The hearing loss",
+   "baslik": "*Why* does the loss progress?",
+   "maddeler": [
+    {
+     "metin": "The mechanism is _not fully known_",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Width is a _marker_, not the cause",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "_Reflux_ of sac fluid",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Endolymph _ion balance_ is disturbed",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Pressure _passes easily_ to the cochlea",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "vurgula": [
+     {
+      "parca": "scala_media",
+      "cumle": 3
+     },
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "Why hearing declines in EVA is not fully known.",
+     "ses": "Why hearing declines in E V A is not fully known."
+    },
+    "The width of the aqueduct is not thought to explain the loss by itself; it is more a marker of the underlying problem.",
+    "One view is that protein-rich fluid from the sac flows back into the cochlea and damages hair cells.",
+    "Another proposed mechanism is a disturbed ionic composition and volume of endolymph when pendrin is lacking.",
+    "Easy transmission of pressure changes to the cochlea through the wide canal is another idea that tries to explain sudden drops."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "Example: an *EVA* audiogram",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Masked bone conduction_: right ear",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: air conduction",
+     "cumle": 4
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       55,
+       65,
+       75,
+       80
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       25,
+       30,
+       45,
+       60,
+       70
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       50,
+       55,
+       60,
+       70,
+       75
+      ],
+      "cumle": 4
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "aralik": {
+     "konum": [
+      0,
+      25,
+      50
+     ],
+     "etiket": "25 dB",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "In this example, the right ear shows a loss that increases toward the high frequencies.",
+    "At the low frequencies, masked bone conduction is better than air conduction, so there is an air-bone gap.",
+    "With a normal tympanogram and middle ear, this gap is explained by the third window effect of the wide aqueduct.",
+    "This finding rests on the same mechanism as the gap we saw in superior canal dehiscence in the previous lesson.",
+    {
+     "yazi": "The left ear also has a similar sensorineural loss; this example fits bilateral EVA.",
+     "ses": "The left ear also has a similar sensorineural loss; this example fits bilateral E V A."
+    },
+    "A low-frequency gap can be mistaken for middle ear fluid; the tympanogram and acoustic reflexes help tell them apart."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "*What* does the battery show?",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tympanogram",
+     "metin": "Usually normal",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "VEMP",
+     "metin": "Threshold may be low",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Serial audiograms",
+     "metin": "Document the drops",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Vestibular tests",
+     "metin": "If symptoms exist",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In an ear with EVA, the tympanogram is usually normal, which shows that the gap does not come from the middle ear.",
+     "ses": "In an ear with E V A, the tympanogram is usually normal, which shows that the gap does not come from the middle ear."
+    },
+    "The vestibular evoked myogenic potential, or VEMP, may appear at a lower threshold than normal because of the third window effect.",
+    "Serial audiograms document the drops and recoveries, which helps clarify the course.",
+    "For children who complain of dizziness, vestibular tests are also planned.",
+    "All findings are passed in full to the physician, who decides on imaging."
+   ]
+  },
+  {
+   "id": "genetik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Genetics and Pendred",
+   "baslik": "*SLC26A4* and pendrin",
+   "maddeler": [
+    {
+     "metin": "Best-known cause: _SLC26A4_",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "_Pendrin_: an ion transport protein",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_Autosomal recessive_ inheritance",
+     "cumle": 3,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Biallelic variants _vary by population_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "In some, _no cause_ is found",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PENDRIN",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Inner ear",
+      "metin": "Endolymph balance",
+      "cumle": 2
+     },
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Thyroid",
+      "metin": "Iodide transport",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The best-known genetic cause of EVA is changes in the SLC26A4 gene.",
+     "ses": "The best-known genetic cause of E V A is changes in the S L C twenty six A four gene."
+    },
+    "This gene codes for pendrin, a protein that transports ions in the inner ear and the thyroid gland.",
+    "In the inner ear, pendrin helps keep the ionic balance of endolymph; in the thyroid, it moves iodide for hormone production.",
+    "Inheritance is autosomal recessive; an affected child has changes in both copies of the gene.",
+    {
+     "yazi": "Some people with EVA have changes in both copies; this proportion varies markedly between populations.",
+     "ses": "Some people with E V A have changes in both copies; this proportion varies markedly between populations."
+    },
+    {
+     "yazi": "There are also people with EVA who have a change in only one copy, or none at all; other genes are being studied.",
+     "ses": "There are also people with E V A who have a change in only one copy, or none at all; other genes are being studied."
+    }
+   ]
+  },
+  {
+   "id": "pendred",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Genetics and Pendred",
+   "baslik": "*Pendred* syndrome",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Hearing loss",
+     "metin": "Often severe",
+     "cumle": 0
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "EVA",
+     "metin": "On imaging",
+     "cumle": 0
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Goiter",
+     "metin": "Late childhood, adolescence",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "SLC26A4",
+     "metin": "Autosomal recessive",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "SLC26A4 changes also cause the condition known as Pendred syndrome.",
+     "ses": "S L C twenty six A four changes also cause the condition known as Pendred syndrome."
+    },
+    "In this syndrome, sensorineural hearing loss is accompanied by an enlarged thyroid gland, or goiter.",
+    "The goiter is usually absent at birth; it most often appears in late childhood or adolescence.",
+    "Most patients have normal thyroid hormone levels; some, however, may develop hypothyroidism.",
+    "Pendred syndrome is considered one of the most common causes of syndromic hearing loss."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If hearing or device performance drops suddenly in a child with EVA, check the device, but always assess the hearing drop with a new audiogram.",
+   "cumleler": [
+    {
+     "yazi": "A clinical tip: the family of a child with EVA should know that hearing needs prompt testing after a drop.",
+     "ses": "A clinical tip: the family of a child with E V A should know that hearing needs prompt testing after a drop."
+    },
+    "If a sudden drop in performance is reported in a child who uses a device, check the device first, but also rule out a hearing drop.",
+    "Testing after a drop is an important starting point for the physician's follow-up and any treatment decision.",
+    "Comparing each new audiogram with the previous one reveals stepwise progression early."
+   ]
+  },
+  {
+   "id": "ekip",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Monitoring and rehabilitation",
+   "baslik": "Team *evaluation*",
+   "adimlar": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Audiology",
+     "metin": "Detailed hearing evaluation",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Imaging",
+     "metin": "Ordered by the physician",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetics",
+     "metin": "Testing and counseling",
+     "cumle": 3
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Thyroid",
+     "metin": "Planned by the physician",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Evaluating a child with EVA needs several specialties working together.",
+     "ses": "Evaluating a child with E V A needs several specialties working together."
+    },
+    "The audiologist carries out a detailed hearing evaluation and passes the findings to the physician.",
+    {
+     "yazi": "The physician orders imaging; EVA is diagnosed by imaging.",
+     "ses": "The physician orders imaging; E V A is diagnosed by imaging."
+    },
+    "Genetic testing and genetic counseling help clarify the cause and the recurrence risk in the family.",
+    "Thyroid evaluation for Pendred syndrome is also planned by the physician."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Monitoring and rehabilitation",
+   "baslik": "Monitoring and *rehabilitation*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Regular monitoring",
+     "metin": "Tracks the course",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aids",
+     "metin": "Update with each audiogram",
+     "cumle": 1
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Cochlear implant",
+     "metin": "Results usually good",
+     "cumle": 2
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Family",
+     "metin": "Realistic expectations",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In children with EVA, regular audiological monitoring is the basis for tracking the course of the loss.",
+     "ses": "In children with E V A, regular audiological monitoring is the basis for tracking the course of the loss."
+    },
+    "Hearing aids are used according to the degree of loss; the fitting is updated with each new audiogram.",
+    {
+     "yazi": "When the loss becomes profound, a cochlear implant is a good option; results in children with EVA are usually good.",
+     "ses": "When the loss becomes profound, a cochlear implant is a good option; results in children with E V A are usually good."
+    },
+    "If there are vestibular complaints, vestibular evaluation and, if needed, rehabilitation are added to the plan.",
+    "The family is told clearly that the loss may fluctuate and progress; this keeps expectations realistic."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Diagnosis: aqueduct measured _on imaging_",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Fluctuating, _stepwise_ progressive loss",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Low-frequency gap: a _third window_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_SLC26A4_ and Pendred syndrome",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "EVA is diagnosed with imaging; the cutoff is 1.5 millimeters by Valvassori and 1 millimeter by the Cincinnati criteria.",
+     "ses": "E V A is diagnosed with imaging; the cutoff is one point five millimeters by Valvassori and one millimeter by the Cincinnati criteria."
+    },
+    "The loss fluctuates and progresses in steps; sudden drops can follow minor head trauma.",
+    "A low-frequency air-bone gap despite a normal middle ear is explained by the third window effect.",
+    {
+     "yazi": "The best-known genetic cause of EVA is SLC26A4; the same gene also causes Pendred syndrome.",
+     "ses": "The best-known genetic cause of E V A is S L C twenty six A four; the same gene also causes Pendred syndrome."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What most often triggers a sudden drop in EVA?",
+   "secenekler": [
+    "Time in noise",
+    "Minor head trauma",
+    "Sleeping for long"
+   ],
+   "dogru": 1,
+   "aciklama": "In EVA, _minor head trauma_ is the most often reported trigger of sudden drops.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: In enlarged vestibular aqueduct, what most often triggers sudden drops in hearing?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: minor head trauma.",
+    "Pressure changes can also be triggers; hearing should be tested promptly after a drop."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Genetic* Hearing Loss: Syndromic and Nonsyndromic",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will examine genetic hearing loss and the distinction between syndromic and nonsyndromic forms.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

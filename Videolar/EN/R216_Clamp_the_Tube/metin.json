@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R216_Clamp_the_Tube_EN",
+ "kapak": {
+  "ust": "QUICK FACT #216",
+  "baslik": "*Clamp* the tube",
+  "alt": "Cochlear microphonic or artifact?",
+  "cizim": "abr",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can an ABR wave come from the cable, not the ear? #shorts",
+  "aciklama": "When polarity is reversed, both stimulus artifact and the cochlear microphonic invert, while the neural wave V does not. For a definite answer, a control recording is made with the insert sound tube clamped: an oscillation that disappears is a true cochlear microphonic, and one that stays is electrical artifact.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ABR",
+   "electrophysiology"
+  ],
+  "etiketler": [
+   "ABR artifact",
+   "cochlear microphonic",
+   "stimulus artifact",
+   "polarity",
+   "insert earphone",
+   "troubleshooting",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can an ABR wave come from the cable, not the ear?",
+  "bilgiler": [
+   "Reversing polarity inverts both the artifact and the cochlear microphonic.",
+   "A control run is recorded with the sound tube clamped.",
+   "What disappears is the cochlear microphonic; what stays is artifact."
+  ],
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "electrophysiology"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #216",
+   "metin": "From the ear, or *the cable?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can an ABR wave come from the cable, not the ear?"
+   ]
+  },
+  {
+   "id": "tup",
+   "tur": "zincir",
+   "baslik": "The *clamped tube* run",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Polarity",
+     "tr": "both invert",
+     "cumle": 1
+    },
+    {
+     "ad": "Tube",
+     "tr": "no sound",
+     "cumle": 2
+    },
+    {
+     "ad": "Result",
+     "tr": "CM vanishes",
+     "cumle": 3
+    }
+   ],
+   "alt": "No sound, _no real response_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Reversing polarity inverts both stimulus artifact and the cochlear microphonic.",
+    "So polarity alone cannot tell them apart.",
+    "To be sure, record a control run with the sound tube clamped.",
+    "An oscillation that disappears is a true cochlear microphonic.",
+    "One that stays unchanged is electrical artifact."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D132",
+ "kaynak_baslik": "ABR Artifacts and Troubleshooting"
+}

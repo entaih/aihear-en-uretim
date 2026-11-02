@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R218_The_Stenger_Test_EN",
+ "kapak": {
+  "ust": "QUICK FACT #218",
+  "baslik": "The *Stenger* test",
+  "alt": "One tone, both ears at once",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "If the same tone reaches both ears, where is it heard? #shorts",
+  "aciklama": "The Stenger test rests on a simple perceptual principle: when the same tone is presented to both ears at once, a person hears it only in the ear where it seems louder. If someone claiming a one-sided loss stops responding, the result is called a positive Stenger and indicates a nonorganic component. The result is always interpreted with other tests.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiometry",
+   "hearing"
+  ],
+  "etiketler": [
+   "Stenger test",
+   "pseudohypacusis",
+   "nonorganic hearing loss",
+   "functional hearing loss",
+   "unilateral hearing loss",
+   "pure-tone audiometry",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "If the same tone reaches both ears, where is it heard?",
+  "bilgiler": [
+   "With the same tone in both ears, it is heard only in the louder ear.",
+   "Better ear: 10 dB above threshold; poorer ear: 10 dB below the claim.",
+   "If responses stop, a positive Stenger indicates a nonorganic component."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #218",
+   "metin": "Which ear *hears* the tone?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "If the same tone reaches both ears, where is it heard?"
+   ]
+  },
+  {
+   "id": "stenger",
+   "tur": "zincir",
+   "baslik": "The *Stenger* test",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Good ear",
+     "tr": "10 dB above",
+     "cumle": 1
+    },
+    {
+     "ad": "Poor ear",
+     "tr": "10 dB below",
+     "cumle": 2
+    },
+    {
+     "ad": "Response",
+     "tr": "stops: positive",
+     "cumle": 3
+    }
+   ],
+   "alt": "The poorer ear _hears better than claimed_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Same tone in both ears: it is heard only where louder.",
+    "The better ear gets a tone about ten decibels above threshold.",
+    "The poorer ear gets it ten decibels below the claimed threshold.",
+    "If responses stop, a positive Stenger indicates a nonorganic component.",
+    "The result is always read with other tests, without blame."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D136",
+ "kaynak_baslik": "Recognizing Pseudohypacusis (Nonorganic Loss)"
+}

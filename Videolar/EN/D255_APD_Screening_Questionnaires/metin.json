@@ -1,0 +1,672 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D255_APD_Screening_Questionnaires_EN",
+ "kapak": {
+  "ust": "LESSON 255",
+  "baslik": "APD *screening*<br>in children",
+  "alt": "Screening tests and questionnaires",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "isitme_korteksi"
+  ]
+ },
+ "youtube": {
+  "baslik": "APD Screening and Questionnaires for Children | Lesson 255 | AIHEAR Audiology Academy",
+  "aciklama": "When auditory processing disorder is suspected, screening helps select the children who need a full evaluation. In this lesson we cover the difference between screening and diagnosis, screening batteries such as SCAN, teacher and parent questionnaires such as CHAPS and SIFTER, adaptation to Turkish, the age limit and the limitations of screening.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); Keith, SCAN-3 Tests for Auditory Processing Disorders (2009); Smoski, Brunt and Tannahill, Children's Auditory Performance Scale (CHAPS); Baydan, Aslan, Tokgöz Yılmaz and Yalçınkaya, Children's Auditory Performance Scale: Turkish validity and reliability, Hacettepe Üniversitesi Sağlık Bilimleri Fakültesi Dergisi (2020); Wilson et al., The CHAPS, SIFTER, and TAPS-R as predictors of (C)AP skills and (C)APD, Journal of Speech, Language, and Hearing Research (2011).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "APD",
+   "auditoryprocessing"
+  ],
+  "etiketler": [
+   "APD screening",
+   "auditory processing disorder",
+   "SCAN-3",
+   "CHAPS",
+   "Children's Auditory Performance Scale",
+   "SIFTER",
+   "screening",
+   "teacher questionnaire",
+   "pediatric audiology",
+   "ECLiPS",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 255",
+   "baslik": "APD *screening* in children",
+   "alt": "Screening tests and questionnaires",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the screening methods used to identify children with suspected auditory processing disorder, or APD.",
+    "We will cover screening tests, teacher and parent questionnaires, the age limit and the limitations of these tools."
+   ]
+  },
+  {
+   "id": "tarama_tani",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Screening and diagnosis",
+   "baslik": "Screening or *diagnosis?*",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Screening",
+     "cumle": 0,
+     "metin": "Selects who to evaluate"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Diagnosis",
+     "cumle": 3,
+     "metin": "Test battery and team"
+    }
+   ],
+   "cumleler": [
+    "Screening is a brief procedure to identify children who need a detailed evaluation.",
+    "Screening is quick, can be given to many children and may not need a special setting.",
+    "But a screening result is not a diagnosis; it only shows a risk or a need.",
+    "Diagnosis is made with a test battery given after peripheral evaluation, and with a team assessment.",
+    "Not every child who fails screening has APD; there may be other causes, such as attention, language or hearing.",
+    "For a child who passes screening, evaluation may still be considered if complaints continue."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Screening and diagnosis",
+   "baslik": "From concern to *evaluation*",
+   "adimlar": [
+    {
+     "ikon": "okul",
+     "baslik": "Concern",
+     "cumle": 0,
+     "metin": "Teacher or family"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Peripheral hearing",
+     "cumle": 1,
+     "metin": "Hearing test first"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Screening",
+     "cumle": 2,
+     "metin": "Questionnaire and short test"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Battery",
+     "cumle": 4,
+     "metin": "Diagnostic tests"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Team",
+     "cumle": 5,
+     "metin": "Language, attention, learning"
+    }
+   ],
+   "cumleler": [
+    "The process usually starts with a concern from the teacher or family about the child's listening behavior.",
+    "The first step is always a peripheral hearing evaluation, including pure tone, speech and middle ear tests.",
+    "If peripheral hearing is normal, teacher and parent questionnaires and short screening tests can be given.",
+    "Screening results help decide whether a detailed evaluation is needed.",
+    "If needed, an age-appropriate diagnostic test battery is planned.",
+    "The child is also referred to the relevant specialists for assessment of language, attention and learning."
+   ]
+  },
+  {
+   "id": "scan",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Screening tests",
+   "baslik": "A screening battery: *SCAN-3*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Gap detection",
+     "cumle": 2,
+     "metin": "Temporal screening"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Auditory figure-ground",
+     "cumle": 3,
+     "metin": "Background noise"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Competing words",
+     "cumle": 4,
+     "metin": "Dichotic task"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Filtered words",
+     "cumle": 5,
+     "metin": "Diagnostic subtest"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Competing sentences",
+     "cumle": 5,
+     "metin": "Diagnostic subtest"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Time-compressed sentences",
+     "cumle": 6,
+     "metin": "Supplementary subtest"
+    }
+   ],
+   "cumleler": [
+    "SCAN, developed by Keith, is one of the best-known auditory processing screening batteries.",
+    "The children's version of the current edition covers about ages five to twelve, and the adolescent and adult version ages thirteen to fifty.",
+    "The screening section includes a gap detection subtest that measures noticing very short silent intervals.",
+    "In the auditory figure-ground subtest, the child repeats words while speech noise plays in the background.",
+    "In the competing words subtest, different words are given to the two ears at the same time.",
+    "The diagnostic section includes subtests such as filtered words and competing sentences.",
+    "Time-compressed, that is, sped-up, sentences can be used as a supplementary subtest."
+   ]
+  },
+  {
+   "id": "diger_tarama",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Screening tests",
+   "baslik": "Other *short* tools",
+   "maddeler": [
+    {
+     "metin": "Dichotic digits: short and quick",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Gap detection: RGDT",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Speech in noise tests",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Computer and tablet-based tools",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Language version and _norms_ essential",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "IN SCREENING",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Short",
+      "cumle": 0,
+      "metin": "A few minutes"
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Simple",
+      "cumle": 1,
+      "metin": "Easy instructions"
+     },
+     {
+      "ikon": "kitap",
+      "baslik": "Normed",
+      "cumle": 4,
+      "metin": "By age"
+     }
+    ]
+   },
+   "cumleler": [
+    "Because it is short, the dichotic digits test is also often used for screening.",
+    "The random gap detection test, or RGDT, screens temporal resolution in a few minutes.",
+    "Speech in noise tests are valuable because they directly measure the situation children complain about most.",
+    "In recent years, screening tools given on a computer or tablet have also been developed.",
+    "Whatever tool is chosen, it should have a version in the child's language and age-based norms."
+   ]
+  },
+  {
+   "id": "anketler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Questionnaires",
+   "baslik": "Teacher and parent *questionnaires*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "CHAPS",
+     "cumle": 1,
+     "metin": "Six listening conditions"
+    },
+    {
+     "ikon": "okul",
+     "baslik": "SIFTER",
+     "cumle": 3,
+     "metin": "Teacher, school performance"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Fisher's checklist",
+     "cumle": 4,
+     "metin": "Short checked items"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "ECLiPS",
+     "cumle": 5,
+     "metin": "Listening and daily skills"
+    }
+   ],
+   "cumleler": [
+    "Questionnaires systematically gather the knowledge of the teacher and family who observe the child every day.",
+    "The Children's Auditory Performance Scale, or CHAPS, is one of the most widely used questionnaires.",
+    "CHAPS rates the child's listening behavior in different listening conditions compared with peers.",
+    "SIFTER is a short screening tool filled in by the teacher that asks about school performance and class behavior as well as listening.",
+    "Fisher's auditory problems checklist consists of short items checked by the teacher.",
+    {
+     "yazi": "Newer scales such as ECLiPS consider listening together with language, memory and daily living skills.",
+     "ses": "Newer scales such as eclipse consider listening together with language, memory and daily living skills."
+    },
+    "Questionnaires are quick and show the child's real-life difficulty; but they do not make the diagnosis on their own."
+   ]
+  },
+  {
+   "id": "chaps",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Questionnaires",
+   "baslik": "CHAPS: a *listening profile*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "yazilar": {
+      "1": "Quiet",
+      "2": "Ideal",
+      "3": "Multiple inputs",
+      "4": "Noise",
+      "5": "Memory",
+      "6": "Attention"
+     },
+     "ad": "Listening condition"
+    },
+    "y": {
+     "min": -5,
+     "max": 1,
+     "adim": 1,
+     "ad": "Mean score"
+    },
+    "seriler": [
+     {
+      "ad": "profil",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        -0.5
+       ],
+       [
+        3,
+        -3
+       ],
+       [
+        4,
+        -3.5
+       ],
+       [
+        5,
+        -2
+       ],
+       [
+        6,
+        -2.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "example child",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yasitlar",
+      "x": 0.5,
+      "y": 0,
+      "cizgi": "yatay",
+      "etiket": "same as peers",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "36 items, _6 conditions_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "From plus 1 to minus 5",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "The profile _guides_ recommendations",
+     "cumle": 6,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    "CHAPS has thirty six items, grouped into six listening conditions.",
+    "These are quiet, ideal, multiple inputs, noise, auditory memory and sequencing, and auditory attention span.",
+    "For each item, the teacher or parent compares the child with children of similar age and background.",
+    "Scores range from plus one, less difficulty than peers, to minus five, unable to function in that condition.",
+    "In this example profile, the child is close to peers in quiet and ideal settings, but struggles clearly in noise and with multiple inputs.",
+    "If the total score falls below the cutoff on the form, it is taken as a risk indicator for detailed evaluation.",
+    "The shape of the profile is also informative; the conditions where difficulty occurs guide recommendations for the environment."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Questionnaires",
+   "baslik": "Using questionnaires *well*",
+   "adimlar": [
+    {
+     "ikon": "okul",
+     "baslik": "Two sources",
+     "cumle": 0,
+     "metin": "Teacher and family separately"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Enough time",
+     "cumle": 1,
+     "metin": "Someone who knows the child"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Compare",
+     "cumle": 2,
+     "metin": "Shared and different points"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Talk",
+     "cumle": 4,
+     "metin": "Clarify with examples"
+    }
+   ],
+   "cumleler": [
+    "If possible, have both the teacher and the family fill in the questionnaire, independently of each other.",
+    "The teacher having observed the child for long enough makes the answers more reliable.",
+    "Difficulties common to both forms show the situations where the child truly struggles.",
+    "Differences between forms are also informative; for example, difficulty may appear only in a crowded classroom.",
+    "Discuss the results with the person who filled in the form, and clarify unclear answers with concrete examples.",
+    "The same questionnaire can be filled in again after intervention to track change."
+   ]
+  },
+  {
+   "id": "turkce",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Questionnaires",
+   "baslik": "The situation *in Turkish*",
+   "maddeler": [
+    {
+     "metin": "CHAPS: Turkish validity study _2020_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Translation alone is _not enough_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Validity, reliability and norms needed",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Check the source before use",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ADAPTATION",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Translation",
+      "cumle": 1,
+      "metin": "Language and cultural fit"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Validity",
+      "cumle": 2,
+      "metin": "Reliability analyses"
+     },
+     {
+      "ikon": "kitap",
+      "baslik": "Norms",
+      "cumle": 3,
+      "metin": "Age-based data"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In Türkiye, a Turkish validity and reliability study of the CHAPS scale was published in 2020.",
+     "ses": "In Türkiye, a Turkish validity and reliability study of the CHAPS scale was published in twenty twenty."
+    },
+    "Simply translating a questionnaire into another language does not make it usable in the clinic.",
+    "Adaptation requires linguistic and cultural fit, validity and reliability analyses, and if possible normative data.",
+    "Normative data for Turkish children are reported to be still limited for many tools.",
+    "So for every tool you use, check its adaptation study for your language and the age group it covered."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Limitations and age",
+   "baslik": "The *limits* of screening",
+   "maddeler": [
+    {
+     "metin": "_Weak_ link between questionnaire and test",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Does not separate APD, ADHD, language",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "The observer's view matters",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "False positives and false negatives",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Outcome: a _referral_ decision",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Studies have shown that the relationship between questionnaire scores and diagnostic test results is often weak.",
+    "So questionnaires are recommended not as the sole basis for referral, but to make concerns visible.",
+    "The same listening difficulties are also seen in attention deficit hyperactivity disorder, or ADHD, and in language disorder.",
+    "The expectations and experience of the teacher or parent can also affect the answers.",
+    "Because short screening tests are affected by attention and motivation, they can give false positive and false negative results.",
+    "In the end, screening only supports the decision to refer for detailed evaluation."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Limitations and age",
+   "baslik": "*What* to do at which age?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Under age 7",
+     "cumle": 0,
+     "metin": "Observation, questionnaires, support"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "From age 7",
+     "cumle": 2,
+     "metin": "Diagnostic battery"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Adolescents and adults",
+     "cumle": 4,
+     "metin": "Adult versions"
+    }
+   ],
+   "cumleler": [
+    "In children younger than seven, results of central auditory tests vary greatly.",
+    "At these ages, observation, questionnaires and environmental changes come first; some screening tools can be used from age five.",
+    "Many guidelines recommend giving the diagnostic test battery from about age seven.",
+    "The American Academy of Audiology guideline asks for great caution with behavioral diagnostic tests in children under seven or eight.",
+    "For adolescents and adults, versions with separate norms are used.",
+    "If there is concern about a child below the age limit, the child is monitored and evaluation is planned at a suitable age."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Do not present a screening result to families as a \"diagnosis.\" State clearly that it only shows the need for a detailed evaluation.",
+   "cumleler": [
+    "A tip from the clinic: when explaining a screening result to the family, take care not to use the word diagnosis.",
+    "Failing screening does not mean the child has APD; it only shows that a detailed evaluation is needed.",
+    "Explain clearly to the family the next steps, which specialists will assess the child and the expected timeline.",
+    "Meanwhile, harmless and useful classroom changes, such as sitting in the front row, can start right away."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Screening is _not a diagnosis_",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "SCAN-3: screening with short subtests",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "CHAPS: listening profile in six conditions",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Diagnostic battery from about age 7",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Screening selects children who need a detailed evaluation; diagnosis is made with a test battery and team assessment.",
+    "Screening batteries such as SCAN include short subtests such as gap detection, auditory figure-ground and competing words.",
+    "Questionnaires such as CHAPS gather teacher and family observations by comparing the child with peers in six listening conditions.",
+    "Diagnostic tests are usually given from about age seven; in younger children, observation and environmental support come first."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which statement is correct for a child who fails screening?",
+   "secenekler": [
+    "Gets a definite APD diagnosis",
+    "Needs a detailed evaluation",
+    "Training starts right away",
+    "Tests are unnecessary"
+   ],
+   "dogru": 1,
+   "aciklama": "Screening only shows the need for a _detailed evaluation_; diagnosis is made with a battery and a team.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which statement is correct for a child who fails auditory processing screening?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a detailed evaluation is needed.",
+    "A screening result is not a diagnosis; other causes such as attention, language and hearing are also considered in the detailed evaluation."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "APD Management: Environment, *Remote Mics*, Training",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will see environmental changes, remote microphones and auditory training for children with processing difficulties.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

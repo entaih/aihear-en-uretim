@@ -1,0 +1,106 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R305_No_Response_Is_Not_Proof_EN",
+ "kapak": {
+  "ust": "QUICK FACT #305",
+  "baslik": "Aided: *m, g, t*",
+  "alt": "Aided cortical testing",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "No cortical response with the aid: does the baby not hear? #shorts",
+  "aciklama": "In aided cortical testing, the baby wears the hearing aid or implant while short speech sounds such as m, g and t are presented at soft, average and loud speech levels. A response is strong evidence that the sound reached the cortex, but no response does not prove the sound was not heard: even some normal-hearing babies show no response to soft sounds.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "CAEP",
+   "hearingaids"
+  ],
+  "etiketler": [
+   "aided cortical testing",
+   "CAEP",
+   "cortical response",
+   "hearing aid verification",
+   "cochlear implant",
+   "pediatric audiology",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "No cortical response with the aid: does the baby not hear?",
+  "bilgiler": [
+   "The baby is tested wearing the hearing aid or implant.",
+   "A response is strong evidence the sound reached the cortex.",
+   "No response does not prove the sound was unheard."
+  ],
+  "hashtag": [
+   "audiology",
+   "CAEP",
+   "hearingaids"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #305",
+   "metin": "No response, *not hearing?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "No cortical response with the aid: does the baby not hear?"
+   ]
+  },
+  {
+   "id": "sesler",
+   "tur": "zincir",
+   "baslik": "Three sounds, *three regions*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "m",
+     "tr": "low",
+     "cumle": 1
+    },
+    {
+     "ad": "g",
+     "tr": "mid",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "t",
+     "tr": "high",
+     "cumle": 1,
+     "gecikme": 1.6
+    }
+   ],
+   "alt": "Absence _is not proof_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "In aided cortical testing, the baby wears the hearing aid or implant.",
+    "A short m covers low, g mid, and t high frequencies.",
+    "A cortical response shows that sound reached the cortex through the device.",
+    "But no response does not prove the sound was not heard.",
+    "Even some normal-hearing babies show no response to soft sounds."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D201",
+ "kaynak_baslik": "Cortical Auditory Evoked Potentials: P1-N1-P2"
+}

@@ -1,0 +1,93 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R275_An_Aids_Own_Hiss_EN",
+ "kapak": {
+  "ust": "QUICK FACT #275",
+  "baslik": "An aid's *own hiss*",
+  "alt": "Equivalent input noise",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does a hearing aid make noise even with no sound coming in? #shorts",
+  "aciklama": "Every hearing aid produces a little noise from its microphone and circuits, even with no input; equivalent input noise expresses this internal noise as if it were an outside sound at the input. People with near-normal low-frequency hearing may hear it as hiss, especially in quiet and with open fits.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "electroacoustics"
+  ],
+  "etiketler": [
+   "equivalent input noise",
+   "electroacoustic analysis",
+   "test box",
+   "ANSI S3.22",
+   "open fit",
+   "hearing aid",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does a hearing aid make noise even with no sound coming in?",
+  "bilgiler": [
+   "Every aid produces a little noise, even with no input.",
+   "Calculation: subtract the gain from the noise measured without input.",
+   "In quiet and with open fits, it may sound like hiss."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "electroacoustics"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #275",
+   "metin": "A hiss *in silence?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does a hearing aid make noise even with no sound coming in?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Example *equivalent input* noise",
+   "sayi": "20",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Every aid makes a little noise from its microphone and circuits.",
+    "Equivalent input noise expresses that internal noise as an outside sound.",
+    "The aid's gain is subtracted from the noise measured without input.",
+    {
+     "yazi": "Output noise 58, gain 38 dB: the result is 20 dB SPL.",
+     "ses": "Output noise fifty-eight, gain thirty-eight decibels: the result is twenty decibels SPL."
+    },
+    "Those with near-normal lows may hear hiss, especially in quiet open fits."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D180",
+ "kaynak_baslik": "Electroacoustics: Gain, Maximum Output, Response"
+}

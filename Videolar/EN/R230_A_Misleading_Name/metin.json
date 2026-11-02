@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R230_A_Misleading_Name_EN",
+ "kapak": {
+  "ust": "QUICK FACT #230",
+  "baslik": "A *misleading* name",
+  "alt": "Where vestibular schwannoma really arises",
+  "cizim": "ic_kulak_yolu_dibi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why is acoustic neuroma the wrong name? #shorts",
+  "aciklama": "The old name of vestibular schwannoma is acoustic neuroma, but the tumor does not arise from neurons; it usually grows from the Schwann cells of the vestibular nerve. Although a cochlear nerve origin is rare, the most common symptom is one-sided hearing loss; with unexplained asymmetry, the person is referred to an ENT physician, who decides on imaging.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "retrocochlear"
+  ],
+  "etiketler": [
+   "vestibular schwannoma",
+   "acoustic neuroma",
+   "Schwann cell",
+   "vestibular nerve",
+   "asymmetric hearing loss",
+   "retrocochlear",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why is acoustic neuroma the wrong name?",
+  "bilgiler": [
+   "The tumor arises from Schwann cells, not neurons.",
+   "It usually starts on the vestibular nerve, yet hearing loss is the top symptom.",
+   "With unexplained asymmetry, refer to an ENT physician."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "retrocochlear"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #230",
+   "metin": "Why is acoustic neuroma *wrong?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why is acoustic neuroma the wrong name?"
+   ]
+  },
+  {
+   "id": "koken",
+   "tur": "zincir",
+   "baslik": "Where does it *arise?*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Schwann",
+     "tr": "myelin cell",
+     "cumle": 1
+    },
+    {
+     "ad": "Vestibular nerve",
+     "tr": "most often",
+     "cumle": 2
+    },
+    {
+     "ad": "Hearing loss",
+     "tr": "top symptom",
+     "cumle": 3
+    }
+   ],
+   "alt": "Correct name: _vestibular schwannoma_",
+   "alt_cumle": 1,
+   "cumleler": [
+    "This tumor's old name is acoustic neuroma.",
+    "But it arises from myelin-forming Schwann cells, not neurons.",
+    "It usually starts on the vestibular nerve, rarely the cochlear nerve.",
+    "Even so, the most common symptom is one-sided hearing loss.",
+    "With unexplained asymmetry, refer to an ENT physician, who decides on imaging."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D143",
+ "kaynak_baslik": "Vestibular Schwannoma and CPA Tumors"
+}

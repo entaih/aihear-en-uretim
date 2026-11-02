@@ -1,0 +1,236 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R400_MMN_Needs_No_Attention_EN",
+ "kapak": {
+  "ust": "QUICK FACT #400",
+  "baslik": "Discrimination *without attention*",
+  "alt": "Mismatch negativity, MMN",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -100,
+    "max": 600,
+    "ad": "Time (ms)",
+    "isaretler": [
+     0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600
+    ]
+   },
+   "y": {
+    "min": -6,
+    "max": 12,
+    "adim": 3,
+    "ad": "Amplitude (µV)"
+   },
+   "seriler": [
+    {
+     "ad": "sik",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -3.5
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       250,
+       0.5
+      ],
+      [
+       350,
+       0.5
+      ],
+      [
+       450,
+       0
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "etiket": "frequent stimulus",
+     "cumle": 1
+    },
+    {
+     "ad": "seyrek",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -4
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       230,
+       -1
+      ],
+      [
+       320,
+       9
+      ],
+      [
+       400,
+       5
+      ],
+      [
+       480,
+       1
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kalin": true,
+     "etiket": "rare target",
+     "cumle": 2
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "p300",
+     "x": 320,
+     "y": 9,
+     "etiket": "P300",
+     "dus": "x",
+     "cumle": 3
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can the brain catch the difference between two sounds without your attention? #shorts",
+  "aciklama": "Mismatch negativity (MMN) is the negativity at about 100 to 250 milliseconds in the difference wave, obtained by subtracting the response to the standard sound from the response to a rare, different deviant sound inserted among frequent ones. Its most important feature is that it needs no attention; it can be recorded while the person watches a silent film, and it has been recorded even in newborns.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "electrophysiology",
+   "brain"
+  ],
+  "etiketler": [
+   "mismatch negativity",
+   "MMN",
+   "oddball paradigm",
+   "difference wave",
+   "cognitive potentials",
+   "auditory discrimination",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can the brain catch the difference between two sounds without your attention?",
+  "bilgiler": [
+   "A rare, different sound is inserted among frequent sounds.",
+   "The deviant minus standard difference shows a negative wave.",
+   "It needs no attention; it has been recorded even in newborns."
+  ],
+  "hashtag": [
+   "audiology",
+   "electrophysiology",
+   "brain"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #400",
+   "metin": "Attention *needed?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can the brain catch the difference between two sounds without your attention?"
+   ]
+  },
+  {
+   "id": "mmn",
+   "tur": "zincir",
+   "baslik": "Mismatch *negativity*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Sequence",
+     "tr": "frequent and rare",
+     "cumle": 1
+    },
+    {
+     "ad": "Difference wave",
+     "tr": "deviant minus standard",
+     "cumle": 2
+    },
+    {
+     "ad": "Attention",
+     "tr": "not needed",
+     "cumle": 3
+    }
+   ],
+   "alt": "Even in _newborns_",
+   "alt_cumle": 4,
+   "cumleler": [
+    {
+     "yazi": "Mismatch negativity, or MMN, shows automatic discrimination.",
+     "ses": "Mismatch negativity, or M M N, shows automatic discrimination."
+    },
+    "A rare, different sound is inserted among a frequent sound.",
+    "Subtracting the standard response from the deviant gives the difference wave.",
+    "It can be recorded even while the person watches a silent film.",
+    "It has been recorded even in newborns."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D202",
+ "kaynak_baslik": "P300 and MMN: Cognitive Auditory Potentials"
+}

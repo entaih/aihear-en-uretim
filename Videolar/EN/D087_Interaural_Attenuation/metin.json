@@ -1,0 +1,163 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D087_Interaural_Attenuation_EN",
+  "kapak": {
+    "ust": "LESSON 87",
+    "baslik": "Why do<br>we *mask?*",
+    "alt": "Cross-hearing and interaural attenuation",
+    "cizim": "maskeleme"
+  },
+  "youtube": {
+    "baslik": "Why We Mask: Interaural Attenuation Explained | Lesson 87 | AIHEAR Audiology Academy",
+    "aciklama": "Sound delivered to the test ear can cross the skull to the opposite cochlea and lead to false thresholds. In this lesson, we use sample audiograms to look at cross-hearing, the shadow curve, interaural attenuation (IA) values and the advantages of insert earphones.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "masking", "audiometry"],
+    "etiketler": ["clinical masking", "interaural attenuation", "cross-hearing", "shadow curve", "insert earphones", "supra-aural earphones", "masked thresholds", "pure tone audiometry", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 87", "baslik": "Why We *Mask*: Interaural Attenuation Explained", "alt": "Cross-hearing, the shadow curve and interaural attenuation",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn why clinical masking is needed and what interaural attenuation means.",
+       "We will also learn to recognize the shadow curve and see why insert earphones have an advantage."]},
+
+    {"id": "sorun", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Cross-hearing", "baslik": "Sound crosses to the *other ear*", "maddeler": [{"metin": "The test sound _vibrates_ the skull", "cumle": 1, "ikon": "ses_dalgasi"}, {"metin": "The other cochlea may _detect_ it", "cumle": 2, "ikon": "kulak"}, {"metin": "_Cross-hearing_", "cumle": 3, "ikon": "dikkat"}, {"metin": "Result: a _false_ threshold", "cumle": 5, "ikon": "yanlis"}], "yan": {"tur": "cizim", "cizim": "maskeleme", "ayar": {"ia_db": 40}, "cumle": 0, "vurgula": [{"parca": "test_kulagi", "cumle": 1}, {"parca": "kafatasi", "cumle": 1}, {"parca": "karsi_kulak", "cumle": 2}], "etiketler": [{"parca": "test_kulagi", "metin": "Test ear", "cumle": 1}, {"parca": "karsi_kulak", "metin": "The other cochlea hears", "cumle": 2}]},
+     "cumleler": [
+       "In pure tone audiometry, we want to find the threshold of each ear separately.",
+       "But when a loud enough sound is delivered to the test ear, the earphone also sets the skull vibrating.",
+       "This vibration reaches the cochlea on the opposite side by bone conduction, and that cochlea may detect the sound.",
+       "This is called cross-hearing.",
+       "The patient reports hearing the sound, but actually heard it with the opposite ear, not with the ear being tested.",
+       "So the threshold we record is not the true threshold of the test ear.",
+       "If hearing in the two ears is similar, this problem rarely arises; the real risk comes when there is a large difference between the ears."]},
+
+    {"id": "zayiflama", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Cross-hearing", "baslik": "Interaural *attenuation*", "cizim": "maskeleme", "ayar": {"ia_db": 40}, "vurgula": [{"parca": "test_kulagi", "cumle": 0}, {"parca": "kafatasi", "cumle": 1}, {"parca": "karsi_kulak", "cumle": 2}, {"parca": "maskeleme_gurultusu", "cumle": 6}], "etiketler": [{"parca": "test_kulagi", "metin": "test ear", "cumle": 0}, {"parca": "kafatasi", "metin": "skull", "cumle": 1}, {"parca": "karsi_kulak", "metin": "opposite ear", "cumle": 2}, {"parca": "kulaklar_arasi_zayiflama", "metin": "IA: about 40 dB", "cumle": 3}, {"parca": "maskeleme_gurultusu", "metin": "masking noise", "cumle": 6}], "notlar": [{"metin": "IA: intensity lost while crossing", "cumle": 3, "ikon": "grafik"}, {"metin": "70 dB minus 40 dB: 30 dB crosses", "cumle": 4, "ikon": "grafik"}, {"metin": "Solution: noise in the opposite ear", "cumle": 6, "ikon": "gurultu"}],
+     "cumleler": [
+       "The diagram shows the test ear and the opposite ear.",
+       "Sound delivered to the test ear is weakened to some extent as it crosses the skull to the other side.",
+       "The sound reaching the opposite cochlea is lower in intensity than the original sound.",
+       "This amount of weakening is called interaural attenuation, or IA.",
+       "For example, if IA is forty decibels, a seventy decibel sound in the test ear reaches the opposite cochlea at about thirty decibels.",
+       "If the bone conduction threshold of the opposite ear is thirty decibels or better, this sound can be heard there.",
+       "To prevent this, we deliver noise to the opposite ear; this procedure is called clinical masking."]},
+
+    {"id": "sonuclar", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Cross-hearing", "baslik": "False threshold, *wrong decision*", "maddeler": [{"metin": "The loss looks _milder_ than it is", "cumle": 0, "ikon": "odyogram"}, {"metin": "A false _air-bone gap_", "cumle": 2, "ikon": "uyari"}, {"metin": "Wrong _referral_ and device decisions", "cumle": 3, "ikon": "isitme_cihazi"}, {"metin": "A one-sided loss is _missed_", "cumle": 4, "ikon": "goz"}],
+     "cumleler": [
+       "If cross-hearing goes unnoticed, the loss in the poorer ear looks milder than it really is.",
+       "For example, an ear with no hearing at all can be recorded as if it had a moderate loss.",
+       "Unmasked bone conduction responses can make a sensorineural loss look like a conductive loss.",
+       "These errors can lead to wrong referrals, unsuitable hearing aid decisions and unnecessary investigations.",
+       "Because severe one-sided losses may need further investigation, an accurate threshold in that ear matters even more.",
+       "In short, masking is the basic step that guarantees each threshold on the audiogram really belongs to the ear it is shown for."]},
+
+    {"id": "golge", "tur": "odyogram", "bolum_no": "PART 2", "bolum": "The shadow curve", "baslik": "The *shadow* curve", "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Right_: normal hearing", "cumle": 0}, {"isaret": "X", "renk": "sol", "metin": "_Left_: unmasked air conduction", "cumle": 2}, {"isaret": "&gt;", "renk": "sol", "metin": "_Left_: unmasked bone conduction", "cumle": 5}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [10, 10, 10, 15, 15, 20], "cumle": 0}, {"kulak": "sol", "tip": "hava", "degerler": [55, 60, 60, 65, 65, 70], "cumle": 2}, {"kulak": "sol", "tip": "kemik", "degerler": [10, 10, 10, 15, 15], "cumle": 5}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "Now let us consider an example: in this example, the right ear hears normally.",
+       "The left ear has no hearing at all; the left cochlea does not respond to any stimulus.",
+       "When we test the left ear without masking, we still get responses between fifty five and seventy decibels.",
+       "These responses do not belong to the left ear; the sound crossed the skull and was heard by the right cochlea.",
+       "The curve formed by these false thresholds is called the shadow curve; it follows the good ear's curve about IA lower.",
+       "The unmasked bone conduction thresholds of the left ear come out almost the same as the right ear.",
+       "This picture can be misread as a conductive loss in the left ear, although the left ear has no hearing at all.",
+       "Masking is done precisely to prevent serious errors of interpretation like this."]},
+
+    {"id": "maskeli", "tur": "odyogram", "bolum_no": "PART 2", "bolum": "The shadow curve", "baslik": "The *true* picture after masking", "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Right_: normal hearing", "cumle": 0}, {"isaret": "□", "renk": "sol", "metin": "_Left_: masked, no response", "cumle": 2}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [10, 10, 10, 15, 15, 20], "cumle": 0}, {"kulak": "sol", "tip": "hava_maskeli", "yanitsiz": true, "degerler": [100, 115, 120, 120, 120, 105], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "In the same patient, let us deliver a suitable level of masking noise to the right ear and test the left ear again.",
+       "Because the right cochlea is now busy with the noise, cross-hearing no longer occurs.",
+       "In the left ear, there is no response even at the audiometer's maximum output; the down arrows show no response.",
+       "Masked air conduction thresholds of the left ear are marked with a blue square.",
+       "The audiogram now correctly shows that there is no response in the left ear at the limits of the equipment."]},
+
+    {"id": "isaretler", "tur": "odyogram", "bolum_no": "PART 2", "bolum": "The shadow curve", "baslik": "Masked *symbols*", "lejant": [{"isaret": "△", "renk": "sag", "metin": "_Right_: masked air conduction", "cumle": 1}, {"isaret": "[", "renk": "sag", "metin": "_Right_: masked bone conduction", "cumle": 2}, {"isaret": "□", "renk": "sol", "metin": "_Left_: masked air conduction", "cumle": 1}, {"isaret": "]", "renk": "sol", "metin": "_Left_: masked bone conduction", "cumle": 2}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava_maskeli", "degerler": [60, 65, 70, 70, 75, 80], "cumle": 1}, {"kulak": "sag", "tip": "kemik_maskeli", "degerler": [55, 60, 65, 65, 70], "cumle": 2}, {"kulak": "sol", "tip": "hava", "degerler": [10, 10, 15, 15, 20, 20], "cumle": 3}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "When masking is used, different symbols are used on the audiogram.",
+       "The masked air conduction threshold of the right ear is shown with a red triangle, and that of the left ear with a blue square.",
+       "Masked bone conduction thresholds are marked with an opening square bracket for the right ear and a closing one for the left.",
+       "In this example, the left ear is normal, and the right ear has a sensorineural loss with thresholds confirmed by masking.",
+       "Anyone reading the audiogram can tell from these symbols right away that masking was used.",
+       "So if masking was used, the correct symbol must be chosen, and the masking level used must also be recorded."]},
+
+    {"id": "degerler", "tur": "ikonlar", "bolum_no": "PART 3", "bolum": "IA values", "baslik": "*IA* by transducer", "ogeler": [{"ikon": "kulaklik", "baslik": "Supra-aural earphone", "metin": "Conservative IA _about 40 dB_; the most common rule", "cumle": 1}, {"ikon": "insert_kulaklik", "baslik": "Insert earphone", "metin": "Conservative IA _about 55 dB_; higher at low frequencies", "cumle": 3}, {"ikon": "kemik_vibratoru", "baslik": "Bone vibrator", "metin": "IA _about 0 dB_; both cochleae stimulated", "cumle": 5}],
+     "cumleler": [
+       "The IA value varies from person to person, by frequency and by the transducer used.",
+       "For supra-aural earphones, which sit on the auricle, IA is taken to be at least about forty decibels.",
+       "The real value is higher in most people, but the lowest value is used to stay on the safe side.",
+       "For insert earphones, placed in the ear canal, IA is higher; when inserted correctly, the conservative value is about fifty five decibels.",
+       "With insert earphones, IA depends on frequency: at low frequencies it is often above seventy decibels, and at high frequencies it is lower.",
+       "For the bone vibrator, IA is taken to be about zero decibels; the whole skull vibrates and both cochleae are stimulated.",
+       "So we cannot know for sure which ear an unmasked bone conduction threshold belongs to."]},
+
+    {"id": "etkenler", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "IA values", "baslik": "Factors that *affect* IA", "maddeler": [{"metin": "Individual _head structure_", "cumle": 1, "ikon": "hasta"}, {"metin": "Test _frequency_", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Earphone _fit_", "cumle": 3, "ikon": "kulaklik"}, {"metin": "Insert tip _depth_", "cumle": 4, "ikon": "insert_kulaklik"}], "yan": {"tur": "kart", "ust": "RULE", "metin": "The patient's IA is unknown; use the *most conservative* value", "cumle": 5},
+     "cumleler": [
+       "IA values were measured in people with total one-sided loss, by comparing unmasked thresholds with the thresholds of the good ear.",
+       "These measurements show wide differences between people, even with the same earphone.",
+       "With supra-aural earphones, IA can vary from about forty to eighty decibels, depending on the person and the frequency.",
+       "How the earphone sits on the head and how firmly it presses also affect the result.",
+       "With insert earphones, how deeply the foam tip is inserted into the ear canal is the deciding factor.",
+       "Because we cannot know the patient's own IA, in the clinic we always use the lowest, most conservative value."]},
+
+    {"id": "hesap", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "IA values", "baslik": "*When* does cross-hearing occur?", "maddeler": [{"metin": "Crossing level: _presentation level minus IA_", "cumle": 0, "ikon": "grafik"}, {"metin": "Compare with: opposite ear _bone conduction_", "cumle": 1, "ikon": "kemik_vibratoru"}, {"metin": "Reaches that threshold: _risk_", "cumle": 2, "ikon": "uyari"}, {"metin": "The detailed rule: _next lesson_", "cumle": 4, "ikon": "kitap"}], "yan": {"tur": "kart", "ust": "EXAMPLE", "metin": "70 dB minus 40 dB IA: *30 dB* crosses over", "cumle": 3},
+     "cumleler": [
+       "We roughly estimate the level reaching the opposite cochlea by subtracting the IA value from the level presented to the test ear.",
+       "Because the crossed sound stimulates the opposite cochlea by bone conduction, we compare it with that ear's bone conduction threshold.",
+       "If the crossed sound is equal to or above that bone conduction threshold, cross-hearing is possible and masking is needed.",
+       "For example, with an IA of forty decibels, a seventy decibel test sound reaches the opposite cochlea at about thirty decibels.",
+       "In the next lesson, we will work through how to make this decision for air conduction, using sample audiograms."]},
+
+    {"id": "nerede", "tur": "ikonlar", "bolum_no": "PART 3", "bolum": "IA values", "baslik": "*Where* is masking needed?", "ogeler": [{"ikon": "kulaklik", "baslik": "Air conduction", "metin": "When the difference reaches IA", "cumle": 0}, {"ikon": "kemik_vibratoru", "baslik": "Bone conduction", "metin": "When there is an air-bone gap", "cumle": 1}, {"ikon": "konusma", "baslik": "Speech tests", "metin": "When the presentation level is high", "cumle": 2}],
+     "cumleler": [
+       "For air conduction, masking is needed when the test ear threshold minus the opposite ear's bone conduction threshold reaches IA.",
+       "For bone conduction, because IA is taken as zero, masking is needed when a meaningful air-bone gap is seen in the test ear.",
+       "In speech tests, masking is also used when the presentation level is high enough to cross to the opposite ear.",
+       "We will look at these three situations one by one, with sample audiograms, in the coming lessons."]},
+
+    {"id": "insert", "tur": "karsilastir", "bolum_no": "PART 4", "bolum": "Insert earphones", "baslik": "Supra-aural or *insert?*", "sol": {"ust": "Supra-aural", "maddeler": [{"metin": "IA at least about 40 dB", "cumle": 0}, {"metin": "Masking needed more often", "cumle": 1}, {"metin": "Risk of ear canal collapse", "cumle": 2}, {"metin": "Stronger occlusion effect", "cumle": 3}]}, "sag": {"ust": "Insert", "maddeler": [{"metin": "Higher IA", "cumle": 4}, {"metin": "Less need for masking", "cumle": 4}, {"metin": "Masking dilemma less common", "cumle": 5}, {"metin": "Single-use foam tip", "cumle": 6}]},
+     "cumleler": [
+       "With supra-aural earphones, the low IA means masking is needed often.",
+       "Especially in one-sided or asymmetrical losses, masking may be needed at almost every frequency.",
+       "The pressure of supra-aural earphones can also make the ear canal collapse in some people, giving falsely high thresholds.",
+       "Covering the opposite ear with this earphone during bone conduction testing also creates a stronger occlusion effect.",
+       "Because IA is higher with insert earphones, the situations that need masking become fewer.",
+       "The masking dilemma seen in bilateral conductive loss also occurs less often with insert earphones.",
+       "Foam tips are single use, which is an extra advantage for hygiene.",
+       "However, insert earphones may not be usable in conditions such as ear canal discharge or atresia."]},
+
+    {"id": "gurultu", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Insert earphones", "baslik": "Masking *noise*", "maddeler": [{"metin": "Noise goes to the _opposite ear_", "cumle": 0, "ikon": "gurultu"}, {"metin": "Pure tones: _narrowband noise_", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Speech: _speech noise_", "cumle": 4, "ikon": "konusma"}, {"metin": "Instruction: respond only to the _tone_", "cumle": 5, "ikon": "hasta_butonu"}], "yan": {"tur": "cizim", "cizim": "maskeleme", "ayar": {"ia_db": 40}, "cumle": 0, "vurgula": [{"parca": "maskeleme_gurultusu", "cumle": 0}, {"parca": "karsi_kulak", "cumle": 1}], "etiketler": [{"parca": "maskeleme_gurultusu", "metin": "Masking noise", "cumle": 0}]},
+     "cumleler": [
+       "In masking, noise is always delivered to the non-test ear, that is, the opposite ear.",
+       "The noise temporarily raises the threshold of the opposite ear, so the crossed sound cannot be heard there.",
+       "In pure tone testing, narrowband noise centered on the test frequency is used.",
+       "Narrowband noise gives the same masking effect with a lower overall loudness.",
+       "In speech tests, speech noise, which resembles the speech spectrum, is preferred.",
+       "The patient is told clearly to ignore the noise and to respond only when they hear the tone.",
+       "How much noise is needed is covered in the lessons on effective masking and the plateau method."]},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical note", "metin": "If the poorer ear's unmasked thresholds run parallel to the better ear and 40 to 60 dB lower, suspect a shadow curve. Do not report without masking.",
+     "cumleler": [
+       "Here is a practical tip from the clinic.",
+       "In a one-sided loss, the unmasked thresholds of the poorer ear may run parallel to the curve of the better ear.",
+       "If the difference is also around forty to sixty decibels, this is a sign of a shadow curve.",
+       "Do not report such an audiogram as the final result without masking.",
+       "If there are also unmasked bone conduction responses in the same ear, remember that a false air-bone gap may appear."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*", "maddeler": [{"metin": "_Cross-hearing_: sound crosses to the other cochlea", "cumle": 0, "ikon": "kulak"}, {"metin": "_IA_: the loss while crossing", "cumle": 1, "ikon": "grafik"}, {"metin": "Supra-aural 40, insert _about 55_ dB", "cumle": 2, "ikon": "insert_kulaklik"}, {"metin": "Bone conduction IA _about 0 dB_", "cumle": 3, "ikon": "kemik_vibratoru"}],
+     "cumleler": [
+       "An intense test sound can cross the skull to the opposite cochlea; this is called cross-hearing.",
+       "The loss the sound undergoes while crossing is called interaural attenuation, or IA.",
+       "The conservative IA value is about forty decibels for supra-aural earphones and about fifty five decibels for insert earphones.",
+       "For bone conduction, IA is taken as about zero, so unmasked bone conduction does not tell us which ear it belongs to."]},
+
+    {"id": "test", "tur": "test", "soru": "About how many dB is IA for the bone vibrator?", "secenekler": ["0 dB", "40 dB", "60 dB", "80 dB"], "dogru": 0, "aciklama": "The bone vibrator sets the whole skull vibrating; both cochleae are stimulated _almost equally_.",
+     "cumleler": [
+       {"yazi": "Test yourself: For the bone vibrator, about how many decibels is interaural attenuation taken to be?", "sonra_bekle": 5},
+       "The correct answer is A: about zero decibels.",
+       "The bone vibrator sets the whole skull vibrating, and both cochleae are stimulated at almost the same level."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "When Is Air-Conduction *Masking* Needed?", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will use sample audiograms to learn when masking is needed in air conduction testing.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

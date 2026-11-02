@@ -1,0 +1,885 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D225_Workplace_Audiometric_Monitoring_EN",
+ "kapak": {
+  "ust": "LESSON 225",
+  "baslik": "Audiometric monitoring<br>and *STS*",
+  "alt": "Baseline audiogram and threshold shift",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      5,
+      5,
+      10,
+      20,
+      30,
+      35,
+      25,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Workplace Audiometric Monitoring and Threshold Shift | Lesson 225 | AIHEAR Audiology Academy",
+  "aciklama": "How is the hearing of workers in noisy jobs monitored? In this lesson we learn about the baseline audiogram, the conditions for periodic tests, how to calculate a standard threshold shift (STS), age correction, the NIOSH criterion and the steps taken when a shift is found.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: OSHA 29 CFR 1910.95, Occupational Noise Exposure (including Appendix F); NIOSH (1998), Criteria for a Recommended Standard: Occupational Noise Exposure; Berger et al., The Noise Manual (AIHA); Katz, Handbook of Clinical Audiology; Regulation on the Protection of Employees from Noise-Related Risks, Türkiye (Official Gazette, 28.07.2013, No. 28721).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "occupationalhealth",
+   "hearingconservation"
+  ],
+  "etiketler": [
+   "audiometric monitoring",
+   "standard threshold shift",
+   "STS",
+   "baseline audiogram",
+   "age correction",
+   "hearing conservation program",
+   "OSHA",
+   "NIOSH",
+   "noise-induced hearing loss",
+   "occupational audiology",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 225",
+   "baslik": "Audiometric monitoring and *threshold shift*",
+   "alt": "Baseline audiogram, STS and age correction",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about audiometric monitoring of workers in noisy jobs and why the baseline audiogram matters so much.",
+    "We will cover how to calculate a standard threshold shift, age correction and the steps taken when a shift is found."
+   ]
+  },
+  {
+   "id": "program",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The role of monitoring",
+   "baslik": "Hearing conservation *program*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Measurement",
+     "cumle": 1,
+     "metin": "Who, how much exposure?"
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Engineering controls",
+     "cumle": 2,
+     "metin": "Reduce at source and path"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protectors",
+     "cumle": 3,
+     "metin": "Selection, fit, training"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiometric monitoring",
+     "cumle": 4,
+     "metin": "Early warning system"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Records",
+     "cumle": 5,
+     "metin": "Evaluate, improve"
+    }
+   ],
+   "cumleler": [
+    "Audiometric monitoring is not a stand-alone test but one part of a hearing conservation program.",
+    "The program starts with measurement showing who is exposed to how much noise.",
+    "Engineering controls that reduce noise at its source and along its path are the foundation of the program.",
+    "Selecting protectors, checking their fit and training workers to use them are the steps we saw in the previous lesson.",
+    "Audiometric monitoring is the early warning system that shows whether the program is really working.",
+    "All these steps are recorded, because comparisons made years later depend on these records."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The role of monitoring",
+   "baslik": "The monitoring *flow*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Baseline",
+     "cumle": 0,
+     "metin": "Reference at hiring"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Periodic test",
+     "cumle": 1,
+     "metin": "Usually once a year"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Compare",
+     "cumle": 2,
+     "metin": "Change from baseline"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Confirm",
+     "cumle": 3,
+     "metin": "Retest"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Notify, act",
+     "cumle": 4,
+     "metin": "Protection is reviewed"
+    }
+   ],
+   "cumleler": [
+    "Everything starts with the baseline audiogram taken at hiring; this is the person's reference audiogram.",
+    "Workers who remain exposed to noise are retested periodically, in many programs once a year.",
+    "Each new audiogram is compared with the baseline audiogram frequency by frequency.",
+    "A change that looks meaningful is confirmed with a retest before any decision is made.",
+    "A confirmed change is reported to the worker, and the protective measures are reviewed.",
+    "The aim is not to document permanent loss but to catch the change before the loss progresses."
+   ]
+  },
+  {
+   "id": "baslangic",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The baseline audiogram",
+   "baslik": "The baseline *audiogram*",
+   "maddeler": [
+    {
+     "metin": "At start of exposure, within 6 months",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_14 hours_ without noise beforehand",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "500 to 6000 Hz, both ears",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Türkiye: hearing tests above 85 dB(A)",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Occupational physician sets the interval",
+     "cumle": 6,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "BASELINE AUDIOGRAM",
+    "metin": "The *reference* point for all later comparisons",
+    "cumle": 0
+   },
+   "cumleler": [
+    "OSHA, the US Occupational Safety and Health Administration, requires a baseline audiogram within six months of the start of exposure.",
+    "Before the test, the worker must be away from workplace noise for at least fourteen hours; hearing protectors can also be used to meet this.",
+    "Otherwise, a temporary threshold shift gets into the baseline values and all later comparisons are misleading.",
+    "The test is done at 500, 1000, 2000, 3000, 4000 and 6000 Hz, separately for each ear.",
+    {
+     "yazi": "In Türkiye, the 2013 noise regulation requires the employer to arrange hearing tests when exposure exceeds the upper action value.",
+     "ses": "In Türkiye, the twenty thirteen noise regulation requires the employer to arrange hearing tests when exposure exceeds the upper action value."
+    },
+    "If the risk assessment calls for it, hearing tests may also be arranged for those above the lower action value.",
+    "The interval of health surveillance is set by the occupational physician based on the risk assessment results; check the current regulation."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The baseline audiogram",
+   "baslik": "A comparable *test*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Quiet room",
+     "cumle": 0,
+     "metin": "Booth noise within limits"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Calibration",
+     "cumle": 1,
+     "metin": "Daily check, yearly calibration"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Same method",
+     "cumle": 2,
+     "metin": "Same earphones, same steps"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy",
+     "cumle": 3,
+     "metin": "Wax changes thresholds"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "History",
+     "cumle": 4,
+     "metin": "Hobbies, firearms, drugs, disease"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Test timing",
+     "cumle": 5,
+     "metin": "Start of shift preferred"
+    }
+   ],
+   "cumleler": [
+    "Year-to-year comparison is meaningful only if tests are done under the same conditions; room noise must not mask thresholds.",
+    "The audiometer should pass a daily listening check and be calibrated at regular intervals.",
+    "As far as possible, the same type of earphone and the same threshold method should be used.",
+    "Otoscopy is done before testing; impacted earwax can temporarily worsen thresholds.",
+    "Noise outside work, firearm use, medications and ear disease are asked about and recorded at every test.",
+    "Doing the periodic test at the start of a shift prevents a temporary shift from that day's noise from affecting the result."
+   ]
+  },
+  {
+   "id": "sts",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Standard threshold shift",
+   "baslik": "Standard *threshold shift*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 60,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "baslangic",
+      "noktalar": [
+       [
+        500,
+        5
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        3000,
+        15
+       ],
+       [
+        4000,
+        20
+       ],
+       [
+        6000,
+        15
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "baseline",
+      "cumle": 0
+     },
+     {
+      "ad": "yillik",
+      "noktalar": [
+       [
+        500,
+        5
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        3000,
+        30
+       ],
+       [
+        4000,
+        35
+       ],
+       [
+        6000,
+        25
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "year 5",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sts_bolgesi",
+      "x": [
+       1800,
+       4400
+      ],
+      "renk": "sari",
+      "etiket": "2, 3 and 4 kHz",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       15,
+       30
+      ],
+      "xk": 3000,
+      "etiket": "15 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "In this example, the dashed navy line shows the baseline audiogram of a worker's right ear.",
+    "The red line is the annual audiogram of the same ear five years later.",
+    "By the OSHA definition, a standard threshold shift, or STS, looks at only three frequencies.",
+    "These frequencies are 2000, 3000 and 4000 Hz, the region where noise damage appears earliest.",
+    "An average worsening of ten decibels or more at these three frequencies, relative to baseline, counts as a standard threshold shift.",
+    "Each ear is assessed separately; a shift in one ear is enough.",
+    "The values in the example are for teaching; now let us do the calculation on a table."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Standard threshold shift",
+   "baslik": "The calculation *step by step*",
+   "sutunlar": [
+    "Frequency",
+    "Baseline",
+    "Annual",
+    "Difference"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "2000 Hz",
+      "10 dB",
+      "20 dB",
+      "10 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "3000 Hz",
+      "15 dB",
+      "30 dB",
+      "15 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "20 dB",
+      "35 dB",
+      "15 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Average difference",
+      "",
+      "",
+      "13.3 dB"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "At 2000 Hz, the threshold has worsened from 10 to 20 decibels; the difference is 10 decibels.",
+    "At 3000 Hz, from 15 to 30 decibels; the difference is 15 decibels.",
+    "At 4000 Hz, from 20 to 35 decibels; the difference is again 15 decibels.",
+    "The three differences add up to 40, an average of about 13 decibels; this exceeds the ten decibel criterion.",
+    "So without age correction, this ear shows a standard threshold shift."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Standard threshold shift",
+   "baslik": "Age *correction*",
+   "maddeler": [
+    {
+     "metin": "Thresholds worsen with age anyway",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "OSHA: allows correction with tables",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Expected age effect is subtracted",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "NIOSH: no age correction",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TWO APPROACHES",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "tablo",
+      "baslik": "OSHA",
+      "cumle": 1,
+      "metin": "Age correction allowed"
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "NIOSH",
+      "cumle": 5,
+      "metin": "No age correction"
+     }
+    ]
+   },
+   "cumleler": [
+    "Over five years, part of the change in thresholds may come not from noise but simply from aging.",
+    "OSHA allows age correction when deciding on a standard threshold shift.",
+    "The values to use are given in tables in an appendix of the standard.",
+    "These tables are separate for women and men; the expected threshold change between the two ages is subtracted from the measured one.",
+    "If the average difference falls below ten decibels after correction, the shift does not count as a standard threshold shift.",
+    "NIOSH, the US National Institute for Occupational Safety and Health, recommends no age correction.",
+    "This is because tables based on groups can hide noise damage in an individual.",
+    "Which approach applies depends on the regulation the program follows; the record should state clearly which one was used."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "When a shift is found",
+   "baslik": "What happens when a *shift is found?*",
+   "adimlar": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Retest",
+     "cumle": 0,
+     "metin": "Within 30 days"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Written notice",
+     "cumle": 1,
+     "metin": "Within 21 days"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protection",
+     "cumle": 2,
+     "metin": "Fit, training, replacement"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Referral",
+     "cumle": 4,
+     "metin": "To a physician if needed"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "New baseline",
+     "cumle": 5,
+     "metin": "Revised if persistent"
+    }
+   ],
+   "cumleler": [
+    "Under OSHA, if an annual test shows a shift, a retest may be done within thirty days and used in place of the annual audiogram.",
+    "If the shift is confirmed, the worker is informed in writing within twenty one days.",
+    "Workers without protectors are given them; for those who have them, fit is rechecked, training repeated or a better protector chosen.",
+    "At this stage, individual fit testing can show whether the problem lies in the protector or in how it is used.",
+    "If the shift suggests a cause other than noise or an ear disease, the worker is referred to a physician.",
+    "When the shift is persistent, the baseline audiogram may be revised for later comparisons."
+   ]
+  },
+  {
+   "id": "niosh",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "When a shift is found",
+   "baslik": "OSHA and *NIOSH* criteria",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "OSHA STS",
+     "cumle": 0,
+     "metin": "10 dB average, three frequencies"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "NIOSH shift",
+     "cumle": 2,
+     "metin": "15 dB at one frequency"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Confirmation",
+     "cumle": 3,
+     "metin": "Immediate retest"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "OSHA recording",
+     "cumle": 5,
+     "metin": "Average 25 dB HL or more"
+    }
+   ],
+   "cumleler": [
+    "Because the OSHA criterion looks at an average of three frequencies, it can miss a clear change at a single frequency.",
+    {
+     "yazi": "For this reason, the 1998 NIOSH criteria document proposed a more sensitive criterion.",
+     "ses": "For this reason, the nineteen ninety eight NIOSH criteria document proposed a more sensitive criterion."
+    },
+    "By this criterion, a worsening of 15 decibels at any frequency from 500 to 6000 Hz, in either ear, is significant.",
+    "The change is confirmed with an immediate retest and then with a separate confirmation test.",
+    "A more sensitive criterion gives an earlier warning, but the chance of false alarms also rises slightly.",
+    "OSHA also requires a confirmed shift to be recorded as an occupational illness if the three-frequency average is 25 dB HL or more."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "Referral to a *physician*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Asymmetry",
+     "cumle": 0,
+     "metin": "Clear difference between ears"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sudden change",
+     "cumle": 1,
+     "metin": "Large loss in short time"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Ear disease",
+     "cumle": 2,
+     "metin": "Discharge, pain, fullness"
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Dizziness",
+     "cumle": 3,
+     "metin": "One-sided tinnitus"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Air-bone gap",
+     "cumle": 4,
+     "metin": "Conductive component"
+    }
+   ],
+   "cumleler": [
+    "Noise usually affects both ears similarly; a clear, unexplained asymmetry calls for referral to a physician.",
+    "A large worsening over a short time suggests a cause other than noise.",
+    "Signs of ear disease, such as ear discharge, pain or a feeling of fullness, are also reasons for referral.",
+    "One-sided tinnitus and dizziness may call for assessment for retrocochlear causes.",
+    "An air-bone gap suggests a conductive problem other than noise.",
+    "The audiologist does not diagnose; they document the finding accurately and share it with the occupational physician and the ENT physician."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "odyogram",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "Example: a shift *in one ear*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ range",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       25,
+       30,
+       25,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       50,
+       60,
+       50,
+       35
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this example, a worker's annual audiogram shows a mild notch in the right ear.",
+    "The left ear, however, has a much deeper loss in the same region; a clear difference has developed between the ears.",
+    "If the history reveals that the person uses a shotgun on weekends, this asymmetry may be explained by the ear closer to the muzzle.",
+    "But if the history gives no such explanation, the asymmetry calls for referral to a physician to rule out retrocochlear causes.",
+    "In both cases, exposure outside work is recorded, because protection advice should also cover life outside work.",
+    "The example is for teaching; determining the cause belongs to the physician's assessment."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "Records and *communication*",
+   "maddeler": [
+    {
+     "metin": "Every test fully recorded",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Result explained to the worker",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Group data evaluate the program",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Confidentiality is protected",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PURPOSE",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Protect the individual",
+      "cumle": 1,
+      "metin": "Early warning"
+     },
+     {
+      "ikon": "is_yeri",
+      "baslik": "Improve the program",
+      "cumle": 3,
+      "metin": "Group data"
+     }
+    ]
+   },
+   "cumleler": [
+    "At every test, the date, device, calibration status, tester and history are fully recorded.",
+    "The result is explained to the worker in plain language and compared with the baseline audiogram.",
+    "Seeing the change in their own audiogram is often the strongest motivation for wearing protectors.",
+    "When data from workers in the same department are reviewed together, we can tell whether the program is working there.",
+    "These records are personal health data; sharing follows the relevant regulations and principles of confidentiality."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Test at the start of the shift and ask about protector use at every test. If you see a shift, confirm it with a retest first, then decide.",
+   "cumleler": [
+    "A tip from the field: if possible, do the periodic test at the start of the shift, before that day's noise exposure.",
+    "A test at the end of the shift can make a temporary threshold shift look like a permanent one.",
+    "At every test, ask about and record the protector type, wearing time and noise outside work.",
+    "When you see a shift, refit the earphones and repeat the test; do not decide on a single measurement."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Baseline audiogram is the reference",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "STS: 10 dB average, 2, 3, 4 kHz",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "OSHA and NIOSH differ on age",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Shift: confirm, notify, fix protection",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "The baseline audiogram is taken after at least fourteen hours without noise and is the reference for all later tests.",
+    "Under OSHA, a standard threshold shift is an average worsening of ten decibels or more at 2000, 3000 and 4000 Hz.",
+    "OSHA allows age correction; NIOSH recommends no correction and a 15 decibel criterion at a single frequency.",
+    "When a shift is found, it is confirmed with a retest, reported to the worker and protective measures are reviewed."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Shifts of 5, 10 and 15 dB at 2, 3 and 4 kHz: what is the OSHA result?",
+   "secenekler": [
+    "No STS",
+    "STS present",
+    "NIOSH shift only",
+    "Cannot decide"
+   ],
+   "dogru": 1,
+   "aciklama": "Average difference (5 + 10 + 15) / 3 = _10 dB_; the criterion is 10 dB or more.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: if thresholds at 2000, 3000 and 4000 Hz worsen by 5, 10 and 15 decibels, what is the result by the OSHA criterion?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: there is a standard threshold shift.",
+    "The average of the three differences is exactly ten decibels, and the criterion is ten or more; age correction may change the result."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Recreational Noise and *Safe Listening*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will move to noise outside work: personal music players, concerts and safe listening criteria.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

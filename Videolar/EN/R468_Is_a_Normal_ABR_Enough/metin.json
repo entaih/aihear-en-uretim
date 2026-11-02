@@ -1,0 +1,120 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R468_Is_a_Normal_ABR_Enough_EN",
+ "kapak": {
+  "ust": "QUICK FACT #468",
+  "baslik": "Normal ABR, *enough?*",
+  "alt": "The I-V interval in asymmetric loss",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      20,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      35,
+      50,
+      60,
+      65
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "If the ABR is normal, is a small tumor ruled out? #shorts",
+  "aciklama": "In the example ABR, the I-V interval is about 4 milliseconds in the right ear, while in the left ear wave V is delayed and the I-V interval is about 4.8 milliseconds; an I-V interval above about 4.4 to 4.5 milliseconds suggests a retrocochlear delay. But with small tumors the ABR can be normal; a normal ABR does not replace imaging. The physician decides on imaging; the gold standard is MRI with contrast or special sequences.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ABR",
+   "casestudy"
+  ],
+  "etiketler": [
+   "ABR",
+   "I-V interval",
+   "retrocochlear",
+   "asymmetric hearing loss",
+   "vestibular schwannoma",
+   "case study",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "If the ABR is normal, is a small tumor ruled out?",
+  "bilgiler": [
+   "An I-V interval above 4.4 to 4.5 milliseconds suggests a delay.",
+   "With small tumors the ABR can be normal.",
+   "The physician decides on imaging."
+  ],
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "casestudy"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #468",
+   "metin": "Ruled out *if normal?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "If the ABR is normal, is a small tumor ruled out?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Left ear *I-V interval*",
+   "sayi": "4.8",
+   "birim": "ms",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    {
+     "yazi": "Right ear: the I-V interval is about four milliseconds.",
+     "ses": "Right ear: the one to five interval is about four milliseconds."
+    },
+    "In the left ear, this interval is about four point eight milliseconds.",
+    "Above four point four to four point five suggests a retrocochlear delay.",
+    "With small tumors the ABR can be normal; it cannot replace imaging."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D274",
+ "kaynak_baslik": "Case: Asymmetric SNHL with Poor Word Recognition"
+}

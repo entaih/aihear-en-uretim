@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R010_Self_Cleaning_Ear_EN",
+ "kapak": {
+  "ust": "QUICK FACT #10",
+  "baslik": "The ear canal *cleans itself*",
+  "alt": "Epithelial migration on the eardrum",
+  "cizim": "kulak_kesit",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How does your ear canal clean itself? #shorts",
+  "aciklama": "Epithelial cells on the outer layer of the tympanic membrane (eardrum) migrate from the umbo toward the edges. This migration continues along the ear canal and carries debris outward; it also plays an important part in moving earwax out.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ear",
+   "facts"
+  ],
+  "etiketler": [
+   "ear canal",
+   "earwax",
+   "tympanic membrane",
+   "eardrum",
+   "epithelial migration",
+   "audiology",
+   "ear health",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How does your ear canal clean itself?",
+  "bilgiler": [
+   "Epithelial cells of the eardrum migrate from the umbo to the edges.",
+   "The migration continues along the ear canal and carries debris out.",
+   "It also plays an important part in moving earwax out."
+  ],
+  "hashtag": [
+   "audiology",
+   "ear",
+   "facts"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #10",
+   "metin": "How does your ear canal *clean itself?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How does your ear canal clean itself?"
+   ]
+  },
+  {
+   "id": "goc",
+   "tur": "zincir",
+   "baslik": "Epithelial *migration*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Umbo",
+     "cumle": 1,
+     "tr": "center of the eardrum"
+    },
+    {
+     "ad": "Edges",
+     "cumle": 1,
+     "gecikme": 1.2,
+     "tr": "rim of the eardrum"
+    },
+    {
+     "ad": "Outward",
+     "cumle": 2,
+     "tr": "along the ear canal"
+    }
+   ],
+   "alt": "The ear canal _cleans itself_.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "On the surface of the tympanic membrane, the eardrum, cells move.",
+    "They migrate from the umbo, its center, toward the edges.",
+    "This migration continues along the ear canal and carries debris out.",
+    "It also plays an important part in moving earwax out."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D018",
+ "kaynak_baslik": "Tympanic Membrane: Structure and Landmarks"
+}

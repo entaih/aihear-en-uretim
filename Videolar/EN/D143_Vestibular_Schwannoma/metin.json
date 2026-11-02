@@ -1,0 +1,971 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D143_Vestibular_Schwannoma_EN",
+ "kapak": {
+  "ust": "LESSON 143",
+  "baslik": "Vestibular<br>*schwannoma*",
+  "alt": "Angle tumors and audiological findings",
+  "cizim": "ic_kulak_yolu_dibi",
+  "vurgula": [
+   "ust_vestibuler_sinir",
+   "alt_vestibuler_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "Vestibular Schwannoma and CPA Tumors | Lesson 143 | AIHEAR Audiology Academy",
+  "aciklama": "We explain where a vestibular schwannoma arises, how it grows and which symptoms reveal it. With examples, we cover asymmetric sensorineural loss, word recognition, acoustic reflex and ABR findings, neurofibromatosis type 2, and the audiologist's role in monitoring.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Jacobson and Shepard, Balance Function Assessment and Management; Plotkin et al., Updated diagnostic criteria and nomenclature for neurofibromatosis type 2 and schwannomatosis, Genetics in Medicine (2022).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibularschwannoma",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "vestibular schwannoma",
+   "acoustic neuroma",
+   "cerebellopontine angle",
+   "CPA tumors",
+   "neurofibromatosis type 2",
+   "NF2",
+   "asymmetric hearing loss",
+   "retrocochlear",
+   "ABR",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 143",
+   "baslik": "Vestibular *schwannoma*",
+   "alt": "Cerebellopontine angle tumors and audiological findings",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    {
+     "yazi": "In this lesson, we learn about vestibular schwannoma and tumors of the cerebellopontine angle."
+    },
+    "We will cover the symptoms, the audiological findings, neurofibromatosis type 2 and the audiologist's role in monitoring."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The tumor and its location",
+   "baslik": "Where does the tumor *arise?*",
+   "cizim": "ic_kulak_yolu_dibi",
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Superior vestibular nerve",
+     "cumle": 2
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Inferior vestibular nerve",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Cochlear nerve",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Facial nerve (VII)",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A vestibular schwannoma is a benign tumor that grows on the nerve of hearing and balance."
+    },
+    "The tumor arises from Schwann cells, which form the myelin sheath around nerve fibers.",
+    "It usually starts on the superior or inferior vestibular nerve, inside the internal auditory canal.",
+    "An origin on the cochlear nerve is rare; even so, the most common symptom is hearing loss.",
+    "Its old name is acoustic neuroma, but the tumor arises neither from the hearing nerve nor from neurons.",
+    "It accounts for about eight percent of intracranial tumors and is usually unilateral."
+   ]
+  },
+  {
+   "id": "kose",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The tumor and its location",
+   "baslik": "From the canal to the *angle*",
+   "cizim": "beyin_sapi_vestibuler",
+   "yakinlastir": [
+    {
+     "parca": "tumor",
+     "cumle": 0,
+     "olcek": 1.6
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Nerve VIII",
+     "cumle": 0
+    },
+    {
+     "parca": "tumor",
+     "metin": "Vestibular schwannoma",
+     "cumle": 0
+    },
+    {
+     "parca": "pons",
+     "metin": "Pons",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "metin": "Cerebellum",
+     "cumle": 1
+    },
+    {
+     "parca": "labirent",
+     "metin": "Labyrinth",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "pons",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent",
+     "cumle": 4
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Angle: between cerebellum and pons",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Facial nerve_ on the same path",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Labyrinthine artery is nearby",
+     "cumle": 4,
+     "ikon": "kan_damari"
+    }
+   ],
+   "cumleler": [
+    "As the tumor grows, it extends out of the internal auditory canal into the cerebellopontine angle.",
+    "The cerebellopontine angle is a narrow space between the cerebellum and the pons, where the nerves enter the brainstem.",
+    "The facial nerve also runs with the eighth nerve in the internal auditory canal.",
+    "This is why the tumor can affect hearing and balance and, less often, the facial nerve.",
+    "Pressure on the labyrinthine artery, which supplies the inner ear, is one proposed explanation for sudden hearing loss."
+   ],
+   "ayar": {
+    "tumor": true,
+    "tumor_cumle": 0,
+    "fasiyal_cumle": 2,
+    "arter_cumle": 4
+   }
+  },
+  {
+   "id": "kose_tumorleri",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The tumor and its location",
+   "baslik": "Masses in the *angle*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Vestibular schwannoma",
+     "metin": "About 80 to 90 percent",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Meningioma",
+     "metin": "Arises from the meninges",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Others",
+     "metin": "Epidermoid, facial schwannoma",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Differentiation",
+     "metin": "By the physician, with imaging",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "About eighty to ninety percent of cerebellopontine angle tumors are vestibular schwannomas."
+    },
+    "Second comes meningioma, which arises from the meninges and is usually benign.",
+    {
+     "yazi": "Epidermoid cysts and schwannomas of the facial nerve are less common."
+    },
+    "These masses can give similar audiological findings; the physician differentiates them with imaging.",
+    {
+     "yazi": "In this lesson, we focus on the most common mass, the vestibular schwannoma."
+    }
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The tumor and its location",
+   "baslik": "Who gets it, and how does it *grow?*",
+   "maddeler": [
+    {
+     "metin": "Usually diagnosed in _middle age_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Growth rate _varies by person_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "On average _1 to 2 mm_ a year",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "MRI detects it _earlier_",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Unilateral tumors are _not inherited_",
+     "cumle": 4,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "GROWTH",
+    "metin": "Most tumors grow *slowly*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "The tumor is usually diagnosed between the ages of forty and sixty, but it can occur at any age.",
+    "Growth rate varies widely; many tumors grow slowly, and some do not grow at all for years.",
+    "In growing tumors, the average rate is reported as about one to two millimeters a year.",
+    "As magnetic resonance imaging, or MRI, has become widespread, tumors are found smaller and more often.",
+    "Most unilateral tumors are not inherited and arise spontaneously.",
+    "Bilateral tumors, however, are linked to an inherited disease; we will look at this later in the lesson."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Symptoms",
+   "baslik": "How is the tumor *noticed?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Hearing loss",
+     "metin": "Unilateral, slowly progressive",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tinnitus",
+     "metin": "Ringing in the same ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Imbalance",
+     "metin": "Often mild",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sudden loss",
+     "metin": "Sudden onset in some patients",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Trouble on the phone",
+     "metin": "Cannot understand with that ear",
+     "cumle": 4
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Facial numbness",
+     "metin": "In large tumors",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The most common symptom is a unilateral, slowly progressive sensorineural hearing loss, seen in most patients.",
+    "Tinnitus, or ringing, in the same ear is the second most common symptom.",
+    "Imbalance is often mild; because the tumor grows slowly, the brain largely compensates for the loss.",
+    "In some patients the loss begins suddenly, which is why this tumor is also investigated in sudden hearing loss.",
+    "Patients often notice that they cannot understand speech when they hold the phone to that ear.",
+    "Large tumors can add facial numbness, weakness of the facial muscles and gait problems."
+   ]
+  },
+  {
+   "id": "evreler",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Symptoms",
+   "baslik": "What changes as it *grows?*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "In the canal",
+     "metin": "Hearing, tinnitus",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Into the angle",
+     "metin": "Fills the space",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Brainstem pressure",
+     "metin": "Numbness, imbalance",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Very large",
+     "metin": "Raised intracranial pressure",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tumor size shapes both the symptoms and the options; let us think it through step by step.",
+    "At first the tumor lies inside the internal auditory canal; at this stage, hearing loss and tinnitus stand out.",
+    "As it grows, it extends into the cerebellopontine angle and fills the surrounding space.",
+    "Larger tumors can press on the brainstem and the trigeminal nerve; this is the cause of facial numbness.",
+    "Very large tumors can block the flow of cerebrospinal fluid and raise intracranial pressure."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "Example: *asymmetric* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Masked bone conduction_: left ear",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       25,
+       40,
+       55,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       15,
+       15,
+       25,
+       40,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this example, the right ear is within normal limits.",
+    "The left ear, however, shows a loss that increases toward the high frequencies.",
+    "Masked bone conduction overlaps air conduction, so the loss is sensorineural.",
+    "The two ears differ by fifteen decibels or more at several frequencies; this is an asymmetry.",
+    "Different criteria are used for asymmetry; what they share is that an unexplained one-sided difference is investigated.",
+    "The audiogram alone cannot separate cochlear from retrocochlear loss; for that, we look at the test battery."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "Retrocochlear *signs*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Word recognition",
+     "metin": "Low for the thresholds",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Rollover",
+     "metin": "Score drops at high levels",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Acoustic reflex",
+     "metin": "Absent, or decay",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "Wave V delayed",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OAE",
+     "metin": "May be preserved",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "When retrocochlear pathology is suspected, several tests are interpreted together with the pure-tone thresholds.",
+    "The word recognition score can be clearly lower than expected from the pure-tone thresholds.",
+    "A score that falls as presentation level rises, called rollover, is a retrocochlear sign.",
+    "Acoustic reflexes may be absent at expected levels, or reflex decay may appear with a sustained stimulus.",
+    "In the auditory brainstem response, or ABR, wave V may be delayed, or the waves may not form at all.",
+    "Otoacoustic emissions, or OAEs, can still be present despite the loss if the tumor has not affected the cochlea."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "Delay in the *ABR*",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0.6
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Wave V",
+     "cumle": 1
+    },
+    {
+     "parca": "latans_I_V",
+     "metin": "Prolonged I-V interval",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Interaural _wave V difference_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "ABR may be _normal_ in small tumors",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Gold standard: _contrast MRI_",
+     "cumle": 5,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "The ABR is the most widely used electrophysiological test in this battery.",
+    "In the drawing, the dashed line shows a normal recording, and the solid line an example recording from the tumor side.",
+    "The interval between waves one and five is prolonged; the signal travels slowly along the nerve.",
+    "In a unilateral tumor, one useful measure is the interaural difference in wave V latency.",
+    "In most laboratories, this difference is considered significant above about zero point two to zero point four milliseconds.",
+    "However, the ABR can be normal in small tumors; the gold standard for diagnosis is contrast-enhanced MRI."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "Vestibular *tests*",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Caloric test",
+     "metin": "Weakness on the tumor side",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "VEMP",
+     "metin": "Depends on the branch affected",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "May be less affected",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Because the tumor usually arises from the vestibular nerve, vestibular tests are often affected too.",
+    "On caloric testing, a weak response on the tumor side is a common finding.",
+    "The vestibular evoked myogenic potential, or VEMP, can be abnormal depending on which nerve branch the tumor affects.",
+    "The video head impulse test, or vHIT, measures the response at a different speed, so it may be less affected than calorics.",
+    "These tests suggest which branch is affected, but they do not make the diagnosis on their own."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If you see unilateral tinnitus, unexplained asymmetry or a word score too low for the thresholds, highlight it in the report and refer to a physician.",
+   "cumleler": [
+    "A clinical tip: unilateral tinnitus or an asymmetric loss may look like an ordinary complaint, but it should not be overlooked.",
+    "A word recognition score too low for the thresholds and absent reflexes strengthen this suspicion.",
+    "State these findings clearly in the report and refer the patient to an ENT physician.",
+    "A normal ABR, especially in small tumors, does not mean that further investigation is unnecessary."
+   ]
+  },
+  {
+   "id": "nf2",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "NF2 and monitoring",
+   "baslik": "Neurofibromatosis *type 2*",
+   "maddeler": [
+    {
+     "metin": "_Autosomal dominant_ inheritance",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Chromosome 22, the _merlin_ protein",
+     "cumle": 1,
+     "ikon": "dna"
+    },
+    {
+     "metin": "_Bilateral_ vestibular schwannomas",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Symptoms at a _younger_ age",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Half have a _new_ variant",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NF2",
+    "metin": "*Bilateral* tumors: think of NF2",
+    "cumle": 2
+   },
+   "cumleler": [
+    {
+     "yazi": "Neurofibromatosis type 2, or NF2, is an inherited disease with autosomal dominant transmission.",
+     "ses": "Neurofibromatosis type two, or N F two, is an inherited disease with autosomal dominant transmission."
+    },
+    {
+     "yazi": "It is caused by changes in the NF2 gene on chromosome twenty two, which codes for a protein called merlin.",
+     "ses": "It is caused by changes in the N F two gene on chromosome twenty two, which codes for a protein called merlin."
+    },
+    {
+     "yazi": "Its hallmark is bilateral vestibular schwannomas; meningiomas and spinal tumors can also occur."
+    },
+    "Symptoms usually begin in adolescence and young adulthood, earlier than with a unilateral tumor.",
+    "In about half of patients, no one else in the family is affected; the change first appeared in that person.",
+    {
+     "yazi": "In current nomenclature, this condition is also called NF2-related schwannomatosis.",
+     "ses": "In current nomenclature, this condition is also called N F two related schwannomatosis."
+    }
+   ]
+  },
+  {
+   "id": "nf2_izlem",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "NF2 and monitoring",
+   "baslik": "*Audiological* monitoring in NF2",
+   "maddeler": [
+    {
+     "metin": "Both ears are _at risk_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Serial _audiograms_, word scores, ABR",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Word scores may drop _early_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Discuss a communication plan _early_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "If needed, an _auditory brainstem implant_",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "MONITORING",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "takvim",
+      "baslik": "Regular testing",
+      "metin": "Serial comparison",
+      "cumle": 1
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Team",
+      "metin": "With the physician",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In NF2, hearing is at risk in both ears, so regular audiological monitoring is especially important.",
+     "ses": "In N F two, hearing is at risk in both ears, so regular audiological monitoring is especially important."
+    },
+    "Serial audiograms, word recognition scores and ABR show the tumor's effect on hearing over time.",
+    "A drop in the word recognition score can appear before any change in the pure-tone thresholds.",
+    "A communication plan is discussed with the family early, while hearing is still good; visual supports are part of it.",
+    "If the cochlear nerve cannot be preserved, options such as an auditory brainstem implant may arise; we will see this in a later lesson."
+   ]
+  },
+  {
+   "id": "tani_sureci",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "NF2 and monitoring",
+   "baslik": "From suspicion to *decision*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Asymmetry",
+     "metin": "Noticed on the audiogram",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Test battery",
+     "metin": "Words, reflexes, ABR",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Referral",
+     "metin": "To an ENT physician",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Imaging",
+     "metin": "Contrast MRI",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Team decision",
+     "metin": "Monitoring or treatment",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The process often begins with an unexplained asymmetry noticed on the audiogram.",
+    "The audiologist completes the findings with the test battery and reports the results clearly.",
+    "The patient is referred to an ENT physician; the decision to image is made by the physician.",
+    "Contrast-enhanced magnetic resonance imaging is the main method and can show even small tumors.",
+    "After diagnosis, the team decides the next steps based on tumor size and the patient's condition."
+   ]
+  },
+  {
+   "id": "secenekler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Treatment and rehabilitation",
+   "baslik": "The team's *options*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Observation",
+     "metin": "Regular MRI and audiograms",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Microsurgery",
+     "metin": "Removal of the tumor",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Radiosurgery",
+     "metin": "Aims to stop growth",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Monitoring",
+     "metin": "Nerve monitoring in surgery",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The team decides on treatment based on tumor size, growth rate, hearing level, age and the patient's preference.",
+    "For small, slowly growing tumors, observation with regular imaging and audiograms is a common approach.",
+    "The tumor can be removed with microsurgery; some surgical approaches also aim to preserve hearing.",
+    "Stereotactic radiosurgery is a focused radiation treatment that aims to stop the tumor from growing.",
+    "Each method carries different risks for hearing, the facial nerve and balance; the choice is shared by physician and patient.",
+    "Monitoring hearing and the facial nerve during surgery, called intraoperative monitoring, is an area where audiologists also work."
+   ]
+  },
+  {
+   "id": "rehabilitasyon",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Treatment and rehabilitation",
+   "baslik": "Hearing *after* treatment",
+   "maddeler": [
+    {
+     "metin": "Hearing may decrease or be _lost_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_CROS_: sends sound to the better ear",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "_Bone-anchored_ devices",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "_Cochlear implant_ if the nerve survives",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "_Vestibular rehabilitation_ for balance",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "BTE"
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "After treatment, hearing in that ear decreases or is lost completely in many patients.",
+    "For severe unilateral loss, CROS systems that route sound from the poorer side to the better ear can be used.",
+    "Bone-anchored devices, which carry sound through bone to the opposite cochlea, are another option.",
+    "In selected patients whose cochlear nerve was preserved, a cochlear implant may also be considered.",
+    "For those with balance loss, vestibular rehabilitation helps the brain adapt to the new situation faster."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "A _benign_ tumor of Schwann cells",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Asymmetric_ sensorineural loss and tinnitus",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Low word score, reflexes, _ABR_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bilateral tumors: _NF2_",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A vestibular schwannoma is a benign tumor arising from the Schwann cells of the vestibular nerve."
+    },
+    "Its most common symptoms are unilateral sensorineural loss and tinnitus in the same ear.",
+    "A low word score, absent reflexes and a delayed ABR support retrocochlear suspicion; diagnosis is made with MRI.",
+    {
+     "yazi": "Bilateral vestibular schwannomas are the hallmark of neurofibromatosis type 2.",
+     "ses": "Bilateral vestibular schwannomas are the hallmark of neurofibromatosis type two."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is the gold standard for diagnosing vestibular schwannoma?",
+   "secenekler": [
+    "Pure-tone audiometry",
+    "Contrast MRI",
+    "Tympanometry",
+    "OAE"
+   ],
+   "dogru": 1,
+   "aciklama": "ABR can miss small tumors; _contrast MRI_ is the gold standard.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: What is the gold standard method for diagnosing vestibular schwannoma?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: contrast-enhanced magnetic resonance imaging.",
+    "Audiological tests raise the suspicion, but the ABR can be normal in small tumors."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Infections and *Hearing*: CMV, Mumps, Meningitis",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will examine how infections such as congenital cytomegalovirus, mumps and meningitis affect hearing.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

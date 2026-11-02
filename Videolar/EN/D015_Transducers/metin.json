@@ -1,0 +1,713 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D015_Transducers_EN",
+ "kapak": {
+  "ust": "LESSON 15",
+  "baslik": "Microphones and<br>*speakers*",
+  "alt": "How do transducers work?",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Transducers: How Microphones and Speakers Work | Lesson 15 | AIHEAR Audiology Academy",
+  "aciklama": "We explain the transducers that turn sound into electricity and electricity into sound: electromagnetic induction, dynamic, condenser, electret and MEMS microphones, the loudspeaker and the hearing aid receiver, and the earphones and bone vibrator of the audiometer. We also see why frequency response, sensitivity and calibration matter.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Dillon, Hearing Aids; Katz, Handbook of Clinical Audiology; ISO 8253-1, Acoustics: Audiometric test methods.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "microphone"
+  ],
+  "etiketler": [
+   "transducer",
+   "microphone",
+   "condenser microphone",
+   "electret microphone",
+   "MEMS microphone",
+   "loudspeaker",
+   "hearing aid receiver",
+   "bone vibrator",
+   "frequency response",
+   "calibration",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 15",
+   "baslik": "Microphones and *speakers*",
+   "alt": "How do transducers work?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about the devices that turn sound into electricity and electricity back into sound: transducers.",
+    "We will look at types of microphones, loudspeakers and earphones, and properties such as frequency response and sensitivity."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The conversion principle",
+   "baslik": "From one energy *to another*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Microphone",
+     "cumle": 1,
+     "metin": "Turns sound into electricity"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Amplifier",
+     "cumle": 2,
+     "metin": "Boosts and processes"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Loudspeaker",
+     "cumle": 3,
+     "metin": "Turns electricity into sound"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ear",
+     "cumle": 5,
+     "metin": "Turns motion into nerve signals"
+    }
+   ],
+   "cumleler": [
+    "A transducer is a device that converts one form of energy into another.",
+    "A microphone converts pressure changes in the air, that is, acoustic energy, into an electrical signal.",
+    "The electrical signal can be boosted in an amplifier, recorded or processed.",
+    "A loudspeaker converts the electrical signal back into pressure changes in the air, that is, into sound.",
+    "A hearing aid is a small example of this chain: microphone, processor and receiver.",
+    "Our ear is also a natural transducer: the hair cells convert mechanical motion into nerve signals."
+   ]
+  },
+  {
+   "id": "induksiyon",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The conversion principle",
+   "baslik": "The basic principle: *induction*",
+   "maddeler": [
+    {
+     "metin": "From motion, _electricity_",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "From current, _motion_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Same principle, _two directions_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "INDUCTION",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "mikrofon",
+      "baslik": "Dynamic microphone",
+      "cumle": 2,
+      "metin": "Motion creates voltage"
+     },
+     {
+      "ikon": "hoparlor",
+      "baslik": "Loudspeaker",
+      "cumle": 4,
+      "metin": "Current creates motion"
+     }
+    ]
+   },
+   "cumleler": [
+    "Many transducers are based on a simple principle of physics: electromagnetic induction.",
+    "When a conducting wire moves in the field of a magnet, a voltage is produced in the wire.",
+    "This is getting electricity from motion; dynamic microphones work this way.",
+    "Conversely, when a current passes through a wire in a magnetic field, a force acts on the wire and the wire moves.",
+    "This is getting motion from electricity; loudspeakers and many earphones work this way.",
+    "So the same principle works in two directions; a dynamic loudspeaker can be used as a microphone, even if a weak one."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Microphones",
+   "baslik": "Types of *microphones*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Dynamic",
+     "cumle": 1,
+     "metin": "Coil and magnet, rugged"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Condenser",
+     "cumle": 3,
+     "metin": "Two plates, flat response"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Measurement microphone",
+     "cumle": 5,
+     "metin": "A condenser type"
+    }
+   ],
+   "cumleler": [
+    "Every microphone has a thin diaphragm that vibrates with sound pressure; microphones differ in how they turn this motion into electricity.",
+    "In a dynamic microphone, a small coil attached to the diaphragm moves in a magnetic field and produces a voltage.",
+    "Dynamic microphones are rugged and need no external power; they are often used on stage.",
+    "In a condenser microphone, the diaphragm faces a fixed back plate, and together they form a capacitor.",
+    "As sound moves the diaphragm, the distance between the plates changes, the voltage changes with it, and a signal is created.",
+    "The condenser diaphragm is very light, so it gives a wide, flat frequency response; measurement microphones are of this type.",
+    "A classic condenser microphone needs an external polarizing voltage to work."
+   ]
+  },
+  {
+   "id": "elektret",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Microphones",
+   "baslik": "Electret and *MEMS*",
+   "maddeler": [
+    {
+     "metin": "Electret: _permanently charged_ condenser",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Small, cheap, _durable_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "MEMS: _silicon chip_ microphone",
+     "cumle": 4,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Two microphones: _directional_ hearing",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 3,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "Microphone",
+      "cumle": 3
+     },
+     {
+      "parca": "pil",
+      "metin": "Battery",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "pil",
+      "cumle": 2
+     },
+     {
+      "parca": "mikrofon",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The electret microphone is a type of condenser microphone.",
+    "One of the plates carries a material with a permanent electric charge, an electret, so no external polarizing voltage is needed.",
+    "Still, the small amplifier inside needs a little power, which the device's battery supplies.",
+    "Electret microphones are small, cheap and durable; they have been used in hearing aids and phones for many years.",
+    "In recent years, microelectromechanical system, or MEMS, microphones built on silicon chips have also become common in hearing aids.",
+    "Hearing aids often have two microphones; this provides the directional microphone feature we will see in later lessons."
+   ]
+  },
+  {
+   "id": "hoparlor",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Loudspeakers and earphones",
+   "baslik": "How does a loudspeaker *work?*",
+   "maddeler": [
+    {
+     "metin": "Coil, magnet and _cone_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "The cone _pushes and pulls_ air",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Large for low, _small_ for high",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Sound field: calibrated _at the head_",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 4,
+    "vurgula": [
+     {
+      "parca": "hoparlor",
+      "cumle": 4
+     },
+     {
+      "parca": "hasta",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "A dynamic loudspeaker is the reverse of a dynamic microphone.",
+    "The current of the sound signal passes through a coil in a magnetic field, and the coil moves back and forth with the signal.",
+    "The cone-shaped membrane attached to the coil pushes and pulls the air, creating compressions and rarefactions, that is, sound.",
+    "Large cones produce low sounds better and small cones high sounds better, so many cabinets contain more than one speaker.",
+    "In audiology, loudspeakers are used in sound field testing and are calibrated at the point where the patient's head will be.",
+    "Now let us look at small versions of this principle that are placed at the ear."
+   ]
+  },
+  {
+   "id": "odyoloji",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Loudspeakers and earphones",
+   "baslik": "*Transducers* in audiology",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Loudspeaker",
+     "cumle": 0,
+     "metin": "Sound field testing"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supra-aural",
+     "cumle": 1,
+     "metin": "Cushion on the pinna"
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert",
+     "cumle": 2,
+     "metin": "Tube and foam tip"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Bone vibrator",
+     "cumle": 4,
+     "metin": "Vibrates the skull"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Artificial mastoid",
+     "cumle": 5,
+     "metin": "Vibrator calibration"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Receiver",
+     "cumle": 6,
+     "metin": "The device's tiny speaker"
+    }
+   ],
+   "cumleler": [
+    "In an audiometer, every part that delivers sound to the ear is a transducer, and each has its own calibration.",
+    "Supra-aural earphones sit on the pinna with their cushions; they have been the standard in audiometry for many years.",
+    "With insert earphones, sound travels from a small transducer through a thin tube to a foam tip, and from there into the ear canal.",
+    "Insert earphones increase interaural attenuation and prevent ear canal collapse; we will see these in later lessons.",
+    "The bone vibrator converts the electrical signal into mechanical vibration and passes this vibration to the skull.",
+    "The bone vibrator is calibrated not by sound pressure but by force, with a device called an artificial mastoid.",
+    "In hearing aids, the tiny speaker that delivers sound to the ear canal is called the receiver; most are of the balanced armature type."
+   ]
+  },
+  {
+   "id": "odyometre",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Loudspeakers and earphones",
+   "baslik": "The audiometer's *transducers*",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "Earphone: air conduction",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Bone vibrator",
+     "cumle": 2
+    },
+    {
+     "parca": "cihaz",
+     "metin": "Audiometer",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The audiometer on screen shows two of these transducers.",
+    "The earphone delivers sound to the ear in air conduction testing.",
+    "The bone vibrator is placed on the mastoid bone behind the ear and used in bone conduction testing.",
+    "Each transducer connects to the audiometer through its own output, and the device uses separate calibration values for each.",
+    "So if an earphone is replaced with a different model, the audiometer must be recalibrated."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Properties",
+   "baslik": "Frequency *response*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 10,
+     "adim": 10,
+     "ad": "Relative output (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "duz",
+      "noktalar": [
+       [
+        100,
+        -1
+       ],
+       [
+        200,
+        0
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        5000,
+        0
+       ],
+       [
+        10000,
+        -1
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "measurement microphone",
+      "etiket_konum": [
+       150,
+       0
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "ornek",
+      "noktalar": [
+       [
+        100,
+        -16
+       ],
+       [
+        250,
+        -8
+       ],
+       [
+        500,
+        -3
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        4
+       ],
+       [
+        3000,
+        6
+       ],
+       [
+        4000,
+        2
+       ],
+       [
+        6000,
+        -6
+       ],
+       [
+        8000,
+        -13
+       ],
+       [
+        10000,
+        -18
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "sample response",
+      "etiket_konum": [
+       3000,
+       6
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Measurement microphone: _flat_ response",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Peaks: corrected by _calibration_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "The first property that describes a transducer is its frequency response.",
+    "Frequency response shows how much output a transducer gives for signals at the same level but at different frequencies.",
+    "Measurement microphones have a flat frequency response over a wide range; they pick up every frequency with the same sensitivity.",
+    "The second curve on screen is an example: a response that peaks in one region and falls off at both ends.",
+    "Such peaks are common in the response of earphones and hearing aid receivers; the tubing and the ear canal also change the response.",
+    "In the audiometer, these irregularities are corrected by calibration, so the correct level is delivered at every frequency.",
+    "Frequency response is a graph we will often see in hearing aid measurements in later lessons."
+   ]
+  },
+  {
+   "id": "ozellikler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Properties",
+   "baslik": "Other *important properties*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Sensitivity",
+     "cumle": 1,
+     "metin": "Millivolts per pascal"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Internal noise",
+     "cumle": 2,
+     "metin": "Limits faint sounds"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Dynamic range",
+     "cumle": 3,
+     "metin": "From faintest to strongest"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Distortion",
+     "cumle": 4,
+     "metin": "Extra frequencies"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Directionality",
+     "cumle": 5,
+     "metin": "Which direction does it hear?"
+    }
+   ],
+   "cumleler": [
+    "Besides frequency response, a few more properties matter.",
+    "Sensitivity is the electrical output a microphone gives for a certain pressure; it is usually given in millivolts per pascal.",
+    "Internal noise is the noise a transducer produces when there is no sound at all, and it limits the measurement of very faint sounds.",
+    "Dynamic range is the range between the faintest and strongest levels at which a transducer works without distortion.",
+    "At very high levels, the output breaks down and frequencies that are not in the signal are added; this is called distortion.",
+    "Directionality describes how sensitive a microphone is to sounds coming from different directions."
+   ]
+  },
+  {
+   "id": "kalibrasyon",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Properties",
+   "baslik": "Transducers and *calibration*",
+   "maddeler": [
+    {
+     "metin": "Yearly _full calibration_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Artificial ear: _measurement microphone_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Daily _listening check_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Values are _model specific_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 3
+     },
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The properties of transducers can change over time, with knocks and with use.",
+    "So audiometers are fully calibrated at set intervals, usually once a year.",
+    "In calibration, the earphone output is measured with a device called an artificial ear, again using a measurement microphone.",
+    "Every day, a short listening check is done: the cables, earphones and vibrator are checked by listening.",
+    "Calibration values are specific to the transducer model; we will see this later when we discuss dB HL and dB SPL.",
+    "A transducer that is out of calibration gives wrong thresholds, no matter how carefully the test is done."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not replace the audiometer's earphone with a different model; calibration is model specific. Fix cable crackle or weakness in one ear before testing.",
+   "cumleler": [
+    "A useful tip for the clinic: do not replace the audiometer's earphone with a different model.",
+    "Calibration values are specific to that model; if another model is plugged in, the levels delivered will be wrong.",
+    "During the daily listening check, gently move the cable; fix any crackle, dropout or weakness in one ear before testing.",
+    "Even a small fault in a transducer can make the whole audiogram misleading."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Transducer: changes the _form of energy_",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Measurement microphone: _condenser_ type",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Earphone, insert, vibrator, _receiver_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Frequency response and _calibration_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Transducers convert one form of energy into another; a microphone turns sound into electricity, a loudspeaker electricity into sound.",
+    "Dynamic microphones are rugged; condenser and electret microphones are small and sensitive and give a flat response.",
+    "Audiology uses supra-aural and insert earphones, bone vibrators and loudspeakers; the speaker in a hearing aid is called the receiver.",
+    "Frequency response, sensitivity and internal noise are important properties; transducers must be calibrated regularly."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What type are measurement microphones?",
+   "secenekler": [
+    "Dynamic",
+    "Condenser",
+    "Balanced armature"
+   ],
+   "dogru": 1,
+   "aciklama": "Thanks to its light diaphragm, the _condenser_ microphone gives a wide, flat frequency response.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what type are the measurement microphones used in sound level meters and in calibration?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the condenser microphone.",
+    "Thanks to its light diaphragm, it gives a wide, flat frequency response."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The Temporal Bone: Where the *Ear* Lives",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will get to know the bone that houses the ear: the temporal bone.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

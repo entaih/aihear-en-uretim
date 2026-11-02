@@ -1,0 +1,1081 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D184_Acoustic_Feedback_Occlusion_Effect_EN",
+ "kapak": {
+  "ust": "LESSON 184",
+  "baslik": "Feedback and<br>*occlusion*",
+  "alt": "Whistling, vents and own voice",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Acoustic Feedback and the Occlusion Effect | Lesson 184 | AIHEAR Audiology Academy",
+  "aciklama": "Why does a hearing aid whistle, and why do people hear their own voice as muffled? In this lesson we cover the acoustic feedback loop, adaptive feedback cancellation, how the occlusion effect is measured, the effects of vents and open fit, and how to approach own voice complaints.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Dillon, Hearing Aids; Mueller, Ricketts and Bentler, Modern Hearing Aids; Katz, Handbook of Clinical Audiology; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "occlusion"
+  ],
+  "etiketler": [
+   "acoustic feedback",
+   "feedback cancellation",
+   "added stable gain",
+   "occlusion effect",
+   "vent",
+   "open fit",
+   "own voice",
+   "earmold",
+   "hearing aid fitting",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 184",
+   "baslik": "Feedback and *occlusion*",
+   "alt": "Whistling, vents and own voice perception",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the two most common acoustic problems of hearing aid users: whistling and a muffled own voice.",
+    "We will see how feedback arises, how it is prevented, and how a vent reduces the occlusion effect."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is feedback?",
+   "baslik": "The path of the *whistle*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "alici",
+     "metin": "receiver: sound comes out",
+     "cumle": 1
+    },
+    {
+     "parca": "kalip",
+     "metin": "earmold edge: leakage",
+     "cumle": 2
+    },
+    {
+     "parca": "mikrofon",
+     "metin": "microphone: sound returns",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "alici",
+     "cumle": 1
+    },
+    {
+     "parca": "kalip",
+     "cumle": 2
+    },
+    {
+     "parca": "mikrofon",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sound leaks out of the ear",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "The microphone picks up leaked sound",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "The loop grows: _whistling_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Acoustic feedback is when the sound produced by the hearing aid reaches its own microphone again.",
+    "Sound comes out of the receiver and is delivered into the ear canal through the earmold or dome.",
+    "Part of this sound leaks out through small gaps at the edge of the earmold and through the vent.",
+    "If the leaked sound reaches the microphone, the aid amplifies it too and delivers it to the ear again.",
+    "As the loop feeds itself, the sound grows and the whistling heard by the user or the people nearby appears.",
+    "In short, feedback is a sound loop that closes between the microphone and the receiver."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "What is feedback?",
+   "baslik": "A self-feeding *loop*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Receiver",
+     "cumle": 0,
+     "metin": "Delivers sound to the ear"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Leakage",
+     "cumle": 1,
+     "metin": "Through vent and edges"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Microphone",
+     "cumle": 2,
+     "metin": "Picks up leaked sound"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Amplification",
+     "cumle": 3,
+     "metin": "Gain again"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Whistling",
+     "cumle": 4,
+     "metin": "The loop grows"
+    }
+   ],
+   "cumleler": [
+    "Let us follow the loop step by step: the receiver delivers the amplified sound into the ear canal.",
+    "Part of the sound escapes through the vent or a gap at the edge of the earmold.",
+    "The escaping sound reaches the microphone next to the pinna.",
+    "The aid processes this sound like a new input and amplifies it again.",
+    "If the sound grows a little stronger on each round, the loop becomes unstable and a continuous whistle is heard."
+   ]
+  },
+  {
+   "id": "dongu_kazanci",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is feedback?",
+   "baslik": "When does *whistling* start?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 70,
+     "adim": 10,
+     "ad": "dB"
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        15
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        38
+       ],
+       [
+        3000,
+        45
+       ],
+       [
+        4000,
+        42
+       ],
+       [
+        6000,
+        30
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "hearing aid gain",
+      "cumle": 1
+     },
+     {
+      "ad": "yol",
+      "noktalar": [
+       [
+        250,
+        66
+       ],
+       [
+        500,
+        60
+       ],
+       [
+        1000,
+        52
+       ],
+       [
+        2000,
+        42
+       ],
+       [
+        3000,
+        38
+       ],
+       [
+        4000,
+        38
+       ],
+       [
+        6000,
+        41
+       ],
+       [
+        8000,
+        46
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "feedback path attenuation",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "risk",
+      "x": [
+       2300,
+       4700
+      ],
+      "renk": "sari",
+      "etiket": "whistling risk",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Two quantities determine when feedback will start.",
+    "The first is the gain the aid provides at that frequency.",
+    "The second is how much the leaked sound weakens on its way back to the microphone; we can call this the feedback path attenuation.",
+    "When gain reaches this attenuation, that is, when the loop gain rises to zero decibels, the sound feeds itself.",
+    "When the phase also lines up, whistling starts; this is usually seen between about 2000 and 5000 Hz.",
+    "This is because most gain is given in this region, and short-wavelength sounds escape easily through small gaps."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What is feedback?",
+   "baslik": "What *increases* feedback",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Loose earmold",
+     "cumle": 1,
+     "metin": "Leakage at the edge"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Earwax",
+     "cumle": 2,
+     "metin": "Reflects sound back"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Nearby surface",
+     "cumle": 3,
+     "metin": "Hand, hat, phone"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Jaw movement",
+     "cumle": 4,
+     "metin": "Canal shape changes"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Large vent",
+     "cumle": 5,
+     "metin": "More sound escapes"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "High gain",
+     "cumle": 5,
+     "metin": "In the high frequencies"
+    }
+   ],
+   "cumleler": [
+    "Recognizing the situations that raise feedback risk solves most of the problem.",
+    "If the earmold fits loosely, or the ear canal changes shape after the earmold is made, a leakage gap forms at the edge.",
+    "Wax building up in the ear canal can reflect the sound from the receiver back and make whistling easier.",
+    "When a phone, a hat or a hand during a hug comes near the ear, the leaked sound reflects and reaches the microphone more easily.",
+    "Jaw movement while talking and chewing changes the shape of the ear canal and can shift the earmold slightly.",
+    "A large vent and high treble gain are the two fitting factors that contribute most to the loop."
+   ]
+  },
+  {
+   "id": "iptal",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Managing feedback",
+   "baslik": "Feedback *cancellation*",
+   "adimlar": [
+    {
+     "ikon": "yazilim",
+     "baslik": "Estimate the path",
+     "cumle": 1,
+     "metin": "Continuous model"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Make a copy",
+     "cumle": 2,
+     "metin": "Estimate of leaked sound"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Subtract",
+     "cumle": 3,
+     "metin": "From the microphone signal"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Update",
+     "cumle": 4,
+     "metin": "Adapts when the ear changes"
+    }
+   ],
+   "cumleler": [
+    "In today's hearing aids, the most important tool is the adaptive feedback cancellation system.",
+    "The system continuously estimates the path the sound follows on its way from the receiver back to the microphone.",
+    "With this estimate, a copy of the leakage sound expected to reach the microphone is calculated.",
+    "The copy is subtracted from the microphone signal, so the leakage is largely neutralized before the loop closes.",
+    "When a phone comes near the ear the path changes, and the system tries to adapt to this change quickly."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Managing feedback",
+   "baslik": "How much does it *help?*",
+   "maddeler": [
+    {
+     "metin": "Added stable gain: _varies by device_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Marked differences between devices",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Side effects with tonal sounds like music",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Older methods: gain reduction, notch",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "No substitute for a well-fitting earmold",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "islemci",
+      "metin": "cancellation: in the processor",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "The increase in gain available before whistling, thanks to the cancellation system, is called added stable gain.",
+    "This increase varies markedly between devices; measured values range from a few decibels to over 20 dB.",
+    "The system may mistake steady tonal sounds such as music or a doorbell for feedback and distort them; brief chirps may be heard.",
+    "Older methods were to reduce gain in the high frequencies or to place a narrow notch filter at the whistling frequency.",
+    "No algorithm replaces a well-fitting earmold, the right vent choice and a clean ear canal."
+   ]
+  },
+  {
+   "id": "okluzyon",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The occlusion effect",
+   "baslik": "Why is my own voice *muffled?*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "ear canal wall vibrates",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "tympanic membrane",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bone-conducted vibration into the canal",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Low-frequency sound _trapped_ in a closed canal",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Muffled, echoing own voice",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Now let us move to the second problem: the occlusion effect.",
+    "When we talk, our own voice vibrates the skull, and this vibration also reaches the wall of the ear canal.",
+    "The wall of the outer cartilaginous portion in particular vibrates and radiates a mainly low-frequency sound into the ear canal.",
+    "When the ear canal is open, this sound escapes and goes unnoticed.",
+    "When the ear canal is closed by an earmold, however, the sound stays inside and is directed toward the tympanic membrane.",
+    "As a result, the person hears their own voice as muffled, echoing, or as if it were coming from inside their head."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The occlusion effect",
+   "baslik": "*Measuring* occlusion",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 50,
+     "max": 100,
+     "adim": 10,
+     "ad": "Level in the ear canal (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "acik",
+      "noktalar": [
+       [
+        125,
+        70
+       ],
+       [
+        250,
+        72
+       ],
+       [
+        500,
+        74
+       ],
+       [
+        1000,
+        72
+       ],
+       [
+        2000,
+        68
+       ],
+       [
+        4000,
+        62
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "open ear",
+      "cumle": 1
+     },
+     {
+      "ad": "kapali",
+      "noktalar": [
+       [
+        125,
+        92
+       ],
+       [
+        250,
+        95
+       ],
+       [
+        500,
+        86
+       ],
+       [
+        1000,
+        75
+       ],
+       [
+        2000,
+        68
+       ],
+       [
+        4000,
+        61
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "occluded, aid muted",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       72,
+       95
+      ],
+      "xk": 250,
+      "etiket": "about 23 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The occlusion effect can be shown objectively with a probe microphone real-ear measurement.",
+    "First, with the ear canal open, the person is asked to sustain the vowel \"ee\" at a steady level, and the level in the canal is measured.",
+    "Then the same measurement is repeated with the aid in place but muted.",
+    "The difference between the two curves gives the size of the occlusion effect at low frequencies.",
+    "In this example the difference is about 23 dB around 250 Hz, but only a few decibels at 1000 Hz.",
+    "With shallow, closed earmolds this difference can reach 20 to 30 dB below 500 Hz."
+   ]
+  },
+  {
+   "id": "derinlik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The occlusion effect",
+   "baslik": "Depth and the *bony portion*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "tip closing the ear canal",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "bony portion",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Shallow seal: _large_ effect",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Seal in the bony portion: _small_ effect",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Deep earmold: mind comfort",
+     "cumle": 4,
+     "ikon": "agri"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The size of the occlusion effect depends on where in the ear canal the earmold seals.",
+    "If the earmold closes only the outer cartilaginous portion, the vibrating wall stays inside the closed space and the effect grows.",
+    "If the earmold extends into the inner bony portion and seals there, the vibrating cartilaginous wall stays outside the closed space.",
+    "This is why the occlusion effect is markedly smaller with deeply seated earmolds.",
+    "However, the skin of the bony portion is thin and sensitive; a deep earmold can cause discomfort and needs a careful impression."
+   ]
+  },
+  {
+   "id": "vent",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Vents and open fit",
+   "baslik": "The effect of a *vent*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -30,
+     "max": 5,
+     "adim": 10,
+     "ad": "Change in gain (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "v1",
+      "noktalar": [
+       [
+        250,
+        -8
+       ],
+       [
+        500,
+        -4
+       ],
+       [
+        750,
+        -1
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        4000,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "1 mm",
+      "cumle": 3
+     },
+     {
+      "ad": "v2",
+      "noktalar": [
+       [
+        250,
+        -16
+       ],
+       [
+        500,
+        -9
+       ],
+       [
+        750,
+        -4
+       ],
+       [
+        1000,
+        -2
+       ],
+       [
+        1500,
+        0
+       ],
+       [
+        4000,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "2 mm",
+      "cumle": 4
+     },
+     {
+      "ad": "v3",
+      "noktalar": [
+       [
+        250,
+        -25
+       ],
+       [
+        500,
+        -17
+       ],
+       [
+        750,
+        -10
+       ],
+       [
+        1000,
+        -6
+       ],
+       [
+        1500,
+        -2
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        4000,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "3 mm",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The most common way to reduce the occlusion effect is to drill a vent, a ventilation channel, in the earmold.",
+    "The vent creates a path for the low-frequency sound trapped in the ear canal to get out.",
+    "The same path also lets part of the low-frequency gain from the aid escape.",
+    "In this example, a 1 mm vent produces a reduction of about 8 decibels at 250 Hz.",
+    "As the vent widens, the reduction grows and spreads to higher frequencies; with a 3 mm vent it can exceed 20 dB at 250 Hz.",
+    "A long, narrow vent has less effect than a short, wide one.",
+    "As the vent gets larger, feedback risk also rises; so choosing a vent is always a balance."
+   ]
+  },
+  {
+   "id": "acik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Vents and open fit",
+   "baslik": "Open fit: *pros and cons*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Natural low tones",
+     "cumle": 0,
+     "metin": "Ear canal stays open"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Natural own voice",
+     "cumle": 1,
+     "metin": "Very little occlusion"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Comfort",
+     "cumle": 2,
+     "metin": "Light and airy"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Little low-frequency gain",
+     "cumle": 3,
+     "metin": "Sound escapes"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Whistling risk",
+     "cumle": 4,
+     "metin": "Needs feedback cancellation"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Limits in noise",
+     "cumle": 5,
+     "metin": "Direct sound mixes in"
+    }
+   ],
+   "cumleler": [
+    "In an open fit, a perforated dome or a very widely vented tip is used, and the ear canal stays largely open.",
+    "The person's own voice sounds close to natural; the occlusion effect usually does not exceed a few decibels.",
+    "Because the ear canal is ventilated, the tip is comfortable and light; first-time users usually adapt easily.",
+    "On the other hand, most of the gain given at low frequencies escapes; that is, low-frequency gain is limited.",
+    "High gain at high frequencies also raises feedback risk, so an effective cancellation system is needed.",
+    "In addition, direct sound entering through the open canal weakens the low-frequency effect of directional microphones and noise reduction."
+   ]
+  },
+  {
+   "id": "kime",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Vents and open fit",
+   "baslik": "Open fit *for whom?*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Right ear air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Normal range",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       45,
+       60,
+       65
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Open fit suits people whose low frequencies are near normal and whose loss is concentrated in the high frequencies.",
+    "In this example, right ear thresholds are within normal limits up to 1000 Hz, with a moderate to moderately severe loss from 2000 Hz up.",
+    "This person already hears low-frequency sounds naturally; closing the ear canal would only bring an occlusion complaint.",
+    "A person with a marked low-frequency loss may need a closed or lightly vented tip; the decision is made individually."
+   ]
+  },
+  {
+   "id": "sikayet",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "The own voice complaint",
+   "baslik": "The *\"my voice sounds strange\"* complaint",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Listen",
+     "cumle": 0,
+     "metin": "The person's description"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Mute the aid",
+     "cumle": 1,
+     "metin": "Does the complaint persist?"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Occlusion",
+     "cumle": 3,
+     "metin": "Vent, depth"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Too much low gain",
+     "cumle": 4,
+     "metin": "Reduce low-frequency gain"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Acclimatization",
+     "cumle": 5,
+     "metin": "Allow time"
+    }
+   ],
+   "cumleler": [
+    "A complaint about own voice perception is one of the most common complaints from new users.",
+    "A practical way to tell the causes apart is to mute the aid while it is in the ear and ask the person to talk again.",
+    "If the complaint persists with the aid muted, the problem is largely physical; that is, it is the occlusion effect.",
+    "In this case the vent is enlarged, an open tip is tried, or extending the earmold into the bony portion is considered.",
+    "If the complaint occurs only with the aid on, excess low-frequency gain may be responsible; gain in that region is reduced.",
+    "In both cases it is important to explain that getting used to one's own voice can take a few weeks."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "With a whistling complaint, look in the ear canal with an otoscope first; wax and a loose earmold are the most common causes to fix before adjusting settings.",
+   "cumleler": [
+    "A tip from the field: in every user with a whistling complaint, the first step is to look in the ear canal with an otoscope.",
+    "A wax plug, or the receiver pressing against wax, is a common cause of a new whistle that appears without any change in settings.",
+    "Then check how the earmold or dome sits in the ear; weight loss and aging can change the shape of the ear canal.",
+    "Silencing the whistle by reducing gain is easy, but then the person loses the high-frequency sounds of speech.",
+    "So before touching the settings, ruling out physical causes and measuring the feedback path again is the safest approach."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Feedback: a loop of sound leaking out",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cancellation adds gain, but has limits",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Occlusion: own voice trapped in a closed canal",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Vents and open fit reduce occlusion",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that acoustic feedback is a loop that closes when sound leaking from the ear returns to the microphone.",
+    "Adaptive feedback cancellation provides added gain, but does not replace a good earmold and a clean ear canal.",
+    "The occlusion effect is the trapping of the low-frequency part of the person's own voice in a closed ear canal.",
+    "Vents and open fit reduce occlusion, but they limit low-frequency gain and increase feedback risk."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "A person hears their own voice as muffled even with the aid muted. Likely cause?",
+   "secenekler": [
+    "Too much high-frequency gain",
+    "Occlusion effect",
+    "Weak battery",
+    "Noise reduction"
+   ],
+   "dogru": 1,
+   "aciklama": "If the complaint persists with the aid muted, the source is _physical closure_: the vent and earmold depth are evaluated.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: a person hears their own voice as muffled even with the aid in the ear but muted. What is the likely cause?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the occlusion effect.",
+    "If the complaint persists while the aid gives no sound, the source is closure of the ear canal; the vent and earmold depth are evaluated."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Earmolds: Impressions, Materials, *Acoustic Changes*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at earmolds: safe impression taking, materials, vents, horns and dampers.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1112 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D073_How_Speech_Is_Produced_EN",
+ "kapak": {
+  "ust": "LESSON 73",
+  "baslik": "How speech is<br>*produced*",
+  "alt": "Breath, voice and articulation",
+  "cizim": "kaynak_suzgec"
+ },
+ "youtube": {
+  "baslik": "How Speech Is Produced: Breath, Voice, Articulation | Lesson 73 | AIHEAR Audiology Academy",
+  "aciklama": "Which systems work together to produce speech? In this lesson we learn about speech breathing, how the larynx and vocal folds produce voice, how pitch and loudness are controlled, the resonance of the vocal tract, the role of the velum, the articulators and coarticulation, and finally the place of auditory feedback in speech.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Raphael, Borden and Harris, Speech Science Primer: Physiology, Acoustics, and Perception of Speech; Titze, Principles of Voice Production; Fant, Acoustic Theory of Speech Production; Ladefoged, A Course in Phonetics.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "speech",
+   "speechscience"
+  ],
+  "etiketler": [
+   "speech production",
+   "larynx",
+   "vocal folds",
+   "phonation",
+   "articulation",
+   "resonance",
+   "vocal tract",
+   "formants",
+   "coarticulation",
+   "Lombard effect",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 73",
+   "baslik": "How speech is *produced*",
+   "alt": "Breath, voice and articulation",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we move from the ear to speech and learn how speech is produced.",
+    "We will look at breathing, voice production in the larynx, resonance and articulation in turn, and end with the role of hearing in speech."
+   ]
+  },
+  {
+   "id": "sistemler",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Breath and voice",
+   "baslik": "The *four* subsystems of speech",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Respiration",
+     "metin": "Airflow, energy",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Phonation",
+     "metin": "Vocal folds vibrate",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Resonance",
+     "metin": "The vocal tract filters",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Articulation",
+     "metin": "Sounds take shape",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Speech is the product of four subsystems working together.",
+    "The respiratory system provides the airflow that is the energy source of speech.",
+    "The larynx turns this airflow into a vibrating sound; this is called phonation.",
+    "The vibration is produced by the vocal folds inside the larynx, called plicae vocales in Latin.",
+    "The cavities of the vocal tract filter and shape this sound; this is called resonance.",
+    "The tongue, lips, jaw and soft palate turn the sound into speech sounds; this is called articulation.",
+    "All these movements are coordinated by the brain at the level of milliseconds and are constantly monitored by hearing."
+   ]
+  },
+  {
+   "id": "solunum",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Breath and voice",
+   "baslik": "Speech *breathing*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Time (s)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": "Lung volume"
+    },
+    "seriler": [
+     {
+      "ad": "sessiz",
+      "noktalar": [
+       [
+        0.0,
+        0.35
+       ],
+       [
+        0.2,
+        0.36
+       ],
+       [
+        0.4,
+        0.387
+       ],
+       [
+        0.6,
+        0.427
+       ],
+       [
+        0.8,
+        0.475
+       ],
+       [
+        1.0,
+        0.523
+       ],
+       [
+        1.2,
+        0.563
+       ],
+       [
+        1.4,
+        0.59
+       ],
+       [
+        1.6,
+        0.6
+       ],
+       [
+        1.75,
+        0.598
+       ],
+       [
+        1.9,
+        0.59
+       ],
+       [
+        2.05,
+        0.579
+       ],
+       [
+        2.2,
+        0.563
+       ],
+       [
+        2.35,
+        0.544
+       ],
+       [
+        2.5,
+        0.523
+       ],
+       [
+        2.65,
+        0.499
+       ],
+       [
+        2.8,
+        0.475
+       ],
+       [
+        2.95,
+        0.451
+       ],
+       [
+        3.1,
+        0.427
+       ],
+       [
+        3.25,
+        0.406
+       ],
+       [
+        3.4,
+        0.387
+       ],
+       [
+        3.55,
+        0.371
+       ],
+       [
+        3.7,
+        0.36
+       ],
+       [
+        3.85,
+        0.352
+       ],
+       [
+        4.0,
+        0.35
+       ],
+       [
+        4.0,
+        0.35
+       ],
+       [
+        4.2,
+        0.36
+       ],
+       [
+        4.4,
+        0.387
+       ],
+       [
+        4.6,
+        0.427
+       ],
+       [
+        4.8,
+        0.475
+       ],
+       [
+        5.0,
+        0.523
+       ],
+       [
+        5.2,
+        0.563
+       ],
+       [
+        5.4,
+        0.59
+       ],
+       [
+        5.6,
+        0.6
+       ],
+       [
+        5.75,
+        0.598
+       ],
+       [
+        5.9,
+        0.59
+       ],
+       [
+        6.05,
+        0.579
+       ],
+       [
+        6.2,
+        0.563
+       ],
+       [
+        6.35,
+        0.544
+       ],
+       [
+        6.5,
+        0.523
+       ],
+       [
+        6.65,
+        0.499
+       ],
+       [
+        6.8,
+        0.475
+       ],
+       [
+        6.95,
+        0.451
+       ],
+       [
+        7.1,
+        0.427
+       ],
+       [
+        7.25,
+        0.406
+       ],
+       [
+        7.4,
+        0.387
+       ],
+       [
+        7.55,
+        0.371
+       ],
+       [
+        7.7,
+        0.36
+       ],
+       [
+        7.85,
+        0.352
+       ],
+       [
+        8.0,
+        0.35
+       ],
+       [
+        8.0,
+        0.35
+       ],
+       [
+        8.2,
+        0.36
+       ],
+       [
+        8.4,
+        0.387
+       ],
+       [
+        8.6,
+        0.427
+       ],
+       [
+        8.8,
+        0.475
+       ],
+       [
+        9.0,
+        0.523
+       ],
+       [
+        9.2,
+        0.563
+       ],
+       [
+        9.4,
+        0.59
+       ],
+       [
+        9.6,
+        0.6
+       ],
+       [
+        9.75,
+        0.598
+       ],
+       [
+        9.9,
+        0.59
+       ],
+       [
+        10,
+        0.583
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 4,
+      "cumle": 2,
+      "etiket": "quiet breathing",
+      "etiket_konum": [
+       8.6,
+       0.6
+      ],
+      "etiket_dx": 6,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "konusma",
+      "noktalar": [
+       [
+        0.0,
+        0.2
+       ],
+       [
+        0.06,
+        0.229
+       ],
+       [
+        0.12,
+        0.31
+       ],
+       [
+        0.19,
+        0.431
+       ],
+       [
+        0.25,
+        0.575
+       ],
+       [
+        0.31,
+        0.719
+       ],
+       [
+        0.38,
+        0.84
+       ],
+       [
+        0.44,
+        0.921
+       ],
+       [
+        0.5,
+        0.95
+       ],
+       [
+        0.78,
+        0.943
+       ],
+       [
+        1.06,
+        0.921
+       ],
+       [
+        1.34,
+        0.887
+       ],
+       [
+        1.62,
+        0.84
+       ],
+       [
+        1.91,
+        0.783
+       ],
+       [
+        2.19,
+        0.719
+       ],
+       [
+        2.47,
+        0.648
+       ],
+       [
+        2.75,
+        0.575
+       ],
+       [
+        3.03,
+        0.502
+       ],
+       [
+        3.31,
+        0.431
+       ],
+       [
+        3.59,
+        0.367
+       ],
+       [
+        3.88,
+        0.31
+       ],
+       [
+        4.16,
+        0.263
+       ],
+       [
+        4.44,
+        0.229
+       ],
+       [
+        4.72,
+        0.207
+       ],
+       [
+        5.0,
+        0.2
+       ],
+       [
+        5.0,
+        0.2
+       ],
+       [
+        5.06,
+        0.229
+       ],
+       [
+        5.12,
+        0.31
+       ],
+       [
+        5.19,
+        0.431
+       ],
+       [
+        5.25,
+        0.575
+       ],
+       [
+        5.31,
+        0.719
+       ],
+       [
+        5.38,
+        0.84
+       ],
+       [
+        5.44,
+        0.921
+       ],
+       [
+        5.5,
+        0.95
+       ],
+       [
+        5.78,
+        0.943
+       ],
+       [
+        6.06,
+        0.921
+       ],
+       [
+        6.34,
+        0.887
+       ],
+       [
+        6.62,
+        0.84
+       ],
+       [
+        6.91,
+        0.783
+       ],
+       [
+        7.19,
+        0.719
+       ],
+       [
+        7.47,
+        0.648
+       ],
+       [
+        7.75,
+        0.575
+       ],
+       [
+        8.03,
+        0.502
+       ],
+       [
+        8.31,
+        0.431
+       ],
+       [
+        8.59,
+        0.367
+       ],
+       [
+        8.88,
+        0.31
+       ],
+       [
+        9.16,
+        0.263
+       ],
+       [
+        9.44,
+        0.229
+       ],
+       [
+        9.72,
+        0.207
+       ],
+       [
+        10.0,
+        0.2
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 3,
+      "etiket": "while speaking",
+      "etiket_konum": [
+       0.5,
+       0.95
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": -12
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "verme",
+      "x": [
+       0.5,
+       5
+      ],
+      "y": 1.08,
+      "etiket": "long exhalation: speech",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "konusma",
+     "cumle": 3
+    },
+    {
+     "parca": "verme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The energy of speech is the airflow from the lungs; we produce sounds mostly while breathing out.",
+    "When we breathe in, the diaphragm contracts and moves down; the chest cavity expands and air flows in.",
+    "In quiet breathing, inhalation and exhalation take similar times; inhalation takes about forty percent of the cycle.",
+    "When speaking, we breathe in quickly and talk through a long exhalation; inhalation drops to about ten percent of the cycle.",
+    "For speech, a steady pressure must build up below the vocal folds; this is called subglottal pressure.",
+    "In ordinary speech this pressure is about five to ten centimeters of water; it rises when we speak loudly.",
+    "Raising this pressure makes the voice louder, so breath support is the main source of vocal loudness."
+   ]
+  },
+  {
+   "id": "fonasyon",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Breath and voice",
+   "baslik": "*How* do the vocal folds vibrate?",
+   "cumleler": [
+    "The larynx is a structure made of cartilages at the upper end of the windpipe.",
+    "Inside it are two vocal folds, one on each side; the space between them is called the glottis.",
+    "When we breathe in, the glottis opens; when we start to speak, the vocal folds come together and the glottis closes.",
+    "Air pressure builds below the closed folds; the pressure pushes the folds apart, and a short puff of air escapes.",
+    "The folds close again through their own elasticity and the suction created by fast-moving air, the Bernoulli effect.",
+    "This cycle repeats hundreds of times a second; this explanation is called the myoelastic aerodynamic theory.",
+    "The rate of the cycle is the fundamental frequency; each closure creates a pressure pulse, so the source has a fundamental and harmonics."
+   ],
+   "cizim": "larinks_ustten",
+   "ayar": {
+    "kapanma_cumle": 2,
+    "titresim_cumle": 3,
+    "bernoulli_cumle": 4,
+    "f0_cumle": 6
+   },
+   "notlar": [
+    {
+     "metin": "Folds close: _Glottis closed_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Folds open: _A puff of air escapes_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Close again: _Elasticity and suction_",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ses_telleri",
+     "metin": "vocal folds",
+     "cumle": 1
+    },
+    {
+     "parca": "glottis",
+     "metin": "glottis",
+     "cumle": 1
+    }
+   ]
+  },
+  {
+   "id": "perde",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Breath and voice",
+   "baslik": "Controlling pitch and *loudness*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "More tension",
+     "metin": "Fundamental frequency rises",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Larger mass",
+     "metin": "Lower in males",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "More pressure",
+     "metin": "Louder voice",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Whisper",
+     "metin": "No vibration, turbulence",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "We change the pitch and loudness of our voice by adjusting the vocal folds.",
+    "Stretched and lengthened vocal folds vibrate faster and the fundamental frequency rises; the cricothyroid muscle plays a key role here.",
+    "The mass of the vocal folds also matters; in males the folds are longer and thicker, so the fundamental frequency is lower.",
+    "At puberty, as the larynx grows, the fundamental frequency drops clearly, especially in males.",
+    "Loudness rises mainly with subglottal pressure and with how tightly the vocal folds close.",
+    "In a whisper, the vocal folds do not vibrate; air passes turbulently through a narrowed glottis, creating an aperiodic sound."
+   ]
+  },
+  {
+   "id": "rezonans",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Resonance",
+   "baslik": "The vocal tract is a *filter*",
+   "cizim": "kaynak_suzgec",
+   "ayar": {
+    "f0": 125,
+    "formantlar": [
+     500,
+     1500,
+     2500
+    ],
+    "kaynak_cumle": 0,
+    "suzgec_cumle": 1,
+    "cikis_cumle": 4
+   },
+   "vurgula": [
+    {
+     "parca": "kaynak",
+     "cumle": 0
+    },
+    {
+     "parca": "suzgec",
+     "cumle": 2
+    },
+    {
+     "parca": "formantlar",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "formantlar",
+     "metin": "500, 1500, 2500 Hz",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vocal tract: about _17 cm_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "A _tube_ closed at one end",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Shorter tract: _higher_ formants",
+     "cumle": 5,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "The sound made at the vocal folds is like a buzz on its own; the vocal tract is what turns it into speech.",
+    "The vocal tract is the set of cavities from the larynx to the lips and the nasal cavity.",
+    "In an adult male, the vocal tract is about seventeen centimeters long and acts like a tube closed at one end.",
+    "Such a tube resonates near five hundred, fifteen hundred and twenty five hundred hertz, close to the formants of a neutral vowel.",
+    "The vocal tract strengthens the source harmonics near its resonances and weakens the others.",
+    "In women and children the vocal tract is shorter, so the formants are higher."
+   ]
+  },
+  {
+   "id": "velum",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Resonance",
+   "baslik": "The soft palate: the *velum*",
+   "cizim": "ostaki_kaslari",
+   "vurgula": [
+    {
+     "parca": "yumusak_damak",
+     "cumle": 0
+    },
+    {
+     "parca": "levator_veli_palatini",
+     "cumle": 3
+    },
+    {
+     "parca": "tensor_veli_palatini",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yumusak_damak",
+     "metin": "Velum (soft palate)",
+     "cumle": 0
+    },
+    {
+     "parca": "levator_veli_palatini",
+     "metin": "Levator veli palatini",
+     "cumle": 3
+    },
+    {
+     "parca": "tensor_veli_palatini",
+     "metin": "Tensor veli palatini",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Raised: sounds _through the mouth_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Lowered: _m, n_ through the nose",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Cleft palate: _speech and ear_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "The velum, or soft palate, is a muscular curtain that opens and closes the passage between the mouth and the nasal cavity.",
+    "For most speech sounds, the velum rises and closes off the nasal cavity; this is called velopharyngeal closure.",
+    "For nasal sounds such as m and n, the velum lowers, sound also leaves through the nose, and the nasal cavity joins the resonance.",
+    "The velum is raised mainly by the levator veli palatini; its neighbor, the tensor veli palatini, helps open the Eustachian tube.",
+    "In cleft palate this closure may be incomplete; speech can sound nasal, and middle ear problems are also common in these children.",
+    "So in children with cleft palate, speech and hearing are monitored together."
+   ]
+  },
+  {
+   "id": "artikulatorler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Articulation",
+   "baslik": "The *articulators*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Lips",
+     "metin": "Close, round",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tongue",
+     "metin": "Tip, body, root",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Lower jaw",
+     "metin": "Mouth opening",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Passive structures",
+     "metin": "Teeth, hard palate",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Articulation is the set of movements that form speech sounds by quickly changing the shape of the vocal tract.",
+    "The moving structures are called active articulators: the lips, tongue, lower jaw and soft palate.",
+    "The tongue is the most flexible articulator; its tip, body and root take separate positions for different sounds.",
+    "The fixed structures that active articulators approach are called passive articulators: the teeth, the alveolar ridge and the hard palate.",
+    "For vowels, the vocal tract stays open; the position of the tongue and lips only changes the formants.",
+    "For consonants, a narrowing or a full closure forms at some point in the vocal tract.",
+    "Where and how this narrowing forms, the place and manner of articulation, we will see next lesson through the sounds of Turkish."
+   ]
+  },
+  {
+   "id": "essesletim",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Articulation",
+   "baslik": "Fast and *overlapping* sounds",
+   "cizim": "spektrogram",
+   "ayar": {
+    "cumle": 0
+   },
+   "vurgula": [
+    {
+     "parca": "formantlar",
+     "cumle": 3
+    },
+    {
+     "parca": "s_sesi",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "formantlar",
+     "metin": "Formant transitions",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "About _10 to 15_ sounds per second",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sounds _overlap_: coarticulation",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Transitions _identify the consonant_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Speech is a very fast motor skill; in ordinary speech we produce about ten to fifteen sounds per second.",
+    "At this speed, the articulators prepare for the next sound before finishing the current one; sounds are produced blended together.",
+    "This overlap is called coarticulation.",
+    "On a spectrogram, the formant transitions between a consonant and a vowel are the acoustic trace of this overlap.",
+    "For the listener, these transitions are valuable cues; we often recognize a consonant from the formant transition of the neighboring vowel.",
+    "So speech sounds are not separate like letters, but a continuous, overlapping stream."
+   ]
+  },
+  {
+   "id": "geri_bildirim",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Hearing and speech",
+   "baslik": "Auditory *feedback*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "We speak",
+     "metin": "Sound is produced",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "We hear",
+     "metin": "Our own voice",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "We compare",
+     "metin": "Match to the target",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "We correct",
+     "metin": "Loudness, pitch, sounds",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "When we speak, we also hear our own voice; this auditory feedback plays an important role in controlling speech.",
+    "In a noisy place, we raise our voice without noticing; this is called the Lombard effect.",
+    "When we hear our own voice with a delay of about two hundred milliseconds, the fluency of speech is clearly disrupted.",
+    "Hearing is needed to learn speech; a child imitates the sounds they hear and compares their own output with the models they hear.",
+    "In children born with severe hearing loss who lack enough auditory access, pitch, voice quality and consonants can be affected.",
+    "In adults who lose their hearing after language development, control of loudness and pitch can also deteriorate over the long term.",
+    "Early diagnosis, hearing aids and cochlear implants rebuild this loop and support speech development."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Hearing and speech",
+   "baslik": "*Speech* for the audiologist",
+   "maddeler": [
+    {
+     "metin": "Listening to speech: _the first clue_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Own voice: _earmold and occlusion_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Voice problems: work with _the therapist_",
+     "cumle": 3,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Speech change: _a sign of access_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_cihazi",
+    "cumle": 2,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Knowledge of speech production is also an everyday tool for the audiologist.",
+    "Listening to the patient's speech, for example very loud speech or consonant errors, gives the first clues about hearing status.",
+    "How hearing aid users hear their own voice is an important criterion when adjusting the earmold and occlusion.",
+    "When speech or voice problems are noticed, it is necessary to work together with a speech and language therapist.",
+    "In follow-up after a hearing aid or implant, changes in speech show how much auditory access has been achieved."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Take care in the clinic",
+   "metin": "In a child who never produces or drops the s and sh sounds, question access to high frequencies; check the fitting with real-ear measurement.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from practice: the missing sounds in the speech of a child with hearing loss can hint at what the child cannot hear.",
+    "For example, in a child who never produces or drops the s and sh sounds, question access to the high frequencies.",
+    "Checking the hearing aid fitting with real-ear measurement is the first step to making these sounds audible.",
+    "A speech error should not be blamed on hearing alone; share the assessment with the speech and language therapist."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Speech rides on a _long exhalation_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Vocal folds: source of the _fundamental_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Vocal tract: forms the _formants_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hearing _monitors_ speech",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "When speaking, we breathe in quickly and talk through a long exhalation; subglottal pressure supplies the energy of the voice.",
+    "The vocal folds turn airflow into vibration; the rate of vibration sets the fundamental frequency, that is, the pitch.",
+    "The vocal tract acts as a filter that strengthens some harmonics and forms the formants; the articulators keep changing its shape.",
+    "Auditory feedback is needed to learn and control speech."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "What sets the fundamental frequency?",
+   "secenekler": [
+    "Vocal fold vibration rate",
+    "Vocal tract length",
+    "Tongue position",
+    "Nasal cavity"
+   ],
+   "dogru": 0,
+   "aciklama": "The fundamental frequency is a property of the _source_, and the formants of the _filter_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what sets the fundamental frequency of the voice?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: the rate at which the vocal folds vibrate.",
+    "The length of the vocal tract, the position of the tongue and the nasal cavity change the formants, that is, the properties of the filter."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Turkish *Speech Sounds*: Vowels and Consonants",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will meet the vowels and consonants of Turkish, with their places and manners of articulation.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

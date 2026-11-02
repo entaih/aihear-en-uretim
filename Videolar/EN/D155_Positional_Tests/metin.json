@@ -1,0 +1,828 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D155_Positional_Tests_EN",
+ "kapak": {
+  "ust": "LESSON 155",
+  "baslik": "Dix-Hallpike and<br>*supine roll*",
+  "alt": "Interpreting positional nystagmus",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Positional Tests: Dix-Hallpike and Supine Roll | Lesson 155 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson covers the positional tests: the Dix-Hallpike maneuver for the posterior canal and the supine roll test for the lateral canal. We explain how the direction, latency and duration of nystagmus are interpreted, compare geotropic and apogeotropic nystagmus, and review central warning signs.\\n\\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\\n\\nSources: Jacobson and Shepard, Balance Function Assessment and Management; von Brevern et al., Benign Paroxysmal Positional Vertigo: Diagnostic Criteria, Journal of Vestibular Research (2015); AAO-HNS, Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (2017).\\n\\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vertigo",
+   "BPPV"
+  ],
+  "etiketler": [
+   "Dix-Hallpike",
+   "supine roll test",
+   "positional testing",
+   "positional nystagmus",
+   "BPPV diagnosis",
+   "BPPV",
+   "geotropic nystagmus",
+   "apogeotropic nystagmus",
+   "vestibular assessment",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 155",
+   "baslik": "Positional *tests*",
+   "alt": "Dix-Hallpike and supine roll",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the positional tests: the Dix-Hallpike maneuver and the supine roll test.",
+    "We will see how the tests are performed and how the direction, latency and duration of nystagmus are interpreted."
+   ]
+  },
+  {
+   "id": "temel",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The basics",
+   "baslik": "*Why* do positional tests?",
+   "maddeler": [
+    {
+     "metin": "_Vertigo_ triggered by head position",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Most common cause: _BPPV_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Goal: _which canal_, which side",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Observe: the features of _nystagmus_",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "posterior_kanal",
+      "metin": "posterior canal",
+      "cumle": 3
+     },
+     {
+      "parca": "lateral_kanal",
+      "metin": "lateral canal",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Brief spinning that starts when lying down, rolling over in bed or looking up is the typical history of positional vertigo.",
+    "The most common cause of this complaint is benign paroxysmal positional vertigo, or BPPV.",
+    "BPPV will be covered in detail in a later lesson; here the focus is on the tests that reveal it.",
+    "Positional tests aim to identify which semicircular canal, and which side, is affected.",
+    "To do this, the head is moved quickly in the plane of a given canal and the resulting nystagmus is observed."
+   ]
+  },
+  {
+   "id": "otokonya",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The basics",
+   "baslik": "When *otoconia* enter a canal",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utricle: home of the otoconia",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "Posterior canal: most often affected",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampulla and cupula",
+     "cumle": 3
+    },
+    {
+     "parca": "lateral_kanal",
+     "metin": "Lateral canal",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lateral canal less often, anterior canal rarely",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Calcium carbonate crystals in the utricle, the otoconia, popularly called ear stones, can become dislodged.",
+    "When these particles enter a semicircular canal, they slide with gravity inside the canal as the head moves.",
+    "The posterior canal is the lowest canal both upright and lying down, so it is also the canal most often affected.",
+    "The moving particles drag the endolymph, deflect the cupula in the ampulla and produce a brief nystagmus.",
+    "The lateral canal is affected less often, and the anterior canal quite rarely.",
+    "Particles may float freely in the canal or stick to the cupula; we will separate these two mechanisms shortly."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "*Preparing* for the test",
+   "maddeler": [
+    {
+     "metin": "History: _which movement_, how long",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "First check for _spontaneous_ nystagmus",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Video goggles or _Frenzel_ lenses",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "A safe table and an _assistant_",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    "Take a history first: ask which movement starts the spinning and how long it lasts.",
+    "Before positional testing, check for spontaneous nystagmus in the sitting and supine positions.",
+    "Use video goggles or Frenzel lenses, because visual fixation suppresses nystagmus of peripheral origin.",
+    "Have a table that can safely support the patient's head and, if needed, an assistant.",
+    "If video goggles are used, remove the patient's glasses and make sure the camera image is clear.",
+    "Warn the patient in advance that nausea is possible, and keep a basin nearby."
+   ]
+  },
+  {
+   "id": "dix_hallpike",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "How to perform *Dix-Hallpike*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Seated",
+     "metin": "Head 45 degrees to test ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Quickly supine",
+     "metin": "Head about 20 degrees back",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Observe",
+     "metin": "At least 30 seconds",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Sit up",
+     "metin": "Eyes watched again",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Other side",
+     "metin": "Same steps repeated",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The Dix-Hallpike maneuver is the standard test for revealing posterior canal BPPV.",
+    "The patient sits on the examination table and the head is turned about forty five degrees toward the ear being tested.",
+    "The patient is then brought quickly to supine, with the head hanging about twenty degrees below the table edge.",
+    "In this position the eyes are watched for at least thirty seconds, or until any nystagmus has ended.",
+    "The patient is then slowly brought back to sitting and the eyes are watched again; nystagmus may reverse at this point.",
+    "The procedure is repeated for the other ear; the ear that is down is the ear being tested."
+   ]
+  },
+  {
+   "id": "kirk_bes",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "Why *45 degrees?*",
+   "cizim": "kanal_duzlemleri",
+   "vurgula": [
+    {
+     "parca": "donus",
+     "cumle": 0
+    },
+    {
+     "parca": "sag_arka_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "hareket_duzlemi",
+     "cumle": 2
+    },
+    {
+     "parca": "larp",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "45 degrees: posterior canal in the plane of motion",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Right posterior and left anterior canals share a plane",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_arka_kanal",
+     "metin": "Right posterior canal",
+     "cumle": 1
+    },
+    {
+     "parca": "hareket_duzlemi",
+     "metin": "Plane of head movement",
+     "cumle": 1
+    },
+    {
+     "parca": "sol_on_kanal",
+     "metin": "Left anterior canal",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "There is a reason for turning the head forty five degrees.",
+    "This turn roughly aligns the posterior canal on the test side with the plane in which the head moves back.",
+    "When the head is lowered, particles in the posterior canal of the down ear then move along the canal with gravity.",
+    "Because the right posterior and left anterior canals lie in the same plane, anterior canal involvement can also appear in this test.",
+    "Performing the maneuver briskly helps set the particles in motion and makes the response clearer."
+   ],
+   "ayar": {
+    "donus": 45,
+    "donus_cumle": 0,
+    "goster": [
+     "larp"
+    ],
+    "cift_cumleleri": {
+     "larp": 3
+    }
+   }
+  },
+  {
+   "id": "arka_kanal",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "The posterior canal *response*",
+   "maddeler": [
+    {
+     "metin": "_Latency_: one to several seconds",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Direction: _upbeating_ and torsional",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Upper pole beats toward _the down ear_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Duration: usually _under 1 minute_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Reverses on sitting, _fatigues_ on repetition",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In posterior canal canalithiasis, nystagmus usually starts after a delay of one to several seconds once the position is reached.",
+    "The fast phase beats upward, toward the forehead, together with a torsional component.",
+    "In the torsional component, the upper pole of the eye beats toward the down ear.",
+    "The response usually lasts less than a minute; its intensity first builds up and then declines.",
+    "On sitting up, nystagmus may briefly reverse; a weaker response with repeated testing is called fatigue.",
+    "Together, these features form the typical picture of posterior canal involvement on that side."
+   ]
+  },
+  {
+   "id": "yorum_olcutleri",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "*Interpreting* the response",
+   "sutunlar": [
+    "Feature",
+    "Typical posterior canal",
+    "Needs attention"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Latency",
+      "A few seconds",
+      "No latency"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Duration",
+      "Under 1 minute",
+      "Persistent, not fading"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Direction",
+      "Upbeating and torsional",
+      "Pure downbeating"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Vertigo",
+      "With the nystagmus",
+      "Nystagmus without vertigo"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Repetition",
+      "Fatigues",
+      "Does not fatigue"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Look at latency first; a typical response has a few seconds of latency, and nystagmus that starts at once needs attention.",
+    "Then look at duration; nystagmus that lasts over a minute and does not fade suggests causes other than canalithiasis.",
+    "Look at direction; pure downbeating nystagmus without torsion is important when considering central causes.",
+    "Check that vertigo matches the nystagmus; clear nystagmus with no dizziness at all is unusual.",
+    "Finally, look at repetition; a typical response weakens when repeated, whereas central nystagmus usually does not change.",
+    "These criteria are a guide; diagnosis and treatment decisions are the physician's responsibility."
+   ]
+  },
+  {
+   "id": "guvenlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "*Safety* and alternatives",
+   "maddeler": [
+    {
+     "metin": "_Ask_ about neck and back problems",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "_Caution_ with vascular and cardiac conditions",
+     "cumle": 1,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Alternative: the _side-lying_ test",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Do not stand up _immediately_ afterwards",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Before starting, always ask about neck, upper back and lower back problems.",
+    "In conditions such as serious neck disease or certain vascular and cardiac problems, decide together with the physician.",
+    "For patients who cannot extend the neck, the side-lying test can assess the posterior canal in a similar way.",
+    "In this test the patient sits, the head is turned forty five degrees away, and the patient lies quickly onto the tested side.",
+    "After testing, the patient is not stood up at once; ask them to stay seated until their balance returns."
+   ]
+  },
+  {
+   "id": "supine_roll",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Supine roll",
+   "baslik": "The *supine roll* test",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Supine",
+     "metin": "Head flexed about 30 degrees",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "To one side",
+     "metin": "Head quickly 90 degrees",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Back to center",
+     "metin": "Once the response fades",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "To the other side",
+     "metin": "Responses compared",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The supine roll test, also called the supine head roll test, is used to assess lateral canal BPPV.",
+    "The patient lies supine with the head flexed about thirty degrees, bringing the lateral canals close to the vertical plane.",
+    "The head is turned quickly about ninety degrees to one side and the eyes are observed.",
+    "Once the response fades, the head is returned to the center and you wait briefly.",
+    "The head is then turned to the other side and the responses on the two sides are compared.",
+    "In this test the nystagmus is horizontal and can appear on turning to either side; interpretation rests on the difference between sides."
+   ]
+  },
+  {
+   "id": "geotropik",
+   "tur": "karsilastir",
+   "bolum_no": "PART 3",
+   "bolum": "Supine roll",
+   "baslik": "*Geotropic* and apogeotropic",
+   "sol": {
+    "ust": "Geotropic",
+    "maddeler": [
+     {
+      "metin": "Toward the lower ear, the ground",
+      "cumle": 1
+     },
+     {
+      "metin": "Mostly canalithiasis",
+      "cumle": 2
+     },
+     {
+      "metin": "Stronger side is affected",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Apogeotropic",
+    "maddeler": [
+     {
+      "metin": "Toward the upper ear, away from ground",
+      "cumle": 3
+     },
+     {
+      "metin": "Cupulolithiasis or particles near the cupula",
+      "cumle": 4
+     },
+     {
+      "metin": "Weaker side is affected",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "In lateral canal involvement, whichever way the head is turned, a direction-changing horizontal nystagmus is seen.",
+    "If on both sides the nystagmus beats toward the lower ear, that is, toward the ground, it is called geotropic nystagmus.",
+    "The geotropic type is mostly due to canalithiasis, and the side with stronger nystagmus is usually the affected side.",
+    "If on both sides the nystagmus beats toward the upper ear, away from the ground, it is apogeotropic nystagmus.",
+    "The apogeotropic type is linked to cupulolithiasis or particles near the cupula, and the weaker side is usually affected.",
+    "Ewald's second law explains this reversal: in the lateral canal, flow toward the ampulla gives a stronger response."
+   ]
+  },
+  {
+   "id": "kupulolitiazis",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Supine roll",
+   "baslik": "Duration and *mechanism*",
+   "maddeler": [
+    {
+     "metin": "Canalithiasis: _under 1 minute_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Cupulolithiasis: _persistent_ nystagmus",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Cupulolithiasis: latency _short or absent_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Conversion_ between types can occur",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "ampulla",
+      "metin": "cupula in the ampulla",
+      "cumle": 1
+     },
+     {
+      "parca": "lateral_kanal",
+      "metin": "free in the canal",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "ampulla",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "In canalithiasis the particles move freely in the canal, so the nystagmus is brief and fades.",
+    "In cupulolithiasis the particles stick to the cupula, making it heavier, so nystagmus persists while the position is held.",
+    "In this type latency is often short or absent, and nystagmus may last longer than a minute.",
+    "Duration and latency therefore help to understand not only the canal but also the likely mechanism.",
+    "Because particles can shift over time, conversion between types can occur, which is why follow-up tests matter."
+   ]
+  },
+  {
+   "id": "kanal_ozet",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and warnings",
+   "baslik": "*Summary* by canal",
+   "sutunlar": [
+    "Canal",
+    "Test",
+    "Typical nystagmus"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Posterior canal",
+      "Dix-Hallpike",
+      "Upbeating and torsional"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Lateral canal",
+      "Supine roll",
+      "Horizontal, direction-changing"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Anterior canal",
+      "Dix-Hallpike",
+      "Downbeating and torsional"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "In posterior canal involvement, Dix-Hallpike is expected to show upbeating, torsional nystagmus.",
+    "In lateral canal involvement, the supine roll test shows horizontal, direction-changing nystagmus.",
+    "In rare anterior canal involvement, a downbeating nystagmus with a torsional component appears.",
+    "Because downbeating nystagmus can also have central causes, anterior canal interpretation needs special care.",
+    "A patient with lateral canal involvement may also show horizontal nystagmus during Dix-Hallpike.",
+    "For this reason the two tests are often done together and the results interpreted as a whole."
+   ]
+  },
+  {
+   "id": "santral",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and warnings",
+   "baslik": "*Central* warning signs",
+   "maddeler": [
+    {
+     "metin": "Pure _downbeating_ nystagmus without torsion",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "No latency, _not fading_, not fatiguing",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Direction _not matching_ the canal plane",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Accompanying _neurological_ signs",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Persistent or _frequently recurring_ picture",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Pure downbeating positional nystagmus with no torsional component should raise concern for brainstem or cerebellar problems.",
+    "Nystagmus with no latency, that does not fade while the position is held and does not fatigue, also needs attention.",
+    "A nystagmus direction that cannot be explained by the plane of the stimulated canal does not fit a peripheral cause.",
+    "Signs such as headache, double vision, speech disturbance or loss of coordination need urgent medical assessment.",
+    "Cases that do not improve after repositioning maneuvers, or that recur often, should also be referred to a physician.",
+    "In these situations, the audiologist's role is to record observations in detail and refer the patient without delay."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and warnings",
+   "baslik": "*Recording* the findings",
+   "maddeler": [
+    {
+     "metin": "Test, side and _position_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Latency, direction and _duration_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Reversal on sitting and _fatigue_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Accompanying vertigo and _nausea_",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "For every positional test, record clearly which test was done and on which side.",
+    "Note the latency, direction, torsional component and duration of the nystagmus separately.",
+    "Also note any reversal on returning to sitting and whether the response fatigued with repetition.",
+    "Note whether the patient had vertigo and nausea during the test.",
+    "Attach any video recording to the report, so the physician and the next examiner can review the same images."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If Dix-Hallpike shows horizontal nystagmus, add the supine roll test; the picture may reflect lateral canal involvement.",
+   "cumleler": [
+    "A clinical tip: if you see horizontal rather than torsional nystagmus during Dix-Hallpike, do not consider the test finished.",
+    "This may be a sign of lateral canal involvement; add the supine roll test.",
+    "Also, do not repeat the tests too quickly one after another; because of fatigue, the response may vanish on the second test.",
+    "If possible, record the response with video goggles; the recording lets you review direction and duration carefully later."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Posterior canal: _Dix-Hallpike_",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Upbeating, torsional, _brief_ nystagmus",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Lateral canal: _supine roll_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Central signs: _refer to a physician_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "The Dix-Hallpike maneuver assesses the posterior canal, while the supine roll test assesses the lateral canal.",
+    "Posterior canal involvement shows upbeating, torsional nystagmus with latency, lasting less than a minute.",
+    "The lateral canal shows geotropic or apogeotropic horizontal nystagmus; the side is found by comparing the two sides.",
+    "Nystagmus with no latency, that does not fade, or that is purely downbeating requires referral to rule out central causes."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Right Dix-Hallpike: delayed, upbeating, torsional, brief nystagmus. Which canal?",
+   "secenekler": [
+    "Right posterior canal",
+    "Left posterior canal",
+    "Right lateral canal",
+    "Left anterior canal"
+   ],
+   "dogru": 0,
+   "aciklama": "The down ear is tested; upbeating torsional nystagmus points to the _posterior canal_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: on right Dix-Hallpike, which canal does delayed, upbeating, torsional, brief nystagmus suggest?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: the right posterior canal.",
+    "In Dix-Hallpike the down ear is the tested ear, and upbeating torsional nystagmus points to the posterior canal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*VNG* and ENG: How Eye Movements Are Recorded",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how eye movements are recorded, with VNG and ENG.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

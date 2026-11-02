@@ -1,0 +1,868 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D101_MCL_And_UCL_EN",
+ "kapak": {
+  "ust": "LESSON 101",
+  "baslik": "MCL and *UCL*",
+  "alt": "Comfortable and uncomfortable loudness levels",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 110,
+    "adim": 20,
+    "ad": "Level (dB HL)"
+   },
+   "y": {
+    "min": 1,
+    "max": 7,
+    "adim": 1,
+    "ad": "Loudness"
+   },
+   "seriler": [
+    {
+     "ad": "normal",
+     "noktalar": [
+      [
+       10,
+       1
+      ],
+      [
+       25,
+       2
+      ],
+      [
+       40,
+       3
+      ],
+      [
+       55,
+       4
+      ],
+      [
+       70,
+       5
+      ],
+      [
+       85,
+       6
+      ],
+      [
+       100,
+       7
+      ]
+     ],
+     "renk": "yesil",
+     "yumusak": true
+    },
+    {
+     "ad": "koklear",
+     "noktalar": [
+      [
+       60,
+       1
+      ],
+      [
+       67,
+       2
+      ],
+      [
+       74,
+       3
+      ],
+      [
+       81,
+       4
+      ],
+      [
+       88,
+       5
+      ],
+      [
+       94,
+       6
+      ],
+      [
+       100,
+       7
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kesik": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Most Comfortable and Uncomfortable Loudness Levels | Lesson 101 | AIHEAR Audiology Academy",
+  "aciklama": "The most comfortable level (MCL) and the uncomfortable loudness level (UCL) show not just the threshold of hearing but its usable range. In this lesson we look at the loudness category scale, the measurement steps, how to calculate dynamic range, the narrowed range in cochlear loss, and how these measures are used in hearing aid fitting and in assessing sound sensitivity.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Cox et al. (1997), The Contour Test of loudness perception, Ear and Hearing; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Dillon, Hearing Aids.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "MCL",
+   "UCL"
+  ],
+  "etiketler": [
+   "MCL",
+   "most comfortable level",
+   "UCL",
+   "uncomfortable loudness level",
+   "LDL",
+   "dynamic range",
+   "recruitment",
+   "hyperacusis",
+   "Contour Test",
+   "hearing aid fitting",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 101",
+   "baslik": "*Most Comfortable* and Uncomfortable Loudness Levels",
+   "alt": "The most comfortable and uncomfortable loudness levels",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn how the most comfortable level and the uncomfortable loudness level are measured.",
+    "We will calculate dynamic range and see how these measures are used in hearing aid fitting and in sound sensitivity."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Definitions",
+   "baslik": "What lies *above* threshold?",
+   "maddeler": [
+    {
+     "metin": "_MCL_: most comfortable level",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_UCL_: uncomfortable loudness level",
+     "cumle": 2,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Synonym: _LDL_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Dynamic range_: from threshold to UCL",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SUBJECTIVE",
+    "metin": "MCL and UCL rely on the patient's *perception*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Threshold tests find the softest sound heard, but in daily life sounds are far above threshold.",
+    "The most comfortable level, or MCL, is the level at which speech is most comfortable to listen to.",
+    "The uncomfortable loudness level, or UCL, is the level at which sound is perceived as uncomfortably loud.",
+    "Instead of UCL, sources also use the term loudness discomfort level, or LDL.",
+    "The range between threshold and UCL is called the dynamic range; it is the usable area of hearing.",
+    "MCL and UCL are subjective measures based on the patient's loudness perception, so instructions and method clearly affect the result."
+   ]
+  },
+  {
+   "id": "olcek",
+   "tur": "tablo",
+   "bolum_no": "PART 1",
+   "bolum": "Definitions",
+   "baslik": "The loudness *category scale*",
+   "sutunlar": [
+    "Category",
+    "Patient's description"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "Very soft"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2",
+      "Soft"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3",
+      "Comfortable, but slightly soft"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "4",
+      "Comfortable"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "5",
+      "Comfortable, but slightly loud"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "6",
+      "Loud, but OK"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "7",
+      "Uncomfortably loud"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Category scales are used to measure a subjective perception consistently.",
+    {
+     "yazi": "The widely used Contour Test has seven categories; the first two are very soft and soft."
+    },
+    "The third category is comfortable but slightly soft, and the fourth is comfortable; the MCL lies in this region.",
+    "The fifth category is comfortable but slightly loud, and the sixth is loud but OK.",
+    "The seventh category is uncomfortably loud; the first level that reaches this category is taken as the UCL.",
+    "After each sound, the patient points to one of these descriptions on the scale card."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Measurement",
+   "baslik": "Measurement *steps*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Instructions",
+     "metin": "Read the scale together",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Start low",
+     "metin": "Below a comfortable level",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Raise 5 dB",
+     "metin": "Ask the category each step",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Stop at 7",
+     "metin": "First uncomfortable level",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Repeat",
+     "metin": "Take the average",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Before measuring, the category scale is shown to the patient and the descriptions are read together.",
+    "It is made clear that the uncomfortable level is not a painful level, just a level they would not want to listen to for long.",
+    "The sound starts below a comfortable level; the method moves in an ascending direction.",
+    "The level is raised in five decibel steps, and the category the patient chooses is recorded at each step.",
+    "When the patient points to the seventh category, the increase stops; this level is the UCL.",
+    "The measurement is usually repeated two or three times and the results are averaged.",
+    "The MCL is found as the levels where the fourth category was marked; it is often a range rather than a single point."
+   ]
+  },
+  {
+   "id": "uyaran",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "Measurement",
+   "baslik": "Speech, or a *frequency-specific* stimulus?",
+   "sol": {
+    "ust": "Speech",
+    "maddeler": [
+     {
+      "metin": "Continuous, running speech",
+      "cumle": 0
+     },
+     {
+      "metin": "_Close_ to everyday listening",
+      "cumle": 1
+     },
+     {
+      "metin": "Gives a single value",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Tone or narrowband",
+    "maddeler": [
+     {
+      "metin": "Each frequency measured _separately_",
+      "cumle": 3
+     },
+     {
+      "metin": "For the aid's _maximum output_",
+      "cumle": 4
+     },
+     {
+      "metin": "Usually 500 and 3000 Hz",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "MCL and UCL can be measured with recorded or live continuous speech.",
+    "Speech is the stimulus closest to the sounds the patient hears in daily life.",
+    "But speech gives only a single value; it does not show which frequency is uncomfortable.",
+    "A UCL measured with pure tones or narrowband noise gives separate information for each frequency.",
+    "These frequency-specific values are more useful for setting the maximum output of a hearing aid.",
+    "Some sources recommend measuring at least one low and one high frequency, for example five hundred and three thousand hertz."
+   ]
+  },
+  {
+   "id": "dinamik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Dynamic range",
+   "baslik": "A narrowing *dynamic range*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 20,
+     "ters": true,
+     "ad": "Level (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "normal_esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        15
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "normal threshold",
+      "cumle": 0
+     },
+     {
+      "ad": "ucl",
+      "noktalar": [
+       [
+        250,
+        100
+       ],
+       [
+        500,
+        100
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        2000,
+        100
+       ],
+       [
+        4000,
+        100
+       ],
+       [
+        8000,
+        100
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "UCL",
+      "cumle": 1
+     },
+     {
+      "ad": "kayip_esik",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        35
+       ],
+       [
+        1000,
+        45
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        4000,
+        70
+       ],
+       [
+        8000,
+        75
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "cochlear loss",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "normal_aralik",
+      "y": [
+       10,
+       100
+      ],
+      "xk": 500,
+      "etiket": "about 90 dB",
+      "cumle": 2
+     },
+     {
+      "ad": "dar_aralik",
+      "y": [
+       70,
+       100
+      ],
+      "xk": 4000,
+      "etiket": "30 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "UCL changes little in cochlear loss",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Very narrow range at high frequencies",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "In the graph, the green line shows the thresholds of a normal-hearing person.",
+    "The dashed line is the uncomfortable loudness level; in this example, about one hundred decibels HL.",
+    "In a normal ear, there is a wide dynamic range of about ninety decibels between threshold and UCL.",
+    "The red line shows thresholds of a sample patient with cochlear loss; the thresholds are raised, but the UCL often changes little.",
+    "So at four thousand hertz, the dynamic range shrinks to thirty decibels.",
+    "Fitting all everyday sounds into such a narrow range is a major challenge for a hearing aid.",
+    "In normal-hearing people, the UCL is often around one hundred decibels HL, but individual differences are large."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Dynamic range",
+   "baslik": "*Dynamic range* for speech",
+   "sutunlar": [
+    "Example",
+    "SRT (dB HL)",
+    "UCL (dB HL)",
+    "Range (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "5",
+      "100",
+      "95"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Cochlear loss",
+      "60",
+      "100",
+      "40"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Conductive",
+      "50",
+      "Not reached",
+      "Wide"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The dynamic range for speech is calculated by subtracting the speech recognition threshold, the SRT, from the UCL.",
+    "In a normal-hearing person with an SRT of five and a UCL of one hundred, the range is ninety five decibels.",
+    "In a patient with cochlear loss, an SRT of sixty and a UCL still at one hundred, the range is only forty decibels.",
+    "The discomfort level staying the same while the threshold rises means that loudness grows abnormally fast.",
+    "In conductive loss, sound reaches the ear attenuated, so the UCL rises too; it is often not reached even at the audiometer limit.",
+    "This difference also explains why hearing aid fitting differs between the two types of loss."
+   ]
+  },
+  {
+   "id": "rekruitment",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Dynamic range",
+   "baslik": "The *rapid* growth of loudness",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "adim": 20,
+     "ad": "Level (dB HL)"
+    },
+    "y": {
+     "min": 1,
+     "max": 7,
+     "adim": 1,
+     "ad": "Category"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        10,
+        1
+       ],
+       [
+        25,
+        2
+       ],
+       [
+        40,
+        3
+       ],
+       [
+        55,
+        4
+       ],
+       [
+        70,
+        5
+       ],
+       [
+        85,
+        6
+       ],
+       [
+        100,
+        7
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "etiket": "normal",
+      "cumle": 0
+     },
+     {
+      "ad": "koklear",
+      "noktalar": [
+       [
+        60,
+        1
+       ],
+       [
+        67,
+        2
+       ],
+       [
+        74,
+        3
+       ],
+       [
+        81,
+        4
+       ],
+       [
+        88,
+        5
+       ],
+       [
+        94,
+        6
+       ],
+       [
+        100,
+        7
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "cochlear loss",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bulusma",
+      "x": 100,
+      "y": 7,
+      "etiket": "same UCL",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: loudness grows slowly",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Cochlear: starts late, grows fast",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "This is called _recruitment_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The green curve shows how loudness category slowly increases with level in a normal-hearing person.",
+    "On the red curve, sound is only heard from sixty decibels, but loudness grows much faster.",
+    "This abnormally fast growth of loudness is called recruitment; it is mostly linked to outer hair cell damage.",
+    "The two curves meet at about the same UCL.",
+    "This patient does not hear soft sounds, but loud sounds can become uncomfortable as quickly as, or even sooner than, for a normal listener.",
+    "This is exactly what family members often say: speak softly and they cannot hear, raise your voice and they say do not shout."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "In hearing aid *fitting*",
+   "maddeler": [
+    {
+     "metin": "A wide world fitted into _a narrow range_",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Compression: _soft_ sounds amplified more",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Maximum output _below the UCL_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "If not measured, formulas _estimate_ it",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 1
+     },
+     {
+      "parca": "alici",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "One of the main jobs of a hearing aid is to fit a wide world of sound into the patient's narrow dynamic range.",
+    "For this, aids use compression: they amplify soft sounds a lot and loud sounds less.",
+    "The aid's maximum power output, or MPO, is set so that it does not exceed the patient's UCL.",
+    "Otherwise, sudden loud sounds cause discomfort and the patient may give up using the aid.",
+    "If the UCL was not measured, prescriptive formulas estimate it from thresholds; measured values make the fitting individual.",
+    "With the aid in place, loud sounds can be played to confirm that the maximum output is not uncomfortable."
+   ]
+  },
+  {
+   "id": "hiperakuzi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "In assessing *hyperacusis*",
+   "ogeler": [
+    {
+     "ikon": "agri",
+     "baslik": "Low UCL",
+     "metin": "Normal threshold, low tolerance",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Baseline value",
+     "metin": "Comparison during management",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Careful measurement",
+     "metin": "Start low, patient can stop",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hyperacusis, an excessive sensitivity to sounds, is an important use of UCL measurement.",
+    "In hyperacusis, hearing thresholds may be normal, but the UCL is clearly lower than expected.",
+    "So the dynamic range is narrowed even though there is no hearing loss.",
+    "The measured values become a baseline for tracking change during approaches such as sound therapy.",
+    "In these patients, testing is done with special care: start low, move in small steps, and let the patient stop the test at any moment.",
+    "Some patients are anxious about being tested with loud sounds; in that case, the need for the test is discussed with the patient."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "For the UCL, ask for the level they would not want to listen to for long, not a painful one. If the instruction changes, the UCL changes clearly.",
+   "cumleler": [
+    "In UCL measurement, the instruction is what affects the result most.",
+    "If you ask the patient for a painful level, you get a very high value; if you ask for just somewhat loud, a very low one.",
+    "The right question is a level so uncomfortable they would not want to listen to it for long; the category card standardizes this question.",
+    "Use the same instruction and the same stimulus in later measurements of the same patient."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "MCL comfortable, UCL _uncomfortable_ level",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Category scale and _ascending_ method",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Dynamic range: _UCL minus threshold_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "MPO set _below the UCL_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "MCL is the level where speech is most comfortable, and UCL is the level where sound becomes uncomfortable.",
+    "Measurement uses a category scale, starting low and rising in five decibel steps.",
+    "Dynamic range is the difference between UCL and threshold; in cochlear loss it narrows because of recruitment.",
+    "The maximum output of a hearing aid is set so that it does not exceed the UCL; in hyperacusis, the UCL is lower than normal."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "SRT 55, UCL 95 dB HL. Dynamic range for speech?",
+   "secenekler": [
+    "40 dB",
+    "55 dB",
+    "95 dB",
+    "150 dB"
+   ],
+   "dogru": 0,
+   "aciklama": "Dynamic range = UCL minus SRT: _95 minus 55 = 40 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: A patient's SRT is fifty five and UCL is ninety five decibels HL. What is the dynamic range for speech?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: forty decibels.",
+    "Dynamic range is found by subtracting the SRT from the UCL: ninety five minus fifty five is forty."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Sound-Field* Audiometry and Aided Thresholds",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn about sound-field audiometry with loudspeakers and aided thresholds.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

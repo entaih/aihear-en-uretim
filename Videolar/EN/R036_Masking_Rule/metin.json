@@ -1,0 +1,135 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R036_Masking_Rule_EN",
+ "kapak": {
+  "ust": "QUICK FACT #36",
+  "baslik": "One subtraction, *one decision*",
+  "alt": "The air-conduction masking rule",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      55,
+      60,
+      65,
+      70,
+      70
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How can one subtraction tell you masking is needed? #shorts",
+  "aciklama": "For air conduction, subtract the bone-conduction threshold of the non-test ear (NTE) from the threshold of the test ear (TE). If the difference reaches interaural attenuation (IA), 40 dB for supra-aural and about 55 dB for insert earphones, masking is needed.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "masking",
+   "audiometry"
+  ],
+  "etiketler": [
+   "masking",
+   "air conduction masking",
+   "masking rule",
+   "interaural attenuation",
+   "insert earphones",
+   "audiology",
+   "audiometry",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can one subtraction tell you masking is needed?",
+  "bilgiler": [
+   "Subtract the NTE bone threshold from the TE air threshold.",
+   "If it reaches IA, mask: 40 dB supra-aural, about 55 dB insert.",
+   "Compare with the bone conduction of the other ear, not its air conduction."
+  ],
+  "hashtag": [
+   "audiology",
+   "masking",
+   "audiometry"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #36",
+   "metin": "Can *one subtraction* tell you to mask?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can one subtraction tell you masking is needed?"
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "zincir",
+   "baslik": "The air-conduction *masking rule*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "TE",
+     "cumle": 0,
+     "tr": "test ear"
+    },
+    {
+     "ad": "NTE",
+     "cumle": 1,
+     "tr": "non-test ear"
+    },
+    {
+     "ad": "IA",
+     "cumle": 2,
+     "tr": "attenuation"
+    }
+   ],
+   "alt": "TE air minus NTE bone: mask _if it reaches IA_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "We start with the air-conduction threshold of the test ear.",
+    "From it, we subtract the bone threshold of the other ear.",
+    "If the difference equals or exceeds interaural attenuation, masking is needed.",
+    "This is forty decibels for supra-aural, fifty five for insert earphones.",
+    "We compare with the other ear's bone conduction, not its air."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D088",
+ "kaynak_baslik": "When Is Air-Conduction Masking Needed?"
+}

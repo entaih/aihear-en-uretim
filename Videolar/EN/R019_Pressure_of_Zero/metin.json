@@ -1,0 +1,92 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R019_Pressure_of_Zero_EN",
+ "kapak": {
+  "ust": "QUICK FACT #19",
+  "baslik": "Zero is not *always zero*",
+  "alt": "0 dB HL is a different dB SPL at each frequency",
+  "cizim": "desibel_olcegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Is zero on the audiogram the same sound at every frequency? #shorts",
+  "aciklama": "For a common supra-aural earphone, 0 dB HL is about 25.5 dB SPL at 250 Hz but only about 7 dB SPL at 1000 Hz. Because these differences are corrected, average normal hearing appears as a flat line on the audiogram.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "decibel",
+   "audiogram"
+  ],
+  "etiketler": [
+   "dB HL",
+   "dB SPL",
+   "RETSPL",
+   "audiogram",
+   "decibel",
+   "calibration",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Is zero on the audiogram the same sound at every frequency?",
+  "bilgiler": [
+   "At 250 Hz, 0 dB HL is about 25.5 dB SPL.",
+   "At 1000 Hz, the same zero is only about 7 dB SPL.",
+   "These differences are corrected, so normal hearing is a flat line."
+  ],
+  "hashtag": [
+   "audiology",
+   "decibel",
+   "audiogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #19",
+   "metin": "Is audiogram zero *the same sound* everywhere?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Is zero on the audiogram the same sound at every frequency?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "*Extra* sound pressure at 250 Hz",
+   "sayi": "18",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    {
+     "yazi": "At 250 Hz, zero dB HL is about 25.5 dB SPL.",
+     "ses": "At two hundred fifty hertz, zero is about twenty five point five dB SPL."
+    },
+    {
+     "yazi": "At 1000 Hz, the same zero is only about 7 dB SPL.",
+     "ses": "At one thousand hertz, the same zero is only about seven dB SPL."
+    },
+    "So the low frequency needs about eighteen decibels more pressure.",
+    "These differences are corrected, so normal hearing is a flat line."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D038",
+ "kaynak_baslik": "dB SPL vs dB HL vs dB SL: When to Use Which"
+}

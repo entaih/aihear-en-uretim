@@ -1,0 +1,807 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D147_Genetic_Hearing_Loss_EN",
+ "kapak": {
+  "ust": "LESSON 147",
+  "baslik": "*Genetic*<br>hearing loss",
+  "alt": "Syndromic and nonsyndromic",
+  "cizim": "stereosil_demeti",
+  "vurgula": [
+   "uc_baglantisi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Genetic Hearing Loss: Syndromic and Nonsyndromic | Lesson 147 | AIHEAR Audiology Academy",
+  "aciklama": "We explain why more than half of congenital hearing loss is genetic, the difference between syndromic and nonsyndromic loss, and the DFNB, DFNA and DFNX locus names. We also cover inheritance patterns, the genetic evaluation process and the audiologist's role in it.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Shearer et al., Genetic Hearing Loss Overview, GeneReviews; Hereditary Hearing Loss Homepage; Joint Committee on Infant Hearing, Year 2019 Position Statement; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "genetics",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "genetic hearing loss",
+   "nonsyndromic hearing loss",
+   "syndromic hearing loss",
+   "DFNB",
+   "DFNA",
+   "autosomal recessive",
+   "autosomal dominant",
+   "genetic testing",
+   "hereditary hearing loss",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 147",
+   "baslik": "*Genetic* hearing loss",
+   "alt": "Syndromic and nonsyndromic loss",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we take an overview of genetic hearing loss.",
+    "We will learn the difference between syndromic and nonsyndromic loss, inheritance patterns, locus names and the genetic evaluation process."
+   ]
+  },
+  {
+   "id": "buyuk_resim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The big picture",
+   "baslik": "*How much* loss is genetic?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Congenital loss",
+     "metin": "About 1 to 2 per 1,000",
+     "cumle": 0
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetic",
+     "metin": "More than half",
+     "cumle": 1
+    },
+    {
+     "ikon": "virus",
+     "baslik": "Environmental",
+     "metin": "CMV above all",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Nonsyndromic",
+     "metin": "About 70 percent",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Syndromic",
+     "metin": "About 30 percent",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Permanent congenital hearing loss occurs in about one to two of every thousand newborns.",
+    "In developed countries, more than half of congenital losses are considered genetic.",
+    "The rest have environmental causes; chief among them is congenital cytomegalovirus, or CMV, which we saw in earlier lessons.",
+    "About seventy percent of genetic losses are nonsyndromic, and thirty percent are syndromic.",
+    "In nonsyndromic loss, hearing loss is the only finding; in syndromic loss, other organs are involved too.",
+    "This distinction decides which tests are requested and to which specialists the family is referred."
+   ]
+  },
+  {
+   "id": "kalitim_grafik",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The big picture",
+   "baslik": "Nonsyndromic: *inheritance*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4.5,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Recessive",
+      "2": "Dominant",
+      "3": "X-linked",
+      "4": "Mitochondrial"
+     },
+     "ad": "Inheritance pattern"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Approximate share (%)"
+    },
+    "seriler": [
+     {
+      "ad": "resesif",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        77
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "75 to 80 percent",
+      "cumle": 1
+     },
+     {
+      "ad": "dominant",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        20
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "about 20 percent",
+      "cumle": 2
+     },
+     {
+      "ad": "x",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        2
+       ]
+      ],
+      "renk": "sari",
+      "etiket": "1 to 2 percent",
+      "cumle": 3
+     },
+     {
+      "ad": "mito",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        4,
+        1
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "under 1 percent",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Let us look at how nonsyndromic genetic losses are distributed by inheritance pattern.",
+    "About seventy five to eighty percent are autosomal recessive.",
+    "About twenty percent are autosomal dominant.",
+    "X-linked inheritance accounts for about one to two percent, and mitochondrial inheritance for under one percent.",
+    "Recessive losses are mostly congenital, severe and prelingual.",
+    "Dominant losses, in contrast, usually begin after language development and progress over time."
+   ]
+  },
+  {
+   "id": "kalitim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The big picture",
+   "baslik": "Inheritance *patterns*",
+   "cumleler": [
+    "In autosomal recessive inheritance, a child is affected only after receiving one altered gene copy from each parent.",
+    "The parents are often hearing carriers, so there may be no other hearing loss in the family.",
+    "In autosomal dominant inheritance, one altered copy is enough; each child of an affected parent has a fifty percent risk.",
+    "In X-linked inheritance, males are affected more often and more severely; carrier mothers are usually normal or mildly affected.",
+    "In mitochondrial inheritance, the change passes to children only from the mother."
+   ],
+   "cizim": "pedigri",
+   "ayar": {
+    "tip": "dort",
+    "cumleler": [
+     0,
+     2,
+     3,
+     4
+    ]
+   }
+  },
+  {
+   "id": "lokus",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Nomenclature",
+   "baslik": "Locus *names*",
+   "cumleler": [
+    "In nonsyndromic loss, the regions where genes are located are called loci, and they are given systematic names.",
+    {
+     "yazi": "The DFN at the start of the name comes from the word deafness.",
+     "ses": "The D F N at the start of the name comes from the word deafness."
+    },
+    {
+     "yazi": "DFNB marks autosomal recessive, DFNA autosomal dominant, and DFNX X-linked inheritance.",
+     "ses": "D F N B marks autosomal recessive, D F N A autosomal dominant, and D F N X X-linked inheritance."
+    },
+    {
+     "yazi": "The number after the letter shows the order in which the locus was described; for example, DFNB1 is the first recessive locus described.",
+     "ses": "The number after the letter shows the order in which the locus was described; for example, D F N B one is the first recessive locus described."
+    },
+    {
+     "yazi": "The GJB2 gene at the DFNB1 locus is the most common genetic cause and the topic of the next lesson.",
+     "ses": "The G J B two gene at the D F N B one locus is the most common genetic cause and the topic of the next lesson."
+    },
+    "Today, more than a hundred genes linked to nonsyndromic hearing loss have been identified."
+   ],
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "DFNB",
+     "metin": "Autosomal recessive; DFNB1: GJB2",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "DFNA",
+     "metin": "Autosomal dominant; DFNA9: COCH",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "DFNX",
+     "metin": "X-linked; DFNX2: POU3F4",
+     "cumle": 2
+    }
+   ]
+  },
+  {
+   "id": "sik_genler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Nomenclature",
+   "baslik": "Commonly seen *genes*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "GJB2",
+     "metin": "Top cause of recessive loss",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "SLC26A4",
+     "metin": "EVA and Pendred",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "OTOF",
+     "metin": "Auditory neuropathy",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Dominant genes",
+     "metin": "Progressive loss in adults",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Although there are more than a hundred genes, some come up far more often in the clinic.",
+    {
+     "yazi": "GJB2 is the most common cause of autosomal recessive loss in many populations.",
+     "ses": "G J B two is the most common cause of autosomal recessive loss in many populations."
+    },
+    {
+     "yazi": "SLC26A4 is linked to enlarged vestibular aqueduct and Pendred syndrome.",
+     "ses": "S L C twenty six A four is linked to enlarged vestibular aqueduct and Pendred syndrome."
+    },
+    {
+     "yazi": "The OTOF gene, which codes for otoferlin, is linked to auditory neuropathy, with present emissions but an absent ABR.",
+     "ses": "The O T O F gene, which codes for otoferlin, is linked to auditory neuropathy, with present emissions but an absent ABR."
+    },
+    "With some dominant genes, the loss begins in adulthood and progresses; some also come with balance problems.",
+    "Knowing the gene helps predict the course of the loss and tailor the monitoring plan to the person."
+   ]
+  },
+  {
+   "id": "gen_yeri",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Nomenclature",
+   "baslik": "*Where* do the genes work?",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "stereosil",
+     "metin": "Stereocilia bundle",
+     "cumle": 1
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Supporting cells",
+     "cumle": 2
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Tectorial membrane",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Synapse and nerve",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stereosil",
+     "cumle": 1
+    },
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "tektoryal_membran",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 4
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bundle and _transduction channel_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Potassium _recycling_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Synapse: _otoferlin_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "One way to understand genetic loss is to look at where in the cochlea the genes do their work.",
+    "One group of genes works in the structure of the hair cell stereocilia bundle and in the transduction channel.",
+    "Another group works in the gap junctions and ion transporters that support potassium recycling.",
+    "There are also genes that code for proteins in the structure of the tectorial membrane.",
+    "Some genes work at the synapse between the inner hair cell and the nerve; otoferlin is one example.",
+    "Where a gene works helps clarify the type of loss and which rehabilitation may be more useful."
+   ]
+  },
+  {
+   "id": "mito",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Nomenclature",
+   "baslik": "Mitochondrial *susceptibility*",
+   "maddeler": [
+    {
+     "metin": "Example: the _m.1555A&gt;G_ change",
+     "cumle": 0,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Hypersensitivity to _aminoglycosides_",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "_Maternal_ history matters",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Diabetes and loss may occur _together_",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PASSED FROM THE MOTHER",
+    "metin": "Risk of *severe loss* after aminoglycosides",
+    "cumle": 1
+   },
+   "cumleler": [
+    {
+     "yazi": "The most important mitochondrial example in audiology is the change at position 1555 of the MT-RNR1 gene.",
+     "ses": "The most important mitochondrial example in audiology is the change at position fifteen fifty five of a mitochondrial gene."
+    },
+    "In people who carry this change, aminoglycoside antibiotics can cause severe loss even at usual doses.",
+    "Because the change passes from the mother, a history of drug-related hearing loss in maternal relatives is especially important.",
+    "In some mitochondrial conditions, diabetes and hearing loss occur together.",
+    "We will cover ototoxic drugs in detail in a separate lesson later."
+   ]
+  },
+  {
+   "id": "sendromik_ipuclari",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Syndromic loss",
+   "baslik": "Findings that *suggest* a syndrome",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Eyes",
+     "metin": "Night blindness: Usher",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Kidneys",
+     "metin": "Blood in urine: Alport",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Pigment",
+     "metin": "White forelock: Waardenburg",
+     "cumle": 3
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Thyroid",
+     "metin": "Goiter: Pendred",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Heart",
+     "metin": "Fainting: rhythm problem",
+     "cumle": 5
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Outer ear",
+     "metin": "Pits, cysts: BOR",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "To recognize syndromic loss, we need to look at findings beyond hearing.",
+    "Night blindness and a narrowing visual field can suggest Usher syndrome.",
+    "Kidney findings such as blood in the urine can bring Alport syndrome to mind.",
+    "A white forelock or eyes of two different colors suggests Waardenburg syndrome.",
+    "An enlarged thyroid and a wide vestibular aqueduct are signs of Pendred syndrome.",
+    "Fainting spells suggest heart rhythm problems, and preauricular pits and neck cysts suggest branchio-oto-renal syndrome."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Syndromic loss",
+   "baslik": "*Clues* on the audiogram",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       30,
+       50,
+       50,
+       30,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       50,
+       55,
+       35,
+       25
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Some genetic losses can produce characteristic shapes on the audiogram.",
+    "In this example, both ears show a symmetric loss that is most marked at the mid frequencies, called a cookie-bite.",
+    "This shape has been reported in some families with dominant inheritance.",
+    "Losses that begin at the low frequencies and improve toward the high frequencies are also seen in some dominant families.",
+    "A symmetric loss in both ears and relatives with similar audiograms suggest a genetic cause.",
+    "Still, the audiogram shape alone does not give a genetic diagnosis; it only offers a clue."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Genetic evaluation",
+   "baslik": "Genetic *evaluation*",
+   "adimlar": [
+    {
+     "ikon": "ev",
+     "baslik": "Family history",
+     "metin": "Three-generation pedigree",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Examination",
+     "metin": "Eyes, kidneys, heart",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Gene panel",
+     "metin": "Many genes",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Exome",
+     "metin": "If the panel fails",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Counseling",
+     "metin": "Result explained to family",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Finding the genetic cause helps the family and the physician in many ways.",
+    "The first step is a detailed family history and a pedigree covering at least three generations.",
+    "The physician then looks for findings beyond hearing; eye, kidney and heart evaluations are requested if needed.",
+    "Testing often uses the common genes or gene panels that examine many genes at once.",
+    "If the panel gives no answer, exome sequencing, which examines the coding regions of all genes, may be done.",
+    "Results are always explained to the family together with genetic counseling."
+   ]
+  },
+  {
+   "id": "yararlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Genetic evaluation",
+   "baslik": "What does a diagnosis *offer?*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Course",
+     "metin": "Progression can be predicted",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Prevention",
+     "metin": "Eyes, kidneys, heart",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Explanation",
+     "metin": "Avoids needless tests",
+     "cumle": 2
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Family",
+     "metin": "Recurrence risk",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Rehabilitation",
+     "metin": "Informs expectations",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A genetic diagnosis can give an idea of whether the loss will progress.",
+    "If a syndromic cause is found early, eye, kidney or heart problems can be addressed in time.",
+    "It helps avoid other needless tests and offers the family an explanation instead of uncertainty.",
+    "The recurrence risk for future children in the family can be estimated.",
+    "For some genes, it can also inform expectations about cochlear implant and hearing aid outcomes."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not ask about family history only as yes or no: which relative, at what age, one ear or both? Also ask gently whether the parents are related.",
+   "cumleler": [
+    "A clinical tip: do not ask about family history only as yes or no.",
+    "Ask which relative has the loss, at what age, in one ear or both, and whether they use a hearing device.",
+    "Also ask gently whether the parents are related; this is important information for recessive inheritance.",
+    "Where appropriate, testing the parents' hearing as well can reveal mild losses that went unnoticed."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Genetic evaluation",
+   "baslik": "The *limits* of results",
+   "maddeler": [
+    {
+     "metin": "Negative result: does not mean _nongenetic_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Variants of _uncertain significance_",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_Reclassification_ over time",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Interpretation: the _medical genetics_ team",
+     "cumle": 3,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Audiologist: _notice and refer_",
+     "cumle": 4,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RESULT",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Explanatory",
+      "metin": "Cause found",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Uncertain",
+      "metin": "Not used for decisions",
+      "cumle": 1
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Negative",
+      "metin": "Cause not excluded",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "A negative genetic test does not mean that the loss is not genetic.",
+    "The meaning of some changes is not yet known; these are called variants of uncertain significance.",
+    "As knowledge grows, some of these variants can be reclassified, so results are reviewed over time.",
+    "Interpreting results is the job of the medical geneticist and the genetic counselor.",
+    "The audiologist's role is to recognize suitable families, refer them and share the hearing findings in full."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_More than half_ of congenital loss is genetic",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "70 percent _nonsyndromic_, 30 syndromic",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Recessive_ most common, dominant progressive",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "DFNB, DFNA, DFNX: _locus names_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "More than half of congenital hearing losses have a genetic cause.",
+    "About seventy percent of genetic losses are nonsyndromic, and thirty percent are syndromic.",
+    "Most nonsyndromic losses are autosomal recessive; dominant losses usually begin later and progress.",
+    {
+     "yazi": "In locus names, DFNB marks recessive, DFNA dominant, and DFNX X-linked inheritance.",
+     "ses": "In locus names, D F N B marks recessive, D F N A dominant, and D F N X X-linked inheritance."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which inheritance does a DFNA locus indicate?",
+   "secenekler": [
+    "Autosomal recessive",
+    "Autosomal dominant",
+    "X-linked",
+    "Mitochondrial"
+   ],
+   "dogru": 1,
+   "aciklama": "After DFN, _A means autosomal dominant_, B recessive, and X X-linked inheritance.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: Which inheritance pattern does a locus named DFNA indicate?",
+     "ses": "Test yourself: Which inheritance pattern does a locus named D F N A indicate?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: autosomal dominant.",
+    {
+     "yazi": "DFNB indicates recessive inheritance, and DFNX indicates X-linked inheritance.",
+     "ses": "D F N B indicates recessive inheritance, and D F N X indicates X-linked inheritance."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*GJB2* and Connexin 26: The Most Common Genetic Cause",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "In the next lesson, we will examine GJB2, the most common genetic cause, and connexin 26.",
+     "ses": "In the next lesson, we will examine G J B two, the most common genetic cause, and connexin twenty six."
+    },
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

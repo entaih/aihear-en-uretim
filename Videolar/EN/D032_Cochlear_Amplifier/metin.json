@@ -1,0 +1,855 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D032_Cochlear_Amplifier_EN",
+ "kapak": {
+  "ust": "LESSON 32",
+  "baslik": "The cochlear<br>*amplifier*",
+  "alt": "Outer hair cells and prestin",
+  "cizim": "corti",
+  "vurgula": [
+   "dis_tuy_hucreleri"
+  ]
+ },
+ "youtube": {
+  "baslik": "The Cochlear Amplifier: Outer Hair Cells and Prestin | Lesson 32 | AIHEAR Audiology Academy",
+  "aciklama": "Why is a living cochlea so much more sensitive and selective than a dead one? In this lesson we cover outer hair cell electromotility, the motor protein prestin, the cochlear amplifier's gain of about 40 to 50 dB, compression, and its role in frequency selectivity. We also introduce how outer hair cell loss shows on the audiogram and how it relates to otoacoustic emissions.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Pickles, An Introduction to the Physiology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing; Hall, Handbook of Otoacoustic Emissions; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlea",
+   "hearingscience"
+  ],
+  "etiketler": [
+   "cochlear amplifier",
+   "outer hair cells",
+   "prestin",
+   "electromotility",
+   "frequency selectivity",
+   "compression",
+   "recruitment",
+   "otoacoustic emissions",
+   "DPOAE",
+   "hearing physiology",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 32",
+   "baslik": "The cochlear amplifier and *prestin*",
+   "alt": "How do outer hair cells boost sound?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how outer hair cells boost the vibration of the basilar membrane: the cochlear amplifier.",
+    "We will look at the motor protein prestin, the amplifier's role in sensitivity and frequency selectivity, and its clinical signs."
+   ]
+  },
+  {
+   "id": "aktif",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The active cochlea",
+   "baslik": "The cochlea is not *passive*",
+   "maddeler": [
+    {
+     "metin": "Dead cochlea: a _broad_ peak",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Living cochlea: a _sharp_, tall peak",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "The difference: an _active_ process",
+     "cumle": 3,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "The motor: _outer hair cells_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 2000
+    },
+    "vurgula": [
+     {
+      "parca": "yuruyen_dalga",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "yuruyen_dalga",
+      "metin": "traveling wave",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "We have seen that the basilar membrane vibrates with a traveling wave that peaks at different places depending on frequency.",
+    "In the first observations, made in dead cochleae, this peak was quite broad and flat.",
+    "In a living, healthy cochlea, however, the peak is much taller and sharper.",
+    "To explain this difference, scientists proposed an active process inside the cochlea that boosts the vibration.",
+    "This process is called the cochlear amplifier.",
+    "The motor of the cochlear amplifier is the outer hair cells."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The active cochlea",
+   "baslik": "The *history* of a discovery",
+   "ogeler": [
+    {
+     "ikon": "ampul",
+     "baslik": "1948: Gold",
+     "metin": "The idea of an active process",
+     "cumle": 0
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "1978: Kemp",
+     "metin": "Otoacoustic emissions recorded",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "1983: Davis",
+     "metin": "The name cochlear amplifier",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "1985: Brownell",
+     "metin": "Electromotility demonstrated",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "2000: Prestin",
+     "metin": "The motor protein found",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "2002: Prestin-null mice",
+     "metin": "Sensitivity fell by 40 to 60 dB",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Thomas Gold first proposed an active process in the cochlea in 1948; the idea was not accepted for a long time.",
+     "ses": "Thomas Gold first proposed an active process in the cochlea in nineteen forty eight; the idea was not accepted for a long time."
+    },
+    {
+     "yazi": "In 1978, David Kemp recorded very faint sounds coming back out of the ear: otoacoustic emissions.",
+     "ses": "In nineteen seventy eight, David Kemp recorded very faint sounds coming back out of the ear: otoacoustic emissions."
+    },
+    {
+     "yazi": "In 1983, Hallowell Davis proposed the name cochlear amplifier for this mechanism.",
+     "ses": "In nineteen eighty three, Hallowell Davis proposed the name cochlear amplifier for this mechanism."
+    },
+    {
+     "yazi": "In 1985, Brownell and colleagues showed that outer hair cells change their length in response to electrical stimulation.",
+     "ses": "In nineteen eighty five, Brownell and colleagues showed that outer hair cells change their length in response to electrical stimulation."
+    },
+    {
+     "yazi": "In 2000, the motor protein behind this movement was found and named prestin.",
+     "ses": "In two thousand, the motor protein behind this movement was found and named prestin."
+    },
+    {
+     "yazi": "In 2002, mice without prestin were shown to lose about forty to sixty decibels of cochlear sensitivity.",
+     "ses": "In two thousand two, mice without prestin were shown to lose about forty to sixty decibels of cochlear sensitivity."
+    }
+   ]
+  },
+  {
+   "id": "elektromotilite",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Electromotility and prestin",
+   "baslik": "A cell that changes its *length*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "outer hair cells",
+     "cumle": 0
+    },
+    {
+     "parca": "deiters_hucreleri",
+     "metin": "Deiters cells",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "basilar membrane",
+     "cumle": 3
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "tectorial membrane",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Depolarization: _shortening_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hyperpolarization: _lengthening_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A _push_ on every vibration cycle",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Outer hair cells are long, cylinder-shaped cells, and their bases sit on Deiters cells.",
+    "When the cell depolarizes it gets shorter, and when it hyperpolarizes it gets longer; this property is called electromotility.",
+    "The movement is very fast; in isolated cells it has been measured to continue up to tens of thousands of hertz.",
+    "The cell's base is linked to the basilar membrane through Deiters cells, and its tallest stereocilia sit in the tectorial membrane.",
+    "So, on every cycle of the sound wave, the outer hair cell adds a small, well-timed push to the basilar membrane.",
+    "It is like pushing a child on a swing at just the right moment: small pushes build a large swing."
+   ]
+  },
+  {
+   "id": "prestin",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Electromotility and prestin",
+   "baslik": "The motor protein: *prestin*",
+   "maddeler": [
+    {
+     "metin": "Dense in the _lateral wall_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Changes _shape_ with voltage",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "No ATP, _very fast_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Gene: _SLC26A5_",
+     "cumle": 4,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "dis_tuy_hucresi",
+    "cumle": 0,
+    "ayar": {
+     "mod": "uclu",
+     "cumleler": [
+      1,
+      0,
+      1
+     ]
+    },
+    "etiketler": [
+     {
+      "parca": "prestin",
+      "metin": "Prestin: lateral wall",
+      "cumle": 0,
+      "yer": "alt"
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "prestin",
+      "cumle": 0
+     },
+     {
+      "parca": "depolarizasyon",
+      "cumle": 1
+     },
+     {
+      "parca": "hiperpolarizasyon",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Prestin is a protein packed very densely in the membrane of the outer hair cell's lateral wall.",
+    "When membrane voltage changes, prestin molecules change shape; the combined effect of millions of molecules changes the cell's length.",
+    "This movement differs from muscle contraction: it uses no ATP and is driven directly by changes in membrane voltage.",
+    "Prestin has been shown to need chloride ions inside the cell in order to work.",
+    {
+     "yazi": "The gene for prestin is known as SLC26A5.",
+     "ses": "The gene for prestin is known as S.L.C 26 A 5."
+    },
+    "Active movement of the stereocilia bundle is thought to contribute too, but in mammals prestin is accepted as the main motor."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Electromotility and prestin",
+   "baslik": "A self-feeding *loop*",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Membrane vibrates",
+     "metin": "The basilar membrane vibrates with sound",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Stereocilia bend",
+     "metin": "Channels open, voltage changes",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Prestin",
+     "metin": "The cell's length changes",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Vibration grows",
+     "metin": "The loop starts again",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "We can think of the amplifier as a loop: first, the basilar membrane vibrates with the sound wave.",
+    "The stereocilia of the outer hair cell bend, the channels open, and the cell's membrane voltage changes in rhythm with the sound.",
+    "Through prestin, this voltage change changes the length of the cell.",
+    "The length change is fed back to the basilar membrane and enlarges the vibration; the loop starts again.",
+    "The energy for this loop comes from the endocochlear potential we saw in the previous lesson.",
+    "That is why the amplifier's gain also falls when the stria vascularis weakens."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Sensitivity and selectivity",
+   "baslik": "*More* gain for soft sounds",
+   "maddeler": [
+    {
+     "metin": "Gain: about _40 to 50 dB_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Greatest for _soft_ sounds",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "_Small_ contribution for loud sounds",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Result: natural _compression_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "giris_cikis",
+    "cumle": 0,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "saglikli",
+       "cumle": 0
+      },
+      {
+       "tip": "hasarli",
+       "cumle": 1
+      }
+     ],
+     "kazanc_cumle": 1,
+     "kompresyon_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "kazanc",
+      "cumle": 1
+     },
+     {
+      "parca": "saglikli",
+      "cumle": 2
+     },
+     {
+      "parca": "kompresyon",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "At the peak region, the cochlear amplifier boosts basilar membrane motion by about forty to fifty decibels.",
+    "This gain works best for soft sounds; thanks to the amplifier, sounds near threshold become audible.",
+    "As intensity rises the gain falls; for very loud sounds the amplifier's contribution is quite small.",
+    "So the basilar membrane squeezes a wide range of input levels into a narrower range of motion; this is called compression.",
+    "Thanks to this natural compression, we can hear a very wide range of levels, from a whisper to the noise of a concert."
+   ]
+  },
+  {
+   "id": "secicilik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Sensitivity and selectivity",
+   "baslik": "Sharp *frequency tuning*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "The peak _sharpens_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Close frequencies are _told apart_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "sharp peak",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "a narrow region vibrates",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1,
+     "olcek": 1.8
+    }
+   ],
+   "cumleler": [
+    "The cochlear amplifier does not only amplify; it also sharpens the peak of the traveling wave.",
+    "As a result, each frequency sets a narrower region of the basilar membrane in motion.",
+    "This sharpness lets us tell apart frequencies that are close together; this is called frequency selectivity."
+   ]
+  },
+  {
+   "id": "secicilik_ayar",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Sensitivity and selectivity",
+   "baslik": "A fiber's *tuning curve*",
+   "cizim": "ayar_egrisi",
+   "ayar": {
+    "cf": 2000,
+    "egriler": [
+     {
+      "tip": "saglikli",
+      "cumle": 0
+     },
+     {
+      "tip": "hasarli",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "uc",
+     "cumle": 0
+    },
+    {
+     "parca": "hasarli",
+     "cumle": 1
+    },
+    {
+     "parca": "kuyruk",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Healthy: _narrow, deep_ tip",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Damaged: _rises, broadens_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "What remains: _passive_ mechanics",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "karakteristik_frekans",
+     "metin": "characteristic frequency",
+     "cumle": 0
+    },
+    {
+     "parca": "hasarli",
+     "metin": "outer hair cell loss",
+     "cumle": 1,
+     "yer": "ust"
+    }
+   ],
+   "cumleler": [
+    "The tuning curves of auditory nerve fibers show this clearly: in a healthy cochlea the curve has a narrow, deep tip.",
+    "When outer hair cells are damaged, this sharp tip is lost; the curve both rises and broadens.",
+    "The broad, insensitive part that remains reflects the passive mechanics of the cochlea."
+   ]
+  },
+  {
+   "id": "saglam_hasarli",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Sensitivity and selectivity",
+   "baslik": "Healthy and *damaged* amplifier",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Healthy amplifier",
+     "metin": "Normal threshold, sharp tuning, wide range",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Threshold loss",
+     "metin": "About 40 to 60 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Blurred tuning",
+     "metin": "Nearby frequencies blend",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Narrow range",
+     "metin": "Loud sounds grow quickly",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Trouble in noise",
+     "metin": "Abnormal growth of loudness",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A healthy amplifier gives normal thresholds and sharp frequency tuning.",
+    "Thanks to its wide dynamic range, both soft and loud sounds are handled comfortably.",
+    "When outer hair cells are lost, thresholds usually rise by about forty to sixty decibels.",
+    "Frequency tuning blurs; nearby frequencies and the fine details of speech run together.",
+    "Compression is lost too: soft sounds are not heard, but loud sounds quickly reach normal loudness.",
+    "This is called recruitment, an abnormally fast growth of loudness, and it adds to difficulty understanding in noise."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical signs",
+   "baslik": "Example: outer hair cell *loss*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Air conduction_: sloping toward highs",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Bone conduction_: same as air",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       55,
+       60
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this example audiogram, the right ear shows a loss that slopes toward the high frequencies.",
+    "Bone conduction thresholds are at the same level as air conduction, so the loss is sensorineural.",
+    "At four thousand hertz the loss is about fifty five decibels; this level may be consistent with outer hair cell loss.",
+    "As a general rule, a loss well beyond sixty decibels may suggest that inner hair cells are also affected.",
+    "But the audiogram alone cannot show for certain which cells are affected."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical signs",
+   "baslik": "The amplifier's *echo*: OAEs",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "two stimulus tones: f1 and f2",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "metin": "distortion product: 2f1-f2",
+     "cumle": 3
+    },
+    {
+     "parca": "gurultu",
+     "metin": "noise floor",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The most important clinical trace of the cochlear amplifier is otoacoustic emissions, or OAEs.",
+    "The motion of outer hair cells creates very faint sounds that a sensitive microphone can record in the ear canal.",
+    "Because the amplifier is nonlinear, two tones presented together create new frequencies in the ear, called distortion products.",
+    {
+     "yazi": "The most prominent one is at 2f1-f2, and it is the basis of the distortion product otoacoustic emission, or DPOAE, test.",
+     "ses": "The most prominent one is at two F one minus F two, and it is the basis of the distortion product otoacoustic emission, or DPOAE, test."
+    },
+    "An emission clearly above the noise floor suggests that the outer hair cells in that region are working.",
+    "Emissions are usually lost in losses greater than thirty to forty decibels, and the middle ear must also be healthy."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical signs",
+   "baslik": "The amplifier's *fragility*",
+   "maddeler": [
+    {
+     "metin": "The brainstem can _reduce_ the gain",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Vulnerable_ to noise, drugs, aging",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Hearing aids: partial fix with _compression_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Sharpness _not restored_ by aids",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 2
+     }
+    ],
+    "cumle": 2
+   },
+   "cumleler": [
+    "The amplifier's gain is not fixed; medial olivocochlear fibers running from the brainstem to the outer hair cells can reduce it.",
+    "Outer hair cells are more vulnerable than inner hair cells to noise, certain drugs and aging.",
+    "Compression in hearing aids tries to make up, in part, for the lost natural compression.",
+    "By giving more gain to soft sounds and less to loud sounds, the aid fits sounds into the narrower dynamic range.",
+    "But a hearing aid cannot restore the lost frequency sharpness, so difficulty understanding in noise may continue with the aid."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical signs",
+   "baslik": "Clinical tip",
+   "metin": "Outer hair cell damage may not show on the audiogram right away. Adding OAEs to the audiogram when monitoring noise or ototoxicity can help catch early changes.",
+   "cumle": 2,
+   "cumleler": [
+    "A tip from practice: outer hair cell damage does not always show on the audiogram right away.",
+    "In people exposed to noise, some studies have reported reduced OAE amplitude before any threshold shift.",
+    "So adding OAEs to the audiogram when monitoring noise exposure or ototoxicity can help catch early changes.",
+    "Always interpret the results with the same protocol and compare them with the person's previous measurement."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Motor: _outer hair cells_ and prestin",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Gain about _40 to 50 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sharp _frequency_ selectivity",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Clinical trace: _otoacoustic emissions_",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Thanks to prestin, outer hair cells change their length; this property is called electromotility.",
+    "For soft sounds, the cochlear amplifier boosts basilar membrane motion by about forty to fifty decibels.",
+    "The amplifier sharpens the peak of the traveling wave and provides frequency selectivity.",
+    "Outer hair cell function can be assessed with otoacoustic emissions."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "For which sounds is the cochlear amplifier's gain greatest?",
+   "secenekler": [
+    "Soft sounds",
+    "Moderately loud sounds",
+    "Very loud sounds",
+    "Equal for all sounds"
+   ],
+   "dogru": 0,
+   "aciklama": "Gain is greatest for _soft sounds_ and falls as intensity rises; this is compression.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: For which sounds is the gain of the cochlear amplifier most effective?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: soft sounds.",
+    "The gain is greatest for sounds near threshold and falls as intensity rises, which creates natural compression."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How *Bone-Conduction* Hearing Works",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will see how sound reaches the cochlea through vibration of the skull: hearing by bone conduction.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

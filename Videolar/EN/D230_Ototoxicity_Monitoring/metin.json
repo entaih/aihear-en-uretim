@@ -1,0 +1,892 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D230_Ototoxicity_Monitoring_EN",
+ "kapak": {
+  "ust": "LESSON 230",
+  "baslik": "Ototoxicity<br>*monitoring*",
+  "alt": "Protocol and ASHA criteria",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "Ototoxicity Monitoring Protocol and ASHA Criteria | Lesson 230 | AIHEAR Audiology Academy",
+  "aciklama": "How is hearing monitored in a patient receiving ototoxic treatment? In this lesson we learn about the baseline test, the monitoring schedule, extended high-frequency audiometry, the ASHA 1994 criteria, DPOAE and vestibular monitoring, CTCAE grading in oncology and reporting findings to the team.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: American Speech-Language-Hearing Association (1994), Guidelines for the audiologic management of individuals receiving cochleotoxic drug therapy; American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring; Fausti et al. (1999), An individualized, sensitive frequency range for early detection of ototoxicity, Ear and Hearing; National Cancer Institute, Common Terminology Criteria for Adverse Events (CTCAE) v5.0; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ototoxicity",
+   "oncology"
+  ],
+  "etiketler": [
+   "ototoxicity monitoring",
+   "ASHA criteria",
+   "extended high-frequency audiometry",
+   "DPOAE",
+   "baseline testing",
+   "serial monitoring",
+   "CTCAE",
+   "cisplatin",
+   "aminoglycosides",
+   "sensitive range for ototoxicity",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 230",
+   "baslik": "Ototoxicity *monitoring*",
+   "alt": "Protocol, ASHA criteria and high frequencies",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn step by step how hearing is monitored in patients receiving ototoxic treatment.",
+    {
+     "yazi": "We will look at the baseline test, the ASHA criteria, extended high frequencies and otoacoustic emissions.",
+     "ses": "We will look at the baseline test, the Asha criteria, extended high frequencies and otoacoustic emissions."
+    }
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The aim of monitoring",
+   "baslik": "Why do we *monitor?*",
+   "maddeler": [
+    {
+     "metin": "Catch change early",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Before it reaches speech frequencies",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Inform the team in time",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Plan rehabilitation",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SERIAL MONITORING",
+    "metin": "Compare each test with the person's *own baseline*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "The aim of ototoxicity monitoring is to catch a change in hearing at the earliest possible stage.",
+    "Because damage usually starts at high frequencies, it can be noticed before it affects speech.",
+    "This information is passed on in time so that the treatment team can weigh benefit and risk together.",
+    "The decision about treatment, that is, continuing or changing the drug, always belongs to the physician and the team.",
+    "If loss has developed, monitoring also allows hearing aids and communication support to be planned without delay.",
+    {
+     "yazi": "ASHA, the American Speech-Language-Hearing Association, issued guidelines for this in 1994, and the American Academy of Audiology in 2009.",
+     "ses": "Asha, the American Speech-Language-Hearing Association, published guidelines for this in nineteen ninety four, and the American Academy of Audiology in two thousand nine."
+    }
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The aim of monitoring",
+   "baslik": "The monitoring *schedule*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Baseline",
+     "cumle": 0,
+     "metin": "Before the first dose"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "During treatment",
+     "cumle": 2,
+     "metin": "Before each cycle or weekly"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "End of treatment",
+     "cumle": 4,
+     "metin": "After the last dose"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Late follow-up",
+     "cumle": 5,
+     "metin": "Over months"
+    }
+   ],
+   "cumleler": [
+    "Monitoring starts with baseline testing; ideally, the test is done before the first dose of the drug.",
+    "If that is not possible, the test is completed as soon as possible after treatment starts.",
+    "The test interval during treatment depends on the drug; with cisplatin, testing is usually done before each cycle.",
+    "With aminoglycosides, testing once or twice a week during treatment is usually recommended.",
+    "One more test is done when treatment ends.",
+    "Because effects can begin or progress after treatment, monitoring continues for a few more months; longer follow-up is advised for children."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The aim of monitoring",
+   "baslik": "Who should be *monitored?*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Platinum therapy",
+     "cumle": 0,
+     "metin": "Cisplatin, high-dose carboplatin"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Aminoglycosides",
+     "cumle": 1,
+     "metin": "Especially long courses"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cranial radiation",
+     "cumle": 3,
+     "metin": "Cochlea in the field"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "NICU infants",
+     "cumle": 4,
+     "metin": "History of ototoxic drugs"
+    },
+    {
+     "ikon": "isitme_kaybi",
+     "baslik": "Existing loss",
+     "cumle": 5,
+     "metin": "Little reserve, big impact"
+    }
+   ],
+   "cumleler": [
+    "Everyone receiving cisplatin and patients receiving high-dose carboplatin should be enrolled in a monitoring program.",
+    "With aminoglycosides, monitoring is recommended, especially for long or repeated courses.",
+    "Patients with cystic fibrosis and those treated for drug-resistant tuberculosis are at high risk in this respect.",
+    "Radiation therapy to the head with the cochlea in the radiation field also calls for monitoring.",
+    "Newborns who received ototoxic drugs are followed for hearing even if they passed screening.",
+    "In people with existing hearing loss, even a small additional loss can clearly disrupt communication, so monitoring matters even more."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The baseline test",
+   "baslik": "What is in the *baseline test?*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "History",
+     "cumle": 0,
+     "metin": "Drugs, noise, family, tinnitus"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy, tympanometry",
+     "cumle": 1,
+     "metin": "Middle ear status"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Pure tone",
+     "cumle": 2,
+     "metin": "250 to 8000 Hz"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "High frequency",
+     "cumle": 3,
+     "metin": "9000 Hz and above"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech tests",
+     "cumle": 4,
+     "metin": "Reception, recognition"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "DPOAE",
+     "cumle": 5,
+     "metin": "Outer hair cell function"
+    }
+   ],
+   "cumleler": [
+    "The baseline test is the basis for all later comparisons, so it is done as completely as possible.",
+    "The history covers previous ototoxic drugs, noise, family history, tinnitus and balance complaints; otoscopy and tympanometry are done.",
+    "Pure tone audiometry is done from 250 to 8000 Hz, including the interoctave frequencies.",
+    "If possible, the extended high frequencies above 8000 Hz are also tested.",
+    "The speech reception threshold and word recognition score are recorded to document functional status.",
+    "Distortion product otoacoustic emissions, or DPOAEs, are also recorded, because they can show outer hair cell change early."
+   ]
+  },
+  {
+   "id": "ehf",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The baseline test",
+   "baslik": "Extended *high frequencies*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000,
+      12500,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 90,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "baslangic",
+      "noktalar": [
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        15
+       ],
+       [
+        10000,
+        20
+       ],
+       [
+        12500,
+        30
+       ],
+       [
+        14000,
+        40
+       ],
+       [
+        16000,
+        50
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "baseline",
+      "cumle": 2
+     },
+     {
+      "ad": "izlem",
+      "noktalar": [
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        20
+       ],
+       [
+        10000,
+        35
+       ],
+       [
+        12500,
+        55
+       ],
+       [
+        14000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "during treatment",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "ehf",
+      "x": [
+       9000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "extended high frequency",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yanit_yok",
+      "x": 16000,
+      "y": 85,
+      "etiket": "no response",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Extended high-frequency audiometry tests above 8000 Hz, usually up to 16000 Hz.",
+    "This test requires special earphones and an audiometer calibrated for these frequencies.",
+    "In the example on screen, the dashed navy line shows the baseline thresholds before treatment.",
+    "The red line is the test during treatment; up to 8000 Hz, thresholds have stayed almost the same.",
+    "But at 10000 Hz and above there is a clear worsening, and at the highest frequency there is no response.",
+    "So while the standard audiogram still looks normal, the change has been caught in the extended frequencies.",
+    "Test-retest differences can be larger at these frequencies, so the same earphones and careful placement are important."
+   ]
+  },
+  {
+   "id": "sro",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The baseline test",
+   "baslik": "A short, *individualized protocol*",
+   "maddeler": [
+    {
+     "metin": "Find the highest frequency with response",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Add nearby frequencies below it",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "A short test for tired patients",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Same frequencies every time",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "At the bedside, long tests with tired and unwell patients are not always possible.",
+    "Some programs first find the highest frequency to which the person can respond.",
+    "Then a few nearby frequencies just below it are tested in small steps; this range is called the sensitive range for ototoxicity.",
+    "In this way, the region where change will appear earliest is monitored quickly and individually.",
+    "Whichever method is chosen, the same frequencies and the same conditions are used at every follow-up."
+   ]
+  },
+  {
+   "id": "asha",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "ASHA criteria",
+   "baslik": "The *ASHA* criteria",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "20 dB",
+     "cumle": 1,
+     "metin": "At any single frequency"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Two adjacent",
+     "cumle": 2,
+     "metin": "10 dB at each"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Loss of response",
+     "cumle": 3,
+     "metin": "At three consecutive frequencies"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Confirmation",
+     "cumle": 5,
+     "metin": "Confirmed by retest"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The 1994 ASHA guideline defines significant change from baseline with three criteria; meeting any one of them is enough.",
+     "ses": "The nineteen ninety four Asha guideline defines significant change from baseline with three criteria; meeting any one of them is enough."
+    },
+    "The first is a worsening of 20 decibels or more at any test frequency.",
+    "The second is a worsening of 10 decibels or more at two consecutive, that is, adjacent, frequencies.",
+    "The third is a loss of response at three consecutive frequencies where responses were obtained before.",
+    "This third criterion is especially important at extended high frequencies, where thresholds are close to the device limit.",
+    "Whichever criterion is met, the change is not reported as ototoxicity until it is confirmed by a retest.",
+    {
+     "yazi": "The ASHA criteria tell us whether a change is present, not the degree of the loss.",
+     "ses": "The Asha criteria tell us whether a change is present, not the degree of the loss."
+    }
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "ASHA criteria",
+   "baslik": "An example *comparison*",
+   "sutunlar": [
+    "Frequency",
+    "Baseline",
+    "Follow-up",
+    "Difference"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "6000 Hz",
+      "10 dB",
+      "15 dB",
+      "5 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "15 dB",
+      "25 dB",
+      "10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "10000 Hz",
+      "20 dB",
+      "30 dB",
+      "10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "12500 Hz",
+      "30 dB",
+      "45 dB",
+      "15 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Result",
+      "",
+      "",
+      "10 dB, two adjacent"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Let us apply the criteria to an example: at 6000 Hz the difference is only 5 decibels, which is not significant on its own.",
+    "At 8000 and 10000 Hz, both show a 10 decibel worsening; in the tested series, these two frequencies are adjacent.",
+    "At 12500 Hz the difference is 15 decibels, which does not reach the single-frequency criterion of 20 decibels.",
+    "So this ear meets the criterion of 10 decibels at two adjacent frequencies.",
+    "The next step is to refit the earphones, retest these frequencies and confirm the finding.",
+    "If confirmed, the finding is reported to the team, stating clearly which criterion was met."
+   ]
+  },
+  {
+   "id": "dogrulama",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "ASHA criteria",
+   "baslik": "Why *confirm?*",
+   "maddeler": [
+    {
+     "metin": "Test-retest difference about 5 dB",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Larger at high frequencies",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Earphone placement is critical",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Same device, same method",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Check the middle ear",
+     "cumle": 4,
+     "ikon": "otoskop"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PITFALLS",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kulaklik",
+      "baslik": "Earphone shift",
+      "cumle": 2,
+      "metin": "Matters at high frequencies"
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Middle ear",
+      "cumle": 4,
+      "metin": "Conductive component"
+     }
+    ]
+   },
+   "cumleler": [
+    "A difference of about 5 decibels between two tests on the same person on the same day is normal.",
+    "At extended high frequencies this difference can be larger, so a single measurement can mislead.",
+    "Especially at high frequencies, a small shift of the earphone can change the threshold markedly.",
+    "The same device, the same earphone type and the same threshold method are used at every follow-up.",
+    "A new middle ear problem can also worsen thresholds, so tympanometry is repeated at every follow-up."
+   ]
+  },
+  {
+   "id": "dpoae",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Objective tests",
+   "baslik": "When behavioral testing *is not possible*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "emission: outer hair cells",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "DPOAE can change early",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Middle ear must be normal",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "High-frequency ABR in infants",
+     "cumle": 4,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Some patients may be very young, very ill or unable to respond.",
+    "In this case, DPOAEs are a valuable way to objectively monitor change in outer hair cell function.",
+    "A drop in the high-frequency components of the DP-gram can appear before the audiogram changes.",
+    "However, DPOAEs require a normal middle ear; an effusion alone can wipe out the emissions.",
+    "In infants and very young children, the auditory brainstem response with high-frequency stimuli can also be used.",
+    "In children, age-appropriate behavioral methods, such as conditioned play audiometry, are kept up as far as possible.",
+    "The patient's complaints of tinnitus or ear fullness are also asked about and recorded at every follow-up."
+   ]
+  },
+  {
+   "id": "ctcae",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Objective tests",
+   "baslik": "*Grading* in oncology",
+   "sutunlar": [
+    "Grade",
+    "Frequencies",
+    "Average worsening"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Grade 1",
+      "Two adjacent",
+      "15 to 25 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Grade 2",
+      "Two adjacent",
+      "Over 25 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Grade 3",
+      "Three adjacent",
+      "Over 25 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Grade 4",
+      "",
+      "Profound loss"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In oncology studies, side effects are graded with the Common Terminology Criteria for Adverse Events, or CTCAE.",
+    "For an adult in a monitoring program, grade 1 is a worsening of 15 to 25 decibels averaged over two adjacent frequencies.",
+    "Grade 2 is an average worsening of more than 25 decibels at two adjacent frequencies.",
+    "In grade 3, the same worsening is seen at three consecutive frequencies.",
+    "Grade 4 describes profound permanent hearing loss.",
+    "For children, the Brock, Chang and SIOP Boston scales were developed; we will see them in detail in the next lesson."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Objective tests",
+   "baslik": "*Monitoring* the balance organ",
+   "maddeler": [
+    {
+     "metin": "Ask about oscillopsia and imbalance",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Bedside head impulse test",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Video head impulse test",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Report any symptoms to the physician",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ampulla",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "In patients receiving aminoglycosides, not only hearing but also the balance organ should be monitored.",
+    "Image jumping during head movement and imbalance in the dark are asked about at every follow-up.",
+    "The bedside head impulse test is a rough but quick indicator of bilateral vestibular loss.",
+    {
+     "yazi": "In suitable patients, the video head impulse test, or vHIT, can track the gain of the vestibulo-ocular reflex.",
+     "ses": "In suitable patients, the video head impulse test, or v hit, can track the gain of the vestibulo-ocular reflex."
+    },
+    "If a vestibular sign is found, it is reported to the team without delay, just like a hearing finding."
+   ]
+  },
+  {
+   "id": "bildirim",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Reporting",
+   "baslik": "From finding *to report*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Compare",
+     "cumle": 0,
+     "metin": "With baseline"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Confirm",
+     "cumle": 1,
+     "metin": "Retest"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Document",
+     "cumle": 2,
+     "metin": "Criterion, ear, frequency"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Report",
+     "cumle": 3,
+     "metin": "Same day, plain language"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Support",
+     "cumle": 5,
+     "metin": "Counseling, devices"
+    }
+   ],
+   "cumleler": [
+    "Every monitoring test is compared with the baseline test frequency by frequency.",
+    "A significant change is confirmed with a retest.",
+    "The report states clearly in which ear, at which frequencies and by which criterion the change occurred.",
+    "The finding is passed to the treatment team the same day, in clear language that explains the technical terms.",
+    "Stating how close the change is to the speech frequencies helps the team weigh benefit and risk.",
+    "The finding is also explained to the patient and family; if needed, communication strategies and hearing aids are planned."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Aim to do the baseline test before the first dose. At the bedside, use insert earphones and record the room noise; repeat the same conditions in later tests.",
+   "cumleler": [
+    "A tip from the field: set up a referral pathway with the oncology and infectious disease teams in advance so baseline tests are not missed.",
+    "When testing at the bedside, insert earphones reduce room noise and improve repeatability.",
+    "Record the test setting, the earphones used and the patient's condition, and try to recreate the same conditions in later tests.",
+    "A little preparation markedly reduces false alarms and missed changes."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Baseline test: before the first dose",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "High frequencies and DPOAE warn early",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ASHA: 20 or 10 dB, lost responses",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Confirm, report quickly to the team",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Monitoring starts with a detailed baseline test, ideally before the first dose, and continues after treatment.",
+    "Extended high frequencies and DPOAEs can show change before the standard audiogram does.",
+    {
+     "yazi": "The ASHA criteria: 20 decibels at one frequency, 10 decibels at two adjacent frequencies or loss of response at three frequencies.",
+     "ses": "The Asha criteria: twenty decibels at one frequency, ten decibels at two adjacent frequencies or loss of response at three frequencies."
+    },
+    "A change is confirmed with a retest and reported quickly to the team; the treatment decision always belongs to the physician."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "By ASHA, which of these is a significant change on its own?",
+   "secenekler": [
+    "10 dB at one frequency",
+    "10 dB at two adjacent frequencies",
+    "10 dB at two distant frequencies",
+    "15 dB at one frequency"
+   ],
+   "dogru": 1,
+   "aciklama": "Criteria: 20 dB at one frequency, _10 dB at two adjacent frequencies_, lost response at three.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: according to the ASHA criteria, which of these is a significant change on its own?",
+     "ses": "Test yourself: according to the Asha criteria, which of these is a significant change on its own?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a 10 decibel worsening at two adjacent frequencies.",
+    "At a single frequency, at least 20 decibels is needed; in every case, the finding is confirmed with a retest."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Grading Ototoxicity in Children: *Brock, Chang, SIOP*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will see how ototoxicity in children is graded with the Brock, Chang and SIOP Boston scales.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

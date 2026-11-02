@@ -1,0 +1,886 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D249_Bone_Conduction_Implants_EN",
+ "kapak": {
+  "ust": "LESSON 249",
+  "baslik": "Bone-conduction<br>*implants*",
+  "alt": "Percutaneous and transcutaneous systems",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "temporal_kemik"
+  ]
+ },
+ "youtube": {
+  "baslik": "Bone-Conduction Implants: Percutaneous vs Transcutaneous | Lesson 249 | AIHEAR Audiology Academy",
+  "aciklama": "How do we get sound to the cochlea when there is no ear canal, or the ear drains constantly? In this lesson we cover candidacy for bone-conduction implants, percutaneous and active and passive transcutaneous systems, softband trials, choosing device power from bone-conduction thresholds, in situ measurement and use in single-sided deafness.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Tjellström, Håkansson and Granström (2001), Bone-anchored hearing aids: current status in adults and children, Otolaryngologic Clinics of North America; Holgers et al. (1988), Soft tissue reactions around percutaneous implants, American Journal of Otology; Reinfeldt et al. (2015), New developments in bone-conduction hearing implants: a review, Medical Devices: Evidence and Research; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "boneconduction",
+   "hearing"
+  ],
+  "etiketler": [
+   "bone-conduction implant",
+   "bone-anchored hearing system",
+   "percutaneous",
+   "transcutaneous",
+   "abutment",
+   "softband",
+   "in situ measurement",
+   "osseointegration",
+   "aural atresia",
+   "Holgers classification",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 249",
+   "baslik": "Bone-conduction *implants*",
+   "alt": "Percutaneous and transcutaneous systems",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about bone-conduction implants, which send sound directly to the cochlea through skull vibration.",
+    "We will cover candidacy, systems that pass through the skin and systems under it, trials on a band, and choosing device power."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why bone conduction?",
+   "baslik": "*Bypassing* the outer and middle ear",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "ear canal: bypassed",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "middle ear: bypassed",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "temporal bone vibrates",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "cochlea",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_kemik",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklea",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the bone conduction lesson, we saw that when the skull vibrates, sound reaches the cochlea largely bypassing the outer and middle ear.",
+    "Bone-conduction implants use this principle: sound does not have to pass through the ear canal and the middle ear.",
+    "The device turns the sound it picks up into vibration and passes this vibration to the temporal bone.",
+    "The vibration spreads through the skull and moves the cochlear fluids, creating the sensation of hearing.",
+    "So as long as the cochlea works well, sound can reach it, however severe the problem in the outer or middle ear.",
+    "For success, bone-conduction thresholds, that is, cochlear sensitivity, must lie within the range the device's power can cover."
+   ],
+   "ayar": {
+    "implant": "kemik_yolu",
+    "tur": "perkutan",
+    "implant_cumle": 1,
+    "titresim_cumle": 2
+   }
+  },
+  {
+   "id": "aday",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why bone conduction?",
+   "baslik": "Who is a *candidate?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "No ear canal",
+     "cumle": 0,
+     "metin": "Atresia, microtia"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Draining ear",
+     "cumle": 1,
+     "metin": "Chronic middle ear disease"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Cannot wear an aid",
+     "cumle": 3,
+     "metin": "Allergy, canal problem"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Mixed loss",
+     "cumle": 4,
+     "metin": "Suitable bone conduction"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Single-sided deafness",
+     "cumle": 5,
+     "metin": "Carries sound across"
+    }
+   ],
+   "cumleler": [
+    "Atresia, where the ear canal never developed, and microtia, where the pinna is underdeveloped, are classic indications.",
+    "In chronic middle ear disease with constant or frequent drainage, a device that blocks the ear canal can make drainage worse.",
+    "In these ears, the ear canal stays open and sound is delivered by bone conduction.",
+    "People who cannot use a hearing aid because of canal allergy or a narrow or surgically altered ear canal are also candidates.",
+    "In conductive or mixed losses, these systems work well when bone-conduction thresholds are within the device's range.",
+    "In single-sided deafness, the device carries sound from the deaf side by bone conduction to the healthy cochlea on the other side.",
+    "Candidacy is decided by the team, based on audiological findings, the medical state of the ear and the person's preference."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "Why bone conduction?",
+   "baslik": "Example: *atresia*",
+   "lejant": [
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Right_: air conduction, masked",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Right_: bone conduction, masked",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ range",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       60,
+       65,
+       60,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "aralik": {
+     "konum": [
+      2,
+      15,
+      65
+     ],
+     "etiket": "50 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "In this example, the right ear has congenital atresia; air-conduction thresholds lie between sixty and seventy decibels.",
+    "Masked bone-conduction thresholds, however, are within normal limits; in other words, the cochlea works well.",
+    "There is an air-bone gap of about fifty decibels; this is close to the largest conductive loss expected in atresia.",
+    "Without an ear canal, an air-conduction aid cannot be worn; but normal bone conduction shows a bone-conduction device can work very well.",
+    "The values are only an example; the actual decision is made together with imaging and the ear surgeon's evaluation."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Types of system",
+   "baslik": "Four *approaches*",
+   "ogeler": [
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Nonsurgical",
+     "cumle": 0,
+     "metin": "Band or adhesive"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Percutaneous",
+     "cumle": 1,
+     "metin": "Abutment through the skin"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Passive transcutaneous",
+     "cumle": 3,
+     "metin": "Magnet, skin intact"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Active transcutaneous",
+     "cumle": 5,
+     "metin": "Vibrator under the skin"
+    }
+   ],
+   "cumleler": [
+    "Nonsurgical forms of bone-conduction devices are worn on a headband or on an adhesive pad stuck to the skin.",
+    "In percutaneous systems, which pass through the skin, a part attached to an implant in the bone comes out through the skin.",
+    "The sound processor attaches directly to this part and passes vibration directly to the bone.",
+    "In transcutaneous systems, which stay under the skin, the skin remains intact.",
+    "In passive transcutaneous systems, the processor holds onto a magnet under the skin, and vibration passes through the skin to the bone.",
+    "In active transcutaneous systems, the vibrating part sits under the skin on the bone; the external processor sends it power and signal.",
+    "Each approach has different advantages for sound transmission, skin problems, appearance and care."
+   ]
+  },
+  {
+   "id": "perkutan",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Types of system",
+   "baslik": "The *percutaneous* system",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "vida",
+     "metin": "titanium implant here",
+     "cumle": 1
+    },
+    {
+     "parca": "abutment",
+     "metin": "Abutment",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "metin": "cochlea",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vida",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Titanium screw fuses with bone",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Abutment comes through the skin",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Vibration goes straight to bone",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The first bone-anchored hearing aid was fitted in 1977 in Gothenburg, Sweden, by Tjellström and colleagues.",
+     "ses": "The first bone-anchored hearing aid was fitted in nineteen seventy seven in Gothenburg, Sweden, by Tjellström and colleagues."
+    },
+    "A small titanium screw is placed in the temporal bone behind the ear.",
+    "Over time, the titanium fuses directly with the bone; this is called osseointegration, and only then is the processor attached.",
+    "The abutment, the connecting part attached to the screw, comes out through the skin, and the sound processor clips onto it.",
+    "Because vibration goes straight to the bone without passing through skin and soft tissue, this is one of the most efficient systems.",
+    "These systems are generally called bone-anchored hearing systems.",
+    "In the US, these implants are limited to children aged five and older; younger children use the device on a band."
+   ],
+   "ayar": {
+    "implant": "kemik_yolu",
+    "tur": "perkutan",
+    "implant_cumle": 1,
+    "titresim_cumle": 4
+   }
+  },
+  {
+   "id": "bakim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Types of system",
+   "baslik": "The *skin* in percutaneous systems",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Skin reaction",
+     "cumle": 0,
+     "metin": "Redness, discharge"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Holgers",
+     "cumle": 1,
+     "metin": "From 0 to 4"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Implant loss",
+     "cumle": 4,
+     "metin": "If osseointegration fails"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Daily care",
+     "cumle": 5,
+     "metin": "Gentle cleaning"
+    }
+   ],
+   "cumleler": [
+    "Skin reactions such as redness, discharge or tissue overgrowth may be seen around the abutment that passes through the skin.",
+    "These reactions are recorded with the Holgers classification, which grades them from zero to four.",
+    "Grade zero means no reaction, and grade four a severe reaction that may require removal of the implant.",
+    "Most reactions are mild and settle with local care; but treatment decisions belong to the physician.",
+    "More rarely, the fusion of titanium with bone fails, and the implant may loosen and be lost.",
+    "The person is taught to clean around the abutment gently every day and to report any skin changes."
+   ]
+  },
+  {
+   "id": "transkutan",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Types of system",
+   "baslik": "*Passive* and active transcutaneous",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Passive: magnet",
+     "cumle": 0,
+     "metin": "Intact skin, good appearance"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Passive: the cost",
+     "cumle": 1,
+     "metin": "Skin weakens the highs"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Active: vibrator",
+     "cumle": 3,
+     "metin": "Vibration under the skin"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Active: processor",
+     "cumle": 4,
+     "metin": "Sends power and signal"
+    }
+   ],
+   "cumleler": [
+    "In a passive transcutaneous system, a magnet under the skin holds the processor in place; with intact skin, skin care problems are few.",
+    "However, as vibration passes through skin and soft tissue, it can lose up to about ten to twenty decibels, especially at high frequencies.",
+    "Also, magnet pressure can cause skin pain or redness with long use; so magnet strength is chosen carefully.",
+    "In an active transcutaneous system, the transducer that creates vibration is placed under the skin, directly on the bone.",
+    "The external processor picks up sound and sends power and signal through the skin to the internal part, much like a cochlear implant.",
+    "Because vibration is created under the skin, there is no skin loss; but these systems require more extensive surgery.",
+    "For all systems that contain a magnet, magnetic resonance imaging is planned according to the manufacturer's conditions."
+   ]
+  },
+  {
+   "id": "deri_kaybi",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Types of system",
+   "baslik": "Skin weakens the *highs*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -25,
+     "max": 5,
+     "adim": 5,
+     "ad": "Vibration reaching bone (relative dB)"
+    },
+    "seriler": [
+     {
+      "ad": "dogrudan",
+      "noktalar": [
+       [
+        500,
+        0
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        4000,
+        0
+       ],
+       [
+        6000,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "direct connection",
+      "cumle": 0
+     },
+     {
+      "ad": "deri_uzerinden",
+      "noktalar": [
+       [
+        500,
+        -3
+       ],
+       [
+        1000,
+        -5
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        4000,
+        -14
+       ],
+       [
+        6000,
+        -17
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "through the skin",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayip",
+      "y": [
+       -14,
+       0
+      ],
+      "xk": 4000,
+      "etiket": "skin loss",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kayip",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "In this schematic graph, the navy line represents vibration passed directly to the bone.",
+    "The blue line shows the same vibration passed through skin and soft tissue.",
+    "Skin weakens vibration, especially at high frequencies; the difference grows as frequency rises.",
+    "This loss appears both in passive transcutaneous systems and in trials where the device is worn on a band.",
+    "So a trial on a band often makes the sound after implantation seem a little worse than it will really be.",
+    "The values vary with the person and skin thickness; the graph shows only the trend."
+   ]
+  },
+  {
+   "id": "deneme",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Trial and selection",
+   "baslik": "A *trial* before deciding",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Bone conduction",
+     "cumle": 0,
+     "metin": "Masked thresholds"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Softband",
+     "cumle": 1,
+     "metin": "Try it in daily life"
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Power choice",
+     "cumle": 4,
+     "metin": "Based on bone conduction"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Decision",
+     "cumle": 5,
+     "metin": "Person and team"
+    }
+   ],
+   "cumleler": [
+    "Evaluation starts with reliable bone-conduction thresholds, obtained for each ear separately and with masking when needed.",
+    "Next, the sound processor is tried on the head with a softband or an adhesive pad.",
+    "The person uses the device for a few days or weeks in their own daily settings and forms concrete expectations.",
+    "Aided sound field thresholds and speech tests can also be done during the trial.",
+    "Based on bone-conduction thresholds, a standard, power or super power model of the device is chosen.",
+    "The final decision is made by the team, together with trial results, the medical state of the ear and the person's preference.",
+    "In children younger than five, the softband is often not just a trial but a long-term way of wearing the device."
+   ]
+  },
+  {
+   "id": "guc",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Trial and selection",
+   "baslik": "Bone-conduction threshold and *power*",
+   "sutunlar": [
+    "Device power",
+    "Average bone conduction"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Standard",
+      "About 45 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Power",
+      "About 55 dB HL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Super power",
+      "About 65 dB HL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Unilateral, better ear",
+      "20 dB HL (air)"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Device power is chosen from the average bone-conduction threshold, usually the average at five hundred, one, two and three thousand hertz.",
+    "Standard-power percutaneous devices are recommended for people with a bone-conduction average of about forty five decibels HL or better.",
+    "Stronger models fit bone-conduction thresholds up to about fifty five, the strongest up to about sixty five decibels HL, by manufacturer.",
+    "These limits vary by manufacturer, model and type of system; transcutaneous systems may have different ranges.",
+    "In single-sided deafness, air-conduction thresholds in the better ear of about twenty decibels HL or better are required.",
+    "If bone-conduction thresholds are near the limit, the option of moving to a stronger model if the loss progresses is also discussed."
+   ]
+  },
+  {
+   "id": "tek_tarafli",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Trial and selection",
+   "baslik": "*Bone conduction* in single-sided deafness",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "ild",
+    "frekanslar": [
+     4000,
+     500
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "yakin_kulak",
+     "metin": "device: deaf side",
+     "cumle": 0
+    },
+    {
+     "parca": "uzak_kulak",
+     "metin": "healthy cochlea",
+     "cumle": 1
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "head shadow",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yakin_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "uzak_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "bas_golgesi",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "In single-sided deafness, the bone-conduction device is placed on the deaf side and picks up sound from that side.",
+    "The vibration travels across the skull to the healthy cochlea on the other side.",
+    "So speech from the deaf side reaches the good ear without being blocked by the head shadow.",
+    "Although interaural attenuation for bone conduction is taken as zero in the clinic, it can reach fifteen decibels at high frequencies.",
+    "As with contralateral routing of signals, or CROS, all sounds reach a single cochlea here; localization does not return.",
+    "As we saw in the previous lessons, the choice among options in single-sided deafness is made after all paths are explained without bias."
+   ]
+  },
+  {
+   "id": "insitu",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Fitting and verification",
+   "baslik": "*In situ* measurement",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ad": "Threshold (dB)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "odyometrik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        4000,
+        15
+       ]
+      ],
+      "renk": "gri",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "audiometric bone conduction",
+      "cumle": 0
+     },
+     {
+      "ad": "in_situ",
+      "noktalar": [
+       [
+        500,
+        20
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        30
+       ],
+       [
+        3000,
+        30
+       ],
+       [
+        4000,
+        35
+       ],
+       [
+        6000,
+        40
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "in situ threshold with device",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "in_situ",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Thresholds measured with a bone vibrator on the audiometer do not exactly reflect the vibration the processor delivers to the person's head.",
+    "Skull structure, skin thickness and how the device is attached change transmission from person to person.",
+    "So during fitting, thresholds are measured using the sound processor itself as the vibration source; this is called in situ measurement.",
+    "The fitting software calculates gain from these in situ thresholds, so the real vibration reaching the person is taken into account.",
+    "Real ear measurement in the ear canal is not possible with bone-conduction devices; output can instead be measured with a skull simulator.",
+    "The result is verified with aided sound field thresholds and speech in noise tests.",
+    "For reimbursement of bone-conduction implants in Türkiye, the current Health Implementation Communiqué should always be checked."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "In a band trial, explain that skin loss makes the sound weaker than after implantation. Run the trial in the person's own daily settings.",
+   "cumleler": [
+    "A tip from the clinic: during a band trial, tell the person that after implantation the sound will usually be a little stronger and clearer.",
+    "This is because on a band the vibration passes through the skin and weakens, especially at high frequencies.",
+    "Have the trial done not only in a quiet clinic room, but at the person's home, work and school.",
+    "In single-sided deafness, note together at the end of the trial in which settings the person found benefit."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Sound reaches the cochlea through bone",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Percutaneous: efficient, needs skin care",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Transcutaneous: passive or active",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bone conduction sets the power",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Bone-conduction implants bypass the outer and middle ear and deliver sound to the cochlea through skull vibration.",
+    "Percutaneous systems pass vibration directly to the bone and are efficient; the abutment through the skin needs regular care.",
+    "In passive transcutaneous systems the skin is intact but high frequencies are lost; in active systems the vibrator is under the skin.",
+    "Device power is chosen from bone-conduction thresholds, the decision follows a band trial, and fitting uses in situ measurement."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is device power based on?",
+   "secenekler": [
+    "Air-conduction thresholds",
+    "Bone-conduction thresholds",
+    "Tympanometry",
+    "Acoustic reflex"
+   ],
+   "dogru": 1,
+   "aciklama": "The device stimulates the cochlea directly; the key is the _bone-conduction_ thresholds.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which measurement is the basis for choosing the power of a bone-conduction implant?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: bone-conduction thresholds.",
+    "The device bypasses the outer and middle ear to stimulate the cochlea, so the power needed depends on bone-conduction thresholds."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Active *Middle Ear* Implants",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about active middle ear implants, which pass vibration to the ossicles or the round window.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

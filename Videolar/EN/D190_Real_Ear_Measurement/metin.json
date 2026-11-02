@@ -1,0 +1,776 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D190_Real_Ear_Measurement_EN",
+ "kapak": {
+  "ust": "LESSON 190",
+  "baslik": "Real-ear<br>*measurement*",
+  "alt": "REUG, REAR and REIG",
+  "cizim": "kulak_kesit"
+ },
+ "youtube": {
+  "baslik": "Real-Ear Measurement: REUG, REAR and REIG | Lesson 190 | AIHEAR Audiology Academy",
+  "aciklama": "How do we know whether a hearing aid really meets its prescriptive target? In this lesson we cover probe tube placement, the concepts of REUR, REUG, REAR and REIG, how match to target is checked, and why real-ear measurement should not be skipped.\\n\\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\\n\\nSources: Dillon, Hearing Aids; Mueller, Ricketts and Bentler, Modern Hearing Aids; ANSI/ASA S3.46, Methods of Measurement of Real-Ear Performance Characteristics of Hearing Aids; British Society of Audiology, Guidance on the verification of hearing devices using probe microphone measurements; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment.\\n\\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "REM"
+  ],
+  "etiketler": [
+   "real-ear measurement",
+   "probe microphone measurement",
+   "REM",
+   "REUG",
+   "REAR",
+   "REIG",
+   "probe tube placement",
+   "hearing aid verification",
+   "hearing aid fitting",
+   "NAL-NL2",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 190",
+   "baslik": "Real-ear *measurement*",
+   "alt": "REM: REUG, REAR and REIG",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn real-ear measurement, which directly measures what a hearing aid produces in the ear.",
+    "We will go step by step through probe tube placement, the main measurement types and comparison with the prescriptive target."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "What is REM?",
+   "baslik": "What is real-ear *measurement?*",
+   "maddeler": [
+    {
+     "metin": "Measuring sound pressure in the ear canal",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A thin _probe tube_ and microphone",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "The person's own ear acoustics",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Comparison with the prescriptive target",
+     "cumle": 6,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REM",
+    "metin": "*Real-ear* measurement",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Real-ear measurement is the measurement of sound pressure in the ear canal, at a point close to the tympanic membrane.",
+    "It is also called probe microphone measurement and is usually abbreviated as REM.",
+    "The measurement uses a thin, soft probe tube placed in the ear canal and connected to a microphone.",
+    "The tube is thin enough to stay in the ear canal even with the hearing aid in place.",
+    "This way we see what the aid produces in the person's own ear canal, not in a coupler.",
+    "The size and shape of the ear canal, and whether the aid is vented, change this result markedly.",
+    "The measurement is compared with the prescriptive target we saw in the previous lesson."
+   ]
+  },
+  {
+   "id": "duzenek",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is REM?",
+   "baslik": "The measurement *setup*",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "hoparlor",
+     "metin": "loudspeaker",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_tupu",
+     "metin": "probe tube in the ear canal",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "tympanic membrane",
+     "cumle": 3
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "metin": "reference microphone",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_tupu",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Loudspeaker: in front or at 45 degrees",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Reference microphone controls the stimulus",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Quiet room, still patient",
+     "cumle": 6,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "The setup has three basic parts: a loudspeaker, a probe microphone and a reference microphone.",
+    "The loudspeaker usually sits in front of the patient or at 45 degrees, about half a meter to one meter away.",
+    "The probe tube is placed in the ear canal, with its tip close to the tympanic membrane.",
+    "The aim is to capture the sound pressure in front of the tympanic membrane as accurately as possible.",
+    "The reference microphone, right next to the pinna, monitors the stimulus reaching the ear and corrects the loudspeaker output.",
+    "So even if the patient moves their head slightly, the input level reaching the ear is kept constant.",
+    "Still, measurement should be done in a quiet room, with the patient not talking or moving their head."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Placing the probe tube",
+   "baslik": "*Where* does the probe tube go?",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy",
+     "metin": "Check wax and eardrum",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Tube calibration",
+     "metin": "Per device instructions",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tip depth",
+     "metin": "About 5 mm from eardrum",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Marking",
+     "metin": "Women 28, men 30 mm",
+     "cumle": 4
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Aid tip",
+     "metin": "Extend at least 5 mm beyond",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "The first step is otoscopy: make sure there is no occluding wax in the ear canal and that the tympanic membrane is visible.",
+    "Then calibrate the probe tube following the device instructions, so the tube's own acoustic effect is removed from the measurement.",
+    "The tip of the tube should come within about 5 mm of the tympanic membrane.",
+    "To do this, the tube is marked starting from the intertragal notch of the pinna.",
+    "In adults this distance is usually about 28 mm in women and 30 mm in men; these values are a starting point.",
+    "The tube is gently advanced to the marked point and its position is checked with an otoscope.",
+    "The tube tip must extend at least 5 mm beyond the tip of the earmold or dome; otherwise the aid's output is not measured correctly.",
+    "The tube must not slip when the aid is inserted; check again that the mark has stayed in place."
+   ]
+  },
+  {
+   "id": "duran_dalga",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Placing the probe tube",
+   "baslik": "Why *close* to the eardrum?",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 6000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_boyu",
+     "metin": "wavelength about 57 mm",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Reflection from the eardrum, standing wave",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "A notch at a quarter wavelength",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tip near eardrum, accurate high frequencies",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Why is it so important for the tube to be close to the eardrum?",
+    "When sound hits the tympanic membrane, part of it reflects back and overlaps with the incoming wave in the ear canal.",
+    "For example, a 6000 Hz sound has a wavelength of about 57 mm in air.",
+    "If the probe tip is a quarter wavelength, about 14 mm, from the eardrum, the reflected wave cancels the incoming wave at this frequency.",
+    "The result is a notch at high frequencies that does not really exist, and the aid's output is measured too low.",
+    "As the tip moves closer to the eardrum, this notch shifts to higher frequencies and the measurement becomes reliable in the important range."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If you see an unexpected high-frequency notch, check the probe tube depth first; the earmold may have pushed it or it may have slipped back.",
+   "cumleler": [
+    "A tip from the field: if you see an unexpected narrow notch at high frequencies, check the probe tube first, not the hearing aid.",
+    "The tube may have slipped back as the aid was inserted; the tip then moves away from the eardrum and a standing wave notch appears.",
+    "A tube tip blocked by wax or pressed against the ear canal wall also spoils the measurement.",
+    "Checking the tube mark against a fixed point on the pinna prevents most of these errors.",
+    "If in doubt, repositioning the tube and repeating the measurement is always better than making a wrong adjustment."
+   ]
+  },
+  {
+   "id": "terimler",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The unaided ear: REUR and REUG",
+   "baslik": "Measurement *terms*",
+   "sutunlar": [
+    "Abbreviation",
+    "Condition",
+    "Unit"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "REUR",
+      "Unaided, open ear",
+      "dB SPL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "REUG",
+      "Open ear gain",
+      "dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "REOR",
+      "Aid in, turned off",
+      "dB SPL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "REAR",
+      "Aid in, turned on",
+      "dB SPL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "REIG",
+      "REAR minus REUR",
+      "dB"
+     ],
+     "cumle": 6,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Real-ear measurement terms look confusing at first, but their logic is simple.",
+    "The real-ear unaided response, or REUR, is the sound pressure level measured in the open ear canal without an aid.",
+    "Subtracting the input level from this gives the natural gain of the open ear, the real-ear unaided gain, or REUG.",
+    "A measurement with the aid in place but turned off is called the real-ear occluded response, or REOR.",
+    "The real-ear aided response, or REAR, is the sound pressure level measured in the ear canal with the aid in place and on.",
+    "Subtracting the input level from the REAR gives the real-ear aided gain, or REAG.",
+    "The real-ear insertion gain, or REIG, is the difference the aid makes compared with the open ear: REAR minus REUR."
+   ]
+  },
+  {
+   "id": "reug",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The unaided ear: REUR and REUG",
+   "baslik": "The open ear's *natural gain*",
+   "maddeler": [
+    {
+     "metin": "Ear canal and pinna resonance",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Peak: about _2500 to 3000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Size: about 15 to 20 dB",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "In children the peak is higher",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REUG",
+    "metin": "The *natural* acoustic gain of the open ear canal",
+    "cumle": 5
+   },
+   "cumleler": [
+    "An open ear canal, together with the pinna, naturally boosts incoming sound at certain frequencies.",
+    "In adults the peak of this resonance is usually between 2500 and 3000 Hz.",
+    "At the peak, the natural gain can reach about 15 to 20 dB.",
+    "But these values vary markedly between people; an average value does not represent every ear.",
+    "Because children's ear canals are shorter, the resonance peak lies at higher frequencies.",
+    "The measured REUG is an individual fingerprint of that ear's natural acoustics."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The unaided ear: REUR and REUG",
+   "baslik": "With the aid in: *insertion loss*",
+   "maddeler": [
+    {
+     "metin": "The earmold closes the ear canal",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "The natural resonance _is lost_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "The aid must first compensate",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "earmold closes the ear canal",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "When an earmold or hearing aid is placed in the ear canal, the acoustics of the canal change.",
+    "The natural resonance of the open ear canal is largely lost; this is called insertion loss.",
+    "The REOR, measured with the aid turned off, shows this loss and how much sound passes through the earmold.",
+    "So before the aid can provide any benefit, it must also make up for this lost natural gain.",
+    "This is exactly why insertion gain is defined as a difference relative to the open ear.",
+    "With open-fit aids, the ear canal stays largely open, so insertion loss is smaller."
+   ]
+  },
+  {
+   "id": "rear",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "The aided ear: REAR and REIG",
+   "baslik": "*REAR*: how much sound is in the ear?",
+   "maddeler": [
+    {
+     "metin": "Aided measurement, dB SPL",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Speech-like stimulus: _55, 65, 80_ dB",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Maximum output: _85 to 90_ dB sweep",
+     "cumle": 5,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "DSL targets in REAR format",
+     "cumle": 7,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "prob_tupu",
+      "metin": "probe tube",
+      "cumle": 0
+     },
+     {
+      "parca": "isitme_cihazi",
+      "metin": "aid turned on",
+      "cumle": 0
+     },
+     {
+      "parca": "hoparlor",
+      "metin": "speech-like stimulus",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "isitme_cihazi",
+      "cumle": 0
+     },
+     {
+      "parca": "hoparlor",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "REAR is the absolute sound pressure level near the tympanic membrane with the aid on, expressed in dB SPL.",
+    "With compression aids a single measurement is not enough, so it is repeated at different input levels.",
+    "Inputs of about 55, 65 and 80 dB SPL are usually used, representing soft, average and loud speech.",
+    "Speech-like signals are preferred over pure tones for these measurements.",
+    "This is because features such as noise reduction may respond to a steady pure tone differently from real speech.",
+    "In addition, the aid's maximum output is measured with a sweep at 85 to 90 dB SPL.",
+    "This maximum output must not exceed the person's discomfort level.",
+    {
+     "yazi": "Because DSL v5 targets are given directly as REAR, the result is compared with the target on the same screen.",
+     "ses": "Because DSL version 5 targets are given directly as REAR, the result is compared with the target on the same screen."
+    }
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "The aided ear: REAR and REIG",
+   "baslik": "Example: calculating *REIG*",
+   "sutunlar": [
+    "Frequency",
+    "REUG",
+    "REAG",
+    "REIG"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "1 dB",
+      "11 dB",
+      "10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "3 dB",
+      "21 dB",
+      "18 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "12 dB",
+      "34 dB",
+      "22 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "3000 Hz",
+      "17 dB",
+      "42 dB",
+      "25 dB"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Let us calculate REIG with example values; at the same input level, REIG can also be found as REAG minus REUG.",
+    "At 500 Hz, the open ear's natural gain is 1 dB and the aided gain 11 dB, so the insertion gain is 10 dB.",
+    "At 1000 Hz, the natural gain is 3 dB and the aided gain 21 dB, so the insertion gain is 18 dB.",
+    "At 2000 Hz the natural gain rises to 12 dB; with an aided gain of 34 dB, the insertion gain is 22 dB.",
+    "At 3000 Hz, the natural gain is 17 dB and the aided gain 42 dB, so the insertion gain is 25 dB.",
+    "As you can see, where the natural resonance is strong, much of the aided gain only restores the lost resonance.",
+    "This example also explains why the same aid setting gives different insertion gain in different ears."
+   ]
+  },
+  {
+   "id": "rear_reig",
+   "tur": "karsilastir",
+   "bolum_no": "PART 4",
+   "bolum": "The aided ear: REAR and REIG",
+   "baslik": "REIG or *REAR?*",
+   "sol": {
+    "ust": "REIG",
+    "maddeler": [
+     {
+      "metin": "Difference from the open ear",
+      "cumle": 0
+     },
+     {
+      "metin": "NAL-NL2 gain target",
+      "cumle": 1
+     },
+     {
+      "metin": "Does not show absolute level",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "REAR",
+    "maddeler": [
+     {
+      "metin": "Absolute level in the ear canal",
+      "cumle": 3
+     },
+     {
+      "metin": "Same screen as thresholds and speech",
+      "cumle": 4
+     },
+     {
+      "metin": "NAL-NL2 and DSL v5 targets",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "REIG shows how much difference the aid makes compared with the open ear.",
+    {
+     "yazi": "NAL-NL2 targets have traditionally been given as insertion gain."
+    },
+    "But REIG does not directly show how loud the sound in the ear canal really is, or whether it rises above threshold.",
+    "REAR, on the other hand, gives the absolute sound level in the ear canal.",
+    "So the person's thresholds, the speech band and the discomfort level can be shown in dB SPL on the same screen.",
+    {
+     "yazi": "Today both NAL-NL2 and DSL v5 targets are also used in REAR form, and REAR with a speech signal is increasingly common.",
+     "ses": "Today both NAL-NL2 and DSL version 5 targets are also used in REAR form, and REAR with a speech signal is increasingly common."
+    }
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Matching to target",
+   "baslik": "*Matching* the target",
+   "adimlar": [
+    {
+     "ikon": "grafik",
+     "baslik": "Compare",
+     "metin": "Measured curve and target",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Channel gain",
+     "metin": "Difference reduced",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Three levels",
+     "metin": "Checked separately",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Criterion",
+     "metin": "About plus or minus 5 dB",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Maximum output",
+     "metin": "And feedback check",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "On the measurement screen, the target curve and the measured curve are shown on top of each other.",
+    "The difference between them is reduced by changing the gain in the relevant frequency channel.",
+    "The measurement is repeated after each change, because adjusting one channel can also affect neighboring frequencies.",
+    "Soft, average and loud inputs are checked separately, which also verifies the compression settings.",
+    "A common approach is for the measurement to be within about plus or minus 5 dB of target, especially up to 2000 Hz.",
+    "At higher frequencies a slightly wider tolerance may be accepted, because of feedback and ear canal acoustics.",
+    "Finally, maximum output is measured and you check that this setting can be used without feedback."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Matching to target",
+   "baslik": "Why should it *not be skipped?*",
+   "maddeler": [
+    {
+     "metin": "First fit often _below target_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Every ear is acoustically different",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Guidelines recommend verification",
+     "cumle": 5,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Verified fittings, better outcomes",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Research shows that manufacturers' first-fit settings often fall below the prescriptive target.",
+    "This shortfall is most marked at the high frequencies that matter for speech intelligibility.",
+    "The predicted curve on the software screen is not the real value measured in the person's ear.",
+    "Factors such as ear canal size, venting and earmold fit make the same setting give different results in each ear.",
+    "With a fitting that is not measured, there is no way to know whether the person hears speech well enough.",
+    "So guidelines from American and British audiology organizations recommend verification with real-ear measurement as best practice.",
+    "Studies show that fittings verified with real-ear measurement increase user benefit.",
+    "For an experienced clinician the measurement is usually quick; the accuracy it brings is well worth the time."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Probe tip about 5 mm from eardrum",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "REUG: the open ear's natural gain",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "REAR: absolute aided level in the ear",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "REIG = REAR minus REUR",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that the probe tube tip should be placed about 5 mm from the tympanic membrane.",
+    "REUG is the individual natural gain of the open ear canal.",
+    "REAR is the absolute sound level measured in the ear canal with the aid on, measured at different input levels.",
+    "REIG is the difference the aid makes compared with the open ear, calculated as REAR minus REUR."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "At 3000 Hz, REUG is 17 dB and REAG is 40 dB. What is the REIG?",
+   "secenekler": [
+    "17 dB",
+    "23 dB",
+    "40 dB",
+    "57 dB"
+   ],
+   "dogru": 1,
+   "aciklama": "REIG = REAG minus REUG: _40 minus 17 = 23 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: at 3000 Hz, REUG is 17 dB and REAG is 40 dB. What is the REIG in dB?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: 23 dB.",
+    "Insertion gain is found by subtracting the open ear's natural gain from the aided gain: 40 minus 17, that is, 23 dB."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Speech Mapping and Verification with *ISTS*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at speech mapping, the ISTS test signal and the Speech Intelligibility Index.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

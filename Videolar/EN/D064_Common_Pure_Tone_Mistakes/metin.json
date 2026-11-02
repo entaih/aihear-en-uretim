@@ -1,0 +1,750 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D064_Common_Pure_Tone_Mistakes_EN",
+ "kapak": {
+  "ust": "LESSON 64",
+  "baslik": "Common<br>*mistakes*",
+  "alt": "Pitfalls in pure-tone audiometry",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "kollaps": true
+  }
+ },
+ "youtube": {
+  "baslik": "Common Mistakes in Pure-Tone Audiometry | Lesson 64 | AIHEAR Audiology Academy",
+  "aciklama": "In this lesson we look at common mistakes in pure-tone audiometry: false positive and false negative responses, collapsing ear canals, earphone and vibrator placement errors, forgotten masking and the shadow curve, and environment, equipment and recording errors. We also cover simple ways to check whether a result is consistent.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry; BSA, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking (2018); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "puretoneaudiometry"
+  ],
+  "etiketler": [
+   "pure tone audiometry mistakes",
+   "false positive response",
+   "false negative response",
+   "collapsing ear canal",
+   "collapsed canal",
+   "shadow curve",
+   "masking",
+   "insert earphones",
+   "audiogram errors",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 64",
+   "baslik": "Common *mistakes*",
+   "alt": "Recognizing and preventing errors in pure-tone audiometry",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the common mistakes in pure-tone audiometry and how they show up on the audiogram.",
+    "Step by step, we will cover false responses, earphone and vibrator errors, forgotten masking and recording errors."
+   ]
+  },
+  {
+   "id": "iki_tur",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Response errors",
+   "baslik": "Two kinds of *false response*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "False positive",
+     "cumle": 1,
+     "metin": "Response with no tone"
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "False negative",
+     "cumle": 3,
+     "metin": "No response to a tone"
+    }
+   ],
+   "cumleler": [
+    "In pure-tone audiometry, patient responses can be wrong in two directions.",
+    "A response when no tone was presented is called a false positive response.",
+    "False positive responses cause the threshold to be recorded as better than it really is.",
+    "No response when a tone was presented and was audible is called a false negative response.",
+    "False negative responses, in turn, make the threshold look worse than it really is.",
+    "We briefly met these two errors in the Hughson-Westlake lesson; now let us look more closely at their causes and how to prevent them."
+   ]
+  },
+  {
+   "id": "pozitif",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Response errors",
+   "baslik": "Causes of *false positives*",
+   "maddeler": [
+    {
+     "metin": "_Rhythmic_ tone presentation",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Confusing_ tinnitus with the tone",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Seeing_ the tester's hand or screen",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Overeager, _guessing_ patient",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PREVENTION",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "Irregular intervals",
+      "cumle": 1,
+      "metin": "Prevents guessing"
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Pulsed tone",
+      "cumle": 2,
+      "metin": "Stands out from tinnitus"
+     },
+     {
+      "ikon": "sessizlik",
+      "baslik": "Silent check",
+      "cumle": 5,
+      "metin": "Catches responses to silence"
+     }
+    ]
+   },
+   "cumleler": [
+    "Presenting tones in a regular rhythm lets the patient predict the next tone.",
+    "So the silent intervals between tones are kept irregular, and the interval is sometimes made longer.",
+    "A patient with tinnitus, or ringing in the ear, may confuse the tone with the ringing, especially at frequencies near the tinnitus.",
+    "If the patient can see the tester's hand, the audiometer screen or a reflection in the window, they may respond to a visual cue.",
+    "Some patients press the button at the slightest doubt so as not to miss any sound.",
+    "Responses during long silent intervals reveal this tendency; in that case, the instructions are given again."
+   ]
+  },
+  {
+   "id": "negatif",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Response errors",
+   "baslik": "Causes of *false negatives*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Fatigue",
+     "cumle": 1,
+     "metin": "Attention drops in long tests"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Unclear instructions",
+     "cumle": 2,
+     "metin": "Ignores faint sounds"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tone too short",
+     "cumle": 3,
+     "metin": "Not enough to notice"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Slow response",
+     "cumle": 4,
+     "metin": "Late presses are missed"
+    }
+   ],
+   "cumleler": [
+    "False negative responses also have a few common causes.",
+    "In a long test, the patient's attention drops and they start to miss faint tones.",
+    "A patient who misunderstands the instructions may think they should press only for sounds they hear clearly.",
+    "If the tone is too short, the patient has no time to notice it; ASHA recommends one to two seconds, and the BSA one to three seconds.",
+    "A late press from an older or slow-responding patient may be confused with the next tone and not counted as a response.",
+    "Short breaks, repeating the instructions and adapting to the patient's response speed reduce these errors."
+   ]
+  },
+  {
+   "id": "kollaps",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers and placement",
+   "baslik": "The *collapsing* ear canal",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "kollaps": true,
+    "kollaps_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kollaps",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kollaps",
+     "metin": "collapsing cartilaginous part",
+     "cumle": 0
+    },
+    {
+     "parca": "kanal_agzi",
+     "metin": "canal entrance",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_False_ air-bone gap in high frequencies",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Solution: _insert_ earphones",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "The pressure of a supra-aural earphone can close the cartilaginous part of the canal; this is called a collapsing ear canal.",
+    "A collapsed canal stops sound from reaching the tympanic membrane, especially at high frequencies.",
+    "The result is an air-bone gap at high frequencies that is not really there, which may be mistaken for a conductive loss.",
+    "A slit-shaped canal entrance and older age are warning signs for this error.",
+    "If in doubt, the measurement is repeated with insert earphones; if the gap disappears, the problem was the collapse."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers and placement",
+   "baslik": "Insert *placement* errors",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "yakinlastir": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "ses_tupu",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "foam tip",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "sound tube",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Shallow insertion: _crossover_ risk",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kinked tube: _weak_ sound",
+     "cumle": 3,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Insert earphones prevent many problems, but if they are placed wrongly, they create errors of their own.",
+    "If the foam tip is not inserted deeply enough, interaural attenuation drops and the risk of crossover hearing rises.",
+    "If testing starts before the foam has fully expanded, or the tip presses against the canal wall, sound leaks and thresholds come out worse.",
+    "A bent or squeezed sound tube also reduces the sound reaching the ear.",
+    "The wrong tip size causes similar errors; the outer face of the foam tip should be flush with the canal entrance or slightly inside it."
+   ]
+  },
+  {
+   "id": "supra",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Transducers and placement",
+   "baslik": "Supra-aural *earphone* errors",
+   "maddeler": [
+    {
+     "metin": "Diaphragm _not centered_ on canal",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Red and blue sides _reversed_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Hair, glasses or _earrings_ in between",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Earphone _slipping_ during the test",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kulaklik",
+      "metin": "supra-aural earphone",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "With a supra-aural earphone, the diaphragm, the center where the sound comes out, should be directly over the ear canal entrance.",
+    "When the center slips, thresholds come out worse than they really are, especially at high frequencies.",
+    "If reversed earphones go unnoticed, the results of the two ears get swapped; a quick side check prevents this.",
+    "Hair, a glasses arm or an earring between the cushion and the ear creates a leak and can spoil the low-frequency thresholds.",
+    "If the patient touches the earphones or moves their head during the test, the placement is checked again."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Bone conduction and masking",
+   "baslik": "Pitfalls in *bone conduction*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Vibrotactile response",
+     "cumle": 1,
+     "metin": "False low-frequency threshold"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Acoustic radiation",
+     "cumle": 2,
+     "metin": "False high-frequency gap"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Occlusion effect",
+     "cumle": 3,
+     "metin": "Low-frequency boost when covered"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Slipping vibrator",
+     "cumle": 4,
+     "metin": "Threshold looks worse"
+    }
+   ],
+   "cumleler": [
+    "The pitfalls we saw in the bone-conduction lesson make up a large share of common mistakes.",
+    "The BSA notes that with mastoid placement, the vibrotactile threshold at two hundred fifty hertz can be as low as twenty five decibels.",
+    "At high frequencies, sound radiated into the air by the vibrator can create a false air-bone gap, especially at four thousand hertz.",
+    "In unmasked bone conduction, if one ear stays covered, the occlusion effect artificially improves the low-frequency thresholds.",
+    "If the headband is loose or the vibrator slips, thresholds come out worse than they really are.",
+    "Remember that in air conduction, too, vibration can be felt at very high levels at five hundred hertz and below."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Bone conduction and masking",
+   "baslik": "Forgotten masking: the *shadow*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: normal hearing",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: unmasked, shadow curve",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Left mastoid_: unmasked bone",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       55,
+       55,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 3,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    }
+   },
+   "cumleler": [
+    "In this example, the right ear is normal, while the left ear was tested without masking.",
+    "The left-ear thresholds follow the right-ear curve about forty to fifty decibels lower.",
+    "This may be a shadow curve, formed when sound given to the left ear crosses the skull and is heard by the right cochlea.",
+    "Unmasked bone conduction from the left mastoid also looks normal, but the response most likely comes from the right cochlea.",
+    "Without masking, this picture may be misread as a conductive loss; in reality, the left ear may have a much greater loss.",
+    "Conversely, giving too much noise to the opposite ear, called overmasking, artificially worsens the threshold of the test ear."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Environment, equipment, records",
+   "baslik": "Environment and *equipment* errors",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "cift_duvar",
+     "cumle": 1
+    },
+    {
+     "parca": "kapi",
+     "cumle": 2
+    },
+    {
+     "parca": "pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "cift_duvar",
+     "metin": "double wall",
+     "cumle": 1
+    },
+    {
+     "parca": "pencere",
+     "metin": "window",
+     "cumle": 3
+    },
+    {
+     "parca": "odyometre",
+     "metin": "audiometer",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Noise: _low frequencies, bone_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Daily _listening check_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Calibration _date_",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Some errors come not from the patient but from the environment and the equipment.",
+    "If ambient noise exceeds the allowed level, low-frequency thresholds and bone-conduction thresholds with open ears come out worse.",
+    "A booth door that is not fully closed, or talking in the control room, can also interfere with the test.",
+    "If the patient can see the tester through the window, there is a risk of visual cues, so the seating is arranged accordingly.",
+    "A short listening check each day before the first patient catches problems such as a faulty cable or crackling early.",
+    "On a device overdue for periodic calibration, or calibrated for the wrong transducer, even the best method gives wrong results."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Environment, equipment, records",
+   "baslik": "Recording *errors*",
+   "maddeler": [
+    {
+     "metin": "Recording the wrong ear or _frequency_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Mixing_ masked and unmasked",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Joining no-response marks with _lines_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "_No note_ of transducer or reliability",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        60,
+        65,
+        75,
+        90,
+        110,
+        110
+       ],
+       "cumle": 0,
+       "yanitsiz": [
+        4,
+        5
+       ]
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Waiting after finding a threshold raises the risk of recording it for the wrong ear or frequency, so thresholds are marked at once.",
+    "If masked and unmasked thresholds are recorded with the same symbol, the reader cannot tell whether masking was used.",
+    "Joining no-response marks to measured thresholds with lines gives the impression of a curve that does not exist.",
+    "Not writing down the earphone used, the response reliability or a suspected vibrotactile response makes later interpretation harder.",
+    "When software is used, the right or left ear selection should be checked on screen for every measurement."
+   ]
+  },
+  {
+   "id": "tutarlilik",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Environment, equipment, records",
+   "baslik": "*Check* the result",
+   "adimlar": [
+    {
+     "ikon": "grafik",
+     "baslik": "1 kHz retest",
+     "cumle": 0,
+     "metin": "Within 5 dB"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "SRT and average",
+     "cumle": 1,
+     "metin": "Agree within about 10 dB"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Bone and air",
+     "cumle": 2,
+     "metin": "Bone cannot be clearly worse"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Other tests",
+     "cumle": 3,
+     "metin": "Otoscopy, tympanometry agree"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Take notes",
+     "cumle": 4,
+     "metin": "Report inconsistencies"
+    }
+   ],
+   "cumleler": [
+    "Before finishing the test, we can check whether the result is internally consistent with a few simple questions.",
+    {
+     "yazi": "Is the one kilohertz retest within five decibels? Does the speech recognition threshold, or SRT, match the pure-tone average?"
+    },
+    "If bone conduction comes out more than ten decibels worse than air conduction, check the vibrator placement and calibration first.",
+    "The findings of otoscopy and tympanometry should agree with the type of loss on the audiogram.",
+    "An unexplained inconsistency means retesting and a note in the report; functional hearing loss comes in a later lesson."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "With an unexpected air-bone gap, rule out technical causes first: collapsing canal, earphone placement, the vibrator and acoustic radiation.",
+   "cumleler": [
+    "A tip from the clinic: when you see an unexpected air-bone gap, do not write down a middle ear problem right away.",
+    "First rule out a collapsing ear canal, earphone and vibrator placement, and acoustic radiation at high frequencies.",
+    "If the tympanogram is normal and the gap is only at high frequencies, a technical error becomes even more likely.",
+    "A gap that remains after technical causes are ruled out is a real finding and is reported as such."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "False positives look _better_, negatives _worse_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Collapse and placement: _false_ gap",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Forgotten masking: _shadow curve_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Consistency checks and _complete records_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "False positive responses make the threshold look better than it is, and false negative responses make it look worse.",
+    "A collapsing ear canal and earphone or vibrator placement errors can create a false air-bone gap.",
+    "Forgetting to mask leads to a shadow curve, while overmasking leads to artificially poor thresholds.",
+    "A one thousand hertz retest, SRT agreement and a complete record show how reliable the result is."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Presenting tones in a regular rhythm mostly leads to which error?",
+   "secenekler": [
+    "False positive response",
+    "Collapsing ear canal",
+    "Acoustic radiation",
+    "Overmasking"
+   ],
+   "dogru": 0,
+   "aciklama": "With rhythmic presentation, the patient _predicts_ the next tone and may respond when there is none.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: presenting tones in a regular rhythm mostly leads to which error?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is A: a false positive response."
+    },
+    "The patient learns the rhythm and predicts the next tone, so the silent intervals are kept irregular."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Extended *High-Frequency* Audiometry (8-16 kHz)",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at extended high-frequency audiometry, which measures frequencies above eight thousand hertz.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

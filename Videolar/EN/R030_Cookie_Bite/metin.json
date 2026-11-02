@@ -1,0 +1,124 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R030_Cookie_Bite_EN",
+ "kapak": {
+  "ust": "QUICK FACT #30",
+  "baslik": "The audiogram *cookie bite*",
+  "alt": "Loss centered in the mid frequencies",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      50,
+      50,
+      25,
+      20
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What is a cookie-bite audiogram? #shorts",
+  "aciklama": "In a cookie-bite configuration, the loss is centered in the mid frequencies, while low and high frequencies are better; the audiogram forms a U shape. It is often linked with hereditary sensorineural loss. The audiogram shown is an example.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "hearing"
+  ],
+  "etiketler": [
+   "cookie bite",
+   "cookie-bite audiogram",
+   "audiogram configuration",
+   "mid-frequency hearing loss",
+   "audiogram",
+   "audiology",
+   "hearing loss",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What is a cookie bite on an audiogram?",
+  "bilgiler": [
+   "The loss is centered in the mid frequencies; low and high are better.",
+   "It forms a U shape, as if a bite were taken from the curve.",
+   "It is often linked with hereditary sensorineural loss."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #30",
+   "metin": "What is a *cookie bite* on an audiogram?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What is a cookie bite on an audiogram?"
+   ]
+  },
+  {
+   "id": "isirik",
+   "tur": "zincir",
+   "baslik": "A bite from *the middle*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Low",
+     "cumle": 0,
+     "tr": "better"
+    },
+    {
+     "ad": "Mid",
+     "cumle": 0,
+     "gecikme": 0.9,
+     "tr": "loss"
+    },
+    {
+     "ad": "High",
+     "cumle": 0,
+     "gecikme": 1.8,
+     "tr": "better"
+    }
+   ],
+   "alt": "Mid frequencies matter for _speech_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "The loss centers on mid frequencies; low and high are better.",
+    "It forms a U shape, as if bitten from the middle.",
+    "It is often linked with hereditary sensorineural loss.",
+    "Mid frequencies matter for speech, so understanding can become harder."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D063",
+ "kaynak_baslik": "Audiogram Configurations and What They Suggest"
+}

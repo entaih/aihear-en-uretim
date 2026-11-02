@@ -1,0 +1,1839 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D288_Case_Auditory_Neuropathy_EN",
+ "kapak": {
+  "ust": "LESSON 288",
+  "baslik": "Present OAEs,<br>*absent ABR*",
+  "alt": "Case: auditory neuropathy",
+  "cizim": "oae"
+ },
+ "youtube": {
+  "baslik": "Case: Present OAEs, Absent ABR (Auditory Neuropathy) | Lesson 288 | AIHEAR Audiology Academy",
+  "aciklama": "We interpret the findings of auditory neuropathy spectrum disorder in a fictional preterm infant case: the conflict between AABR and OAE results, the risk history, 1000 Hz tympanometry and the acoustic reflex, click ABR in two polarities with the cochlear microphonic, the tube-clamped control, and follow-up with VRA and aided cortical potentials.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Joint Committee on Infant Hearing, Year 2019 Position Statement; Guidelines for Identification and Management of Infants and Young Children with Auditory Neuropathy Spectrum Disorder (Como, 2008); Hall, eHandbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "auditoryneuropathy",
+   "casestudy"
+  ],
+  "etiketler": [
+   "auditory neuropathy",
+   "ANSD",
+   "auditory neuropathy spectrum disorder",
+   "cochlear microphonic",
+   "stimulus polarity",
+   "cortical auditory evoked potentials",
+   "CAEP",
+   "preterm infant",
+   "audiology case study",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 288",
+   "baslik": "Case: present OAEs, *absent ABR*",
+   "alt": "Cochlear microphonic, risk history and cortical follow-up",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we interpret, step by step, the findings of an infant with otoacoustic emissions but no auditory brainstem response.",
+    "Together we will apply the cochlear microphonic and polarity reversal, the risk history, and follow-up with cortical potentials."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History and screening",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "Example infant born at 30 weeks",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Seven weeks in the _NICU_",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Severe jaundice: _exchange transfusion_",
+     "cumle": 2,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "NICU AABR: referred in both ears",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Family: passed OAE elsewhere",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Birth",
+      "metin": "30 weeks",
+      "cumle": 0
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "NICU",
+      "metin": "Seven weeks",
+      "cumle": 1
+     },
+     {
+      "ikon": "tarama",
+      "baslik": "Screening",
+      "metin": "AABR referred",
+      "cumle": 3
+     }
+    ],
+    "ust": "HISTORY"
+   },
+   "cumleler": [
+    "Our case is entirely fictional: a low birth weight infant born at thirty weeks of gestation.",
+    "The infant spent seven weeks in the neonatal intensive care unit and briefly needed respiratory support in the first days.",
+    "Severe jaundice developed in the intensive care unit and an exchange transfusion was needed.",
+    {
+     "yazi": "Before discharge, the infant was screened with automated auditory brainstem response, or AABR, and referred in both ears.",
+     "ses": "Before discharge, the infant was screened with automated auditory brainstem response, or A A B R, and referred in both ears."
+    },
+    "The family says the baby was later tested elsewhere with otoacoustic emissions, or OAE, and passed.",
+    "The infant is now one month of corrected age and has been brought in for a diagnostic evaluation."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "History and screening",
+   "baslik": "Ask about the *risk history*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "NICU",
+     "metin": "More than five days",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Prematurity",
+     "metin": "Low birth weight",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Hyperbilirubinemia",
+     "metin": "Exchange transfusion needed",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Hypoxia",
+     "metin": "Respiratory support",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Family history",
+     "metin": "Genes such as OTOF",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Asking about the risk history systematically is the first step in interpreting the findings; a NICU stay over five days is a key indicator.",
+     "ses": "Asking about the risk history systematically is the first step in interpreting the findings; a nick you stay over five days is a key indicator."
+    },
+    "Prematurity and low birth weight are among the known risk factors for auditory neuropathy.",
+    "Hyperbilirubinemia, or severe jaundice, needing exchange transfusion can damage especially the neural parts of the auditory pathway.",
+    "Lack of oxygen at or after birth, or hypoxia, is also asked about.",
+    {
+     "yazi": "Family history is asked too; genes such as OTOF can cause this picture even in infants with no risk factors.",
+     "ses": "Family history is asked too; genes such as O T O F can cause this picture even in infants with no risk factors."
+    }
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "History and screening",
+   "baslik": "Why did the OAE *pass*?",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "OAE: up to the cochlea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "AABR: up to the brainstem",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "OAE: _outer hair cells_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "AABR: _nerve and brainstem_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Conflict: a _neural_ problem?",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "First, let us explain the conflict between the screening results.",
+    "The OAE reflects the function of the ear canal, the middle ear and the outer hair cells in the cochlea.",
+    {
+     "yazi": "The AABR also covers the inner hair cell, the auditory nerve and the brainstem pathway.",
+     "ses": "The A A B R also covers the inner hair cell, the auditory nerve and the brainstem pathway."
+    },
+    {
+     "yazi": "If the problem lies beyond the outer hair cells, at the synapse or in the nerve, the OAE passes and the AABR refers.",
+     "ses": "If the problem lies beyond the outer hair cells, at the synapse or in the nerve, the OAE passes and the A A B R refers."
+    },
+    {
+     "yazi": "This is why NICU infants staying over five days are screened with AABR; counting an AABR refer as a pass by OAE is not recommended.",
+     "ses": "This is why nick you infants staying over five days are screened with A A B R; counting an A A B R refer as a pass by OAE is not recommended."
+    }
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic findings",
+   "baslik": "Middle ear and *reflex*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Pressure (daPa)"
+    },
+    "y": {
+     "min": 0.4,
+     "max": 1.6,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admittance (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        -300,
+        0.75
+       ],
+       [
+        -200,
+        0.82
+       ],
+       [
+        -150,
+        0.9
+       ],
+       [
+        -100,
+        1.05
+       ],
+       [
+        -60,
+        1.25
+       ],
+       [
+        -30,
+        1.38
+       ],
+       [
+        0,
+        1.4
+       ],
+       [
+        30,
+        1.32
+       ],
+       [
+        60,
+        1.15
+       ],
+       [
+        100,
+        1.0
+       ],
+       [
+        150,
+        0.95
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "right",
+      "etiket_konum": [
+       40,
+       1.45
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        -400,
+        0.68
+       ],
+       [
+        -300,
+        0.73
+       ],
+       [
+        -200,
+        0.8
+       ],
+       [
+        -150,
+        0.88
+       ],
+       [
+        -100,
+        1.02
+       ],
+       [
+        -60,
+        1.21
+       ],
+       [
+        -30,
+        1.33
+       ],
+       [
+        0,
+        1.35
+       ],
+       [
+        30,
+        1.27
+       ],
+       [
+        60,
+        1.11
+       ],
+       [
+        100,
+        0.97
+       ],
+       [
+        150,
+        0.92
+       ],
+       [
+        200,
+        0.9
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "left",
+      "etiket_konum": [
+       -330,
+       1.1
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "baseline",
+      "etiket_konum": [
+       -330,
+       0.6
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "1000 Hz: _positive peak_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Acoustic reflex: _absent_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "In the diagnostic evaluation, the middle ear is measured with a one thousand hertz probe tone.",
+    "Both ears show a clear positive peak rising above the baseline; middle ear function appears normal.",
+    "The acoustic reflex is tested with the same probe tone, but it cannot be obtained in either ear, even at the highest level.",
+    "An absent reflex despite a normal tympanogram calls for attention to hearing loss or a neural pathway problem.",
+    "A normal middle ear lets us interpret the OAE result in the next test with confidence."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic findings",
+   "baslik": "OAE: *present* in both ears",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emission: present",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Noise floor",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Outer hair cells: _working_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Neural pathway: _unknown_",
+     "cumle": 2,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Distortion product OAEs are clearly above the noise floor at most of the tested frequencies in both ears.",
+    "This finding shows that the outer hair cells in the cochlea are most likely working.",
+    "But the OAE does not assess the auditory nerve, and it does not tell us how much the infant hears.",
+    "The family heard this result earlier as good news, so the importance of the next test now needs to be explained.",
+    "A reduction of the emission with noise in the opposite ear, called contralateral suppression, is usually absent in auditory neuropathy."
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic findings",
+   "baslik": "Two polarities: a *reversing* response",
+   "cizim": "abr",
+   "ayar": {
+    "polarite": true,
+    "sikisma_cumle": 1,
+    "seyrelme_cumle": 2,
+    "cm_cumle": 3,
+    "v_cumle": 4
+   },
+   "notlar": [
+    {
+     "metin": "Click: _85 dB nHL_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Reverses: _CM_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Wave V: _absent_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "During natural sleep, a click auditory brainstem response, or ABR, is recorded at eighty five decibels nHL with insert earphones.",
+     "ses": "During natural sleep, a click auditory brainstem response, or ABR, is recorded at eighty five decibels n H L with insert earphones."
+    },
+    "The navy line shows the condensation polarity recording: there are regular oscillations in the first milliseconds.",
+    "The red line is rarefaction polarity: the same oscillations, this time in exactly the opposite direction.",
+    {
+     "yazi": "A response that follows the stimulus waveform and reverses with polarity is the hallmark of the cochlear microphonic, or CM.",
+     "ses": "A response that follows the stimulus waveform and reverses with polarity is the hallmark of the cochlear microphonic, or C M."
+    },
+    "After the oscillations die out, there is no repeatable wave in the region where wave V is expected.",
+    "Neural waves do not reverse with polarity; here, no non-reversing wave remains.",
+    {
+     "yazi": "The picture is the same in both ears: a large CM lasting a few milliseconds, and no neural ABR waves.",
+     "ses": "The picture is the same in both ears: a large C M lasting a few milliseconds, and no neural ABR waves."
+    }
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Diagnostic findings",
+   "baslik": "CM or *artifact*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": -2,
+     "max": 1,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Amplitude (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "sikisma",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        1.0,
+        0.65
+       ],
+       [
+        1.25,
+        0.0
+       ],
+       [
+        1.5,
+        -0.476
+       ],
+       [
+        1.75,
+        -0.0
+       ],
+       [
+        2.0,
+        0.348
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.5,
+        -0.255
+       ],
+       [
+        2.75,
+        -0.0
+       ],
+       [
+        3.0,
+        0.186
+       ],
+       [
+        3.25,
+        0.0
+       ],
+       [
+        3.5,
+        -0.136
+       ],
+       [
+        3.75,
+        -0.0
+       ],
+       [
+        4.0,
+        0.1
+       ],
+       [
+        4.25,
+        -0.0
+       ],
+       [
+        4.5,
+        -0.073
+       ],
+       [
+        4.75,
+        -0.0
+       ],
+       [
+        5.5,
+        0.02
+       ],
+       [
+        6.5,
+        -0.03
+       ],
+       [
+        7.5,
+        0.02
+       ],
+       [
+        8.5,
+        -0.02
+       ],
+       [
+        10,
+        0.01
+       ],
+       [
+        12,
+        0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "condensation",
+      "etiket_konum": [
+       8.5,
+       0.35
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "seyrelme",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        1.0,
+        -0.65
+       ],
+       [
+        1.25,
+        -0.0
+       ],
+       [
+        1.5,
+        0.476
+       ],
+       [
+        1.75,
+        0.0
+       ],
+       [
+        2.0,
+        -0.348
+       ],
+       [
+        2.25,
+        -0.0
+       ],
+       [
+        2.5,
+        0.255
+       ],
+       [
+        2.75,
+        0.0
+       ],
+       [
+        3.0,
+        -0.186
+       ],
+       [
+        3.25,
+        -0.0
+       ],
+       [
+        3.5,
+        0.136
+       ],
+       [
+        3.75,
+        0.0
+       ],
+       [
+        4.0,
+        -0.1
+       ],
+       [
+        4.25,
+        0.0
+       ],
+       [
+        4.5,
+        0.073
+       ],
+       [
+        4.75,
+        0.0
+       ],
+       [
+        5.5,
+        0.02
+       ],
+       [
+        6.5,
+        -0.03
+       ],
+       [
+        7.5,
+        0.02
+       ],
+       [
+        8.5,
+        -0.02
+       ],
+       [
+        10,
+        0.01
+       ],
+       [
+        12,
+        0.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "rarefaction",
+      "etiket_konum": [
+       8.5,
+       -0.35
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "kontrol",
+      "noktalar": [
+       [
+        0,
+        -1.4
+       ],
+       [
+        0.9,
+        -1.4
+       ],
+       [
+        1.0,
+        -1.4
+       ],
+       [
+        1.25,
+        -1.4
+       ],
+       [
+        1.5,
+        -1.4
+       ],
+       [
+        1.75,
+        -1.4
+       ],
+       [
+        2.0,
+        -1.4
+       ],
+       [
+        2.25,
+        -1.4
+       ],
+       [
+        2.5,
+        -1.4
+       ],
+       [
+        2.75,
+        -1.4
+       ],
+       [
+        3.0,
+        -1.4
+       ],
+       [
+        3.25,
+        -1.4
+       ],
+       [
+        3.5,
+        -1.4
+       ],
+       [
+        3.75,
+        -1.4
+       ],
+       [
+        4.0,
+        -1.4
+       ],
+       [
+        4.25,
+        -1.4
+       ],
+       [
+        4.5,
+        -1.4
+       ],
+       [
+        4.75,
+        -1.4
+       ],
+       [
+        5.5,
+        -1.38
+       ],
+       [
+        6.5,
+        -1.43
+       ],
+       [
+        7.5,
+        -1.38
+       ],
+       [
+        8.5,
+        -1.42
+       ],
+       [
+        10,
+        -1.39
+       ],
+       [
+        12,
+        -1.4
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "tube clamped: flat",
+      "etiket_konum": [
+       8.5,
+       -1.7
+      ],
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dalga_v_yeri",
+      "x": 6.5,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "no wave V",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "cm",
+      "x": [
+       1,
+       4.5
+      ],
+      "renk": "sari",
+      "etiket": "reversing response",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Delay: _tube travel time_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Tube clamped: _response gone_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Result: _true CM_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Stimulus artifact also reverses with polarity, so we must confirm that what we see really comes from the ear.",
+    "With insert earphones, sound reaches the ear with a delay of just under one millisecond; the response should start after this delay.",
+    "As a control, one more recording is made with the sound tube clamped, which keeps the sound from reaching the ear.",
+    "The dashed gray line is this control recording: the oscillations disappear completely.",
+    "A response that disappears when sound does not reach the ear is the cochlear microphonic; an electrical artifact would remain."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation and family",
+   "baslik": "*Combine* the findings",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Middle ear",
+     "metin": "Normal, no reflex",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OAE and CM",
+     "metin": "Present: outer hair cells",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "No neural waves",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Team",
+     "metin": "Physician and team review",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The middle ear is normal, but the acoustic reflex is absent.",
+    "The OAE and the cochlear microphonic are present, so the outer hair cells are working.",
+    "The click ABR shows no neural waves, even at high intensity.",
+    "This combination of findings is consistent with auditory neuropathy spectrum disorder, or ANSD.",
+    "Diagnosis and the search for a cause are carried out with the physician and the team; the audiologist reports the findings clearly.",
+    "The most important conclusion: in this infant, the ABR cannot be used to estimate hearing thresholds."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation and family",
+   "baslik": "Talking *honestly* with the family",
+   "maddeler": [
+    {
+     "metin": "Explain the result in plain words",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "State the uncertainty honestly",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Leave room for emotion",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Give a concrete follow-up plan",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Written note and a contact",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Clear",
+      "metin": "Plain sentences",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Honest",
+      "metin": "Say what is unknown",
+      "cumle": 1
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Concrete",
+      "metin": "Next step",
+      "cumle": 3
+     }
+    ],
+    "ust": "PRINCIPLE"
+   },
+   "cumleler": [
+    "In plain words, the family is told that the inner ear responds to sound, but sound is not carried in an orderly way along the nerve.",
+    "It is said honestly that, at this stage, we do not know how much the infant hears; no exact degree or promise is given.",
+    "For a family who received a pass earlier, this news is surprising; room is left for emotion, and questions are welcomed.",
+    "Then a concrete plan is discussed: physician review, repeat tests, and when behavioral tests will be done.",
+    "At the end of the meeting, a short written note with the main messages and a way to reach the clinic is given."
+   ]
+  },
+  {
+   "id": "hekim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation and family",
+   "baslik": "Physician and *team* review",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "ENT, child neurology",
+     "metin": "Look for the cause",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Imaging",
+     "metin": "Cochlear nerve, MRI",
+     "cumle": 1
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetics",
+     "metin": "Genes such as OTOF",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Neurological follow-up",
+     "metin": "Developmental monitoring",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The infant is referred, with the findings, for evaluation by ENT and child neurology.",
+    "An absent or very thin auditory nerve gives similar findings; the physician may investigate this with magnetic resonance imaging.",
+    "Genetic evaluation may reveal causes such as the otoferlin gene; this may later affect what to expect from intervention.",
+    "Developmental and neurological follow-up is also part of the plan."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical alert",
+   "metin": "In an infant with a NICU history, an OAE pass does not rule out ANSD. Always add ABR in two polarities to the battery.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: an infant holding an OAE pass result does not rule out auditory neuropathy.",
+    {
+     "yazi": "Especially with a history of NICU stay, prematurity or severe jaundice, always add ABR in two polarities to the battery.",
+     "ses": "Especially with a history of nick you stay, prematurity or severe jaundice, always add ABR in two polarities to the battery."
+    },
+    {
+     "yazi": "In a recording made in a single polarity, a large CM can be mistaken for a neural wave.",
+     "ses": "In a recording made in a single polarity, a large C M can be mistaken for a neural wave."
+    },
+    "Inspect the polarities separately and add the tube-clamped control to your recording."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up and intervention",
+   "baslik": "Follow-up *plan*",
+   "adimlar": [
+    {
+     "ikon": "noron",
+     "baslik": "Repeat ABR",
+     "metin": "Third month, corrected age",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "VRA",
+     "metin": "When developmentally ready",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cortical response",
+     "metin": "Unaided and aided",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Device trial",
+     "metin": "Closely monitored",
+     "cumle": 4
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Development",
+     "metin": "Language and listening",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In some infants with jaundice, findings may improve over time, so in our case the ABR is repeated at three months corrected age.",
+    "The repeat recording does not change the picture; this is why no lasting conclusion should rest on a single recording.",
+    {
+     "yazi": "When the infant is developmentally ready, behavioral thresholds are obtained with visual reinforcement audiometry, or VRA.",
+     "ses": "When the infant is developmentally ready, behavioral thresholds are obtained with visual reinforcement audiometry, or V R A."
+    },
+    {
+     "yazi": "Cortical auditory evoked potentials, or CAEP, show whether sound reaches the cortex.",
+     "ses": "Cortical auditory evoked potentials, or C A E P, show whether sound reaches the cortex."
+    },
+    "Intervention rests on behavioral thresholds and functional observations, not on the ABR; a device is fitted as a closely monitored trial.",
+    "Language and listening development are tracked at every visit with parent questionnaires and observation."
+   ]
+  },
+  {
+   "id": "vra",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up and intervention",
+   "baslik": "VRA: *behavioral* thresholds",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: insert, air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: insert, air conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       50,
+       50,
+       55,
+       null
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       50,
+       55,
+       55,
+       null
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "At eight months corrected age, the infant is tested with VRA using insert earphones.",
+     "ses": "At eight months corrected age, the infant is tested with V R A using insert earphones."
+    },
+    "In the right ear, minimum response levels are between forty five and fifty five decibels HL.",
+    "In the left ear, the infant responds between fifty and fifty five decibels HL.",
+    "This result shows that, despite a completely absent ABR, the infant's thresholds are at the level of a moderate loss.",
+    "Because thresholds can fluctuate over time in auditory neuropathy, these values are confirmed again in later sessions.",
+    "The family is told that the infant's real difficulty may lie more in discriminating speech than in thresholds."
+   ]
+  },
+  {
+   "id": "caep",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up and intervention",
+   "baslik": "Cortical response: does sound reach the *cortex*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -50,
+     "max": 400,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -2,
+     "max": 6,
+     "adim": 2,
+     "ad": "Amplitude (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        80,
+        0.3
+       ],
+       [
+        160,
+        -0.2
+       ],
+       [
+        240,
+        0.35
+       ],
+       [
+        320,
+        -0.15
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "unaided: no response",
+      "etiket_konum": [
+       300,
+       -1.2
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        60,
+        0.4
+       ],
+       [
+        120,
+        1.8
+       ],
+       [
+        180,
+        3.6
+       ],
+       [
+        230,
+        4.2
+       ],
+       [
+        280,
+        2.6
+       ],
+       [
+        340,
+        0.4
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "aided: response present",
+      "etiket_konum": [
+       300,
+       3.6
+      ],
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "uyaran",
+      "x": 0,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "stimulus",
+      "cumle": 0
+     },
+     {
+      "ad": "p1",
+      "x": 230,
+      "y": 4.2,
+      "etiket": "P1",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Unaided: _no response_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Aided: _P1 present_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Absence is _not proof_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "After the device trial begins, an aided cortical test is done; the infant is awake and calm.",
+    "The dashed gray line is the unaided recording to a speech sound at moderate intensity: there is no clear response.",
+    "The blue line is the aided recording to the same sound: there is a clear positive wave.",
+    "At this age the P1 wave is later than in adults; here it appears at about two hundred thirty milliseconds.",
+    "The presence of a response is strong evidence that this speech sound reaches the cortex with the device.",
+    "An absent response alone does not prove that sound is not heard; the result is read together with observations and questionnaires."
+   ]
+  },
+  {
+   "id": "mudahale",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up and intervention",
+   "baslik": "Intervention and *expectations*",
+   "maddeler": [
+    {
+     "metin": "Device: a monitored trial",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "_Remote microphone_ support in noise",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Communication options presented neutrally",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Implant team if progress lags",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Trial",
+      "metin": "With behavioral thresholds",
+      "cumle": 0
+     },
+     {
+      "ikon": "mikrofon",
+      "baslik": "Support",
+      "metin": "Remote microphone",
+      "cumle": 1
+     },
+     {
+      "ikon": "koklear_implant",
+      "baslik": "If needed",
+      "metin": "Implant team",
+      "cumle": 3
+     }
+    ],
+    "ust": "PLAN"
+   },
+   "cumleler": [
+    "In the device trial, the goal is not threshold gain so much as more functional responses to sounds and speech.",
+    "Because understanding in noise can be very poor in auditory neuropathy, remote microphone systems are a common later support.",
+    "Language and communication options are presented to the family neutrally; the decision belongs to the family.",
+    "If progress is not adequate, a cochlear implant evaluation may be considered; the team decides on an individual basis.",
+    {
+     "yazi": "In Türkiye, reimbursement rules (SUT) in auditory neuropathy require documented lack of benefit from at least six months of therapy.",
+     "ses": "In Türkiye, reimbursement rules, or S U T, in auditory neuropathy require documented lack of benefit from at least six months of therapy."
+    }
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up and intervention",
+   "baslik": "Example *report* language",
+   "maddeler": [
+    {
+     "metin": "DPOAE: present in both ears",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Click ABR: CM present, no waves",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tube control: CM confirmed",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Reflex: absent at 1000 Hz",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Plan: physician, VRA, CAEP",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0,
+      "max": 12,
+      "ad": "Time (ms)",
+      "isaretler": [
+       0,
+       2,
+       4,
+       6,
+       8,
+       10,
+       12
+      ]
+     },
+     "y": {
+      "min": -2,
+      "max": 1,
+      "adim": 0.5,
+      "ond": 1,
+      "ad": "Amplitude (µV)"
+     },
+     "seriler": [
+      {
+       "ad": "sikisma",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         0.9,
+         0.0
+        ],
+        [
+         1.0,
+         0.65
+        ],
+        [
+         1.25,
+         0.0
+        ],
+        [
+         1.5,
+         -0.476
+        ],
+        [
+         1.75,
+         -0.0
+        ],
+        [
+         2.0,
+         0.348
+        ],
+        [
+         2.25,
+         0.0
+        ],
+        [
+         2.5,
+         -0.255
+        ],
+        [
+         2.75,
+         -0.0
+        ],
+        [
+         3.0,
+         0.186
+        ],
+        [
+         3.25,
+         0.0
+        ],
+        [
+         3.5,
+         -0.136
+        ],
+        [
+         3.75,
+         -0.0
+        ],
+        [
+         4.0,
+         0.1
+        ],
+        [
+         4.25,
+         -0.0
+        ],
+        [
+         4.5,
+         -0.073
+        ],
+        [
+         4.75,
+         -0.0
+        ],
+        [
+         5.5,
+         0.02
+        ],
+        [
+         6.5,
+         -0.03
+        ],
+        [
+         7.5,
+         0.02
+        ],
+        [
+         8.5,
+         -0.02
+        ],
+        [
+         10,
+         0.01
+        ],
+        [
+         12,
+         0.0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kalin": true,
+       "etiket": "condensation",
+       "etiket_konum": [
+        8.5,
+        0.35
+       ],
+       "cumle": 1
+      },
+      {
+       "ad": "seyrelme",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         0.9,
+         0.0
+        ],
+        [
+         1.0,
+         -0.65
+        ],
+        [
+         1.25,
+         -0.0
+        ],
+        [
+         1.5,
+         0.476
+        ],
+        [
+         1.75,
+         0.0
+        ],
+        [
+         2.0,
+         -0.348
+        ],
+        [
+         2.25,
+         -0.0
+        ],
+        [
+         2.5,
+         0.255
+        ],
+        [
+         2.75,
+         0.0
+        ],
+        [
+         3.0,
+         -0.186
+        ],
+        [
+         3.25,
+         -0.0
+        ],
+        [
+         3.5,
+         0.136
+        ],
+        [
+         3.75,
+         0.0
+        ],
+        [
+         4.0,
+         -0.1
+        ],
+        [
+         4.25,
+         0.0
+        ],
+        [
+         4.5,
+         0.073
+        ],
+        [
+         4.75,
+         0.0
+        ],
+        [
+         5.5,
+         0.02
+        ],
+        [
+         6.5,
+         -0.03
+        ],
+        [
+         7.5,
+         0.02
+        ],
+        [
+         8.5,
+         -0.02
+        ],
+        [
+         10,
+         0.01
+        ],
+        [
+         12,
+         0.0
+        ]
+       ],
+       "renk": "kirmizi",
+       "yumusak": true,
+       "etiket": "rarefaction",
+       "etiket_konum": [
+        8.5,
+        -0.35
+       ],
+       "cumle": 1
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "dalga_v_yeri",
+       "x": 6.5,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "no wave V",
+       "cumle": 1
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "cm",
+       "x": [
+        1,
+        4.5
+       ],
+       "renk": "sari",
+       "etiket": "reversing response",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Example report language: DPOAEs were present above the noise floor at most tested frequencies in both ears.",
+    {
+     "yazi": "Click ABR was recorded at eighty five decibels nHL in two polarities; a reversing cochlear microphonic is present, with no neural waves.",
+     "ses": "Click ABR was recorded at eighty five decibels n H L in two polarities; a reversing cochlear microphonic is present, with no neural waves."
+    },
+    "In the control recording with the sound tube clamped, the response disappeared.",
+    "One thousand hertz tympanometry shows a positive peak in both ears; acoustic reflexes were absent.",
+    {
+     "yazi": "Findings are consistent with ANSD; physician review and follow-up with repeat ABR, VRA and cortical testing are recommended.",
+     "ses": "Findings are consistent with ANSD; physician review and follow-up with repeat ABR, V R A and cortical testing are recommended."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "OAE and CM present, no ABR: ANSD",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Two polarities and tube control needed",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ask about risk history systematically",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Decide with behavioral thresholds and CAEP",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Absent ABR with present OAEs and cochlear microphonic is consistent with auditory neuropathy spectrum disorder.",
+    "The cochlear microphonic is recognized by reversing with polarity; the tube control separates it from stimulus artifact.",
+    {
+     "yazi": "NICU stay, prematurity, severe jaundice, hypoxia and family history are asked about systematically.",
+     "ses": "nick you stay, prematurity, severe jaundice, hypoxia and family history are asked about systematically."
+    },
+    "Because the ABR does not give thresholds, intervention rests on behavioral thresholds, cortical responses and functional observations."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which response reverses with polarity and disappears when the tube is clamped?",
+   "secenekler": [
+    "Wave V",
+    "Cochlear microphonic",
+    "Stimulus artifact",
+    "Muscle artifact"
+   ],
+   "dogru": 1,
+   "aciklama": "Disappearing with the tube clamped shows the response comes _from the ear_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which response reverses when polarity changes and disappears when the sound tube is clamped?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the cochlear microphonic.",
+    "Stimulus artifact also reverses, but it does not disappear when sound fails to reach the ear; neural wave V does not reverse with polarity."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: Speech Delay and *Flat Tympanograms* in a Toddler",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case, we will use play audiometry to evaluate a toddler with delayed speech and flat tympanograms.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

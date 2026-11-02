@@ -1,0 +1,236 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D004_Types_Of_Hearing_Loss_EN",
+  "kapak": {
+    "ust": "LESSON 4",
+    "baslik": "Types of<br>*hearing loss*",
+    "alt": "Conductive, sensorineural and mixed",
+    "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [
+      {"kulak": "sag", "tip": "hava", "degerler": [45, 40, 40, 35, 35, 40]},
+      {"kulak": "sag", "tip": "kemik", "degerler": [10, 10, 5, 10, 10]}]}
+  },
+  "youtube": {
+    "baslik": "Conductive, Sensorineural and Mixed Hearing Loss | Lesson 04 | AIHEAR Audiology Academy",
+    "aciklama": "We classify hearing loss by its site. We learn how air and bone conduction thresholds relate, what the air-bone gap is, and how to tell conductive, sensorineural and mixed loss apart on sample audiograms.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "hearingloss", "audiogram"],
+    "etiketler": ["conductive hearing loss", "sensorineural hearing loss", "mixed hearing loss", "air-bone gap", "types of hearing loss", "bone conduction", "air conduction", "audiogram", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 4", "baslik": "Conductive, Sensorineural and *Mixed* Hearing Loss",
+     "alt": "Site of loss, air conduction, bone conduction and the gap",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In earlier lessons, we learned to read an audiogram and followed the journey of sound through the ear.",
+       "In this lesson, we classify hearing loss by its site and learn to tell conductive, sensorineural and mixed loss apart on the audiogram."]},
+
+    {"id": "yer", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Classification by site", "baslik": "*Where* is the loss?",
+     "cizim": "kulak_kesit",
+     "vurgula": [
+       {"parca": "dis_kulak", "cumle": 1},
+       {"parca": "orta_kulak", "cumle": 1},
+       {"parca": "ic_kulak", "cumle": 2},
+       {"parca": "isitme_siniri", "cumle": 2}],
+     "notlar": [
+       {"metin": "Outer and middle ear: conductive", "cumle": 1, "ikon": "kulak_tikali"},
+       {"metin": "Inner ear and nerve: sensorineural", "cumle": 2, "ikon": "noron"},
+       {"metin": "Both together: mixed", "cumle": 4, "ikon": "kulak"}],
+     "cumleler": [
+       "The most basic way to classify hearing loss is to ask where along the auditory pathway the problem lies.",
+       "If the problem is in the outer or middle ear, sound is not conducted well to the inner ear; this is conductive hearing loss.",
+       "If the problem is in the inner ear, that is, the cochlea, or in the auditory nerve, it is called sensorineural hearing loss.",
+       "The term sensorineural has two parts: sensory, meaning cochlear, and neural, meaning related to the nerve.",
+       "If there is a problem in both parts, the loss is mixed.",
+       "This classification tells us not how much loss there is, but where it is.",
+       "So the three types of hearing loss by site are conductive, sensorineural and mixed hearing loss."]},
+
+    {"id": "iki_yol", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Classification by site",
+     "baslik": "The key: *two test routes*",
+     "maddeler": [
+       {"metin": "Air conduction: _the whole system_", "cumle": 1, "ikon": "kulaklik"},
+       {"metin": "Bone conduction: _cochlea and beyond_", "cumle": 2, "ikon": "kemik_vibratoru"},
+       {"metin": "The _air-bone gap_", "cumle": 4, "ikon": "odyogram"}],
+     "yan": {"tur": "kart", "ust": "THE GAP", "metin": "Air conduction threshold minus *bone conduction* threshold", "cumle": 3},
+     "cumleler": [
+       "The key to finding the type is to compare the two test routes on the audiogram.",
+       "The air conduction threshold tests the outer, middle and inner ear all together.",
+       "The bone conduction threshold largely bypasses the conductive system and shows the sensitivity of the cochlea.",
+       "When we subtract the bone conduction threshold from the air conduction threshold at the same frequency, we get the air-bone gap.",
+       "In clinical reports, this concept is simply called the air-bone gap.",
+       "A gap greater than ten decibels, that is, fifteen decibels or more, is usually considered significant."]},
+
+    {"id": "kurallar", "tur": "ikonlar", "bolum_no": "PART 1", "bolum": "Classification by site",
+     "baslik": "The *rule* for finding the type",
+     "ogeler": [
+       {"ikon": "dogru", "baslik": "Normal", "metin": "Bone normal, no gap", "cumle": 0},
+       {"ikon": "kulak_tikali", "baslik": "Conductive", "metin": "Bone normal, gap present", "cumle": 1},
+       {"ikon": "noron", "baslik": "Sensorineural", "metin": "Bone reduced, no gap", "cumle": 2},
+       {"ikon": "kulak", "baslik": "Mixed", "metin": "Bone reduced, gap present", "cumle": 3}],
+     "cumleler": [
+       "If air and bone conduction are within normal limits and there is no gap, hearing is normal.",
+       "If bone conduction is normal, air conduction is reduced and the gap is significant, the loss is conductive.",
+       "If air and bone conduction are reduced together and there is no gap, the loss is sensorineural.",
+       "If bone conduction is reduced and a significant gap is added on top, the loss is mixed.",
+       "These four lines sum up the basic logic of finding the type."]},
+
+    {"id": "iletim_odyo", "tur": "odyogram", "bolum_no": "PART 2", "bolum": "Conductive",
+     "baslik": "Conductive: *sample audiogram*",
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Air conduction_: right ear", "cumle": 0},
+       {"isaret": "&lt;", "renk": "sag", "metin": "_Bone conduction_: right ear", "cumle": 1}],
+     "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [45, 40, 40, 35, 35, 40], "cumle": 0}, {"kulak": "sag", "tip": "kemik", "degerler": [10, 10, 5, 10, 10], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}, "aralik": {"konum": [1, 10, 40], "etiket": "30 dB", "cumle": 2}},
+     "cumleler": [
+       "In this sample audiogram, the air conduction thresholds of the right ear are between thirty five and forty five decibels.",
+       "The bone conduction thresholds are between five and ten decibels, which is within normal limits.",
+       "At five hundred hertz, the air-bone gap is thirty decibels, and at the other frequencies it is twenty five to thirty five decibels.",
+       "This is a conductive hearing loss: the cochlea works well, but sound cannot be fully conducted to it.",
+       "In conductive losses, the curve is often flat or slightly worse in the low frequencies."]},
+
+    {"id": "iletim_ozellik", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Conductive",
+     "baslik": "*Features* of conductive loss",
+     "maddeler": [
+       {"metin": "Bone conduction _normal_", "cumle": 0, "ikon": "kemik_vibratoru"},
+       {"metin": "Usually at most about _60 dB_", "cumle": 1, "ikon": "grafik"},
+       {"metin": "_Good understanding_ when sound is louder", "cumle": 3, "ikon": "konusma"},
+       {"metin": "Examples: earwax, _middle ear fluid_", "cumle": 4, "ikon": "kulak_tikali"}],
+     "cumleler": [
+       "In conductive loss, bone conduction is within normal limits.",
+       "The loss usually does not exceed about sixty decibels, because louder sounds reach the cochlea through the skull anyway.",
+       "So a profound loss is not expected to be explained by a conductive component alone.",
+       "When sound is made loud enough, speech understanding is usually good.",
+       "Example causes include earwax blocking the canal, middle ear fluid, a perforated tympanic membrane, and otosclerosis.",
+       "Some of these losses can be corrected medically or surgically; this assessment belongs to the ENT physician."],
+     "yan": {"tur": "cizim", "cizim": "kulak_kesit", "cumle": 0, "vurgula": [{"parca": "dis_kulak", "cumle": 4}, {"parca": "orta_kulak", "cumle": 4}], "etiketler": [{"parca": "dis_kulak_yolu", "metin": "Ear canal", "cumle": 4}, {"parca": "orta_kulak", "metin": "Middle ear", "cumle": 4}]}},
+
+    {"id": "snik_odyo", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Sensorineural",
+     "baslik": "Sensorineural: *sample audiogram*",
+     "lejant": [
+       {"isaret": "X", "renk": "sol", "metin": "_Air conduction_: left ear", "cumle": 0},
+       {"isaret": "&gt;", "renk": "sol", "metin": "_Bone conduction_: left ear", "cumle": 1}],
+     "grafik": {"seriler": [{"kulak": "sol", "tip": "hava", "degerler": [25, 30, 40, 55, 65, 70], "cumle": 0}, {"kulak": "sol", "tip": "kemik", "degerler": [20, 30, 35, 50, 60], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "In this example, the air conduction thresholds of the left ear get steadily worse toward the high frequencies.",
+       "The bone conduction thresholds closely follow air conduction.",
+       "At every frequency, the difference between the two routes is at most five decibels, so there is no significant air-bone gap.",
+       "The conductive system carries sound well, but the cochlea or the nerve picks it up poorly.",
+       "This is an example of a sloping sensorineural hearing loss, a common pattern in adults."]},
+
+    {"id": "duyusal_noral", "tur": "karsilastir", "bolum_no": "PART 3", "bolum": "Sensorineural",
+     "baslik": "Sensory or *neural*?",
+     "sol": {"ust": "Sensory (cochlear)", "maddeler": [{"metin": "Problem: hair cells", "cumle": 1}, {"metin": "OAEs usually reduced or absent", "cumle": 2}, {"metin": "Examples: noise, aging", "cumle": 3}]},
+     "sag": {"ust": "Neural (retrocochlear)", "maddeler": [{"metin": "Problem: nerve or brainstem", "cumle": 4}, {"metin": "ABR may be abnormal", "cumle": 5}, {"metin": "Example: vestibular schwannoma", "cumle": 6}]},
+     "cumleler": [
+       "Sensorineural loss can be divided into two groups.",
+       "In sensory, or cochlear, loss, the problem is usually in the hair cells.",
+       "In this case, otoacoustic emissions, or OAEs, which depend on the outer hair cells, are usually reduced or absent.",
+       "Noise-induced and age-related hearing loss are examples of cochlear loss.",
+       "In neural, or retrocochlear, loss, the problem is in the auditory nerve or the brainstem.",
+       "In this case, the auditory brainstem response, or ABR, may be abnormal.",
+       "Vestibular schwannoma, a benign tumor that grows on the vestibulocochlear nerve, is an example of this group.",
+       "The audiogram alone cannot separate these two; tests such as OAE and ABR are needed."]},
+
+    {"id": "snik_ozellik", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "Sensorineural",
+     "baslik": "*Features* of sensorineural loss",
+     "maddeler": [
+       {"metin": "Air and bone _both_ reduced", "cumle": 0, "ikon": "kemik_vibratoru"},
+       {"metin": "_Any degree_, from mild to total", "cumle": 1, "ikon": "grafik"},
+       {"metin": "Problem: _clarity_ and hearing in noise", "cumle": 2, "ikon": "kalabalik"},
+       {"metin": "Usually _permanent_", "cumle": 4, "ikon": "takvim"}],
+     "cumleler": [
+       "In sensorineural loss, air and bone conduction thresholds drop together.",
+       "It can occur at any degree, from mild to total loss.",
+       "These people often say they can hear sound but struggle to understand it, especially in noisy places.",
+       "This is because a damaged cochlea not only weakens sound but also blurs frequency resolution.",
+       "Most sensorineural losses are permanent; for these people, hearing aids and implants are key rehabilitation options.",
+       "A sudden sensorineural loss, however, is an emergency, and the person is referred to a physician right away."],
+     "yan": {"tur": "cizim", "cizim": "kulak_kesit", "cumle": 0, "vurgula": [{"parca": "koklea", "cumle": 0}, {"parca": "isitme_siniri", "cumle": 0}], "etiketler": [{"parca": "koklea", "metin": "Cochlea", "cumle": 0}, {"parca": "isitme_siniri", "metin": "Auditory nerve", "cumle": 0}]}},
+
+    {"id": "mikst_odyo", "tur": "odyogram", "bolum_no": "PART 4", "bolum": "Mixed loss", "baslik": "Mixed: *sample audiogram*",
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Air conduction_: right ear", "cumle": 1},
+       {"isaret": "&lt;", "renk": "sag", "metin": "_Bone conduction_: right ear", "cumle": 2}],
+     "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [55, 55, 60, 65, 70, 75], "cumle": 1}, {"kulak": "sag", "tip": "kemik", "degerler": [30, 30, 35, 40, 45], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}, "aralik": {"konum": [2, 35, 60], "etiket": "25 dB", "cumle": 3}},
+     "cumleler": [
+       "Now let us look at a mixed example from a right ear.",
+       "The air conduction thresholds are between fifty five and seventy five decibels.",
+       "The bone conduction thresholds are between thirty and forty five decibels, so bone conduction is not normal either.",
+       "On top of that, there is a gap of about twenty five decibels between the two routes at each frequency.",
+       "The drop in bone conduction shows the sensorineural component, and the gap shows the conductive component.",
+       "In this example, part of the loss comes from the inner ear and part from the conductive system."]},
+
+    {"id": "mikst_okuma", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Mixed loss", "baslik": "*Reading* a mixed loss",
+     "maddeler": [
+       {"metin": "Sensorineural component: _bone conduction_", "cumle": 0, "ikon": "kemik_vibratoru"},
+       {"metin": "Conductive component: _size of the gap_", "cumle": 1, "ikon": "odyogram"},
+       {"metin": "Example: _long-standing_ middle ear disease", "cumle": 3, "ikon": "takvim"}],
+     "cumleler": [
+       "When reading a mixed loss, we describe the two components separately; bone conduction shows the sensorineural level.",
+       "The size of the conductive component is shown by the air-bone gap.",
+       "A report might say, for example: moderately severe mixed hearing loss in the right ear.",
+       "Long-standing middle ear disease and advanced otosclerosis are examples of conditions that can cause a mixed loss.",
+       "Even if the conductive component is removed, the sensorineural component shown by bone conduction usually remains."],
+     "yan": {"tur": "ikonlar", "ust": "TWO COMPONENTS", "cumle": 0, "ogeler": [{"ikon": "noron", "baslik": "Sensorineural", "metin": "Bone conduction level", "cumle": 0}, {"ikon": "kulak_tikali", "baslik": "Conductive", "metin": "Air-bone gap", "cumle": 1}]}},
+
+    {"id": "tuzaklar", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Correct interpretation", "baslik": "Misleading *situations*",
+     "maddeler": [
+       {"metin": "_Unmasked_ bone conduction", "cumle": 1, "ikon": "kemik_vibratoru"},
+       {"metin": "Collapsing _ear canal_", "cumle": 2, "ikon": "kulaklik"},
+       {"metin": "Bone vibrator _output limits_", "cumle": 3, "ikon": "uyari"},
+       {"metin": "_Carhart notch_ in otosclerosis", "cumle": 5, "ikon": "odyogram"}],
+     "cumleler": [
+       "Some situations can mislead us when we determine the type.",
+       "Bone-conducted sound reaches both cochleae; without masking, the response may come from the better ear.",
+       "With supra-aural earphones, the ear canal collapses in some people, creating a false air-bone gap in the high frequencies.",
+       "The output of the bone vibrator is limited, so in severe losses there may be no bone conduction response.",
+       "In severe losses, feeling low-frequency vibration as touch can also create a false gap.",
+       "In otosclerosis, bone conduction may dip around two thousand hertz; this is called the Carhart notch.",
+       "This notch is not a true cochlear loss, and it usually improves after surgery."]},
+
+    {"id": "dogrulama", "tur": "akis", "bolum_no": "PART 5", "bolum": "Correct interpretation", "baslik": "Tests that *confirm* the type",
+     "adimlar": [
+       {"ikon": "otoskop", "baslik": "Otoscopy", "metin": "Outer ear and eardrum", "cumle": 1},
+       {"ikon": "timpanometre_prob", "baslik": "Tympanometry", "metin": "Middle ear mobility", "cumle": 2},
+       {"ikon": "grafik", "baslik": "Acoustic reflex", "metin": "Usually absent in conductive loss", "cumle": 3},
+       {"ikon": "noron", "baslik": "OAE and ABR", "metin": "Cochlea and nerve", "cumle": 4}],
+     "cumleler": [
+       "The type seen on the audiogram is confirmed with other tests; this is called the cross-check principle.",
+       "Otoscopy shows the ear canal and the tympanic membrane directly.",
+       "Tympanometry measures middle ear mobility and gives abnormal results in most conductive losses.",
+       "Acoustic reflexes are usually absent even with a small conductive component.",
+       "Otoacoustic emissions and the ABR help separate the cochlear and neural parts."]},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical tip",
+     "metin": "With an unexpected air-bone gap, first check otoscopy, earphone placement and masking. Insert earphones prevent the collapsed canal problem.",
+     "cumleler": [
+       "A practical tip: when you see an unexpected air-bone gap, do not write conductive loss straight away.",
+       "First, use otoscopy to check the ear canal and the tympanic membrane.",
+       "Then check whether the earphones were placed correctly and whether enough masking was used for bone conduction.",
+       "If you suspect a collapsing ear canal, repeating the test with insert earphones often solves the problem.",
+       "The tympanometry result is also a good way to check whether the gap is consistent."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [
+       {"metin": "By site: *conductive*, sensorineural, mixed", "cumle": 0, "ikon": "kulak"},
+       {"metin": "Bone conduction shows the *cochlea*", "cumle": 1, "ikon": "kemik_vibratoru"},
+       {"metin": "A gap of 15 dB or *more*: significant", "cumle": 2, "ikon": "odyogram"},
+       {"metin": "Confirm the type with *other tests*", "cumle": 3, "ikon": "kontrol_listesi"}],
+     "cumleler": [
+       "By site, hearing loss is classified as conductive, sensorineural or mixed.",
+       "Bone conduction largely bypasses the conductive system and shows the state of the cochlea.",
+       "A difference of fifteen decibels or more between air and bone conduction is a significant air-bone gap.",
+       "We confirm the type on the audiogram with otoscopy, tympanometry, reflexes, OAE and ABR."]},
+
+    {"id": "test", "tur": "test", "soru": "Air conduction is 60 and bone conduction 35 dB HL. What type of loss is this?",
+     "secenekler": ["Conductive", "Sensorineural", "Mixed", "Normal hearing"], "dogru": 2,
+     "aciklama": "Bone conduction is not normal (_sensorineural component_) and there is a 25 dB gap (conductive component): mixed.",
+     "cumleler": [
+       {"yazi": "Test yourself: If air conduction is sixty and bone conduction is thirty five dB HL, what type of loss is it?", "sonra_bekle": 5},
+       "The correct answer is C, mixed. Bone conduction is not normal, and a twenty five decibel air-bone gap is added on top."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "Degrees of Hearing Loss: How *Severity* Is Classified", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will learn how we decide how large a loss is, that is, the degrees of hearing loss.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

@@ -1,0 +1,87 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R205_Four_and_a_Half_Percent_EN",
+ "kapak": {
+  "ust": "QUICK FACT #205",
+  "baslik": "Only *4.5 percent*",
+  "alt": "Positive predictive value and prevalence",
+  "cizim": "oae",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Of every hundred babies who fail screening, how many have hearing loss? #shorts",
+  "aciklama": "In a fictional example, 20 of 10,000 babies have permanent hearing loss; the screen has 95 percent sensitivity and about 96 percent specificity. Yet only about 4.5 percent of the babies who fail truly have hearing loss, because permanent hearing loss is rare in newborns. So a fail result is not a diagnosis but a need for further testing.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "newborn",
+   "screening"
+  ],
+  "etiketler": [
+   "sensitivity",
+   "specificity",
+   "positive predictive value",
+   "prevalence",
+   "newborn hearing screening",
+   "statistics",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Of every hundred babies who fail screening, how many have hearing loss?",
+  "bilgiler": [
+   "In a fictional example, 20 of 10,000 babies have permanent hearing loss.",
+   "Even with a good test, only about 4.5 percent of fails are true losses.",
+   "A fail result is not a diagnosis; it means more testing."
+  ],
+  "hashtag": [
+   "audiology",
+   "newborn",
+   "screening"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #205",
+   "metin": "How many fails are *true losses?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Of every hundred babies who fail screening, how many have hearing loss?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Here, the *positive predictive* value",
+   "sayi": "4.5",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "In a fictional example, twenty of ten thousand babies have permanent loss.",
+    "The screen catches nineteen of them; sensitivity is ninety-five percent.",
+    "But four hundred healthy babies also fail the screen.",
+    "Only about four and a half percent of fails have true loss.",
+    "So a fail is not a diagnosis; it means further testing."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D120",
+ "kaynak_baslik": "Sensitivity, Specificity and Predictive Values"
+}

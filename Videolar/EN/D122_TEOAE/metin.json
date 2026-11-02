@@ -1,0 +1,2269 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D122_TEOAE_EN",
+ "kapak": {
+  "ust": "LESSON 122",
+  "baslik": "*TEOAE*<br>measurement",
+  "alt": "Clicks, the nonlinear protocol and criteria",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "TEOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "Transient-Evoked Otoacoustic Emissions (TEOAE) | Lesson 122 | AIHEAR Audiology Academy",
+  "aciklama": "TEOAE is the broadband response of the cochlea to a click stimulus. In this lesson we look at probe fit, the nonlinear click protocol, reproducibility with the A and B buffers, signal-to-noise ratio in frequency bands, sample pass rules, and the relationship between TEOAE and hearing loss.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Kemp DT (1978), Stimulated acoustic emissions from within the human auditory system, Journal of the Acoustical Society of America; Hall JW, Handbook of Otoacoustic Emissions; Dhar S, Hall JW, Otoacoustic Emissions: Principles, Procedures, and Protocols; Robinette MS, Glattke TJ, Otoacoustic Emissions: Clinical Applications; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "OAE",
+   "TEOAE"
+  ],
+  "etiketler": [
+   "TEOAE",
+   "otoacoustic emissions",
+   "transient-evoked otoacoustic emissions",
+   "nonlinear protocol",
+   "reproducibility",
+   "signal-to-noise ratio",
+   "newborn hearing screening",
+   "OAE",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 122",
+   "baslik": "*Transient-Evoked* Otoacoustic Emissions (TEOAE)",
+   "alt": "Clicks, the nonlinear protocol and pass criteria",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we will learn about the measurement of transient-evoked otoacoustic emissions in detail.",
+    "We will talk about the click stimulus, the nonlinear protocol, and the reproducibility and signal-to-noise ratio criteria."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Basics",
+   "baslik": "What is *TEOAE?*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "vurgula": [
+    {
+     "parca": "uyaran",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "Click stimulus",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "Cochlear response",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Stimulus: a broadband click",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Window: about 20 ms",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "High frequencies early, low late",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "A transient-evoked otoacoustic emission, or TEOAE, is the cochlear response to a brief stimulus.",
+    "The stimulus is usually a click; because a click is very short, it stimulates a wide frequency band at once.",
+    "So many regions of the cochlea respond together, and the response is recorded as a mix of different frequencies.",
+    "The response begins a few milliseconds after the stimulus and is recorded within a window of about twenty milliseconds.",
+    "High frequency components come from the base of the cochlea, so they arrive earlier; low frequency components arrive later.",
+    "Recall from the previous lesson: the response comes from the outer hair cells, and it is recorded after passing through the middle ear."
+   ]
+  },
+  {
+   "id": "prob",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Basics",
+   "baslik": "The probe and the *ear canal*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "oae",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Loudspeaker: click",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Microphone: response",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Airtight fit",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Clean, brief stimulus",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Click: about 80 dB peSPL",
+     "cumle": 5,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "The probe used in otoacoustic emission, or OAE, measurement is a small tip placed in the ear canal.",
+    "It contains a miniature loudspeaker that delivers the stimulus and a sensitive microphone that records the response.",
+    "The probe tip must seal the ear canal well; ambient noise should not get in, and low frequencies should not leak out.",
+    "At the start of the measurement, the device measures the ear canal's reaction to a brief stimulus and assesses the probe fit.",
+    "The stimulus waveform in the ear canal should be clean and brief; prolonged ringing suggests that the probe is not seated well.",
+    "The click level is usually set at about eighty decibels peak equivalent sound pressure level."
+   ]
+  },
+  {
+   "id": "nonlineer",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Recording",
+   "baslik": "The *nonlinear* protocol",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "adim": 1,
+     "yazilar": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+     },
+     "ad": "Click order"
+    },
+    "y": {
+     "min": -3.5,
+     "max": 1.5,
+     "adim": 1,
+     "ad": "Relative amplitude"
+    },
+    "seriler": [
+     {
+      "ad": "ayni_yon",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        1
+       ],
+       [
+        2,
+        1
+       ],
+       [
+        3,
+        1
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "3 clicks, same polarity",
+      "cumle": 1
+     },
+     {
+      "ad": "ters_yon",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        4,
+        -3
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "inverted, 3 times stronger",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "3 same + 1 inverted click",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Linear echo cancels out",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Emission is partly preserved",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "The basic problem in TEOAE recording is that the stimulus echo in the ear canal is very large, while the emission is very small.",
+    "In the nonlinear protocol, clicks are presented in groups of four: three clicks have the same polarity.",
+    "The fourth click has the opposite polarity and is three times stronger than the others.",
+    "When the four responses are added, the ear canal and probe echo, which follows the stimulus linearly, largely cancels out.",
+    "The cochlear emission, however, does not grow linearly; as the stimulus gets stronger, the response grows less and nears saturation.",
+    "So part of the emission is preserved in the sum and can be separated from the stimulus artifact.",
+    "A linear protocol gives a larger response but makes the artifact hard to remove; this is why the nonlinear protocol is common in the clinic."
+   ]
+  },
+  {
+   "id": "tampon",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Recording",
+   "baslik": "Two *buffers*: A and B",
+   "maddeler": [
+    {
+     "metin": "_Averaging_ many responses",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Two buffers: _A and B_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Emission is the _same_ in both",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "The difference: a _noise_ estimate",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "oae",
+    "ayar": {
+     "tur": "TEOAE"
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "yanit",
+      "cumle": 3
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Because the emission is so small, a single response is lost in the noise; so many responses are averaged.",
+    "The device distributes the responses in turn into two separate memories, the A and B buffers.",
+    "This gives two independent averages, recorded from the same ear over the same period.",
+    "A true emission looks the same in both averages, while random noise differs between them.",
+    "The difference between the two averages is used as an estimate of the noise, and their sum as an estimate of the response.",
+    "Very noisy sweeps are excluded from the average by artifact rejection."
+   ]
+  },
+  {
+   "id": "tekrar",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Criteria",
+   "baslik": "*Reproducibility*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 20,
+     "adim": 5,
+     "ad": "Time (ms)"
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.6,
+     "yazisiz": true,
+     "ad": "Pressure (relative)"
+    },
+    "seriler": [
+     {
+      "ad": "tampon_a",
+      "noktalar": [
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        0.371
+       ],
+       [
+        2.7,
+        0.54
+       ],
+       [
+        2.8,
+        0.407
+       ],
+       [
+        2.9,
+        0.041
+       ],
+       [
+        3.0,
+        -0.363
+       ],
+       [
+        3.1,
+        -0.593
+       ],
+       [
+        3.2,
+        -0.529
+       ],
+       [
+        3.3,
+        -0.2
+       ],
+       [
+        3.4,
+        0.239
+       ],
+       [
+        3.5,
+        0.582
+       ],
+       [
+        3.6,
+        0.67
+       ],
+       [
+        3.7,
+        0.463
+       ],
+       [
+        3.8,
+        0.048
+       ],
+       [
+        3.9,
+        -0.401
+       ],
+       [
+        4.0,
+        -0.698
+       ],
+       [
+        4.1,
+        -0.723
+       ],
+       [
+        4.2,
+        -0.466
+       ],
+       [
+        4.3,
+        -0.023
+       ],
+       [
+        4.4,
+        0.439
+       ],
+       [
+        4.5,
+        0.753
+       ],
+       [
+        4.6,
+        0.806
+       ],
+       [
+        4.7,
+        0.581
+       ],
+       [
+        4.8,
+        0.155
+       ],
+       [
+        4.9,
+        -0.332
+       ],
+       [
+        5.0,
+        -0.719
+       ],
+       [
+        5.1,
+        -0.886
+       ],
+       [
+        5.2,
+        -0.781
+       ],
+       [
+        5.3,
+        -0.439
+       ],
+       [
+        5.4,
+        0.038
+       ],
+       [
+        5.5,
+        0.509
+       ],
+       [
+        5.6,
+        0.841
+       ],
+       [
+        5.7,
+        0.943
+       ],
+       [
+        5.8,
+        0.79
+       ],
+       [
+        5.9,
+        0.426
+       ],
+       [
+        6.0,
+        -0.051
+       ],
+       [
+        6.1,
+        -0.517
+       ],
+       [
+        6.2,
+        -0.854
+       ],
+       [
+        6.3,
+        -0.984
+       ],
+       [
+        6.4,
+        -0.877
+       ],
+       [
+        6.5,
+        -0.564
+       ],
+       [
+        6.6,
+        -0.122
+       ],
+       [
+        6.7,
+        0.346
+       ],
+       [
+        6.8,
+        0.736
+       ],
+       [
+        6.9,
+        0.962
+       ],
+       [
+        7.0,
+        0.982
+       ],
+       [
+        7.1,
+        0.796
+       ],
+       [
+        7.2,
+        0.448
+       ],
+       [
+        7.3,
+        0.013
+       ],
+       [
+        7.4,
+        -0.419
+       ],
+       [
+        7.5,
+        -0.763
+       ],
+       [
+        7.6,
+        -0.957
+       ],
+       [
+        7.7,
+        -0.967
+       ],
+       [
+        7.8,
+        -0.799
+       ],
+       [
+        7.9,
+        -0.489
+       ],
+       [
+        8.0,
+        -0.098
+       ],
+       [
+        8.1,
+        0.302
+       ],
+       [
+        8.2,
+        0.641
+       ],
+       [
+        8.3,
+        0.863
+       ],
+       [
+        8.4,
+        0.937
+       ],
+       [
+        8.5,
+        0.855
+       ],
+       [
+        8.6,
+        0.637
+       ],
+       [
+        8.7,
+        0.325
+       ],
+       [
+        8.8,
+        -0.028
+       ],
+       [
+        8.9,
+        -0.367
+       ],
+       [
+        9.0,
+        -0.639
+       ],
+       [
+        9.1,
+        -0.807
+       ],
+       [
+        9.2,
+        -0.851
+       ],
+       [
+        9.3,
+        -0.771
+       ],
+       [
+        9.4,
+        -0.585
+       ],
+       [
+        9.5,
+        -0.324
+       ],
+       [
+        9.6,
+        -0.029
+       ],
+       [
+        9.7,
+        0.258
+       ],
+       [
+        9.8,
+        0.498
+       ],
+       [
+        9.9,
+        0.662
+       ],
+       [
+        10.0,
+        0.734
+       ],
+       [
+        10.1,
+        0.708
+       ],
+       [
+        10.2,
+        0.595
+       ],
+       [
+        10.3,
+        0.413
+       ],
+       [
+        10.4,
+        0.19
+       ],
+       [
+        10.5,
+        -0.045
+       ],
+       [
+        10.6,
+        -0.262
+       ],
+       [
+        10.7,
+        -0.437
+       ],
+       [
+        10.8,
+        -0.552
+       ],
+       [
+        10.9,
+        -0.598
+       ],
+       [
+        11.0,
+        -0.573
+       ],
+       [
+        11.1,
+        -0.487
+       ],
+       [
+        11.2,
+        -0.353
+       ],
+       [
+        11.3,
+        -0.188
+       ],
+       [
+        11.4,
+        -0.014
+       ],
+       [
+        11.5,
+        0.151
+       ],
+       [
+        11.6,
+        0.29
+       ],
+       [
+        11.7,
+        0.389
+       ],
+       [
+        11.8,
+        0.443
+       ],
+       [
+        11.9,
+        0.449
+       ],
+       [
+        12.0,
+        0.41
+       ],
+       [
+        12.1,
+        0.334
+       ],
+       [
+        12.2,
+        0.231
+       ],
+       [
+        12.3,
+        0.114
+       ],
+       [
+        12.4,
+        -0.005
+       ],
+       [
+        12.5,
+        -0.115
+       ],
+       [
+        12.6,
+        -0.206
+       ],
+       [
+        12.7,
+        -0.271
+       ],
+       [
+        12.8,
+        -0.307
+       ],
+       [
+        12.9,
+        -0.313
+       ],
+       [
+        13.0,
+        -0.291
+       ],
+       [
+        13.1,
+        -0.246
+       ],
+       [
+        13.2,
+        -0.183
+       ],
+       [
+        13.3,
+        -0.11
+       ],
+       [
+        13.4,
+        -0.035
+       ],
+       [
+        13.5,
+        0.037
+       ],
+       [
+        13.6,
+        0.1
+       ],
+       [
+        13.7,
+        0.149
+       ],
+       [
+        13.8,
+        0.181
+       ],
+       [
+        13.9,
+        0.197
+       ],
+       [
+        14.0,
+        0.195
+       ],
+       [
+        14.1,
+        0.179
+       ],
+       [
+        14.2,
+        0.15
+       ],
+       [
+        14.3,
+        0.113
+       ],
+       [
+        14.4,
+        0.071
+       ],
+       [
+        14.5,
+        0.028
+       ],
+       [
+        14.6,
+        -0.013
+       ],
+       [
+        14.7,
+        -0.049
+       ],
+       [
+        14.8,
+        -0.078
+       ],
+       [
+        14.9,
+        -0.098
+       ],
+       [
+        15.0,
+        -0.109
+       ],
+       [
+        15.1,
+        -0.111
+       ],
+       [
+        15.2,
+        -0.106
+       ],
+       [
+        15.3,
+        -0.093
+       ],
+       [
+        15.4,
+        -0.076
+       ],
+       [
+        15.5,
+        -0.056
+       ],
+       [
+        15.6,
+        -0.034
+       ],
+       [
+        15.7,
+        -0.012
+       ],
+       [
+        15.8,
+        0.008
+       ],
+       [
+        15.9,
+        0.025
+       ],
+       [
+        16.0,
+        0.039
+       ],
+       [
+        16.1,
+        0.048
+       ],
+       [
+        16.2,
+        0.053
+       ],
+       [
+        16.3,
+        0.055
+       ],
+       [
+        16.4,
+        0.053
+       ],
+       [
+        16.5,
+        0.047
+       ],
+       [
+        16.6,
+        0.04
+       ],
+       [
+        16.7,
+        0.031
+       ],
+       [
+        16.8,
+        0.021
+       ],
+       [
+        16.9,
+        0.012
+       ],
+       [
+        17.0,
+        0.002
+       ],
+       [
+        17.1,
+        -0.006
+       ],
+       [
+        17.2,
+        -0.012
+       ],
+       [
+        17.3,
+        -0.018
+       ],
+       [
+        17.4,
+        -0.021
+       ],
+       [
+        17.5,
+        -0.023
+       ],
+       [
+        17.6,
+        -0.023
+       ],
+       [
+        17.7,
+        -0.022
+       ],
+       [
+        17.8,
+        -0.02
+       ],
+       [
+        17.9,
+        -0.017
+       ],
+       [
+        18.0,
+        -0.013
+       ],
+       [
+        18.1,
+        -0.01
+       ],
+       [
+        18.2,
+        -0.006
+       ],
+       [
+        18.3,
+        -0.003
+       ],
+       [
+        18.4,
+        0.001
+       ],
+       [
+        18.5,
+        0.003
+       ],
+       [
+        18.6,
+        0.005
+       ],
+       [
+        18.7,
+        0.007
+       ],
+       [
+        18.8,
+        0.008
+       ],
+       [
+        18.9,
+        0.008
+       ],
+       [
+        19.0,
+        0.008
+       ],
+       [
+        19.1,
+        0.008
+       ],
+       [
+        19.2,
+        0.007
+       ],
+       [
+        19.3,
+        0.006
+       ],
+       [
+        19.4,
+        0.005
+       ],
+       [
+        19.5,
+        0.003
+       ],
+       [
+        19.6,
+        0.002
+       ],
+       [
+        19.7,
+        0.001
+       ],
+       [
+        19.8,
+        0.0
+       ],
+       [
+        19.9,
+        -0.001
+       ],
+       [
+        20.0,
+        -0.001
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "A",
+      "etiket_konum": [
+       16,
+       0.6
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "tampon_b",
+      "noktalar": [
+       [
+        2.5,
+        -0.021
+       ],
+       [
+        2.6,
+        0.303
+       ],
+       [
+        2.7,
+        0.52
+       ],
+       [
+        2.8,
+        0.327
+       ],
+       [
+        2.9,
+        0.042
+       ],
+       [
+        3.0,
+        -0.354
+       ],
+       [
+        3.1,
+        -0.605
+       ],
+       [
+        3.2,
+        -0.491
+       ],
+       [
+        3.3,
+        -0.241
+       ],
+       [
+        3.4,
+        0.214
+       ],
+       [
+        3.5,
+        0.489
+       ],
+       [
+        3.6,
+        0.574
+       ],
+       [
+        3.7,
+        0.421
+       ],
+       [
+        3.8,
+        0.084
+       ],
+       [
+        3.9,
+        -0.418
+       ],
+       [
+        4.0,
+        -0.682
+       ],
+       [
+        4.1,
+        -0.657
+       ],
+       [
+        4.2,
+        -0.38
+       ],
+       [
+        4.3,
+        -0.013
+       ],
+       [
+        4.4,
+        0.396
+       ],
+       [
+        4.5,
+        0.757
+       ],
+       [
+        4.6,
+        0.696
+       ],
+       [
+        4.7,
+        0.584
+       ],
+       [
+        4.8,
+        0.119
+       ],
+       [
+        4.9,
+        -0.351
+       ],
+       [
+        5.0,
+        -0.715
+       ],
+       [
+        5.1,
+        -0.847
+       ],
+       [
+        5.2,
+        -0.689
+       ],
+       [
+        5.3,
+        -0.446
+       ],
+       [
+        5.4,
+        0.045
+       ],
+       [
+        5.5,
+        0.49
+       ],
+       [
+        5.6,
+        0.767
+       ],
+       [
+        5.7,
+        0.883
+       ],
+       [
+        5.8,
+        0.682
+       ],
+       [
+        5.9,
+        0.343
+       ],
+       [
+        6.0,
+        -0.083
+       ],
+       [
+        6.1,
+        -0.459
+       ],
+       [
+        6.2,
+        -0.803
+       ],
+       [
+        6.3,
+        -0.937
+       ],
+       [
+        6.4,
+        -0.805
+       ],
+       [
+        6.5,
+        -0.53
+       ],
+       [
+        6.6,
+        -0.137
+       ],
+       [
+        6.7,
+        0.357
+       ],
+       [
+        6.8,
+        0.708
+       ],
+       [
+        6.9,
+        0.864
+       ],
+       [
+        7.0,
+        0.922
+       ],
+       [
+        7.1,
+        0.743
+       ],
+       [
+        7.2,
+        0.461
+       ],
+       [
+        7.3,
+        0.04
+       ],
+       [
+        7.4,
+        -0.415
+       ],
+       [
+        7.5,
+        -0.652
+       ],
+       [
+        7.6,
+        -0.936
+       ],
+       [
+        7.7,
+        -0.909
+       ],
+       [
+        7.8,
+        -0.712
+       ],
+       [
+        7.9,
+        -0.497
+       ],
+       [
+        8.0,
+        -0.093
+       ],
+       [
+        8.1,
+        0.225
+       ],
+       [
+        8.2,
+        0.616
+       ],
+       [
+        8.3,
+        0.835
+       ],
+       [
+        8.4,
+        0.88
+       ],
+       [
+        8.5,
+        0.84
+       ],
+       [
+        8.6,
+        0.57
+       ],
+       [
+        8.7,
+        0.326
+       ],
+       [
+        8.8,
+        -0.015
+       ],
+       [
+        8.9,
+        -0.331
+       ],
+       [
+        9.0,
+        -0.599
+       ],
+       [
+        9.1,
+        -0.709
+       ],
+       [
+        9.2,
+        -0.738
+       ],
+       [
+        9.3,
+        -0.72
+       ],
+       [
+        9.4,
+        -0.524
+       ],
+       [
+        9.5,
+        -0.354
+       ],
+       [
+        9.6,
+        -0.003
+       ],
+       [
+        9.7,
+        0.257
+       ],
+       [
+        9.8,
+        0.522
+       ],
+       [
+        9.9,
+        0.655
+       ],
+       [
+        10.0,
+        0.656
+       ],
+       [
+        10.1,
+        0.645
+       ],
+       [
+        10.2,
+        0.573
+       ],
+       [
+        10.3,
+        0.327
+       ],
+       [
+        10.4,
+        0.172
+       ],
+       [
+        10.5,
+        -0.082
+       ],
+       [
+        10.6,
+        -0.29
+       ],
+       [
+        10.7,
+        -0.459
+       ],
+       [
+        10.8,
+        -0.481
+       ],
+       [
+        10.9,
+        -0.6
+       ],
+       [
+        11.0,
+        -0.564
+       ],
+       [
+        11.1,
+        -0.466
+       ],
+       [
+        11.2,
+        -0.283
+       ],
+       [
+        11.3,
+        -0.225
+       ],
+       [
+        11.4,
+        -0.019
+       ],
+       [
+        11.5,
+        0.146
+       ],
+       [
+        11.6,
+        0.315
+       ],
+       [
+        11.7,
+        0.4
+       ],
+       [
+        11.8,
+        0.456
+       ],
+       [
+        11.9,
+        0.391
+       ],
+       [
+        12.0,
+        0.371
+       ],
+       [
+        12.1,
+        0.294
+       ],
+       [
+        12.2,
+        0.261
+       ],
+       [
+        12.3,
+        0.161
+       ],
+       [
+        12.4,
+        -0.047
+       ],
+       [
+        12.5,
+        -0.146
+       ],
+       [
+        12.6,
+        -0.224
+       ],
+       [
+        12.7,
+        -0.284
+       ],
+       [
+        12.8,
+        -0.288
+       ],
+       [
+        12.9,
+        -0.281
+       ],
+       [
+        13.0,
+        -0.299
+       ],
+       [
+        13.1,
+        -0.288
+       ],
+       [
+        13.2,
+        -0.18
+       ],
+       [
+        13.3,
+        -0.118
+       ],
+       [
+        13.4,
+        -0.024
+       ],
+       [
+        13.5,
+        0.089
+       ],
+       [
+        13.6,
+        0.116
+       ],
+       [
+        13.7,
+        0.14
+       ],
+       [
+        13.8,
+        0.183
+       ],
+       [
+        13.9,
+        0.204
+       ],
+       [
+        14.0,
+        0.128
+       ],
+       [
+        14.1,
+        0.214
+       ],
+       [
+        14.2,
+        0.173
+       ],
+       [
+        14.3,
+        0.15
+       ],
+       [
+        14.4,
+        0.102
+       ],
+       [
+        14.5,
+        0.013
+       ],
+       [
+        14.6,
+        -0.024
+       ],
+       [
+        14.7,
+        -0.093
+       ],
+       [
+        14.8,
+        -0.056
+       ],
+       [
+        14.9,
+        -0.143
+       ],
+       [
+        15.0,
+        -0.153
+       ],
+       [
+        15.1,
+        -0.138
+       ],
+       [
+        15.2,
+        -0.139
+       ],
+       [
+        15.3,
+        -0.106
+       ],
+       [
+        15.4,
+        -0.124
+       ],
+       [
+        15.5,
+        -0.112
+       ],
+       [
+        15.6,
+        -0.073
+       ],
+       [
+        15.7,
+        -0.059
+       ],
+       [
+        15.8,
+        -0.009
+       ],
+       [
+        15.9,
+        -0.034
+       ],
+       [
+        16.0,
+        0.081
+       ],
+       [
+        16.1,
+        0.058
+       ],
+       [
+        16.2,
+        0.007
+       ],
+       [
+        16.3,
+        0.021
+       ],
+       [
+        16.4,
+        0.031
+       ],
+       [
+        16.5,
+        0.028
+       ],
+       [
+        16.6,
+        -0.008
+       ],
+       [
+        16.7,
+        0.071
+       ],
+       [
+        16.8,
+        0.079
+       ],
+       [
+        16.9,
+        0.007
+       ],
+       [
+        17.0,
+        0.0
+       ],
+       [
+        17.1,
+        -0.055
+       ],
+       [
+        17.2,
+        -0.059
+       ],
+       [
+        17.3,
+        -0.035
+       ],
+       [
+        17.4,
+        -0.048
+       ],
+       [
+        17.5,
+        0.018
+       ],
+       [
+        17.6,
+        -0.062
+       ],
+       [
+        17.7,
+        -0.078
+       ],
+       [
+        17.8,
+        0.036
+       ],
+       [
+        17.9,
+        -0.012
+       ],
+       [
+        18.0,
+        -0.055
+       ],
+       [
+        18.1,
+        -0.004
+       ],
+       [
+        18.2,
+        -0.062
+       ],
+       [
+        18.3,
+        0.001
+       ],
+       [
+        18.4,
+        0.058
+       ],
+       [
+        18.5,
+        0.047
+       ],
+       [
+        18.6,
+        0.028
+       ],
+       [
+        18.7,
+        -0.022
+       ],
+       [
+        18.8,
+        -0.009
+       ],
+       [
+        18.9,
+        -0.032
+       ],
+       [
+        19.0,
+        0.04
+       ],
+       [
+        19.1,
+        0.011
+       ],
+       [
+        19.2,
+        0.04
+       ],
+       [
+        19.3,
+        -0.015
+       ],
+       [
+        19.4,
+        -0.029
+       ],
+       [
+        19.5,
+        0.041
+       ],
+       [
+        19.6,
+        0.06
+       ],
+       [
+        19.7,
+        0.043
+       ],
+       [
+        19.8,
+        0.037
+       ],
+       [
+        19.9,
+        0.038
+       ],
+       [
+        20.0,
+        0.028
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "B",
+      "etiket_konum": [
+       16,
+       -0.6
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A and B alike: a true response",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Common criterion: about 70 percent",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Criteria vary by protocol",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Reproducibility is a percentage that shows how closely the A and B averages match each other.",
+    "If the two curves almost overlap, reproducibility is high, which points to a true response.",
+    "Because random noise differs between the two buffers, reproducibility stays low when only noise is recorded.",
+    "A common criterion for overall reproducibility is about seventy percent or more.",
+    "Some protocols use lower limits, such as fifty to sixty percent; the criterion depends on the institution's protocol.",
+    "Reproducibility can also be calculated separately in each frequency band.",
+    "A high percentage alone is not enough; we also look at how much larger the response is than the noise."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Criteria",
+   "baslik": "Signal-to-noise *ratio*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 800,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      1000,
+      1500,
+      2000,
+      3000,
+      4000
+     ],
+     "ad": "Frequency band (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 20,
+     "adim": 5,
+     "ad": "Level (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "yanit",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        1500,
+        10
+       ],
+       [
+        2000,
+        12
+       ],
+       [
+        3000,
+        9
+       ],
+       [
+        4000,
+        6
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": 5,
+      "etiket": "response",
+      "cumle": 1
+     },
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        1000,
+        2
+       ],
+       [
+        1500,
+        0
+       ],
+       [
+        2000,
+        -2
+       ],
+       [
+        3000,
+        -4
+       ],
+       [
+        4000,
+        -5
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "kesik": true,
+      "etiket": "noise",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "snr_2k",
+      "y": [
+       -2,
+       12
+      ],
+      "xk": 2000,
+      "etiket": "SNR 14 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Bands: 1 to 4 kHz",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Criterion: 3 to 6 dB above",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "High noise in low bands",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "The second key criterion is the signal-to-noise ratio, or SNR.",
+    "The device splits the response into frequency bands and compares the response level with the noise level in each band.",
+    "The bands are usually centered around one, one and a half, two, three and four kilohertz.",
+    "In this example, in the two kilohertz band, the response is about fourteen decibels above the noise.",
+    "Common criteria require the response in a band to be at least three to six decibels larger than the noise.",
+    "Noise is higher in bands at and below one thousand hertz, so the low bands often cannot be assessed reliably.",
+    "The absolute level of the response is also noted; a very low-level response is interpreted with care, even when noise is low."
+   ]
+  },
+  {
+   "id": "gecme",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Criteria",
+   "baslik": "A sample *pass* rule",
+   "sutunlar": [
+    "Criterion",
+    "Sample value"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Probe fit",
+      "Adequate"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Stimulus stability",
+      "High"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Overall reproducibility",
+      "About 70% or more"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Band SNR",
+      "3 to 6 dB"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Passing bands",
+      "At least 3 bands"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Protocols combine these criteria into a decision rule; here is a sample rule.",
+    "First, the probe fit is checked, and that the stimulus stayed stable throughout the measurement.",
+    "If stability is low, the baby may have moved or the probe may have shifted.",
+    "Next, overall reproducibility is checked.",
+    "In each band, the response must exceed the noise by a set amount.",
+    "For example, if the criterion is met in at least three of the five bands, the result can be counted as a pass.",
+    "These numbers are examples; each center should set a written criterion based on its own device and sources."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "TEOAE and *hearing loss*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Air conduction_: loss above 2 kHz",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "TEOAE: present at _1 to 2 kHz_",
+     "cumle": 3
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "TEOAE: absent at _3 to 4 kHz_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       45,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "TEOAE does not measure hearing threshold, but it gives rough information about hearing level.",
+    "When a cochlear hearing loss exceeds about thirty to forty dB HL, TEOAE is usually absent.",
+    "In this example, hearing is normal at low and mid frequencies, and there is a moderate loss above two kilohertz.",
+    "The TEOAE response is present in the one and two kilohertz bands and absent in the three and four kilohertz bands.",
+    "The band information gives a clue about where the loss may be, but no threshold estimate is made.",
+    "A normal TEOAE does not fully rule out a mild hearing loss, so the result is interpreted together with the audiogram."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "karsilastir",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "*Newborns* and adults",
+   "sol": {
+    "ust": "Newborn",
+    "maddeler": [
+     {
+      "metin": "Larger response amplitude",
+      "cumle": 0
+     },
+     {
+      "metin": "Richer high frequency components",
+      "cumle": 1
+     },
+     {
+      "metin": "Sucking and movement noise",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Adult",
+    "maddeler": [
+     {
+      "metin": "Smaller amplitude",
+      "cumle": 0
+     },
+     {
+      "metin": "May decrease with age",
+      "cumle": 4
+     },
+     {
+      "metin": "Quieter measurement",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "In newborns, TEOAE amplitude is usually clearly larger than in adults.",
+    "In the newborn, the response is also richer toward high frequencies; the small ear canal volume is one of the reasons.",
+    "These features make TEOAE a suitable test for newborn screening.",
+    "In infants, however, sucking, movement and breathing sounds can make measurement harder.",
+    "In adults, response amplitude may decrease with age; part of this decrease is due to accompanying hearing loss.",
+    "Adults can usually sit quietly, so controlling noise is easier."
+   ]
+  },
+  {
+   "id": "bozan",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Troubleshooting",
+   "baslik": "Factors that *disturb* the recording",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ambient noise",
+     "metin": "A quiet room is needed",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Patient noise",
+     "metin": "Sucking, crying, movement",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Ear canal",
+     "metin": "Cerumen or vernix",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Probe",
+     "metin": "Poor fit, blocked tip",
+     "cumle": 3
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Middle ear",
+     "metin": "Fluid, negative pressure",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ambient noise raises the noise floor and masks weak responses.",
+    "In infants, sucking, crying and movement increase the number of rejected sweeps and lengthen the measurement.",
+    "Cerumen in the ear canal, or vernix in the newborn, can reduce the transmission of the stimulus and the response.",
+    "If the probe opening rests against the ear canal wall, or the tip is blocked, the recording is spoiled.",
+    "Fluid or marked negative pressure in the middle ear can abolish the response even when the cochlea is normal.",
+    "A refer result given without considering these factors leads to unnecessary referrals."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If there is no response, first remove the probe, check the tip and reinsert it. A repeat measurement once the baby is calm often changes the result.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from practice: when TEOAE is absent, do not call it a refer right away.",
+    "Remove the probe, check the tip for cerumen or fluid, and change the tip if needed.",
+    "Reinsert the probe and check that the stimulus waveform is clean.",
+    "A repeat measurement when the baby is asleep or calm often gives a different result."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Troubleshooting",
+   "baslik": "The TEOAE *report*",
+   "maddeler": [
+    {
+     "metin": "Protocol and _stimulus level_",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Reproducibility and _band SNR_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Each ear _separately_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Setting and _the baby's state_",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SCREENING",
+    "metin": "Pass or refer is *not a diagnosis*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "When reporting a TEOAE result, the protocol and the stimulus level used are written down.",
+    "Overall reproducibility, stimulus stability and the signal-to-noise ratio of each band are recorded.",
+    "The result is summarized separately for each ear, according to the pass criterion used.",
+    "Noise during the measurement, the baby's state and any tympanometry result are also noted.",
+    "Screening devices often give the result only as pass or refer; diagnostic assessment needs detailed data."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "A _broadband_ response to clicks",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "The _nonlinear_ protocol reduces artifact",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Reproducibility_ and band SNR",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Above 30 to 40 dB HL: _usually absent_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "TEOAE is the broadband response of the cochlea to a click, recorded in a window of about twenty milliseconds.",
+    "The nonlinear protocol, with three same and one inverted click, largely cancels the ear canal echo.",
+    "The result is evaluated by the reproducibility of the A and B buffers and the signal-to-noise ratio in the bands.",
+    "When a cochlear hearing loss exceeds about thirty to forty dB HL, TEOAE is usually absent."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "In TEOAE, which measure shows how alike the A and B averages are?",
+   "secenekler": [
+    "Stimulus stability",
+    "Reproducibility",
+    "Noise floor",
+    "Probe fit"
+   ],
+   "dogru": 1,
+   "aciklama": "_Reproducibility_ shows, as a percentage, how closely two independent averages match.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: In a TEOAE recording, which measure shows how closely the A and B averages match?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: reproducibility.",
+    "A true emission looks the same in two independent averages, while noise differs; this similarity shows the response is reliable."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Distortion Product* Otoacoustic Emissions (DPOAE)",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will look at distortion product otoacoustic emissions, which are measured with two tones.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

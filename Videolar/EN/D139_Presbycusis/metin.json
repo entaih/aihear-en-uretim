@@ -1,0 +1,754 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D139_Presbycusis_EN",
+ "kapak": {
+  "ust": "LESSON 139",
+  "baslik": "*Presbycusis*",
+  "alt": "Age-related hearing loss",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      55,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      20,
+      40,
+      55,
+      70
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Presbycusis: Age-Related Hearing Loss | Lesson 139 | AIHEAR Audiology Academy",
+  "aciklama": "We explain age-related hearing loss (presbycusis) through the Schuknecht types, the typical audiogram and the warning signs. We also cover how high-frequency loss affects speech understanding, and how hearing loss relates to communication and cognitive health.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Schuknecht and Gacek, Cochlear Pathology in Presbycusis (1993); WHO, World Report on Hearing (2021); Lancet Commission on Dementia Prevention, Intervention, and Care.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "presbycusis",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "presbycusis",
+   "age-related hearing loss",
+   "ARHL",
+   "Schuknecht types",
+   "stria vascularis",
+   "audiogram",
+   "hearing loss and dementia",
+   "older adults hearing",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 139",
+   "baslik": "*Presbycusis*",
+   "alt": "Age-related hearing loss",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about age-related hearing loss, or presbycusis.",
+    "We will cover the Schuknecht types, the typical audiogram, and the effects of hearing loss on communication and cognitive health."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and prevalence",
+   "baslik": "What is *presbycusis?*",
+   "maddeler": [
+    {
+     "metin": "_Sensorineural_ loss that comes with age",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_Bilateral_ and symmetric",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_High frequencies_ first",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Slow, _gradual_ progression",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ARHL",
+    "metin": "Age-related hearing loss: hearing loss that comes *with age*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Presbycusis, or age-related hearing loss, abbreviated ARHL, is a sensorineural loss that comes with ageing.",
+    "It usually develops in both ears together and in a similar way, that is, symmetrically.",
+    "The loss begins at the high frequencies and over time spreads toward lower frequencies.",
+    "There is no fixed age of onset, but changes often become noticeable in a person's fifties and sixties.",
+    "Because it progresses slowly, people often do not notice their loss for a long time; those around them notice it first.",
+    "There is no single cause; along with ageing, genetic susceptibility, noise history and general health all play a part."
+   ]
+  },
+  {
+   "id": "siklik",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and prevalence",
+   "baslik": "How *common* is it?",
+   "maddeler": [
+    {
+     "metin": "_Marked_ increase with age",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Over 60: _more than a quarter_",
+     "cumle": 1,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_Somewhat_ earlier in men",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Linked: noise, _diabetes_, smoking",
+     "cumle": 4,
+     "ikon": "kalp"
+    }
+   ],
+   "cumleler": [
+    "Age-related hearing loss is one of the most common sensory problems in adults, and its prevalence rises sharply with age.",
+    "According to the World Health Organization, more than a quarter of people over sixty have disabling hearing loss.",
+    "As the population ages, this number is expected to rise further in the coming decades.",
+    "It tends to appear somewhat earlier and more markedly in men; differences in noise exposure also play a part.",
+    "Noise, smoking, diabetes and cardiovascular disease have been linked with earlier and faster development of the loss."
+   ]
+  },
+  {
+   "id": "koklea",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and prevalence",
+   "baslik": "Why *high* sounds first?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "tepe",
+     "metin": "Apex: low sounds",
+     "cumle": 0
+    },
+    {
+     "parca": "taban",
+     "metin": "Base: high sounds",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Every sound passes the base",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "First change: 4000 to 8000 Hz",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "If we imagine the cochlea unrolled, the apex responds to low-pitched sounds and the base to high-pitched sounds.",
+    "Age-related changes usually affect the hair cells at the base of the cochlea first.",
+    "One explanation: the wave passes the base at every frequency; basal cells are also metabolically loaded and prone to oxidative damage.",
+    "So on the audiogram, the first change is usually seen in the region from four thousand to eight thousand hertz.",
+    "As the loss progresses to two thousand hertz and below, speech understanding also begins to be affected."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Schuknecht types",
+   "baslik": "Schuknecht *types*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Sensory",
+     "metin": "Basal hair cells; abrupt high-frequency drop",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Neural",
+     "metin": "Spiral ganglion; disproportionately poor discrimination",
+     "cumle": 2
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Metabolic",
+     "metin": "Stria vascularis; flat audiogram",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Mechanical",
+     "metin": "Basilar membrane stiffness; gradually sloping curve",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Based on studies of human temporal bones, Harold Schuknecht classified presbycusis into four main types.",
+    "In the sensory type, hair cells at the base of the cochlea are lost, and the audiogram shows an abrupt high-frequency drop.",
+    "In the neural type, spiral ganglion neurons decrease; speech discrimination is disproportionately poor for the audiogram.",
+    "In the metabolic, or strial, type the stria vascularis weakens; the audiogram is flat or gently sloping and discrimination is usually good.",
+    "In the mechanical type, the basilar membrane is thought to stiffen, and the audiogram slopes down smoothly toward the high frequencies.",
+    "Schuknecht later added mixed and indeterminate types, because many people did not fit a single type."
+   ]
+  },
+  {
+   "id": "stria",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Schuknecht types",
+   "baslik": "The stria *vascularis*",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "Stria vascularis",
+     "cumle": 0
+    },
+    {
+     "parca": "scala_media",
+     "metin": "Scala media: endolymph",
+     "cumle": 1
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "Organ of Corti",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endocochlear potential: about +80 mV",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Lower potential, less gain",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The stria vascularis is a tissue rich in blood vessels on the lateral wall of the cochlear duct.",
+    "Its role is to regulate the endolymph in the scala media and to create the endocochlear potential of about plus eighty millivolts.",
+    "This potential acts like a battery for the hair cells; when it drops, cochlear amplification weakens over a wide frequency range.",
+    "Animal studies have shown that strial changes play an important role in ageing.",
+    "So in the metabolic type, the loss affects many frequencies together rather than one region, giving a flat audiogram."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 1
+    }
+   ]
+  },
+  {
+   "id": "bakis",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Schuknecht types",
+   "baslik": "The current *view*",
+   "maddeler": [
+    {
+     "metin": "Pure types _rare_, mixed pictures common",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Noise and ageing _intertwined_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Early _synapse_ loss",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Central auditory _ageing_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Today it is accepted that pure types are rare and that most people have several mechanisms at once.",
+    "It is often impossible to separate the effect of ageing from noise damage accumulated over a lifetime.",
+    "Animal studies have shown that synapses between inner hair cells and nerve fibers can be lost before the hair cells are.",
+    "Age-related changes in the brainstem and cortex also affect understanding in noise and temporal processing in particular.",
+    "So even if two people have similar audiograms, their difficulties in daily life can be very different."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "tuy_hucreleri",
+      "cumle": 1
+     },
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "metin": "inner hair cell",
+      "cumle": 2
+     },
+     {
+      "parca": "sinir_lifleri",
+      "metin": "synapse and nerve fibers",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "The typical audiogram",
+   "baslik": "A typical *presbycusis* audiogram",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Bone conduction_: right ear",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       55,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       20,
+       40,
+       55,
+       70
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       50
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this example, the low frequencies of the right ear are within normal limits; above two thousand hertz the thresholds worsen steadily.",
+    "The left ear looks almost the same, so the loss is bilateral and symmetric.",
+    "Bone conduction thresholds overlap air conduction; there is no air-bone gap, and the loss is sensorineural.",
+    "This downward slope toward the high frequencies is the most typical picture of age-related hearing loss.",
+    "The person hears sounds in quiet, but may struggle to understand speech clearly because high-pitched consonants are missed."
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The typical audiogram",
+   "baslik": "Expected, or a *warning* sign?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Consistent with presbycusis",
+     "metin": "Symmetric, slow, no air-bone gap",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Refer to a physician",
+     "metin": "Asymmetry, rapid worsening, air-bone gap",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Not every hearing loss in an older person is presbycusis.",
+    "A bilateral, symmetric, slowly progressing loss with no air-bone gap is consistent with age-related loss.",
+    "In contrast, a clear asymmetry between the ears may require further assessment for retrocochlear causes.",
+    "Sudden or rapid worsening, one-sided tinnitus or dizziness are also findings that call for referral to a physician.",
+    "If there is an air-bone gap, an outer or middle ear problem should be considered in addition to age.",
+    "So presbycusis is a diagnosis of exclusion; other causes are ruled out by a physician's assessment."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In older adults, do otoscopy first. Wax or canal collapse under supra-aural earphones can mimic a loss; if in doubt, use insert earphones.",
+   "cumleler": [
+    "A clinical tip: in older adults, always do otoscopy before starting the test.",
+    "Impacted earwax is common in this age group and can make thresholds look worse than they are.",
+    "Also, an ear canal whose elasticity has changed with age can collapse under the pressure of supra-aural earphones.",
+    "Canal collapse can create a false air-bone gap, especially at high frequencies; if in doubt, repeat the test with insert earphones."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Speech and communication",
+   "baslik": "*Understanding* speech",
+   "maddeler": [
+    {
+     "metin": "_High-pitched consonants_ lost: s, f, th, k",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Vowels heard, _clarity_ reduced",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Marked_ difficulty in noise",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Temporal_ difficulty with fast speech",
+     "cumle": 4,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Increased _listening effort_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "With high-frequency loss, consonants such as s, sh, f, th, t and k are the parts of speech most easily lost.",
+    "Vowels, whose energy is mostly at low frequencies, are still heard, so the person hears speech but cannot make out the words clearly.",
+    "This is why the complaint \"I can hear, but I cannot understand\" is so typical of presbycusis.",
+    "The difficulty increases clearly in noisy places and when several people are talking.",
+    "Following fast speech also becomes harder, because temporal processing slows with age.",
+    "Constantly listening hard, that is, increased listening effort, leads to marked fatigue by the end of the day."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        35,
+        55,
+        65
+       ]
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 0
+     },
+     {
+      "parca": "unluler",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Speech and communication",
+   "baslik": "*What* does the assessment include?",
+   "maddeler": [
+    {
+     "metin": "Pure tone and _speech_ audiometry",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Speech-_in-noise_ test",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Complaints_ of the person and family",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Listening needs and _goals_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Assessment begins with pure tone audiometry and speech audiometry.",
+    "If possible, a speech-in-noise test is also done, because it reflects daily difficulty better than testing in quiet.",
+    "The person's own complaints and the family's observations are recorded, along with standard questionnaires.",
+    "Where the person struggles and what they want to achieve form the basis of the rehabilitation plan.",
+    "If cognitive screening is planned, remember that hearing loss can lower performance on verbal tests.",
+    "The audiologist turns this information, together with the physician's assessment, into a holistic plan."
+   ]
+  },
+  {
+   "id": "bilissel",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Cognitive health",
+   "baslik": "Communication and *cognitive* health",
+   "maddeler": [
+    {
+     "metin": "Social _withdrawal_ and loneliness",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Link with _depressive_ symptoms",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "A _modifiable_ risk factor for dementia",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Strong association, _causality_ under study",
+     "cumle": 6,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "As communication gets harder, a person may withdraw from crowded places and social activities, which increases loneliness.",
+    "Many studies have shown a link between age-related hearing loss and depressive symptoms.",
+    "The Lancet Commission on dementia counted midlife hearing loss among the main modifiable risk factors for dementia.",
+    "Possible explanations include the brain's adaptation to reduced auditory input, increased listening load, and social isolation.",
+    "In a large randomized trial, hearing intervention did not significantly slow cognitive decline across all participants.",
+    "But decline appeared to slow in a higher-risk subgroup; this finding needs to be confirmed by new studies.",
+    "So it is not yet fully known to what extent the link between hearing loss and dementia is one of cause and effect."
+   ]
+  },
+  {
+   "id": "rehabilitasyon",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Cognitive health",
+   "baslik": "Auditory *rehabilitation*",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Early awareness",
+     "metin": "Regular hearing screening",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aids",
+     "metin": "A main option for suitable people",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Communication strategies",
+     "metin": "Face to face, less noise",
+     "cumle": 3
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Family involvement",
+     "metin": "Improves adjustment and benefit",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Regular hearing screening in adults allows hearing loss to be noticed early.",
+    "For suitable people, hearing aids are one of the main options for supporting hearing.",
+    "Yet many people wait for years before seeking help, and hearing aid use rates remain low.",
+    "Strategies such as talking face to face, reducing background noise and asking for repetition make communication easier.",
+    "Involving family members improves both adjustment and the benefit in daily life.",
+    "The right approach for each person is decided together after audiological and medical assessment."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Bilateral, symmetric, _high-frequency sloping_ loss",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Schuknecht: sensory, neural, _metabolic_, mechanical",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Warning: _asymmetry_ and rapid worsening",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Linked with communication and _cognitive_ health",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Presbycusis is usually a bilateral, symmetric sensorineural loss that slopes toward the high frequencies.",
+    "Schuknecht described four basic types: sensory, neural, metabolic and mechanical.",
+    "Asymmetry, sudden or rapid worsening, and an air-bone gap suggest other causes.",
+    "Hearing loss can affect communication, social life and cognitive health."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which Schuknecht type is stria vascularis atrophy?",
+   "secenekler": [
+    "Sensory type",
+    "Neural type",
+    "Metabolic type",
+    "Mechanical type"
+   ],
+   "dogru": 2,
+   "aciklama": "The endocochlear potential drops; the audiogram is usually _flat_ or gently sloping.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in the Schuknecht classification, which type is caused by atrophy of the stria vascularis?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: the metabolic, or strial, type.",
+    "Because the endocochlear potential drops, the audiogram is usually flat or gently sloping."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Noise-Induced Hearing Loss and the *4 kHz* Notch",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at noise-induced hearing loss and the four thousand hertz notch on the audiogram.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

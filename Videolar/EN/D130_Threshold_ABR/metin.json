@@ -1,0 +1,834 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D130_Threshold_ABR_EN",
+ "kapak": {
+  "ust": "LESSON 130",
+  "baslik": "Infant *threshold*<br>ABR",
+  "alt": "Tone bursts, nHL and eHL, natural sleep",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Threshold ABR: Frequency-Specific Testing in Infants | Lesson 130 | AIHEAR Audiology Academy",
+  "aciklama": "We explain how ear-specific and frequency-specific threshold estimation is done in infants with tone burst ABR. With examples, we cover converting dB nHL thresholds to estimated hearing level (eHL), the steps of the threshold search, and preparing for testing in natural sleep.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Joint Committee on Infant Hearing, Position Statement (2019); BSA and NHSP infant ABR guidelines.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "pediatricaudiology"
+  ],
+  "etiketler": [
+   "ABR",
+   "threshold ABR",
+   "tone burst ABR",
+   "frequency-specific ABR",
+   "estimated hearing level",
+   "eHL",
+   "dB nHL",
+   "infant hearing test",
+   "newborn hearing screening",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 130",
+   "baslik": "*Threshold* estimation with ABR",
+   "alt": "Frequency-specific testing in infants",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how frequency-specific threshold estimation is done in infants with ABR.",
+    {
+     "yazi": "We will cover the tone burst threshold search, converting nHL values to estimated hearing level, and preparing for natural sleep testing.",
+     "ses": "We will cover the tone burst threshold search, converting N.H.L values to estimated hearing level, and preparing for natural sleep testing."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why frequency-specific testing?",
+   "baslik": "Why *threshold* ABR?",
+   "maddeler": [
+    {
+     "metin": "Behavioral testing _not yet_ possible",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Diagnostic_ assessment after screening",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Goal: _ear- and frequency-specific_ thresholds",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "An _estimated audiogram_ for early intervention",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "In the first months of life, it is usually not possible to obtain a reliable behavioral threshold from a baby.",
+    "A baby who does not pass newborn hearing screening is referred to the audiology clinic for diagnostic assessment.",
+    "The aim is not only to answer whether there is a loss, but to estimate thresholds for each ear and frequency.",
+    "International recommendations aim for diagnosis usually before three months, and for intervention to begin before six months.",
+    "Frequency-specific thresholds form the basis of the estimated audiogram that will be used for hearing aid fitting if needed."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TARGET",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "takvim",
+      "baslik": "Before 3 months",
+      "metin": "Diagnosis",
+      "cumle": 3
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Before 6 months",
+      "metin": "Intervention",
+      "cumle": 3
+     }
+    ]
+   }
+  },
+  {
+   "id": "klik_tonburst",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why frequency-specific testing?",
+   "baslik": "Click or *tone burst?*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Click",
+     "metin": "Mainly 2000 to 4000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tone burst",
+     "metin": "Narrowband, frequency-specific estimate",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A click is a very brief, broadband stimulus; it produces a strong, clear wave V.",
+     "ses": "A click is a very brief, broadband stimulus; it produces a strong, clear wave five."
+    },
+    "But the click response mainly reflects hearing in the region of about two thousand to four thousand hertz.",
+    "So with a click alone, a low-frequency loss or a notch at a particular frequency can be missed.",
+    "A tone burst is a short piece of tone lasting a few cycles, with its energy concentrated around a particular frequency.",
+    "This allows separate threshold estimates at five hundred, one thousand, two thousand and four thousand hertz.",
+    "The resulting picture is a frequency-specific estimate that resembles an audiogram.",
+    "We covered the structure of these stimuli in detail in our previous lesson."
+   ]
+  },
+  {
+   "id": "nhl",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Units and test plan",
+   "baslik": "What is *dB nHL?*",
+   "maddeler": [
+    {
+     "metin": "Normalized hearing level: _nHL_",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Zero point: normal-hearing _adults_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Brief stimulus: _higher_ behavioral threshold",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "ABR threshold _slightly above_ behavioral",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The level of ABR stimuli is often given in dB nHL, the normalized hearing level.",
+     "ses": "The level of ABR stimuli is often given in decibels N.H.L, the normalized hearing level."
+    },
+    "The zero point is the average level at which a group of normal-hearing adults can behaviorally hear that brief stimulus.",
+    "Brief stimuli are heard at higher levels than a long pure tone, because the ear integrates sound over time.",
+    {
+     "yazi": "So the nHL scale is not identical to the dB HL scale of the audiogram.",
+     "ses": "So the N.H.L scale is not identical to the decibels HL scale of the audiogram."
+    },
+    "Also, the threshold found with ABR is usually somewhat higher than the same person's behavioral threshold.",
+    "To bridge these two differences, the correction values we will see shortly are used."
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Units and test plan",
+   "baslik": "Frequency *priority*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "2000 Hz",
+     "metin": "First, in each ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "500 Hz",
+     "metin": "Next, in each ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "4000, 1000 Hz",
+     "metin": "If time allows",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Critical information",
+     "metin": "Even if the baby wakes early",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Because we do not know how long the baby will sleep, the test order is planned in advance.",
+    "In many protocols, two thousand hertz is tested first in each ear, then five hundred hertz.",
+    "If time allows, four thousand and one thousand hertz are added.",
+    "This way, even if the baby wakes early, we have information about both low and high frequencies in both ears.",
+    "The order may vary with the clinic's protocol; what matters is collecting the most critical information first."
+   ]
+  },
+  {
+   "id": "kulak",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Units and test plan",
+   "baslik": "Ear-*specific* testing",
+   "maddeler": [
+    {
+     "metin": "_Insert_ earphones, each ear separately",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Small canal: _higher_ sound pressure",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Canal collapse _is prevented_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "High _interaural_ attenuation",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Check the canal for _vernix_",
+     "cumle": 5,
+     "ikon": "otoskop"
+    }
+   ],
+   "cumleler": [
+    "In infants, air conduction ABR is usually done with insert earphones.",
+    "Each ear is tested separately, and results are reported separately for the right and left ears.",
+    "Because the baby's ear canal is small, the same setting produces a higher sound pressure in the canal than in an adult.",
+    "Insert earphones also prevent the canal collapse that the pressure of supra-aural earphones can cause.",
+    "Interaural attenuation is high with insert earphones, so the need for masking in air conduction is reduced.",
+    "Vernix or fluid residue in the canal can falsely raise thresholds, so the canal should be checked before testing."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Threshold search",
+   "baslik": "Threshold *search* steps",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Moderate level",
+     "metin": "Clear response expected",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Down 10 dB",
+     "metin": "While wave V is seen",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "5 dB steps",
+     "metin": "Near threshold if needed",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Threshold",
+     "metin": "Lowest replicated response",
+     "cumle": 3
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Confirm",
+     "metin": "No response just below",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The threshold search usually starts at a moderate level where a clear response is expected.",
+    {
+     "yazi": "When a repeatable wave V is seen, the level is usually lowered in ten decibel steps.",
+     "ses": "When a repeatable wave five is seen, the level is usually lowered in ten decibel steps."
+    },
+    "As threshold is approached, five decibel steps are used if needed.",
+    {
+     "yazi": "The threshold is the lowest level at which a wave V is replicated in both recordings.",
+     "ses": "The threshold is the lowest level at which a wave five is replicated in both recordings."
+    },
+    "To strengthen this decision, the absence of a response is shown at the level just below, with adequate averaging.",
+    "A no-response decision is reliable only if the residual noise in the recording is low enough."
+   ]
+  },
+  {
+   "id": "dalga_v",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Threshold search",
+   "baslik": "*Wave V* near threshold",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Wave followed to threshold",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lower level: longer latency, smaller amplitude",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "500 Hz: broader, later response",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Window: about 20 to 25 ms",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "As the level decreases, waves I and III disappear; wave V is the last to disappear.",
+     "ses": "As the level decreases, waves one and three disappear; wave five is the last to disappear."
+    },
+    {
+     "yazi": "This is why wave V is followed in a threshold search.",
+     "ses": "This is why wave five is followed in a threshold search."
+    },
+    {
+     "yazi": "As the level drops, wave V latency increases and its amplitude decreases.",
+     "ses": "As the level drops, wave five latency increases and its amplitude decreases."
+    },
+    "At low frequencies, for example five hundred hertz, the response is broader and comes later.",
+    {
+     "yazi": "At these frequencies, the slow negative wave that follows wave V also helps to recognize the response.",
+     "ses": "At these frequencies, the slow negative wave that follows wave five also helps to recognize the response."
+    },
+    "So in tone burst recordings, the analysis window is usually widened to twenty to twenty five milliseconds."
+   ]
+  },
+  {
+   "id": "var_yok",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Threshold search",
+   "baslik": "Is there a *response* or not?",
+   "maddeler": [
+    {
+     "metin": "_Overlap_ of two recordings",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Low _residual noise_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Statistical criterion: e.g. _Fsp_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "No response: record _maximum level_",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "The response decision is first made visually, by checking whether two recordings overlap at the same latency.",
+    "Residual noise is the background activity left in the recording after averaging; the lower it is, the more reliable the decision.",
+    {
+     "yazi": "Many devices also use statistical measures such as Fsp to show numerically whether the response stands out from noise.",
+     "ses": "Many devices also use statistical measures such as F.S.P to show numerically whether the response stands out from noise."
+    },
+    "Using visual assessment and statistics together reduces the chance of a wrong decision.",
+    "If there is no response even at the device's maximum level, the result is reported as no response at the highest level tested."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "same latency in both recordings",
+      "cumle": 0
+     }
+    ]
+   }
+  },
+  {
+   "id": "kalite",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Threshold search",
+   "baslik": "Recording *quality*",
+   "maddeler": [
+    {
+     "metin": "Low and _balanced_ impedance",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Calm baby, little _muscle artifact_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Artifact rejection _on_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_More_ averaging near threshold",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "As we saw in earlier lessons, a good threshold recording starts with low and balanced electrode impedance.",
+    "When the baby moves or sucks, muscle artifact increases; the recording is paused until it settles.",
+    "Artifact rejection is kept on, so sweeps with very large voltages are not included in the average.",
+    "Near threshold the response is smaller, so the number of sweeps is increased and residual noise is checked to be low enough.",
+    "If recording quality is poor, the threshold may be overestimated; this must be stated in the report."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If there is no response, record clicks at a high level in each polarity separately; a cochlear microphonic that inverts may suggest auditory neuropathy.",
+   "cumleler": [
+    "A clinical tip: if you get no response at any frequency with tone bursts, do not end the session right away.",
+    "Record with a high-level click, separately in condensation and rarefaction polarity.",
+    "An early response that inverts with polarity may be a cochlear microphonic and raises the suspicion of auditory neuropathy.",
+    "We will see in later lessons how this response is told apart from stimulus artifact, and auditory neuropathy in detail."
+   ]
+  },
+  {
+   "id": "ehl",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "From nHL to eHL",
+   "baslik": "Estimated hearing level: *eHL*",
+   "maddeler": [
+    {
+     "metin": "eHL: _estimated hearing level_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "eHL = nHL minus _correction_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Correction depends on _device and protocol_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "_Larger_ correction at low frequencies",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "eHL",
+    "metin": "The ABR threshold converted to the *audiogram* scale",
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "The estimated hearing level, or eHL, is the ABR threshold converted to the audiogram scale.",
+     "ses": "The estimated hearing level, or E.H.L, is the ABR threshold converted to the audiogram scale."
+    },
+    {
+     "yazi": "The calculation is simple: subtract the correction value for that frequency from the threshold found in nHL.",
+     "ses": "The calculation is simple: subtract the correction value for that frequency from the threshold found in N.H.L."
+    },
+    "Correction values vary with the device, stimulus and protocol; published tables also differ from each other.",
+    "In many tables, the correction is larger at low frequencies and smaller at high frequencies.",
+    "Some protocols apply a smaller correction as the degree of hearing loss increases."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "From nHL to eHL",
+   "baslik": "A sample *conversion*",
+   "sutunlar": [
+    "Frequency",
+    "ABR threshold",
+    "Sample correction",
+    "Estimated threshold"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "50 dB nHL",
+      "about 15 dB",
+      "35 dB eHL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "45 dB nHL",
+      "about 10 dB",
+      "35 dB eHL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "50 dB nHL",
+      "about 5 dB",
+      "45 dB eHL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "60 dB nHL",
+      "about 5 dB",
+      "55 dB eHL"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Now let us do the calculation with an entirely made-up infant recording.",
+    {
+     "yazi": "In this example the 500 Hz threshold is 50 dB nHL; with a correction of about 15 decibels, the estimate is 35 dB eHL.",
+     "ses": "In this example the five hundred Hz threshold is fifty decibels N.H.L; with a correction of about fifteen decibels, the estimate is thirty five decibels E.H.L."
+    },
+    {
+     "yazi": "For 1000 Hz, about 10 decibels is subtracted from the 45 dB nHL threshold, giving 35 dB eHL.",
+     "ses": "For one thousand Hz, about ten decibels is subtracted from the forty five decibels N.H.L threshold, giving thirty five decibels E.H.L."
+    },
+    "At two thousand and four thousand hertz the correction is smaller; in this example about five decibels was used.",
+    "The result is an estimated loss profile in the mild to moderate range, increasing toward the high frequencies.",
+    "The correction values here are only examples; in the clinic, always use the table of your own protocol."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "From nHL to eHL",
+   "baslik": "*Interpreting* eHL",
+   "maddeler": [
+    {
+     "metin": "eHL is an _estimate_, not an exact threshold",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "For type of loss: _bone conduction ABR_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Middle ear: _1000 Hz_ tympanometry",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "In the test battery: _OAEs_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Later, _confirm_ with behavioral testing",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Estimated thresholds are reasonable estimates, not exact values that replace the behavioral threshold.",
+    "To tell whether a loss is conductive or sensorineural, bone conduction ABR is needed; we will see it in the next lesson.",
+    "In infants under six months, the middle ear is assessed with one thousand hertz probe tone tympanometry.",
+    "OAE results are also part of the test battery and give additional information about cochlear function.",
+    "When the baby becomes able to do behavioral testing, the estimated thresholds are confirmed with visual reinforcement audiometry."
+   ]
+  },
+  {
+   "id": "uyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Natural sleep and sedation",
+   "baslik": "Testing in *natural sleep*",
+   "maddeler": [
+    {
+     "metin": "_Natural sleep_ often enough in early months",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Appointment: at _sleep and feeding_ time",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Keep _awake_ before arriving",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Electrodes and earphones _before sleep_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Dim, quiet and _warm_ room",
+     "cumle": 5,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "Because the ABR is easily affected by muscle activity, the baby needs to be in deep, calm sleep.",
+    "In the first few months of life, the test can often be done in natural sleep, without medication.",
+    "The appointment is planned around the baby's usual sleep and feeding times.",
+    "The family is asked to keep the baby awake as much as possible before arriving and to feed the baby at the clinic.",
+    "Electrodes and insert earphones are placed before the baby falls asleep, while the baby is held by a parent.",
+    "A dim, quiet and warm room helps the baby stay asleep."
+   ]
+  },
+  {
+   "id": "sedasyon",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Natural sleep and sedation",
+   "baslik": "When is *sedation* used?",
+   "maddeler": [
+    {
+     "metin": "_Natural sleep_ gets harder with age",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Sedation: _physician's_ decision and supervision",
+     "cumle": 1,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Audiologist: a _ready_ test plan",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Awake baby recording: _not reliable_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "As the baby grows, usually after six months, it becomes harder to get a long, calm recording in natural sleep.",
+    "Sedation may then be needed; the decision and its administration are the physician's responsibility.",
+    "The audiologist's role is to prepare in advance a test plan that makes the best use of the sedation time.",
+    "In some children, the test can also be planned during general anesthesia given for another reason.",
+    "An ABR recording from an awake, moving baby is usually not reliable for threshold estimation."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Natural sleep and sedation",
+   "baslik": "*What* should the report include?",
+   "maddeler": [
+    {
+     "metin": "Ear, stimulus and _frequencies_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "nHL thresholds and _eHL_ estimates",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "The _correction_ table used",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Sleep state and _recording quality_",
+     "cumle": 3,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Missing frequencies and _follow-up_ plan",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "The report states the stimulus used and the frequencies tested for each ear.",
+    {
+     "yazi": "Both the nHL thresholds and the eHL estimates calculated from them are written separately.",
+     "ses": "Both the N.H.L thresholds and the E.H.L estimates calculated from them are written separately."
+    },
+    "The correction table used is also stated, so that another center can interpret the result correctly.",
+    "The baby's sleep state, whether sedation was used, and the recording quality are also added to the report.",
+    "Frequencies that could not be completed are clearly listed, and a follow-up appointment is planned."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Click is not enough: _tone bursts_ for frequency",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Threshold: lowest replicated _wave V_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "eHL = nHL minus _correction_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Preferred in young infants: _natural sleep_",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "The click mainly reflects the high frequencies; tone bursts are used for frequency-specific information.",
+    {
+     "yazi": "The threshold is the lowest level at which a repeatable wave V is seen.",
+     "ses": "The threshold is the lowest level at which a repeatable wave five is seen."
+    },
+    {
+     "yazi": "The nHL threshold is converted to estimated hearing level, or eHL, with a frequency-specific correction.",
+     "ses": "The N.H.L threshold is converted to estimated hearing level, or E.H.L, with a frequency-specific correction."
+    },
+    "In young infants, testing is done in natural sleep whenever possible."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "500 Hz threshold 50 dB nHL, correction 15 dB. Estimated threshold?",
+   "secenekler": [
+    "35 dB eHL",
+    "50 dB eHL",
+    "65 dB eHL"
+   ],
+   "dogru": 0,
+   "aciklama": "The correction is subtracted from the nHL threshold: 50 minus 15 = _35 dB eHL_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: if the 500 Hz ABR threshold is 50 dB nHL and the correction is 15 decibels, what is the estimated threshold?",
+     "ses": "Test yourself: if the five hundred Hz ABR threshold is fifty decibels N.H.L and the correction is fifteen decibels, what is the estimated threshold?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is A: 35 dB eHL.",
+     "ses": "The correct answer is A: thirty five decibels E.H.L."
+    },
+    {
+     "yazi": "The correction value is subtracted from the nHL threshold, not added.",
+     "ses": "The correction value is subtracted from the N.H.L threshold, not added."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Latency-Intensity Function and *Bone-Conduction* ABR",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will examine the latency-intensity function and bone conduction ABR, which lets us tell the type of loss.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

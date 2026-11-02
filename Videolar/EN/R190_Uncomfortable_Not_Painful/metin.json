@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R190_Uncomfortable_Not_Painful_EN",
+ "kapak": {
+  "ust": "QUICK FACT #190",
+  "baslik": "Uncomfortable, *not painful*",
+  "alt": "Instructions in UCL testing",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Is the uncomfortable loudness level the same as a painful level? #shorts",
+  "aciklama": "In UCL testing, the instructions affect the result most: the uncomfortable level is not a painful level, but one the patient would not want to listen to for long. The Contour test has seven categories, and the first level reaching category seven is taken as the UCL.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "audiometry"
+  ],
+  "etiketler": [
+   "UCL",
+   "MCL",
+   "Contour test",
+   "uncomfortable loudness level",
+   "loudness",
+   "dynamic range",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Is the uncomfortable loudness level the same as a painful level?",
+  "bilgiler": [
+   "The uncomfortable level is not a painful level.",
+   "The right question: which level would you not listen to for long?",
+   "In the Contour test, the first level reaching category seven is the UCL."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "audiometry"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #190",
+   "metin": "Is uncomfortable loudness *painful loudness?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Is the uncomfortable loudness level the same as a painful level?"
+   ]
+  },
+  {
+   "id": "talimat",
+   "tur": "zincir",
+   "baslik": "Instructions *shape* the UCL",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Comfort",
+     "tr": "category 4: MCL",
+     "cumle": 1
+    },
+    {
+     "ad": "Loud",
+     "tr": "category 7: UCL",
+     "cumle": 2
+    },
+    {
+     "ad": "Wording",
+     "tr": "not pain",
+     "cumle": 3
+    }
+   ],
+   "alt": "Right question: a level they _would not listen to for long_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The UCL is the level where sound becomes uncomfortably loud.",
+    "The Contour test has seven categories; the fourth is comfortable.",
+    "The first level reaching category seven is taken as the UCL.",
+    "Uncomfortable is not painful; explain this clearly to the patient.",
+    "Asking about pain gives values too high; slightly loud, too low."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D101",
+ "kaynak_baslik": "Most Comfortable and Uncomfortable Loudness Levels"
+}

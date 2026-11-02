@@ -1,0 +1,87 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R129_Classroom_Plus_15_dB_EN",
+ "kapak": {
+  "ust": "QUICK FACT #129",
+  "baslik": "Classroom SNR: *+15 dB*",
+  "alt": "Why do children need a better ratio?",
+  "cizim": "desibel_olcegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why do children struggle more in noise than adults? #shorts",
+  "aciklama": "The signal-to-noise ratio is the difference between the speech level and the noise level. Children still learning language cannot fill in missing sounds, so a ratio of at least plus 15 dB at the ear is recommended in classrooms.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "children",
+   "classroom"
+  ],
+  "etiketler": [
+   "signal-to-noise ratio",
+   "SNR",
+   "classroom acoustics",
+   "children",
+   "speech in noise",
+   "education",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why do children struggle more in noise than adults?",
+  "bilgiler": [
+   "SNR is the difference between speech level and noise level.",
+   "Children still learning language cannot fill in missing sounds.",
+   "At least plus 15 dB at the child's ear is recommended in class."
+  ],
+  "hashtag": [
+   "audiology",
+   "children",
+   "classroom"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #129",
+   "metin": "Why do children struggle *more* in noise?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why do children struggle more in noise than adults?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Recommended classroom *signal-to-noise* ratio",
+   "sayi": "+15",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The signal-to-noise ratio is the speech level minus the noise level.",
+    "Speech at sixty five, noise at fifty five decibels: plus ten.",
+    "Adults easily fill in missing sounds using language and context.",
+    "Children still learning language cannot; they need a better ratio.",
+    "At least plus fifteen decibels at the ear is recommended in class."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D044",
+ "kaynak_baslik": "Room Acoustics: Reverberation and Signal-to-Noise"
+}

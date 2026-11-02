@@ -1,0 +1,118 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R219_Fifteen_Decibel_Asymmetry_EN",
+ "kapak": {
+  "ust": "QUICK FACT #219",
+  "baslik": "When ears *differ*",
+  "alt": "Asymmetric sensorineural hearing loss",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      15,
+      20,
+      40,
+      55,
+      55
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "When does a hearing difference between the ears matter? #shorts",
+  "aciklama": "Age-related and most noise-induced losses are usually similar in both ears; an unexplained asymmetry should be investigated. There is no single universal criterion; a common approach treats a difference of 15 dB or more at two adjacent frequencies as significant. The audiologist confirms the asymmetry, reports it and refers the person to an ENT physician; imaging decisions belong to the physician.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "hearing"
+  ],
+  "etiketler": [
+   "asymmetric hearing loss",
+   "vestibular schwannoma",
+   "asymmetry criteria",
+   "rule of 3000",
+   "ENT referral",
+   "pure-tone audiometry",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "When does a hearing difference between the ears matter?",
+  "bilgiler": [
+   "Age-related and noise-induced losses are usually similar in both ears.",
+   "A common criterion: 15 dB or more at two adjacent frequencies.",
+   "The audiologist confirms the asymmetry and refers to a physician."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #219",
+   "metin": "When does an ear difference *matter?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "When does a hearing difference between the ears matter?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Gap at two *adjacent* frequencies",
+   "sayi": "15",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Age-related and most noise-induced losses are usually similar in both ears.",
+    "So an unexplained asymmetry is a finding whose cause needs investigating.",
+    "There is no single universal criterion; protocols differ.",
+    "A common approach counts fifteen decibels or more at two adjacent frequencies.",
+    "The audiologist confirms it and refers to an ENT physician."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D137",
+ "kaynak_baslik": "Asymmetric Hearing Loss and Vestibular Schwannoma"
+}

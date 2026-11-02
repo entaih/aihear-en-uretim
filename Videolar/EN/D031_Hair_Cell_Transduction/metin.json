@@ -1,0 +1,1119 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D031_Hair_Cell_Transduction_EN",
+ "kapak": {
+  "ust": "LESSON 31",
+  "baslik": "From sound<br>to *electricity*",
+  "alt": "Mechanoelectrical transduction in hair cells",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi"
+  ]
+ },
+ "youtube": {
+  "baslik": "How Hair Cells Turn Sound into Electrical Signals | Lesson 31 | AIHEAR Audiology Academy",
+  "aciklama": "How does the vibration of the basilar membrane become an electrical signal in hair cells? In this lesson we go step by step through stereocilia bending, tip links, potassium entry and depolarization, the endocochlear potential of about +80 mV made by the stria vascularis, and the inner hair cell synapse. As clinical links, we discuss strial loss, otoferlin and auditory neuropathy, ototoxicity and the cochlear microphonic.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Pickles, An Introduction to the Physiology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlea",
+   "hearingscience"
+  ],
+  "etiketler": [
+   "hair cells",
+   "mechanoelectrical transduction",
+   "tip link",
+   "endocochlear potential",
+   "stria vascularis",
+   "stereocilia",
+   "ribbon synapse",
+   "otoferlin",
+   "cochlear microphonic",
+   "hearing physiology",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 31",
+   "baslik": "From sound to *electricity*: hair cells",
+   "alt": "Tip links, potassium and the endocochlear potential",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how hair cells turn the vibration of the basilar membrane into an electrical signal.",
+    "We will go step by step through tip links, potassium flow, and the endocochlear potential that powers this flow."
+   ]
+  },
+  {
+   "id": "sahne",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Where transduction happens",
+   "baslik": "*Where* does transduction begin?",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "baziler_membran",
+     "metin": "basilar membrane",
+     "cumle": 0
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "tectorial membrane",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "outer hair cells",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "inner hair cell",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "tektoryal_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "stereosil",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Shearing_ between two membranes",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Stereocilia _bend_",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Result: an _electrical_ signal",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stereosil",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 4,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "We have seen that stapes motion creates a traveling wave in the cochlea and makes the basilar membrane vibrate.",
+    "Above the hair cells of the organ of Corti lies the membrana tectoria, the tectorial membrane.",
+    "When the basilar membrane moves, the two membranes pivot around different points, and a shearing motion arises between them.",
+    "The tallest stereocilia of the outer hair cells are embedded in the tectorial membrane, so the shearing bends them directly.",
+    "The stereocilia of the inner hair cells are bent instead by the fluid flow that this shearing creates.",
+    "The process that turns this mechanical bending into an electrical signal is called mechanoelectrical transduction."
+   ]
+  },
+  {
+   "id": "iki_sivi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Where transduction happens",
+   "baslik": "Two different *fluids*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_media",
+     "metin": "scala media: endolymph",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_vestibuli",
+     "metin": "scala vestibuli: perilymph",
+     "cumle": 2
+    },
+    {
+     "parca": "scala_tympani",
+     "metin": "scala tympani: perilymph",
+     "cumle": 2
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "organ of Corti",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_media",
+     "cumle": 1
+    },
+    {
+     "parca": "corti_organi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endolymph: high _potassium_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Perilymph: high _sodium_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Hair cell top _in endolymph_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "corti_organi",
+     "cumle": 3,
+     "olcek": 2.2
+    }
+   ],
+   "cumleler": [
+    "To understand transduction, we first need to look at the two different fluids in the cochlea.",
+    "The middle compartment, the scala media or cochlear duct, is filled with potassium-rich endolymph.",
+    "The scala vestibuli and the scala tympani contain sodium-rich perilymph.",
+    "The tops of the hair cells face endolymph, while their bodies and bases face a perilymph-like fluid.",
+    "The two regions are separated by the reticular lamina, formed by the tops of the hair cells and supporting cells."
+   ]
+  },
+  {
+   "id": "iyonlar",
+   "tur": "tablo",
+   "bolum_no": "PART 1",
+   "bolum": "Where transduction happens",
+   "baslik": "Endolymph and *perilymph*",
+   "sutunlar": [
+    "Feature",
+    "Endolymph",
+    "Perilymph"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Potassium",
+      "About 150 mM",
+      "About 5 mM"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Sodium",
+      "About 1 mM",
+      "About 140 mM"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Potential",
+      "About +80 mV",
+      "About 0 mV"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Resembles",
+      "Intracellular fluid",
+      "Extracellular fluid"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Endolymph contains about one hundred fifty millimoles of potassium per liter, perilymph only about five.",
+    "For sodium the picture reverses: it is high in perilymph and very low in endolymph.",
+    "Relative to perilymph, endolymph carries a potential of about plus eighty millivolts, called the endocochlear potential.",
+    "In its ion content, endolymph resembles intracellular fluid, and perilymph resembles extracellular fluid."
+   ]
+  },
+  {
+   "id": "uc_baglanti",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Tip links",
+   "baslik": "The staircase and *tip links*",
+   "maddeler": [
+    {
+     "metin": "Stereocilia arranged like a _staircase_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tips joined by _tip links_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "An _ion channel_ at the link's end",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Proteins: _cadherin 23_, protocadherin 15",
+     "cumle": 4,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Broken by noise, _can regrow_",
+     "cumle": 6,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "stereosil_demeti",
+    "cumle": 0,
+    "ayar": {
+     "egilme": 0.6,
+     "egilme_cumle": 3
+    },
+    "etiketler": [
+     {
+      "parca": "stereosil",
+      "metin": "Stereocilia (staircase)",
+      "cumle": 0
+     },
+     {
+      "parca": "uc_baglantisi",
+      "metin": "Tip link",
+      "cumle": 1
+     },
+     {
+      "parca": "iyon_kanali",
+      "metin": "Ion channel",
+      "cumle": 2
+     },
+     {
+      "parca": "kaderin_23",
+      "metin": "Cadherin 23",
+      "cumle": 4
+     },
+     {
+      "parca": "protokaderin_15",
+      "metin": "Protocadherin 15",
+      "cumle": 4
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "merdiven",
+      "cumle": 0
+     },
+     {
+      "parca": "uc_baglantisi",
+      "cumle": 1
+     },
+     {
+      "parca": "iyon_kanali",
+      "cumle": 2
+     },
+     {
+      "parca": "uc_baglantisi",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "On top of each hair cell are rows of stereocilia arranged like a staircase, from short to tall.",
+    {
+     "yazi": "The tip of a short stereocilium is joined to its taller neighbor by a very fine filament called a tip link."
+    },
+    "At the lower end of the link, at the top of the short stereocilium, are mechanically gated ion channels.",
+    "The tip link works like a spring that pulls on the gate of this channel.",
+    {
+     "yazi": "The link is made of two proteins, cadherin 23 and protocadherin 15.",
+     "ses": "The link is made of two proteins, cadherin twenty three and protocadherin fifteen."
+    },
+    {
+     "yazi": "Some changes in the genes for these proteins can cause Usher syndrome, which involves hearing and vision loss."
+    },
+    "Very loud sounds can break tip links; the links can form again within hours.",
+    "This regrowth is thought to help the recovery from the temporary threshold shift seen after noise."
+   ]
+  },
+  {
+   "id": "egilme_yonu",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Tip links",
+   "baslik": "The *direction* of bending matters",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Toward the tallest",
+     "metin": "Link stretches, channel opens",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Depolarization",
+     "metin": "Potassium enters, inside less negative",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Toward the shortest",
+     "metin": "Link slackens, channel closes",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Hyperpolarization",
+     "metin": "Inside of the cell more negative",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "When the bundle bends toward the tallest stereocilium, the tip links stretch and the channels open.",
+    "Positively charged potassium ions enter the cell, and its inside becomes less negative; this is called depolarization.",
+    "When the bundle bends the other way, toward the short stereocilia, the links slacken and the channels close.",
+    "The inside of the cell then becomes more negative; this is called hyperpolarization.",
+    "At rest, a small fraction of the channels is already open, so the cell can sense movement in both directions.",
+    "Bending of the bundle at right angles to this axis has almost no effect on the channels."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Tip links",
+   "baslik": "Fast and highly *sensitive*",
+   "maddeler": [
+    {
+     "metin": "Channel opened _directly_ by force",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Response within _microseconds_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_Nanometer_ motion at threshold",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Adaptation: sensitivity _resets_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_dalgasi",
+    "ayar": {
+     "frekans_hz": 4000
+    },
+    "vurgula": [
+     {
+      "parca": "periyot",
+      "cumle": 1
+     }
+    ],
+    "cumle": 1
+   },
+   "cumleler": [
+    "The hair cell channel is opened directly by the pull of the tip link, without any chemical messenger in between.",
+    "So transduction happens within microseconds and can follow vibrations of thousands of hertz.",
+    "Its sensitivity is remarkable too: at threshold, the tip of the bundle moves only about one nanometer.",
+    "A nanometer is one billionth of a meter, only a few atoms across.",
+    "During a sustained push, the channels reset their sensitivity; this is called adaptation.",
+    "Thanks to adaptation, the bundle stays sensitive to new small movements even under a steady push."
+   ]
+  },
+  {
+   "id": "pil",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Potassium and the battery",
+   "baslik": "The cochlea's *battery*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "stria vascularis",
+     "cumle": 0
+    },
+    {
+     "parca": "scala_media",
+     "metin": "endolymph: about +80 mV",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0
+    },
+    {
+     "parca": "scala_media",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Three cell layers",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Pumps _potassium_ into endolymph",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Needs a lot of _energy_ and oxygen",
+     "cumle": 3,
+     "ikon": "ampul"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The power behind the potassium flow comes from the stria vascularis on the outer wall of the scala media.",
+    "This tissue, rich in blood vessels, is made of three cell layers.",
+    "The stria vascularis constantly pumps potassium into the endolymph and creates the endocochlear potential.",
+    "This work takes energy; the stria vascularis is one of the most energy- and oxygen-hungry tissues in the cochlea.",
+    "That is why the endocochlear potential drops quickly when cochlear blood flow falls."
+   ]
+  },
+  {
+   "id": "itici_guc",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Potassium and the battery",
+   "baslik": "The driving force: *potential difference*",
+   "sutunlar": [
+    "Region",
+    "Potential (approx.)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Endolymph",
+      "+80 mV"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Perilymph",
+      "0 mV"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Inside inner hair cell",
+      "-45 mV"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Inside outer hair cell",
+      "-70 mV"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Across the channel",
+      "120 to 150 mV"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "We can see why potassium enters the cell so easily by looking at the potentials: endolymph is about plus eighty millivolts.",
+    "The inside of the hair cells is negative: about minus forty five millivolts in inner hair cells and about minus seventy in outer hair cells.",
+    "This creates a difference of about one hundred twenty to one hundred fifty millivolts across the channel at the top of the cell.",
+    "When the channel opens, potassium flows into the cell down this gradient on its own; the hair cell spends no energy on it.",
+    "In other words, the energy for transduction comes not from the hair cell but from the stria vascularis."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Potassium and the battery",
+   "baslik": "Potassium *recycling*",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "k_cikis",
+     "cumle": 0
+    },
+    {
+     "parca": "bosluk_baglantilari",
+     "cumle": 2
+    },
+    {
+     "parca": "ligamentum_spirale",
+     "cumle": 2
+    },
+    {
+     "parca": "stria_pompa",
+     "cumle": 3
+    },
+    {
+     "parca": "k_giris",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Leaves _through the base_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Carried_ via gap junctions",
+     "cumle": 2,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Connexin 26, gene _GJB2_",
+     "cumle": 4,
+     "ikon": "gen_dna"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "k_cikis",
+     "metin": "Hair cell: exit at the base",
+     "cumle": 0
+    },
+    {
+     "parca": "ligamentum_spirale",
+     "metin": "Spiral ligament",
+     "cumle": 2
+    },
+    {
+     "parca": "stria_vaskularis",
+     "metin": "Stria vascularis",
+     "cumle": 3
+    },
+    {
+     "parca": "scala_media",
+     "metin": "Endolymph",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The potassium that enters the cell does not stay there; it leaves through channels at the base of the hair cell.",
+    "Because the fluid around the base is low in potassium, this exit also happens on its own.",
+    {
+     "yazi": "Potassium is carried through gap junctions along the supporting cells and the ligamentum spirale, the spiral ligament."
+    },
+    "The stria vascularis pumps the potassium back into the endolymph, and the cycle is complete.",
+    {
+     "yazi": "A protein called connexin 26 is part of these junctions; its gene is known as GJB2.",
+     "ses": "A protein called connexin twenty six is part of these junctions; its gene is known as G.J.B 2."
+    },
+    {
+     "yazi": "GJB2 changes are among the most common causes of non-syndromic hereditary hearing loss in many populations, including Türkiye.",
+     "ses": "G.J.B 2 changes are among the most common causes of non-syndromic hereditary hearing loss in many populations, including Türkiye."
+    }
+   ],
+   "ayar": {
+    "potasyum": true,
+    "potasyum_cumle": 0
+   }
+  },
+  {
+   "id": "sinaps",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Synapse and nerve",
+   "baslik": "The signal passes to the *nerve*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "inner hair cell",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "type I afferent fibers",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Depolarization: _calcium_ enters",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_Glutamate_ is released",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "The nerve fiber _fires_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "Now let us look at the base of the inner hair cell, where information passes to the nerve.",
+    "When the cell depolarizes, voltage-gated calcium channels at the base open and calcium enters the cell.",
+    "Calcium triggers synaptic vesicles to fuse with the cell membrane, releasing the neurotransmitter glutamate.",
+    {
+     "yazi": "Glutamate starts a nerve impulse, an action potential, in the type I afferent fibers connected to the inner hair cell.",
+     "ses": "Glutamate starts a nerve impulse, an action potential, in the type one afferent fibers connected to the inner hair cell."
+    },
+    "At this synapse, vesicles are lined up around a special structure called the ribbon synapse.",
+    "The ribbon synapse allows very fast, sustained release; the timing precision of hearing depends on it."
+   ]
+  },
+  {
+   "id": "otoferlin",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Synapse and nerve",
+   "baslik": "When the synapse fails: *neuropathy*",
+   "maddeler": [
+    {
+     "metin": "_Otoferlin_: a calcium sensor",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "OTOF defect: _release_ fails",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "_OAEs_ can be measured",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_ABR_ absent or very abnormal",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Auditory neuropathy _spectrum_ disorder",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oae",
+    "ayar": {
+     "tur": "TEOAE"
+    },
+    "vurgula": [
+     {
+      "parca": "yanit",
+      "cumle": 2
+     }
+    ],
+    "cumle": 2
+   },
+   "cumleler": [
+    "One of the proteins that senses calcium during release is otoferlin.",
+    {
+     "yazi": "With certain changes in the otoferlin gene, OTOF, the hair cell works, but release at the synapse fails.",
+     "ses": "With certain changes in the otoferlin gene, O.T.O.F, the hair cell works, but release at the synapse fails."
+    },
+    "Because the outer hair cells are intact, otoacoustic emissions, or OAEs, can be measured.",
+    "Yet the auditory brainstem response, or ABR, may be absent or very abnormal.",
+    "This picture is one of the causes of auditory neuropathy spectrum disorder.",
+    {
+     "yazi": "Hearing loss caused by OTOF is now one of the leading targets of gene therapy research.",
+     "ses": "Hearing loss caused by O.T.O.F is now one of the leading targets of gene therapy research."
+    }
+   ]
+  },
+  {
+   "id": "iki_gorev",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Synapse and nerve",
+   "baslik": "Same transduction, *two jobs*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "inner hair cell: sensory cell",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "outer hair cells: change length",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "basilar membrane",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Inner: _glutamate_, signal to nerve",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Outer: _shortens_ and lengthens",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Adds _power_ to soft sounds",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Transduction starts the same way in inner and outer hair cells, but the outcome differs.",
+    "In the inner hair cell, depolarization leads to glutamate release, so the inner hair cells are the true sensory cells.",
+    "In the outer hair cell, depolarization shortens the cell and hyperpolarization lengthens it.",
+    "This movement boosts the vibration of the basilar membrane and especially helps us detect soft sounds.",
+    "We will examine this mechanism, the cochlear amplifier, in detail in the next lesson."
+   ]
+  },
+  {
+   "id": "pil_zayif",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Clinical links",
+   "baslik": "When the battery *runs low*",
+   "maddeler": [
+    {
+     "metin": "Endocochlear potential _drops_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Sensitivity_ falls along the cochlea",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Audiogram: _flat_ or gently sloping",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Strial_ type in age-related loss",
+     "cumle": 4,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Some diuretics: a _temporary_ drop",
+     "cumle": 5,
+     "ikon": "ilac"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        40,
+        40,
+        40,
+        45,
+        50,
+        55
+       ],
+       "cumle": 3
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        40,
+        45,
+        45,
+        45,
+        50,
+        55
+       ],
+       "cumle": 3
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "When the stria vascularis weakens, the endocochlear potential drops and the driving force for transduction decreases.",
+    "Then sensitivity falls along the cochlea, even if the hair cells are intact.",
+    "The resulting hearing loss usually gives a flat or gently sloping audiogram.",
+    "In this example, both ears show a nearly flat loss between forty and fifty five decibels.",
+    "The strial, or metabolic, type of age-related hearing loss is explained by this mechanism.",
+    "Some diuretic drugs, such as furosemide, can also temporarily lower the endocochlear potential."
+   ]
+  },
+  {
+   "id": "ototoksik",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Clinical links",
+   "baslik": "A *danger* entering through the channel",
+   "maddeler": [
+    {
+     "metin": "Aminoglycosides can enter _through the channel_",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Damage often starts _at the base_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_High_ frequencies matter in monitoring",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 8000
+    },
+    "vurgula": [
+     {
+      "parca": "taban",
+      "cumle": 2
+     }
+    ],
+    "cumle": 2
+   },
+   "cumleler": [
+    "Unfortunately, the transduction channel is also an entry point for some drugs.",
+    "Aminoglycoside antibiotics such as gentamicin have been shown to enter hair cells largely through these channels.",
+    "The damage usually starts in the outer hair cells at the base of the cochlea.",
+    "That is why high frequencies are especially important when monitoring the hearing of people taking ototoxic drugs."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Clinical links",
+   "baslik": "*Recording* transduction",
+   "maddeler": [
+    {
+     "metin": "Cochlear microphonic: _CM_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Summating potential: _SP_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "The nerve's response: _wave I_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Recording: _ECochG_ and ABR",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "The electrical response that follows the waveform of the stimulus is called the cochlear microphonic, or CM.",
+    "The CM comes mainly from the transduction currents of the outer hair cells.",
+    "The direct current component that shifts the baseline during the stimulus is called the summating potential, or SP.",
+    {
+     "yazi": "The response formed by the synchronous firing of nerve fibers corresponds to wave I of the ABR.",
+     "ses": "The response formed by the synchronous firing of nerve fibers corresponds to wave one of the ABR."
+    },
+    {
+     "yazi": "These potentials can be studied with electrocochleography, or ECochG, and in the ABR recording.",
+     "ses": "These potentials can be studied with electrocochleography, or E cock G, and in the ABR recording."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 5",
+   "bolum": "Clinical links",
+   "baslik": "Clinical tip",
+   "metin": "If OAEs are present but the ABR is absent or abnormal, the problem may lie beyond the outer hair cells. Record the ABR in both polarities to spot the CM.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from practice: knowing the transduction chain makes test results easier to interpret.",
+    "If OAEs can be measured but the ABR is absent or very abnormal, the problem may lie in the links after the outer hair cells.",
+    "These links are the inner hair cell, its synapse, or the auditory nerve.",
+    "In such a recording, running the ABR in two separate polarities separates the CM, which inverts with polarity, from the neural response."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Bending _stretches tip links_, channels open",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Potassium enters, the cell _depolarizes_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Power source: _+80 mV_ endocochlear potential",
+     "cumle": 2,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Inner hair cells release _glutamate_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Bending of the stereocilia toward the tallest one stretches the tip links and opens the ion channels.",
+    "Potassium flows from the endolymph into the cell, and the hair cell depolarizes.",
+    "The driving force for this flow is the endocochlear potential of about plus eighty millivolts, made by the stria vascularis.",
+    "With calcium entry, the inner hair cell releases glutamate and excites the auditory nerve."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which structure creates the endocochlear potential?",
+   "secenekler": [
+    "Basilar membrane",
+    "Stria vascularis",
+    "Tectorial membrane",
+    "Reissner's membrane"
+   ],
+   "dogru": 1,
+   "aciklama": "The _stria vascularis_ pumps potassium into the endolymph and creates the potential of about +80 mV.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: Which structure creates the endocochlear potential?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the stria vascularis."
+    },
+    "The stria vascularis pumps potassium into the endolymph and creates the endocochlear potential of about plus eighty millivolts."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The *Cochlear Amplifier*: Outer Hair Cells and Prestin",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will see how outer hair cells change their length and how the cochlear amplifier contributes to hearing.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

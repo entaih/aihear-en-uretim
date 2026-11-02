@@ -1,0 +1,936 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D267_Ling_Six_Sound_Test_EN",
+ "kapak": {
+  "ust": "LESSON 267",
+  "baslik": "The Ling *six-sound* test",
+  "alt": "Daily listening and device checks",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "The Ling Six-Sound Test and Daily Device Checks | Lesson 267 | AIHEAR Audiology Academy",
+  "aciklama": "What is the Ling six-sound test, how is it done correctly and how are the results interpreted? In this lesson we cover the frequency ranges of m, oo, ah, ee, sh and s, detection and identification, the effect of distance and direction, the Ling 6 (HL) version and the family's daily hearing aid and implant check routine.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Ling, Speech and the Hearing-Impaired Child: Theory and Practice; Glista et al., The Ling 6(HL) test: typical pediatric performance data and clinical use evaluation, J Am Acad Audiol (2014); Madell and Hewitt, Ling Madell Hewitt (LMH) test; BATOD, Sound based testing; Tye-Murray, Foundations of Aural Rehabilitation: Children, Adults, and Their Family Members.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "Ling6",
+   "hearingaids"
+  ],
+  "etiketler": [
+   "Ling 6 sound test",
+   "Ling Six Sound Test",
+   "detection",
+   "identification",
+   "daily device check",
+   "listening stethoscope",
+   "hearing aid check",
+   "cochlear implant",
+   "children with hearing loss",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 267",
+   "baslik": "The Ling six-sound test and *daily* device checks",
+   "alt": "A quick listening check with m, oo, ah, ee, sh, s",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the Ling six-sound test, the frequency ranges of its sounds and how to give the test correctly.",
+    "We will also go step by step through the hearing aid and implant check the family does every morning."
+   ]
+  },
+  {
+   "id": "ling",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Six sounds",
+   "baslik": "The Ling six-sound *test*",
+   "maddeler": [
+    {
+     "metin": "Six sounds: m, oo, ah, ee, sh, s",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "The speech range, low to high",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "No equipment, a few minutes",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "The same way every day",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "An indicator, _not an audiogram_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Low",
+      "metin": "m, oo",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Mid",
+      "metin": "ah, ee",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "High",
+      "metin": "sh, s",
+      "cumle": 1
+     }
+    ],
+    "ust": "SIX SOUNDS"
+   },
+   "cumleler": [
+    "The Ling Six Sound Test is a quick listening check made up of the sounds m, oo, ah, ee, sh and s.",
+    "Together, these six sounds roughly cover the frequency range of speech from low to high.",
+    {
+     "yazi": "Daniel Ling described the test with five sounds in the 1970s; the m sound was added later to cover the low frequencies.",
+     "ses": "Daniel Ling described the test with five sounds in the nineteen seventies; the m sound was added later to cover the low frequencies."
+    },
+    "No special equipment is needed; a parent, teacher or therapist can do it in a few minutes.",
+    "Its real value is that, done the same way every day, it quickly catches a sudden change in the child's listening.",
+    "But the Ling test is an indicator, a rough check; it does not replace threshold testing or an audiogram."
+   ]
+  },
+  {
+   "id": "harita",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Six sounds",
+   "baslik": "The *frequency map* of the six sounds",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 7,
+     "yazilar": {
+      "1": "s",
+      "2": "sh",
+      "3": "ee",
+      "4": "ah",
+      "5": "oo",
+      "6": "m"
+     },
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "ad": "Sound"
+    },
+    "seriler": [
+     {
+      "ad": "m",
+      "noktalar": [
+       [
+        250,
+        6
+       ],
+       [
+        350,
+        6
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "cumle": 1
+     },
+     {
+      "ad": "u1",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        400,
+        5
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "cumle": 2
+     },
+     {
+      "ad": "u2",
+      "noktalar": [
+       [
+        700,
+        5
+       ],
+       [
+        1000,
+        5
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "cumle": 2
+     },
+     {
+      "ad": "a",
+      "noktalar": [
+       [
+        700,
+        4
+       ],
+       [
+        1300,
+        4
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 3
+     },
+     {
+      "ad": "i1",
+      "noktalar": [
+       [
+        250,
+        3
+       ],
+       [
+        400,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 4
+     },
+     {
+      "ad": "i2",
+      "noktalar": [
+       [
+        2300,
+        3
+       ],
+       [
+        2900,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 4
+     },
+     {
+      "ad": "sh",
+      "noktalar": [
+       [
+        2000,
+        2
+       ],
+       [
+        4000,
+        2
+       ]
+      ],
+      "renk": "turuncu",
+      "kalin": true,
+      "cumle": 5
+     },
+     {
+      "ad": "s",
+      "noktalar": [
+       [
+        4000,
+        1
+       ],
+       [
+        8000,
+        1
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "cumle": 5
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "f2",
+      "x": [
+       2000,
+       3000
+      ],
+      "renk": "sari",
+      "etiket": "ee: 2nd formant",
+      "cumle": 6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ranges are approximate",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "ee: low and high together",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "s: highest and weakest",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "The graph shows the approximate frequency regions where each sound's energy is concentrated; sources give slightly different ranges.",
+    "The energy of m is mostly in the low frequencies, around 250 to 350 hertz.",
+    "Both formants of the vowel oo are in the low region: about 300 hertz and just below one thousand hertz.",
+    "The energy of the vowel ah gathers in the mid frequencies, between about 700 and 1300 hertz.",
+    "The vowel ee is interesting: its first formant is low, while its second is high, between about 2300 and 2900 hertz.",
+    "The sh sound carries energy at about 2 to 4 kilohertz, and s higher, at about 4 kilohertz and above.",
+    "So a child who can tell ee from oo has access to the second formant region, around 2 kilohertz."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Six sounds",
+   "baslik": "*Inside* the speech banana",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       55,
+       75,
+       85
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vowels strong, sh and s weak",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Example: s may be missed",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The six sounds fall in different places inside the speech banana; vowels are strong, while sh and s are weaker and higher.",
+    "On this example audiogram, the low frequencies are preserved and there is a steeply sloping high-frequency loss.",
+    "Without a device, or with a poorly fitted one, this child may detect m, oo and ah, but miss the s sound.",
+    "A consistent lack of response to s on the Ling test suggests that high-frequency audibility should be reviewed."
+   ]
+  },
+  {
+   "id": "fark_tanima",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Administration",
+   "baslik": "Detection and *identification*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Detection",
+     "metin": "Is there a sound?",
+     "cumle": 0
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Response",
+     "metin": "Drop a block, raise a hand",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Identification",
+     "metin": "Which sound?",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Response",
+     "metin": "Repeat it, point to a picture",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "In infants",
+     "metin": "Change in behavior",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The Ling test can be done at two levels; the first is detection: the child only shows that a sound was heard.",
+    "In detection, the child drops a block in a box or raises a hand on hearing the sound, the same conditioning as play audiometry.",
+    "The second level is identification: the child shows which sound was heard.",
+    "In identification, the child repeats the sound or points to the right picture for each sound; for example, a snake for s.",
+    "In young infants, behavior changes are observed, such as stopping sucking, opening the eyes or turning toward the sound.",
+    "The level is chosen to match the child's age and language development."
+   ]
+  },
+  {
+   "id": "uygula",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Administration",
+   "baslik": "Giving the test *correctly*",
+   "adimlar": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Quiet room",
+     "metin": "Device on and worn",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Mouth hidden",
+     "metin": "No speechreading",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Normal level",
+     "metin": "Equal length, no exaggeration",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Random order",
+     "metin": "Silent trials in between",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Record",
+     "metin": "Sound, distance, response",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The test is done in a quiet room, with the hearing aid or implant switched on and worn.",
+    "The tester hides their mouth; if the child sees the lips, the result reflects speechreading, not hearing.",
+    "Sounds are said at a normal conversational level, each lasting about the same time; shouting or whispering spoils the result.",
+    "Sounds are given in random order each time, with silent trials in between, so the child cannot guess.",
+    "Which sound, at which distance and with what response is recorded in a short table.",
+    "To hide the mouth, do not put a hand right in front of it, as the hand can distort sound; having the child look at a toy is better."
+   ]
+  },
+  {
+   "id": "mesafe",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Administration",
+   "baslik": "Distance and *direction*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4,
+     "log": true,
+     "ad": "Distance (m)",
+     "isaretler": [
+      0.5,
+      1,
+      2,
+      4
+     ],
+     "ond": 1
+    },
+    "y": {
+     "min": 40,
+     "max": 75,
+     "adim": 10,
+     "ad": "Sound level (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        0.5,
+        71
+       ],
+       [
+        1,
+        65
+       ],
+       [
+        2,
+        59
+       ],
+       [
+        4,
+        53
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "example speech",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       59,
+       65
+      ],
+      "xk": 1.4,
+      "etiket": "6 dB",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Example: 1, 2 and 4 meters",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Double distance: about 6 dB",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Each ear, then both",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "The test can be done not only up close but also from different distances; some sources suggest 1, 2 and 4 meters.",
+    "In a free field, each time the distance doubles, the sound level drops by about 6 decibels.",
+    "So an s sound heard up close may not be heard from 4 meters; this is how the child's listening distance is tracked.",
+    "Giving sounds from the front, side and back is also informative; many devices are set to reduce sound from behind.",
+    "If possible, each ear or device is tried separately and then together; a remote microphone, if used, is checked too.",
+    "In real rooms, reflections change how the level drops; the graph is an example calculation for a free field."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Administration",
+   "baslik": "*Interpreting* the result",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "All correct",
+     "metin": "Same as yesterday",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "s is missed",
+     "metin": "High-frequency audibility",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sudden change",
+     "metin": "Device or ear",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "ee, oo confused",
+     "metin": "Access to 2 kHz",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "When in doubt",
+     "metin": "Contact the audiologist",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The main comparison is with the child's own earlier results; if responses match yesterday's, the device is most likely working.",
+    "If the s sound is consistently missed, high-frequency audibility may be insufficient; this is reported to the audiologist.",
+    "Sounds heard yesterday but not today are a sudden change: the battery, a device fault or a middle ear problem is checked.",
+    "Confusing ee with oo suggests that access to the second formant region may be insufficient.",
+    "The Ling test is a rough indicator; when in doubt, contact the audiologist for a detailed assessment.",
+    "A tired, sick or unwilling child may also respond differently, so one day's result is never interpreted alone."
+   ]
+  },
+  {
+   "id": "genisleme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Administration",
+   "baslik": "Measured and *extended* versions",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Ling 6 (HL)",
+     "metin": "Recorded, calibrated sounds",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Threshold measure",
+     "metin": "In decibels",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Extra sounds",
+     "metin": "For mid frequencies",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Local norms",
+     "metin": "Needed separately",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "There is a recorded version of the Ling sounds calibrated in dB HL: the Ling 6 (HL) test.",
+     "ses": "There is a recorded version of the Ling sounds calibrated in dB HL: the Ling six H L test."
+    },
+    "With this version an aided detection threshold is measured for each sound; studies report reliable results in children aged 3 to 18.",
+    "Some clinicians use extended sets that add consonants such as z, h, n and j to the six sounds, to see mid-frequency information too.",
+    "In Türkiye, using recorded versions with Turkish-speaking children also requires Turkish recordings and norm data."
+   ]
+  },
+  {
+   "id": "rutin",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Daily check",
+   "baslik": "The morning *check routine*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Look",
+     "metin": "Cracks, dirt, moisture",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Power",
+     "metin": "Battery or charge",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Listen",
+     "metin": "Listening stethoscope",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ling",
+     "metin": "Six sounds up close",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Record",
+     "metin": "Daily chart",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The family's morning routine starts with a visual check: are there cracks in the device, earwax in the earmold or moisture in the tubing?",
+    "In the second step, the battery is changed or the charge level is checked.",
+    "In the third step, the parent listens to the device with a listening stethoscope; the sound should be clear, steady and free of crackling.",
+    "In the fourth step, the device is put on the child and the Ling sounds are tried up close.",
+    "In the last step, the result is marked on a short daily chart; this routine of a few minutes catches problems early."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Daily check",
+   "baslik": "What to *check* on a hearing aid",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "microphone ports",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "metin": "battery",
+     "cumle": 2
+    },
+    {
+     "parca": "kalip",
+     "metin": "earmold and tubing",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "cumle": 2
+    },
+    {
+     "parca": "kalip",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Let us look at the points to check on the behind-the-ear hearing aid, the type most often used by children.",
+    "The microphone ports should be free of dirt and dust; a blocked microphone weakens the sound.",
+    "The battery compartment should be clean and the battery door should close fully.",
+    "The earmold's sound canal should not be blocked with earwax, and the tubing should not be stiff or contain water droplets.",
+    "If there is whistling once the device is on the ear, the fit or size of the earmold is checked.",
+    "If there is a crack in the earmold, or redness or discharge in the ear, the audiologist and, if needed, a physician are contacted."
+   ]
+  },
+  {
+   "id": "implant",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Daily check",
+   "baslik": "*Daily checks* for implants",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "dis_islemci",
+     "metin": "processor: power, indicator",
+     "cumle": 1
+    },
+    {
+     "parca": "verici_bobin",
+     "metin": "coil and cable",
+     "cumle": 2
+    },
+    {
+     "parca": "alici_uyarici",
+     "metin": "internal part under the skin",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_islemci",
+     "cumle": 1
+    },
+    {
+     "parca": "verici_bobin",
+     "cumle": 2
+    },
+    {
+     "parca": "alici_uyarici",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "For a cochlear implant, the daily check targets the external parts; the internal parts can only be measured by the audiologist.",
+    "The external processor's charge or battery is checked; many processors have a status light or an app.",
+    "The transmitter coil cable should not be broken or loose, and the coil should stay in place on the head with its magnet.",
+    "If there is redness or a pressure mark on the skin under the coil, contact the audiologist about magnet strength.",
+    "Then listening is checked with the Ling sounds; a sudden change may be the first sign of a processor or cable fault."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Daily check",
+   "baslik": "When to *report a problem*",
+   "maddeler": [
+    {
+     "metin": "_Not hearing_ a sound heard yesterday",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sound cuts in and out",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Skin redness, discharge",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "The child _refuses_ the device",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "rapor",
+      "baslik": "Daily chart",
+      "metin": "Marked every morning",
+      "cumle": 0
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "Contact",
+      "metin": "Audiologist's number ready",
+      "cumle": 0
+     }
+    ],
+    "ust": "FAMILY"
+   },
+   "cumleler": [
+    "If the child does not respond today to a sound heard yesterday, and a new battery does not fix it, the audiologist is contacted.",
+    "Sound that cuts in and out, or crackling, suggests a fault in the device, cable or coil.",
+    "Redness, discharge or pain in the ear or under the coil needs a physician's assessment.",
+    "A child who used to like the device suddenly wanting to take it off can also be a sign of a problem."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Try the Ling sounds every day with the same person, distance and room; write the result on a chart. A change means more than any single result.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: as far as possible, do the Ling test every day with the same person, at the same distance and in the same room.",
+    "That way a change in the result comes from the child's listening, not from the test conditions.",
+    "Give the family a simple chart to mark each sound, distance and response, and review it together at checkups.",
+    "This chart sometimes shows a device fault or a middle ear problem before the audiogram does."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "m, oo, ah, ee, sh, s: full range",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Mouth hidden, random order, silent trials",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Detection and identification, various distances",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Every morning: look, power, listen, Ling",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "The Ling six-sound test roughly checks the speech range from low to high with the sounds m, oo, ah, ee, sh and s.",
+    "The test is done with the mouth hidden, at a normal conversational level, in random order and with silent trials.",
+    "It can be given at detection and identification levels, from different distances and directions; its real value is daily repetition.",
+    "The daily device check consists of looking, checking power, listening, the Ling sounds and recording."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Why does the s sound matter in the Ling test?",
+   "secenekler": [
+    "It is the lowest sound",
+    "It is the highest, weakest sound",
+    "It is a vowel",
+    "It is most visible on the lips"
+   ],
+   "dogru": 1,
+   "aciklama": "Of the six sounds, s carries the _highest_ energy.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: why does a lack of response to s matter in the Ling six-sound test?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: s is the highest and weakest of the six sounds.",
+    "If s is consistently missed, high-frequency audibility should be reviewed."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Auditory Rehabilitation for *Children* with Implants",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about auditory rehabilitation and progress scales for children with cochlear implants.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

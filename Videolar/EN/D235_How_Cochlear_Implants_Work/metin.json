@@ -1,0 +1,699 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D235_How_Cochlear_Implants_Work_EN",
+ "kapak": {
+  "ust": "LESSON 235",
+  "baslik": "How cochlear implants<br>*work*",
+  "alt": "External unit, internal unit, electrical stimulation",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "How Does a Cochlear Implant Work? | Lesson 235 | AIHEAR Audiology Academy",
+  "aciklama": "How does a cochlear implant turn sound into an electrical signal and stimulate the auditory nerve? In this lesson we cover the external unit (microphone, sound processor, transmitting coil), the internal unit (receiver-stimulator, electrode array), the signal processing steps, tonotopic stimulation, and how implant hearing differs from natural hearing.\\n\\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\\n\\nSources: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Wilson and Dorman, Cochlear implants: a remarkable past and a brilliant future, Hearing Research (2008); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Ling, Speech and the Hearing-Impaired Child.\\n\\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "hearing"
+  ],
+  "etiketler": [
+   "cochlear implant",
+   "how cochlear implants work",
+   "electrode array",
+   "sound processor",
+   "auditory nerve",
+   "tonotopy",
+   "cochlear implant programming",
+   "Ling six sound test",
+   "bimodal fitting",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 235",
+   "baslik": "How does a cochlear implant *work?*",
+   "alt": "External unit, internal unit and electrical stimulation",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the parts of a cochlear implant and how it turns sound into electrical stimulation.",
+    "Then we will discuss how hearing with an implant differs from natural hearing."
+   ]
+  },
+  {
+   "id": "fikir",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The basic idea",
+   "baslik": "How does it *differ* from a hearing aid?",
+   "maddeler": [
+    {
+     "metin": "Hearing aid: _amplifies_ sound",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Implant: _bypasses_ the hair cells",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Stimulates the auditory nerve directly",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "For severe and profound losses",
+     "cumle": 6,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "COCHLEAR IMPLANT",
+    "metin": "A device that stimulates the auditory nerve *electrically*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "A hearing aid amplifies sound and delivers it acoustically to the ear.",
+    "For this to help, some of the cochlear hair cells must still be working.",
+    "In severe and profound losses most hair cells are lost, so however much sound is amplified, it may not be clear.",
+    "A cochlear implant takes a different route here: it bypasses the damaged hair cells.",
+    "Electrodes placed inside the cochlea stimulate the auditory nerve fibers and spiral ganglion cells directly with electrical current.",
+    "So the implant does not amplify sound; it converts sound into an electrical code the nerve can understand.",
+    "This is why implants were developed for people with severe to profound loss who get limited benefit from hearing aids.",
+    "Who is a suitable implant candidate is a separate evaluation topic, which we will cover in the next lesson."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "The basic idea",
+   "baslik": "Example: a *profound* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ range",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       80,
+       90,
+       100,
+       105,
+       110,
+       110
+      ],
+      "cumle": 0,
+      "yanitsiz": [
+       5
+      ]
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       85,
+       95,
+       105,
+       110,
+       115,
+       110
+      ],
+      "cumle": 0,
+      "yanitsiz": [
+       5
+      ]
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "In this example, both ears show a hearing loss between severe and profound.",
+    "Thresholds start around 80 dB at low frequencies and fall to 110 dB or worse at 4000 Hz; there is no response at 8000 Hz.",
+    "Average speech sounds fall roughly between 20 and 60 dB HL on the audiogram, far above these thresholds.",
+    "With such a loss, even a powerful hearing aid may not make speech sounds, especially high-frequency consonants, audible enough.",
+    "The sounds that are heard may also be distorted, because the remaining hair cells cannot process sound in detail.",
+    "This is where the implant comes in, designed to deliver sound to the nerve by bypassing the damaged region.",
+    "The values here are examples; real decisions rest on a much more comprehensive evaluation."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The basic idea",
+   "baslik": "A brief *history*",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "First experiments",
+     "metin": "Late 1950s",
+     "cumle": 0
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Multichannel",
+     "metin": "The 1980s",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Neural prosthesis",
+     "metin": "The most successful example",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Today",
+     "metin": "Over one million implants",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The first experiments in electrically stimulating the auditory nerve date back to the late 1950s."
+    },
+    {
+     "yazi": "Multichannel implants similar to today's entered clinical use in the 1980s."
+    },
+    "Researchers such as Graeme Clark in Australia and the Hochmairs in Austria played pioneering roles in this development.",
+    "Today the cochlear implant is considered the most successful neural prosthesis, partly restoring a sense.",
+    "More than one million cochlear implants are estimated to have been fitted worldwide to date."
+   ]
+  },
+  {
+   "id": "parcalar",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "External and internal units",
+   "baslik": "*Parts* of the implant",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "dis_islemci",
+     "metin": "sound processor",
+     "cumle": 1
+    },
+    {
+     "parca": "verici_bobin",
+     "metin": "transmitting coil",
+     "cumle": 2
+    },
+    {
+     "parca": "alici_uyarici",
+     "metin": "receiver-stimulator",
+     "cumle": 4
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "metin": "electrode array",
+     "cumle": 5
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "auditory nerve",
+     "cumle": 7
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_islemci",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "External: microphone, processor, coil",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Internal: receiver-stimulator, electrodes",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Radio frequency across the skin",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 5,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "A cochlear implant consists of an external unit worn outside and an internal unit placed surgically.",
+    "The external unit holds the microphones and the sound processor; it is often worn behind the ear.",
+    "A thin cable from the processor connects to the transmitting coil, which sits on the skin on the side of the head.",
+    "The coil sends the signal and power across the skin to the internal unit by radio frequency; a magnet holds the coil in place.",
+    "The internal unit has a receiver-stimulator placed under the skin behind the ear; it has no battery of its own.",
+    "The electrode array leads from the receiver-stimulator into the cochlea.",
+    "The array is usually advanced into the scala tympani through the round window or a small opening made near it.",
+    "Current from the electrodes stimulates nearby auditory nerve fibers, and the signal is carried to the brain."
+   ]
+  },
+  {
+   "id": "uniteler",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "External and internal units",
+   "baslik": "External unit and *internal unit*",
+   "sol": {
+    "ust": "External unit",
+    "maddeler": [
+     {
+      "metin": "Microphone and sound processor",
+      "cumle": 0
+     },
+     {
+      "metin": "Disposable or rechargeable battery",
+      "cumle": 1
+     },
+     {
+      "metin": "Removable, upgradable",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Internal unit",
+    "maddeler": [
+     {
+      "metin": "Receiver-stimulator and magnet",
+      "cumle": 3
+     },
+     {
+      "metin": "12 to 22 electrodes, by manufacturer",
+      "cumle": 4
+     },
+     {
+      "metin": "Permanent, powered from outside",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "The external unit picks up and processes sound; all the smart processing happens here.",
+    "It is powered by a disposable or rechargeable battery and also passes this power to the internal unit through the coil.",
+    "The external unit can be removed at will, usually for sleep or bathing, and can be replaced with newer models over the years.",
+    "The internal unit consists of the receiver-stimulator body, a magnet and the electrode array inside the cochlea.",
+    "The number of electrodes inside the cochlea usually ranges from 12 to 22, depending on the manufacturer.",
+    "There is also a reference electrode outside the cochlea, providing the return path for the current.",
+    "The internal unit is permanent and has no power source of its own; it does not work without the external unit.",
+    "So when the external unit is removed, the person hears nothing through the implant."
+   ]
+  },
+  {
+   "id": "isleme",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "From sound to electricity",
+   "baslik": "From sound to *electricity*, step by step",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Channel splitting",
+     "metin": "Filter bank",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Envelope",
+     "metin": "Amplitude changes extracted",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Compression",
+     "metin": "Narrow range: T to C",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrical pulses",
+     "metin": "To electrodes in turn",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Now let us follow how a sound is processed inside the implant.",
+    "Sound picked up by the microphone is split into many frequency channels by a filter bank in the sound processor.",
+    "In each channel the amplitude change over time, the envelope, is extracted; most of the fine timing detail is lost here.",
+    "The wide dynamic range of the natural ear, about 120 dB, is compressed into a much narrower electrical range.",
+    "This compression is done between two individual levels measured for each electrode.",
+    {
+     "yazi": "These are the T level, where stimulation is first noticed, and the C level, where it is comfortable; together they form the map."
+    },
+    "Each channel's information is then delivered to its electrode as brief electrical pulses, usually in turn, without overlapping.",
+    "Delivering pulses in turn reduces interaction between the currents of neighboring electrodes."
+   ]
+  },
+  {
+   "id": "tonotopi",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "From sound to electricity",
+   "baslik": "The *frequency map* along the cochlea",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: high pitches",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "apex: low pitches",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "round window",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Basal electrode: high frequency",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "The array may not reach the apex",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "The brain adapts over time",
+     "cumle": 7,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The implant makes use of the cochlea's natural frequency map; this is called tonotopy.",
+    "The base of the cochlea, the part near the oval window, corresponds to high frequencies.",
+    "The apex, in turn, corresponds to low frequencies.",
+    "So high-frequency channel information goes to electrodes near the base, and low-frequency information to deeper electrodes.",
+    "The electrode array enters near the round window and advances from the base toward the apex.",
+    "The cochlea makes about two and a half turns, and the electrode array often does not reach the apex.",
+    "This can create a mismatch between the frequency delivered and the region of nerve stimulated.",
+    "So at first, sounds may seem high-pitched or mechanical; over time the brain largely adapts to this new code."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Differences from natural hearing",
+   "baslik": "Natural hearing and the *implant*",
+   "sutunlar": [
+    "Feature",
+    "Natural hearing",
+    "Cochlear implant"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Frequency resolution",
+      "Thousands of hair cells",
+      "Few effective channels"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Dynamic range",
+      "About 120 dB",
+      "Narrow electrical range"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Temporal fine structure",
+      "Preserved",
+      "Largely lost"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Music and pitch",
+      "Detailed",
+      "Limited"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Speech in noise",
+      "Relatively good",
+      "Often difficult"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "In the natural ear, frequency resolution comes from thousands of hair cells and nerve fibers.",
+    "In an implant the number of electrodes is limited, and because current spreads, effective channels are often fewer than electrodes.",
+    "The wide dynamic range of the natural ear is compressed into a narrow electrical range in the implant.",
+    "The temporal fine structure of sound is largely not transmitted by the implant; this information matters for pitch and timbre.",
+    "This is why listening to music, and telling melodies and instruments apart, is often hard for implant users.",
+    "Understanding speech in noise is also much harder than in quiet.",
+    "Even so, many users reach a level where they can understand speech in quiet without lipreading.",
+    "Knowing these differences is important for setting realistic expectations with users and their families."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Differences from natural hearing",
+   "baslik": "Activation and *adjustment*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "Activation",
+     "metin": "Weeks after surgery",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Programming",
+     "metin": "Threshold and comfort levels",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "First sounds",
+     "metin": "Mechanical, more natural over time",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Rehabilitation",
+     "metin": "Regular auditory training",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The external unit is usually fitted and switched on for the first time a few weeks after surgery; this is called activation.",
+    "The audiologist sets threshold and comfort levels for each electrode; this is called programming, or mapping.",
+    "The map is updated often in the first months, because levels change as the person gets used to electrical stimulation.",
+    "Users often describe the first sounds as robotic, metallic or high-pitched.",
+    "Over time the brain learns to make sense of this new signal; this can take weeks to months.",
+    "Regular use and auditory rehabilitation are the foundation of this learning process.",
+    "Outcomes vary between people; duration of deafness, age at implantation and auditory nerve status are among the key factors."
+   ]
+  },
+  {
+   "id": "rezidual",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Differences from natural hearing",
+   "baslik": "Residual hearing: *hybrid* and bimodal",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Residual hearing",
+     "metin": "Low frequencies can be preserved",
+     "cumle": 0
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Hybrid",
+     "metin": "Electric and acoustic together",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bimodal",
+     "metin": "Implant plus hearing aid in other ear",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Some people have usable residual hearing at low frequencies, and careful surgical technique aims to preserve it.",
+    "In that case, in the same ear, high frequencies can be stimulated electrically and low frequencies acoustically.",
+    "Using electrical and acoustic stimulation together is called electroacoustic stimulation, or a hybrid fitting.",
+    "When a person uses an implant in one ear and a hearing aid in the other, this is called a bimodal fitting.",
+    "The pitch and timing information carried by acoustic hearing can fill in some details the implant leaves out.",
+    "So assessing and preserving residual hearing is an important part of the implant process."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "For daily listening checks in children with implants, use the Ling six sound test: m, oo, ah, ee, sh, s. A missed sound may signal a device or map problem.",
+   "cumleler": [
+    "A tip from the field: for daily listening checks in children with implants, the Ling six sound test is a practical tool.",
+    {
+     "yazi": "The test uses six sounds spoken with the lips hidden: m, oo, ah, ee, sh and s.",
+     "ses": "The test uses six sounds spoken with the lips hidden: mmm, ooo, ah, ee, shhh and sss."
+    },
+    "These sounds cover most of the speech frequency range, from low to high.",
+    "If the child does not respond to a sound they detected before, there may be a hardware fault or a need for a map update.",
+    "Teaching the family to do this test every morning helps problems to be noticed early."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "The implant bypasses the hair cells",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "External unit processes, internal unit stimulates",
+     "cumle": 1,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "High pitches at base, low at apex",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Few channels, narrow dynamic range",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that a cochlear implant bypasses damaged hair cells and stimulates the auditory nerve directly.",
+    "The external unit picks up and processes sound; the internal unit receives power and data across the skin and passes them to the electrodes.",
+    "The electrodes stimulate according to the cochlea's frequency map: high frequencies at the base, lower toward the apex.",
+    "Few channels, a narrow dynamic range and lost fine timing set implant hearing apart from natural hearing."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In a cochlear implant, which electrode receives high-frequency information?",
+   "secenekler": [
+    "The one nearest the apex",
+    "One near the base",
+    "The one outside the cochlea",
+    "All electrodes equally"
+   ],
+   "dogru": 1,
+   "aciklama": "The base of the cochlea corresponds to high frequencies: _tonotopy_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a cochlear implant, which electrode receives the high-frequency channel's information?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: an electrode near the base of the cochlea.",
+    "The base of the cochlea corresponds to high frequencies and the apex to low; the implant uses this tonotopic order."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cochlear Implant *Candidacy* in Children and Adults",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will examine cochlear implant candidacy in children and adults, and the expanding criteria.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

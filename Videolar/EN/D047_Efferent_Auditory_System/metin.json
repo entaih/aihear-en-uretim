@@ -1,0 +1,728 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D047_Efferent_Auditory_System_EN",
+ "kapak": {
+  "ust": "LESSON 47",
+  "baslik": "Efferent<br>*auditory system*",
+  "alt": "The olivocochlear bundle and OAE suppression",
+  "cizim": "corti",
+  "vurgula": [
+   "dis_tuy_hucreleri"
+  ]
+ },
+ "youtube": {
+  "baslik": "The Efferent Auditory System: Olivocochlear Bundle | Lesson 47 | AIHEAR Audiology Academy",
+  "aciklama": "How does the brain adjust the ear? In this lesson we learn about the efferent auditory system, the medial and lateral olivocochlear fibers, the inhibitory effect of MOC fibers on the outer hair cells and the cochlear amplifier, the MOC reflex, and how this effect is measured with contralateral OAE suppression.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Guinan (2006), Olivocochlear efferents: anatomy, physiology, function, and the measurement of efferent effects in humans, Ear and Hearing; Rasmussen (1946), The olivary peduncle and other fiber projections of the superior olivary complex, Journal of Comparative Neurology; Collet et al. (1990), Effect of contralateral auditory stimuli on active cochlear micro-mechanical properties in human subjects, Hearing Research; Pickles, An Introduction to the Physiology of Hearing; Hall, Handbook of Otoacoustic Emissions.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "efferent",
+   "OAE"
+  ],
+  "etiketler": [
+   "efferent system",
+   "olivocochlear bundle",
+   "medial olivocochlear",
+   "MOC reflex",
+   "outer hair cells",
+   "contralateral suppression",
+   "TEOAE",
+   "otoacoustic emissions",
+   "cochlear amplifier",
+   "hearing physiology",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 47",
+   "baslik": "The *efferent* auditory system",
+   "alt": "The olivocochlear bundle",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about the efferent auditory system that runs from the brain to the ear, especially the olivocochlear bundle.",
+    "We will see the medial and lateral olivocochlear fibers, their effect on the outer hair cells, and how otoacoustic emissions measure it."
+   ]
+  },
+  {
+   "id": "yon",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The efferent pathway",
+   "baslik": "From the brain *to the ear*",
+   "cizim": "isitme_yolu",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_korteksi",
+     "metin": "Auditory cortex",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "Inferior colliculus",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Superior olivary complex",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Afferent: _ear to brain_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Efferent: _brain to ear_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Last link: _olivocochlear bundle_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "So far we have mostly followed the auditory pathway upward, from the cochlea to the cortex; this is called the afferent direction.",
+    "Information also flows the other way; fibers running down from the cortex to the brainstem, and on to the cochlea, are efferent fibers.",
+    "The efferent pathway has several stages; the auditory cortex and inferior colliculus send fibers down to nuclei in the brainstem.",
+    "The last link in this chain is the olivocochlear bundle, which runs from the superior olivary complex to the cochlea.",
+    {
+     "yazi": "The olivocochlear bundle was first described in detail by Rasmussen in 1946.",
+     "ses": "The olivocochlear bundle was first described in detail by Rasmussen in nineteen forty six."
+    },
+    "In this way, the brain can partly adjust how the ear processes incoming sound."
+   ],
+   "ayar": {
+    "efferent": true,
+    "kortikal_cumle": 2,
+    "ocb_cumle": 3
+   }
+  },
+  {
+   "id": "iki_sistem",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The efferent pathway",
+   "baslik": "Medial and *lateral* fibers",
+   "cizim": "corti",
+   "yakinlastir": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 6,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 7
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "MOC: to outer hair cells",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "LOC: to afferent fiber endings",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Olivocochlear fibers fall into two groups according to where they start in the superior olivary complex.",
+    "Medial olivocochlear fibers, or MOC fibers, arise from nuclei around the medial superior olive.",
+    "These fibers are thick and myelinated; most cross to the other side before reaching the cochlea.",
+    "MOC fibers synapse directly at the base of the outer hair cells.",
+    "Lateral olivocochlear fibers, or LOC fibers, arise in and around the lateral superior olive.",
+    "These fibers are thin and unmyelinated; most go to the cochlea on the same side.",
+    "LOC fibers do not connect to the inner hair cells but to the endings of the type one afferent fibers beneath them.",
+    "Both groups are far fewer than the afferent fibers, but their effect on cochlear processing is clear."
+   ]
+  },
+  {
+   "id": "moc_etki",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The efferent pathway",
+   "baslik": "MOC: the amplifier's *volume knob*",
+   "cizim": "dis_tuy_hucresi",
+   "ayar": {
+    "mod": "uclu",
+    "cumleler": [
+     3,
+     1,
+     1
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "prestin",
+     "cumle": 1
+    },
+    {
+     "parca": "hiperpolarizasyon",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prestin",
+     "metin": "Prestin",
+     "cumle": 1
+    },
+    {
+     "parca": "hiperpolarizasyon",
+     "metin": "Hyperpolarization",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "MOC ending: _acetylcholine_ released",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Cell is _hyperpolarized_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cochlear gain _decreases_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "To understand the effect of MOC fibers, let us recall the role of the outer hair cells in the cochlear amplifier.",
+    "Thanks to the motor protein prestin, outer hair cells lengthen and shorten with electrical changes and boost basilar membrane vibration.",
+    "When MOC fibers are activated, acetylcholine is released from their endings.",
+    "Acetylcholine triggers calcium entry into the outer hair cell, then potassium exit; the cell becomes hyperpolarized.",
+    "As a result, the electromotile response of the outer hair cell decreases; that is, the gain of the cochlear amplifier drops.",
+    "Basilar membrane vibration decreases, especially for sounds at low and moderate levels.",
+    "In short, the MOC system works like a volume knob for the cochlear amplifier."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "The MOC reflex",
+   "baslik": "The MOC *reflex* arc",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Sound",
+     "metin": "The cochlea detects it",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Cochlear nucleus",
+     "metin": "Via type I fibers",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "MOC neurons",
+     "metin": "Olivary complex on both sides",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Outer hair cells",
+     "metin": "Gain decreases",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "MOC fibers are part of a reflex arc; this reflex works automatically in response to sound.",
+    "Sound is detected in the cochlea and carried to the cochlear nucleus by type one afferent fibers.",
+    "Fibers from the cochlear nucleus activate MOC neurons in the superior olivary complex on both sides.",
+    "The MOC neurons in turn send feedback to the outer hair cells through their own fibers.",
+    "So whether sound is presented to the same ear or the opposite ear, an MOC effect appears in the cochlea.",
+    "The fast effect of the reflex appears within a few tens of milliseconds; animal studies have also shown a slow effect over tens of seconds."
+   ]
+  },
+  {
+   "id": "islev",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The MOC reflex",
+   "baslik": "*What* is the efferent system for?",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Listening in noise",
+     "metin": "Unmasking",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protection",
+     "metin": "Shown in animal studies",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Attention",
+     "metin": "Helps selective listening",
+     "cumle": 5
+    },
+    {
+     "ikon": "noron",
+     "baslik": "LOC",
+     "metin": "Adjusts afferent firing",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "There are three main views on what the efferent system does, and all three are still being studied.",
+    "The strongest evidence concerns listening in noise; steady background noise drives nerve fibers and fills up their response range.",
+    "The MOC effect reduces the response to noise, so fibers can respond again to changing sounds such as speech; this is called unmasking.",
+    "The second view is based on animal experiments; strong MOC activity can somewhat reduce cochlear damage from loud noise.",
+    "However, how important this protection is in natural settings is debated.",
+    "According to the third view, the efferent system helps direct attention to one ear or to a particular sound.",
+    "The function of LOC fibers is less well known; they are thought to adjust afferent firing and balance the sensitivity of the two ears."
+   ]
+  },
+  {
+   "id": "baskilama",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Measuring it in the clinic",
+   "baslik": "Contralateral *suppression*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "vurgula": [
+    {
+     "parca": "uyaran",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emission amplitude decreases",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Test ear: _TEOAE_ recording",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Opposite ear: _broadband noise_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Normally about _1 to 2 dB_ reduction",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In humans we cannot measure MOC fibers directly, but we can see their effects through otoacoustic emissions, or OAEs.",
+    "Because OAEs arise from outer hair cell activity, the MOC effect changes the amplitude of the emission.",
+    "In the most common method, transient evoked otoacoustic emissions, or TEOAEs, are first recorded in one ear.",
+    "Then the measurement is repeated while broadband noise is presented to the opposite ear.",
+    "The noise in the opposite ear activates the MOC reflex, and the emission amplitude in the test ear decreases.",
+    "This reduction is called contralateral suppression; in normal adults it is usually about one to two decibels.",
+    "Because the effect is small, the measurement needs care, repetition and a good noise floor."
+   ]
+  },
+  {
+   "id": "grafik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Measuring it in the clinic",
+   "baslik": "An emission that *shrinks* with noise",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 800,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency band (Hz)",
+     "isaretler": [
+      1000,
+      1500,
+      2000,
+      3000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 16,
+     "isaretler": [
+      0,
+      4,
+      8,
+      12,
+      16
+     ],
+     "ad": "TEOAE amplitude (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "sessiz",
+      "noktalar": [
+       [
+        1000,
+        12
+       ],
+       [
+        1500,
+        13
+       ],
+       [
+        2000,
+        11.5
+       ],
+       [
+        3000,
+        9.5
+       ],
+       [
+        4000,
+        7.5
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "cumle": 1,
+      "etiket": "no noise",
+      "etiket_konum": [
+       1000,
+       12
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -18
+     },
+     {
+      "ad": "gurultulu",
+      "noktalar": [
+       [
+        1000,
+        10.4
+       ],
+       [
+        1500,
+        11.6
+       ],
+       [
+        2000,
+        10.2
+       ],
+       [
+        3000,
+        8.4
+       ],
+       [
+        4000,
+        6.8
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "isaretli": true,
+      "cumle": 1,
+      "etiket": "noise in opposite ear",
+      "etiket_konum": [
+       3000,
+       8.4
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 28
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "xk": 1500,
+      "y": [
+       13,
+       11.6
+      ],
+      "etiket": "MOC effect",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "fark",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The graph shows the TEOAE amplitudes of a sample ear by frequency band; the values are examples.",
+    "The navy line is the amplitude without noise, and the blue dashed line is the amplitude measured with noise in the opposite ear.",
+    "The difference of about one to one and a half decibels between the two lines reflects the MOC effect.",
+    "The size of the suppression varies between people, so the laboratory's own norms are used instead of a single cut-off value.",
+    "To capture the small effect, the linear mode of the click stimulus and a moderate stimulus level are preferred."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Measuring it in the clinic",
+   "baslik": "Test *conditions*",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Immittance first",
+     "metin": "Middle ear and reflex",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "TEOAE recording",
+     "metin": "Linear mode",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Opposite-ear noise",
+     "metin": "Below reflex threshold",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Compare",
+     "metin": "Alternating repeats",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A few conditions matter for a reliable measurement.",
+    "First, tympanometry and acoustic reflex thresholds are measured; the middle ear should be normal and OAEs should be recordable.",
+    "The TEOAE is recorded in the linear mode of the click stimulus, at a moderate or low level.",
+    "The noise in the opposite ear is kept below the acoustic reflex threshold; most studies use about sixty decibels SPL.",
+    "This is because the stapedius reflex can also change the emission; if it kicks in, the reduction may be mistaken for an MOC effect.",
+    "Recordings with and without noise are taken several times in alternation, and the mean amplitude difference is calculated."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical importance",
+   "baslik": "*When* is suppression reduced?",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "ANSD",
+     "metin": "OAE present, no suppression",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Nerve, brainstem",
+     "metin": "Lesion in the reflex pathway",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vestibular neurectomy",
+     "metin": "Fibers are cut",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Research",
+     "metin": "Processing, tinnitus: inconsistent",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Today contralateral suppression is used mostly in research, but it can be helpful in some clinical situations.",
+    "In auditory neuropathy spectrum disorder, or ANSD, suppression is usually absent even though OAEs are present.",
+    "Suppression can also be reduced or absent with lesions affecting the auditory nerve or the reflex pathway in the brainstem.",
+    "On their way to the cochlea, olivocochlear fibers run with the vestibular nerve; the effect can be lost after vestibular neurectomy.",
+    "Reduced suppression is reported in auditory processing disorder, tinnitus and difficulty hearing in noise, but findings are inconsistent.",
+    "So a suppression result alone does not establish a diagnosis; it is interpreted together with other tests."
+   ]
+  },
+  {
+   "id": "ayrim",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical importance",
+   "baslik": "The MOC reflex and the *stapedius* reflex",
+   "maddeler": [
+    {
+     "metin": "Both are _brainstem_ reflexes",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Stapedius: _middle ear_, loud sound",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "MOC: _cochlea_, low levels too",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Measured with _immittance_ or _OAE_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "akustik_refleks_arki",
+    "cumle": 1,
+    "ayar": {
+     "uyarilan": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 4
+     },
+     {
+      "parca": "stapedius",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The MOC reflex should not be confused with the middle ear muscle reflex; both are brainstem reflexes triggered by sound.",
+    "The stapedius reflex stiffens the ossicular chain and appears for loud sounds, normally at about seventy to one hundred decibels HL.",
+    "The MOC reflex acts directly in the cochlea, on the outer hair cells, and is active at much lower levels too.",
+    "The stapedius reflex is measured with immittance testing, and the MOC effect with OAEs.",
+    "Both reflex pathways pass near the superior olivary complex in the brainstem, so the same lesion can affect both."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Take care in the clinic",
+   "metin": "Keep the room quiet during OAE testing. Room noise and the patient's talking can activate the efferent system and slightly shrink the emission; keep conditions constant in monitoring.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from practice: a quiet room during OAE testing matters not only for the noise floor but also for the efferent effect.",
+    "Room noise and the patient's talking can activate the MOC system and slightly lower the emission amplitude.",
+    "Especially when comparing two measurements, for example in ototoxicity monitoring, keep the conditions the same each time.",
+    "Before interpreting small amplitude changes, make sure the probe placement and test settings are the same."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "MOC: to _outer hair cells_, mostly crossed",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "LOC: to _afferent fiber_ endings",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "MOC effect: cochlear _gain decreases_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Measured by _contralateral OAE suppression_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Medial olivocochlear fibers are thick and myelinated, mostly crossed, and end on the outer hair cells.",
+    "Lateral olivocochlear fibers are thin and unmyelinated; they connect to the afferent fiber endings below the inner hair cells.",
+    "MOC activity hyperpolarizes the outer hair cells and reduces the gain of the cochlear amplifier.",
+    "This effect is measured as the drop in OAE amplitude when noise is presented to the opposite ear: contralateral suppression."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which fibers does contralateral suppression reflect?",
+   "secenekler": [
+    "Medial olivocochlear fibers",
+    "Lateral olivocochlear fibers",
+    "Nerve to the stapedius",
+    "Type II afferent fibers"
+   ],
+   "dogru": 0,
+   "aciklama": "MOC fibers suppress the _outer hair cells_, so the OAE amplitude decreases.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: when noise is presented to the opposite ear, the drop in OAE amplitude reflects which fibers?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: the medial olivocochlear fibers.",
+    "MOC fibers reduce outer hair cell gain; because OAEs come from the outer hair cells, their amplitude shrinks."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Central Vestibular *Pathways*: Nuclei, Cerebellum, Eyes",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move from hearing to balance and look at the central vestibular pathways, the nuclei and the cerebellum.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R406_One_Ear_One_Sixth_EN",
+ "kapak": {
+  "ust": "QUICK FACT #406",
+  "baslik": "One ear's *share*",
+  "alt": "Example: total loss in one ear",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 110,
+    "ad": "Four-frequency average (dB HL)",
+    "isaretler": [
+     0,
+     25,
+     45,
+     65,
+     92,
+     110
+    ]
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 20,
+    "ad": "Monaural percentage"
+   },
+   "seriler": [
+    {
+     "ad": "yuzde",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       25,
+       0
+      ],
+      [
+       45,
+       30
+      ],
+      [
+       65,
+       60
+      ],
+      [
+       91.7,
+       100
+      ],
+      [
+       110,
+       100
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "alt_sinir",
+     "x": 25,
+     "y": 0,
+     "cizgi": "dikey",
+     "etiket": "low fence: 25 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "ornek",
+     "x": 45,
+     "y": 30,
+     "dus": "xy",
+     "etiket": "45 dB: 30 percent",
+     "cumle": 3
+    },
+    {
+     "ad": "ust_sinir",
+     "x": 91.7,
+     "y": 100,
+     "cizgi": "dikey",
+     "etiket": "high fence: about 92 dB",
+     "cumle": 4
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "kayip_yok",
+     "x": [
+      0,
+      25
+     ],
+     "renk": "gri",
+     "etiket": "0 percent",
+     "cumle": 1
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "If one ear hears nothing, what percentage does the calculation give? #shorts",
+  "aciklama": "In the 1979 method of the American Academy of Otolaryngology (AAO-1979), the binaural rating multiplies the better ear percentage by five, adds the poorer ear percentage and divides the total by six. In an example calculation where one ear is normal and the other has a total loss, the result is about 16.7 percent, that is, one sixth; official ratings are set by the regulations in force.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "medicolegal",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "hearing loss percentage",
+   "medicolegal assessment",
+   "AAO-1979",
+   "binaural rating",
+   "unilateral hearing loss",
+   "disability rating",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "If one ear hears nothing, what percentage does the calculation give?",
+  "bilgiler": [
+   "Better ear times five, plus the poorer ear, divided by six.",
+   "In the example, total loss in one ear gives about 16.7 percent.",
+   "Official ratings are set by the regulations in force."
+  ],
+  "hashtag": [
+   "audiology",
+   "medicolegal",
+   "hearingloss"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #406",
+   "metin": "What *percentage?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "If one ear hears nothing, what percentage does the calculation give?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Binaural *rating*",
+   "sayi": "1/6",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "This example uses the method of the American Academy of Otolaryngology.",
+    "Better ear times five, plus the poorer ear, divided by six.",
+    "Example: one ear is normal, the other has a total loss.",
+    "The result is about sixteen point seven percent, or one in six.",
+    "Difficulty in noise and localization is not fully reflected in this number."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D227",
+ "kaynak_baslik": "Medicolegal Basics: Calculating Hearing Handicap"
+}

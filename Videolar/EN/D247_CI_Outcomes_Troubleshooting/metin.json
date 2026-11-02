@@ -1,0 +1,812 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D247_CI_Outcomes_Troubleshooting_EN",
+ "kapak": {
+  "ust": "LESSON 247",
+  "baslik": "Outcomes and<br>*troubleshooting*",
+  "alt": "Failure, integrity testing, MRI safety",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Cochlear Implant Outcomes and Troubleshooting | Lesson 247 | AIHEAR Audiology Academy",
+  "aciklama": "Why do some people do very well with a cochlear implant while others get limited benefit, and what do we do when performance drops? In this lesson we cover the factors that affect outcome, external and internal device problems, hard and soft failures, integrity testing, device reliability and MRI safety.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Blamey et al. (2013), Factors affecting auditory performance of postlinguistically deaf adults using cochlear implants: an update with 2251 patients, Audiology and Neurotology; Balkany et al. (2005), Cochlear implant soft failures consensus development conference statement, Otology and Neurotology; Battmer et al. (2010), International classification of reliability for implanted cochlear implant receiver stimulators, Otology and Neurotology; Wolfe, Cochlear Implants.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "hearing"
+  ],
+  "etiketler": [
+   "cochlear implant outcomes",
+   "device failure",
+   "integrity test",
+   "soft failure",
+   "hard failure",
+   "MRI safety",
+   "cochlear implant magnet",
+   "impedance",
+   "troubleshooting",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 247",
+   "baslik": "Outcomes and *troubleshooting*",
+   "alt": "Failure, integrity testing, MRI safety",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the factors that affect performance after implantation, and the steps to follow when performance drops.",
+    "We will cover external and internal unit problems, device failure, integrity testing and magnetic resonance imaging, or MRI, safety."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What affects performance",
+   "baslik": "Factors that *shape outcome*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Duration of deafness",
+     "cumle": 1,
+     "metin": "Longer may mean less benefit"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Age at implant",
+     "cumle": 3,
+     "metin": "Earlier is better in children"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Anatomy and nerve",
+     "cumle": 4,
+     "metin": "Cochlea, nerve, electrode"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Use and support",
+     "cumle": 5,
+     "metin": "Regular use, training"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cognition",
+     "cumle": 6,
+     "metin": "Attention and memory"
+    }
+   ],
+   "cumleler": [
+    "Implant outcomes vary over a very wide range between people; part of this variability can be explained by known factors.",
+    {
+     "yazi": "In the 2013 study by Blamey and colleagues with 2251 adults, the duration of severe loss was among the factors that most affected outcome.",
+     "ses": "In the twenty thirteen study by Blamey and colleagues with twenty two hundred fifty one adults, the duration of severe loss was among the factors that most affected outcome."
+    },
+    "In the same study, results improved with longer implant experience; in other words, progress is not limited to the first months.",
+    "In a child with congenital profound loss, age at implantation is decisive; in adults with postlingual loss, results usually come faster.",
+    "Cochlear anomalies, the state of the cochlear nerve and the position of the electrode in the cochlea can also limit outcome.",
+    "Use during all waking hours, regular rehabilitation and support from family or others clearly affect outcome.",
+    "In older adults, cognitive status may also matter; even so, advanced age alone does not prevent benefit."
+   ]
+  },
+  {
+   "id": "elektrot_yeri",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What affects performance",
+   "baslik": "Electrode *position* matters",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_tympani",
+     "metin": "target: scala tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "basilar membrane",
+     "cumle": 2
+    },
+    {
+     "parca": "scala_vestibuli",
+     "metin": "scala vestibuli",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "spiral ganglion",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_vestibuli",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Postoperative imaging gives important information about where the electrode array lies in the cochlea.",
+    "The target of the electrode array is the scala tympani.",
+    "If the array pierces the basilar membrane into the scala vestibuli, this is called translocation; it has been linked to poorer results.",
+    "A tip fold-over of the array, or partial extrusion of the array from the cochlea, can also lower performance.",
+    "The distance of the electrodes from the spiral ganglion cells and the insertion depth affect levels and channel discrimination.",
+    "So when performance is lower than expected, reviewing the imaging again is part of troubleshooting."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Troubleshooting",
+   "baslik": "The troubleshooting *pathway*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Complaint",
+     "cumle": 0,
+     "metin": "What, when?"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "External unit",
+     "cumle": 1,
+     "metin": "Swap with spares"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Map",
+     "cumle": 2,
+     "metin": "Impedance and levels"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Integrity test",
+     "cumle": 3,
+     "metin": "With the manufacturer"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Team decision",
+     "cumle": 4,
+     "metin": "Surgery if needed"
+    }
+   ],
+   "cumleler": [
+    "When a problem is reported, first take a detailed history: what changed, when did it start, is it constant or intermittent?",
+    "The first step is to check the external unit, because most problems come from its parts.",
+    "If the external unit is fine, impedances are measured with telemetry, levels are reviewed and the map is updated.",
+    "If the problem persists and the internal unit is suspected, an integrity test is planned with the manufacturer.",
+    "The results are reviewed by the team; if needed, a surgical decision is made to replace the internal unit.",
+    "Findings are recorded at every step; these records are needed both for the decision and for reporting to the manufacturer."
+   ]
+  },
+  {
+   "id": "dis_unite",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Troubleshooting",
+   "baslik": "*Common problems* in the external unit",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Battery",
+     "cumle": 0,
+     "metin": "Empty or weak"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cable",
+     "cumle": 1,
+     "metin": "Broken or loose"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Coil, magnet",
+     "cumle": 2,
+     "metin": "Not holding, no link"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Microphone",
+     "cumle": 3,
+     "metin": "Dirt, moisture, wear"
+    }
+   ],
+   "cumleler": [
+    "If the battery is empty or weak, the processor may shut off or the sound may come and go.",
+    "The cable between processor and coil is among the parts that fail most often; a broken cable causes intermittent loss of sound.",
+    "If the coil sits poorly on the skin or the magnet is weak, the link to the internal unit drops; the processor usually gives an alert.",
+    "Microphone ports blocked by dirt or moisture make sound muffled and weak; protective covers are replaced regularly.",
+    "In the clinic, the fastest method is to find the problem by swapping parts one by one with spares.",
+    "The microphone can be checked by listening with monitor earphones; the Ling sounds are also used for the person's daily check.",
+    "Using a drying container and regular care prevent a large share of these problems."
+   ]
+  },
+  {
+   "id": "ic_unite",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Troubleshooting",
+   "baslik": "When to *suspect* the internal unit",
+   "maddeler": [
+    {
+     "metin": "No change with a new external unit",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Sudden change in impedances",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pain, buzzing, twitching",
+     "cumle": 2,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Unexplained drop in performance",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "alici_uyarici",
+      "cumle": 0
+     },
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "alici_uyarici",
+      "metin": "internal unit",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "If the problem persists even though all parts of the external unit have been replaced, the internal unit is suspected.",
+    "A sudden change in impedances compared with earlier measurements, or new open or short circuits, suggests an internal unit problem.",
+    "The person may describe new, unexplained sensations such as pain, buzzing, popping sounds or facial twitching.",
+    "These symptoms are sometimes linked only to certain electrodes and resolve when those electrodes are switched off.",
+    "An unexplained drop in the speech scores of a user who has done well for a long time is also an important warning sign.",
+    "A history of head impact, such as a fall or a blow, should always be asked about, as it is a common cause of internal unit damage."
+   ]
+  },
+  {
+   "id": "ariza",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Device failure",
+   "baslik": "Hard failure and *soft failure*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Hard failure",
+     "cumle": 0,
+     "metin": "No link or abnormal test"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Soft failure",
+     "cumle": 2,
+     "metin": "Normal tests, symptoms present"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Exclusion",
+     "cumle": 4,
+     "metin": "Other causes ruled out"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Replacement",
+     "cumle": 5,
+     "metin": "Team decision"
+    }
+   ],
+   "cumleler": [
+    "Device failure falls into two groups; in a hard failure, the internal unit fails, or telemetry and the integrity test are clearly abnormal.",
+    "In this case the diagnosis is easy, and the internal unit is usually replaced surgically.",
+    "A soft failure, by contrast, is a drop in performance or nonauditory symptoms while the tests look normal.",
+    {
+     "yazi": "This concept was defined at a consensus conference in 2005.",
+     "ses": "This concept was defined at a consensus conference in two thousand five."
+    },
+    "Soft failure is a diagnosis of exclusion; first, the external unit, map, medical causes and electrode position are ruled out.",
+    "If symptoms persist and no other cause is found, the team may decide to replace the internal unit.",
+    "When explanted devices are examined by the manufacturer, a true fault is sometimes found and sometimes not."
+   ]
+  },
+  {
+   "id": "butunluk",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Device failure",
+   "baslik": "The *integrity test*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Electrode (example)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Signal measured on the scalp (relative)"
+    },
+    "seriler": [
+     {
+      "ad": "beklenen",
+      "noktalar": [
+       [
+        1,
+        60
+       ],
+       [
+        2,
+        64
+       ],
+       [
+        3,
+        56
+       ],
+       [
+        4,
+        60
+       ],
+       [
+        5,
+        64
+       ],
+       [
+        6,
+        56
+       ],
+       [
+        7,
+        60
+       ],
+       [
+        8,
+        64
+       ],
+       [
+        9,
+        56
+       ],
+       [
+        10,
+        60
+       ],
+       [
+        11,
+        64
+       ],
+       [
+        12,
+        56
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "expected",
+      "cumle": 2
+     },
+     {
+      "ad": "olculen",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        60
+       ],
+       [
+        2,
+        64
+       ],
+       [
+        3,
+        56
+       ],
+       [
+        4,
+        60
+       ],
+       [
+        5,
+        64
+       ],
+       [
+        6,
+        56
+       ],
+       [
+        7,
+        60
+       ],
+       [
+        8,
+        8
+       ],
+       [
+        9,
+        8
+       ],
+       [
+        10,
+        60
+       ],
+       [
+        11,
+        64
+       ],
+       [
+        12,
+        56
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sorun",
+      "x": 8.5,
+      "y": 8,
+      "etiket": "abnormal",
+      "dolu": true,
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "sorun",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The integrity test checks from outside whether the internal unit really delivers the correct current to each electrode.",
+    "Surface electrodes are placed on the scalp, and the implant stimulates each electrode in turn at a low level.",
+    "The small electrical trace of the stimulation reaching the scalp is recorded and compared with the expected pattern.",
+    "In this example, most electrodes are at the expected level.",
+    "At the eighth and ninth electrodes, however, there is almost no signal; this may point to an internal unit problem.",
+    "The test is often done with the manufacturer's specialist, and its results are used for the surgical decision."
+   ]
+  },
+  {
+   "id": "guvenilirlik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Device failure",
+   "baslik": "Device *reliability*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "ad": "Years after implantation",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+     ]
+    },
+    "y": {
+     "min": 90,
+     "max": 100,
+     "adim": 2,
+     "ad": "Devices still working (percent)"
+    },
+    "seriler": [
+     {
+      "ad": "sagkalim",
+      "noktalar": [
+       [
+        0,
+        100
+       ],
+       [
+        1,
+        99.6
+       ],
+       [
+        2,
+        99.3
+       ],
+       [
+        4,
+        98.8
+       ],
+       [
+        6,
+        98.2
+       ],
+       [
+        8,
+        97.6
+       ],
+       [
+        10,
+        97.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 4,
+      "etiket": "schematic curve",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Manufacturers report the reliability of their devices as a cumulative survival rate, based on an international consensus.",
+    "This schematic curve shows the proportion of devices still working as time passes.",
+    "The ten-year rates reported for current internal units are usually above ninety five percent; values vary by model.",
+    "So failure is rare; but in a device used for many years, it is always a possibility.",
+    "The person and family are told this before surgery; especially for children, protection against head impacts is discussed."
+   ]
+  },
+  {
+   "id": "mr",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "MRI safety",
+   "baslik": "MRI and the *magnet*",
+   "ogeler": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Magnet",
+     "cumle": 0,
+     "metin": "Pulled in a strong field"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Pain, displacement",
+     "cumle": 2,
+     "metin": "Possible despite bandage"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Image shadow",
+     "cumle": 6,
+     "metin": "Around the implant"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Manufacturer conditions",
+     "cumle": 7,
+     "metin": "Model specific"
+    }
+   ],
+   "cumleler": [
+    "The magnet in the internal unit is pulled and forced to rotate in the strong magnetic field of the MRI scanner.",
+    "Many internal units are compatible with MRI under the conditions the manufacturer specifies; this is called MRI conditional.",
+    "With some models, scanning at lower field strengths can be done with a tight bandage wrapped around the head.",
+    "However, pain and magnet displacement have been reported despite the bandage; this is a rare but serious complication.",
+    "With some models, the magnet is temporarily removed with minor surgery for higher field strengths.",
+    "Some newer designs reduce this need by letting the magnet rotate within its own housing.",
+    "The magnet and internal unit create a shadow on the image around the implant, which can make that region of the brain harder to assess.",
+    "Because the rules differ by model, MRI safety decisions are always based on the manufacturer's current conditions."
+   ]
+  },
+  {
+   "id": "mr_akis",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "MRI safety",
+   "baslik": "A pre-MRI *checklist*",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Implant card",
+     "cumle": 0,
+     "metin": "Model information"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Conditions",
+     "cumle": 1,
+     "metin": "Field strength, bandage"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Team",
+     "cumle": 2,
+     "metin": "Radiology and implant"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "External unit",
+     "cumle": 3,
+     "metin": "Stays out of the room"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Afterward",
+     "cumle": 4,
+     "metin": "Coil and sound check"
+    }
+   ],
+   "cumleler": [
+    "Implant users are taught to always carry the implant card that shows their device model.",
+    "When MRI is planned, that model's conditions, such as field strength and bandaging, are checked in the manufacturer's current documents.",
+    "The radiology team and the implant team decide together; if needed, another imaging method is considered.",
+    "The external unit and processor are never taken into the MRI room.",
+    "After the scan, coil retention, sound quality and, if needed, impedances are checked; the team is informed of any pain or swelling.",
+    "These steps are repeated for every scan to prevent rare but serious complications."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "MRI safety",
+   "baslik": "Other *precautions*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Surgical cautery",
+     "cumle": 0,
+     "metin": "No monopolar in head and neck"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Diathermy",
+     "cumle": 1,
+     "metin": "Not used for treatment"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Static electricity",
+     "cumle": 2,
+     "metin": "Remove the processor"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Impact",
+     "cumle": 4,
+     "metin": "Helmet and protection"
+    }
+   ],
+   "cumleler": [
+    "In head and neck surgery, monopolar electrocautery is generally not used, because it can damage the internal unit.",
+    "Methods that heat tissue, such as therapeutic diathermy, should not be used in people with implants.",
+    "In settings with strong static electricity, such as plastic slides, removing the processor is recommended.",
+    "These recommendations may vary by manufacturer; the person and family should have an up-to-date information sheet.",
+    "Wearing a helmet in sports with a risk of head impact lowers the chance of damage to the internal unit."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Before suspecting the internal unit in a user whose performance has dropped, swap the external unit part by part with spares and compare with earlier impedances. Record the findings.",
+   "cumleler": [
+    "A tip from the clinic: before suspecting the internal unit when performance drops, swap external parts one by one with spares.",
+    "Then compare current impedances and levels side by side with the records of earlier visits.",
+    "Note the date the person or family noticed the problem, any accompanying symptoms and any possible head impacts.",
+    "Keeping such records can prevent an unnecessary operation, and also lets a true failure be recognized without delay."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Duration, age, nerve and use matter",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Check the external unit first",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Hard and soft failure differ",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "MRI: follow manufacturer conditions",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Duration of deafness, age at implant, the state of cochlea and nerve, electrode position and regular use clearly affect implant outcome.",
+    "In troubleshooting, the external unit is checked first with spares, then impedances and the map are reviewed.",
+    "In hard failure, tests are clearly abnormal; soft failure is a diagnosis of exclusion with persistent symptoms while tests are normal.",
+    "MRI is done following the manufacturer's conditions for the specific internal unit model, and by team decision."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Tests normal, symptoms persist: what is this?",
+   "secenekler": [
+    "Hard failure",
+    "Soft failure",
+    "Open circuit",
+    "Short circuit"
+   ],
+   "dogru": 1,
+   "aciklama": "_Soft failure_ is a diagnosis of exclusion made after other causes are ruled out.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what do we call a performance drop with nonauditory symptoms that persist although the tests are normal?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: soft failure.",
+    "Soft failure is a diagnosis of exclusion, made after the external unit, the map and medical causes have been ruled out."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Auditory Brainstem *Implant* (ABI)",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about the auditory brainstem implant, used when a cochlear implant is not possible.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

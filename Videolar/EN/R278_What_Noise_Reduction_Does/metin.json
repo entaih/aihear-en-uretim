@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R278_What_Noise_Reduction_Does_EN",
+ "kapak": {
+  "ust": "QUICK FACT #278",
+  "baslik": "What noise reduction *does*",
+  "alt": "Realistic expectations for digital noise reduction",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does noise reduction make speech in noise easier to understand? #shorts",
+  "aciklama": "Digital noise reduction lowers gain in channels where noise dominates, but because speech and noise in the same channel drop together, it cannot change the signal-to-noise ratio within a channel. Studies show more listening comfort, while speech understanding usually does not change clearly.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "noise"
+  ],
+  "etiketler": [
+   "digital noise reduction",
+   "DNR",
+   "signal-to-noise ratio",
+   "listening comfort",
+   "speech in noise",
+   "hearing aid",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does noise reduction make speech in noise easier to understand?",
+  "bilgiler": [
+   "Gain is reduced in channels where noise dominates.",
+   "Speech and noise in a channel drop together; the ratio holds.",
+   "Comfort improves; understanding usually does not change clearly."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "noise"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #278",
+   "metin": "More *understandable?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does noise reduction make speech in noise easier to understand?"
+   ]
+  },
+  {
+   "id": "dnr",
+   "tur": "zincir",
+   "baslik": "The effect of *noise reduction*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Channel",
+     "tr": "speech or noise?",
+     "cumle": 0
+    },
+    {
+     "ad": "Gain",
+     "tr": "reduced",
+     "cumle": 1
+    },
+    {
+     "ad": "Comfort",
+     "tr": "improves",
+     "cumle": 3
+    }
+   ],
+   "alt": "More tolerable, _not more intelligible_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Each channel judges whether the signal looks like speech or noise.",
+    "Gain is reduced in channels where noise dominates.",
+    "But speech and noise in a channel drop together; the ratio holds.",
+    "Studies show better listening comfort and noise tolerance.",
+    "Speech understanding, however, usually showed no clear improvement."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D183",
+ "kaynak_baslik": "Directional Microphones and Noise Reduction"
+}

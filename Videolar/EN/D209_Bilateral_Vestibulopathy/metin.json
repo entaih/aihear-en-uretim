@@ -1,0 +1,764 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D209_Bilateral_Vestibulopathy_EN",
+ "kapak": {
+  "ust": "LESSON 209",
+  "baslik": "Bilateral<br>*vestibulopathy*",
+  "alt": "Oscillopsia and imbalance in the dark",
+  "cizim": "faz_egrileri",
+  "ayar": {
+   "faz": 0,
+   "kazanc": 0.3
+  }
+ },
+ "youtube": {
+  "baslik": "Bilateral Vestibulopathy and Oscillopsia | Lesson 209 | AIHEAR Audiology Academy",
+  "aciklama": "What happens when vestibular function drops in both inner ears? In this lesson we cover the symptoms of bilateral vestibulopathy, oscillopsia and imbalance in the dark, causes including gentamicin ototoxicity, the 2017 Barany Society criteria, and vHIT, caloric and rotational test findings.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Strupp et al., Bilateral vestibulopathy: Diagnostic criteria, Journal of Vestibular Research (2017) and corrigendum (2023); Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "oscillopsia"
+  ],
+  "etiketler": [
+   "bilateral vestibulopathy",
+   "oscillopsia",
+   "gentamicin",
+   "ototoxicity",
+   "vHIT",
+   "caloric test",
+   "rotary chair",
+   "imbalance",
+   "dynamic visual acuity",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 209",
+   "baslik": "Bilateral *vestibulopathy*",
+   "alt": "Oscillopsia, imbalance in the dark, and testing",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about bilateral vestibulopathy, in which vestibular function drops in both inner ears together.",
+    {
+     "yazi": "We will cover oscillopsia, the causes, and findings on the video head impulse test, or vHIT, and caloric and rotational tests.",
+     "ses": "We will cover oscillopsia, the causes, and findings on the video head impulse test, or V HIT, and caloric and rotational tests."
+    }
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and symptoms",
+   "baslik": "Both sides weak *together*",
+   "maddeler": [
+    {
+     "metin": "Both labyrinths or nerves _affected together_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Usually no_ spinning sensation",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Chronic, persistent _unsteadiness_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Diagnosis may be _delayed_",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_Not rare_ in the population",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Spinning",
+      "metin": "Usually absent",
+      "cumle": 1
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Unsteadiness",
+      "metin": "Persistent",
+      "cumle": 2
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Oscillopsia",
+      "metin": "With movement",
+      "cumle": 2
+     }
+    ],
+    "ust": "BVP"
+   },
+   "cumleler": [
+    "Bilateral vestibulopathy, or BVP, is a reduction of vestibular function on both sides together.",
+    "Because both sides are affected similarly, no large imbalance arises between them, so there is usually no severe spinning.",
+    "The person's main complaints are persistent unsteadiness and the visual scene bouncing during movement.",
+    "The loss sometimes develops suddenly, but more often slowly and unnoticed.",
+    "So diagnosis can be delayed for years; complaints may be blamed on age, the eyes or anxiety.",
+    "A study in the United States estimated its prevalence in adults at about twenty eight per one hundred thousand.",
+    {
+     "yazi": "In 2017 the Barany Society published diagnostic criteria for this condition.",
+     "ses": "In twenty seventeen the Barany Society published diagnostic criteria for this condition."
+    }
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and symptoms",
+   "baslik": "Typical *symptoms*",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Unsteady walking",
+     "metin": "Standing and walking",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Oscillopsia",
+     "metin": "The scene bounces",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Worse in the dark",
+     "metin": "And on uneven ground",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Absent when sitting",
+     "metin": "Under static conditions",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The symptoms of bilateral vestibulopathy are closely tied to movement and surroundings.",
+    "The person feels unsteady when standing and walking; their gait may be wide-based and cautious.",
+    "They describe the scene jumping or blurring when walking or turning the head quickly; this is called oscillopsia.",
+    "Unsteadiness clearly increases in the dark and on uneven ground, because vision and input from the soles of the feet are reduced.",
+    "When sitting or lying with the head still, symptoms are usually absent; this is part of the diagnostic criteria.",
+    "People often describe difficulty getting up to the bathroom at night or walking on sand."
+   ]
+  },
+  {
+   "id": "osilopsi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and symptoms",
+   "baslik": "*Oscillopsia*: the eyes cannot keep up",
+   "cizim": "faz_egrileri",
+   "ayar": {
+    "faz": 0,
+    "kazanc": 0.3,
+    "bas_cumle": 1,
+    "goz_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "bas_hizi",
+     "metin": "Head velocity",
+     "cumle": 1
+    },
+    {
+     "parca": "goz_hizi",
+     "metin": "Eye velocity: low",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Low_ VOR gain",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "The image _slips_ on the retina",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Reading and recognizing faces _hard_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "To understand oscillopsia, let us recall the vestibulo-ocular reflex, or VOR.",
+    "When the head moves, the VOR turns the eyes at the same speed in the opposite direction, so the image stays still on the retina.",
+    "In bilateral vestibulopathy, eye velocity stays far below head velocity; in other words, VOR gain drops markedly.",
+    "The image slips across the retina with each head movement, and the person perceives this as the scene bouncing.",
+    "Because the head makes small movements with each step while walking, reading street signs or faces becomes hard.",
+    "On a dynamic visual acuity test, the number of lines that can be read while the head moves drops markedly.",
+    "In unilateral loss, the healthy side largely takes over this job, so oscillopsia is usually not as marked."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Causes",
+   "baslik": "*Causes*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Idiopathic",
+     "metin": "No cause found",
+     "cumle": 1
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoxic",
+     "metin": "Especially gentamicin",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Bilateral Meniere's",
+     "metin": "Over years",
+     "cumle": 3
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Meningitis",
+     "metin": "Inner ear damage",
+     "cumle": 4
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetic",
+     "metin": "Some inherited conditions",
+     "cumle": 5
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Neurodegenerative",
+     "metin": "With cerebellar signs",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Bilateral vestibulopathy has many causes, and in some people more than one factor is present.",
+    "In large series, no clear cause is found in a substantial share of cases, about half in some; these are called idiopathic.",
+    "Among known causes, one of the most common is the ototoxic effect of aminoglycoside antibiotics, especially gentamicin.",
+    "Meniere's disease can affect both ears over the years and lead to bilateral vestibular loss.",
+    "Bacterial meningitis can damage hearing and vestibular function on both sides at the same time.",
+    "Some inherited conditions also cause vestibular loss together with progressive hearing loss.",
+    "Neurological syndromes such as CANVAS, with cerebellar ataxia, neuropathy and vestibular loss, are also among the causes."
+   ]
+  },
+  {
+   "id": "gentamisin",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Causes",
+   "baslik": "*Gentamicin* and ototoxicity",
+   "maddeler": [
+    {
+     "metin": "_Toxic_ to vestibular hair cells",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Symptoms may be noticed _late_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Hearing may be _spared_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Damage is mostly _permanent_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Monitoring_ for those at risk",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OTOTOXICITY",
+    "metin": "*Damage* can occur even with normal blood levels",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Gentamicin is an antibiotic used for severe infections that can damage vestibular hair cells in particular.",
+    "Ototoxicity risk depends on the total dose and the length of treatment, but damage can occur even with blood levels in the target range.",
+    "Because a hospitalized person is not moving around, symptoms may be noticed only when they get up and start walking.",
+    "Because gentamicin mainly affects the vestibular system, a severe vestibular loss can develop while hearing is spared.",
+    "The resulting vestibular damage is mostly permanent; the person relies on central compensation and rehabilitation.",
+    "Monitoring hearing and balance in people receiving ototoxic drugs helps detect damage early.",
+    "The decision to use the drug and the monitoring plan belong to the physician; the audiologist is part of the monitoring team."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Diagnosis and testing",
+   "baslik": "The 2017 Barany *criteria*",
+   "sutunlar": [
+    "Criterion",
+    "Requirement"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Symptom",
+      "Unsteady standing, walking"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Added symptom",
+      "Oscillopsia or darkness"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Static conditions",
+      "No symptoms sitting"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "vHIT",
+      "Below 0.6 bilaterally"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Caloric",
+      "Sum below 6 °/s"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Rotary chair",
+      "Gain 0.1 or less"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A definite diagnosis first requires persistent unsteadiness when standing or walking.",
+    "This must come with at least one of oscillopsia or unsteadiness that gets worse in the dark or on uneven ground.",
+    "The person should have no symptoms when sitting or lying down under static conditions.",
+    {
+     "yazi": "As laboratory evidence, a horizontal gain below zero point six on both sides on the video head impulse test, or vHIT, is enough.",
+     "ses": "As laboratory evidence, a horizontal gain below zero point six on both sides on the video head impulse test, or V HIT, is enough."
+    },
+    "Or, on caloric testing, the sum of the warm and cold responses on each side must be below six degrees per second.",
+    "Or, on the rotary chair at zero point one hertz, gain must be zero point one or less, with a phase lead of at least fifteen degrees.",
+    "Meeting the criterion on one of these three tests is enough; the condition must not be better explained by another disease.",
+    "If the bedside head impulse test is abnormal on both sides and the symptoms fit, the term probable bilateral vestibulopathy is used."
+   ]
+  },
+  {
+   "id": "vhit",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Diagnosis and testing",
+   "baslik": "An example *vHIT* result",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "ad": "Canal",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "yazilar": {
+      "1": "R lat.",
+      "2": "L lat.",
+      "3": "R ant.",
+      "4": "L ant.",
+      "5": "R post.",
+      "6": "L post."
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "adim": 0.2,
+     "ad": "vHIT gain",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0.35
+       ],
+       [
+        2,
+        0.3
+       ],
+       [
+        3,
+        0.4
+       ],
+       [
+        4,
+        0.45
+       ],
+       [
+        5,
+        0.38
+       ],
+       [
+        6,
+        0.42
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "example gains",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "normal_sinir",
+      "x": 0.5,
+      "y": 0.8,
+      "cizgi": "yatay",
+      "etiket": "lateral normal: about 0.8",
+      "cumle": 2
+     },
+     {
+      "ad": "bvp_siniri",
+      "x": 0.5,
+      "y": 0.6,
+      "cizgi": "yatay",
+      "etiket": "criterion: 0.6",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "_Low_ gain in all six canals",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Caloric response _very small_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "This graph shows example vHIT gains from a person with bilateral vestibulopathy.",
+     "ses": "This graph shows example V HIT gains from a person with bilateral vestibulopathy."
+    },
+    "Gain is clearly low in all six canals, and corrective saccades are seen with every impulse.",
+    {
+     "yazi": "In the vHIT lesson we saw that lateral canal gain is normally expected to be above about zero point eight.",
+     "ses": "In the V HIT lesson we saw that lateral canal gain is normally expected to be above about zero point eight."
+    },
+    {
+     "yazi": "In this example, both lateral canal gains are below zero point six, so the vHIT criterion is met.",
+     "ses": "In this example, both lateral canal gains are below zero point six, so the V HIT criterion is met."
+    },
+    "On caloric testing, all four responses are very small; sometimes even ice water gives no clear response.",
+    "Because the rotary chair stimulates both ears together, it is valuable for confirming bilateral loss and measuring residual function.",
+    "Because otolith function may be partly preserved, vestibular evoked myogenic potential, or VEMP, results can vary."
+   ]
+  },
+  {
+   "id": "yatak_basi",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Diagnosis and testing",
+   "baslik": "Bedside *clues*",
+   "maddeler": [
+    {
+     "metin": "Head impulse both ways: _saccades bilaterally_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Reduced_ dynamic visual acuity",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "On foam, eyes closed: _tends to fall_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Hearing: always an _audiogram_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "salinim",
+      "cumle": 2
+     },
+     {
+      "parca": "destek_yuzeyi",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "On the bedside head impulse test, corrective saccades are seen with impulses in both directions.",
+    "With a simple eye chart, the drop in the number of lines read while the head shakes side to side can be assessed.",
+    "On a foam surface with eyes closed during the Romberg test, the person cannot keep their balance, showing insufficient vestibular input.",
+    "In this situation the person keeps balance almost entirely with vision and input from the soles of the feet.",
+    "An audiogram is always obtained; accompanying hearing loss may suggest Meniere's disease, meningitis or inherited causes."
+   ]
+  },
+  {
+   "id": "yasam",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Living with it and follow-up",
+   "baslik": "Daily life and *safety*",
+   "maddeler": [
+    {
+     "metin": "_High_ fall risk",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_Lights_ on at night",
+     "cumle": 1,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Disorientation in water: _caution_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Substitution_ strategies with rehabilitation",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Vestibular implant: _research_ stage",
+     "cumle": 6,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ampul",
+      "baslik": "Lighting",
+      "metin": "Getting up at night",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Underwater",
+      "metin": "Disorientation",
+      "cumle": 2
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Rehabilitation",
+      "metin": "Substitution",
+      "cumle": 4
+     }
+    ],
+    "ust": "SAFETY"
+   },
+   "cumleler": [
+    "People with bilateral vestibulopathy have a markedly increased risk of falls.",
+    "Lighting the way when getting up at night and clearing obstacles at home are simple but effective measures.",
+    "In the dark or underwater, vision and foot input are reduced, so disorientation can be dangerous; care is needed when swimming.",
+    "For activities such as driving, the person's safety is assessed together with the physician.",
+    "Vestibular rehabilitation builds substitution strategies by teaching better use of other inputs, such as vision and body sense.",
+    "Gaze exercises that make use of residual vestibular function may also be part of the program.",
+    "Vestibular implants that stimulate the vestibular nerve electrically are still at the research stage."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Living with it and follow-up",
+   "baslik": "The audiologist's *role*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "History",
+     "metin": "Oscillopsia, darkness",
+     "cumle": 0
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Drug history",
+     "metin": "Ototoxic drugs",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Test battery",
+     "metin": "vHIT, caloric, chair",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Hearing",
+     "metin": "Accompanying loss",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Team",
+     "metin": "Looking for causes",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "With a complaint of chronic unsteadiness, ask specifically about oscillopsia and unsteadiness that gets worse in the dark.",
+    "Always ask about ototoxic drug history, such as past hospital stays and long courses of antibiotics.",
+    {
+     "yazi": "With vHIT, caloric testing and, if possible, the rotary chair, bilateral loss is shown and graded.",
+     "ses": "With V HIT, caloric testing and, if possible, the rotary chair, bilateral loss is shown and graded."
+    },
+    "Hearing assessment helps look for the cause and shows whether auditory rehabilitation is needed.",
+    "The person is referred to a physician to look for the cause, and the vestibular rehabilitation plan is made with the team."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Consider bilateral loss in a person whose imbalance gets worse in the dark and whose vision bounces when walking; ask about ototoxic drugs.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the field: unsteadiness without spinning that gets worse in the dark and when walking is the classic history of bilateral loss.",
+    "Ask these people whether they have ever had a long hospital stay and received intravenous antibiotics.",
+    {
+     "yazi": "If all caloric responses are small, first rule out a technical problem, then confirm bilateral loss with vHIT.",
+     "ses": "If all caloric responses are small, first rule out a technical problem, then confirm bilateral loss with V HIT."
+    },
+    "Deciding with complementary tests, not a single test, prevents a wrong diagnosis."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Both sides weak: _no spinning_, unsteadiness",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Oscillopsia, worse _in the dark_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "vHIT gain below _0.6_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Often idiopathic; _gentamicin_ a key cause",
+     "cumle": 3,
+     "ikon": "ilac"
+    }
+   ],
+   "cumleler": [
+    "Severe spinning is not expected in bilateral vestibulopathy; the main complaint is persistent unsteadiness.",
+    "Bouncing vision while walking, or oscillopsia, and unsteadiness that gets worse in the dark or on uneven ground are typical.",
+    {
+     "yazi": "Diagnosis requires vHIT gain below zero point six on both sides, or very small caloric or rotary chair responses.",
+     "ses": "Diagnosis requires V HIT gain below zero point six on both sides, or very small caloric or rotary chair responses."
+    },
+    "A substantial share of cases are idiopathic; among known causes, gentamicin ototoxicity stands out."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Typical complaint in bilateral vestibulopathy?",
+   "secenekler": [
+    "Spinning lasting seconds",
+    "Imbalance worse in the dark",
+    "Fluctuating low-frequency loss",
+    "Ear fullness"
+   ],
+   "dogru": 1,
+   "aciklama": "In bilateral loss, _unsteadiness increases_ when vision and foot input are reduced.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which is the typical complaint in bilateral vestibulopathy?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: unsteadiness that gets worse in the dark.",
+    "With vestibular input reduced on both sides, balance relies on vision; in the dark that support is lost and unsteadiness grows."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Central Vestibular Disorders and *Stroke* Warning Signs",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about central vestibular disorders and the stroke warning signs that call for urgent referral.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R035_Can_a_Dead_Ear_Hear_EN",
+ "kapak": {
+  "ust": "QUICK FACT #35",
+  "baslik": "Can a deaf ear *respond?*",
+  "alt": "Cross-hearing and clinical masking",
+  "cizim": "maskeleme",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How can an ear with no hearing respond in a hearing test? #shorts",
+  "aciklama": "A loud test tone can cross through the skull to the opposite cochlea; this is called cross-hearing. If it goes unnoticed, an ear with no hearing can be recorded as having a moderate loss; to prevent this, masking noise is given to the other ear.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "masking",
+   "hearing"
+  ],
+  "etiketler": [
+   "cross-hearing",
+   "masking",
+   "clinical masking",
+   "shadow curve",
+   "interaural attenuation",
+   "audiology",
+   "hearing test",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How can an ear with no hearing respond in a test?",
+  "bilgiler": [
+   "A loud test tone can cross the skull to the other cochlea: cross-hearing.",
+   "An ear with no hearing can look like a moderate loss.",
+   "To prevent this, noise goes to the other ear: clinical masking."
+  ],
+  "hashtag": [
+   "audiology",
+   "masking",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #35",
+   "metin": "How can an ear with no hearing *respond?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How can an ear with no hearing respond in a test?"
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "zincir",
+   "baslik": "*Cross-hearing*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Test tone",
+     "cumle": 0,
+     "tr": "poorer ear"
+    },
+    {
+     "ad": "Skull",
+     "cumle": 0,
+     "gecikme": 0.9,
+     "tr": "vibration"
+    },
+    {
+     "ad": "Better ear",
+     "cumle": 1,
+     "tr": "opposite cochlea"
+    }
+   ],
+   "alt": "The fix: _clinical masking_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "A loud test tone also vibrates the skull through the earphone.",
+    "The vibration reaches the opposite cochlea, and is heard there.",
+    "This is called cross-hearing.",
+    "So an ear with no hearing can look like a moderate loss.",
+    "To prevent this, noise goes to the other ear: clinical masking."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D087",
+ "kaynak_baslik": "Why We Mask: Interaural Attenuation Explained"
+}

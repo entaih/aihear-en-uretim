@@ -1,0 +1,1367 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D116_Calibrating_Immittance_OAE_ABR_EN",
+ "kapak": {
+  "ust": "LESSON 116",
+  "baslik": "Calibrating<br>*objective equipment*",
+  "alt": "Immittance, OAE and ABR",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "Calibrating Immittance, OAE and ABR Equipment | Lesson 116 | AIHEAR Audiology Academy",
+  "aciklama": "How is objective test equipment calibrated? In this lesson we cover the 0.5, 2 and 5 mL calibration cavities for immittance devices, checks of pressure and reflex stimuli, the OAE probe check, peak-equivalent sound pressure level (peSPL) for ABR stimuli, and the concept of 0 dB nHL.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: IEC 60645-3, -5, -6 and -7 (Electroacoustics: Audiometric equipment); ISO 389-6, Reference threshold of hearing for test signals of short duration; ANSI S3.39; British Society of Audiology, ABR Stimulus Calibration Reference Values; Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "calibration",
+   "ABR"
+  ],
+  "etiketler": [
+   "calibration",
+   "calibration cavity",
+   "tympanometry",
+   "OAE probe check",
+   "peSPL",
+   "peak-equivalent SPL",
+   "dB nHL",
+   "ISO 389-6",
+   "IEC 60645",
+   "ABR calibration",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 116",
+   "baslik": "Immittance, OAE and *ABR* calibration",
+   "alt": "Cavities, probe checks, peSPL and nHL",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how immittance, otoacoustic emission and auditory brainstem response equipment is calibrated and checked.",
+    "We will look at calibration cavities, the probe check, peak-equivalent SPL for brief stimuli, and normalized hearing level."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Shared principles",
+   "baslik": "Three devices, *three standards*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Immittance",
+     "metin": "IEC 60645-5",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OAE",
+     "metin": "IEC 60645-6",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "IEC 60645-7",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Same logic",
+     "metin": "Daily, periodic, full",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "We have seen audiometer calibration; objective test equipment must be checked with the same care.",
+    "The technical specifications of immittance devices are defined in the IEC 60645-5 standard.",
+    "In the United States, the ANSI S3.39 standard is used for immittance devices.",
+    "Otoacoustic emission, or OAE, devices are covered by the IEC 60645-6 standard.",
+    "Auditory brainstem response, or ABR, equipment is covered by the IEC 60645-7 standard.",
+    "The logic is the same for all three: a brief daily check, a measured check at regular intervals, and usually a full calibration once a year.",
+    "Full calibration is done by an authorized service technician; daily checks are the tester's responsibility."
+   ]
+  },
+  {
+   "id": "prob",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Immittance",
+   "baslik": "*What* is checked in the immittance probe?",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "speaker",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "microphone",
+     "cumle": 2
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "pump",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "prob",
+     "cumle": 0,
+     "olcek": 2.4
+    }
+   ],
+   "cumleler": [
+    "The immittance probe is a tip placed in the ear canal, with three separate channels.",
+    "The speaker channel delivers the probe tone; calibration checks the tone's frequency and level.",
+    "The microphone channel measures sound pressure in the ear canal; the accuracy of the admittance value depends on it.",
+    "The pump channel changes the air pressure in the ear canal; the accuracy of the pressure measurement is checked separately.",
+    "The level of the two hundred twenty six hertz probe tone is usually around eighty five decibels SPL.",
+    "Acoustic reflex stimuli are also calibrated; the ipsilateral stimulus comes through the probe, the contralateral one through an earphone."
+   ]
+  },
+  {
+   "id": "kavite",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Immittance",
+   "baslik": "*Calibration* cavities",
+   "sutunlar": [
+    "Cavity volume",
+    "Reading at 226 Hz",
+    "What does it mimic?"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0.5 mL",
+      "0.5 mmho",
+      "Infant ear canal"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2.0 mL",
+      "2.0 mmho",
+      "Adult ear canal"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "5.0 mL",
+      "5.0 mmho",
+      "Large volume"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The accuracy of admittance measurement is checked with hard-walled calibration cavities of precisely known volume.",
+    "Three cavities, of zero point five, two and five milliliters, are usually supplied with the device.",
+    "The zero point five milliliter cavity is close to the ear canal volume of a small infant.",
+    "The two milliliter cavity matches an adult ear canal and is the most commonly used check point.",
+    "The five milliliter cavity tests whether large volumes, such as with a perforation, are measured correctly.",
+    "At two hundred twenty six hertz, one milliliter of air equals one millimho, so the device should read the cavity volume directly.",
+    "At six hundred seventy eight hertz the same cavity shows about three times the admittance; the equality holds only at two twenty six."
+   ]
+  },
+  {
+   "id": "gunluk_imm",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Immittance",
+   "baslik": "Daily *cavity* check",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Probe in the cavity",
+     "metin": "A cavity instead of an ear",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Read the volume",
+     "metin": "Compare with the known value",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Flat curve",
+     "metin": "No peak in a cavity",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Record",
+     "metin": "Date and values",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the daily check, the probe tip is placed in each cavity in turn and a normal measurement is started.",
+    "The volume read by the device is compared with the cavity's known volume.",
+    "A tolerance often seen in device manuals is five percent or zero point one milliliter, whichever is greater.",
+    "A hard-walled cavity has no eardrum, so the tympanogram should be flat; a peak suggests a leak or a fault.",
+    "This also shows whether the pressure system is leaking; the volume reading should not drift.",
+    "The results are recorded with the date and the name of the person doing the check."
+   ]
+  },
+  {
+   "id": "basinc",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Immittance",
+   "baslik": "Pressure and the *reflex* stimulus",
+   "maddeler": [
+    {
+     "metin": "Pressure: compared with a manometer",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Tolerance: about ten decapascals",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ipsilateral stimulus: 2 mL coupler",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Contralateral stimulus: earphone coupler",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "The probe tip must be open and clean",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "cumle": 2,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 2
+      }
+     ],
+     "normal": true
+    }
+   },
+   "cumleler": [
+    "The accuracy of pressure measurement is checked periodically by connecting the probe to a manometer.",
+    "One device manual gives a pressure tolerance of ten decapascals or ten percent, whichever is greater.",
+    "A pressure error directly shifts the position of the tympanogram peak, and so the reading of peak pressure.",
+    "The ipsilateral reflex stimulus comes from the probe, so its level is measured in a two milliliter coupler.",
+    "The contralateral stimulus comes from an earphone, so it is calibrated in a coupler or artificial ear, like audiometer earphones.",
+    "A probe channel blocked with earwax also gives false results; the probe tip is checked after every patient."
+   ]
+  },
+  {
+   "id": "oae_prob",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "OAE",
+   "baslik": "The OAE *probe check*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "stimulus",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "metin": "in the cavity: none",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "An OAE probe contains at least one speaker and a very sensitive microphone; the emission is recorded with this microphone.",
+    "In the probe check, the probe is placed in a small test cavity supplied by the manufacturer.",
+    "The device measures the level and frequency response of the stimulus in the cavity and compares them with expected values.",
+    "There is no ear in the cavity, so there should be no emission; a response in the cavity is distortion from the system itself.",
+    "In distortion product OAEs especially, an artificial product created by the two tones inside the device can be mistaken for an emission.",
+    "So the probe check confirms that the system's noise and distortion are low enough not to mimic an emission."
+   ]
+  },
+  {
+   "id": "oae_gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "OAE",
+   "baslik": "OAE: the *daily* routine",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Probe tip",
+     "metin": "No wax or moisture",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Probe check",
+     "metin": "In the cavity, result saved",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "A known ear",
+     "metin": "Biological check",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Record",
+     "metin": "Date, result, person",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In OAE testing, the most common problem comes not from calibration but from the probe tip.",
+    "If earwax or moisture blocks the probe channels, the stimulus does not reach the ear and the emission seems absent.",
+    "So a probe check is done every day; many devices do it with a single button and save the result.",
+    "In addition, a short measurement can be taken in an ear known to hear normally, such as the tester's own ear.",
+    "In this biological check, emission amplitude should be similar each day; a clear drop suggests a probe or device problem.",
+    "If the probe check fails, the probe is cleaned or replaced; if that does not help, the device is sent for service."
+   ]
+  },
+  {
+   "id": "pespl",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "ABR",
+   "baslik": "Brief stimuli: *peSPL*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 6,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.5,
+     "ad": "Pressure (relative)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "klik",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.0
+       ],
+       [
+        0.1,
+        0.0
+       ],
+       [
+        0.15,
+        0.0
+       ],
+       [
+        0.2,
+        0.0
+       ],
+       [
+        0.25,
+        0.0
+       ],
+       [
+        0.3,
+        0.0
+       ],
+       [
+        0.35,
+        0.0
+       ],
+       [
+        0.4,
+        0.0
+       ],
+       [
+        0.45,
+        0.0
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.55,
+        0.0
+       ],
+       [
+        0.6,
+        0.0
+       ],
+       [
+        0.65,
+        0.0
+       ],
+       [
+        0.7,
+        0.0
+       ],
+       [
+        0.75,
+        0.0
+       ],
+       [
+        0.8,
+        0.0
+       ],
+       [
+        0.85,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        0.95,
+        0.0
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.05,
+        1.0
+       ],
+       [
+        1.1,
+        -0.6
+       ],
+       [
+        1.15,
+        -0.6
+       ],
+       [
+        1.2,
+        0.3
+       ],
+       [
+        1.25,
+        0.3
+       ],
+       [
+        1.3,
+        0.3
+       ],
+       [
+        1.35,
+        0.0
+       ],
+       [
+        1.4,
+        0.0
+       ],
+       [
+        1.45,
+        0.0
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.55,
+        0.0
+       ],
+       [
+        1.6,
+        0.0
+       ],
+       [
+        1.65,
+        0.0
+       ],
+       [
+        1.7,
+        0.0
+       ],
+       [
+        1.75,
+        0.0
+       ],
+       [
+        1.8,
+        0.0
+       ],
+       [
+        1.85,
+        0.0
+       ],
+       [
+        1.9,
+        0.0
+       ],
+       [
+        1.95,
+        0.0
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.05,
+        0.0
+       ],
+       [
+        2.1,
+        0.0
+       ],
+       [
+        2.15,
+        0.0
+       ],
+       [
+        2.2,
+        0.0
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.3,
+        0.0
+       ],
+       [
+        2.35,
+        0.0
+       ],
+       [
+        2.4,
+        0.0
+       ],
+       [
+        2.45,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.55,
+        0.0
+       ],
+       [
+        2.6,
+        0.0
+       ],
+       [
+        2.65,
+        0.0
+       ],
+       [
+        2.7,
+        0.0
+       ],
+       [
+        2.75,
+        0.0
+       ],
+       [
+        2.8,
+        0.0
+       ],
+       [
+        2.85,
+        0.0
+       ],
+       [
+        2.9,
+        0.0
+       ],
+       [
+        2.95,
+        0.0
+       ],
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.05,
+        0.0
+       ],
+       [
+        3.1,
+        0.0
+       ],
+       [
+        3.15,
+        0.0
+       ],
+       [
+        3.2,
+        0.0
+       ],
+       [
+        3.25,
+        0.0
+       ],
+       [
+        3.3,
+        0.0
+       ],
+       [
+        3.35,
+        0.0
+       ],
+       [
+        3.4,
+        0.0
+       ],
+       [
+        3.45,
+        0.0
+       ],
+       [
+        3.5,
+        0.0
+       ],
+       [
+        3.55,
+        0.0
+       ],
+       [
+        3.6,
+        0.0
+       ],
+       [
+        3.65,
+        0.0
+       ],
+       [
+        3.7,
+        0.0
+       ],
+       [
+        3.75,
+        0.0
+       ],
+       [
+        3.8,
+        0.0
+       ],
+       [
+        3.85,
+        0.0
+       ],
+       [
+        3.9,
+        0.0
+       ],
+       [
+        3.95,
+        0.0
+       ],
+       [
+        4.0,
+        0.0
+       ],
+       [
+        4.05,
+        0.0
+       ],
+       [
+        4.1,
+        0.0
+       ],
+       [
+        4.15,
+        0.0
+       ],
+       [
+        4.2,
+        0.0
+       ],
+       [
+        4.25,
+        0.0
+       ],
+       [
+        4.3,
+        0.0
+       ],
+       [
+        4.35,
+        0.0
+       ],
+       [
+        4.4,
+        0.0
+       ],
+       [
+        4.45,
+        0.0
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.55,
+        0.0
+       ],
+       [
+        4.6,
+        0.0
+       ],
+       [
+        4.65,
+        0.0
+       ],
+       [
+        4.7,
+        0.0
+       ],
+       [
+        4.75,
+        0.0
+       ],
+       [
+        4.8,
+        0.0
+       ],
+       [
+        4.85,
+        0.0
+       ],
+       [
+        4.9,
+        0.0
+       ],
+       [
+        4.95,
+        0.0
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        5.05,
+        0.0
+       ],
+       [
+        5.1,
+        0.0
+       ],
+       [
+        5.15,
+        0.0
+       ],
+       [
+        5.2,
+        0.0
+       ],
+       [
+        5.25,
+        0.0
+       ],
+       [
+        5.3,
+        0.0
+       ],
+       [
+        5.35,
+        0.0
+       ],
+       [
+        5.4,
+        0.0
+       ],
+       [
+        5.45,
+        0.0
+       ],
+       [
+        5.5,
+        0.0
+       ],
+       [
+        5.55,
+        0.0
+       ],
+       [
+        5.6,
+        0.0
+       ],
+       [
+        5.65,
+        0.0
+       ],
+       [
+        5.7,
+        0.0
+       ],
+       [
+        5.75,
+        0.0
+       ],
+       [
+        5.8,
+        0.0
+       ],
+       [
+        5.85,
+        0.0
+       ],
+       [
+        5.9,
+        0.0
+       ],
+       [
+        5.95,
+        0.0
+       ],
+       [
+        6.0,
+        0.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "click",
+      "etiket_konum": [
+       1.3,
+       1.05
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "ton",
+      "noktalar": [
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.05,
+        0.247
+       ],
+       [
+        3.1,
+        0.47
+       ],
+       [
+        3.15,
+        0.647
+       ],
+       [
+        3.2,
+        0.761
+       ],
+       [
+        3.25,
+        0.8
+       ],
+       [
+        3.3,
+        0.761
+       ],
+       [
+        3.35,
+        0.647
+       ],
+       [
+        3.4,
+        0.47
+       ],
+       [
+        3.45,
+        0.247
+       ],
+       [
+        3.5,
+        0.0
+       ],
+       [
+        3.55,
+        -0.247
+       ],
+       [
+        3.6,
+        -0.47
+       ],
+       [
+        3.65,
+        -0.647
+       ],
+       [
+        3.7,
+        -0.761
+       ],
+       [
+        3.75,
+        -0.8
+       ],
+       [
+        3.8,
+        -0.761
+       ],
+       [
+        3.85,
+        -0.647
+       ],
+       [
+        3.9,
+        -0.47
+       ],
+       [
+        3.95,
+        -0.247
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.247
+       ],
+       [
+        4.1,
+        0.47
+       ],
+       [
+        4.15,
+        0.647
+       ],
+       [
+        4.2,
+        0.761
+       ],
+       [
+        4.25,
+        0.8
+       ],
+       [
+        4.3,
+        0.761
+       ],
+       [
+        4.35,
+        0.647
+       ],
+       [
+        4.4,
+        0.47
+       ],
+       [
+        4.45,
+        0.247
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.55,
+        -0.247
+       ],
+       [
+        4.6,
+        -0.47
+       ],
+       [
+        4.65,
+        -0.647
+       ],
+       [
+        4.7,
+        -0.761
+       ],
+       [
+        4.75,
+        -0.8
+       ],
+       [
+        4.8,
+        -0.761
+       ],
+       [
+        4.85,
+        -0.647
+       ],
+       [
+        4.9,
+        -0.47
+       ],
+       [
+        4.95,
+        -0.247
+       ],
+       [
+        5.0,
+        -0.0
+       ],
+       [
+        5.05,
+        0.247
+       ],
+       [
+        5.1,
+        0.47
+       ],
+       [
+        5.15,
+        0.647
+       ],
+       [
+        5.2,
+        0.761
+       ],
+       [
+        5.25,
+        0.8
+       ],
+       [
+        5.3,
+        0.761
+       ],
+       [
+        5.35,
+        0.647
+       ],
+       [
+        5.4,
+        0.47
+       ],
+       [
+        5.45,
+        0.247
+       ],
+       [
+        5.5,
+        0.0
+       ],
+       [
+        5.55,
+        -0.247
+       ],
+       [
+        5.6,
+        -0.47
+       ],
+       [
+        5.65,
+        -0.647
+       ],
+       [
+        5.7,
+        -0.761
+       ],
+       [
+        5.75,
+        -0.8
+       ],
+       [
+        5.8,
+        -0.761
+       ],
+       [
+        5.85,
+        -0.647
+       ],
+       [
+        5.9,
+        -0.47
+       ],
+       [
+        5.95,
+        -0.247
+       ],
+       [
+        6.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "1000 Hz tone",
+      "etiket_konum": [
+       4.2,
+       1.05
+      ],
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "klik_tt",
+      "y": [
+       -0.6,
+       1.0
+      ],
+      "xk": 0.6,
+      "etiket": "peak to peak",
+      "cumle": 3
+     },
+     {
+      "ad": "ton_tt",
+      "y": [
+       -0.8,
+       0.8
+      ],
+      "xk": 5.8,
+      "etiket": "same amplitude",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Match the tone to the click",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tone SPL = click peSPL",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Peak-to-peak measurement",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "ABR uses very brief stimuli, such as clicks and tone bursts; their level cannot be measured like a steady tone.",
+    "The red line shows the schematic pressure wave of a click lasting one tenth of a millisecond.",
+    "For the measurement, a steady one kilohertz tone is fed into the same coupler, and the two signals are compared on an oscilloscope.",
+    "The tone level is adjusted until its peak-to-peak amplitude equals that of the click.",
+    {
+     "yazi": "At this point, the sound pressure level of the tone is the peak-equivalent sound pressure level of the click, or peSPL.",
+     "ses": "At this point, the sound pressure level of the tone is the peak-equivalent sound pressure level of the click, or P E S P L."
+    },
+    "International practice uses the peak-to-peak method; measuring from baseline to peak can give a result a few decibels different.",
+    "This method is defined for short-duration test signals in the IEC 60645-3 standard."
+   ]
+  },
+  {
+   "id": "nhl",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "ABR",
+   "baslik": "The zero point: *dB nHL*",
+   "maddeler": [
+    {
+     "metin": "0 dB nHL: normal group threshold",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Reference values: ISO 389-6",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Click with inserts: 35.5 dB peSPL",
+     "cumle": 3,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Other stimuli: local norms needed",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "COMING UP",
+    "metin": "nHL thresholds convert to *eHL* estimates",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Zero decibels nHL is the average behavioral threshold for a stimulus in a group of young adults with normal hearing.",
+    {
+     "yazi": "nHL stands for normalized hearing level; it is the counterpart of dB HL on the audiometer, for brief stimuli.",
+     "ses": "N H L stands for normalized hearing level; it is the counterpart of decibels H L on the audiometer, for brief stimuli."
+    },
+    "Reference values for clicks and tone bursts are given in ISO 389-6, at a rate of twenty per second with alternating polarity.",
+    {
+     "yazi": "According to this standard, zero decibels nHL for a click with ER-3A insert earphones is about thirty five and a half decibels peSPL.",
+     "ses": "According to this standard, zero decibels N H L for a click with E R three A insert earphones is about thirty five and a half decibels P E S P L."
+    },
+    {
+     "yazi": "For example, if sixty decibels nHL is selected, about ninety five and a half decibels peSPL should be measured in the artificial ear.",
+     "ses": "For example, if sixty decibels N H L is selected, about ninety five and a half decibels P E S P L should be measured in the artificial ear."
+    },
+    "If the stimulus differs from the standard, such as a special chirp, building local reference values from normal listeners is advised."
+   ]
+  },
+  {
+   "id": "abr_kontrol",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "ABR",
+   "baslik": "*Routine* checks in ABR",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Listen to the stimulus",
+     "metin": "Sound, polarity, clarity",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrodes and cables",
+     "metin": "Impedance, breaks",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Timing",
+     "metin": "Insert tube delay",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Normal ears",
+     "metin": "Biological reference",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the daily check, the tester listens to the stimulus through the earphone; it should be clean, free of crackle and at the expected level.",
+    "The polarity setting and stimulus rate are also checked against the protocol at this point.",
+    "Electrode cables are inspected for breaks; an impedance check is done before every patient's test.",
+    "The insert earphone's sound tube delays the sound by just under one millisecond; the device must subtract this delay from latency.",
+    "If this setting is wrong, all latencies are systematically too long or too short, and comparison with norms breaks down.",
+    "Periodically, thresholds and latencies are measured in a few normal hearing volunteers to confirm agreement with clinical norms."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Keep cavity, probe check and stimulus listening results on a single daily chart; small drifts show up there first.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: make a habit of recording the daily checks for all three devices on the same chart, at the same time of day.",
+    "If the cavity volume reading or the emission amplitude in your own ear changes slowly from day to day, that is a warning.",
+    "Such a trend cannot be seen from one day's result alone, but it is easy to spot on a chart.",
+    "When in doubt, take the device out of patient testing and contact the service for a full calibration."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Immittance: _0.5, 2 and 5 mL_ cavities",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "OAE: probe check, no emission in cavity",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Brief stimulus level: _peSPL_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "0 dB nHL: normal group threshold",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "In immittance devices, admittance accuracy is checked with zero point five, two and five milliliter cavities, and pressure with a manometer.",
+    "In OAE devices, a probe check is done every day; there should be no emission in the cavity, and the probe tip must be clean.",
+    {
+     "yazi": "The level of ABR stimuli is measured as peSPL, by matching them to a one kilohertz tone of the same peak-to-peak amplitude.",
+     "ses": "The level of A B R stimuli is measured as P E S P L, by matching them to a one kilohertz tone of the same peak-to-peak amplitude."
+    },
+    "Zero decibels nHL is the average threshold of normal listeners; reference values are given in the ISO 389-6 standard."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What should a 2 mL cavity read at 226 Hz?",
+   "secenekler": [
+    "About 0.5 mmho",
+    "About 2 mmho",
+    "About 6 mmho",
+    "Peak pressure 0 daPa"
+   ],
+   "dogru": 1,
+   "aciklama": "At 226 Hz, _1 mL of air = 1 mmho_; the cavity volume is read directly.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: with a two hundred twenty six hertz probe tone, what should the device read in a two milliliter cavity?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: about two millimhos.",
+    "At this frequency one milliliter of air equals one millimho; with no eardrum in the cavity, the curve should also be flat."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How to Read a *Research Paper* in Audiology",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we start a new section and learn how to read a research paper in the audiology literature.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

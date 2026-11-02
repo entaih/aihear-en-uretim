@@ -1,0 +1,2093 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D181_Compression_WDRC_EN",
+ "kapak": {
+  "ust": "LESSON 181",
+  "baslik": "*Compression*<br>and WDRC",
+  "alt": "Kneepoint, ratio, attack and release",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 30,
+    "max": 100,
+    "adim": 10,
+    "ad": "Input (dB SPL)"
+   },
+   "y": {
+    "min": 60,
+    "max": 130,
+    "adim": 10,
+    "ad": "Output (dB SPL)"
+   },
+   "seriler": [
+    {
+     "ad": "dogrusal",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       95,
+       130
+      ]
+     ],
+     "renk": "gri",
+     "kesik": true
+    },
+    {
+     "ad": "kompresyon",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       50,
+       85
+      ],
+      [
+       70,
+       95
+      ],
+      [
+       90,
+       105
+      ],
+      [
+       100,
+       106
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": 6
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Compression in Hearing Aids: WDRC, Kneepoint, Ratio | Lesson 181 | AIHEAR Audiology Academy",
+  "aciklama": "Why does a hearing aid give different gain to soft and loud sounds? In this lesson we cover the dynamic range, the input-output curve, compression threshold and ratio, WDRC and compression limiting, expansion, and attack and release times.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Dillon, Hearing Aids; ANSI/ASA S3.22, Specification of Hearing Aid Characteristics; Venema, Compression for Clinicians; Gatehouse, Naylor and Elberling, Linear and nonlinear hearing aid fittings, International Journal of Audiology (2006); Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "compression"
+  ],
+  "etiketler": [
+   "compression",
+   "WDRC",
+   "wide dynamic range compression",
+   "compression threshold",
+   "kneepoint",
+   "compression ratio",
+   "attack time",
+   "release time",
+   "input-output curve",
+   "hearing aids",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 181",
+   "baslik": "*Compression*: WDRC",
+   "alt": "Compression threshold, ratio, attack and release",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn why hearing aids need compression and how to read an input-output curve.",
+    "Step by step, we will cover compression threshold, compression ratio, attack and release times, and limiting of maximum output."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why compression?",
+   "baslik": "A narrower *dynamic range*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 2.6,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Normal ear",
+      "2": "Cochlear loss"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Level (dB HL)"
+    },
+    "araliklar": [
+     {
+      "ad": "normal",
+      "xk": 1,
+      "y": [
+       0,
+       100
+      ],
+      "etiket": "≈ 100 dB",
+      "cumle": 0
+     },
+     {
+      "ad": "kayip",
+      "xk": 2,
+      "y": [
+       60,
+       100
+      ],
+      "etiket": "≈ 40 dB",
+      "cumle": 3,
+      "renk": "kirmizi"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ucl",
+      "x": 1.5,
+      "y": 100,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "discomfort level",
+      "dy": -12,
+      "cumle": 2,
+      "renk": "sari"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "konusma",
+      "y": [
+       25,
+       55
+      ],
+      "renk": "mavi",
+      "etiket": "speech",
+      "cumle": 6
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kayip",
+     "cumle": 3
+    },
+    {
+     "parca": "konusma",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "In a normal-hearing ear, there is a range of about 100 decibels between the softest audible sound and an uncomfortable sound.",
+    "This range is called the dynamic range.",
+    "In cochlear loss the threshold rises, but the discomfort level often stays about the same.",
+    {
+     "yazi": "In this example, the threshold is 60 and the discomfort level is 100 dB HL, so the dynamic range has shrunk to about 40 decibels.",
+     "ses": "In this example, the threshold is sixty and the discomfort level is one hundred decibels HL, so the dynamic range has shrunk to about forty decibels."
+    },
+    "This is the result of the abnormally fast growth of loudness that we saw in the recruitment lesson.",
+    "The range of everyday sounds, from soft to loud, does not fit into this narrowed space.",
+    "Speech, for example, spans about 30 decibels from weak consonants to strong vowels, and its level changes with the setting.",
+    "The aim of compression is to fit a wide input range into the person's narrowed dynamic range."
+   ]
+  },
+  {
+   "id": "dogrusal",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why compression?",
+   "baslik": "Linear *amplification*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Input (dB SPL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 130,
+     "adim": 10,
+     "ad": "Output (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dogrusal",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        80,
+        115
+       ],
+       [
+        100,
+        115
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 0,
+      "etiket": "linear",
+      "etiket_konum": [
+       55,
+       90
+      ],
+      "etiket_dx": -20,
+      "etiket_dy": -20
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kirpma",
+      "x": 80,
+      "y": 115,
+      "etiket": "peak clipping",
+      "renk": "kirmizi",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "dogrusal",
+     "cumle": 2
+    },
+    {
+     "parca": "kirpma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In linear amplification, the aid applies the same gain to every input level.",
+    "In this example the gain is 35 decibels: a 50 decibel input becomes 85, and a 70 decibel input becomes a 105 decibel output.",
+    "So the input-output curve is a straight line with a slope of one.",
+    "The problem is this: if there is enough gain to make soft sounds audible, loud sounds become uncomfortable.",
+    "And if there is little enough gain to keep loud sounds comfortable, soft sounds are not heard.",
+    "When the output reached the aid's limit, older linear aids cut off the peaks of the wave; this is called peak clipping.",
+    "Peak clipping limits the sound but creates marked distortion.",
+    "Compression was developed to solve these two problems together."
+   ]
+  },
+  {
+   "id": "io",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The input-output curve",
+   "baslik": "The input-output *curve*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Input (dB SPL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 130,
+     "adim": 10,
+     "ad": "Output (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dogrusal",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        95,
+        130
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 1,
+      "etiket": "linear",
+      "etiket_konum": [
+       85,
+       120
+      ],
+      "etiket_dx": -70,
+      "etiket_dy": -8
+     },
+     {
+      "ad": "kompresyon",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        70,
+        95
+       ],
+       [
+        90,
+        105
+       ],
+       [
+        100,
+        106
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 6,
+      "cumle": 2,
+      "etiket": "compression",
+      "etiket_konum": [
+       90,
+       105
+      ],
+      "etiket_dx": -40,
+      "etiket_dy": 30
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kompresyon_esigi",
+      "x": 50,
+      "y": 85,
+      "etiket": "compression threshold",
+      "dy": -18,
+      "renk": "kirmizi",
+      "cumle": 3
+     },
+     {
+      "ad": "sinirlama",
+      "x": 90,
+      "y": 105,
+      "etiket": "limiting",
+      "dy": -18,
+      "renk": "sari",
+      "cumle": 7
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "giris_farki",
+      "x": [
+       50,
+       70
+      ],
+      "y": 75,
+      "etiket": "+20 dB input",
+      "cumle": 4,
+      "etiket_alt": true
+     },
+     {
+      "ad": "cikis_farki",
+      "xk": 72,
+      "y": [
+       85,
+       95
+      ],
+      "etiket": "+10 dB output",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kompresyon_esigi",
+     "cumle": 3
+    },
+    {
+     "parca": "giris_farki",
+     "cumle": 4
+    },
+    {
+     "parca": "cikis_farki",
+     "cumle": 5
+    },
+    {
+     "parca": "sinirlama",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "The best way to understand compression is the input-output curve.",
+    "The horizontal axis shows the level of sound entering the aid, and the vertical axis shows the output level measured in the coupler.",
+    {
+     "yazi": "In this example, the aid works linearly up to 50 dB SPL and gives 35 decibels of gain.",
+     "ses": "In this example, the aid works linearly up to fifty decibels SPL and gives thirty five decibels of gain."
+    },
+    "The point where the curve bends is called the compression threshold, or kneepoint.",
+    "Above the compression threshold, when the input rises by 20 decibels, the output rises by only 10 decibels.",
+    {
+     "yazi": "The ratio of the input change to the output change is called the compression ratio; here it is 2 to 1.",
+     "ses": "The ratio of the input change to the output change is called the compression ratio; here it is two to one."
+    },
+    "So gain decreases as input rises: the gap between the curve and the dashed line keeps widening.",
+    "At the top there is a second bend: here the output hardly rises at all, and maximum output is limited.",
+    "In the standard measurement, this curve is plotted from 50 to 90 dB SPL in 5 decibel steps."
+   ]
+  },
+  {
+   "id": "oran",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The input-output curve",
+   "baslik": "Compression *ratio*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Input (dB SPL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 130,
+     "adim": 10,
+     "ad": "Output (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "oran_1",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        95,
+        130
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 1,
+      "etiket": "1:1",
+      "etiket_konum": [
+       90,
+       125
+      ],
+      "etiket_dx": 10
+     },
+     {
+      "ad": "oran_2",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        100,
+        110
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2,
+      "etiket": "2:1",
+      "etiket_konum": [
+       100,
+       110
+      ],
+      "etiket_dx": -36,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "oran_3",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        100,
+        101.7
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 3,
+      "etiket": "3:1",
+      "etiket_konum": [
+       100,
+       101.7
+      ],
+      "etiket_dx": -36,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "oran_10",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        100,
+        90
+       ]
+      ],
+      "renk": "kirmizi",
+      "cumle": 4,
+      "etiket": "10:1",
+      "etiket_konum": [
+       100,
+       90
+      ],
+      "etiket_dx": -44,
+      "etiket_dy": 24
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "oran_2",
+     "cumle": 2
+    },
+    {
+     "parca": "oran_3",
+     "cumle": 3
+    },
+    {
+     "parca": "oran_10",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "When different ratios are compared at the same compression threshold, the slope of the curve changes.",
+    {
+     "yazi": "A ratio of 1 to 1 means no compression; the aid works linearly.",
+     "ses": "A ratio of one to one means no compression; the aid works linearly."
+    },
+    {
+     "yazi": "At a ratio of 2 to 1, a 20 decibel rise in input becomes a 10 decibel rise in output.",
+     "ses": "At a ratio of two to one, a twenty decibel rise in input becomes a ten decibel rise in output."
+    },
+    {
+     "yazi": "At a ratio of 3 to 1, the same rise drops to about 7 decibels; the curve flattens further.",
+     "ses": "At a ratio of three to one, the same rise drops to about seven decibels; the curve flattens further."
+    },
+    {
+     "yazi": "At a ratio of 10 to 1 or higher, the output stays almost constant; this is now limiting.",
+     "ses": "At a ratio of ten to one or higher, the output stays almost constant; this is now limiting."
+    },
+    "So as the ratio grows, the output range narrows and the loudness differences between sounds shrink.",
+    "Very high ratios can flatten the natural loudness changes of speech and make sound less natural."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "The input-output curve",
+   "baslik": "Gain changes *with input*",
+   "sutunlar": [
+    "Input (dB SPL)",
+    "Output (dB SPL)",
+    "Gain (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "40",
+      "75",
+      "35"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "50",
+      "85",
+      "35"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "70",
+      "95",
+      "25"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "90",
+      "105",
+      "15"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "From the input-output curve, we can read the gain at each input level; gain is output minus input.",
+    "A soft sound of forty decibels is amplified to 75 decibels; the gain is 35 decibels.",
+    "At the compression threshold of 50 decibels, the gain is still 35 decibels.",
+    "For a seventy decibel input, the output is 95 decibels; the gain has dropped to 25 decibels.",
+    "For a loud input of ninety decibels, the gain is only 15 decibels.",
+    "So a 50 decibel input range has been fitted into an output range of only 30 decibels; this is the essence of compression."
+   ]
+  },
+  {
+   "id": "wdrc",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "WDRC and limiting",
+   "baslik": "*WDRC* and limiting",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "WDRC threshold",
+     "cumle": 1,
+     "metin": "Low, below speech level"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "WDRC ratio",
+     "cumle": 3,
+     "metin": "Usually low"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Limiting threshold",
+     "cumle": 5,
+     "metin": "High, near the output limit"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Limiting ratio",
+     "cumle": 6,
+     "metin": "High, such as 10:1"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Wide dynamic range compression, or WDRC, is the basic operating mode of today's hearing aids.",
+     "ses": "Wide dynamic range compression, or W D R C, is the basic operating mode of today's hearing aids."
+    },
+    {
+     "yazi": "In WDRC the compression threshold is low, usually about 40 to 55 dB SPL, at or below the level of soft speech.",
+     "ses": "In W D R C the compression threshold is low, usually about forty to fifty five decibels SPL, at or below the level of soft speech."
+    },
+    "So most soft, moderate and loud sounds are processed in the compression region.",
+    {
+     "yazi": "In WDRC the ratio is usually low; in most fittings it stays below 3 to 1.",
+     "ses": "In W D R C the ratio is usually low; in most fittings it stays below three to one."
+    },
+    "The aim is to fit sounds into the dynamic range by giving more gain to soft sounds and less to loud sounds.",
+    "Compression limiting, by contrast, only acts at a high threshold near the output limit.",
+    {
+     "yazi": "Its ratio is high, usually 8 to 1 or more, so the output does not exceed the discomfort level.",
+     "ses": "Its ratio is high, usually eight to one or more, so the output does not exceed the discomfort level."
+    },
+    {
+     "yazi": "In short, WDRC places sounds within the person's hearing range, and limiting protects the upper edge of that range.",
+     "ses": "In short, W D R C places sounds within the person's hearing range, and limiting protects the upper edge of that range."
+    }
+   ]
+  },
+  {
+   "id": "kirpma",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "WDRC and limiting",
+   "baslik": "Clipping or *limiting?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Time (ms)"
+    },
+    "y": {
+     "min": -1.6,
+     "max": 1.6,
+     "adim": 0.5,
+     "ad": "Amplitude",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "kirpilmis",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        0.188
+       ],
+       [
+        0.2,
+        0.373
+       ],
+       [
+        0.3,
+        0.552
+       ],
+       [
+        0.4,
+        0.723
+       ],
+       [
+        0.5,
+        0.882
+       ],
+       [
+        0.6,
+        1.0
+       ],
+       [
+        0.7,
+        1.0
+       ],
+       [
+        0.8,
+        1.0
+       ],
+       [
+        0.9,
+        1.0
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.1,
+        1.0
+       ],
+       [
+        1.2,
+        1.0
+       ],
+       [
+        1.3,
+        1.0
+       ],
+       [
+        1.4,
+        1.0
+       ],
+       [
+        1.5,
+        1.0
+       ],
+       [
+        1.6,
+        1.0
+       ],
+       [
+        1.7,
+        1.0
+       ],
+       [
+        1.8,
+        1.0
+       ],
+       [
+        1.9,
+        1.0
+       ],
+       [
+        2.0,
+        0.882
+       ],
+       [
+        2.1,
+        0.723
+       ],
+       [
+        2.2,
+        0.552
+       ],
+       [
+        2.3,
+        0.373
+       ],
+       [
+        2.4,
+        0.188
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        -0.188
+       ],
+       [
+        2.7,
+        -0.373
+       ],
+       [
+        2.8,
+        -0.552
+       ],
+       [
+        2.9,
+        -0.723
+       ],
+       [
+        3.0,
+        -0.882
+       ],
+       [
+        3.1,
+        -1.0
+       ],
+       [
+        3.2,
+        -1.0
+       ],
+       [
+        3.3,
+        -1.0
+       ],
+       [
+        3.4,
+        -1.0
+       ],
+       [
+        3.5,
+        -1.0
+       ],
+       [
+        3.6,
+        -1.0
+       ],
+       [
+        3.7,
+        -1.0
+       ],
+       [
+        3.8,
+        -1.0
+       ],
+       [
+        3.9,
+        -1.0
+       ],
+       [
+        4.0,
+        -1.0
+       ],
+       [
+        4.1,
+        -1.0
+       ],
+       [
+        4.2,
+        -1.0
+       ],
+       [
+        4.3,
+        -1.0
+       ],
+       [
+        4.4,
+        -1.0
+       ],
+       [
+        4.5,
+        -0.882
+       ],
+       [
+        4.6,
+        -0.723
+       ],
+       [
+        4.7,
+        -0.552
+       ],
+       [
+        4.8,
+        -0.373
+       ],
+       [
+        4.9,
+        -0.188
+       ],
+       [
+        5.0,
+        -0.0
+       ],
+       [
+        5.1,
+        0.188
+       ],
+       [
+        5.2,
+        0.373
+       ],
+       [
+        5.3,
+        0.552
+       ],
+       [
+        5.4,
+        0.723
+       ],
+       [
+        5.5,
+        0.882
+       ],
+       [
+        5.6,
+        1.0
+       ],
+       [
+        5.7,
+        1.0
+       ],
+       [
+        5.8,
+        1.0
+       ],
+       [
+        5.9,
+        1.0
+       ],
+       [
+        6.0,
+        1.0
+       ],
+       [
+        6.1,
+        1.0
+       ],
+       [
+        6.2,
+        1.0
+       ],
+       [
+        6.3,
+        1.0
+       ],
+       [
+        6.4,
+        1.0
+       ],
+       [
+        6.5,
+        1.0
+       ],
+       [
+        6.6,
+        1.0
+       ],
+       [
+        6.7,
+        1.0
+       ],
+       [
+        6.8,
+        1.0
+       ],
+       [
+        6.9,
+        1.0
+       ],
+       [
+        7.0,
+        0.882
+       ],
+       [
+        7.1,
+        0.723
+       ],
+       [
+        7.2,
+        0.552
+       ],
+       [
+        7.3,
+        0.373
+       ],
+       [
+        7.4,
+        0.188
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        7.6,
+        -0.188
+       ],
+       [
+        7.7,
+        -0.373
+       ],
+       [
+        7.8,
+        -0.552
+       ],
+       [
+        7.9,
+        -0.723
+       ],
+       [
+        8.0,
+        -0.882
+       ],
+       [
+        8.1,
+        -1.0
+       ],
+       [
+        8.2,
+        -1.0
+       ],
+       [
+        8.3,
+        -1.0
+       ],
+       [
+        8.4,
+        -1.0
+       ],
+       [
+        8.5,
+        -1.0
+       ],
+       [
+        8.6,
+        -1.0
+       ],
+       [
+        8.7,
+        -1.0
+       ],
+       [
+        8.8,
+        -1.0
+       ],
+       [
+        8.9,
+        -1.0
+       ],
+       [
+        9.0,
+        -1.0
+       ],
+       [
+        9.1,
+        -1.0
+       ],
+       [
+        9.2,
+        -1.0
+       ],
+       [
+        9.3,
+        -1.0
+       ],
+       [
+        9.4,
+        -1.0
+       ],
+       [
+        9.5,
+        -0.882
+       ],
+       [
+        9.6,
+        -0.723
+       ],
+       [
+        9.7,
+        -0.552
+       ],
+       [
+        9.8,
+        -0.373
+       ],
+       [
+        9.9,
+        -0.188
+       ],
+       [
+        10.0,
+        -0.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "cumle": 1,
+      "etiket": "peak clipping",
+      "etiket_konum": [
+       1.25,
+       1.0
+      ],
+      "etiket_dy": -16
+     },
+     {
+      "ad": "sinirlanmis",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        0.119
+       ],
+       [
+        0.2,
+        0.236
+       ],
+       [
+        0.3,
+        0.35
+       ],
+       [
+        0.4,
+        0.458
+       ],
+       [
+        0.5,
+        0.558
+       ],
+       [
+        0.6,
+        0.65
+       ],
+       [
+        0.7,
+        0.732
+       ],
+       [
+        0.8,
+        0.802
+       ],
+       [
+        0.9,
+        0.86
+       ],
+       [
+        1.0,
+        0.904
+       ],
+       [
+        1.1,
+        0.933
+       ],
+       [
+        1.2,
+        0.948
+       ],
+       [
+        1.3,
+        0.948
+       ],
+       [
+        1.4,
+        0.933
+       ],
+       [
+        1.5,
+        0.904
+       ],
+       [
+        1.6,
+        0.86
+       ],
+       [
+        1.7,
+        0.802
+       ],
+       [
+        1.8,
+        0.732
+       ],
+       [
+        1.9,
+        0.65
+       ],
+       [
+        2.0,
+        0.558
+       ],
+       [
+        2.1,
+        0.458
+       ],
+       [
+        2.2,
+        0.35
+       ],
+       [
+        2.3,
+        0.236
+       ],
+       [
+        2.4,
+        0.119
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        -0.119
+       ],
+       [
+        2.7,
+        -0.236
+       ],
+       [
+        2.8,
+        -0.35
+       ],
+       [
+        2.9,
+        -0.458
+       ],
+       [
+        3.0,
+        -0.558
+       ],
+       [
+        3.1,
+        -0.65
+       ],
+       [
+        3.2,
+        -0.732
+       ],
+       [
+        3.3,
+        -0.802
+       ],
+       [
+        3.4,
+        -0.86
+       ],
+       [
+        3.5,
+        -0.904
+       ],
+       [
+        3.6,
+        -0.933
+       ],
+       [
+        3.7,
+        -0.948
+       ],
+       [
+        3.8,
+        -0.948
+       ],
+       [
+        3.9,
+        -0.933
+       ],
+       [
+        4.0,
+        -0.904
+       ],
+       [
+        4.1,
+        -0.86
+       ],
+       [
+        4.2,
+        -0.802
+       ],
+       [
+        4.3,
+        -0.732
+       ],
+       [
+        4.4,
+        -0.65
+       ],
+       [
+        4.5,
+        -0.558
+       ],
+       [
+        4.6,
+        -0.458
+       ],
+       [
+        4.7,
+        -0.35
+       ],
+       [
+        4.8,
+        -0.236
+       ],
+       [
+        4.9,
+        -0.119
+       ],
+       [
+        5.0,
+        -0.0
+       ],
+       [
+        5.1,
+        0.119
+       ],
+       [
+        5.2,
+        0.236
+       ],
+       [
+        5.3,
+        0.35
+       ],
+       [
+        5.4,
+        0.458
+       ],
+       [
+        5.5,
+        0.558
+       ],
+       [
+        5.6,
+        0.65
+       ],
+       [
+        5.7,
+        0.732
+       ],
+       [
+        5.8,
+        0.802
+       ],
+       [
+        5.9,
+        0.86
+       ],
+       [
+        6.0,
+        0.904
+       ],
+       [
+        6.1,
+        0.933
+       ],
+       [
+        6.2,
+        0.948
+       ],
+       [
+        6.3,
+        0.948
+       ],
+       [
+        6.4,
+        0.933
+       ],
+       [
+        6.5,
+        0.904
+       ],
+       [
+        6.6,
+        0.86
+       ],
+       [
+        6.7,
+        0.802
+       ],
+       [
+        6.8,
+        0.732
+       ],
+       [
+        6.9,
+        0.65
+       ],
+       [
+        7.0,
+        0.558
+       ],
+       [
+        7.1,
+        0.458
+       ],
+       [
+        7.2,
+        0.35
+       ],
+       [
+        7.3,
+        0.236
+       ],
+       [
+        7.4,
+        0.119
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        7.6,
+        -0.119
+       ],
+       [
+        7.7,
+        -0.236
+       ],
+       [
+        7.8,
+        -0.35
+       ],
+       [
+        7.9,
+        -0.458
+       ],
+       [
+        8.0,
+        -0.558
+       ],
+       [
+        8.1,
+        -0.65
+       ],
+       [
+        8.2,
+        -0.732
+       ],
+       [
+        8.3,
+        -0.802
+       ],
+       [
+        8.4,
+        -0.86
+       ],
+       [
+        8.5,
+        -0.904
+       ],
+       [
+        8.6,
+        -0.933
+       ],
+       [
+        8.7,
+        -0.948
+       ],
+       [
+        8.8,
+        -0.948
+       ],
+       [
+        8.9,
+        -0.933
+       ],
+       [
+        9.0,
+        -0.904
+       ],
+       [
+        9.1,
+        -0.86
+       ],
+       [
+        9.2,
+        -0.802
+       ],
+       [
+        9.3,
+        -0.732
+       ],
+       [
+        9.4,
+        -0.65
+       ],
+       [
+        9.5,
+        -0.558
+       ],
+       [
+        9.6,
+        -0.458
+       ],
+       [
+        9.7,
+        -0.35
+       ],
+       [
+        9.8,
+        -0.236
+       ],
+       [
+        9.9,
+        -0.119
+       ],
+       [
+        10.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "cumle": 3,
+      "etiket": "compression limiting",
+      "etiket_konum": [
+       6.25,
+       0.95
+      ],
+      "etiket_dy": -16
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 9,
+      "y": 1.0,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "output limit",
+      "dy": -12,
+      "cumle": 0,
+      "renk": "sari"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kirpilmis",
+     "cumle": 2
+    },
+    {
+     "parca": "sinirlanmis",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "There are two ways to limit maximum output: peak clipping and compression limiting.",
+    "In peak clipping, the peaks of the wave that exceed the limit are cut off flat.",
+    "The clipped wave is no longer a pure sine wave; new harmonics appear and the sound becomes crackly.",
+    "In compression limiting, the aid reduces its gain instead; the shape of the wave is kept, and only its amplitude shrinks.",
+    "So compression limiting gives a much cleaner sound in loud settings.",
+    "Today, peak clipping may still be used in some very powerful aids and as a final safety limit.",
+    "If a person complains that loud sounds are crackly, the possibility that the output is clipping should come to mind."
+   ]
+  },
+  {
+   "id": "genisleme",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "WDRC and limiting",
+   "baslik": "*Expansion*",
+   "maddeler": [
+    {
+     "metin": "Gain drops for very soft inputs",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Suppresses microphone and room noise",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Too much also cuts soft speech",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Verified in the real ear",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 20,
+      "max": 100,
+      "adim": 20,
+      "ad": "Input (dB SPL)"
+     },
+     "y": {
+      "min": 40,
+      "max": 120,
+      "adim": 20,
+      "ad": "Output (dB SPL)"
+     },
+     "seriler": [
+      {
+       "ad": "egri",
+       "noktalar": [
+        [
+         20,
+         45
+        ],
+        [
+         30,
+         60
+        ],
+        [
+         40,
+         75
+        ],
+        [
+         50,
+         85
+        ],
+        [
+         70,
+         95
+        ],
+        [
+         90,
+         105
+        ],
+        [
+         100,
+         106
+        ]
+       ],
+       "renk": "mavi",
+       "cumle": 0
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "genisleme_bolgesi",
+       "x": [
+        20,
+        40
+       ],
+       "renk": "sari",
+       "etiket": "expansion",
+       "cumle": 1
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "genisleme_bolgesi",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Below the compression threshold, for very soft inputs, some aids work in the opposite direction.",
+    "In this region, gain decreases as input decreases; this is called expansion.",
+    "The aim is to keep the microphone's own noise and faint sounds, such as a refrigerator hum, from being heard in a quiet room.",
+    "On the graph, the slope of the curve in the expansion region is greater than one.",
+    "But if expansion is set too strongly, soft speech from a distance can also be weakened.",
+    "So a real-ear measurement at a soft input level is important to confirm that the expansion setting does not cut speech."
+   ]
+  },
+  {
+   "id": "atak",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Time constants",
+   "baslik": "Attack and *release*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 600,
+     "adim": 100,
+     "ad": "Time (ms)"
+    },
+    "y": {
+     "min": 40,
+     "max": 125,
+     "adim": 20,
+     "ad": "Level (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "giris",
+      "noktalar": [
+       [
+        0,
+        55
+       ],
+       [
+        100,
+        55
+       ],
+       [
+        101,
+        90
+       ],
+       [
+        350,
+        90
+       ],
+       [
+        351,
+        55
+       ],
+       [
+        600,
+        55
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 1,
+      "etiket": "input",
+      "etiket_konum": [
+       20,
+       55
+      ],
+      "etiket_dy": 26
+     },
+     {
+      "ad": "cikis",
+      "noktalar": [
+       [
+        0,
+        85
+       ],
+       [
+        100,
+        85
+       ],
+       [
+        101,
+        118
+       ],
+       [
+        104,
+        108
+       ],
+       [
+        110,
+        105
+       ],
+       [
+        350,
+        105
+       ],
+       [
+        351,
+        72
+       ],
+       [
+        380,
+        75
+       ],
+       [
+        420,
+        79
+       ],
+       [
+        470,
+        82
+       ],
+       [
+        520,
+        84
+       ],
+       [
+        600,
+        85
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 6,
+      "cumle": 2,
+      "etiket": "output",
+      "etiket_konum": [
+       20,
+       85
+      ],
+      "etiket_dy": -14
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "atak_tepesi",
+      "x": 101,
+      "y": 118,
+      "etiket": "attack",
+      "renk": "kirmizi",
+      "cumle": 3,
+      "dx": 30
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "birakma",
+      "x": [
+       351,
+       455
+      ],
+      "y": 64,
+      "etiket": "release",
+      "cumle": 5,
+      "etiket_alt": true
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "atak_tepesi",
+     "cumle": 3
+    },
+    {
+     "parca": "birakma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Compression is defined not only by how much it acts, but also by how fast it responds.",
+    {
+     "yazi": "In this example, the input level suddenly rises from 55 to 90 dB SPL.",
+     "ses": "In this example, the input level suddenly rises from fifty five to ninety decibels SPL."
+    },
+    "Because the aid cannot reduce gain instantly, a brief peak appears in the output, and then the output settles at its new level.",
+    "In the standard, attack time is the time after this sudden rise until the output falls to within 3 decibels of its final level.",
+    "When the input drops back to 55 decibels, gain does not return at once; the output stays low for a while.",
+    "Release time is the time until the output returns to within 4 decibels of its final level.",
+    "In most aids the attack time is short, a few milliseconds, so sudden loud sounds are controlled quickly.",
+    "Release time varies widely between aids and determines the character of compression.",
+    "The standard makes these measurements at the frequencies where the input-output curve is measured."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Time constants",
+   "baslik": "*Fast* and slow compression",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Fast compression",
+     "cumle": 0,
+     "metin": "Gain changes syllable by syllable"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Advantage",
+     "cumle": 2,
+     "metin": "Weak consonants are heard"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Slow compression",
+     "cumle": 4,
+     "metin": "Gain follows the setting"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Advantage",
+     "cumle": 6,
+     "metin": "Natural sound, comfort"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Disadvantage",
+     "cumle": 7,
+     "metin": "Slow after sudden sounds"
+    }
+   ],
+   "cumleler": [
+    "Compression with a short release time, below about 200 milliseconds, is called fast or syllabic compression.",
+    "This type of compression can change gain even between the syllables of speech.",
+    "Its advantage is that a weak consonant right after a strong vowel also gets enough gain to be heard.",
+    "Its disadvantage is that it flattens the natural envelope of speech and raises the background in noise, making the sound seem to pump.",
+    "Compression with release times from hundreds of milliseconds to several seconds is called slow compression.",
+    "Slow compression adjusts gain to the overall sound level of the setting and behaves like an automatic volume control.",
+    "Its advantage is that it preserves the envelope and naturalness of speech.",
+    "Its disadvantage is that after a sudden loud sound, such as a door slamming, soft sounds are under-amplified for a while.",
+    "Studies suggest that which approach is more helpful may vary from person to person.",
+    "Some research has linked this difference to the person's cognitive capacity, but there is no single rule in the clinic."
+   ]
+  },
+  {
+   "id": "kanallar",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Time constants",
+   "baslik": "Multichannel *compression*",
+   "maddeler": [
+    {
+     "metin": "Each channel has its own threshold, ratio",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Low and high frequencies processed separately",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Prescriptions give targets for three inputs",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Real ear at 55, 65, 80 dB SPL",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Low channel",
+      "cumle": 2,
+      "metin": "Less loss, less compression"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "High channel",
+      "cumle": 2,
+      "metin": "More loss, different setting"
+     }
+    ],
+    "ust": "PER CHANNEL"
+   },
+   "cumleler": [
+    "Today's hearing aids split sound into several frequency channels and apply separate compression in each one.",
+    "So each channel can have its own compression threshold and ratio.",
+    "This lets compression be set by frequency for a person who hears better at low frequencies and worse at high frequencies.",
+    "We will cover channels and bands in detail in the next lesson.",
+    "To set compression, prescriptive formulas give separate targets for soft, moderate and loud input levels.",
+    {
+     "yazi": "In real-ear measurement, results close to target for 55, 65 and 80 dB SPL inputs show that compression is set correctly.",
+     "ses": "In real-ear measurement, results close to target for fifty five, sixty five and eighty decibel SPL inputs show that compression is set correctly."
+    },
+    "Matching target at the moderate level alone is not enough; soft and loud levels are also checked separately."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "For \"I can't hear soft sounds\", check soft-input gain and expansion; for \"loud sounds bother me\", check maximum output.",
+   "cumleler": [
+    "A tip from the field: sort compression complaints by input level.",
+    "If the person says they cannot hear whispers or distant speech, check the soft-input gain and the expansion setting.",
+    "If they say loud sounds are uncomfortable, first review maximum output and limiting.",
+    "Complaints that the sound is pumping or fluctuating are often related to a short release time.",
+    "After each change, verify the result with a real-ear measurement at the relevant input level."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and quiz",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Dynamic range narrows; compression fits sounds",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kneepoint: the bend; ratio: input/output",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "WDRC low threshold, limiting high threshold",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Short attack; release defines compression",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that the dynamic range narrows in cochlear loss and that compression fits sounds into this range.",
+    "The compression threshold is the point where the input-output curve bends; the ratio is the input change divided by the output change.",
+    {
+     "yazi": "WDRC uses a low threshold and low ratio; compression limiting protects maximum output with a high threshold and high ratio.",
+     "ses": "W D R C uses a low threshold and low ratio; compression limiting protects maximum output with a high threshold and high ratio."
+    },
+    "Attack time is short; release time separates fast from slow compression."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and quiz",
+   "soru": "Above threshold, input rises 30 dB, output 10 dB. Ratio?",
+   "secenekler": [
+    "1:1",
+    "2:1",
+    "3:1",
+    "10:1"
+   ],
+   "dogru": 2,
+   "aciklama": "Ratio = input change / output change: _30 / 10 = 3_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: above the compression threshold, the input rises by 30 decibels while the output rises by 10. What is the compression ratio?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is C: 3 to 1.",
+     "ses": "The correct answer is C: three to one."
+    },
+    "The compression ratio is the input change divided by the output change: thirty divided by ten, which is three."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Channels, Bands and *Frequency Lowering*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Next, we will see how channels differ from bands, and the frequency lowering methods that make high frequencies audible.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

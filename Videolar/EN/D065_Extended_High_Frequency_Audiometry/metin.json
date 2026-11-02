@@ -1,0 +1,898 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D065_Extended_High_Frequency_Audiometry_EN",
+ "kapak": {
+  "ust": "LESSON 65",
+  "baslik": "Extended<br>*high frequency*",
+  "alt": "Audiometry from 8 to 16 kHz",
+  "cizim": "odyometre",
+  "vurgula": [
+   "kulaklik"
+  ]
+ },
+ "youtube": {
+  "baslik": "Extended High-Frequency Audiometry (8-16 kHz) | Lesson 65 | AIHEAR Audiology Academy",
+  "aciklama": "Why and how do we test frequencies above eight thousand hertz? In this lesson we learn the cochlear basis of extended high-frequency audiometry, the need for circumaural earphones and ISO 389-5 calibration, the effect of age and the limits of normative data, its role in ototoxicity and noise monitoring, and the test protocol.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ISO 389-5, Acoustics: Reference zero for the calibration of audiometric equipment, Part 5: Reference equivalent threshold sound pressure levels for pure tones in the frequency range 8 kHz to 16 kHz; Stelmachowicz et al. (1989), Normative thresholds in the 8- to 20-kHz range as a function of age, Journal of the Acoustical Society of America; ASHA (1994), Guidelines for the audiologic management of individuals receiving cochleotoxic drug therapy; American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "ototoxicity"
+  ],
+  "etiketler": [
+   "extended high-frequency audiometry",
+   "EHF audiometry",
+   "ototoxicity monitoring",
+   "circumaural earphone",
+   "ISO 389-5",
+   "pure tone audiometry",
+   "high-frequency hearing loss",
+   "cisplatin",
+   "hidden hearing loss",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 65",
+   "baslik": "Extended *high frequency*",
+   "alt": "Measuring thresholds from 8 to 16 kHz",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn extended high-frequency audiometry, which measures frequencies above eight thousand hertz.",
+    "We will see why it matters, which earphones and calibration it needs, its limits, and where it is used in the clinic."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why above 8 kHz?",
+   "baslik": "The region *outside* the audiogram",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 20000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      20,
+      125,
+      250,
+      1000,
+      4000,
+      8000,
+      16000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "isitme_alani",
+      "x": [
+       20,
+       20000
+      ],
+      "renk": "gri",
+      "etiket": "hearing range of a young ear",
+      "cumle": 1,
+      "opak": 0.06
+     },
+     {
+      "ad": "standart",
+      "x": [
+       250,
+       8000
+      ],
+      "renk": "mavi",
+      "etiket": "standard audiogram",
+      "cumle": 0,
+      "opak": 0.14
+     },
+     {
+      "ad": "ehf",
+      "x": [
+       8000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "extended",
+      "cumle": 2,
+      "opak": 0.3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "test_frekanslari",
+      "x": [
+       9000,
+       16000
+      ],
+      "y": 3,
+      "etiket": "9 to 16 kHz",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ehf",
+     "cumle": 2
+    },
+    {
+     "parca": "test_frekanslari",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Standard pure tone audiometry usually tests from two hundred fifty to eight thousand hertz.",
+    "Yet a young, healthy ear can hear from about twenty hertz to twenty kilohertz.",
+    "Testing above eight thousand hertz is called extended high-frequency audiometry.",
+    {
+     "yazi": "Clinics usually test 9, 10, 11.2, 12.5, 14 and 16 kilohertz.",
+     "ses": "Clinics usually test nine, ten, eleven thousand two hundred, twelve thousand five hundred, fourteen and sixteen thousand hertz."
+    },
+    "Some devices go up to twenty kilohertz, but at these frequencies adults often give no response.",
+    "These frequencies are processed at the very base of the cochlea, in the region closest to the oval window."
+   ]
+  },
+  {
+   "id": "taban",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why above 8 kHz?",
+   "baslik": "The cochlea's *early warning* zone",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 8000
+   },
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Base: highest frequencies",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Drugs, noise, age: _base first_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Change _before the audiogram_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Helps_ hearing in noise",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "The base of the cochlea is where the traveling wave passes first, and it is tuned to the highest frequencies.",
+    "This region is the most sensitive to many kinds of damage; ototoxic drugs, noise and aging often affect it first.",
+    "Because damage usually moves from base to apex, the first changes can appear above eight kilohertz before the standard audiogram changes.",
+    "So the extended high frequencies can be thought of as the cochlea's early warning zone.",
+    "This region is not the most critical one for understanding speech, but it has been reported to help with understanding speech in noise.",
+    "The spectral notches of the pinna that carry direction cues also lie mostly above six kilohertz."
+   ]
+  },
+  {
+   "id": "kulaklik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Technical requirements",
+   "baslik": "Special *earphones* and calibration",
+   "maddeler": [
+    {
+     "metin": "Short wavelength: _standing waves_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Small shift, _big_ difference",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Circumaural_ earphones",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Calibration: _ISO 389-5_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Air conduction_ only",
+     "cumle": 6,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulaklik_yerlesimi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "ikisi",
+     "ustu_cumle": 0,
+     "cevreleyen_cumle": 3
+    },
+    "etiketler": [
+     {
+      "parca": "yastik",
+      "metin": "cushion around the pinna",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_cevreleyen",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Extended high frequencies cannot be measured reliably with ordinary supra-aural earphones.",
+    "At these frequencies, the wavelength drops to a few centimeters and standing waves form in the ear canal.",
+    "Even a small shift of the earphone can clearly change the sound pressure reaching the eardrum.",
+    "So specially designed circumaural earphones, which fully enclose the pinna, are mostly used.",
+    "The audiometer must be able to produce these frequencies and must be calibrated for them with that earphone.",
+    {
+     "yazi": "Reference threshold values are given in the ISO 389-5 standard for specific circumaural and insert earphones.",
+     "ses": "Reference threshold values are given in the I S O three eighty nine, part five standard for specific circumaural and insert earphones."
+    },
+    "Bone conduction is not routinely measured at these frequencies; the test is done by air conduction."
+   ]
+  },
+  {
+   "id": "referans",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Technical requirements",
+   "baslik": "Zero decibels HL *relative to what?*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Earphone specific",
+     "metin": "A separate reference for each type",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Reference rises",
+     "metin": "Sound pressure grows with frequency",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Sometimes dB SPL",
+     "metin": "Check the unit",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Same setup",
+     "metin": "Needed for comparison",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "At extended high frequencies, thresholds are still written in decibels HL, but zero decibels HL is defined for each earphone.",
+    "For each earphone type, the standard gives the sound pressure that matches the average threshold of young adults with normal hearing.",
+    "These reference values grow as frequency rises; so at sixteen kilohertz, zero decibels HL is a fairly high sound pressure.",
+    "Some studies give thresholds directly in decibels SPL; when comparing sources, you need to check the unit.",
+    "In short, these thresholds can only be compared when measured with the same earphone and the same reference."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Technical requirements",
+   "baslik": "The *strong* effect of age",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 8000,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      8000,
+      10000,
+      12500,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "genc",
+      "noktalar": [
+       [
+        8000,
+        5
+       ],
+       [
+        10000,
+        8
+       ],
+       [
+        11200,
+        10
+       ],
+       [
+        12500,
+        13
+       ],
+       [
+        14000,
+        20
+       ],
+       [
+        16000,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 2,
+      "etiket": "ages 20-29",
+      "etiket_konum": [
+       16000,
+       30
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -16,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "orta",
+      "noktalar": [
+       [
+        8000,
+        15
+       ],
+       [
+        10000,
+        25
+       ],
+       [
+        11200,
+        32
+       ],
+       [
+        12500,
+        40
+       ],
+       [
+        14000,
+        55
+       ],
+       [
+        16000,
+        70
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "cumle": 3,
+      "etiket": "ages 40-49",
+      "etiket_konum": [
+       16000,
+       70
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -16,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "ileri",
+      "noktalar": [
+       [
+        8000,
+        35
+       ],
+       [
+        10000,
+        50
+       ],
+       [
+        11200,
+        60
+       ],
+       [
+        12500,
+        72
+       ],
+       [
+        14000,
+        85
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "cumle": 4,
+      "etiket": "over 60",
+      "etiket_konum": [
+       10000,
+       50
+      ],
+      "etiket_dx": -14,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yanit_yok",
+      "x": 16000,
+      "y": 95,
+      "etiket": "no response",
+      "dx": -40,
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yayilim",
+      "x": [
+       12500,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "wide differences between people",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "yayilim",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Extended high-frequency thresholds change very clearly with age.",
+    "The curves in the graph are illustrative; they show how average thresholds change in different age groups.",
+    "In young adults, thresholds can stay fairly good up to sixteen kilohertz.",
+    "From the thirties and forties on, thresholds rise quickly at the highest frequencies.",
+    "Over the age of sixty, most people give no response at the highest frequencies, even at the device limit.",
+    "Even within the same age group, differences between people are very large; differences of twenty or thirty decibels are common.",
+    "So normative data are limited, and it is hard to classify a single measurement as normal or abnormal."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Technical requirements",
+   "baslik": "*Limits* of the method",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Low output",
+     "metin": "No response with moderate loss",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Test-retest difference",
+     "metin": "Larger than standard frequencies",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Earphone differences",
+     "metin": "Not directly comparable",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Individual factors",
+     "metin": "Ear canal, placement",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Real strength",
+     "metin": "Change over time",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Extended high-frequency audiometry has some limits.",
+    "The audiometer's maximum output at these frequencies is low; even with a moderate loss, there may be no response.",
+    "The difference between two tests on the same day is usually larger than at the standard frequencies.",
+    "Results obtained with different earphones and standards cannot be compared directly.",
+    "Individual factors such as ear canal size and earphone placement can also change the result.",
+    "So the real strength of the method is tracking change over time in the same person."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Clinical use",
+   "baslik": "*Where* is it used?",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoxicity",
+     "metin": "The most established use",
+     "cumle": 0
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "Noise",
+     "metin": "Early effects under study",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "metin": "Loss with a normal audiogram",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Hearing in noise",
+     "metin": "May explain the complaint",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The most established use of extended high-frequency audiometry is ototoxicity monitoring.",
+    "The effects of drugs such as cisplatin and aminoglycosides often appear first at the highest frequencies.",
+    "Catching early change gives the treatment team information before the speech frequencies are affected.",
+    "Threshold shifts at these frequencies have also been reported in people exposed to noise, but findings are inconsistent.",
+    "Some tinnitus patients with a normal standard audiogram may have loss at the extended high frequencies.",
+    "Loss at these frequencies has also been reported in people who struggle with speech in noise despite a normal audiogram.",
+    "In these areas, the method alone does not make a diagnosis, but it helps explain the complaint and plan monitoring."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Clinical use",
+   "baslik": "Normal audiogram, *hidden* loss",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ],
+       [
+        10000,
+        35
+       ],
+       [
+        11200,
+        45
+       ],
+       [
+        12500,
+        55
+       ],
+       [
+        14000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "normal",
+      "cumle": 1,
+      "opak": 0.1
+     },
+     {
+      "ad": "ehf",
+      "x": [
+       8000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "extended",
+      "cumle": 2,
+      "opak": 0.2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yanit_yok",
+      "x": 16000,
+      "y": 90,
+      "etiket": "no response",
+      "dx": -40,
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ehf",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Let us look at an example; the values are for teaching.",
+    "This person's thresholds from two hundred fifty to eight thousand hertz are within normal limits.",
+    "But from ten kilohertz on, the thresholds rise clearly, and there is no response at sixteen kilohertz.",
+    "With a standard audiogram this ear would be reported as normal; the extended test shows a change in the basal region.",
+    "How expected this finding is for the person's age is interpreted carefully, using age-appropriate data."
+   ]
+  },
+  {
+   "id": "protokol",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Clinical use",
+   "baslik": "Test *steps*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Pre-check",
+     "metin": "Otoscopy, tympanometry",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Placement",
+     "metin": "Fully enclose the ear",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "8 kHz bridge",
+     "metin": "Measure with both earphones",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Threshold",
+     "metin": "Pulsed tone, 5 dB steps",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Recording",
+     "metin": "Earphone and no-responses",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The extended high-frequency test follows the same principles as standard pure tone audiometry.",
+    "First, otoscopy and tympanometry are done; earwax or a middle ear problem can also affect high-frequency thresholds.",
+    "The circumaural earphone is placed so that it fully encloses the ear, without obstacles such as hair or glasses.",
+    "In many protocols, eight thousand hertz is measured with both the standard and the extended earphone, linking the two measurements.",
+    "The threshold is found with the usual method in five-decibel steps; a pulsed tone makes it less likely to be confused with tinnitus.",
+    "If there is no response at the device limit, it is recorded with the proper symbol and the maximum level presented.",
+    "The report states the earphone type and the device; the same setup is used each time during monitoring."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Clinical use",
+   "baslik": "*Monitoring* in children",
+   "maddeler": [
+    {
+     "metin": "_Valuable_ in oncology monitoring",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Thresholds usually _better_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "The _most important_ frequencies first",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "If needed, monitor with _DPOAE_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "oae",
+    "cumle": 3,
+    "ayar": {
+     "tur": "DPOAE"
+    }
+   },
+   "cumleler": [
+    "The extended high-frequency test can also be done in children; it is especially valuable for monitoring children in cancer treatment.",
+    "Children usually have better thresholds at these frequencies than adults; age-related decline has not yet begun.",
+    "But the test can take long and attention can drift quickly, so the frequencies most important for monitoring are tested first.",
+    "If behavioral responses are not reliable, outer hair cell function can be tracked with distortion product otoacoustic emissions, or DPOAEs.",
+    "Whatever method is chosen, a baseline measurement before treatment is the foundation of monitoring."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Take care in the clinic",
+   "metin": "When you see a change, reposition the earphone and retest. If there is no response at the limit, do not leave it blank; record the maximum level and no response.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from practice: test-retest differences are large at the extended high frequencies.",
+    "When you see a change, remove and reposition the earphone and measure those frequencies again.",
+    "If the change persists on the second measurement, record it; do not draw conclusions from a single measurement.",
+    "If there is no response at the device limit, do not leave the frequency blank; clearly record the maximum level and no response."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Test range: about _9 to 16 kHz_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Circumaural earphones, _ISO 389-5_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Strong age effect, _limited norms_",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Real strength: _monitoring_, especially ototoxicity",
+     "cumle": 3,
+     "ikon": "ilac"
+    }
+   ],
+   "cumleler": [
+    "Extended high-frequency audiometry tests above eight thousand hertz, usually up to sixteen kilohertz.",
+    "This test needs special circumaural earphones and a calibration made for these frequencies.",
+    "Thresholds worsen clearly with age and differ widely between people, so normative data are limited.",
+    "The real strength of the method is catching change over time in the same person early, especially in ototoxicity monitoring."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which earphone is preferred for this test?",
+   "secenekler": [
+    "Circumaural earphone",
+    "Supra-aural earphone",
+    "Bone vibrator",
+    "Sound field loudspeaker"
+   ],
+   "dogru": 0,
+   "aciklama": "With short wavelengths, placement errors grow; a _circumaural_ earphone is more reliable.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which type of earphone is preferred in extended high-frequency audiometry?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: the circumaural earphone.",
+    "Wavelengths are very short at these frequencies; an earphone that fully encloses the ear reduces placement errors and standing wave effects."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Outer Ear *Disorders*: Wax, Otitis Externa, Exostosis",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move on to outer ear disorders: earwax impaction, otitis externa and exostosis.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

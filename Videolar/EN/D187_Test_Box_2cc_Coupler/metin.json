@@ -1,0 +1,996 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D187_Test_Box_2cc_Coupler_EN",
+ "kapak": {
+  "ust": "LESSON 187",
+  "baslik": "*Test box*<br>measurements",
+  "alt": "ANSI S3.22 and quality control",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  }
+ },
+ "youtube": {
+  "baslik": "Test Box Measurements and the 2 cc Coupler | Lesson 187 | AIHEAR Audiology Academy",
+  "aciklama": "Where and how are the electroacoustic measurements of a hearing aid made? In this lesson we cover the parts of the test box and leveling, the HA-1 and HA-2 couplers, the difference between the coupler and the ear canal, the ANSI S3.22 and IEC 60118-7 standards, and quality control steps before delivery.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Dillon, Hearing Aids; Katz, Handbook of Clinical Audiology; ANSI/ASA S3.22, Specification of Hearing Aid Characteristics; IEC 60118-7, Electroacoustics, Hearing aids, Part 7; IEC 60318-5, Electroacoustics, Simulators of human head and ear, Part 5: 2 cm3 coupler.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "ANSI"
+  ],
+  "etiketler": [
+   "test box",
+   "2 cc coupler",
+   "HA-1 coupler",
+   "HA-2 coupler",
+   "ANSI S3.22",
+   "IEC 60118-7",
+   "quality control",
+   "electroacoustic measurement",
+   "hearing aid",
+   "ear simulator",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 187",
+   "baslik": "The test box and the *2 cc* coupler",
+   "alt": "Quality control before delivery with ANSI S3.22",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    {
+     "yazi": "In this lesson we will take a close look at the test box, where hearing aid electroacoustic measurements are made, and the 2 cc coupler.",
+     "ses": "In this lesson we will take a close look at the test box, where hearing aid electroacoustic measurements are made, and the two cc coupler."
+    },
+    {
+     "yazi": "We will cover the HA-1 and HA-2 couplers, the ANSI and IEC standards, and the quality control done before a hearing aid is delivered.",
+     "ses": "We will cover the H A one and H A two couplers, the ANSI and I E C standards, and the quality control done before a hearing aid is delivered."
+    }
+   ]
+  },
+  {
+   "id": "kutu",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The test box",
+   "baslik": "Parts of the *test box*",
+   "cumleler": [
+    {
+     "yazi": "In the lesson on electroacoustic characteristics we defined maximum output, or OSPL90, and distortion; now let us see the measurement setup.",
+     "ses": "In the lesson on electroacoustic characteristics we defined maximum output, or O S P L ninety, and distortion; now let us see the measurement setup."
+    },
+    "The test box is a small measurement chamber, insulated from outside noise and lined with sound-absorbing material.",
+    "Inside the box is a small loudspeaker that produces the test sound.",
+    "A reference microphone, placed right next to the hearing aid microphone, measures the input level reaching the aid.",
+    {
+     "yazi": "The output of the aid goes into a 2 cc coupler; a measurement microphone inside the coupler records the output sound pressure level.",
+     "ses": "The output of the aid goes into a two cc coupler; a measurement microphone inside the coupler records the output sound pressure level."
+    },
+    "The analyzer generates the signal, compares the values from the two microphones and plots the results as curves."
+   ],
+   "cizim": "kuplor",
+   "ayar": {
+    "mod": "test_kutusu",
+    "goster": {
+     "ses_emici": 1,
+     "hoparlor": 2,
+     "referans_mikrofon": 3,
+     "kuplor": 4,
+     "analizor": 5
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "kutu",
+     "metin": "Insulated box",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "Loudspeaker",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofon",
+     "metin": "Reference microphone",
+     "cumle": 3
+    },
+    {
+     "parca": "kuplor",
+     "metin": "Coupler and microphone",
+     "cumle": 4
+    },
+    {
+     "parca": "analizor",
+     "metin": "Analyzer",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kutu",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofon",
+     "cumle": 3
+    },
+    {
+     "parca": "kuplor",
+     "cumle": 4
+    },
+    {
+     "parca": "analizor",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "esitleme",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The test box",
+   "baslik": "Keeping the input steady: *leveling*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sound is presented",
+     "metin": "Same target at every frequency",
+     "cumle": 0
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Measured",
+     "metin": "With the reference microphone",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Corrected",
+     "metin": "Speaker deviation is offset",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Steady input",
+     "metin": "E.g. 60 dB SPL",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A small loudspeaker does not produce the same level at every frequency, and reflections inside the box also change the level.",
+    "So before or during the measurement, the sound level at the test point is measured with the reference microphone.",
+    "The analyzer corrects the loudspeaker output at each frequency to reach the target level; this process is called leveling.",
+    "In some systems leveling is done beforehand and stored, while in others it is maintained continuously throughout the measurement.",
+    "As a result, the hearing aid microphone receives a known, steady input, for example sixty decibels SPL at every frequency.",
+    "This way we can be sure that changes in the output measured in the coupler come from the hearing aid, not the loudspeaker."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The test box",
+   "baslik": "*Where* does the aid go?",
+   "maddeler": [
+    {
+     "metin": "Microphone at the test point",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Reference microphone right beside it",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Lid closed, surroundings quiet",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Cable and tubing not stretched",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "vurgula": [
+     {
+      "parca": "mikrofon",
+      "cumle": 0
+     },
+     {
+      "parca": "alici",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Inside the box there is a test point marked by the manufacturer; the hearing aid microphone is placed at this point.",
+    "The reference microphone sits as close as possible to the hearing aid microphone, but without touching it.",
+    "The orientation of the aid relative to the loudspeaker also matters; with directional microphones, the wrong orientation changes the result.",
+    "During the measurement the lid of the box is closed, and nearby conversation or vibration is kept to a minimum.",
+    "The tubing or cable to the coupler must not be kinked or stretched; otherwise the high-frequency response may be distorted."
+   ]
+  },
+  {
+   "id": "kuplor",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The 2 cc coupler",
+   "baslik": "What is the *2 cc* coupler?",
+   "maddeler": [
+    {
+     "metin": "Hard-walled, 2 cc cavity",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Measurement microphone inside",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Simple, inexpensive, repeatable",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Not an ear: different impedance",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Comparable",
+      "metin": "The same in every clinic",
+      "cumle": 2
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Not an ear",
+      "metin": "Differs from the ear canal",
+      "cumle": 3
+     }
+    ],
+    "ust": "2 cc COUPLER"
+   },
+   "cumleler": [
+    "A coupler is a small hard-walled cavity with a volume of two cubic centimeters, used to measure the output of a hearing aid.",
+    "At the bottom of the cavity is a sensitive microphone that measures sound pressure.",
+    "Its simple design means it can be made the same way everywhere, so results can be compared between clinics.",
+    "However, its hard walls do not mimic the acoustic properties of the eardrum and the tissue of the ear canal.",
+    "So the coupler is ideal for measuring the properties of the hearing aid itself, but it does not directly show the sound in the ear."
+   ]
+  },
+  {
+   "id": "ha",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The 2 cc coupler",
+   "baslik": "*HA-1* and HA-2",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "HA-1",
+     "metin": "In-the-ear; sealed directly with putty",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "HA-2",
+     "metin": "Behind-the-ear; with earhook and tubing",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "How the hearing aid is connected to the coupler changes the result, so the standards define different types of connection.",
+    {
+     "yazi": "The HA-1 coupler is used for in-the-ear aids and earmolds; the sound outlet of the aid sits directly on the coupler inlet.",
+     "ses": "The H A one coupler is used for in-the-ear aids and earmolds; the sound outlet of the aid sits directly on the coupler inlet."
+    },
+    "The connection is sealed with a special putty so that no sound leaks out.",
+    {
+     "yazi": "The HA-2 coupler, on the other hand, is for behind-the-ear aids.",
+     "ses": "The H A two coupler, on the other hand, is for behind-the-ear aids."
+    },
+    "In this coupler, the earmold is replaced by a standard-sized earmold-like fitting and tubing of a set length.",
+    "This way the earhook and tubing of the behind-the-ear aid are part of the measurement, reflecting use with a standard earmold."
+   ]
+  },
+  {
+   "id": "ha_pratik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The 2 cc coupler",
+   "baslik": "Connection in *practice*",
+   "maddeler": [
+    {
+     "metin": "Thin tube and RIC: HA-1 with adapter",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Coupler type is noted in the report",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Leak: low frequencies drop",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Blocked tubing: highs drop",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "alici",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Thin-tube and receiver-in-canal aids are usually connected to the HA-1 coupler with an adapter recommended by the manufacturer.",
+     "ses": "Thin-tube and receiver-in-canal aids are usually connected to the H A one coupler with an adapter recommended by the manufacturer."
+    },
+    "The same aid gives slightly different curves with different couplers; the difference is clearer at high frequencies.",
+    "So for comparison, measure with the coupler type given in the manufacturer's specification sheet, and record it.",
+    "A small leak in the connection leads to output being measured too low, especially at low frequencies.",
+    "A drop of water, debris or a kink in the tubing reduces high-frequency output and can falsely suggest a fault."
+   ]
+  },
+  {
+   "id": "kulak_fark",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The 2 cc coupler",
+   "baslik": "The coupler and the *ear canal*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 110,
+     "adim": 10,
+     "ad": "Output (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "kuplor",
+      "noktalar": [
+       [
+        250,
+        78
+       ],
+       [
+        500,
+        86
+       ],
+       [
+        1000,
+        95
+       ],
+       [
+        1600,
+        99
+       ],
+       [
+        2000,
+        98
+       ],
+       [
+        3000,
+        94
+       ],
+       [
+        4000,
+        88
+       ],
+       [
+        6000,
+        76
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "2 cc coupler",
+      "cumle": 1
+     },
+     {
+      "ad": "kulak",
+      "noktalar": [
+       [
+        250,
+        80
+       ],
+       [
+        500,
+        89
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        1600,
+        106
+       ],
+       [
+        2000,
+        106
+       ],
+       [
+        3000,
+        104
+       ],
+       [
+        4000,
+        100
+       ],
+       [
+        6000,
+        90
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "adult ear canal",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       88,
+       100
+      ],
+      "xk": 4000,
+      "etiket": "about 12 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Smaller volume, higher pressure",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Larger difference in children",
+     "cumle": 5,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Let us look at the difference between the coupler and the ear canal with an example; the values are for teaching purposes.",
+    {
+     "yazi": "The navy curve shows the output of a hearing aid measured in a 2 cc coupler.",
+     "ses": "The navy curve shows the output of a hearing aid measured in a two cc coupler."
+    },
+    "The dashed red curve shows the output of the same aid in an adult ear canal with an earmold.",
+    "Ear canal output is higher than coupler output, especially at high frequencies; here, about twelve decibels at four kilohertz.",
+    "The main reason is that the volume between the earmold and the eardrum is smaller than two cubic centimeters.",
+    "This difference is called the real-ear-to-coupler difference, or RECD; it is even larger in children.",
+    "We will cover how RECD is measured and why it matters in children in detail in a later lesson."
+   ]
+  },
+  {
+   "id": "simulator",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The 2 cc coupler",
+   "baslik": "A more *realistic* cavity",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "2 cc coupler",
+     "metin": "Simple, hard-walled",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Ear simulator",
+     "metin": "Mimics ear impedance",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Use",
+     "metin": "Coupler for quality control",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Because the 2 cc coupler does not mimic the acoustics of the ear, more realistic measurement cavities were developed over time.",
+     "ses": "Because the two cc coupler does not mimic the acoustics of the ear, more realistic measurement cavities were developed over time."
+    },
+    "One of these is the occluded ear simulator, often referred to as the Zwislocki type.",
+    "In this device, extra small volumes and narrow channels mimic the acoustic behavior of the adult ear canal and eardrum.",
+    "So the ear simulator gives a result closer to the sound in the ear, but it is more complex and more expensive.",
+    {
+     "yazi": "For everyday quality control, the 2 cc coupler is still used because it is simple and standardized.",
+     "ses": "For everyday quality control, the two cc coupler is still used because it is simple and standardized."
+    }
+   ]
+  },
+  {
+   "id": "standart",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Standards",
+   "baslik": "Which *standard*?",
+   "sutunlar": [
+    "Standard",
+    "Scope"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ANSI S3.22",
+      "Specifications, tolerances (US)"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "IEC 60118-7",
+      "Quality control (international)"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "IEC 60318-5",
+      "2 cc coupler definition"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "IEC 60318-4",
+      "Occluded ear simulator"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "International standards are used so that measurements are made the same way everywhere.",
+    {
+     "yazi": "In the US the main standard is ANSI S3.22; it defines how hearing aid characteristics are measured and their tolerances.",
+     "ses": "In the U.S. the main standard is ANSI S three point twenty two; it defines how hearing aid characteristics are measured and their tolerances."
+    },
+    "Manufacturers prepare the specification sheet according to this standard, and values measured at delivery are compared with it.",
+    {
+     "yazi": "Internationally, the IEC 60118 series is used; quality control measurements are defined in part seven.",
+     "ses": "Internationally, the I E C sixty one eighteen series is used; quality control measurements are defined in part seven."
+    },
+    {
+     "yazi": "The 2 cc coupler itself is defined in part five of the IEC 60318 series.",
+     "ses": "The two cc coupler itself is defined in part five of the I E C sixty three eighteen series."
+    },
+    "The occluded ear simulator is in part four of the same series; standards are revised over time, so follow the latest edition."
+   ]
+  },
+  {
+   "id": "neden_standart",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Standards",
+   "baslik": "What does standard measurement *provide?*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Match with specifications",
+     "metin": "The promised performance",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Comparison",
+     "metin": "Across devices and time",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Fault detection",
+     "metin": "Shows deterioration early",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Standard measurement shows whether the hearing aid has the characteristics promised in the manufacturer's specification sheet.",
+    "A new aid may have been damaged during shipping or manufacture, and only measurement can reveal this.",
+    "Measurements under the same conditions let us compare two aids, or the same aid at different times.",
+    "The standard does not tell us whether the aid suits the person; that question is answered by real-ear measurement.",
+    "But when an aid deteriorates, standard measurement often shows it before the user notices."
+   ]
+  },
+  {
+   "id": "teslim",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Quality control",
+   "baslik": "Steps before *delivery*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Listening check",
+     "metin": "With a stethoclip",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Test setting",
+     "metin": "Features turned off",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Measurement",
+     "metin": "Standard curves",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Comparison",
+     "metin": "With the specification sheet",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Record",
+     "metin": "Kept in the file",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Before delivery, the aid is attached to a listening tube, or stethoclip, and listened to for static or dropouts.",
+    "Then adaptive features such as noise reduction and feedback management are turned off, and the aid is set to the test setting.",
+    "In some measurements, a battery simulator that supplies a constant voltage may be used instead of a battery.",
+    {
+     "yazi": "In the coupler, OSPL90, full-on gain, frequency response, distortion, equivalent input noise and battery current are measured.",
+     "ses": "In the coupler, O S P L ninety, full-on gain, frequency response, distortion, equivalent input noise and battery current are measured."
+    },
+    "The measured values are compared with those in the specification sheet, within the tolerances of the standard.",
+    "The printout is stored with its date in the person's file; this record is the reference point if a fault is suspected later."
+   ]
+  },
+  {
+   "id": "tolerans",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Quality control",
+   "baslik": "Within *tolerance?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 90,
+     "max": 130,
+     "adim": 10,
+     "ad": "OSPL90 (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "uretici",
+      "noktalar": [
+       [
+        200,
+        100
+       ],
+       [
+        500,
+        108
+       ],
+       [
+        1000,
+        114
+       ],
+       [
+        1600,
+        118
+       ],
+       [
+        2500,
+        116
+       ],
+       [
+        4000,
+        110
+       ],
+       [
+        6000,
+        101
+       ],
+       [
+        8000,
+        94
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "manufacturer curve",
+      "cumle": 0
+     },
+     {
+      "ad": "olcum",
+      "noktalar": [
+       [
+        200,
+        99
+       ],
+       [
+        500,
+        107
+       ],
+       [
+        1000,
+        113
+       ],
+       [
+        1600,
+        116
+       ],
+       [
+        2500,
+        115
+       ],
+       [
+        4000,
+        108
+       ],
+       [
+        6000,
+        99
+       ],
+       [
+        8000,
+        92
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "delivery measurement",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hfa",
+      "x": [
+       1000,
+       2500
+      ],
+      "renk": "sari",
+      "etiket": "HFA frequencies",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ortalama",
+      "x": 1600,
+      "y": 114.7,
+      "cizgi": "yatay",
+      "etiket": "HFA: within 4 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Average: at most 4 dB difference",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Curve shape should match too",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In this example, the navy curve shows the OSPL90 curve reported by the manufacturer.",
+     "ses": "In this example, the navy curve shows the O S P L ninety curve reported by the manufacturer."
+    },
+    "The blue curve is the one measured in the test box before delivery; the values are for teaching purposes.",
+    "The comparison uses the standard's high-frequency average, that is, one thousand, sixteen hundred and twenty five hundred hertz.",
+    "As we saw earlier, this average may differ from the specification by at most four decibels; here the difference is about one decibel.",
+    "The shape of the curve should also resemble the manufacturer's curve; a deep dip or a sharp peak at a single frequency needs attention.",
+    "This aid is fit for delivery; the next step is to fit it to the person and verify it in the real ear."
+   ]
+  },
+  {
+   "id": "ariza",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Quality control",
+   "baslik": "*What* does the measurement show?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Low gain",
+     "metin": "Blocked receiver or microphone",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "High distortion",
+     "metin": "Weak battery, damaged receiver",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "High battery current",
+     "metin": "Battery runs down quickly",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The test box measurement is the first tool to turn to not only at delivery, but also when the user reports a problem.",
+    "Gain lower than expected often points to a receiver or microphone inlet blocked with debris.",
+    "Increased distortion suggests a weak battery or a damaged receiver.",
+    "High battery current may explain the user's complaint that batteries run down quickly.",
+    "These findings help send the aid to the right place for cleaning, maintenance or repair."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Store the delivery measurement with the coupler type and test setting. If a fault is suspected, repeat it under the same conditions and overlay the two curves.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: store the delivery measurement not just as a result, but with the coupler type and test setting used.",
+    "When the user complains months later that the sound has become weaker, repeat the measurement with the same coupler, program and setting.",
+    "Overlaying the two curves often shows at once whether the problem lies in the aid, or in the ear or in expectations.",
+    "Comparing two measurements made under different conditions, however, can lead you to a wrong decision about a fault."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Test box: loudspeaker, reference microphone, coupler",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "HA-1 for in-the-ear, HA-2 for behind-the-ear",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Ear canal gives higher pressure than coupler",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Delivery measurement compared with specifications",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The test box gives the aid a steady input through a leveled loudspeaker and measures output with the microphone in a 2 cc coupler.",
+     "ses": "The test box gives the aid a steady input through a leveled loudspeaker and measures output with the microphone in a two cc coupler."
+    },
+    {
+     "yazi": "The HA-1 coupler is used for in-the-ear aids, and the HA-2 coupler for behind-the-ear aids with their earhook and tubing.",
+     "ses": "The H A one coupler is used for in-the-ear aids, and the H A two coupler for behind-the-ear aids with their earhook and tubing."
+    },
+    "The coupler is not an ear; output in the ear canal is higher than in the coupler, especially at high frequencies.",
+    "The pre-delivery measurement follows the standard and is compared with the values in the specification sheet."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which devices is the HA-2 coupler used for?",
+   "secenekler": [
+    "In-the-ear aids",
+    "Behind-the-ear aids",
+    "Bone conduction devices",
+    "Cochlear implants"
+   ],
+   "dogru": 1,
+   "aciklama": "HA-2 uses a standard fitting and tubing instead of an earmold; the behind-the-ear aid is measured with its earhook and tubing.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which devices is the HA-2 coupler designed to measure?",
+     "sonra_bekle": 5,
+     "ses": "Test yourself: which devices is the H A two coupler designed to measure?"
+    },
+    "The correct answer is B: behind-the-ear aids.",
+    {
+     "yazi": "HA-2 uses a standard fitting and tubing instead of an earmold, while in-the-ear aids connect directly to the HA-1 coupler.",
+     "ses": "H A two uses a standard fitting and tubing instead of an earmold, while in-the-ear aids connect directly to the H A one coupler."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Who Is a Hearing Aid *Candidate?* Needs Assessment",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how hearing aid candidacy is determined and how needs are assessed.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

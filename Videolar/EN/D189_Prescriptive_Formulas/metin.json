@@ -1,0 +1,733 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D189_Prescriptive_Formulas_EN",
+ "kapak": {
+  "ust": "LESSON 189",
+  "baslik": "*NAL-NL2*<br>and DSL v5",
+  "alt": "Prescriptive formulas and target gain",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      30,
+      35,
+      40,
+      50,
+      60,
+      65
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Prescriptive Formulas: NAL-NL2 and DSL v5 | Lesson 189 | AIHEAR Audiology Academy",
+  "aciklama": "How do we decide how much gain a hearing aid should provide? In this lesson we explain the logic of prescriptive formulas and target gain, and compare the speech intelligibility focus of NAL-NL2 with the audibility focus of DSL v5, especially for children.\\n\\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\\n\\nSources: Dillon, Hearing Aids; Keidser et al., The NAL-NL2 prescription procedure, Audiology Research (2011); Scollie et al., The Desired Sensation Level multistage input/output algorithm, Trends in Amplification (2005); Mueller, Ricketts and Bentler, Modern Hearing Aids; Katz, Handbook of Clinical Audiology.\\n\\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "NALNL2"
+  ],
+  "etiketler": [
+   "NAL-NL2",
+   "DSL v5",
+   "prescriptive formula",
+   "prescriptive target",
+   "target gain",
+   "hearing aid fitting",
+   "hearing aid prescription",
+   "Desired Sensation Level",
+   "pediatric hearing aids",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 189",
+   "baslik": "*NAL-NL2* and DSL v5",
+   "alt": "Prescriptive formulas: how is target gain set?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how the amount of gain a hearing aid should provide is determined.",
+    {
+     "yazi": "We will compare the two most widely used prescriptive formulas, NAL-NL2 and DSL v5, and their goals.",
+     "ses": "We will compare the two most widely used prescriptive formulas, NAL-NL2 and DSL version 5, and their goals."
+    }
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Prescriptive logic",
+   "baslik": "What is a prescriptive *formula?*",
+   "maddeler": [
+    {
+     "metin": "Calculates _target gain_ from the audiogram",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "A separate target for each frequency",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "A separate target for each input level",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Age, experience, measurements also entered",
+     "cumle": 5,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PRESCRIPTIVE TARGET",
+    "metin": "*Prescriptive target*: the gain or output the formula predicts",
+    "cumle": 6
+   },
+   "cumleler": [
+    "A prescriptive formula is a set of rules that calculates the gain a hearing aid should provide from a person's hearing thresholds.",
+    "The aim is a scientifically defensible starting point, rather than leaving the fitting to trial and error.",
+    "The formula gives a separate target for each frequency, because hearing loss usually differs across frequencies.",
+    "Because today's hearing aids use compression, targets are calculated separately for soft, medium and loud input levels.",
+    "In other words, a soft sound needs more gain than a loud sound.",
+    "Besides thresholds, the calculation also uses information such as age, hearing aid experience and unilateral or bilateral fitting.",
+    "The value predicted by the formula is called the prescriptive target."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Prescriptive logic",
+   "baslik": "A brief *history*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Half-gain rule",
+     "metin": "Lybarger, 1944",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "NAL-R",
+     "metin": "Linear formulas",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "NAL-NL2",
+     "metin": "Nonlinear",
+     "cumle": 4
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "DSL v5",
+     "metin": "Child-focused",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The best-known early example of prescription is the half-gain rule proposed by Lybarger in 1944.",
+    "By this rule, the hearing aid should give gain equal to about half the threshold loss at each frequency.",
+    {
+     "yazi": "In later years, linear formulas such as NAL-R adjusted the balance across frequencies to the speech band.",
+     "ses": "In later years, linear formulas such as nal R adjusted the balance across frequencies to the speech band."
+    },
+    "But linear formulas were designed for a single input level; hearing aids with compression needed new approaches.",
+    {
+     "yazi": "Australia's National Acoustic Laboratories published the nonlinear NAL-NL1 and, in 2011, NAL-NL2.",
+     "ses": "Australia's National Acoustic Laboratories published the nonlinear nal N.L 1 and, in 2011, NAL-NL2."
+    },
+    {
+     "yazi": "The DSL method, developed at the University of Western Ontario in Canada, reached version DSL v5 in 2005.",
+     "ses": "The DSL method, developed at the University of Western Ontario in Canada, reached version 5 in 2005."
+    },
+    "Today these are the two generic formulas most often met in the clinic."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "Prescriptive logic",
+   "baslik": "Same audiogram, *different targets*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ range",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       35,
+       40,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "This example shows a right ear loss sloping toward the high frequencies, from mild to moderately severe.",
+    "Compared with the normal range, it is clear that most high-frequency speech sounds are not heard.",
+    "When this audiogram is entered into a formula, the result is a target curve with more gain at high frequencies.",
+    {
+     "yazi": "But for the same audiogram, NAL-NL2 and DSL v5 recommend different targets.",
+     "ses": "But for the same audiogram, NAL-NL2 and DSL version 5 recommend different targets."
+    },
+    "Even the same formula can give a different target when the person's age or hearing aid experience changes.",
+    "These differences arise because the two formulas are actually trying to answer different questions."
+   ]
+  },
+  {
+   "id": "nal",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "NAL-NL2",
+   "baslik": "*NAL-NL2*: a focus on intelligibility",
+   "maddeler": [
+    {
+     "metin": "Goal: maximize speech _intelligibility_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Overall loudness no higher than normal",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Intelligibility and loudness models",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Target: gain or ear canal output",
+     "cumle": 6,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "NAL-NL2 is a nonlinear formula developed by Australia's National Acoustic Laboratories."
+    },
+    "Its main goal is to maximize speech intelligibility for a given sound input.",
+    "In doing so, it makes sure overall loudness does not exceed what a person with normal hearing would perceive.",
+    "The formula was derived using a speech intelligibility model together with a loudness model.",
+    "Empirical corrections from studies with hearing aid users were also added.",
+    {
+     "yazi": "As a result, NAL-NL2 prioritizes the regions that contribute most to intelligibility, rather than making every sound audible."
+    },
+    "Its targets can be shown as real-ear insertion gain or as output level in the ear canal."
+   ]
+  },
+  {
+   "id": "duyarlilik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "NAL-NL2",
+   "baslik": "Why *less gain* at high frequencies?",
+   "maddeler": [
+    {
+     "metin": "Severe loss extracts less information",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "More audibility brings little benefit",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cost in loudness and feedback",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EFFECTIVE AUDIBILITY",
+    "metin": "The *real contribution* of audible sound to intelligibility",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "An important feature of NAL-NL2 is that it limits gain at frequencies where the loss is very severe."
+    },
+    "Research showed that in regions of severe loss, the ear extracts less information from sound even when it is made audible.",
+    "So giving a lot of gain in that region may not bring the expected benefit to intelligibility.",
+    "Moreover, extra gain increases loudness and the risk of feedback.",
+    "The formula strikes this balance with effective audibility: what matters is not hearing a sound, but its contribution to intelligibility.",
+    {
+     "yazi": "This approach makes NAL-NL2 strong in balancing comfort and intelligibility, especially for adult users."
+    },
+    "So at a frequency with a very severe loss, a target gain lower than the threshold loss would suggest is not an error."
+   ]
+  },
+  {
+   "id": "duzeltme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "NAL-NL2",
+   "baslik": "NAL-NL2 *corrections*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "New user",
+     "metin": "Less gain at first",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Child",
+     "metin": "More gain",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Female user",
+     "metin": "Slightly less gain",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Bilateral fitting",
+     "metin": "Less than unilateral",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "NAL-NL2 adjusts the target by small amounts based on certain personal information."
+    },
+    "For people new to hearing aids, especially with moderate and severe losses, starting gain is kept slightly lower.",
+    "For children, more gain is prescribed than adults prefer.",
+    "Studies found that female users on average preferred slightly less gain, so this is also taken into account.",
+    "With aids in both ears, less gain is needed than for a unilateral fitting, because the two ears sum loudness.",
+    "So every piece of information entered in the software must be correct for the target to be correct."
+   ]
+  },
+  {
+   "id": "dsl",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "DSL v5",
+   "baslik": "*DSL v5*: a focus on audibility",
+   "maddeler": [
+    {
+     "metin": "Desired Sensation Level",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Goal: make speech audible _across a wide band_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Targets in dB SPL in the ear canal",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Separate child and adult targets",
+     "cumle": 6,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "DSL stands for Desired Sensation Level.",
+    "Its main goal is to deliver speech across a wide frequency band at an audible and comfortable level.",
+    "The method was first developed for children, because a child who is learning language cannot learn a sound they cannot hear.",
+    "So DSL places importance on bringing as much of speech as possible above threshold.",
+    "Targets are usually given as sound pressure level in the ear canal, in dB SPL.",
+    "Because children's ear canals are small, the measured real-ear-to-coupler difference, the RECD, is taken into account.",
+    {
+     "yazi": "DSL v5 also has separate targets for adults, and these are lower than the targets for children.",
+     "ses": "DSL version 5 also has separate targets for adults, and these are lower than the targets for children."
+    },
+    "Separate targets can also be defined for quiet and noisy environments."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "DSL v5",
+   "baslik": "Making speech *audible*",
+   "cizim": "konusma_muzu",
+   "notlar": [
+    {
+     "metin": "The region of speech sounds",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Below threshold: sounds not heard",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "DSL: lift the band above threshold",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       35,
+       40,
+       50,
+       60,
+       65
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "muz",
+     "metin": "speech sounds",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "metin": "high-frequency consonants",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "This drawing shows the region that speech sounds occupy on the audiogram.",
+    {
+     "yazi": "Sounds below threshold, such as the high-frequency consonants s, sh and f, are not heard without amplification."
+    },
+    "Missing these consonants makes it harder to tell similar words apart, and harder for language to develop.",
+    {
+     "yazi": "DSL v5 aims to bring as much of the speech band as possible above threshold and to a comfortable level.",
+     "ses": "DSL version 5 aims to bring as much of the speech band as possible above threshold and to a comfortable level."
+    },
+    {
+     "yazi": "NAL-NL2, by contrast, looks at the same picture in terms of the regions that will add the most intelligibility."
+    },
+    {
+     "yazi": "So DSL v5 generally prescribes more gain than NAL-NL2, especially for children and soft inputs.",
+     "ses": "So DSL version 5 generally prescribes more gain than NAL-NL2, especially for children and soft inputs."
+    }
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Comparison and choice",
+   "baslik": "The two formulas *side by side*",
+   "sutunlar": [
+    "Feature",
+    "NAL-NL2",
+    "DSL v5"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Developed by",
+      "NAL, Australia",
+      "Western Ontario, Canada"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Main goal",
+      "Speech intelligibility",
+      "Speech audibility"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Loudness",
+      "Normal or below",
+      "Comfortable level"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Target format",
+      "Gain or output",
+      "Ear canal dB SPL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Gain tendency",
+      "Relatively less",
+      "Relatively more"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Now let us put the two formulas side by side: NAL-NL2 was developed in Australia, DSL v5 in Canada.",
+     "ses": "Now let us put the two formulas side by side: NAL-NL2 was developed in Australia, DSL version 5 in Canada."
+    },
+    {
+     "yazi": "NAL-NL2 centers on speech intelligibility, while DSL v5 centers on speech audibility.",
+     "ses": "NAL-NL2 centers on speech intelligibility, while DSL version 5 centers on speech audibility."
+    },
+    {
+     "yazi": "NAL-NL2 tries to keep overall loudness at or below normal; DSL v5 places sound at a comfortable level.",
+     "ses": "NAL-NL2 tries to keep overall loudness at or below normal; DSL version 5 places sound at a comfortable level."
+    },
+    {
+     "yazi": "NAL-NL2 targets can be given as gain or output; DSL v5 targets are sound pressure levels in the ear canal.",
+     "ses": "NAL-NL2 targets can be given as gain or output; DSL version 5 targets are sound pressure levels in the ear canal."
+    },
+    {
+     "yazi": "As a general trend, DSL v5 prescribes more gain than NAL-NL2.",
+     "ses": "As a general trend, DSL version 5 prescribes more gain than NAL-NL2."
+    },
+    "Knowing these differences helps you interpret the target curve you see on the measurement screen correctly.",
+    "This is also why it is not surprising that the target curve shifts noticeably when you change the formula in the software."
+   ]
+  },
+  {
+   "id": "seviyeler",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Comparison and choice",
+   "baslik": "Three inputs, *three targets*",
+   "maddeler": [
+    {
+     "metin": "Soft speech: _50 to 55_ dB SPL",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Average speech: _65_ dB SPL",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Loud speech: _75 to 80_ dB SPL",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Maximum output: below the discomfort level",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Nonlinear formulas give targets separately for at least three different input levels.",
+    "For soft speech, an input of 50 to 55 dB SPL is usually used.",
+    "For average speech, 65 dB SPL is usually used.",
+    "For loud speech, an input of 75 to 80 dB SPL is usually chosen.",
+    "The difference between the soft and loud targets shows how much compression the hearing aid needs to apply.",
+    "In addition, the hearing aid's maximum output must be limited so that it does not exceed the person's discomfort level.",
+    "Getting close to target at all three levels is important for the aid to work consistently in quiet and in noise."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Comparison and choice",
+   "baslik": "Which one *in practice?*",
+   "maddeler": [
+    {
+     "metin": "Both are evidence-based generic formulas",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "DSL v5 _common_ for children",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Manufacturer first fit _is not target_",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Target is a start; verification essential",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 5,
+    "etiketler": [
+     {
+      "parca": "prob_tupu",
+      "metin": "probe tube",
+      "cumle": 5
+     },
+     {
+      "parca": "isitme_cihazi",
+      "metin": "hearing aid",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "prob_tupu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Both formulas are generic, research-supported formulas that are independent of manufacturers.",
+    {
+     "yazi": "DSL v5 is widely used for children, especially in North America; NAL-NL2 is also used for children, notably in Australia.",
+     "ses": "DSL version 5 is widely used for children, especially in North America; NAL-NL2 is also used for children, notably in Australia."
+    },
+    "Comparative studies have not shown a consistent advantage of one formula over the other in overall outcomes.",
+    "Manufacturers' own first-fit settings, however, can differ from generic formulas and often fall below target.",
+    "So the first fit you see in the software does not mean the prescriptive target has been reached.",
+    "Whatever formula is chosen, it must be verified with real-ear measurement that the target is actually met in the ear.",
+    "The target is a starting point; fine-tuning based on the user's feedback comes later."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Before running the formula, enter age, experience, bone conduction, transducer and unilateral or bilateral fitting correctly; wrong data changes the target.",
+   "cumleler": [
+    "A tip from the field: the prescriptive target is only as accurate as the information you enter in the software.",
+    "If the date of birth is entered wrongly, an adult may get a child target, or a child an adult target.",
+    "If bone conduction thresholds are not entered, the target may be miscalculated for a loss with a conductive component.",
+    "Which earphone the thresholds were measured with, and whether the fitting is unilateral or bilateral, also change the target.",
+    "Reviewing these fields with a short checklist before fitting shortens the fine-tuning time later."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "A formula calculates target gain from thresholds",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "NAL-NL2: intelligibility, normal loudness",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "DSL v5: wideband audibility",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Target verified with REM",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that prescriptive formulas calculate targets from thresholds for each frequency and input level.",
+    {
+     "yazi": "NAL-NL2 aims to improve speech intelligibility while keeping loudness normal."
+    },
+    {
+     "yazi": "DSL v5, especially for children, aims to make speech audible and comfortable across a wide band.",
+     "ses": "DSL version 5, especially for children, aims to make speech audible and comfortable across a wide band."
+    },
+    "Whichever formula is chosen, the target must be verified with real-ear measurement."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Why does NAL-NL2 limit gain at frequencies with very severe loss?",
+   "secenekler": [
+    "To extend battery life",
+    "Audibility contributes less there",
+    "It is a child target",
+    "To switch off compression"
+   ],
+   "dogru": 1,
+   "aciklama": "With severe loss, audible sound carries _less information_; NAL-NL2 takes this into account.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: why does NAL-NL2 limit gain at frequencies where the loss is very severe?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: because in these regions, increasing audibility contributes less to intelligibility.",
+    "Using effective audibility, the formula directs gain to the regions where it will help most."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Real-Ear Measurement: *REUG, REAR and REIG*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will see how real-ear measurement checks whether the prescriptive target is actually met in the ear.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D231_Grading_Ototoxicity_in_Children_EN",
+ "kapak": {
+  "ust": "LESSON 231",
+  "baslik": "Ototoxicity<br>*grading*",
+  "alt": "Brock, Chang, SIOP Boston",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  }
+ },
+ "youtube": {
+  "baslik": "Grading Ototoxicity in Children: Brock, Chang, SIOP | Lesson 231 | AIHEAR Audiology Academy",
+  "aciklama": "How is ototoxic hearing loss graded in children? In this lesson we cover the logic of the Brock, Chang and SIOP Boston scales and how they differ, the grade of the same audiogram on all three scales, the functional meaning of the grades, communication with the oncology team and monitoring for vestibulotoxicity.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Brock et al., Cisplatin ototoxicity in children: a practical grading system, Medical and Pediatric Oncology (1991); Chang and Chinosornvatana, Practical grading system for evaluating cisplatin ototoxicity in children, Journal of Clinical Oncology (2010); Brock et al., Platinum-induced ototoxicity in children: a consensus review, Journal of Clinical Oncology (2012); Clemens et al., A comparison of the Muenster, SIOP Boston, Brock, Chang and CTCAEv4.03 ototoxicity grading scales, PLoS ONE (2019).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ototoxicity",
+   "pediatrics"
+  ],
+  "etiketler": [
+   "ototoxicity",
+   "SIOP Boston",
+   "Brock grading",
+   "Chang grading",
+   "cisplatin",
+   "pediatric oncology",
+   "vestibulotoxicity",
+   "ototoxicity grading",
+   "ototoxicity monitoring",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 231",
+   "baslik": "Grading ototoxicity *in children*",
+   "alt": "The Brock, Chang and SIOP Boston scales",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    {
+     "yazi": "In this lesson we will learn how ototoxic hearing loss in children is graded with the Brock, Chang and SIOP Boston scales.",
+     "ses": "In this lesson we will learn how ototoxic hearing loss in children is graded with the Brock, Chang and See op Boston scales."
+    },
+    "We will cover how the scales work and differ, what the grades mean in practice, team communication and vestibulotoxicity monitoring."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why a separate scale?",
+   "baslik": "Why a *child-specific* scale?",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Baseline test",
+     "metin": "Often missing",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Absolute thresholds",
+     "metin": "Level, not change",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Language development",
+     "metin": "Even mild loss matters",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the previous lesson we saw that the ASHA criteria show change, while the oncology scale shows the grade of an adverse effect.",
+    "In children, however, there is often no reliable baseline test; the child may be too ill or too young to be tested.",
+    "So pediatric scales use absolute thresholds after treatment, not change from baseline.",
+    "The scales look at the level at which thresholds rise, and from which frequency upward.",
+    "In a child, even a mild high-frequency loss can make sounds such as s and sh hard to hear, affecting language and school success.",
+    "The scales also allow drugs and protective treatments to be compared in oncology research."
+   ]
+  },
+  {
+   "id": "tarih",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Why a separate scale?",
+   "baslik": "How the scales *evolved*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "1991: Brock",
+     "metin": "40 dB cutoff",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "2010: Chang",
+     "metin": "Mild loss added",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "2012: SIOP Boston",
+     "metin": "International consensus",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Today",
+     "metin": "The scale name matters",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Several scales have been developed for ototoxicity in children, each trying to fix a weakness of the one before.",
+    {
+     "yazi": "The first widely used scale is the Brock grading, described in 1991.",
+     "ses": "The first widely used scale is the Brock grading, described in nineteen ninety one."
+    },
+    {
+     "yazi": "In 2010 the Chang scale added milder losses and the extended high frequencies.",
+     "ses": "In twenty ten the Chang scale added milder losses and the extended high frequencies."
+    },
+    {
+     "yazi": "In 2012 the SIOP Boston scale was proposed through an international consensus.",
+     "ses": "In twenty twelve the See op Boston scale was proposed through an international consensus."
+    },
+    {
+     "yazi": "There are other classifications, such as the Muenster scale; a 2019 study compared these scales in about four thousand audiograms.",
+     "ses": "There are other classifications, such as the Muenster scale; a twenty nineteen study compared these scales in about four thousand audiograms."
+    },
+    "Today, which scale is used varies from center to center and from study to study."
+   ]
+  },
+  {
+   "id": "brock",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Brock and Chang",
+   "baslik": "*Brock* grading",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ad": "Threshold (dB HL)",
+     "ters": true
+    },
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       40
+      ],
+      "renk": "gri",
+      "etiket": "grade 0",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 600,
+      "y": 40,
+      "cizgi": "yatay",
+      "etiket": "40 dB cutoff",
+      "cumle": 1
+     },
+     {
+      "ad": "d1",
+      "x": 8000,
+      "y": 60,
+      "cizgi": "dikey",
+      "etiket": "grade 1: 8 kHz",
+      "cumle": 2
+     },
+     {
+      "ad": "d2",
+      "x": 4000,
+      "y": 60,
+      "cizgi": "dikey",
+      "etiket": "grade 2: 4 kHz",
+      "cumle": 3
+     },
+     {
+      "ad": "d3",
+      "x": 2000,
+      "y": 60,
+      "cizgi": "dikey",
+      "etiket": "grade 3: 2 kHz",
+      "cumle": 3
+     },
+     {
+      "ad": "d4",
+      "x": 1000,
+      "y": 60,
+      "cizgi": "dikey",
+      "etiket": "grade 4: 1 kHz",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Single cutoff: 40 dB",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Grade 0 does not mean normal",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Brock grading was defined in 1991 for children receiving cisplatin and was widely used for many years.",
+     "ses": "Brock grading was defined in nineteen ninety one for children receiving cisplatin and was widely used for many years."
+    },
+    "The scale uses a single threshold level, forty decibels; if no frequency reaches this level, the grade is zero.",
+    "If only eight thousand hertz has a threshold of forty decibels or worse, the grade is one.",
+    "If this level is reached at four thousand hertz and above, the grade is two; at two thousand hertz and above, it is three.",
+    "Thresholds of forty decibels or worse at one thousand hertz and above indicate grade four.",
+    "The weakness of the scale is that it misses losses below forty decibels, so grade zero does not mean normal hearing."
+   ]
+  },
+  {
+   "id": "chang",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Brock and Chang",
+   "baslik": "*Chang* grading",
+   "sutunlar": [
+    "Grade",
+    "Frequency",
+    "Threshold (dB HL)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0",
+      "1, 2, 4 kHz",
+      "20 or better"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1a",
+      "6-12 kHz",
+      "40 or worse"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1b",
+      "4 kHz",
+      "Between 20 and 40"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "2a",
+      "4 kHz and above",
+      "40 or worse"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2b",
+      "Below 4 kHz",
+      "Between 20 and 40"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "3",
+      "2-3 kHz and above",
+      "40 or worse"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "4",
+      "1 kHz and above",
+      "40 or worse"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Chang grading was proposed in 2010 to make the Brock scale more sensitive.",
+     "ses": "Chang grading was proposed in twenty ten to make the Brock scale more sensitive."
+    },
+    "In grade zero, thresholds at one, two and four thousand hertz are twenty decibels or better.",
+    {
+     "yazi": "Grade 1a defines a threshold of forty decibels or worse in the extended high frequencies, between six and twelve thousand hertz.",
+     "ses": "Grade one A defines a threshold of forty decibels or worse in the extended high frequencies, between six and twelve thousand hertz."
+    },
+    {
+     "yazi": "Grade 1b is a mild loss of between twenty and forty decibels at four thousand hertz.",
+     "ses": "Grade one B is a mild loss of between twenty and forty decibels at four thousand hertz."
+    },
+    {
+     "yazi": "A loss of forty decibels or more at four thousand hertz and above is 2a; a loss of twenty to forty decibels below four thousand hertz is 2b.",
+     "ses": "A loss of forty decibels or more at four thousand hertz and above is two A; a loss of twenty to forty decibels below four thousand hertz is two B."
+    },
+    "If thresholds of forty decibels or worse start at two or three thousand hertz, it is grade three; from one thousand, grade four.",
+    {
+     "yazi": "In many studies, Chang 2a and above is taken as a functionally significant loss that can affect everyday communication.",
+     "ses": "In many studies, Chang two A and above is taken as a functionally significant loss that can affect everyday communication."
+    }
+   ]
+  },
+  {
+   "id": "siop",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "SIOP Boston",
+   "baslik": "The *SIOP Boston* scale",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ad": "Threshold (dB HL)",
+     "ters": true
+    },
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       20
+      ],
+      "renk": "gri",
+      "etiket": "grade 0",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 600,
+      "y": 20,
+      "cizgi": "yatay",
+      "etiket": "20 dB cutoff",
+      "cumle": 1
+     },
+     {
+      "ad": "ust",
+      "x": 600,
+      "y": 40,
+      "cizgi": "yatay",
+      "etiket": "40 dB: grade 4",
+      "cumle": 4
+     },
+     {
+      "ad": "d1",
+      "x": 6000,
+      "y": 60,
+      "cizgi": "dikey",
+      "etiket": "grade 1: 6-8 kHz",
+      "cumle": 2
+     },
+     {
+      "ad": "d2",
+      "x": 4000,
+      "y": 60,
+      "cizgi": "dikey",
+      "etiket": "grade 2: 4 kHz",
+      "cumle": 3
+     },
+     {
+      "ad": "d3",
+      "x": 2000,
+      "y": 60,
+      "cizgi": "dikey",
+      "etiket": "grade 3: 2-3 kHz",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Cutoff: 20 dB",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Grade 4: 40 dB",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The SIOP Boston ototoxicity scale was developed within the International Society of Paediatric Oncology, or SIOP.",
+     "ses": "The See op Boston ototoxicity scale was developed within the International Society of Paediatric Oncology, or See op."
+    },
+    "In grade zero, thresholds at all frequencies are twenty decibels or better.",
+    "A sensorineural threshold worse than twenty decibels above four thousand hertz, that is, at six or eight thousand hertz, is grade one.",
+    "A loss over twenty decibels at four thousand hertz and above is grade two; one starting at two or three thousand hertz is grade three.",
+    "In grade four, thresholds at two thousand hertz and above are worse than forty decibels.",
+    "Because the scale uses a twenty decibel cutoff for loss, it also catches milder losses than the Brock scale."
+   ]
+  },
+  {
+   "id": "siop_kural",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "SIOP Boston",
+   "baslik": "Applying the scale *correctly*",
+   "maddeler": [
+    {
+     "metin": "Loss must be sensorineural",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tympanometry and bone conduction",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Each ear graded separately",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Reliable, age-appropriate testing",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "cumle": 1,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "The SIOP Boston scale grades only sensorineural losses.",
+     "ses": "The See op Boston scale grades only sensorineural losses."
+    },
+    "Middle ear fluid is common in children, so tympanometry is done and, when needed, bone conduction thresholds confirm the type of loss.",
+    "If there is a conductive component, bone conduction thresholds should be used for grading; otherwise the grade comes out worse than it is.",
+    "The grade is usually set for each ear separately and both are reported; studies often use the poorer ear.",
+    "In young children, age-appropriate methods such as conditioned play audiometry or visual reinforcement audiometry give reliable thresholds.",
+    "If behavioral testing is not possible, thresholds can be estimated with frequency-specific auditory brainstem responses."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Example audiogram",
+   "baslik": "Example: *the same* audiogram",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_ ear",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_ ear",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Tympanogram normal",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       20,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 20,
+     "etiket": "20 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Now let us apply the three scales to one audiogram; it is a purely illustrative audiogram of an eight-year-old after cisplatin.",
+    "In both ears, thresholds are twenty decibels or better up to two thousand hertz; thirty at three thousand, forty five at four thousand.",
+    "Fifty five decibels was measured at six thousand hertz and sixty at eight thousand; the tympanogram is normal and the loss is sensorineural.",
+    "The shaded area shows the twenty decibel cutoff.",
+    "This child understands speech easily in quiet, but may miss high-pitched consonants and speech in noise."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Example audiogram",
+   "baslik": "Three scales, *three results*",
+   "sutunlar": [
+    "Scale",
+    "Grade",
+    "Reason"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Brock",
+      "2",
+      "40+ at 4 kHz"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Chang",
+      "2a",
+      "40+ from 4 kHz"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "SIOP Boston",
+      "3",
+      "20+ from 3 kHz"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "On the Brock scale, thresholds of forty decibels or worse start at four thousand hertz, so the grade is two.",
+    "The thirty decibel threshold at three thousand hertz does not show on this scale, because it is below forty decibels.",
+    {
+     "yazi": "On the Chang scale, the loss of forty decibels or more is also at four thousand hertz and above, so the grade is 2a.",
+     "ses": "On the Chang scale, the loss of forty decibels or more is also at four thousand hertz and above, so the grade is two A."
+    },
+    {
+     "yazi": "On the SIOP Boston scale, the loss over twenty decibels starts at three thousand hertz, so the grade is three.",
+     "ses": "On the See op Boston scale, the loss over twenty decibels starts at three thousand hertz, so the grade is three."
+    },
+    "So the same audiogram can be expressed as a different number depending on the scale used.",
+    "This is why the grade must always be reported together with the scale it is based on."
+   ]
+  },
+  {
+   "id": "anlam",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Example audiogram",
+   "baslik": "What the grades *mean* in practice",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Very high only",
+     "metin": "Difficulty in noise",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Down to 4 kHz",
+     "metin": "High consonants missed",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Down to 2-3 kHz",
+     "metin": "Hearing aids considered",
+     "cumle": 2
+    },
+    {
+     "ikon": "okul",
+     "baslik": "School",
+     "metin": "Remote microphone, classroom",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A mild loss affecting only six and eight thousand hertz can make speech harder to understand, especially in noise.",
+    "When the loss reaches four thousand hertz, high-pitched consonants such as s, sh and f can be missed; this matters for language learning.",
+    "In many centers, hearing aid assessment is considered when the loss reaches two or three thousand hertz and exceeds twenty decibels.",
+    {
+     "yazi": "This level corresponds to grade three on the SIOP Boston scale.",
+     "ses": "This level corresponds to grade three on the See op Boston scale."
+    },
+    "The decision is always based on all of the child's audiological findings, age and communication needs.",
+    "For school-age children, remote microphone systems and classroom adjustments are also planned.",
+    "Whatever the grade, the effect of the finding on daily life is explained to the family and teacher in clear language."
+   ]
+  },
+  {
+   "id": "iletisim",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Team and balance",
+   "baslik": "Communicating with the *oncology team*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Test",
+     "metin": "Age-appropriate, reliable",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Grade",
+     "metin": "With the scale name",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Report",
+     "metin": "Clear and brief",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Team",
+     "metin": "Physician decides",
+     "cumle": 4
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Family",
+     "metin": "Rehabilitation plan",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Monitoring tests are done before each course and after treatment, with age-appropriate methods.",
+    "The result is graded with the scale named; using the same scale at every visit makes comparison easier.",
+    "The report states the grade, which frequencies are affected and any change from the previous test, clearly and briefly.",
+    "An increase in grade, especially a loss approaching the speech frequencies, is passed to the team without delay.",
+    "Every treatment decision belongs to the oncology team; the audiologist's role is to give reliable and timely information.",
+    "Hearing aids, school support and long-term follow-up after treatment are planned together with the family."
+   ]
+  },
+  {
+   "id": "vestibulo",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Team and balance",
+   "baslik": "Monitoring *vestibulotoxicity*",
+   "maddeler": [
+    {
+     "metin": "Children receiving aminoglycosides",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Delayed motor development, falls",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Child-friendly head impulse test",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Findings reported to the team",
+     "cumle": 5,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "ampulla",
+      "cumle": 1
+     },
+     {
+      "parca": "makula",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Children treated for cancer often also receive aminoglycoside antibiotics for serious infections.",
+    "Because aminoglycosides can damage the balance organ, vestibulotoxicity should also be monitored in these children.",
+    "A young child cannot describe symptoms; late walking, frequent falls or unsteadiness in the dark can be clues.",
+    "A child-adapted video head impulse test and, if needed, other vestibular tests are the tools for this monitoring.",
+    "In a child who stays in bed for a long time, a balance problem may only show on standing up, so the family is informed.",
+    "A vestibular finding is reported to the team just like a hearing finding, and physiotherapy is planned if needed."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Always report the grade with the scale name, such as SIOP 3 or Chang 2a. A bare \"grade 2\" can be misunderstood.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: writing only grade two in a report is open to misunderstanding.",
+    {
+     "yazi": "Always write the grade with the scale name, for example SIOP Boston grade three or Chang 2a.",
+     "ses": "Always write the grade with the scale name, for example See op Boston grade three or Chang two A."
+    },
+    "If possible, add the raw thresholds to the report, so another center can regrade them with its own scale.",
+    "This small habit prevents loss of information between centers and in research."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Pediatric scales use absolute thresholds",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Brock: 40 dB cutoff, misses mild loss",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Chang and SIOP catch milder losses",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Report grade with scale name",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Because children often have no baseline test, the scales use absolute thresholds after treatment rather than change.",
+    "The Brock scale uses a forty decibel cutoff, so grade zero does not mean normal hearing.",
+    {
+     "yazi": "The Chang scale adds extended high frequencies and mild losses; SIOP Boston catches early loss with a twenty decibel cutoff.",
+     "ses": "The Chang scale adds extended high frequencies and mild losses; See op Boston catches early loss with a twenty decibel cutoff."
+    },
+    "The same audiogram can get different grades; the grade is reported with the scale name, and treatment decisions belong to the team."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is the cutoff for loss on the SIOP Boston scale?",
+   "secenekler": [
+    "10 dB",
+    "20 dB",
+    "40 dB",
+    "60 dB"
+   ],
+   "dogru": 1,
+   "aciklama": "SIOP Boston counts thresholds worse than 20 dB as loss; grade 4 looks for thresholds worse than 40 dB.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: on the SIOP Boston scale, a threshold worse than how many decibels counts as a loss?",
+     "sonra_bekle": 5,
+     "ses": "Test yourself: on the See op Boston scale, a threshold worse than how many decibels counts as a loss?"
+    },
+    "The correct answer is B: twenty decibels.",
+    {
+     "yazi": "SIOP Boston grades one to three look at thresholds worse than twenty decibels; grade four looks for thresholds worse than forty.",
+     "ses": "See op Boston grades one to three look at thresholds worse than twenty decibels; grade four looks for thresholds worse than forty."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The Aging Auditory System: *Peripheral* and Central",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move on to the aging and hearing section and learn about the aging auditory system.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

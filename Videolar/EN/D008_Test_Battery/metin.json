@@ -1,0 +1,786 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D008_Test_Battery_EN",
+ "kapak": {
+  "ust": "LESSON 8",
+  "baslik": "The audiology<br>*test battery*",
+  "alt": "What each test tells us",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      40,
+      40,
+      35,
+      30,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      5,
+      10,
+      10,
+      10,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "The Audiology Test Battery: What Each Test Tells Us | Lesson 8 | AIHEAR Audiology Academy",
+  "aciklama": "In audiology, no single test gives the answer. In this lesson we cover behavioral and objective tests, which part of the auditory pathway each test shows, and the cross-check principle of Jerger and Hayes. We also look at different approaches to test order and, with examples, how the findings are combined.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jerger J, Hayes D (1976), The cross-check principle in pediatric audiometry, Archives of Otolaryngology; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "hearing"
+  ],
+  "etiketler": [
+   "test battery",
+   "cross-check principle",
+   "behavioral test",
+   "objective test",
+   "Jerger and Hayes",
+   "pure tone audiometry",
+   "tympanometry",
+   "OAE",
+   "ABR",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 8",
+   "baslik": "The audiology *test battery*",
+   "alt": "What each test shows and how findings combine",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will meet the audiology test battery, the group of tests that are used together.",
+    "We will learn what each test shows, how the tests check one another, and how the findings are combined."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why a battery?",
+   "baslik": "One test is *not enough*",
+   "maddeler": [
+    {
+     "metin": "The _test battery_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Each test looks at _a different part_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tests _complement_ each other",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Goal: _type_, degree and site of loss",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "orta_kulak",
+      "metin": "Tympanometry",
+      "cumle": 2
+     },
+     {
+      "parca": "koklea",
+      "metin": "OAE",
+      "cumle": 2
+     },
+     {
+      "parca": "isitme_siniri",
+      "metin": "ABR",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "orta_kulak",
+      "cumle": 2
+     },
+     {
+      "parca": "koklea",
+      "cumle": 2
+     },
+     {
+      "parca": "isitme_siniri",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In audiology, no single test gives the answer; the group of tests used together is called the test battery."
+    },
+    "The auditory system is a chain from the outer ear to the brainstem and cortex, and each test looks at a different part of it.",
+    "For example, tympanometry looks at the middle ear, otoacoustic emissions the cochlea, and the brainstem response the neural pathway.",
+    "So the tests do not replace one another; they complement one another.",
+    "The aim of the battery is to define the type and degree of hearing loss and the site of the problem as accurately as possible."
+   ]
+  },
+  {
+   "id": "iki_grup",
+   "bolum_no": "PART 1",
+   "bolum": "Why a battery?",
+   "baslik": "Behavioral and *objective* tests",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Behavioral tests",
+     "metin": "The patient responds: button, repeating",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Examples",
+     "metin": "Pure tone, speech, play audiometry",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Objective tests",
+     "metin": "No response needed; the device records",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Examples",
+     "metin": "Immittance, OAE, ABR",
+     "cumle": 5
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Expert reading",
+     "metin": "An experienced clinician interprets the recordings",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "The tests in the battery fall into two main groups: behavioral tests and objective tests.",
+    {
+     "yazi": "In behavioral tests, the patient shows that they heard the sound by an action: pressing a button, repeating, or turning the head."
+    },
+    "Pure tone audiometry, speech audiometry, and in children visual reinforcement and play audiometry belong to this group.",
+    "These tests show what the person actually hears, but they need attention, cooperation and an understanding of the instructions.",
+    {
+     "yazi": "In objective tests, the patient does not need to respond; the measurement is recorded by the device."
+    },
+    "Immittance testing, otoacoustic emissions and the auditory brainstem response belong to this group.",
+    "Objective tests show whether parts of the auditory system are working, but on their own they do not measure hearing itself.",
+    "The word objective does not mean the result interprets itself; an experienced clinician still evaluates the recordings."
+   ]
+  },
+  {
+   "id": "neyi_gosterir",
+   "bolum_no": "PART 2",
+   "bolum": "What each test shows",
+   "baslik": "What *each test* shows",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Pure tone",
+     "metin": "Whole pathway: threshold, type, degree",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech",
+     "metin": "SRT and word recognition",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tympanometry",
+     "metin": "Middle ear pressure, mobility",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Acoustic reflex",
+     "metin": "Arc from middle ear to brainstem",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OAE",
+     "metin": "Outer hair cells, cochlear function",
+     "cumle": 5
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "ABR",
+     "metin": "Nerve and brainstem response",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Now let us look at what each of the core tests in the battery shows.",
+    "Pure tone audiometry assesses the whole auditory pathway together; it shows the thresholds and the type and degree of the loss.",
+    "Speech audiometry measures the speech recognition threshold, or SRT, and word recognition ability.",
+    "Tympanometry shows the middle ear pressure and the mobility of the tympanic membrane.",
+    "The acoustic reflex tests the whole reflex arc, from the middle ear to the brainstem.",
+    "Otoacoustic emissions, or OAEs, reflect the function of the outer hair cells in the cochlea.",
+    "The auditory brainstem response, or ABR, shows the synchronous neural response in the auditory nerve and brainstem."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The cross-check principle",
+   "baslik": "The cross-check *principle*",
+   "maddeler": [
+    {
+     "metin": "The _cross-check principle_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Jerger and Hayes, _1976_",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Confirm with an _independent_ test",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Essential in _children_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Mismatch: _retest_ or add tests",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        25,
+        35,
+        40,
+        45,
+        50,
+        55
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "At the core of the test battery lies the cross-check principle."
+    },
+    {
+     "yazi": "This principle was described for pediatric audiology by James Jerger and Deborah Hayes in 1976.",
+     "ses": "This principle was described for pediatric audiology by James Jerger and Deborah Hayes in nineteen seventy six."
+    },
+    "According to the principle, the result of a single test is not accepted as final until another, independent test confirms it.",
+    "The principle is especially important in young children, because their behavioral responses can vary.",
+    "Today the principle is part of good clinical practice in all age groups, adults included.",
+    "If the tests do not agree, first check the test conditions, then repeat the test or add another test."
+   ]
+  },
+  {
+   "id": "srt_pta",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "The cross-check principle",
+   "baslik": "Example: SRT and *pure tone* agreement",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Pure tone average_: 40 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_SRT_: 40 dB HL, in agreement",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       35,
+       40,
+       45,
+       50,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "One of the most common cross-checks compares the pure tone thresholds with the speech threshold.",
+    "Here the pure tone average, the mean threshold at five hundred, one thousand and two thousand hertz, is forty decibels HL.",
+    "The speech recognition threshold should usually agree with the pure tone average within about ten decibels.",
+    "Here the speech recognition threshold was also forty decibels HL; the two tests confirm each other.",
+    "If the speech threshold were much better than the pure tone average, the reliability of the pure tone thresholds would be questioned.",
+    "Such a mismatch may suggest that the instructions were not understood or that the responses do not reflect true hearing."
+   ]
+  },
+  {
+   "id": "objektif_kontrol",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The cross-check principle",
+   "baslik": "Cross-checking with *objective* tests",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emission present",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "OAE present: no _severe_ cochlear loss expected",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Reflex near threshold: _contradicts_ report",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "ABR: compare with _threshold estimate_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Objective tests are also powerful ways to check behavioral results.",
+    "When cochlear loss exceeds roughly thirty to forty decibels HL, otoacoustic emissions are usually absent.",
+    "So in an ear with clearly recorded emissions, a reported severe cochlear loss is not consistent.",
+    "Similarly, acoustic reflexes obtained at levels very close to or below the reported threshold contradict that report.",
+    "Threshold estimation with the auditory brainstem response gives a comparison when behavioral thresholds are not reliable.",
+    "Every test has its own limits, so the decision rests not on a single test but on the whole set of findings."
+   ]
+  },
+  {
+   "id": "sira",
+   "bolum_no": "PART 4",
+   "bolum": "Order and integration",
+   "baslik": "Test *order*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Immittance first",
+     "metin": "Fast, no response needed",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Masking plan",
+     "metin": "Middle ear status known early",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Pure tone first",
+     "metin": "Behavioral test while the patient is fresh",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Thresholds first",
+     "metin": "Easier reflex and OAE interpretation",
+     "cumle": 4
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Always first",
+     "metin": "Case history and otoscopy",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "The order of tests varies from clinic to clinic, and there is more than one valid approach.",
+    "Some clinics start with immittance testing after the case history and otoscopy; it is fast and needs no response from the patient.",
+    "This way the middle ear status is known from the start, and masking is easier to plan in pure tone testing.",
+    "Other clinics start with pure tone audiometry, so the behavioral test that needs attention is done while the patient is still fresh.",
+    "In this approach the thresholds are already known, so reflex and emission results are easier to interpret.",
+    "In Türkiye, the order is mostly set by the clinic's layout and patient flow.",
+    "Whichever order is chosen, the case history and otoscopy always come first for every patient."
+   ]
+  },
+  {
+   "id": "birlestir",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Order and integration",
+   "baslik": "*Combining* the findings",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Air conduction_: mild loss",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Masked bone conduction_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "B",
+     "renk": "yesil",
+     "metin": "Tympanogram: _type B_",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Reflex and OAE: _absent_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       35,
+       30,
+       35,
+       40
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Now let us combine the findings of different tests into a single picture; in this example we look at the right ear.",
+    "Air conduction thresholds show a mild loss, while masked bone conduction is normal; at five hundred hertz the gap is thirty decibels.",
+    {
+     "yazi": "In the same ear, the tympanogram is type B and the ear canal volume is normal."
+    },
+    "In this ear the acoustic reflex is absent and otoacoustic emissions cannot be recorded.",
+    "All four tests point the same way: the problem is in the middle ear and the loss is conductive.",
+    "Here the absent emission reflects not the cochlea but sound failing to pass well through the middle ear in both directions.",
+    "The picture in this example is consistent with middle ear fluid; the final assessment always belongs to the physician."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Order and integration",
+   "baslik": "Typical finding *patterns*",
+   "sutunlar": [
+    "Finding",
+    "Conductive",
+    "Cochlear",
+    "Neural"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Air-bone gap",
+      "Present",
+      "Absent",
+      "Absent"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Tympanogram",
+      "Often abnormal",
+      "Normal",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "OAE",
+      "Absent",
+      "Absent",
+      "May be present"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Acoustic reflex",
+      "Absent",
+      "Normal, raised if severe",
+      "Absent or elevated"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "ABR",
+      "All waves delayed",
+      "Latencies mostly normal",
+      "Prolonged or absent"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Word recognition",
+      "Good",
+      "Fits the loss",
+      "Worse than expected"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "This table sums up how test findings typically look at the three main sites of loss.",
+    "In conductive loss there is an air-bone gap and the tympanogram is often abnormal; reflexes and emissions are usually absent.",
+    "In cochlear loss the tympanogram is normal and emissions disappear; reflexes may be present or elevated, depending on the degree of loss.",
+    "In neural problems the emissions may be preserved, but the reflexes and the auditory brainstem response are affected.",
+    "In such problems the word recognition score may be clearly worse than expected from the pure tone thresholds.",
+    "These are typical patterns; in real patients the findings can be mixed and are always interpreted as a whole."
+   ]
+  },
+  {
+   "id": "ansd",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Order and integration",
+   "baslik": "The value of the battery: *an example*",
+   "maddeler": [
+    {
+     "metin": "OAE: _present_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "ABR: no clear _waves_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "OAE alone: _false reassurance_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "ABR alone: _misinterpretation_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Together: a _neural conduction_ problem",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oae",
+    "ayar": {
+     "tur": "TEOAE"
+    },
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "yanit",
+      "metin": "Emission recorded",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "yanit",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "One of the best examples of the battery's value is auditory neuropathy spectrum disorder.",
+    "In this condition otoacoustic emissions are recorded, which means the outer hair cells are working.",
+    "Yet the auditory brainstem response shows no clear waves, even at high intensities.",
+    "Looking only at the emission test, one might think that hearing is normal.",
+    "Looking only at the brainstem response, the picture might be read simply as a severe cochlear loss.",
+    "When the two tests are evaluated together, it becomes clear that the problem lies in neural conduction."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Order and integration",
+   "baslik": "Clinical tip",
+   "metin": "If results conflict, first check the test conditions: probe placement, earphone position, instructions and masking. Then repeat the test.",
+   "cumleler": [
+    "A tip from practice: if the tests conflict, do not jump to an interesting conclusion.",
+    "First check the test conditions: is the probe seated well, is the earphone on the right ear, were the instructions understood?",
+    "Masking that was needed but not done is also a common cause of inconsistencies.",
+    "Once the conditions are corrected and the test is repeated, many of the conflicts simply disappear."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Battery: _behavioral_ and objective tests",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Each test shows _a different part_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cross-check: confirm with an _independent_ test",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Findings are read _as a whole_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "The test battery is made up of behavioral tests, which rely on the patient's response, and objective tests.",
+    "Each test assesses a different part of the auditory pathway; the tests do not replace one another.",
+    "Under the cross-check principle, a result is not accepted as final until another, independent test confirms it.",
+    "The order of tests can vary between clinics; what matters is that the findings are interpreted as a whole."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Pure tone average 50, SRT 15 dB HL. What do you suspect?",
+   "secenekler": [
+    "The two tests agree",
+    "Pure tone thresholds questionable",
+    "Conductive hearing loss",
+    "Cochlear hearing loss"
+   ],
+   "dogru": 1,
+   "aciklama": "The SRT usually agrees with the pure tone average _within 10 dB_; a large gap is a warning in the cross-check.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: The pure tone average is fifty and the speech recognition threshold is fifteen decibels HL. What do you suspect?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the reliability of the pure tone thresholds is questioned."
+    },
+    "The two thresholds usually agree within ten decibels; a gap this large means the testing needs to be reviewed."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Audiology Report *Abbreviations* Decoded",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will decode the abbreviations we often see in audiology reports, such as PTA, SRT, SDS and UCL.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

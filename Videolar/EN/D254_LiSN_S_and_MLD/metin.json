@@ -1,0 +1,823 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D254_LiSN_S_and_MLD_EN",
+ "kapak": {
+  "ust": "LESSON 254",
+  "baslik": "*LiSN-S*<br>and MLD",
+  "alt": "Listening in noise with two ears",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  }
+ },
+ "youtube": {
+  "baslik": "Binaural and Spatial Processing: LiSN-S and MLD | Lesson 254 | AIHEAR Audiology Academy",
+  "aciklama": "Some children struggle to listen among competing talkers even though their audiograms are normal. In this lesson we cover spatial processing disorder, the four conditions and advantage measures of the Listening in Spatialized Noise-Sentences test (LiSN-S), the masking level difference (MLD) test, and how the two tests are interpreted together in the clinic.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Cameron and Dillon, Development of the Listening in Spatialized Noise-Sentences Test (LISN-S), Ear and Hearing (2007); Cameron and Dillon, The Listening in Spatialized Noise-Sentences Test (LISN-S): comparison to the prototype LISN and results from children with either a suspected (central) auditory processing disorder or a confirmed language disorder, Journal of the American Academy of Audiology (2008); Pillsbury, Grose and Hall, Otitis media with effusion in children: binaural hearing before and after corrective surgery, Archives of Otolaryngology Head and Neck Surgery (1991); Hogan, Meyer and Moore, Binaural unmasking returns to normal in teenagers who had otitis media in infancy, Audiology and Neuro-Otology (1996); Musiek and Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "APD",
+   "binauralhearing"
+  ],
+  "etiketler": [
+   "LiSN-S",
+   "listening in spatialized noise",
+   "spatial processing disorder",
+   "masking level difference",
+   "MLD",
+   "spatial release from masking",
+   "binaural hearing",
+   "informational masking",
+   "auditory processing disorder",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 254",
+   "baslik": "Spatial processing: *LiSN-S* and MLD",
+   "alt": "Measuring how the two ears work together",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn tests that measure how the two ears work together and the ability to separate sounds in space.",
+    "We will cover spatial processing disorder, the listening in spatialized noise test and the masking level difference test."
+   ]
+  },
+  {
+   "id": "uzamsal",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Spatial processing",
+   "baslik": "Speech in front, noise to the *side*",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "lisn",
+    "gurultu": "sag",
+    "kosul_cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "konusma",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    },
+    {
+     "parca": "bas_golgesi",
+     "cumle": 3
+    },
+    {
+     "parca": "iyi_kulak",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "konusma",
+     "metin": "Speech: from the front",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Noise: from the side",
+     "cumle": 1
+    },
+    {
+     "parca": "iyi_kulak",
+     "metin": "Ear away from the noise",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Head shadow: a _physical_ gain",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Binaural processing: a _central_ gain",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Separating_ the teacher in class",
+     "cumle": 6,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "Understanding a talker in a noisy setting depends largely on speech and noise coming from different directions.",
+    "When the noise moves to the side, the same speech is understood at a lower signal-to-noise ratio.",
+    "This gain is called spatial release from masking.",
+    "Part of this gain comes from the head shadow, that is, the physical advantage of the ear away from the noise.",
+    "Another part comes from the brainstem using the time and level differences between the two ears.",
+    "Spatial processing is the ability to use these cues to separate the sound being listened to from other sounds.",
+    "Being able to tune out classmates' talk while listening to the teacher is the everyday form of this skill."
+   ]
+  },
+  {
+   "id": "maskeleme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Spatial processing",
+   "baslik": "Two kinds of *masking*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Energetic masking",
+     "cumle": 0,
+     "metin": "Noise covers the signal"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Informational masking",
+     "cumle": 2,
+     "metin": "Other speech draws attention"
+    }
+   ],
+   "cumleler": [
+    "When one sound covers another, this is called masking, and in daily life it takes two forms.",
+    "In energetic masking, noise in the same frequency region as speech overpowers it.",
+    "In informational masking, the background sound is also meaningful speech; the problem is separation and attention, not audibility.",
+    "In a crowded classroom, the children's talking is a typical informational masker for the teacher's voice.",
+    "Spatial cues are especially valuable for overcoming informational masking.",
+    "So spatial processing tests often use competing speech in the background instead of noise."
+   ]
+  },
+  {
+   "id": "upb",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Spatial processing",
+   "baslik": "Spatial processing *disorder*",
+   "maddeler": [
+    {
+     "metin": "_Normal_ audiogram, difficulty in noise",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Little benefit_ from spatial cues",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Described by Cameron and Dillon",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Linked to middle ear fluid history",
+     "cumle": 4,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Targeted training proposed",
+     "cumle": 5,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        5,
+        10,
+        5,
+        10,
+        10
+       ]
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        5,
+        10,
+        5,
+        10,
+        5,
+        10
+       ]
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "Some children have a normal audiogram but struggle to listen, especially where several people are talking.",
+    "Some of these children cannot use cues from the direction of sound as well as their peers.",
+    "The Australian researchers Cameron and Dillon described this picture as spatial processing disorder.",
+    "The term points to a specific subgroup within auditory processing disorder and to a measurable skill.",
+    "It has been reported more often in children with a history of long-lasting or frequent middle ear fluid in early childhood.",
+    "The same research group also developed a computer-based auditory training program aimed at this skill."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The LiSN-S test",
+   "baslik": "Four *listening conditions*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Same voice, front",
+     "cumle": 2,
+     "metin": "Fewest cues"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Different voices, front",
+     "cumle": 3,
+     "metin": "Voice difference only"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Same voice, sides",
+     "cumle": 4,
+     "metin": "Direction difference only"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Different voices, sides",
+     "cumle": 5,
+     "metin": "Both cues together"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The Listening in Spatialized Noise-Sentences test, or LiSN-S, was published by Cameron and Dillon in 2007.",
+     "ses": "The Listening in Spatialized Noise-Sentences test, or LiSN-S, was published by Cameron and Dillon in two thousand seven."
+    },
+    "The child repeats target sentences that seem to come from straight ahead; in the background, two people tell stories continuously.",
+    "In the first condition, the distracting stories are in the same voice as the target and come from the same direction, the front.",
+    "In the second condition, the stories come from the front, but in voices different from the target.",
+    "In the third condition, the voice is the same, but the stories come from the right and left, that is, from ninety degrees to the sides.",
+    "In the fourth condition, the voices differ and the stories come from the sides; this is the easiest condition.",
+    "Directions are created not with real loudspeakers but with a virtual space delivered over earphones using head-related transfer functions."
+   ]
+  },
+  {
+   "id": "lisn_ornek",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The LiSN-S test",
+   "baslik": "Example: low *spatial gain*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "isaretler": [
+      1.5,
+      3.5
+     ],
+     "yazilar": {
+      "1.5": "child 1",
+      "3.5": "child 2"
+     },
+     "ad": "Example children"
+    },
+    "y": {
+     "min": -16,
+     "max": 2,
+     "adim": 4,
+     "ad": "Example threshold (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "zor1",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        -1
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "same voice, front",
+      "cumle": 2
+     },
+     {
+      "ad": "kolay1",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        -12
+       ]
+      ],
+      "renk": "yesil",
+      "etiket": "spatial cue",
+      "cumle": 3
+     },
+     {
+      "ad": "zor2",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        -1
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "same voice, front",
+      "cumle": 4
+     },
+     {
+      "ad": "kolay2",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        4,
+        -4
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "spatial cue",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Lower threshold: _better_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Little gain_ from spatial cue",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Values are _examples_",
+     "cumle": 2,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "In each condition, the speech reception threshold, where the child repeats half the sentences correctly, is found adaptively.",
+    "The threshold is a signal-to-noise ratio in decibels; a lower value means better performance.",
+    "The graph shows two example children's thresholds in the hardest condition and in the condition with the same voice from the sides.",
+    "For the first child, the threshold improves clearly when the stories come from the sides; this is the spatial advantage.",
+    "For the second child, the threshold in the hardest condition is similar, but the improvement with the spatial cue stays very small.",
+    "If this child's talker advantage is normal, they can tell voices apart but cannot make enough use of the direction difference.",
+    "This pattern is considered typical of spatial processing disorder."
+   ]
+  },
+  {
+   "id": "turetilmis",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The LiSN-S test",
+   "baslik": "Derived *measures*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Talker advantage",
+     "cumle": 1,
+     "metin": "Gain from voice difference"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Spatial advantage",
+     "cumle": 2,
+     "metin": "Gain from direction difference"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Total advantage",
+     "cumle": 3,
+     "metin": "Both cues together"
+    }
+   ],
+   "cumleler": [
+    "Advantage measures are calculated by comparing the thresholds of the four conditions.",
+    "Talker advantage is the gain from the stories being told in different voices, compared with the hardest condition.",
+    "Spatial advantage is the gain from the stories coming from the sides, and it is the test's key measure.",
+    "Total advantage shows the gain from both cues together.",
+    "As differences between two conditions, advantage measures are less affected by general factors such as attention and language."
+   ]
+  },
+  {
+   "id": "lisn_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The LiSN-S test",
+   "baslik": "*Reading* a LiSN-S result",
+   "maddeler": [
+    {
+     "metin": "Only spatial measures low: _spatial_ pattern",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "All low: consider general factors",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Age-based norms",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "The language version matters",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Thresholds must be normal, symmetric",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PATTERN",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Spatial low",
+      "cumle": 0,
+      "metin": "Spatial cue problem"
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "All low",
+      "cumle": 1,
+      "metin": "General factors"
+     }
+    ]
+   },
+   "cumleler": [
+    "If the measures that include the spatial cue are low and talker advantage is normal, the pattern suggests spatial processing disorder.",
+    "If all measures are low together, more general factors such as attention, language, memory or hearing are explored separately.",
+    "The test was originally developed for children aged about six to eleven, and performance improves with age.",
+    "So results must always be compared with norms suited to the child's age.",
+    "The test was built with English sentences; versions exist for different countries, and use in other languages needs adaptation.",
+    "Because an asymmetric peripheral loss would already disrupt spatial cues, the thresholds of both ears are checked before testing."
+   ]
+  },
+  {
+   "id": "mld",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The MLD test",
+   "baslik": "*How* is the masking level difference measured?",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "In phase",
+     "cumle": 1,
+     "metin": "Tone and noise same in both ears"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "First threshold",
+     "cumle": 2,
+     "metin": "Tone threshold in noise"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Phase inverted",
+     "cumle": 3,
+     "metin": "Tone inverted in one ear"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Difference",
+     "cumle": 4,
+     "metin": "Difference of the two thresholds"
+    }
+   ],
+   "cumleler": [
+    "The masking level difference, or MLD, is a test we met in the binaural hearing lesson.",
+    "First, narrowband noise and a low tone, usually five hundred hertz, are given to both ears completely in phase.",
+    "In this condition, the threshold of the tone in the noise is found.",
+    "Then, with the noise unchanged, the tone in one ear is inverted in phase and the threshold is measured again.",
+    "The difference between the two thresholds is the MLD; in normal hearers it is usually around ten to fifteen decibels at five hundred hertz.",
+    "In clinical practice, this measurement can be done quickly with recorded tones and noise."
+   ]
+  },
+  {
+   "id": "mld_ornek",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The MLD test",
+   "baslik": "An example *MLD* result",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 2.6,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "person 1",
+      "2": "person 2"
+     },
+     "ad": "Example"
+    },
+    "y": {
+     "min": 0,
+     "max": 16,
+     "adim": 4,
+     "ad": "MLD (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "mld1",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        13
+       ]
+      ],
+      "renk": "yesil",
+      "etiket": "13 dB",
+      "cumle": 1
+     },
+     {
+      "ad": "mld2",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        3
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "3 dB",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "tipik",
+      "y": [
+       10,
+       15
+      ],
+      "renk": "yesil",
+      "etiket": "typical range",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: _about 10 to 15 dB_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Small MLD: a _brainstem_ question",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Compare thresholds first",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "This graph shows the MLD results of two example people.",
+    "For the first person, the threshold improves by about thirteen decibels when the tone is inverted; this is a normal binaural gain.",
+    "For the second person, the same change improves the threshold by only a few decibels.",
+    "A small MLD suggests that phase information from the two ears is not being compared well enough in the brainstem.",
+    "However, the result is not interpreted without also considering the pure tone thresholds of both ears."
+   ]
+  },
+  {
+   "id": "mld_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The MLD test",
+   "baslik": "The MLD *in the clinic*",
+   "maddeler": [
+    {
+     "metin": "_Sensitive_ to the lower brainstem",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "May be reduced in multiple sclerosis",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "May stay _low_ after middle ear fluid",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Asymmetric loss also lowers it",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Often normal in cortical lesions",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Superior olivary complex",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "The MLD is sensitive to processing at the superior olivary complex, where information from the two ears is first compared.",
+    "The MLD has been reported to be reduced in conditions affecting the brainstem, such as multiple sclerosis.",
+    "In children who had tubes for middle ear fluid, the MLD was shown to stay small for a while even after hearing returned to normal.",
+    "Studies in adolescence, however, reported that this difference had largely closed.",
+    "The MLD also drops in peripheral losses with a clear threshold difference between the ears.",
+    "In lesions limited to the cortex, the MLD often stays normal; this helps in thinking about the level of the lesion."
+   ]
+  },
+  {
+   "id": "iki_test",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Reading the two tests together",
+   "baslik": "LiSN-S and MLD *together*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "LiSN-S",
+     "cumle": 0,
+     "metin": "Speech, competing stories"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "MLD",
+     "cumle": 2,
+     "metin": "Tone, noise, phase difference"
+    }
+   ],
+   "cumleler": [
+    "The listening in spatialized noise test measures the overall ability to use spatial cues, with a task close to real life.",
+    "Besides binaural processing in the brainstem, this task also involves attention and higher-level separation processes.",
+    "The MLD, by contrast, measures binaural processing in the brainstem at a more basic level, with a tone and noise.",
+    "Used together, the two tests can hint whether the problem is at the basic binaural level or in higher-level listening.",
+    "Both are part of the battery; neither makes the diagnosis on its own."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Reading the two tests together",
+   "baslik": "Example: a child struggling *in class*",
+   "adimlar": [
+    {
+     "ikon": "okul",
+     "baslik": "History",
+     "cumle": 0,
+     "metin": "Difficulty in a noisy class"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiogram",
+     "cumle": 1,
+     "metin": "Both ears normal"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "LiSN-S",
+     "cumle": 2,
+     "metin": "Low spatial advantage"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Team",
+     "cumle": 4,
+     "metin": "Recommendations and follow-up"
+    }
+   ],
+   "cumleler": [
+    "As an example, consider a nine-year-old child whose teacher reports that they often seem distracted in class.",
+    "The audiogram, tympanometry and acoustic reflexes are normal in both ears.",
+    "On the listening in spatialized noise test, talker advantage is normal, but spatial advantage is clearly below the age norm.",
+    "The history includes recurrent middle ear fluid in early childhood.",
+    "The team considers the findings together with language and attention assessments, and environmental changes are discussed.",
+    "This example shows that the audiogram alone may not explain a child's everyday listening difficulty."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Compare the thresholds of both ears before binaural tests. An asymmetric loss can make LiSN-S and MLD results look like a central problem.",
+   "cumleler": [
+    "A tip from the clinic: before interpreting binaural tests, always compare the pure tone thresholds of both ears.",
+    "If there is a clear difference between the ears, a low spatial advantage or a small MLD may have a peripheral explanation.",
+    "Do tympanometry before testing; middle ear fluid present that day can easily distort the result.",
+    "Check that the earphones are on the correct ears and facing the right way; the virtual space depends on this placement."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Spatial processing: separating with _direction cues_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "LiSN-S: four conditions, _spatial advantage_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "MLD: _brainstem_ processing of phase",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Check first that thresholds are symmetric",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Spatial processing is the ability to separate speech from competing sounds with direction cues; its disorder does not show on the audiogram.",
+    "The listening in spatialized noise test measures talker and spatial advantage with four conditions that vary voice and direction cues.",
+    "The MLD measures how much the threshold improves when the tone phase in one ear is inverted, and it is sensitive to the lower brainstem.",
+    "Both tests give the most reliable information when the thresholds of both ears are normal or symmetric."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is the typical LiSN-S pattern in spatial processing disorder?",
+   "secenekler": [
+    "All thresholds normal",
+    "Low spatial advantage",
+    "Only talker advantage low",
+    "All measures low"
+   ],
+   "dogru": 1,
+   "aciklama": "A low _spatial advantage_ with normal talker advantage is typical.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what is the typical pattern on the listening in spatialized noise test in spatial processing disorder?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: low spatial advantage.",
+    "The child can tell the talkers' voices apart, but cannot benefit as much as peers when the stories come from the sides."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "APD *Screening* and Questionnaires for Children",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at screening children for auditory processing disorder, screening tests, and teacher and parent forms.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

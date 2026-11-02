@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R279_Mics_That_Cancel_Behind_EN",
+ "kapak": {
+  "ust": "QUICK FACT #279",
+  "baslik": "Mics that *cancel* behind",
+  "alt": "How directional microphones work",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How does a directional microphone suppress sound from behind? #shorts",
+  "aciklama": "A directional system uses two microphones about one centimeter apart; the processor briefly delays the rear microphone signal and subtracts it from the front one, so sound from behind cancels. The benefit is greatest when the listener faces a nearby talker and the noise is behind.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "microphones"
+  ],
+  "etiketler": [
+   "directional microphone",
+   "omnidirectional microphone",
+   "polar pattern",
+   "signal-to-noise ratio",
+   "speech in noise",
+   "hearing aid",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How does a directional microphone suppress sound from behind?",
+  "bilgiler": [
+   "The aid has two microphones about one centimeter apart.",
+   "Delaying and subtracting the rear signal cancels sound from behind.",
+   "Benefit is greatest facing the talker, with noise behind."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "microphones"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #279",
+   "metin": "Where does sound *from behind* go?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How does a directional microphone suppress sound from behind?"
+   ]
+  },
+  {
+   "id": "yonlu",
+   "tur": "zincir",
+   "baslik": "*Two mics*, one delay",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Front mic",
+     "tr": "arrives first",
+     "cumle": 0
+    },
+    {
+     "ad": "Delay",
+     "tr": "rear signal",
+     "cumle": 1
+    },
+    {
+     "ad": "Subtract",
+     "tr": "rear cancels",
+     "cumle": 2
+    }
+   ],
+   "alt": "_Face_ the talker",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The aid has two microphones about one centimeter apart.",
+    "The processor delays the rear signal, then subtracts it from the front.",
+    "With the right delay, sound from behind aligns in both and cancels.",
+    "Sound from the front is not canceled; the talker stands out.",
+    "The benefit is greatest facing the talker, with noise behind."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D183",
+ "kaynak_baslik": "Directional Microphones and Noise Reduction"
+}

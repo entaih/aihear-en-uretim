@@ -1,0 +1,852 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D216_Tinnitus_Assessment_MML_EN",
+ "kapak": {
+  "ust": "LESSON 216",
+  "baslik": "Measuring<br>*tinnitus*",
+  "alt": "Pitch, loudness and MML",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Tinnitus Assessment: Pitch, Loudness and MML | Lesson 216 | AIHEAR Audiology Academy",
+  "aciklama": "Tinnitus is a subjective perception, so how are its pitch, loudness and maskability measured? In this lesson we cover pitch matching and octave confusion, why loudness matches come out at a low sensation level, the minimum masking level (MML), residual inhibition, and the limitations of these psychoacoustic measures.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Tyler, Tinnitus Handbook; Henry et al., Computer-automated tinnitus assessment: noise-band matching, maskability, and residual inhibition, J Am Acad Audiol (2013); Vernon and Meikle, Tinnitus: clinical measurement, Otolaryngologic Clinics of North America (2003); NICE, Tinnitus: assessment and management (NG155, 2020); Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "tinnitus",
+   "hearing"
+  ],
+  "etiketler": [
+   "tinnitus assessment",
+   "pitch matching",
+   "loudness matching",
+   "minimum masking level",
+   "MML",
+   "residual inhibition",
+   "psychoacoustic measures",
+   "octave confusion",
+   "sensation level",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 216",
+   "baslik": "Tinnitus assessment: pitch, loudness and *MML*",
+   "alt": "Psychoacoustic measures and their limits",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how we match the pitch and loudness of tinnitus with external sounds.",
+    "We will also cover the minimum masking level, residual inhibition, and what these measures do and do not show."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Getting started",
+   "baslik": "*Measuring* a subjective sound",
+   "maddeler": [
+    {
+     "metin": "_No_ directly measurable signal",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Comparison with an external sound",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Pitch, loudness, MML, residual inhibition",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "A concrete start for counseling",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Does not show_ distress",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "isitme_korteksi",
+      "metin": "where the percept arises",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Tinnitus is a subjective perception; there is no signal in the ear or brain that we can measure directly.",
+    "Psychoacoustic measures let the person describe their tinnitus by comparing it with sounds presented from outside.",
+    "The most widely used are pitch matching, loudness matching, the minimum masking level and residual inhibition.",
+    "These measures make the person feel their tinnitus is taken seriously and give counseling a concrete starting point.",
+    "They can also guide the planning of sound therapy or device settings.",
+    "But it is important to know from the start that these measures do not show how much the tinnitus bothers the person."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Getting started",
+   "baslik": "Assessment *order*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "History and scale",
+     "metin": "Impact on life",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiogram",
+     "metin": "Above 8 kHz if possible",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Pitch and loudness",
+     "metin": "Matching",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "MML and inhibition",
+     "metin": "Maskability",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Psychoacoustic measures are done after a complete audiological assessment.",
+    "First the history is taken, and the impact of tinnitus on life is recorded with a scale.",
+    "Then pure tone audiometry is done; if possible, frequencies above 8000 hertz are also tested.",
+    "A loudness match cannot be read without the thresholds, because the result is expressed relative to the threshold at that frequency.",
+    "Next come pitch and loudness matching, and finally the minimum masking level and residual inhibition.",
+    "In one-sided tinnitus, the matching sound usually goes to the opposite ear, so the external sound does not affect the tinnitus itself."
+   ]
+  },
+  {
+   "id": "tarif",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Pitch matching",
+   "baslik": "*Description* first",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tonal",
+     "metin": "Whistling, ringing",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise-like",
+     "metin": "Hissing, buzzing",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Multiple components",
+     "metin": "More than one sound",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Before matching, the person is asked to describe their tinnitus in their own words.",
+    "Tonal tinnitus is like a whistle or ringing at a single pitch.",
+    "Noise-like tinnitus is described as hissing, buzzing or a sound like wind.",
+    "Some people hear several sounds at once; in that case, the most bothersome one is usually matched.",
+    "The description decides whether a tone or narrowband noise will be used for matching."
+   ]
+  },
+  {
+   "id": "perde",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Pitch matching",
+   "baslik": "Pitch *matching*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Two tones",
+     "metin": "Played one after another",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Which is similar?",
+     "metin": "The person chooses",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Narrow down",
+     "metin": "The range shrinks",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Octave check",
+     "metin": "One above, one below",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Pitch matching means finding the frequency of the sound that most resembles the tinnitus.",
+    "In a common method, two tones are played one after the other, and the person is asked which one sounds more like their tinnitus.",
+    "The frequency range is narrowed step by step based on the chosen tone; this is called the two-alternative forced-choice method.",
+    "The tones are presented at a level the person hears comfortably, close to the loudness of the tinnitus.",
+    "A common error is octave confusion: the person may choose a pitch one octave below or above the true pitch.",
+    "So the frequency found is checked by also playing the octave above and the octave below.",
+    "For noise-like tinnitus, matching is done with narrowband noise instead of a tone.",
+    "The level used for matching is also noted, because the perceived pitch can shift slightly when the level changes."
+   ]
+  },
+  {
+   "id": "perde_kayip",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Pitch matching",
+   "baslik": "Pitch and *hearing loss*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ters": true,
+     "ad": "Level (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        3000,
+        35
+       ],
+       [
+        4000,
+        45
+       ],
+       [
+        6000,
+        50
+       ],
+       [
+        8000,
+        55
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "example thresholds",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kayip_bolgesi",
+      "x": [
+       3000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "region of loss",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "perde",
+      "x": 6000,
+      "y": 50,
+      "cizgi": "dikey",
+      "etiket": "pitch: 6 kHz",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Pitch often in the region of loss",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Low repeatability",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Result recorded as a range",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "In this example graph, thresholds start to drop above 2000 hertz.",
+    "The person's tinnitus pitch was matched at around 6000 hertz.",
+    "In most people, tinnitus pitch falls in the high-frequency region where the hearing loss is.",
+    "But pitch matching has low repeatability; results can change markedly even within the same day.",
+    "So the measurement is repeated several times, and the result is recorded as a range rather than a single number.",
+    "Knowing the pitch can help, for example, in choosing the sound used in sound therapy."
+   ]
+  },
+  {
+   "id": "siddet",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Loudness matching",
+   "baslik": "Loudness *matching*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ters": true,
+     "ad": "Level (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        3000,
+        35
+       ],
+       [
+        4000,
+        45
+       ],
+       [
+        6000,
+        50
+       ],
+       [
+        8000,
+        55
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "threshold",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "eslesme",
+      "x": 6000,
+      "y": 55,
+      "dolu": true,
+      "etiket": "match 55 dB HL",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sl",
+      "y": [
+       50,
+       55
+      ],
+      "xk": 7000,
+      "etiket": "5 dB SL",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Start at threshold, small steps up",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Result as sensation level: dB SL",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Low SL _does not mean_ mild tinnitus",
+     "cumle": 6,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Loudness matching compares how loud the tinnitus is perceived to be with an external sound.",
+    "At the matched frequency, a tone is raised in small steps from threshold, stopping when the person finds it as loud as their tinnitus.",
+    "The result is expressed relative to the threshold at that frequency, as a sensation level in decibels SL.",
+    "In this example the threshold is 50 and the match 55 decibels HL, so the tinnitus matches at only 5 decibels SL.",
+    "In most people the loudness match comes out only a few decibels above threshold; this is a common finding in the clinic.",
+    "One reason is recruitment: at a frequency with hearing loss, even a small increase just above threshold is heard as loud.",
+    "So a low SL value does not mean the tinnitus is mild."
+   ]
+  },
+  {
+   "id": "rahatsizlik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Loudness matching",
+   "baslik": "Loudness and *distress* are different",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Loudness match",
+     "metin": "The percept's external equivalent",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Distress",
+     "metin": "Shaped by attention, emotion",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "To measure it",
+     "metin": "Self-report scales",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "There is no strong link between the loudness match and how much the tinnitus bothers the person.",
+    "A person with a low loudness match may report severe distress, while someone with a high match may have adapted well.",
+    "This is because distress is largely determined by attention and emotional networks.",
+    "To measure distress, we use not psychoacoustic tests but the scales we will see in the next lesson.",
+    "Still, changes in loudness over time in the same person can add information in follow-up.",
+    "Explaining this distinction also matters in counseling, to validate the distress the person experiences."
+   ]
+  },
+  {
+   "id": "mml",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Masking measures",
+   "baslik": "The minimum masking *level*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise threshold",
+     "metin": "Found first",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Raise it",
+     "metin": "In small steps",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Tinnitus covered",
+     "metin": "The person reports",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Record the MML",
+     "metin": "In dB SL",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The minimum masking level, or MML, is the lowest noise level needed to cover the tinnitus completely.",
+    "Broadband noise is usually used, and the person's threshold for this noise is found first.",
+    "The noise is then raised in small steps, stopping when the person says they can no longer hear their tinnitus.",
+    "The result is recorded in decibels SL, relative to the noise threshold.",
+    "In most people the MML is low, but in some people the tinnitus cannot be covered even by high-level noise.",
+    "The measurement can be done in both ears together or separately; the method used is recorded.",
+    "The MML shows how easily the tinnitus is covered by external sounds and can inform the sound therapy plan.",
+    "After the MML is found, residual inhibition is usually measured next with the same noise."
+   ]
+  },
+  {
+   "id": "ri",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Masking measures",
+   "baslik": "Residual *inhibition*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -60,
+     "max": 180,
+     "adim": 60,
+     "ad": "Time (seconds)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tinnitus loudness (0 to 10)"
+    },
+    "bolgeler": [
+     {
+      "ad": "gurultu",
+      "x": [
+       -60,
+       0
+      ],
+      "renk": "sari",
+      "etiket": "noise: MML + 10 dB, 60 s",
+      "cumle": 1
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "tinnitus",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        30,
+        0
+       ],
+       [
+        60,
+        2
+       ],
+       [
+        90,
+        4
+       ],
+       [
+        120,
+        6
+       ],
+       [
+        150,
+        6
+       ],
+       [
+        180,
+        6
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "example tinnitus",
+      "cumle": 3
+     },
+     {
+      "ad": "onceki",
+      "noktalar": [
+       [
+        -60,
+        6
+       ],
+       [
+        180,
+        6
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "starting level",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesilme",
+      "x": 0,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "noise stopped",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tinnitus drops when noise stops",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Duration timed with a stopwatch",
+     "cumle": 4,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Temporary; _not_ a lasting treatment",
+     "cumle": 6,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Residual inhibition is the temporary reduction or disappearance of tinnitus after the masking noise is stopped.",
+    "In a common protocol, the noise is presented at 10 decibels above the MML for 60 seconds.",
+    "When the noise stops, the person is asked whether their tinnitus is the same, quieter, or completely gone.",
+    "In this example the tinnitus disappears right after the noise and returns to its former level within about two minutes.",
+    "The time the tinnitus stays reduced is timed with a stopwatch; if the reduction is partial, this is also noted.",
+    "Many people show partial or complete residual inhibition, but the effect usually lasts seconds to minutes.",
+    "This measure shows that tinnitus can be suppressed temporarily; it does not mean a lasting treatment."
+   ]
+  },
+  {
+   "id": "sinirlilik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Limitations",
+   "baslik": "Limitations and *guidelines*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Repeatability",
+     "metin": "Low, especially for pitch",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Distress",
+     "metin": "Not shown reliably",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "NICE 2020",
+     "metin": "Not recommended for tinnitus",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Psychoacoustic measures have important limitations.",
+    "Results can change within a day in the same person, and repeatability is low, especially for pitch.",
+    "They do not reliably show the level of tinnitus distress or the response to treatment.",
+    {
+     "yazi": "In 2020, the NICE guideline in England did not recommend psychoacoustic tests such as pitch and loudness matching for assessing tinnitus.",
+     "ses": "In twenty twenty, the NICE guideline in England did not recommend psychoacoustic tests such as pitch and loudness matching for assessing tinnitus."
+    },
+    "The same guideline also does not recommend measuring uncomfortable loudness levels or acoustic reflex testing to investigate tinnitus.",
+    "These measures are used in some clinics and in research; when they are done, they are interpreted with their limitations in mind."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Limitations",
+   "baslik": "*Recording* the results",
+   "maddeler": [
+    {
+     "metin": "Test ear and sound type",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Loudness: both dB HL and SL",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "MML, inhibition duration and type",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Same equipment, same method",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kulaklik",
+      "metin": "earphone",
+      "cumle": 1
+     },
+     {
+      "parca": "hasta_butonu",
+      "metin": "response button",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Psychoacoustic results are recorded on a standard form.",
+    "The form includes the test ear, the ear receiving the matching sound, the sound type used, and the frequency.",
+    "The loudness match is written both in decibels HL and in decibels SL.",
+    "The MML and the duration and type of residual inhibition, partial or complete, are noted.",
+    "Only then can repeat measurements made with the same equipment and method be compared.",
+    "The date of the measurement and the person's tinnitus status that day are also part of the record."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not give the patient the loudness match as a single number. Explain that it reflects the auditory system, and that distress will be addressed separately.",
+   "cumleler": [
+    "A clinical tip: when sharing the loudness match with the patient, do not give the number on its own.",
+    "A statement like your tinnitus is only 5 decibels may feel as if it belittles the distress the person experiences.",
+    "Instead, explain that the measure shows the sound's counterpart in the auditory system, and that the distress will be addressed separately.",
+    "Experiencing residual inhibition can be reassuring for many people, as it shows that tinnitus can change."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Pitch: two-choice method, octave check",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Loudness: often a few dB SL",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "MML and residual inhibition",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "No distress measure; NICE advises against",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Pitch matching uses a two-alternative method, and octave confusion must always be checked.",
+    "The loudness match often comes out only a few decibels above threshold; one reason is recruitment.",
+    "The MML is the lowest noise level that covers the tinnitus; residual inhibition is the temporary reduction after the noise.",
+    "These measures do not show tinnitus distress, and the NICE guideline does not recommend them for tinnitus assessment."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Why is the loudness match often a low SL?",
+   "secenekler": [
+    "Recruitment",
+    "Conductive loss",
+    "Masking error",
+    "Tinnitus is mild"
+   ],
+   "dogru": 0,
+   "aciklama": "At a frequency with hearing loss, even a small increase is heard as _loud_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: why does the tinnitus loudness match often come out only a few decibels above threshold?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: recruitment.",
+    "At a frequency with hearing loss, even a small increase just above threshold is heard as loud, so a low SL does not mean mild tinnitus."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tinnitus Questionnaires: *THI* and TFI",
+   "cikis": 2.5,
+   "cumleler": [
+    "Next time we will learn about the Tinnitus Handicap Inventory and the Tinnitus Functional Index, which measure tinnitus impact on life.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

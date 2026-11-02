@@ -1,0 +1,760 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D103_Acoustic_Immittance_EN",
+ "kapak": {
+  "ust": "LESSON 103",
+  "baslik": "Acoustic<br>*immittance*",
+  "alt": "Impedance, admittance and 226 Hz",
+  "cizim": "orta_kulak"
+ },
+ "youtube": {
+  "baslik": "Acoustic Immittance: Impedance and Admittance | Lesson 103 | AIHEAR Audiology Academy",
+  "aciklama": "Immittance testing measures how easily the middle ear transmits sound. In this lesson we look at impedance, admittance and immittance, the mass, stiffness and resistance components, the resonant frequency of the middle ear, why a 226 Hz probe tone is chosen for adults, and how the ear canal and the middle ear each contribute to the measurement.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Hunter and Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "immittance",
+   "tympanometry"
+  ],
+  "etiketler": [
+   "acoustic immittance",
+   "impedance",
+   "admittance",
+   "compliance",
+   "probe tone",
+   "226 Hz",
+   "resonant frequency",
+   "mass stiffness resistance",
+   "middle ear",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 103",
+   "baslik": "Acoustic *Immittance:* Impedance and Admittance",
+   "alt": "Impedance, admittance and the probe tone",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn the concepts of impedance and admittance that underlie immittance testing.",
+    "We will see the roles of mass, stiffness and resistance, and why we use a two hundred twenty six hertz probe tone in adults."
+   ]
+  },
+  {
+   "id": "terimler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Concepts",
+   "baslik": "Three terms, *one* system",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Impedance",
+     "metin": "Opposition to energy flow",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Admittance",
+     "metin": "Ease of energy flow",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Immittance",
+     "metin": "A shared name for both",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "When sound strikes a system, some of the energy passes into the system and some is reflected back.",
+    "Impedance is the total opposition a system offers to the energy delivered to it.",
+    "The unit of acoustic impedance is the acoustic ohm.",
+    "Admittance is the opposite: it describes how easily energy flows into the system.",
+    "The unit of admittance is the acoustic mho; clinical instruments use one thousandth of it, the millimho.",
+    "Acoustic immittance is a shared term that covers both impedance and admittance.",
+    "Most clinical instruments today measure admittance, so we usually see millimhos or milliliters on the screen."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Concepts",
+   "baslik": "Mass, stiffness, *resistance*",
+   "cizim": "orta_kulak",
+   "yakinlastir": [
+    {
+     "parca": "kemikcikler",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kemikcikler",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 5
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kemikcikler",
+     "metin": "Mass: the ossicles",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Stiffness: the air space",
+     "cumle": 4
+    },
+    {
+     "parca": "stapedius",
+     "metin": "Stiffness: muscles and ligaments",
+     "cumle": 5
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Mass and stiffness",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Resistance: turns energy into heat",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Mass: acts at high frequencies",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Stiffness: acts at low frequencies",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Three components determine the impedance of the middle ear: resistance, mass and stiffness.",
+    "Resistance turns part of the energy into heat and changes little with frequency.",
+    "The mass component comes from the weight of the system, mainly the ossicles.",
+    "The opposition from mass increases as frequency rises, so it is more effective at high frequencies.",
+    "The stiffness component comes from the air in the middle ear space, the tympanic membrane, the ligaments and the muscle tendons.",
+    "The opposition from stiffness increases as frequency falls, so it is more effective at low frequencies.",
+    "The tympanic membrane contributes to both mass and stiffness."
+   ]
+  },
+  {
+   "id": "rezonans",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Concepts",
+   "baslik": "The middle ear's *resonance*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "yazisiz": true,
+     "ad": "Opposition (relative)"
+    },
+    "seriler": [
+     {
+      "ad": "sertlik",
+      "noktalar": [
+       [
+        125,
+        9.6
+       ],
+       [
+        250,
+        7.6
+       ],
+       [
+        500,
+        5.6
+       ],
+       [
+        1000,
+        3.6
+       ],
+       [
+        2000,
+        1.6
+       ],
+       [
+        4000,
+        0.4
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "stiffness",
+      "etiket_konum": [
+       125,
+       9.6
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "kutle",
+      "noktalar": [
+       [
+        125,
+        0.4
+       ],
+       [
+        250,
+        1.6
+       ],
+       [
+        500,
+        2.8
+       ],
+       [
+        1000,
+        3.6
+       ],
+       [
+        2000,
+        5.6
+       ],
+       [
+        4000,
+        8.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "mass",
+      "cumle": 1
+     },
+     {
+      "ad": "surtunme",
+      "noktalar": [
+       [
+        125,
+        2
+       ],
+       [
+        4000,
+        2
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "resistance",
+      "etiket_konum": [
+       3000,
+       2
+      ],
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "rezonans_noktasi",
+      "x": 1000,
+      "y": 3.6,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "resonance",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "prob",
+      "x": [
+       200,
+       260
+      ],
+      "renk": "sari",
+      "etiket": "226 Hz",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "At resonance, mass and stiffness balance",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normal: about 800 to 1200 Hz",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "226 Hz: stiffness-dominated region",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "In the diagram, opposition from stiffness is large at low frequencies and gets smaller toward the high frequencies.",
+    "Opposition from mass does the reverse and grows as frequency rises.",
+    "Resistance stays largely constant across frequency.",
+    "The frequency at which mass and stiffness cancel each other is called the resonant frequency; only resistance remains there.",
+    "In healthy adults, the resonant frequency of the middle ear is usually between eight hundred and one thousand two hundred hertz.",
+    "Two hundred twenty six hertz is far below this frequency, in the region where stiffness dominates.",
+    "This diagram is schematic; its purpose is to show the direction of the curves."
+   ]
+  },
+  {
+   "id": "formul",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Concepts",
+   "baslik": "*How* do the components combine?",
+   "maddeler": [
+    {
+     "metin": "Mass and stiffness work _in opposite directions_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Total: resistance and _net reactance_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "In admittance: _conductance_ and _susceptance_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "In the clinic, usually _a single value_",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FORMULA",
+    "metin": "Impedance = square root of (resistance squared + *net reactance* squared)",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Mass and stiffness work in opposite directions, so their effects are subtracted from each other.",
+    "The difference is called net reactance; total impedance combines resistance and net reactance.",
+    "Mathematically, impedance is the square root of the sum of resistance squared and net reactance squared.",
+    "On the admittance side, the same pair are called conductance and susceptance.",
+    "Some instruments can measure these two components separately; this is the basis of multifrequency tympanometry.",
+    "In routine clinical work, a single admittance value combining these components is used."
+   ]
+  },
+  {
+   "id": "neden226",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The probe tone",
+   "baslik": "Why *226 Hz*?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Stiffness dominated",
+     "metin": "Interpretation is simpler",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Volume equivalence",
+     "metin": "1 ml = 1 mmho",
+     "cumle": 3
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Ear canal",
+     "metin": "A simple air volume",
+     "cumle": 4
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Infant exception",
+     "metin": "1000 Hz under six months",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "In adults, the probe tone for routine tympanometry is two hundred twenty six hertz, for several reasons.",
+    "First, at this frequency the healthy adult middle ear is stiffness dominated, which makes the measurement simpler to interpret.",
+    "A stiffness-dominated system behaves like a closed volume of air, so its admittance can also be expressed as a volume.",
+    "Second, at two hundred twenty six hertz, a closed air volume of one milliliter corresponds to exactly one millimho.",
+    "Third, at this low frequency the ear canal behaves like a simple air volume, and its contribution is easily subtracted.",
+    "So at two hundred twenty six hertz, milliliters and millimhos can be used interchangeably; this does not hold at other frequencies.",
+    "In infants under six months, mass has a clear effect in the middle ear, so a one thousand hertz probe tone is preferred."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The probe tone",
+   "baslik": "*Where* does the measured sound come from?",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3,
+     "olcek": 2.3
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 4
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 5
+    },
+    {
+     "parca": "prob_pompa",
+     "cumle": 7
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Probe tone: 226 Hz",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Sound in the ear canal",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Ear canal volume",
+     "cumle": 4
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Middle ear admittance",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The immittance probe seals the ear canal airtight.",
+    "A small loudspeaker in the probe plays a continuous tone, the probe tone; its level is usually around eighty five decibels SPL.",
+    "A microphone in the probe continuously measures the sound level in the ear canal.",
+    "If the system accepts sound easily, less sound remains in the ear canal; that means admittance is high.",
+    "Part of the measured admittance belongs to the air in the ear canal.",
+    "The rest belongs to the tympanic membrane and middle ear system; this is the part we are really interested in.",
+    "To separate the two, pressure is varied in tympanometry; we will see this in the next lesson.",
+    "All immittance tests rely on this simple setup: a loudspeaker, a microphone and a pump."
+   ]
+  },
+  {
+   "id": "esdeger",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "The probe tone",
+   "baslik": "Example: separating *the two contributions*",
+   "sutunlar": [
+    "Measurement",
+    "Value"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "At plus 200 daPa",
+      "1.0 ml"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "At the peak",
+      "1.7 mmho"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Middle ear (difference)",
+      "0.7 mmho"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Let us look at an example: the values are illustrative and measured at two hundred twenty six hertz.",
+    "At plus two hundred decapascals the tympanic membrane is stiffened; the value is almost entirely ear canal air: one milliliter.",
+    "When the pressure equals the middle ear pressure, total admittance rises to its highest value, one point seven millimhos.",
+    "The difference between the two, zero point seven millimhos, is the admittance of the middle ear.",
+    "Since one milliliter equals one millimho, this subtraction can be done directly.",
+    "Most instruments do this subtraction themselves and display the middle ear peak value directly."
+   ]
+  },
+  {
+   "id": "kompliyans",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "The probe tone",
+   "baslik": "*Compliance* or admittance?",
+   "sol": {
+    "ust": "Older usage",
+    "maddeler": [
+     {
+      "metin": "_Compliance_: the inverse of stiffness",
+      "cumle": 0
+     },
+     {
+      "metin": "Unit: _equivalent volume_, ml",
+      "cumle": 1
+     },
+     {
+      "metin": "Describes only the stiffness component",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Current usage",
+    "maddeler": [
+     {
+      "metin": "_Admittance_: all components",
+      "cumle": 3
+     },
+     {
+      "metin": "Unit: _mmho_",
+      "cumle": 3
+     },
+     {
+      "metin": "Both units equivalent at 226 Hz",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The term compliance appears often in older instruments and sources; compliance is the inverse of stiffness, describing flexibility.",
+    "Compliance was given as an equivalent air volume, in milliliters or cubic centimeters.",
+    "But this term describes only the stiffness component and leaves out mass and resistance.",
+    "Today the term admittance, which covers all components, and the millimho unit are preferred.",
+    "Since the two units are numerically equivalent at two hundred twenty six hertz, you may see both in the clinic."
+   ]
+  },
+  {
+   "id": "patoloji",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "In pathology",
+   "baslik": "Pathology changes the *components*",
+   "ogeler": [
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "More stiffness",
+     "metin": "Admittance falls, resonance rises",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Less stiffness",
+     "metin": "Admittance rises, resonance falls",
+     "cumle": 3
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Fluid, mass",
+     "metin": "Movement clearly reduced",
+     "cumle": 5
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Perforation",
+     "metin": "Measured volume much larger",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Middle ear disorders change these components, and immittance measurement picks up this change.",
+    "In otosclerosis, the stapes footplate becomes fixed; the system stiffens, admittance tends to fall and the resonant frequency rises.",
+    "A similar increase in stiffness may be seen in tympanosclerosis.",
+    "In ossicular chain discontinuity or a very flaccid tympanic membrane, stiffness decreases and admittance rises.",
+    "In this case, the resonant frequency also falls.",
+    "When there is fluid or a mass in the middle ear, movement of the tympanic membrane is clearly reduced and admittance stays very low.",
+    "In a perforation, the probe tone also reaches the middle ear space, and the measured volume comes out much larger than expected."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Check the unit and the probe tone on the screen. Milliliters and millimhos are equivalent only at 226 Hz; 1000 Hz results are read in mmho.",
+   "cumleler": [
+    "When reading reports, watch for a small but important detail.",
+    "Check which probe tone and which unit the value is given in.",
+    "Milliliters and millimhos can be used interchangeably only at two hundred twenty six hertz.",
+    "In one thousand hertz infant tympanometry, results are read in millimhos and are not compared with adult norms."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "In pathology",
+   "baslik": "The *family* of immittance measures",
+   "maddeler": [
+    {
+     "metin": "_Tympanometry_: admittance versus pressure",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "_Acoustic reflex_: change with muscle contraction",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Eustachian tube_ function tests",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Multifrequency_ and wideband measures",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 0
+      }
+     ]
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "These basic concepts are used in all immittance tests; the first is tympanometry, where admittance is measured while pressure varies.",
+    "In the acoustic reflex test, the small change in admittance caused by contraction of the stapedius muscle is measured.",
+    "Eustachian tube function tests also rely on pressure and admittance measurements.",
+    "Multifrequency and wideband measures give more detailed information by examining the components at different frequencies.",
+    "All of these tests are quick and do not require the patient to respond, so they count as objective tests."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Impedance opposes, admittance _eases_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Mass, stiffness and _resistance_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Resonance: about _800 to 1200 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "At 226 Hz, _1 ml = 1 mmho_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Impedance describes opposition to energy flow and admittance describes its ease; immittance is the shared name for both.",
+    "The impedance of the middle ear is determined by mass, stiffness and resistance.",
+    "The resonant frequency, where mass and stiffness balance, is about eight hundred to one thousand two hundred hertz in healthy adults.",
+    "At two hundred twenty six hertz, the middle ear is stiffness dominated, and one milliliter of air equals one millimho."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "How does the middle ear resonant frequency change in otosclerosis?",
+   "secenekler": [
+    "It falls",
+    "It rises",
+    "It does not change",
+    "It drops to zero"
+   ],
+   "dogru": 1,
+   "aciklama": "Stapes fixation _stiffens_ the system; more stiffness lowers admittance and raises the resonant frequency.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: How does the resonant frequency of the middle ear change in otosclerosis?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: it rises.",
+    "Fixation of the stapes footplate stiffens the system; with more stiffness, admittance falls and the resonant frequency rises."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How to Perform *Tympanometry*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will put these concepts into practice and see step by step how tympanometry is done.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

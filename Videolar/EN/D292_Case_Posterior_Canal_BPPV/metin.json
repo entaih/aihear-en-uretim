@@ -1,0 +1,984 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D292_Case_Posterior_Canal_BPPV_EN",
+ "kapak": {
+  "ust": "LESSON 292",
+  "baslik": "Case: *posterior*<br>canal BPPV",
+  "alt": "Dix-Hallpike and after the maneuver",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Case: Spinning When Getting Out of Bed (BPPV) | Lesson 292 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional adult case we evaluate posterior canal BPPV: the history and red flags, the latent, upbeating and torsional nystagmus on the Dix-Hallpike test, identifying the affected side and canal, the Epley maneuver, and reassessment after the maneuver.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Bhattacharyya et al., Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update), Otolaryngology-Head and Neck Surgery, 2017; Barany Society, Benign Paroxysmal Positional Vertigo: Diagnostic Criteria (2015); Jacobson and Shepard, Balance Function Assessment and Management.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "BPPV",
+   "casestudy"
+  ],
+  "etiketler": [
+   "BPPV",
+   "posterior canal BPPV",
+   "Dix-Hallpike",
+   "torsional nystagmus",
+   "Epley maneuver",
+   "canalith repositioning",
+   "positional vertigo",
+   "canalithiasis",
+   "vestibular case",
+   "audiology case study",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 292",
+   "baslik": "Case: spinning when *getting up*",
+   "alt": "Dix-Hallpike, affected side, after the maneuver",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we evaluate, step by step, an adult who gets dizzy when getting out of bed and turning over in bed.",
+    "We will cover the history, the Dix-Hallpike finding, identifying the affected canal and side, and reassessment after the maneuver."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "Example woman, sixty-four years old",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Spinning when turning right in bed",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Each attack under half a minute",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Also when looking up",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "No hearing or neurological complaints",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Duration",
+      "metin": "Seconds",
+      "cumle": 2
+     },
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Trigger",
+      "metin": "Turning in bed",
+      "cumle": 1
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Associated",
+      "metin": "None",
+      "cumle": 4
+     }
+    ],
+    "ust": "HISTORY"
+   },
+   "cumleler": [
+    "Our case is entirely fictional: a sixty-four-year-old woman comes in with attacks of dizziness over the past five days.",
+    "She says the room spins violently when she gets out of bed in the morning, and especially when she turns to the right in bed.",
+    "Each attack lasts less than half a minute; between attacks there is only mild unsteadiness and some nausea.",
+    "A similar attack happened when she tipped her head back to reach something on a high shelf.",
+    "She has no change in hearing, no tinnitus, headache or double vision, and no difficulty speaking or swallowing.",
+    "With its brief attacks triggered by head position, this history suggests benign paroxysmal positional vertigo, or BPPV."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "*Red flags* first",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Vision and speech",
+     "metin": "Double vision, slurred speech",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Numbness, weakness",
+     "metin": "Face, arm, leg",
+     "cumle": 1
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Sudden headache",
+     "metin": "Or neck pain",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Constant spinning",
+     "metin": "Unable to stand",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Before positional testing, signs suggesting a central cause are asked about: double vision, and speech or swallowing problems.",
+    "Numbness and weakness in the face, arm or leg are also asked about.",
+    "A sudden, severe headache or neck pain is an important warning sign.",
+    "Dizziness that continues with the head still, and inability to stand, suggest the picture is not BPPV.",
+    "If any of these signs is present, testing is not done; the person is referred for urgent physician evaluation."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Why *head position*?",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utricle",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "Posterior canal",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In BPPV, otoconia, or calcium carbonate crystals, break loose from the utricle and enter a semicircular canal.",
+    "The canal most easily reached in the direction of gravity is the posterior canal, so it is the one most often involved.",
+    "When the head reaches a certain position, the crystals slide within the canal and drag the fluid along.",
+    "The fluid flow deflects the cupula, which produces a brief but intense spinning sensation and nystagmus.",
+    "When the crystals stop, the flow and the symptoms stop too; this is why the attacks are short."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Positional testing",
+   "baslik": "*Preparing* for the test",
+   "maddeler": [
+    {
+     "metin": "No spontaneous or gaze nystagmus",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Ask about neck and back",
+     "cumle": 1,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Video goggles remove fixation",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Tell the patient what happens",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Audiogram: age-appropriate, symmetric",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 4,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        25,
+        35,
+        45
+       ],
+       "cumle": 4
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        20,
+        25,
+        35,
+        45
+       ],
+       "cumle": 4
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Sitting up, she is checked with video goggles: there is no spontaneous nystagmus and no gaze-evoked nystagmus.",
+    "Neck pain, neck or back surgery and limited movement are asked about; there is no contraindication.",
+    "Video goggles remove visual fixation, so the torsional component in particular is much easier to see.",
+    "She is told she may feel brief spinning, that she is supported against falling, and that she should keep her eyes open.",
+    "The audiogram shows an age-appropriate, symmetric, mild high-frequency loss in both ears; there is no new one-sided loss."
+   ]
+  },
+  {
+   "id": "duzlem",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Positional testing",
+   "baslik": "Why *forty-five* degrees?",
+   "cizim": "kanal_duzlemleri",
+   "ayar": {
+    "goster": [
+     "larp"
+    ],
+    "cift_cumleleri": {
+     "larp": 1
+    },
+    "donus": 45,
+    "donus_cumle": 2
+   },
+   "cumleler": [
+    "The posterior canal lies in a plane tilted about forty five degrees from the midline of the head.",
+    "The right posterior canal lies in the same plane as the left anterior canal; this is called the LARP plane.",
+    "With the head turned forty five degrees to the right, the right posterior canal plane aligns with the body's front-to-back plane.",
+    "When the patient is laid back in this position, the canal turns fully in the direction of gravity and the crystals move.",
+    "In the Dix-Hallpike test, the posterior canal of the lower ear is tested."
+   ]
+  },
+  {
+   "id": "dix",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Positional testing",
+   "baslik": "Right *Dix-Hallpike*",
+   "cumleler": [
+    "The patient sits on the examination table with legs extended.",
+    "The head is turned forty five degrees to the right.",
+    "The patient is quickly laid back; the head is supported about twenty degrees below the edge of the table.",
+    "The eyes are watched and recorded for at least thirty seconds, or until the response ends if nystagmus appears.",
+    "Then the patient is slowly brought back to sitting, and the eyes are watched again."
+   ],
+   "cizim": "dix_hallpike",
+   "ayar": {
+    "taraf": "sag",
+    "donus_cumle": 1,
+    "yatis_cumle": 2,
+    "goz_cumle": 3,
+    "oturma_cumle": 4
+   }
+  },
+  {
+   "id": "bulgu",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Positional testing",
+   "baslik": "*Latent* nystagmus on the right",
+   "cizim": "goz_nistagmus",
+   "ayar": {
+    "dikey": "yukari",
+    "torsiyon": "sag",
+    "kulak": "sag",
+    "dikey_cumle": 2,
+    "torsiyon_cumle": 2,
+    "kulak_cumle": 2,
+    "grafik": {
+     "x": {
+      "min": 0,
+      "max": 45,
+      "ad": "Time (s)",
+      "isaretler": [
+       0,
+       10,
+       20,
+       30,
+       40
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 30,
+      "adim": 10,
+      "ad": "Slow phase velocity (deg/s)"
+     },
+     "seriler": [
+      {
+       "ad": "nistagmus",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         3,
+         0
+        ],
+        [
+         4,
+         6
+        ],
+        [
+         6,
+         18
+        ],
+        [
+         8,
+         24
+        ],
+        [
+         10,
+         22
+        ],
+        [
+         13,
+         15
+        ],
+        [
+         17,
+         7
+        ],
+        [
+         21,
+         2
+        ],
+        [
+         24,
+         0
+        ]
+       ],
+       "renk": "kirmizi",
+       "yumusak": true,
+       "kalin": true,
+       "etiket": "upbeating and torsional",
+       "cumle": 2
+      },
+      {
+       "ad": "oturma",
+       "noktalar": [
+        [
+         30,
+         0
+        ],
+        [
+         32,
+         -6
+        ],
+        [
+         35,
+         -4
+        ],
+        [
+         39,
+         0
+        ],
+        [
+         45,
+         0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kesik": true,
+       "etiket": "on sitting: reversed",
+       "cumle": 5
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "yatis",
+       "x": 0,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "head hanging",
+       "cumle": 0
+      },
+      {
+       "ad": "oturus",
+       "x": 30,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "sitting up",
+       "cumle": 5
+      }
+     ],
+     "araliklar": [
+      {
+       "ad": "latans",
+       "x": [
+        0,
+        3
+       ],
+       "y": 26,
+       "etiket": "latency",
+       "cumle": 1
+      },
+      {
+       "ad": "sure",
+       "x": [
+        3,
+        24
+       ],
+       "y": 28,
+       "etiket": "about 20 s",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "notlar": [
+    {
+     "metin": "Latency: _about three seconds_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Direction: _up and torsional_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Duration: _under one minute_",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Nystagmus does not start as soon as she reaches the right Dix-Hallpike position.",
+    "It appears after a delay of about three seconds, called the latency.",
+    "The fast phase beats upward, toward the forehead; in the torsional part, the upper pole of the eye beats toward the lower, right ear.",
+    "The nystagmus first builds, then fades, and dies out in about twenty seconds; she feels spinning for the same time.",
+    "On the graph, we see this course as the change in slow phase velocity over time.",
+    "When she sits up, a brief, weaker nystagmus is seen in the opposite direction.",
+    "Latency, short duration and a course that first builds and then fades are typical of posterior canal canalithiasis."
+   ]
+  },
+  {
+   "id": "taraf",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Positional testing",
+   "baslik": "Which *canal*, which side?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Right Dix-Hallpike",
+     "metin": "Typical response, vertigo",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Left Dix-Hallpike",
+     "metin": "No nystagmus",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Supine roll",
+     "metin": "No horizontal nystagmus",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Conclusion",
+     "metin": "Right posterior canal",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The right Dix-Hallpike shows a typical response with vertigo.",
+    "The left Dix-Hallpike, done after a sufficient break, shows no nystagmus.",
+    "The supine roll test, which assesses the lateral canals, shows no horizontal nystagmus.",
+    "The findings are consistent with right posterior canal BPPV of the canalithiasis type; the diagnosis is made by the physician.",
+    "Tests should not be repeated back to back too quickly; with fatigue, the response may disappear on the second test."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical alert",
+   "metin": "Confirm brief torsional nystagmus with video recording. If the response is not typical, do not do a maneuver; refer to a physician.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: the direction of brief torsional nystagmus is much clearer on a recording; record the test on video if possible.",
+    "The recording strengthens the decision about which side is involved and later comparisons.",
+    "If the nystagmus has no latency, does not fatigue, or is pure downbeating, the picture does not fit typical BPPV.",
+    "In that case no maneuver is done; the findings are recorded and the patient is referred for physician evaluation."
+   ]
+  },
+  {
+   "id": "epley",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Maneuver",
+   "baslik": "Right *Epley* maneuver",
+   "adimlar": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Head right",
+     "metin": "Dix-Hallpike position",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Head left",
+     "metin": "Ninety degrees",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Roll onto left side",
+     "metin": "Face toward floor",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Sit up slowly",
+     "metin": "Chin slightly down",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "In each position",
+     "metin": "Until nystagmus stops",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A canalith repositioning procedure aims to move the crystals out of the canal and back into the utricle.",
+    "The first step of the Epley maneuver is the right Dix-Hallpike position; you wait until nystagmus and spinning pass.",
+    "Then, keeping the head extended, it is slowly turned ninety degrees to the left.",
+    "Next the patient rolls onto the left side, and the head is turned another ninety degrees so the face points to the floor.",
+    "Finally the patient is slowly brought to sitting; in each position, you wait until the nystagmus stops.",
+    "Who performs the maneuver varies by country; it is done in suitable patients by an authorized, trained clinician."
+   ]
+  },
+  {
+   "id": "gozlem",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Maneuver",
+   "baslik": "Observation *during* the maneuver",
+   "maddeler": [
+    {
+     "metin": "Same-direction nystagmus in position two",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Reversed: crystals may slide back",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Type change: canal conversion",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Patient supported at all times",
+     "cumle": 4,
+     "ikon": "dokunma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "crus_commune",
+      "metin": "Common crus",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "metin": "Utricle",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "posterior_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "crus_commune",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The eyes are still watched with video goggles during the maneuver; in our case, brief nystagmus is also seen in the second position.",
+    "Nystagmus in the same direction as in the first position has been reported as a sign that the crystals are moving the right way.",
+    "Nystagmus in the opposite direction may suggest the crystals are sliding back toward the ampulla.",
+    "If the type of nystagmus changes, the crystals may have entered another canal; this is canal conversion, and the new canal is identified.",
+    "Throughout the maneuver, the patient is supported against falling and asked about nausea."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Reassessment",
+   "baslik": "*After* the maneuver",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Retest",
+     "metin": "Same session or later",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Restrictions",
+     "metin": "Not routinely advised",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Mild unsteadiness",
+     "metin": "May last days",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Check",
+     "metin": "Within about a month",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Recurrence",
+     "metin": "May return",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "After a short break, the right Dix-Hallpike is repeated; there is no nystagmus or vertigo, and the result is recorded.",
+    {
+     "yazi": "The 2017 guideline of the American Academy of Otolaryngology does not advise routine postural restrictions after a posterior canal maneuver.",
+     "ses": "The twenty seventeen guideline of the American Academy of Otolaryngology does not advise routine postural restrictions after a posterior canal maneuver."
+    },
+    "She is told that even after a successful maneuver, mild unsteadiness may remain for a few days to a few weeks.",
+    "The guideline recommends reassessing the patient within about a month after initial treatment.",
+    "She is also told that BPPV can recur and that she can come back if a new attack happens."
+   ]
+  },
+  {
+   "id": "duzelmezse",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Reassessment",
+   "baslik": "*What* if it does not resolve?",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Retest",
+     "metin": "Correct side and canal?",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Another canal",
+     "metin": "Canal conversion possible",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Physician",
+     "metin": "Look for central cause",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Rehabilitation",
+     "metin": "For residual unsteadiness",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Fall risk",
+     "metin": "Home safety",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "If complaints persist at the one-month check, positional tests are first repeated, and the side and canal are reviewed.",
+    "If the nystagmus type has changed, another canal may be involved, and the matching maneuver is chosen.",
+    "If the picture is atypical or there is no response to repeated maneuvers, the patient is referred to a physician to look for central causes.",
+    "If unsteadiness persists after the positional nystagmus resolves, vestibular rehabilitation may help.",
+    "In older patients, fall risk is assessed and home safety measures are discussed."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Reassessment",
+   "baslik": "Example *report* language",
+   "maddeler": [
+    {
+     "metin": "No spontaneous or gaze nystagmus",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Right Dix-Hallpike: typical response",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Left and supine roll negative",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Right Epley, then negative",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Check within one month",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0,
+      "max": 45,
+      "ad": "Time (s)",
+      "isaretler": [
+       0,
+       10,
+       20,
+       30,
+       40
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 30,
+      "adim": 10,
+      "ad": "Slow phase velocity (deg/s)"
+     },
+     "seriler": [
+      {
+       "ad": "nistagmus",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         3,
+         0
+        ],
+        [
+         4,
+         6
+        ],
+        [
+         6,
+         18
+        ],
+        [
+         8,
+         24
+        ],
+        [
+         10,
+         22
+        ],
+        [
+         13,
+         15
+        ],
+        [
+         17,
+         7
+        ],
+        [
+         21,
+         2
+        ],
+        [
+         24,
+         0
+        ]
+       ],
+       "renk": "kirmizi",
+       "yumusak": true,
+       "kalin": true,
+       "etiket": "upbeating and torsional",
+       "cumle": 2
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "yatis",
+       "x": 0,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "head hanging",
+       "cumle": 0
+      }
+     ],
+     "araliklar": [
+      {
+       "ad": "latans",
+       "x": [
+        0,
+        3
+       ],
+       "y": 26,
+       "etiket": "latency",
+       "cumle": 1
+      },
+      {
+       "ad": "sure",
+       "x": [
+        3,
+        24
+       ],
+       "y": 28,
+       "etiket": "about 20 s",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Example report language: no spontaneous or gaze nystagmus was found with video goggles.",
+    "Right Dix-Hallpike showed upbeating, torsional nystagmus with about three seconds latency, lasting about twenty seconds, with vertigo.",
+    "Left Dix-Hallpike and supine roll showed no nystagmus; findings are consistent with right posterior canal BPPV.",
+    "A right Epley maneuver was done; repeat right Dix-Hallpike showed no nystagmus.",
+    "Reassessment within about a month is recommended; she was asked to return sooner if symptoms change."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Brief positional attacks: think BPPV",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Latent, upbeating, torsional nystagmus",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "The lower ear is affected",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Retest after the maneuver, follow up",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Attacks lasting seconds when turning in bed or getting up suggest posterior canal BPPV; red flags are asked about first.",
+    "On Dix-Hallpike, upbeating, torsional nystagmus with a few seconds of latency, lasting under a minute, is the typical finding.",
+    "In the test with the typical response, the lower ear is the affected side; the torsion also beats toward this ear.",
+    "After the maneuver, the test is repeated, routine restrictions are not advised, and reassessment follows within about a month."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Left Dix-Hallpike shows a typical response. Which canal?",
+   "secenekler": [
+    "Right posterior",
+    "Left posterior",
+    "Left lateral",
+    "Right anterior"
+   ],
+   "dogru": 1,
+   "aciklama": "Dix-Hallpike tests the posterior canal of _the lower ear_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: left Dix-Hallpike shows latent, upbeating, torsional nystagmus. Which canal is suspected?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the left posterior canal.",
+    "This test assesses the posterior canal of the lower ear; upbeating torsional nystagmus points to the posterior canal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: Acute Vestibular Syndrome, *Peripheral or Central*?",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case, we will examine dizziness that starts suddenly and lasts for days, and how peripheral and central causes are told apart.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R211_Braid_the_Cables_EN",
+ "kapak": {
+  "ust": "QUICK FACT #211",
+  "baslik": "*Braid* the cables",
+  "alt": "Common mode rejection in ABR",
+  "cizim": "abr",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does braiding electrode cables help an ABR recording? #shorts",
+  "aciklama": "The ABR amplifier is differential: mains interference that reaches both electrodes equally is largely removed in the subtraction. This is called common mode rejection. Braided cables let interference reach both leads similarly, and low, closely matched impedances are also needed for this rejection to work well.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ABR",
+   "electrophysiology"
+  ],
+  "etiketler": [
+   "common mode rejection",
+   "electrode impedance",
+   "ABR",
+   "mains interference",
+   "electrode cables",
+   "differential amplifier",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does braiding electrode cables help an ABR recording?",
+  "bilgiler": [
+   "The ABR amplifier boosts the difference between two electrodes.",
+   "Interference reaching both leads equally is largely removed.",
+   "Braided cables and balanced impedance strengthen this."
+  ],
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "electrophysiology"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #211",
+   "metin": "Why *braid* the cables?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does braiding electrode cables help an ABR recording?"
+   ]
+  },
+  {
+   "id": "kablo",
+   "tur": "zincir",
+   "baslik": "Common mode *rejection*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Subtract",
+     "tr": "two leads",
+     "cumle": 1
+    },
+    {
+     "ad": "Noise",
+     "tr": "arrives equally",
+     "cumle": 2
+    },
+    {
+     "ad": "Braid",
+     "tr": "same path",
+     "cumle": 3
+    }
+   ],
+   "alt": "Not loose, _but braided cables_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "In auditory brainstem response, or ABR, recording, the amplifier is differential.",
+    "It amplifies the voltage difference between two electrodes.",
+    "Mains interference reaching both leads equally largely cancels in this subtraction.",
+    "Braided cables bring interference to both leads alike, strengthening rejection.",
+    "So impedances must also be low and close to each other."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D126",
+ "kaynak_baslik": "Electrode Montage and the 10-20 System"
+}

@@ -1,0 +1,589 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D173_Screening_Protocols_EN",
+ "kapak": {
+  "ust": "LESSON 173",
+  "baslik": "Screening<br>*protocols*",
+  "alt": "OAE, AABR and two-stage screening",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Screening Protocols: OAE, AABR and Two-Stage | Lesson 173 | AIHEAR Audiology Academy",
+  "aciklama": "In newborn hearing screening, which test is used, for which baby and in what order? In this lesson we cover what OAE and AABR assess, the well-baby and intensive care protocols, two-stage screening, and the rules behind pass and refer decisions.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Joint Committee on Infant Hearing, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Joint Committee on Infant Hearing, Year 2007 Position Statement; Johnson et al., A multicenter evaluation of how many infants with permanent hearing loss pass a two-stage otoacoustic emissions/automated auditory brainstem response newborn hearing screening protocol, Pediatrics (2005); Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "newbornscreening",
+   "hearing"
+  ],
+  "etiketler": [
+   "newborn hearing screening",
+   "screening protocol",
+   "OAE",
+   "AABR",
+   "automated ABR",
+   "two-stage screening",
+   "NICU",
+   "neonatal intensive care",
+   "ANSD",
+   "pass refer",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 173",
+   "baslik": "Screening *protocols*",
+   "alt": "OAE, AABR and two-stage screening",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the protocols used in newborn hearing screening, separating well babies from intensive care babies.",
+    "We will also see how pass and refer decisions are made and which protocol errors are common."
+   ]
+  },
+  {
+   "id": "kapsam",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What the tests cover",
+   "baslik": "Which test sees *what?*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cochlea: OAE",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "auditory nerve: AABR",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklea",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Last lesson we met the two core screening tests: otoacoustic emissions, or OAE, and automated auditory brainstem response, or AABR.",
+    "Before choosing a protocol, let us be clear about which part of the auditory pathway each test assesses.",
+    "Sound passes through the ear canal, is conducted by the middle ear and becomes a neural signal in the cochlea.",
+    "OAE reflects the ear canal, the middle ear and the function of the outer hair cells in the cochlea.",
+    "So if sound reaches the cochlea and the outer hair cells are working, an OAE response can be recorded.",
+    "AABR also covers the inner hair cells, the auditory nerve and the brainstem pathway.",
+    "This difference is decisive for auditory neuropathy spectrum disorder, or ANSD, in which neural transmission is disrupted.",
+    "In ANSD the outer hair cells often work, so OAE can be normal while AABR shows no response."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "What the tests cover",
+   "baslik": "*How* is a pass decided?",
+   "maddeler": [
+    {
+     "metin": "The device algorithm decides automatically",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "OAE: response above the noise",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "AABR: usually _35 dB nHL_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Target: about 30 to 40 dB and above",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Very mild loss can pass",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 3,
+    "ayar": {
+     "latans_kayma": 0
+    },
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Screening devices give the result automatically with a statistical algorithm, with no need for expert interpretation.",
+    "In OAE screening, the device checks whether the response is far enough above the noise floor in certain frequency bands.",
+    "How many bands must show a response, and how large the difference must be, vary by device and program.",
+    {
+     "yazi": "In AABR screening the stimulus is usually 35 dB nHL, or normalized hearing level; the device looks for a brainstem response at this level.",
+     "ses": "In AABR screening the stimulus is usually thirty five decibels N.H.L, or normalized hearing level; the device looks for a brainstem response at this level."
+    },
+    "The Joint Committee on Infant Hearing, or JCIH, targets permanent losses averaging 30 to 40 decibels or more in the speech frequencies.",
+    "So milder losses and some losses in a narrow frequency region can pass the screening."
+   ]
+  },
+  {
+   "id": "iki_asama",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Well babies",
+   "baslik": "Two-stage *screening*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "OAE screening",
+     "cumle": 0,
+     "metin": "A quick first step"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "OAE refer",
+     "cumle": 1,
+     "metin": "AABR in the same stay"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "AABR pass",
+     "cumle": 3,
+     "metin": "Screening complete"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "AABR refer",
+     "cumle": 4,
+     "metin": "Referral for diagnosis"
+    }
+   ],
+   "cumleler": [
+    "A common approach in well-baby nurseries is two-stage screening, which uses the two technologies one after the other.",
+    "OAE, which is quick and low cost, is done first; a baby who does not pass OAE gets AABR, usually before discharge.",
+    "Vernix and middle ear fluid, common reasons for an OAE refer, affect the AABR result less.",
+    "So in many protocols, a baby who passes AABR is considered to have passed the screening.",
+    "A baby who also does not pass AABR is referred for diagnostic audiological evaluation.",
+    "Two-stage screening clearly lowers the referral rate and spares families unnecessary worry.",
+    "But studies have shown that a small share of babies who did not pass OAE but passed AABR were later found to have permanent loss.",
+    "Most of these losses were mild, that is, below the AABR screening level.",
+    "So even in a two-stage protocol, the family is told to keep watching the child's hearing and speech development."
+   ]
+  },
+  {
+   "id": "secenek",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Well babies",
+   "baslik": "*Options* for well babies",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "OAE only",
+     "cumle": 0,
+     "metin": "Quick, low cost, easy"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "AABR only",
+     "cumle": 3,
+     "metin": "Also covers the neural pathway"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "OAE and AABR",
+     "cumle": 5,
+     "metin": "Low referral rate"
+    }
+   ],
+   "cumleler": [
+    "For well babies, JCIH accepts screening with either OAE or AABR; programs choose based on their own conditions.",
+    "The advantages of an OAE-only protocol are speed, low cost and easy use.",
+    "But the refer rate may be higher in the first days because of vernix and fluid.",
+    "An AABR-only protocol may give a lower refer rate, since it covers the neural pathway and is less affected in the first days.",
+    "On the other hand, it needs electrodes and disposables, and takes a little longer to perform.",
+    "The two-stage protocol, which uses OAE and AABR together, combines the strengths of both methods.",
+    "Whatever protocol is chosen, trained staff and regular quality monitoring determine how reliable the result is.",
+    "Birth numbers, staffing, available equipment and how long mothers stay in hospital also play a role in the choice."
+   ]
+  },
+  {
+   "id": "ybu",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Intensive care",
+   "baslik": "Why *AABR* in intensive care?",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "OAE response: possible in ANSD",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Stay longer than five days",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Higher ANSD risk",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "An OAE pass does not count",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In the neonatal intensive care unit, or NICU, the protocol is different.",
+     "ses": "In the neonatal intensive care unit, or N I C U, the protocol is different."
+    },
+    "JCIH recommends that babies who stay in intensive care for more than five days be screened with AABR.",
+    "This five-day cutoff appears in the same way in both the 2007 and 2019 JCIH position statements.",
+    "This is because these babies have a higher risk of ANSD due to causes such as prematurity, hyperbilirubinemia and hypoxia.",
+    "The OAE response shown in the drawing can also be recorded in a baby with ANSD, as long as the outer hair cells are intact.",
+    "So screening with OAE alone can classify a baby with ANSD as a pass.",
+    "Rescreening a baby who did not pass AABR with OAE and counting it as a pass is not recommended.",
+    "NICU babies who do not pass AABR are referred directly to an audiologist for rescreening and, if needed, diagnostic ABR."
+   ]
+  },
+  {
+   "id": "yeniden",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Intensive care",
+   "baslik": "The *readmitted* baby",
+   "maddeler": [
+    {
+     "metin": "Readmission in the first month",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Jaundice needing exchange transfusion",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Culture-positive sepsis",
+     "cumle": 2,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "_Rescreening_ before discharge",
+     "cumle": 3,
+     "ikon": "tarama"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Passed before",
+      "cumle": 0,
+      "metin": "Normal at birth"
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "New risk",
+      "cumle": 1,
+      "metin": "Jaundice, sepsis"
+     },
+     {
+      "ikon": "tarama",
+      "baslik": "Rescreen",
+      "cumle": 3,
+      "metin": "Before discharge"
+     }
+    ],
+    "ust": "NEW RISK"
+   },
+   "cumleler": [
+    "A baby who passed screening may be readmitted in the first month for a condition linked to hearing loss.",
+    "Hyperbilirubinemia, or severe jaundice, that requires exchange transfusion is one example.",
+    "Culture-positive sepsis, a severe infection confirmed by bacteria growing in the blood, is another.",
+    "JCIH recommends repeating the hearing screening before discharge in these babies.",
+    "This is because these conditions can cause a loss that appears after the birth screening result.",
+    "Even if the earlier screening result was a pass, a new risk calls for a new evaluation."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Pass and refer",
+   "baslik": "Decision *rules*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "One ear refers",
+     "cumle": 0,
+     "metin": "Counts as refer"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Both ears together",
+     "cumle": 2,
+     "metin": "Both at rescreening"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Unlimited repeats",
+     "cumle": 3,
+     "metin": "Risk of a false pass"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Records",
+     "cumle": 6,
+     "metin": "Every attempt logged"
+    }
+   ],
+   "cumleler": [
+    "Not passing in one ear is also a refer result, and the baby is referred for rescreening or diagnosis per the protocol.",
+    "This result is not trivial, because unilateral loss can also affect the child's development.",
+    "At rescreening, testing both ears is recommended, even if only one ear did not pass the first screening.",
+    "Testing again and again in one session until a pass appears raises the chance of a false pass by luck.",
+    "So programs limit the number of attempts per session.",
+    "Which ear did not pass is also clearly written in the record and in the written information given to the family.",
+    "The date, method and result of every attempt are recorded; this record is the basis of the tracking system."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Pass and refer",
+   "baslik": "Protocol *summary*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Well baby",
+     "cumle": 1,
+     "metin": "OAE or AABR"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Two-stage",
+     "cumle": 2,
+     "metin": "OAE, then AABR"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Intensive care",
+     "cumle": 3,
+     "metin": "AABR, refer to audiologist"
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Readmission",
+     "cumle": 4,
+     "metin": "Rescreen before discharge"
+    }
+   ],
+   "cumleler": [
+    "Now let us put the protocols side by side.",
+    "For well babies, the first screening uses OAE or AABR; a baby who does not pass is rescreened.",
+    "In the two-stage protocol, a baby who does not pass OAE gets AABR; one who also does not pass AABR is referred for diagnosis.",
+    "Babies in intensive care for more than five days are screened with AABR; if they do not pass, they go straight to an audiologist.",
+    "In a baby readmitted in the first month for a condition linked to hearing loss, screening is repeated before discharge.",
+    "Details may vary from country to country and program to program, but the basic logic is the same."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Pass and refer",
+   "baslik": "What do we *tell the family?*",
+   "maddeler": [
+    {
+     "metin": "Brief information before screening",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Pass: keep watching",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Refer: not a diagnosis, more testing",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Appointment and written information",
+     "cumle": 6,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Pass",
+      "cumle": 2,
+      "metin": "Watch development"
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Refer",
+      "cumle": 4,
+      "metin": "Further testing needed"
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Appointment",
+      "cumle": 6,
+      "metin": "Given before leaving"
+     }
+    ],
+    "ust": "BY RESULT"
+   },
+   "cumleler": [
+    "The success of a protocol also depends on clear and consistent information for the family.",
+    "Before screening, the family is briefly told what the test is, that it is painless and that it is quick.",
+    "With a pass, the family is told that this shows a response at the screening level.",
+    "Because hearing can change later, they are asked to keep watching responses to sound and speech development.",
+    "With a refer, it is clearly stressed that the result is not a diagnosis and only means more testing is needed.",
+    "It is also explained why the follow-up matters, since some babies who do not pass do have a real loss.",
+    "If possible, the rescreening or diagnostic appointment is given in writing before the family leaves the hospital."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Also tell families of babies who passed AABR after an OAE refer, or who referred in one ear, to watch hearing and speech development.",
+   "cumleler": [
+    "A tip from the field: the weakest link in a screening protocol is often not technical but communication.",
+    "The family of a baby who did not pass in one ear may skip the appointment because the other ear is fine.",
+    "The family of a baby who passed a two-stage protocol should also know that screening can miss mild losses.",
+    "Explain briefly and concretely how they can watch the baby's responses to sound and speech development.",
+    "Give them in writing where to go if they have concerns."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and quiz",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "OAE to cochlea, AABR to brainstem",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Well babies: OAE, AABR or both",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "NICU over five days: AABR",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "One-ear refer is a refer",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that OAE assesses the pathway up to the cochlea, while AABR assesses it up to the brainstem.",
+    "For well babies, OAE, AABR or a two-stage protocol using both in sequence can be used.",
+    "Babies in intensive care for more than five days are screened with AABR because of the risk of ANSD.",
+    "Not passing in one ear is also a refer result; at rescreening both ears are tested together."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and quiz",
+   "soru": "How is a baby with a 10-day NICU stay screened?",
+   "secenekler": [
+    "With OAE only",
+    "With AABR",
+    "One month after discharge",
+    "By behavioral observation"
+   ],
+   "dogru": 1,
+   "aciklama": "_ANSD risk_ is higher in intensive care; OAE does not assess the neural pathway.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which test should be used to screen a baby who spent ten days in intensive care?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: with AABR.",
+    "These babies have a higher risk of auditory neuropathy; since OAE can be normal, AABR, which also covers the neural pathway, is needed."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Risk Indicators* and Monitoring for Late-Onset Loss",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at babies who need monitoring even after passing screening: risk indicators and late-onset loss.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,977 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D224_Hearing_Protectors_EN",
+ "kapak": {
+  "ust": "LESSON 224",
+  "baslik": "Hearing<br>*protectors*",
+  "alt": "Types and real protection",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak_yolu"
+  ]
+ },
+ "youtube": {
+  "baslik": "Hearing Protectors: Types and Real-World Protection | Lesson 224 | AIHEAR Audiology Academy",
+  "aciklama": "Earplugs or earmuffs? In this lesson we learn about the types of personal hearing protectors, what the NRR, SNR (single number rating) and HML label values mean, why label values drop in the field, the effect of wearing time and individual fit testing.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Berger et al., The Noise Manual (AIHA); NIOSH (1998), Criteria for a Recommended Standard: Occupational Noise Exposure; OSHA 29 CFR 1910.95 and OSHA Technical Manual, Noise; EN 458, Hearing protectors: recommendations for selection, use, care and maintenance; ISO 4869-2; Regulation on the Protection of Employees from Noise-Related Risks, Türkiye (Official Gazette, 28.07.2013, No. 28721).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingprotection",
+   "occupationalhealth"
+  ],
+  "etiketler": [
+   "hearing protector",
+   "hearing protection device",
+   "earplugs",
+   "earmuffs",
+   "noise reduction rating",
+   "NRR",
+   "single number rating",
+   "SNR",
+   "fit testing",
+   "personal attenuation rating",
+   "occupational audiology",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 224",
+   "baslik": "Hearing *protectors*",
+   "alt": "Types, label values and real protection",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about earplugs and earmuffs and what the protection values on the packaging mean.",
+    "Then we will discuss why these values drop in the field and how individual fit testing measures real protection."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Why and when?",
+   "baslik": "The *order* of protection",
+   "adimlar": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "Reduce at source",
+     "cumle": 1,
+     "metin": "Quiet machines, insulation"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Block the path",
+     "cumle": 2,
+     "metin": "Barriers, enclosures, distance"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Shorten the time",
+     "cumle": 3,
+     "metin": "Rotation, quiet breaks"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Personal protector",
+     "cumle": 4,
+     "metin": "The last line of defense"
+    }
+   ],
+   "cumleler": [
+    "A hearing protection device, or HPD, is not the first but the last step in protecting against noise.",
+    "The most effective way is to reduce noise at its source; choosing a quieter machine or insulating it are examples.",
+    "If the source cannot be reduced, the sound path is blocked; barriers, enclosed booths and greater distance belong to this step.",
+    "Then come administrative measures: shortening the time spent in noisy work and giving quiet breaks.",
+    "Personal protectors are used to reduce the risk that remains where these measures are not enough.",
+    "This is because a protector's effect depends entirely on the person fitting it correctly and wearing it all the time."
+   ]
+  },
+  {
+   "id": "yonetmelik",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why and when?",
+   "baslik": "The *regulation* in Türkiye",
+   "maddeler": [
+    {
+     "metin": "_80 dB(A)_: protectors made available",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_85 dB(A)_: use ensured and enforced",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_87 dB(A)_: not exceeded with protectors",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "The protector must fit properly",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "trafik",
+      "cumle": 1
+     },
+     {
+      "parca": "konser",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In Türkiye, this is governed by the Regulation on the Protection of Employees from Noise-Related Risks, dated 2013.",
+     "ses": "In Türkiye, this is governed by the Regulation on the Protection of Employees from Noise-Related Risks, dated twenty thirteen."
+    },
+    {
+     "yazi": "If daily exposure exceeds the lower action value of 80 dB(A), the employer makes hearing protectors available to workers.",
+     "ses": "If daily exposure exceeds the lower action value of eighty decibels A, the employer makes hearing protectors available to workers."
+    },
+    {
+     "yazi": "If exposure reaches the upper action value of 85 dB(A), the employer ensures and enforces the use of protectors.",
+     "ses": "If exposure reaches the upper action value of eighty five decibels A, the employer ensures and enforces the use of protectors."
+    },
+    {
+     "yazi": "And 87 dB(A) is the exposure limit value, assessed taking into account the effect of the protector in use.",
+     "ses": "And eighty seven decibels A is the exposure limit value, assessed taking into account the effect of the protector in use."
+    },
+    "For the action values, the protector's effect is not considered; the noise in the environment is measured first.",
+    "The regulation requires protectors to be chosen so that they eliminate or minimize the risk and fit the worker properly."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Types of protectors",
+   "baslik": "Types of *protectors*",
+   "cumleler": [
+    "An earplug is a protector that sits inside the ear canal; the most common type is the foam earplug.",
+    "Premolded earplugs are made of silicone or similar material with flanges, and most are washable.",
+    "Custom earplugs are made from an ear impression, like a hearing aid earmold; their fit is good, but it still needs checking.",
+    "An earmuff is made of cushioned cups that surround the pinna from outside and a headband.",
+    "Banded earplugs cap the canal entrance; they are handy for brief noise with frequent coming and going, but usually protect less.",
+    "Electronic protectors pick up outside sound with a microphone; they pass speech in quiet and limit sound when noise rises."
+   ],
+   "cizim": "isitme_koruyuculari",
+   "ayar": {
+    "tipler": [
+     "kopuk",
+     "hazir",
+     "ozel",
+     "manson",
+     "bantli",
+     "elektronik"
+    ],
+    "cumleler": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "adlar": {
+     "kopuk": "Foam earplug",
+     "hazir": "Premolded earplug",
+     "ozel": "Custom",
+     "manson": "Earmuff",
+     "bantli": "Banded earplug",
+     "elektronik": "Electronic"
+    },
+    "aciklamalar": {
+     "kopuk": "Compressed, expands in canal",
+     "hazir": "Flanged, washable",
+     "ozel": "Made from an ear impression",
+     "manson": "Covers the ear outside",
+     "bantli": "Short, on and off use",
+     "elektronik": "Level-dependent, allows communication"
+    }
+   }
+  },
+  {
+   "id": "kopuk",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Types of protectors",
+   "baslik": "*Fitting* a foam earplug",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "kopuk_tikac",
+     "metin": "ear canal: plug deep inside",
+     "cumle": 3
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "metin": "pinna up and back",
+     "cumle": 2
+    },
+    {
+     "parca": "sig_yerlesim",
+     "metin": "shallow: low protection",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_tikac",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Roll: a thin cylinder",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Pull: pinna up and back",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hold: until it expands",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "How well a foam earplug protects depends largely on how it is fitted.",
+    "First, the earplug is rolled slowly between the fingers into a thin, crease-free cylinder.",
+    "The opposite hand reaches over the head and pulls the pinna up and back, which straightens the ear canal.",
+    "The earplug is placed deep in the canal and held with a finger for a few seconds until it expands.",
+    "In a well-fitted earplug, most of it is inside the canal; only a small part is visible from outside.",
+    "A shallow-fitted earplug stays at the canal entrance and gives far less protection than the label states.",
+    "Rolling it with dirty hands can soil the ear canal, so hands should be clean."
+   ],
+   "ayar": {
+    "kanal_nesnesi": "kopuk",
+    "yuvarla_cumle": 1,
+    "cek_cumle": 2,
+    "tak_cumle": 3,
+    "sig_cumle": 5
+   }
+  },
+  {
+   "id": "manson",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Types of protectors",
+   "baslik": "The *seal* of an earmuff",
+   "maddeler": [
+    {
+     "metin": "Cushion must fully surround pinna",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Eyeglass temples cause leaks",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Hair, caps and hard hats",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cushions harden over time",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Comfort problems in heat",
+     "cumle": 4,
+     "ikon": "agri"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PROS AND CONS",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Easy to fit",
+      "cumle": 5,
+      "metin": "Easy to check"
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Leaks with glasses",
+      "cumle": 1,
+      "metin": "Hard in heat"
+     }
+    ]
+   },
+   "cumleler": [
+    "An earmuff's protection depends on the cushion forming an unbroken seal around the pinna.",
+    "Eyeglass temples leave a gap under the cushion and can reduce protection markedly.",
+    "Long hair, a cap or a headband that does not fit with a hard hat can also cause leaks in the same way.",
+    "Cushions and headbands harden and loosen over time and should be replaced at the intervals the manufacturer recommends.",
+    "In hot settings, sweating and weight can lead workers to remove the earmuff, which quickly lowers effective protection.",
+    "On the other hand, earmuffs are easy to put on, and you can see at a glance from a distance whether they are being worn."
+   ]
+  },
+  {
+   "id": "etiket",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Label values",
+   "baslik": "From the label *to the ear*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Measure noise",
+     "cumle": 0,
+     "metin": "dB(A) or dB(C)"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Label value",
+     "cumle": 1,
+     "metin": "NRR, SNR, HML"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Level at the ear",
+     "cumle": 3,
+     "metin": "Estimate under protector"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Target range",
+     "cumle": 4,
+     "metin": "About 70 to 80 dB(A)"
+    }
+   ],
+   "cumleler": [
+    "Choosing a protector starts with measuring the noise in the work environment.",
+    "The single number on the package summarizes the attenuation measured in the laboratory.",
+    {
+     "yazi": "In the United States, the noise reduction rating, or NRR, of the Environmental Protection Agency, or EPA, is used.",
+     "ses": "In the United States, the noise reduction rating, or N R R, of the Environmental Protection Agency, or E P A, is used."
+    },
+    "With these values, the level reaching the ear with the protector in place is estimated.",
+    {
+     "yazi": "European selection guides aim for the level under the protector to be about 70 to 80 dB(A).",
+     "ses": "European selection guides aim for the level under the protector to be about seventy to eighty decibels A."
+    },
+    "A much lower level is overprotection; it can lead workers to miss warning signals and speech, and to remove the protector."
+   ]
+  },
+  {
+   "id": "nrr_snr",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Label values",
+   "baslik": "NRR and *SNR*",
+   "maddeler": [
+    {
+     "metin": "NRR: United States, C-weighted level",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "For dB(A), subtract 7 first",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SNR: Europe, single number rating",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "HML: high, medium, low values",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Lab tested, with experienced subjects",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SNR",
+    "metin": "Here not signal-to-noise ratio, but a *single number* attenuation value",
+    "cumle": 3
+   },
+   "cumleler": [
+    {
+     "yazi": "The NRR is designed to be subtracted directly from a C-weighted noise level.",
+     "ses": "The N R R is designed to be subtracted directly from a C-weighted noise level."
+    },
+    {
+     "yazi": "If the noise was measured with A-weighting, 7 decibels are first subtracted from the NRR to cover the weighting difference.",
+     "ses": "If the noise was measured with A-weighting, seven decibels are first subtracted from the N R R to cover the weighting difference."
+    },
+    {
+     "yazi": "In Europe, the single number rating, or SNR, is used; it is also subtracted from the C-weighted level.",
+     "ses": "In Europe, the single number rating, or S N R, is used; it is also subtracted from the C-weighted level."
+    },
+    {
+     "yazi": "Note that SNR here is not the signal-to-noise ratio but the protector's single number attenuation value.",
+     "ses": "Note that S N R here is not the signal-to-noise ratio but the protector's single number attenuation value."
+    },
+    "The HML method gives three values for high, medium and low frequency noise, so the noise spectrum is taken into account.",
+    "All these values are measured in the laboratory, often with the protector fitted by experienced subjects or by the experimenter."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Label values",
+   "baslik": "A worked *example*",
+   "sutunlar": [
+    "Step",
+    "Value"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Workplace level",
+      "95 dB(A)"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Label NRR",
+      "29 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "A correction: minus 7",
+      "22 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Field derating: halve it",
+      "11 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Estimated ear level",
+      "84 dB(A)"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Let us work through an example: suppose the level in a workshop is measured as 95 dB(A).",
+     "ses": "Let us work through an example: suppose the level in a workshop is measured as ninety five decibels A."
+    },
+    {
+     "yazi": "The packaging of the foam earplug to be used says NRR 29.",
+     "ses": "The packaging of the foam earplug to be used says N R R twenty nine."
+    },
+    "Because the measurement is A-weighted, 7 is subtracted from 29, giving 22 decibels.",
+    "The guidance of OSHA, the US Occupational Safety and Health Administration, recommends halving this value for the drop in the field.",
+    {
+     "yazi": "The estimated protection is then 11 decibels, and the level reaching the ear is calculated as about 84 dB(A).",
+     "ses": "The estimated protection is then eleven decibels, and the level reaching the ear is calculated as about eighty four decibels A."
+    },
+    {
+     "yazi": "Expecting 66 dB(A) from the number 29 on the label would overstate the protection almost threefold.",
+     "ses": "Expecting sixty six decibels A from the number twenty nine on the label would overstate the protection almost threefold."
+    }
+   ]
+  },
+  {
+   "id": "saha",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Protection in the field",
+   "baslik": "Label versus *field*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Earmuff",
+      "2": "Foam earplug",
+      "3": "Other earplugs"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 35,
+     "adim": 5,
+     "ad": "Example NRR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "etiket1",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        0.82,
+        25
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "label 25",
+      "etiket_konum": [
+       0.82,
+       25
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "saha1",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1.18,
+        19
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "about 19",
+      "etiket_konum": [
+       1.18,
+       19
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "etiket2",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1.82,
+        32
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "label 32",
+      "etiket_konum": [
+       1.82,
+       32
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "saha2",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        2.18,
+        16
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "16",
+      "etiket_konum": [
+       2.18,
+       16
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "etiket3",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        2.82,
+        27
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "label 27",
+      "etiket_konum": [
+       2.82,
+       27
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "saha3",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        3.18,
+        8
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "about 8",
+      "etiket_konum": [
+       3.18,
+       8
+      ],
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Research has shown again and again the gap between the label value and the protection measured in the field.",
+    "That is why NIOSH, the US National Institute for Occupational Safety and Health, recommended derating by protector type.",
+    "For earmuffs, 25 percent of the label value is subtracted, so about three quarters of the value is expected.",
+    "For formable earplugs such as foam, half of the value is expected.",
+    "For other earplugs, only about 30 percent of the value is expected.",
+    "The numbers on screen are examples; the key message is that the label to field gap can be larger for earplugs than for earmuffs."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Protection in the field",
+   "baslik": "Why does it *drop?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Shallow fit",
+     "cumle": 1,
+     "metin": "Plug stays at canal entrance"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Wrong size",
+     "cumle": 2,
+     "metin": "Too big or small"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Jaw movement",
+     "cumle": 3,
+     "metin": "Plug loosens over time"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Lack of training",
+     "cumle": 4,
+     "metin": "Nobody showed them"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Wearing time",
+     "cumle": 5,
+     "metin": "Removed now and then"
+    }
+   ],
+   "cumleler": [
+    "The reasons for the drop in the field depend largely on people and fit.",
+    "The most common reason is that the earplug is placed at the canal entrance rather than deep inside.",
+    "Ear canals differ from person to person; a one-size earplug is too big for some canals and too small for others.",
+    "Jaw movement during talking and chewing can slowly push the earplug outward.",
+    "Many workers have never been shown in practice how to fit a protector.",
+    "And perhaps most important of all: the protector is not worn for the whole noisy period."
+   ]
+  },
+  {
+   "id": "sure",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Protection in the field",
+   "baslik": "A few minutes change *a lot*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 50,
+     "max": 100,
+     "ad": "Percent of time worn (%)",
+     "isaretler": [
+      50,
+      75,
+      90,
+      95,
+      100
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 32,
+     "adim": 5,
+     "ad": "Effective protection (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "etkin",
+      "noktalar": [
+       [
+        50,
+        3
+       ],
+       [
+        75,
+        6
+       ],
+       [
+        87.5,
+        9
+       ],
+       [
+        90,
+        10
+       ],
+       [
+        95,
+        13
+       ],
+       [
+        99,
+        20
+       ],
+       [
+        100,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "protector labeled 30 dB",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bes",
+      "x": 95,
+      "y": 13,
+      "dus": "xy",
+      "etiket": "13 dB",
+      "cumle": 2
+     },
+     {
+      "ad": "birsaat",
+      "x": 87.5,
+      "y": 9,
+      "dus": "xy",
+      "etiket": "removed 1 hour of 8",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Let us see the effect of wearing time on a graph; suppose the protector's label value is 30 decibels.",
+    "If the protector is worn for the whole noisy period, protection is 30 decibels.",
+    "If it is removed for only 5 percent of the time, effective protection drops to about 13 decibels by the equal energy principle.",
+    "Removing it for one hour in an eight-hour day lowers protection to about 9 decibels.",
+    "So a very strong protector that comes off now and then protects less than a comfortable one that is worn all the time.",
+    "That is why comfort and usability often matter more than the number on the label."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Fit testing",
+   "baslik": "Individual *fit testing*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Train",
+     "cumle": 1,
+     "metin": "Show fitting in practice"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Worker fits",
+     "cumle": 2,
+     "metin": "The worker fits it"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Measure",
+     "cumle": 3,
+     "metin": "Personal attenuation"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Compare",
+     "cumle": 4,
+     "metin": "With required protection"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Decide",
+     "cumle": 5,
+     "metin": "Retrain or change"
+    }
+   ],
+   "cumleler": [
+    "The way to measure real protection instead of estimating it is individual fit testing.",
+    "First, the worker is shown in practice how to fit the protector.",
+    "Then the worker fits the protector themselves, the way they do every day.",
+    "One method compares thresholds with and without the protector; another measures with microphones inside and outside the ear canal.",
+    "The result is given as a personal attenuation rating and compared with the protection needed for the environment.",
+    "If the value is too low, fitting is retrained or another protector better suited to that ear is tried."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Fit testing",
+   "baslik": "Special *situations*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dual protection",
+     "cumle": 0,
+     "metin": "Earplugs plus earmuffs"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Musician earplugs",
+     "cumle": 2,
+     "metin": "Flat attenuation"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Communication",
+     "cumle": 4,
+     "metin": "Level-dependent protectors"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing loss",
+     "cumle": 5,
+     "metin": "Beware overprotection"
+    }
+   ],
+   "cumleler": [
+    "In very loud noise, earplugs and earmuffs can be used together; this is called dual protection.",
+    "However, the two values do not add; dual protection usually adds only a few decibels to the better protector.",
+    "Musician earplugs give flatter attenuation across frequencies, so they distort the timbre of music less.",
+    "These earplugs may attenuate less, so the choice is still made according to the exposure level.",
+    "In jobs where communication matters, level-dependent electronic protectors pass speech and limit sudden loud sounds.",
+    "In workers with hearing loss, overprotection can make warning signals even harder to hear, so the choice should be individual."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Have the worker fit the earplug while you watch. Their voice should sound muffled and loud; if the plug slips out when the pinna is pulled, the fit is shallow.",
+   "cumleler": [
+    "A tip from the field: do not fit the earplug yourself; ask the worker to fit it and watch.",
+    "With a well-fitted earplug, the person hears their own voice muffled and as if from inside; this is the occlusion effect.",
+    "If their own voice does not change, or most of the earplug is visible outside, the fit is most likely shallow.",
+    "This simple observation lets you catch the most common mistake even where fit testing is not available."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Personal protectors: the last defense",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "NRR and SNR are lab values",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Field protection drops markedly",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Fit testing measures real protection",
+     "cumle": 3,
+     "ikon": "odyometre"
+    }
+   ],
+   "cumleler": [
+    "Personal protectors are the last line of defense, after measures that reduce noise at its source and along its path.",
+    {
+     "yazi": "Label values such as NRR and SNR are measured in the laboratory and cannot be carried directly to the field.",
+     "ses": "Label values such as N R R and S N R are measured in the laboratory and cannot be carried directly to the field."
+    },
+    "Shallow fitting, the wrong size and removing the protector now and then can push real protection far below the label value.",
+    "Individual fit testing measures protection in the person's own ear and, with training, is the most reliable approach."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "A 30 dB protector removed for 1 of 8 hours gives about how much protection?",
+   "secenekler": [
+    "About 26 dB",
+    "About 9 dB",
+    "About 20 dB",
+    "No change"
+   ],
+   "dogru": 1,
+   "aciklama": "With equal energy, even a short unprotected time sets the dose: _about 9 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: if a protector labeled 30 decibels is removed for one hour of an eight-hour day, what is the effective protection?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: about 9 decibels.",
+    "One unprotected hour makes up most of the day's total dose, so wearing protectors all the time matters more than a high label value."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Workplace *Audiometric Monitoring* and Threshold Shift",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will look at the baseline audiogram at work, periodic tests and the standard threshold shift.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

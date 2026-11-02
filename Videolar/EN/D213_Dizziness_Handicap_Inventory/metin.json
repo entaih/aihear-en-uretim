@@ -1,0 +1,682 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D213_Dizziness_Handicap_Inventory_EN",
+ "kapak": {
+  "ust": "LESSON 213",
+  "baslik": "*DHI* and<br>self-report",
+  "alt": "How dizziness affects daily life",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Dizziness Handicap Inventory and Self-Report Scales | Lesson 213 | AIHEAR Audiology Academy",
+  "aciklama": "Vestibular tests measure labyrinth function, but they do not show how much dizziness affects a person's life. In this lesson we cover the structure, scoring and interpretation of the Dizziness Handicap Inventory (DHI), the idea of meaningful change, the Activities-specific Balance Confidence scale (ABC), and how to use these scales in the clinical workflow.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jacobson and Newman, The development of the Dizziness Handicap Inventory, Arch Otolaryngol Head Neck Surg (1990); Whitney et al., Is perception of handicap related to functional performance in persons with vestibular dysfunction?, Otol Neurotol (2004); Powell and Myers, The Activities-specific Balance Confidence (ABC) Scale, J Gerontol (1995); Jacobson and Calder, A screening version of the Dizziness Handicap Inventory (DHI-S), Am J Otol (1998); Lajoie and Gallagher, Predicting falls within the elderly community, Arch Gerontol Geriatr (2004); Karapolat et al., Turkish DHI validity study, J Int Adv Otol (2009); Canbal et al., Turkish DHI validity and reliability study (2016); Karapolat et al., Turkish ABC scale, Int J Rehabil Res (2010); Ayhan et al., Turkish ABC scale, Turkish Journal of Geriatrics (2014); Jacobson and Shepard, Balance Function Assessment and Management.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "dizziness"
+  ],
+  "etiketler": [
+   "Dizziness Handicap Inventory",
+   "DHI",
+   "ABC scale",
+   "Activities-specific Balance Confidence",
+   "self-report questionnaires",
+   "vestibular rehabilitation",
+   "balance confidence",
+   "dizziness",
+   "patient-reported outcomes",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 213",
+   "baslik": "Dizziness Handicap Inventory: *DHI*",
+   "alt": "Self-report scales and their interpretation",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about self-report scales that measure how dizziness affects daily life.",
+    "We will cover in detail the most widely used scale, the Dizziness Handicap Inventory, and the Activities-specific Balance Confidence scale."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "DHI",
+   "baslik": "Why *self-report?*",
+   "maddeler": [
+    {
+     "metin": "Tests measure labyrinth function",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Same finding, _different_ impact on life",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "A scale puts impact into numbers",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Not diagnostic; goals and follow-up",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TWO VIEWS",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Test",
+      "metin": "Labyrinth and reflexes",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Scale",
+      "metin": "Impact on daily life",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Vestibular tests measure the function of the labyrinth and reflex pathways, but they do not show what the person experiences in daily life.",
+    "Of two people with a similar caloric weakness, one may return to work while the other struggles to leave the house.",
+    "Self-report scales record the impact of symptoms on life from the person's own point of view, in numbers.",
+    "These scales do not make a diagnosis, but they help with treatment planning, goal setting and follow-up.",
+    "They are also the tools most often used to show the outcome of rehabilitation.",
+    "Choose versions validated in the patient's language; in Türkiye, validated Turkish adaptations of these scales are available."
+   ]
+  },
+  {
+   "id": "yapi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "DHI",
+   "baslik": "The DHI's *three subscales*",
+   "ogeler": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Physical",
+     "metin": "7 items, maximum 28",
+     "cumle": 2
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Functional",
+     "metin": "9 items, maximum 36",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Emotional",
+     "metin": "9 items, maximum 36",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The Dizziness Handicap Inventory, or DHI, was developed by Jacobson and Newman in 1990.",
+     "ses": "The Dizziness Handicap Inventory, or D H I, was developed by Jacobson and Newman in nineteen ninety."
+    },
+    "The scale has 25 items, grouped into three subscales.",
+    "The physical subscale has 7 items; for example, it asks whether moving the head quickly or bending over makes symptoms worse.",
+    "The functional subscale has 9 items about the impact on daily tasks such as work, housework, social activities and getting around alone.",
+    "The emotional subscale has 9 items about embarrassment, anxiety, feeling handicapped and the impact on relationships.",
+    "The physical subscale scores up to 28, and the other two up to 36 each.",
+    "So the total score ranges from 0 to 100."
+   ]
+  },
+  {
+   "id": "puanlama",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "DHI",
+   "baslik": "How is it *scored?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Yes",
+     "metin": "4 points",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Sometimes",
+     "metin": "2 points",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "No",
+     "metin": "0 points",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "For each item, the person chooses one of three answers.",
+    "A yes answer scores 4, sometimes scores 2, and no scores 0.",
+    "The points are added; the higher the total, the greater the impact of dizziness on daily life.",
+    "The person should complete the scale themselves; the clinician does not steer the answers, only explains wording that is unclear.",
+    "For people with reading difficulty or vision problems, the items can be read aloud in a neutral tone.",
+    "Because there are few answer options, the scale is quick to fill in; most people finish in a few minutes."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Interpretation and follow-up",
+   "baslik": "*Interpreting* the score",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "yazilar": {
+      "1": "Before",
+      "2": "After"
+     },
+     "isaretler": [
+      1,
+      2
+     ],
+     "ad": "Example follow-up"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "DHI total score"
+    },
+    "bolgeler": [
+     {
+      "ad": "hafif",
+      "y": [
+       0,
+       30
+      ],
+      "renk": "yesil",
+      "etiket": "mild",
+      "cumle": 0
+     },
+     {
+      "ad": "orta",
+      "y": [
+       30,
+       60
+      ],
+      "renk": "sari",
+      "etiket": "moderate",
+      "cumle": 0
+     },
+     {
+      "ad": "agir",
+      "y": [
+       60,
+       100
+      ],
+      "renk": "kirmizi",
+      "etiket": "severe",
+      "cumle": 0
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        1,
+        58
+       ],
+       [
+        2,
+        34
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "example patient",
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "degisim",
+      "y": [
+       34,
+       58
+      ],
+      "xk": 2.4,
+      "etiket": "24 points",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Categories guide, not definitive",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "True change: about 18 points",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Look at subscales separately",
+     "cumle": 6,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "In the grading of Whitney and colleagues, 0 to 30 points is mild, 31 to 60 moderate, and 61 to 100 severe handicap.",
+    "Some sources instead use 16 to 34 as mild, 36 to 52 as moderate, and 54 or more as severe, so the grading is only a guide.",
+    "In follow-up, what matters most is how the score changes over time in the same person.",
+    "Based on Jacobson and Newman's data, a difference of about 18 points is needed for a change to count as beyond measurement error.",
+    "In this example, the score is 58 before rehabilitation and falls to 34 afterward.",
+    "This drop of twenty four points points to a change beyond measurement error.",
+    "Subscale scores are also looked at separately; for example, a high emotional score may suggest that anxiety is in the foreground."
+   ]
+  },
+  {
+   "id": "testlerle",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Interpretation and follow-up",
+   "baslik": "Scale and *test* findings",
+   "maddeler": [
+    {
+     "metin": "Link with tests often _weak_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Caloric weakness does not predict handicap",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_Alongside_ tests, not instead",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Does not show the cause",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "lateral canal",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In most studies, the link between DHI scores and vestibular test results is weak to moderate.",
+     "ses": "In most studies, the link between D H I scores and vestibular test results is weak to moderate."
+    },
+    "For example, the size of a caloric weakness does not on its own predict how much handicap the person feels.",
+    "So the scale is used alongside the tests, not instead of them.",
+    {
+     "yazi": "The DHI does not show the cause either; benign paroxysmal positional vertigo, Meniere's or vestibular migraine can give similar scores.",
+     "ses": "The D H I does not show the cause either; benign paroxysmal positional vertigo, Meniere's or vestibular migraine can give similar scores."
+    },
+    "A high score, especially on the emotional subscale, is a reminder to also ask about anxiety and persistent dizziness.",
+    "The result is shared with the patient, and rehabilitation goals are discussed together."
+   ]
+  },
+  {
+   "id": "turkce",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Interpretation and follow-up",
+   "baslik": "Turkish adaptation and the *short form*",
+   "maddeler": [
+    {
+     "metin": "Turkish validation studies published",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "High internal consistency and responsiveness",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "DHI-S: a ten-item screening form",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "The 25-item form for follow-up",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TWO FORMS",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "DHI",
+      "metin": "25 items, detailed follow-up",
+      "cumle": 4
+     },
+     {
+      "ikon": "kronometre",
+      "baslik": "DHI-S",
+      "metin": "10 items, quick screening",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In Türkiye, a Turkish adaptation of the DHI and studies of its validity and reliability have been published.",
+     "ses": "In Türkiye, a Turkish adaptation of the D H I and studies of its validity and reliability have been published."
+    },
+    "A study in people with unilateral peripheral vestibular disease found high internal consistency and responsiveness to change.",
+    "The same study found relatively low test-retest reliability; later Turkish validation studies add to this information.",
+    {
+     "yazi": "The DHI also has a ten-item screening version, known as the DHI-S.",
+     "ses": "The D H I also has a ten-item screening version, known as the D H I S."
+    },
+    "The short form suits quick screening; for detailed follow-up, the 25-item form is usually preferred."
+   ]
+  },
+  {
+   "id": "abc",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The ABC scale",
+   "baslik": "Balance confidence: the *ABC* scale",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "At home",
+     "metin": "Walking around, reaching shelves",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Stairs",
+     "metin": "Going down and up",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Outdoors",
+     "metin": "Crowds, icy sidewalks",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Score",
+     "metin": "0 to 100 percent",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The Activities-specific Balance Confidence scale, or ABC, was developed by Powell and Myers in 1995.",
+     "ses": "The Activities-specific Balance Confidence scale, or ABC, was developed by Powell and Myers in nineteen ninety five."
+    },
+    "The scale asks how confident the person is that they will not lose their balance while doing daily activities.",
+    "There are sixteen activities, such as walking around the house, going downstairs, standing on a chair, or reaching up to a high shelf.",
+    "Harder items include walking in a crowded mall and walking on an icy sidewalk.",
+    "Confidence for each activity is rated from 0 to 100 percent, and the average is taken.",
+    {
+     "yazi": "Unlike the DHI, on the ABC a high score means a better state and a low score a worse one.",
+     "ses": "Unlike the D H I, on the ABC a high score means a better state and a low score a worse one."
+    },
+    "In older adults, an ABC score below 67 percent is a commonly used cutoff linked to fall risk.",
+    "The scale also reveals activities avoided because of fear of falling."
+   ]
+  },
+  {
+   "id": "abc_kullanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The ABC scale",
+   "baslik": "*Using* the ABC",
+   "maddeler": [
+    {
+     "metin": "Turkish adaptation studied",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Low confidence: _avoidance_, deconditioning",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Complements the DHI",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Read with performance tests",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "agirlik_merkezi",
+      "metin": "center of mass",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "salinim",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The Turkish adaptation of the ABC scale has been studied both in older adults and in people with unilateral peripheral vestibular disease.",
+    "Low balance confidence can lead the person to avoid movement and, over time, to deconditioning.",
+    "So the ABC is useful for seeing fear of falling and setting rehabilitation goals.",
+    {
+     "yazi": "Used with the DHI, it gives a complementary picture: one shows perceived handicap, the other balance confidence.",
+     "ses": "Used with the D H I, it gives a complementary picture: one shows perceived handicap, the other balance confidence."
+    },
+    "Scale scores are interpreted together with performance tests such as the Timed Up and Go test or the Dynamic Gait Index."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Use in the clinic",
+   "baslik": "Scales in the *clinical workflow*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Baseline",
+     "metin": "First score recorded",
+     "cumle": 1
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Goals",
+     "metin": "Areas of difficulty",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Follow-up",
+     "metin": "Same scale, same conditions",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Compare",
+     "metin": "Meaningful change?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "There is a simple way to fit scales into the clinical workflow.",
+    "At the first assessment, the scale is completed and the baseline score is recorded.",
+    "Items with high scores show the areas the person struggles with most and the rehabilitation goals.",
+    "At set intervals, the same scale is completed again in the same way.",
+    "If the difference in scores is beyond measurement error, it is read as a meaningful change.",
+    "The same results can also be used to show the patient their progress in concrete terms."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Use in the clinic",
+   "baslik": "Other *scales*",
+   "ogeler": [
+    {
+     "ikon": "vertigo",
+     "baslik": "Symptom scale",
+     "metin": "Frequency and anxiety symptoms",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Daily living",
+     "metin": "Level of independence",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Visual analog",
+     "metin": "From 0 to 10",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "There are other self-report scales for dizziness as well.",
+    "The Vertigo Symptom Scale asks about how often symptoms occur and about accompanying anxiety symptoms.",
+    "The Vestibular Disorders Activities of Daily Living Scale assesses independence in daily tasks.",
+    "For a quick assessment, a visual analog scale from 0 to 10 can also be used.",
+    "The choice of scale depends on the clinical question and on whether the scale has been validated in the patient's language.",
+    "Whichever scale is chosen, the same scale must always be used in follow-up."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Have the scale completed before vestibular testing. Nausea and fatigue after testing can affect answers; check that no item is left blank.",
+   "cumleler": [
+    "A clinical tip: have the scale completed before vestibular testing, in the waiting room.",
+    "After testing, the patient may be nauseated and tired, which can shift the answers in a negative direction.",
+    "Check whether any item on the form is left blank; a missing item makes the total score look lower than it is.",
+    "In follow-up, having the scale completed under similar conditions each time makes comparison reliable."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "DHI: 25 items, 0 to 100 points",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Yes 4, sometimes 2, no 0",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "True change: about 18 points",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ABC: balance confidence, high is good",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The DHI has 25 items grouped into three subscales and is scored from 0 to 100.",
+     "ses": "The D H I has 25 items grouped into three subscales and is scored from 0 to 100."
+    },
+    "For each item, yes scores 4, sometimes 2, and no 0; a higher score shows greater impact.",
+    "In follow-up, a difference of about 18 points is needed for a change to count as beyond measurement error.",
+    "The ABC scale measures balance confidence as a percentage; here a high score shows a better state."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "How many points does sometimes score on the DHI?",
+   "secenekler": [
+    "0 points",
+    "2 points",
+    "4 points",
+    "1 point"
+   ],
+   "dogru": 1,
+   "aciklama": "Yes scores _4_, sometimes _2_, no _0_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: on the Dizziness Handicap Inventory, how many points does a sometimes answer score?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: 2 points.",
+    "A yes answer scores 4 and a no answer scores 0, so across 25 items the total score ranges from 0 to 100."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "What Is *Tinnitus?* Types and Mechanisms",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move to a new module and learn what tinnitus is, its types and its mechanisms.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R357_Twenty_Two_Decibel_Gain_EN",
+ "kapak": {
+  "ust": "QUICK FACT #357",
+  "baslik": "A mic *near the mouth*",
+  "alt": "The 22 dB gain of a remote microphone",
+  "cizim": "desibel_olcegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How many decibels does a microphone near the talker's mouth gain? #shorts",
+  "aciklama": "A remote microphone sits about 15 centimeters from the talker's mouth. Compared with a listener two meters away, this means a signal about 22 decibels stronger in a free field, because the level drops by about 6 decibels each time distance doubles. This gain is one of the most effective ways to lift speech above the noise in a noisy classroom.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "remotemicrophone",
+   "classroom"
+  ],
+  "etiketler": [
+   "remote microphone",
+   "inverse square law",
+   "decibel math",
+   "signal-to-noise ratio",
+   "classroom acoustics",
+   "distance effects",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How many decibels does a microphone near the talker's mouth gain?",
+  "bilgiler": [
+   "A remote microphone sits about 15 centimeters from the mouth.",
+   "That is about 22 dB stronger than a listener two meters away.",
+   "Each doubling of distance lowers the level by about 6 dB."
+  ],
+  "hashtag": [
+   "audiology",
+   "remotemicrophone",
+   "classroom"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #357",
+   "metin": "How many *decibels?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How many decibels does a microphone near the talker's mouth gain?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Remote microphone *gain*",
+   "sayi": "22",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "A remote microphone sits about fifteen centimeters from the talker's mouth.",
+    "In free field, that beats two meters by about twenty two decibels.",
+    "Each doubling of distance lowers the level by about six decibels.",
+    "It is among the best ways to lift speech above classroom noise."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D014",
+ "kaynak_baslik": "Decibel Math: Adding Sounds and Distance Effects"
+}

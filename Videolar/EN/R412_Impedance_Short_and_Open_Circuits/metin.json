@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R412_Impedance_Short_and_Open_Circuits_EN",
+ "kapak": {
+  "ust": "QUICK FACT #412",
+  "baslik": "Short or *open?*",
+  "alt": "Electrode impedance",
+  "cizim": "koklear_implant",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "In surgery, how do we know the implant electrodes are intact? #shorts",
+  "aciklama": "During cochlear implant surgery, a small known current is delivered from each electrode through a wireless link called telemetry, the resulting voltage is measured and impedance is calculated. A very low value suggests a short circuit, a very high value an open circuit; in surgery, a small air bubble on the electrode surface can also cause a high value temporarily, and electrodes with lasting problems are switched off in programming.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "cochlearimplant",
+   "surgery"
+  ],
+  "etiketler": [
+   "electrode impedance",
+   "telemetry",
+   "short circuit",
+   "open circuit",
+   "intraoperative measures",
+   "cochlear implant",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "In surgery, how do we know the implant electrodes are intact?",
+  "bilgiler": [
+   "Very low impedance suggests a short circuit.",
+   "Very high impedance suggests an open circuit.",
+   "A small air bubble can cause a temporarily high value."
+  ],
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "surgery"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #412",
+   "metin": "Electrodes *intact?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "In surgery, how do we know the implant electrodes are intact?"
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "zincir",
+   "baslik": "Electrode *impedance*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Very low",
+     "tr": "short circuit",
+     "cumle": 1
+    },
+    {
+     "ad": "Very high",
+     "tr": "open circuit",
+     "cumle": 2
+    },
+    {
+     "ad": "Air bubble",
+     "tr": "temporarily high",
+     "cumle": 3
+    }
+   ],
+   "alt": "If lasting, _switched off_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "A small current is passed through each electrode and the voltage measured.",
+    "Very low impedance suggests a short circuit between electrodes.",
+    "Very high impedance suggests a broken path, that is, an open circuit.",
+    "A small air bubble can also give a temporarily high value.",
+    "Electrodes with lasting problems are switched off in programming."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D240",
+ "kaynak_baslik": "Intraoperative Measures: Impedance, ECAP and ESRT"
+}

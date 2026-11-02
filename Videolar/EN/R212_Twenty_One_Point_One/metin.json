@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R212_Twenty_One_Point_One_EN",
+ "kapak": {
+  "ust": "QUICK FACT #212",
+  "baslik": "Why *21.1*?",
+  "alt": "ABR stimulus rate and mains noise",
+  "cizim": "abr",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why is the ABR stimulus rate set to a fraction like 21.1? #shorts",
+  "aciklama": "Stimulus rate is the number of stimuli per second. With a fractional rate such as 21.1, 50 Hz mains interference does not fall into step with the stimulus and cancels in the average. Neurodiagnostic ABR usually uses about 11 to 21 stimuli per second.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ABR",
+   "electrophysiology"
+  ],
+  "etiketler": [
+   "ABR",
+   "stimulus rate",
+   "mains interference",
+   "signal averaging",
+   "neurodiagnostic ABR",
+   "electrophysiology",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why is the ABR stimulus rate set to a fraction like 21.1?",
+  "bilgiler": [
+   "Stimulus rate is the number of stimuli per second.",
+   "At a fractional rate, 50 Hz mains noise falls out of step.",
+   "So the interference cancels in the average."
+  ],
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "electrophysiology"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #212",
+   "metin": "Why a rate of *21.1?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why is the ABR stimulus rate set at twenty-one point one?"
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "zincir",
+   "baslik": "A fractional *stimulus rate*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Mains",
+     "tr": "50 Hz",
+     "cumle": 1
+    },
+    {
+     "ad": "Rate",
+     "tr": "21.1 / s",
+     "cumle": 2
+    },
+    {
+     "ad": "Average",
+     "tr": "noise cancels",
+     "cumle": 3
+    }
+   ],
+   "alt": "A fractional rate _cancels the hum_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Stimulus rate is the number of stimuli given per second.",
+    "Fifty hertz mains interference can also enter the recording.",
+    {
+     "yazi": "With a fractional rate like 21.1, it falls out of step.",
+     "ses": "With a fractional rate like twenty-one point one, it falls out of step."
+    },
+    "So the interference cancels in the average.",
+    "Neurodiagnostic ABR usually uses about eleven to twenty-one stimuli per second."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D128",
+ "kaynak_baslik": "ABR Stimuli: Clicks, Tone Bursts and Chirps"
+}

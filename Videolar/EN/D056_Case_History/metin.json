@@ -1,0 +1,714 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D056_Case_History_EN",
+ "kapak": {
+  "ust": "LESSON 56",
+  "baslik": "Audiological<br>*case history*",
+  "alt": "The right question, the right test",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      25,
+      45,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      15,
+      15,
+      30,
+      50,
+      30
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Taking an Audiological Case History | Lesson 56 | AIHEAR Audiology Academy",
+  "aciklama": "The audiological case history is the first step: it decides which tests are done and guides how the results are interpreted. In this lesson we cover questions on hearing loss, tinnitus and dizziness, symptoms that need urgent referral, noise, drug and family history, differences between child and adult histories, and free interviews versus structured forms.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; JCIH, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Lopez-Escamez et al. (2015), Diagnostic criteria for Meniere's disease, Journal of Vestibular Research; Regulation on the Protection of Employees from Noise-Related Risks, Türkiye (2013).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "casehistory",
+   "hearing"
+  ],
+  "etiketler": [
+   "audiological case history",
+   "case history",
+   "hearing loss",
+   "tinnitus",
+   "vertigo",
+   "family history",
+   "noise-induced hearing loss",
+   "ototoxic drugs",
+   "pediatric case history",
+   "red flags",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 56",
+   "baslik": "The audiological *case history*",
+   "alt": "The right question, test and referral",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how to take an audiological case history, that is, the patient's history.",
+    "We will look at questions on hearing loss, tinnitus and dizziness, risk factors, and the differences between child and adult histories."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The purpose of the history",
+   "baslik": "*Why* does the history matter?",
+   "maddeler": [
+    {
+     "metin": "_Sets_ the choice and order of tests",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Guides_ interpretation of results",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Catches_ the need for urgent referral",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Starts_ a relationship of trust",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 1
+     }
+    ],
+    "cumle": 1
+   },
+   "cumleler": [
+    "The case history is a systematic inquiry into the patient's complaints and health history.",
+    "A good history decides which tests are done, and in what order.",
+    "It guides interpretation; for example, a four thousand hertz notch means more in someone with a history of noise.",
+    "It lets us catch early the situations that need urgent referral.",
+    "It is also the first step in building trust with the patient.",
+    "The history also serves as a reference for checking that later findings are consistent with each other."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The purpose of the history",
+   "baslik": "The interview *setting*",
+   "maddeler": [
+    {
+     "metin": "Quiet room, _face to face_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Hearing aids _worn_, if any",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Start with an _open-ended_ question",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_Avoid_ leading questions",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "The patient's own _words_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OPEN-ENDED QUESTION",
+    "metin": "What *brings* you here today?",
+    "cumle": 2
+   },
+   "cumleler": [
+    "The interview takes place face to face in a quiet room; light falling on your face makes lipreading easier.",
+    "If the patient has hearing aids, keeping them in during the interview makes communication easier.",
+    "Starting with an open-ended question, such as what brings you here today, brings out the patient's own priority.",
+    "Details are then filled in with closed questions, while leading questions are avoided.",
+    "Complaints are recorded in the patient's own words as far as possible."
+   ]
+  },
+  {
+   "id": "isitme_kaybi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Asking about complaints",
+   "baslik": "*Asking* about hearing loss",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Which ear?",
+     "metin": "Asymmetry may need further tests",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "When?",
+     "metin": "Sudden loss is urgent",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "What course?",
+     "metin": "Progressive or fluctuating",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Where is it hard?",
+     "metin": "Noise, phone, television",
+     "cumle": 4
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Anything else?",
+     "metin": "Discharge, pain, fullness",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "With a complaint of hearing loss, first ask which ear is affected.",
+    "One-sided losses, or clearly different losses between the ears, may need further investigation.",
+    "Ask when and how the loss began; a sudden loss developing within seventy two hours needs urgent referral.",
+    "Ask about its course: slowly progressive, fluctuating or episodic losses point to different conditions.",
+    "Where the person struggles, such as in noise, on the phone or with television, shows the impact on daily life.",
+    "Always ask about accompanying symptoms too, such as ear discharge, pain and a feeling of fullness."
+   ]
+  },
+  {
+   "id": "tinnitus",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Asking about complaints",
+   "baslik": "Asking about *tinnitus*",
+   "maddeler": [
+    {
+     "metin": "Side: _one_ ear or both",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Quality: ringing, buzzing, _pulsing_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Duration and constancy",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Effect_ on sleep, focus and mood",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "ic_kulak",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "cochlea",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Tinnitus is hearing a sound without any external sound source.",
+    "First ask in which ear, or where in the head, it is heard; one-sided tinnitus may need further assessment.",
+    "Ask about the quality of the sound: is it ringing, buzzing, or a sound in time with the heartbeat, that is, pulsatile?",
+    "Note how long it has lasted and whether it is constant or intermittent.",
+    "Its effect on sleep, concentration and mood shows how much the tinnitus affects the person's life.",
+    "Pulsatile tinnitus and one-sided tinnitus are among the situations that call for referral to a physician."
+   ]
+  },
+  {
+   "id": "vertigo",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Asking about complaints",
+   "baslik": "Dizziness: the *duration* clue",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Seconds",
+     "metin": "BPPV; triggered by head position",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Minutes to hours",
+     "metin": "Meniere's; loss, tinnitus, fullness",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Days, constant",
+     "metin": "Vestibular neuritis; hearing usually spared",
+     "cumle": 4
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Minutes to days",
+     "metin": "Vestibular migraine; headache, light sensitivity",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "With dizziness, first ask what is felt: a sense of spinning, that is, vertigo, or unsteadiness, or feeling faint?",
+    "The duration and trigger of attacks are the most valuable information for narrowing down the likely cause.",
+    "Spinning lasting seconds when turning in bed may fit benign paroxysmal positional vertigo, or BPPV.",
+    "Attacks lasting twenty minutes to twelve hours, with hearing loss, tinnitus and fullness, may suggest Meniere's disease.",
+    "Constant spinning lasting days may be seen, for example, in vestibular neuritis.",
+    "Attacks of varying length with headache or sensitivity to light may bring vestibular migraine to mind."
+   ]
+  },
+  {
+   "id": "acil",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Asking about complaints",
+   "baslik": "What needs *urgent* referral",
+   "maddeler": [
+    {
+     "metin": "_Sudden_ hearing loss",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "One-sided or _pulsatile_ tinnitus",
+     "cumle": 1,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Discharge, bleeding, severe pain",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Dizziness with _neurological_ signs",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "New facial _weakness_",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RED FLAG",
+    "metin": "Sudden loss and *neurological* signs cannot wait",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Sudden hearing loss is a condition where time matters for treatment, and it is referred to a physician without delay.",
+    "One-sided or pulsatile tinnitus, and an unexplained difference between the ears, may also need further investigation.",
+    "If there is ear discharge, bleeding or severe pain, testing may be postponed and the patient referred to a physician.",
+    "If dizziness comes with slurred speech, double vision, weakness or inability to walk, it is an emergency.",
+    "Neurological signs such as new facial weakness are also reported immediately.",
+    "The audiologist does not diagnose, but recognizing these signs and referring at the right time is part of the job."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Risk factors",
+   "baslik": "Noise *history*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: 4000 Hz notch",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: similar notch",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       45,
+       25
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       50,
+       30
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "In the noise history, ask about workplace noise, military service and shooting, leisure activities and music listening habits.",
+    "Also note how long the exposure lasted and whether hearing protection was used.",
+    "In this example, both ears show a notch around four thousand hertz with partial recovery at eight thousand hertz.",
+    "This picture can fit noise-induced hearing loss, and the history strengthens that interpretation.",
+    {
+     "yazi": "In Türkiye, the workers' noise regulation sets action values of 80 and 85 dB(A) and a limit of 87 dB(A) for daily exposure.",
+     "ses": "In Türkiye, the workers' noise regulation sets action values of eighty and eighty five decibels A and a limit of eighty seven decibels A for daily exposure."
+    },
+    "That is why a history of workplace noise matters both for interpretation and for occupational counselling."
+   ]
+  },
+  {
+   "id": "ilac_aile",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Risk factors",
+   "baslik": "Drug, health and *family* history",
+   "maddeler": [
+    {
+     "metin": "_Ototoxic_ drugs",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Diabetes, kidney, heart and vascular disease",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Ear surgery, frequent infections, trauma",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "_Early-onset_ hearing loss in family",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Consanguineous_ marriage",
+     "cumle": 5,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Some drugs can damage the inner ear; these are called ototoxic drugs.",
+    "This group includes some aminoglycoside antibiotics, chemotherapy drugs such as cisplatin, and some diuretics in high doses.",
+    "General health problems such as diabetes, kidney disease and heart and vascular disease are also asked about.",
+    "A history of ear surgery, frequent ear infections and head trauma is recorded.",
+    "Ask whether anyone in the family had early-onset hearing loss, that is, the family history.",
+    "In Türkiye, consanguineous marriage is an important risk factor for hereditary hearing loss and should always be asked about."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Child and adult",
+   "baslik": "The child's *history*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Prenatal",
+     "metin": "Infections, drugs in pregnancy",
+     "cumle": 1
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Birth and newborn",
+     "metin": "Preterm birth, intensive care",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Postnatal",
+     "metin": "Meningitis, frequent otitis media",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Development",
+     "metin": "Response to sound, first words",
+     "cumle": 4
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Screening",
+     "metin": "Newborn screening result",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "For children, the history is usually taken from the parents and asked period by period.",
+    "For the prenatal period, ask about infections during pregnancy, such as cytomegalovirus, and any drugs taken.",
+    "Preterm birth, low birth weight, a stay in neonatal intensive care and jaundice needing exchange transfusion are important risk factors.",
+    "For the period after birth, ask about meningitis, head trauma and frequently recurring otitis media, or middle ear infection.",
+    "Ask about language development: does the child turn to sound, and did babbling and first words start at the expected time?",
+    "The newborn hearing screening result is also recorded; a passed screening does not rule out later-onset loss."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Child and adult",
+   "baslik": "Child and *adult* differences",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Child",
+     "metin": "Information from parents",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Development",
+     "metin": "Language and speech milestones",
+     "cumle": 1
+    },
+    {
+     "ikon": "okul",
+     "baslik": "School",
+     "metin": "Attention, progress, hearing in class",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Adult",
+     "metin": "Information from the person",
+     "cumle": 3
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Risk history",
+     "metin": "Job, noise, drugs",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Goals",
+     "metin": "Expectations and communication goals",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "For a child, information comes mainly from the parents; their observations are valuable but sometimes incomplete.",
+    "Language and speech milestones are at the center of the child's history.",
+    "At school age, attention, school progress and difficulty hearing in class are also asked about.",
+    "For an adult, information usually comes from the person; for older adults, a relative's observations also help.",
+    "Occupation, noise history, drugs and general health problems carry more weight in adults.",
+    "Learning the adult's expectations and communication goals also guides the later rehabilitation plan."
+   ]
+  },
+  {
+   "id": "form",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Child and adult",
+   "baslik": "Free interview or *form*?",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Free interview",
+     "metin": "Flexible; reveals the patient's priority",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Structured form",
+     "metin": "No question is skipped",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Comparison",
+     "metin": "Records can be compared",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Scales",
+     "metin": "THI, DHI; Turkish validation",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The history can be taken through a free interview or a structured form; both have advantages.",
+    "A free interview is flexible and brings out what the patient is most concerned about.",
+    "A structured form makes sure no important question is skipped.",
+    "Forms also make it easier to compare records across time and between clinicians.",
+    "Turkish validation studies exist for the Tinnitus Handicap Inventory, or THI, and the Dizziness Handicap Inventory, or DHI.",
+    "Many clinicians combine the two: after a free opening, any gaps on the form are filled in."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Child and adult",
+   "baslik": "Clinical tip",
+   "metin": "Ask which ear they use on the phone. Most people use their better ear without noticing; the answer also suggests which ear to test first.",
+   "cumleler": [
+    "A clinical tip: ask the patient which ear they hold the phone to.",
+    "Most people use their better-hearing ear without noticing.",
+    "This simple question gives a useful clue even when the patient does not describe a difference between the ears.",
+    "You can also use this information to start pure-tone audiometry with the better-hearing ear."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "The history _guides_ tests and interpretation",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Hearing, tinnitus and _dizziness_ questions",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Noise, drugs, _family_, consanguinity",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Sudden loss, neurological signs: _urgent_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The case history is the first step: it decides which tests are done and guides interpretation of the results.",
+    "Complaints of hearing loss, tinnitus and dizziness are explored for side, onset, duration and course.",
+    "Noise, ototoxic drugs, family history and consanguineous marriage are important risk factors.",
+    "Sudden hearing loss and neurological signs with dizziness are referred without delay."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which of these needs urgent referral?",
+   "secenekler": [
+    "Loss progressing slowly for years",
+    "One-sided loss that began yesterday",
+    "Difficulty in noise",
+    "Mild earwax"
+   ],
+   "dogru": 1,
+   "aciklama": "Time matters in _sudden hearing loss_; the patient is referred to a physician without delay.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which of the following needs urgent referral?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: a one-sided loss that began yesterday."
+    },
+    "In sudden hearing loss, time matters for treatment, so the patient is referred to a physician without delay."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tuning Fork Tests: *Rinne*, Weber and Bing",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn the Rinne, Weber and Bing tests done with a tuning fork.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

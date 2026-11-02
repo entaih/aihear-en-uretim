@@ -1,0 +1,117 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R020_Minus_Decibels_EN",
+ "kapak": {
+  "ust": "QUICK FACT #20",
+  "baslik": "Hearing at *minus* decibels",
+  "alt": "Zero dB HL is an average",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      0,
+      -5,
+      -5,
+      -10,
+      0,
+      5
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      5,
+      0,
+      -5,
+      -5,
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can you hear a sound at minus decibels? #shorts",
+  "aciklama": "Zero dB HL is the average threshold of young adults with normal hearing. So some people have thresholds of minus 5 or minus 10 dB HL, which shows they are slightly more sensitive than average. The audiogram shown is an example.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "decibel",
+   "audiogram"
+  ],
+  "etiketler": [
+   "dB HL",
+   "negative decibels",
+   "hearing threshold",
+   "audiogram",
+   "decibel",
+   "hearing test",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can you hear a sound at minus decibels?",
+  "bilgiler": [
+   "Zero dB HL is the average threshold of young adults with normal hearing.",
+   "So some thresholds can be minus 5 or minus 10 dB HL.",
+   "A negative value shows slightly better than average sensitivity."
+  ],
+  "hashtag": [
+   "audiology",
+   "decibel",
+   "audiogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #20",
+   "metin": "Can you hear *at minus decibels?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can you hear a sound at minus decibels?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Some thresholds: *minus ten* dB HL",
+   "sayi": "-10",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Zero dB HL is the average threshold of young normal-hearing adults.",
+    "Because zero is an average, some thresholds can be minus ten.",
+    "A negative value does not mean there is no sound.",
+    "It shows the person is slightly more sensitive than average."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D038",
+ "kaynak_baslik": "dB SPL vs dB HL vs dB SL: When to Use Which"
+}

@@ -1,0 +1,90 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R184_Fourteen_Percent_Per_dB_EN",
+ "kapak": {
+  "ust": "QUICK FACT #184",
+  "baslik": "One decibel, *14 percent*",
+  "alt": "The Turkish Matrix Sentence Test",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "In noise, how much can one decibel change understanding? #shorts",
+  "aciklama": "The Turkish Matrix Sentence Test (TURMatrix) was published in 2015; its sentences are grammatical but cannot be predicted from meaning. In normal-hearing Turkish-speaking adults, a 1 dB change in signal-to-noise ratio shifts understanding by about 14 percent.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "speech",
+   "noise"
+  ],
+  "etiketler": [
+   "Turkish Matrix Sentence Test",
+   "TURMatrix",
+   "matrix test",
+   "speech in noise",
+   "signal-to-noise ratio",
+   "SNR",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "In noise, how much can one decibel change understanding?",
+  "bilgiler": [
+   "Matrix test sentences cannot be predicted from meaning.",
+   "A 1 dB SNR change shifts understanding by about 14 percent.",
+   "Even a few decibels worse means clear difficulty understanding."
+  ],
+  "hashtag": [
+   "audiology",
+   "speech",
+   "noise"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #184",
+   "metin": "How much does *one decibel* matter?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "In noise, how much can one decibel change understanding?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Per 1 dB of SNR, *understanding* shifts",
+   "sayi": "14",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    {
+     "yazi": "The Turkish Matrix Sentence Test, TURMatrix, was published in 2015.",
+     "ses": "The Turkish Matrix Sentence Test, Tur Matrix, was published in twenty fifteen."
+    },
+    "Sentences are grammatical but impossible to predict from meaning.",
+    "In normal-hearing adults, the curve is very steep.",
+    "A one decibel SNR change shifts understanding by about fourteen percent.",
+    "So even a few decibels worse means clear difficulty understanding."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D097",
+ "kaynak_baslik": "Speech Test Materials in Turkish"
+}

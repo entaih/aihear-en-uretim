@@ -1,0 +1,252 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D013_What_Is_A_Decibel_EN",
+  "kapak": {
+    "ust": "LESSON 13",
+    "baslik": "What is a<br>*decibel?*",
+    "alt": "Making sense of the log scale",
+    "cizim": "desibel_olcegi"
+  },
+  "youtube": {
+    "baslik": "What Is a Decibel? Making Sense of the Log Scale | Lesson 13 | AIHEAR Audiology Academy",
+    "aciklama": "We explain why we express the huge pressure range of the ear in decibels. With worked examples, we learn the logic of ratios and logarithms, the 10 log formula for intensity and the 20 log formula for pressure, the 20 micropascal reference, and the difference between dB SPL, dB HL and dB SL.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "decibel", "acoustics"],
+    "etiketler": ["decibel", "what is a decibel", "dB SPL", "sound pressure level", "reference pressure", "logarithm", "dB HL", "dB SL", "sound physics", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 13", "baslik": "What Is a *Decibel?*", "alt": "Making sense of the log scale",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In audiology, almost every number comes with the same unit: the decibel.",
+       "In this lesson, we learn why the decibel is logarithmic, how it is calculated and what zero decibels means."]},
+
+    {"id": "aralik", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Why decibels?", "baslik": "The ear's *huge range*",
+     "maddeler": [
+       {"metin": "Softest sound: about _20 µPa_", "cumle": 1, "ikon": "sessizlik"},
+       {"metin": "Very loud sound: about _20 Pa_", "cumle": 2, "ikon": "gurultu"},
+       {"metin": "Pressure ratio: about _1 million_ times", "cumle": 3, "ikon": "grafik"},
+       {"metin": "Intensity ratio: about _1 trillion_ times", "cumle": 4, "ikon": "ses_dalgasi"}],
+     "cumleler": [
+       "The human ear can detect an incredibly wide range of pressures.",
+       "The softest sound we can hear around one thousand hertz corresponds to a pressure change of about twenty micropascals.",
+       "Very loud, uncomfortable sounds are about twenty pascals and above.",
+       "So between the softest sound and a very loud sound, the pressure differs by a factor of about one million.",
+       "In terms of intensity, that is, energy, this difference reaches a factor of about one trillion.",
+       "If we drew this range on a ruler with the softest sound as one millimeter, the loudest sound would be one kilometer long.",
+       "Working with numbers this large is not practical in the clinic; the decibel solves this problem."],
+     "yan": {"tur": "cizim", "cizim": "desibel_olcegi", "cumle": 0, "vurgula": [{"parca": "fisilti", "cumle": 1}, {"parca": "agri_esigi", "cumle": 2}]}},
+
+    {"id": "dalga", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Why decibels?", "baslik": "Pressure and *amplitude*",
+     "cizim": "ses_dalgasi", "ayar": {"frekans_hz": 1000},
+     "etiketler": [
+       {"parca": "genlik", "metin": "Amplitude: pressure change", "cumle": 0},
+       {"parca": "dalga", "metin": "Sound wave", "cumle": 1}],
+     "notlar": [
+       {"metin": "Pressure: pascal (Pa)", "cumle": 2, "ikon": "grafik"},
+       {"metin": "Intensity: W/m²", "cumle": 3, "ikon": "ses_dalgasi"},
+       {"metin": "Intensity is proportional to pressure squared", "cumle": 4, "ikon": "dikkat"}],
+     "cumleler": [
+       "Let us recall: the amplitude of a sound wave is the size of the pressure change in the air.",
+       "These tiny pressure changes are what move the tympanic membrane, or eardrum.",
+       "Sound pressure is measured in pascals.",
+       "Sound intensity is the power passing through a unit area and is expressed in watts per square meter.",
+       "There is an important relationship: intensity is proportional to the square of sound pressure.",
+       "If pressure doubles, intensity quadruples; this will soon explain why the formulas are different."]},
+
+    {"id": "logaritma", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "The logic of logarithms",
+     "baslik": "Logarithms: *how many zeros?*",
+     "maddeler": [
+       {"metin": "log 10 = _1_", "cumle": 1, "ikon": "grafik"},
+       {"metin": "log 100 = _2_", "cumle": 1, "ikon": "grafik"},
+       {"metin": "log 1,000,000 = _6_", "cumle": 3, "ikon": "grafik"},
+       {"metin": "Multiplication becomes _addition_", "cumle": 4, "ikon": "ampul"}],
+     "yan": {"tur": "kart", "ust": "RATIO", "metin": "A decibel is always a ratio to a *reference*", "cumle": 5},
+     "cumleler": [
+       "The decibel rests on two ideas: the logarithm and the ratio.",
+       "A base-ten logarithm tells us how many tens we must multiply together to reach a number: two for a hundred, three for a thousand.",
+       "In other words, a logarithm reduces a large number to the number of zeros it contains.",
+       "This way, a ratio of one million becomes a number of just six units.",
+       "Logarithms also turn multiplication into addition, which makes decibel calculations easier.",
+       "The second idea is the ratio: a decibel is not an absolute amount but the ratio of a measured value to a reference value."]},
+
+    {"id": "bel", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "The logic of logarithms", "baslik": "From the bel to the *decibel*",
+     "maddeler": [
+       {"metin": "Bel: the _logarithm_ of an intensity ratio", "cumle": 0, "ikon": "kitap"},
+       {"metin": "Decibel: _one tenth_ of a bel", "cumle": 2, "ikon": "grafik"},
+       {"metin": "Abbreviation: _dB_", "cumle": 3, "ikon": "dikkat"}],
+     "cumleler": [
+       "The logarithm of an intensity ratio is called the bel; the unit is named after Alexander Graham Bell.",
+       "However, the bel is too coarse a unit for everyday use.",
+       "That is why we use the decibel, which is one tenth of a bel.",
+       {"yazi": "The decibel is abbreviated dB: a lowercase d and a capital B.", "ses": "The decibel is abbreviated D B: a lowercase D and a capital B."},
+       "One bel corresponds to a ratio of ten in intensity.",
+       "One bel equals ten decibels; this is where the factor of ten in the intensity formula comes from."],
+     "yan": {"tur": "ikonlar", "ust": "UNITS", "cumle": 0, "ogeler": [{"ikon": "kitap", "baslik": "Bel", "metin": "Named after Alexander Graham Bell", "cumle": 0}, {"ikon": "grafik", "baslik": "1 bel", "metin": "10 decibels, 10 times the intensity", "cumle": 4}]}},
+
+    {"id": "siddet", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "The formulas", "baslik": "For intensity: *10 log*",
+     "maddeler": [
+       {"metin": "Formula: _10 log (I / I0)_", "cumle": 0, "ikon": "kitap"},
+       {"metin": "Reference I0: _10⁻¹² W/m²_", "cumle": 2, "ikon": "kulak"},
+       {"metin": "Twice the intensity: _about +3 dB_", "cumle": 3, "ikon": "grafik"},
+       {"metin": "Ten times the intensity: _+10 dB_", "cumle": 4, "ikon": "grafik"}],
+     "cumleler": [
+       "Intensity level is ten times the logarithm of the ratio of the measured intensity to the reference intensity.",
+       "This is called the intensity level, or IL for short.",
+       "The reference intensity is ten to the minus twelve watts per square meter, which corresponds roughly to the threshold of hearing.",
+       "When intensity doubles, the level rises by about three decibels.",
+       "When intensity increases tenfold, the level rises by exactly ten decibels.",
+       "For example, a hundred times the intensity means twenty decibels, and a thousand times means thirty decibels."]},
+
+    {"id": "basinc", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "The formulas", "baslik": "For pressure: *20 log*",
+     "maddeler": [
+       {"metin": "Formula: _20 log (P / P0)_", "cumle": 1, "ikon": "kitap"},
+       {"metin": "Reference P0: _20 µPa_", "cumle": 1, "ikon": "mikrofon"},
+       {"metin": "Twice the pressure: _about +6 dB_", "cumle": 3, "ikon": "grafik"},
+       {"metin": "Ten times the pressure: _+20 dB_", "cumle": 4, "ikon": "grafik"}],
+     "yan": {"tur": "kart", "ust": "SPL", "metin": "*Sound pressure* level", "cumle": 1},
+     "cumleler": [
+       "Microphones measure pressure, not intensity, which is why sound pressure level is used most in the clinic.",
+       "Sound pressure level, or SPL, is calculated from the ratio of the measured pressure to twenty micropascals.",
+       "Here the factor is twenty, because intensity is proportional to pressure squared, and the log of a square is twice the log.",
+       "So when pressure doubles, the level rises by about six decibels.",
+       "When pressure increases tenfold, the level rises by twenty decibels.",
+       "Although the intensity and pressure formulas look different, they give the same decibel value for the same sound."]},
+
+    {"id": "ornekler", "tur": "tablo", "bolum_no": "PART 3", "bolum": "The formulas", "baslik": "Worked *examples*",
+     "sutunlar": ["Pressure", "Ratio to reference", "dB SPL"],
+     "satirlar": [
+       {"hucreler": ["20 µPa", "1", "0"], "cumle": 0, "vurgu": true},
+       {"hucreler": ["200 µPa", "10", "20"], "cumle": 1},
+       {"hucreler": ["0.02 Pa", "1,000", "60"], "cumle": 2},
+       {"hucreler": ["2 Pa", "100,000", "100"], "cumle": 3},
+       {"hucreler": ["20 Pa", "1,000,000", "120"], "cumle": 4}],
+     "cumleler": [
+       "If the pressure equals the reference, the ratio is one, and the log of one is zero; so twenty micropascals is zero dB SPL.",
+       "If the pressure rises tenfold, to two hundred micropascals, the log is one and the level is twenty dB SPL.",
+       "Zero point zero two pascals is a thousand times the reference; the log is three, and the result is sixty dB SPL.",
+       "Two pascals is a hundred thousand times the reference; the log is five, and the result is one hundred dB SPL.",
+       "Twenty pascals is a million times the reference and equals one hundred twenty dB SPL.",
+       "As you can see, a range of one million fits onto a comfortable scale from zero to one hundred twenty."]},
+
+    {"id": "ters", "tur": "akis", "bolum_no": "PART 3", "bolum": "The formulas", "baslik": "The other way: *from decibels to pressure*",
+     "adimlar": [
+       {"ikon": "soru", "baslik": "Question", "metin": "How many pascals?", "cumle": 0},
+       {"ikon": "grafik", "baslik": "Divide by 20", "metin": "40 / 20 = 2", "cumle": 1},
+       {"ikon": "grafik", "baslik": "10 to the power", "metin": "10 to the 2 = 100", "cumle": 2},
+       {"ikon": "mikrofon", "baslik": "Multiply by reference", "metin": "100 x 20 µPa", "cumle": 3}],
+     "cumleler": [
+       "Sometimes we need to go the other way: to find how many pascals a decibel value represents.",
+       "For example, for forty dB SPL, we first divide forty by twenty and get two.",
+       "Then we take ten to the power of two, which is one hundred; so the pressure is a hundred times the reference.",
+       "Multiplying one hundred by twenty micropascals gives two thousand micropascals, or zero point zero zero two pascals.",
+       "For intensity level, we do the same thing but divide by ten instead of twenty.",
+       "This reverse calculation is useful when interpreting calibration values and device outputs."]},
+
+    {"id": "sifir", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "References and scales",
+     "baslik": "Zero decibels is *not silence*",
+     "maddeler": [
+       {"metin": "0 dB SPL: pressure _equal to the reference_", "cumle": 0, "ikon": "sessizlik"},
+       {"metin": "Negative value: _below the reference_", "cumle": 2, "ikon": "grafik"},
+       {"metin": "Every dB value has _a reference_", "cumle": 3, "ikon": "kontrol_listesi"}],
+     "cumleler": [
+       "Zero dB SPL does not mean there is no sound; it only says the pressure equals the reference value.",
+       "The reference was chosen to match the approximate threshold of young, healthy ears around one thousand hertz.",
+       "Pressures below the reference give negative decibel values; for example, minus five dB SPL is a meaningful measurement.",
+       "Indeed, young, healthy ears can respond at some frequencies even to sounds below the reference.",
+       "So a decibel value alone is meaningless; the reference it was measured against must always be stated.",
+       "That is why audiology uses different scales, such as dB SPL, dB HL and dB SL."]},
+
+    {"id": "uc_olcek", "tur": "ikonlar", "bolum_no": "PART 4", "bolum": "References and scales",
+     "baslik": "Three *decibel scales*",
+     "ogeler": [
+       {"ikon": "mikrofon", "baslik": "dB SPL", "metin": "Reference 20 µPa; physics, calibration", "cumle": 0},
+       {"ikon": "odyogram", "baslik": "dB HL", "metin": "Normal hearing threshold; audiogram", "cumle": 1},
+       {"ikon": "kulak", "baslik": "dB SL", "metin": "The person's own threshold", "cumle": 4}],
+     "cumleler": [
+       "dB SPL is a physical scale, and its reference is twenty micropascals.",
+       "dB HL is hearing level; its reference is the average threshold of young adults with normal hearing at each frequency.",
+       "Because the ear is not equally sensitive at all frequencies, zero dB HL corresponds to a different dB SPL value at each frequency.",
+       "This difference is largest at low frequencies, and it is what keeps the zero line on the audiogram flat.",
+       "dB SL is sensation level; it tells us how far above the person's own threshold we are.",
+       "For example, if a person's threshold is thirty dB HL and we present a seventy dB HL sound, that is forty dB SL."]},
+
+    {"id": "odyolojide", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "References and scales",
+     "baslik": "In audiology, *decibels* are everywhere",
+     "maddeler": [
+       {"metin": "Audiogram thresholds: _dB HL_", "cumle": 0, "ikon": "odyogram"},
+       {"metin": "Calibration and OAE: _dB SPL_", "cumle": 1, "ikon": "odyometre"},
+       {"metin": "Suprathreshold tests: _dB SL_", "cumle": 2, "ikon": "kulak"},
+       {"metin": "Noise measurement: _dBA_", "cumle": 3, "ikon": "fabrika"}],
+     "cumleler": [
+       "In audiology, decibels are everywhere; thresholds on the audiogram are written in dB HL.",
+       "Audiometer calibration and otoacoustic emission, or OAE, measurements are expressed in dB SPL.",
+       "In some suprathreshold tests, the stimulus level is set relative to the person's threshold, in dB SL.",
+       {"yazi": "Noise measurements use A-weighting, which mimics the frequency sensitivity of the ear, written dBA.", "ses": "Noise measurements use A-weighting, which mimics the frequency sensitivity of the ear, written decibels A."},
+       "It is a good habit to check which scale each decibel value in a report is written in."]},
+
+    {"id": "gunluk", "tur": "gorsel", "bolum_no": "PART 5", "bolum": "Everyday sounds", "baslik": "Everyday sounds in *decibels*",
+     "cizim": "desibel_olcegi",
+     "etiketler": [
+       {"parca": "fisilti", "metin": "Whisper: about 30 dB SPL", "cumle": 1},
+       {"parca": "konusma", "metin": "Speech: about 60 dB SPL", "cumle": 2},
+       {"parca": "trafik", "metin": "Heavy traffic: about 85 dB SPL", "cumle": 3},
+       {"parca": "konser", "metin": "Concert: 100 to 110 dB SPL", "cumle": 3},
+       {"parca": "agri_esigi", "metin": "Pain: about 130 dB SPL", "cumle": 4}],
+     "cumleler": [
+       "Now let us place everyday sounds on this scale; the values are approximate and depend on the measuring distance.",
+       "A whisper is about thirty dB SPL.",
+       "Normal speech at a distance of one meter is around sixty dB SPL.",
+       "Heavy traffic is about eighty five, and a rock concert can reach one hundred to one hundred ten dB SPL.",
+       "Sounds of about one hundred thirty dB SPL and above can cause a sensation of pain in the ear.",
+       "An eighty decibel difference, as between a whisper and a concert, is a ten thousandfold difference in pressure."]},
+
+    {"id": "algi", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Everyday sounds",
+     "baslik": "Decibels and *perceived loudness*",
+     "maddeler": [
+       {"metin": "About _10 dB_: twice as loud", "cumle": 1, "ikon": "hoparlor"},
+       {"metin": "Around _1 dB_: barely noticeable", "cumle": 3, "ikon": "kulak"},
+       {"metin": "_3 dB_: twice the energy", "cumle": 4, "ikon": "grafik"}],
+     "cumleler": [
+       "Our perception of loudness also works on a compressed scale, which makes the decibel a scale close to perception.",
+       "As a general rule, an increase of about ten decibels makes a sound seem roughly twice as loud.",
+       "Yet ten decibels means a tenfold increase in intensity.",
+       "Changes of around one decibel are hard to notice in most conditions.",
+       "An increase of three decibels may look small, but it means the sound energy has doubled.",
+       "Back to the loudness rule: for a sound to seem half as loud, a drop of about ten decibels is needed."],
+     "yan": {"tur": "cizim", "cizim": "desibel_olcegi", "cumle": 0, "vurgula": [{"parca": "konusma", "cumle": 1}]}},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical tip",
+     "metin": "Decibels do not add up directly: two equal 60 dB sources give about 63 dB. Under many criteria, a 3 dB rise in noise halves the safe exposure time.",
+     "cumleler": [
+       "A very useful fact in the clinic and in counseling: decibels do not add up directly.",
+       "Two equal sound sources of sixty decibels together give about sixty three decibels, not one hundred twenty.",
+       "That is why, under many occupational health criteria, a three decibel rise in noise halves the safe exposure time.",
+       "Using this simple rule is very effective when you explain noise risk to someone."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [
+       {"metin": "A decibel is a *ratio* to a reference", "cumle": 0, "ikon": "grafik"},
+       {"metin": "Intensity 10 log, pressure *20 log*", "cumle": 1, "ikon": "kitap"},
+       {"metin": "0 dB SPL = *20 µPa*", "cumle": 2, "ikon": "mikrofon"},
+       {"metin": "dB SPL, dB HL and *dB SL* differ", "cumle": 3, "ikon": "odyogram"}],
+     "cumleler": [
+       "The decibel is a logarithmic expression of the ratio of a measured value to a reference value.",
+       "We use ten log for intensity and twenty log for pressure; the two formulas give the same result.",
+       "Zero dB SPL is not silence; it is the reference pressure of twenty micropascals.",
+       "dB SPL, dB HL and dB SL rest on different references, and the one used must always be stated."]},
+
+    {"id": "test", "tur": "test", "soru": "If pressure increases tenfold, how many dB does the SPL rise?",
+     "secenekler": ["3 dB", "6 dB", "10 dB", "20 dB"], "dogru": 3,
+     "aciklama": "For pressure we use _20 log_: 20 x log 10 = 20 dB.",
+     "cumleler": [
+       {"yazi": "Test yourself: If sound pressure increases tenfold, by how many decibels does the sound pressure level rise?", "sonra_bekle": 5},
+       "The correct answer is D, twenty decibels. For pressure we use twenty log, and the log of ten is one."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "Decibel Math: Adding Sounds and *Distance* Effects", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will work through how to add decibels and how distance changes sound level.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

@@ -1,0 +1,1380 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D086_Dead_Regions_TEN_Test_EN",
+ "kapak": {
+  "ust": "LESSON 86",
+  "baslik": "Cochlear<br>*dead regions*",
+  "alt": "The TEN test and hearing aid fitting",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Cochlear Dead Regions and the TEN Test | Lesson 86 | AIHEAR Audiology Academy",
+  "aciklama": "What happens when inner hair cells stop working? In this lesson we cover the concept of a cochlear dead region, off-frequency listening, clues on the audiogram, the logic, procedure and criteria of the TEN(HL) test, psychophysical tuning curves, and why dead regions matter in hearing aid fitting.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Moore et al. (2000), A test for the diagnosis of dead regions in the cochlea, British Journal of Audiology; Moore, Glasberg and Stone (2004), New version of the TEN test with calibrations in dB HL, Ear and Hearing; Moore (2004), Dead regions in the cochlea: conceptual foundations, diagnosis, and clinical applications, Ear and Hearing; Vickers, Moore and Baer (2001), Effects of low-pass filtering on the intelligibility of speech in quiet for people with and without dead regions at high frequencies, Journal of the Acoustical Society of America; Cox et al. (2011), Cochlear dead regions in typical hearing aid candidates: prevalence and implications for use of high-frequency speech cues, Ear and Hearing.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "psychoacoustics",
+   "TENtest"
+  ],
+  "etiketler": [
+   "cochlear dead region",
+   "dead region",
+   "TEN test",
+   "threshold equalizing noise",
+   "off-frequency listening",
+   "inner hair cells",
+   "edge frequency",
+   "psychophysical tuning curve",
+   "hearing aid fitting",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 86",
+   "baslik": "Cochlear dead regions and the *TEN* test",
+   "alt": "Detecting inner hair cell loss",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about regions where inner hair cells do not function, known as cochlear dead regions.",
+    "We will cover off-frequency listening, the threshold equalizing noise, or TEN, test, and the effects on hearing aids."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is a dead region?",
+   "baslik": "Inner hair cell *loss*",
+   "cizim": "corti",
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Inner hair cell",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Afferent nerve fibers",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vibration present, _no transmission_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "The definition is _functional_",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Boundary: the _edge frequency_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In the previous lesson we saw how outer hair cell damage changes perception; in this lesson we focus on inner hair cells.",
+    "Inner hair cells are the true sensory cells that turn basilar membrane vibration into a neural signal.",
+    "If the inner hair cells or their nerve fibers do not function in a region, that region is called a cochlear dead region.",
+    "In this region, even if the basilar membrane vibrates, the information cannot be passed to the nerve.",
+    "The definition is functional; the region need not be empty of cells, it is enough that transmission is inadequate.",
+    "The frequency at the boundary where a dead region begins is called the edge frequency.",
+    "We owe the concept of dead regions and the TEN test largely to the work of Brian Moore and colleagues."
+   ]
+  },
+  {
+   "id": "frekans_disi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is a dead region?",
+   "baslik": "*Off-frequency* listening",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 3
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Dead region: 4 kHz",
+     "cumle": 3
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Healthy neighbor detects it",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Loud sound also vibrates _the neighbor_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Threshold of _the neighboring region_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Tone sounds _distorted or noisy_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "So is a sound that falls in a dead region never heard? Usually it is heard, but from somewhere else.",
+    "A loud enough sound vibrates not only its own region of the basilar membrane but also neighboring regions.",
+    "Inner hair cells in the healthy neighboring region detect this vibration; this is called off-frequency listening.",
+    "For example, if the four kilohertz region is dead, a four kilohertz tone may be detected in a lower, healthy region.",
+    "So a threshold is measured at the dead frequency on the audiogram, but it belongs to the neighboring region, not that region.",
+    "Patients often say they hear this tone not as a pure tone but as noisy, distorted or at a different pitch.",
+    "In other words, the audiogram does not reveal a dead region by itself."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "What is a dead region?",
+   "baslik": "*Clues* on the audiogram",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Air conduction_: right ear",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Bone conduction_: right ear",
+     "cumle": 1
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "_Steep slope_: higher likelihood",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       75,
+       90,
+       95
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       25,
+       70,
+       70
+      ],
+      "cumle": 1,
+      "yanitsiz": [
+       4
+      ]
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Some audiogram clues suggest a dead region; this example is for teaching purposes.",
+    "Here the loss is mild at low frequencies, rises very steeply above one kilohertz, and bone conduction follows air conduction.",
+    "Steep slopes approaching fifty decibels per octave increase the likelihood of a dead region.",
+    "The likelihood also rises clearly at frequencies where threshold is about seventy decibels HL or worse.",
+    "But these clues only indicate likelihood; the same audiogram may or may not have a dead region.",
+    "A special test is needed to show a dead region; the most common clinical test is the TEN test."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The TEN test",
+   "baslik": "Threshold equalizing *noise*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal ear",
+     "metin": "Masked threshold near noise",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Cochlear loss",
+     "metin": "Still near the noise",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Dead region",
+     "metin": "Far above the noise",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "The TEN test is named after threshold equalizing noise.",
+    "The spectrum of this noise is shaped to produce the same masked threshold at all frequencies in a normal hearing ear.",
+    "In a normal ear, the masked threshold for a tone comes out roughly equal to the noise level.",
+    "In cochlear loss without a dead region, if the noise is above the person's threshold, the masked threshold also stays near the noise level.",
+    "In a dead region things are different; the tone can only be detected in the healthy neighboring region.",
+    "But because the noise is broadband, it masks that neighboring region too; the tone can only be heard at a much higher level.",
+    "As a result, in a dead region the masked threshold rises clearly above the noise level."
+   ]
+  },
+  {
+   "id": "surum",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The TEN test",
+   "baslik": "TEN(SPL) and *TEN(HL)*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "2000: TEN(SPL)",
+     "metin": "Levels in dB SPL",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "2004: TEN(HL)",
+     "metin": "Levels in dB HL",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Frequencies",
+     "metin": "500 to 4000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Noise level",
+     "metin": "dB HL per filter",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The first version of the test, TEN(SPL), was published in 2000 and gave levels in decibels SPL.",
+     "ses": "The first version of the test, TEN S P L, was published in two thousand and gave levels in decibels S P L."
+    },
+    {
+     "yazi": "In the TEN(HL) version published in 2004, levels are given in decibels HL, as we are used to from the audiometer.",
+     "ses": "In the TEN H L version published in two thousand four, levels are given in decibels H L, as we are used to from the audiometer."
+    },
+    {
+     "yazi": "The TEN(HL) test is done at frequencies between five hundred and four thousand hertz.",
+     "ses": "The TEN H L test is done at frequencies between five hundred and four thousand hertz."
+    },
+    "The noise level is defined in decibels HL per auditory filter width, that is, the level falling within a single filter of the ear.",
+    "The test is given from a recording connected to the audiometer or, on some audiometers, with a built-in program.",
+    {
+     "yazi": "In this lesson we describe the TEN(HL) version, which is more common in the clinic.",
+     "ses": "In this lesson we describe the TEN H L version, which is more common in the clinic."
+    }
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "The TEN test",
+   "baslik": "Test *steps*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Threshold in quiet",
+     "metin": "Same earphone and method",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise level",
+     "metin": "10 dB above threshold",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Masked threshold",
+     "metin": "In 2 dB steps",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Comfort, other ear",
+     "metin": "Discomfort, cross hearing",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The test is done in a few steps.",
+    "First, thresholds in quiet are measured at the test frequencies, with the same earphone and the same method.",
+    "Next, the noise level is chosen; if possible, the noise should be at least ten decibels above threshold at the test frequency.",
+    "The noise and the tone are presented together to the same ear, and the masked threshold for the tone is found.",
+    "Near threshold, two decibel steps are used instead of five; this matters because the criteria rely on small differences.",
+    "Because the noise can be loud, the patient is asked about discomfort; uncomfortable levels are not used.",
+    "If needed, the other ear is also masked; hearing the tone in the other ear can spoil the result."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The TEN test",
+   "baslik": "*Interpreting* the result",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 400,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      1500,
+      2000,
+      3000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 10,
+     "max": 110,
+     "adim": 10,
+     "ad": "Level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sessiz_esik",
+      "noktalar": [
+       [
+        500,
+        20
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        1500,
+        30
+       ],
+       [
+        2000,
+        50
+       ],
+       [
+        3000,
+        65
+       ],
+       [
+        4000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "cumle": 0,
+      "etiket": "threshold in quiet",
+      "etiket_konum": [
+       500,
+       20
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -14
+     },
+     {
+      "ad": "maskeli_esik",
+      "noktalar": [
+       [
+        500,
+        81
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        1500,
+        82
+       ],
+       [
+        2000,
+        83
+       ],
+       [
+        3000,
+        95
+       ],
+       [
+        4000,
+        99
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "isaretli": true,
+      "cumle": 4,
+      "etiket": "masked threshold in TEN",
+      "etiket_konum": [
+       500,
+       81
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": 30
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ten_duzeyi",
+      "x": 450,
+      "y": 80,
+      "cizgi": "yatay",
+      "renk": "gri",
+      "nokta": false,
+      "etiket": "TEN: 80 dB HL",
+      "dx": 60,
+      "dy": -10,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "olu_bolge",
+      "x": [
+       2500,
+       5000
+      ],
+      "renk": "sari",
+      "etiket": "dead region",
+      "cumle": 6,
+      "opak": 0.22
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "xk": 3000,
+      "y": [
+       80,
+       95
+      ],
+      "etiket": "15 dB",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ten_duzeyi",
+     "cumle": 1
+    },
+    {
+     "parca": "sessiz_esik",
+     "cumle": 2
+    },
+    {
+     "parca": "fark",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Two criteria are used together to interpret the result.",
+    "First criterion: the masked threshold must be at least ten decibels above the noise level.",
+    "Second criterion: it must also be at least ten decibels above the threshold in quiet, which shows the noise is really masking.",
+    "If both criteria are met, a dead region is suspected at that frequency.",
+    "In this example the noise is eighty decibels HL; from five hundred to two thousand hertz, masked thresholds are very close to the noise.",
+    "At three and four kilohertz, masked thresholds are fifteen and nineteen decibels above the noise and over twenty above quiet thresholds.",
+    "So in this example the dead region begins at about three kilohertz; the edge frequency may lie between two and three kilohertz.",
+    "If the masked threshold does not exceed the quiet threshold by ten decibels, the result is inconclusive; retest with louder noise if needed."
+   ]
+  },
+  {
+   "id": "ptc",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The TEN test",
+   "baslik": "Psychophysical *tuning curve*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Masker frequency (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 20,
+     "max": 100,
+     "adim": 20,
+     "ad": "Masker level needed (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        1226.5,
+        99.0
+       ],
+       [
+        1254.6,
+        96.6
+       ],
+       [
+        1283.4,
+        94.2
+       ],
+       [
+        1312.8,
+        91.8
+       ],
+       [
+        1342.9,
+        89.5
+       ],
+       [
+        1373.7,
+        87.3
+       ],
+       [
+        1405.2,
+        85.1
+       ],
+       [
+        1437.5,
+        83.0
+       ],
+       [
+        1470.5,
+        80.9
+       ],
+       [
+        1504.2,
+        78.8
+       ],
+       [
+        1538.7,
+        76.8
+       ],
+       [
+        1574.0,
+        74.8
+       ],
+       [
+        1610.1,
+        72.9
+       ],
+       [
+        1647.0,
+        71.1
+       ],
+       [
+        1684.8,
+        69.2
+       ],
+       [
+        1723.5,
+        67.5
+       ],
+       [
+        1763.0,
+        65.7
+       ],
+       [
+        1803.4,
+        64.1
+       ],
+       [
+        1844.8,
+        62.4
+       ],
+       [
+        1887.1,
+        60.8
+       ],
+       [
+        1930.4,
+        59.3
+       ],
+       [
+        1974.7,
+        57.8
+       ],
+       [
+        2020.0,
+        56.4
+       ],
+       [
+        2066.3,
+        55.0
+       ],
+       [
+        2113.7,
+        53.6
+       ],
+       [
+        2162.2,
+        52.3
+       ],
+       [
+        2211.8,
+        51.1
+       ],
+       [
+        2262.6,
+        49.9
+       ],
+       [
+        2314.5,
+        48.7
+       ],
+       [
+        2367.6,
+        47.6
+       ],
+       [
+        2421.9,
+        46.5
+       ],
+       [
+        2477.4,
+        45.5
+       ],
+       [
+        2534.3,
+        44.5
+       ],
+       [
+        2592.4,
+        43.6
+       ],
+       [
+        2651.9,
+        42.7
+       ],
+       [
+        2712.7,
+        41.9
+       ],
+       [
+        2774.9,
+        41.1
+       ],
+       [
+        2838.6,
+        40.4
+       ],
+       [
+        2903.7,
+        39.7
+       ],
+       [
+        2970.3,
+        39.1
+       ],
+       [
+        3038.4,
+        38.5
+       ],
+       [
+        3108.1,
+        37.9
+       ],
+       [
+        3179.4,
+        37.4
+       ],
+       [
+        3252.4,
+        37.0
+       ],
+       [
+        3327.0,
+        36.6
+       ],
+       [
+        3403.3,
+        36.2
+       ],
+       [
+        3481.4,
+        35.9
+       ],
+       [
+        3561.2,
+        35.6
+       ],
+       [
+        3642.9,
+        35.4
+       ],
+       [
+        3726.5,
+        35.2
+       ],
+       [
+        3812.0,
+        35.1
+       ],
+       [
+        3899.4,
+        35.0
+       ],
+       [
+        3988.9,
+        35.0
+       ],
+       [
+        4080.4,
+        36.6
+       ],
+       [
+        4174.0,
+        39.3
+       ],
+       [
+        4269.7,
+        42.4
+       ],
+       [
+        4367.7,
+        45.9
+       ],
+       [
+        4467.9,
+        49.7
+       ],
+       [
+        4570.4,
+        53.8
+       ],
+       [
+        4675.2,
+        58.0
+       ],
+       [
+        4782.5,
+        62.5
+       ],
+       [
+        4892.2,
+        67.1
+       ],
+       [
+        5004.4,
+        71.8
+       ],
+       [
+        5119.2,
+        76.8
+       ],
+       [
+        5236.6,
+        81.8
+       ],
+       [
+        5356.7,
+        87.0
+       ],
+       [
+        5479.6,
+        92.3
+       ],
+       [
+        5605.3,
+        97.8
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 2,
+      "etiket": "normal: tip at the signal",
+      "etiket_konum": [
+       4000,
+       35
+      ],
+      "etiket_dx": -14,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "kaymis",
+      "noktalar": [
+       [
+        1000.0,
+        94.5
+       ],
+       [
+        1022.9,
+        93.3
+       ],
+       [
+        1046.4,
+        92.1
+       ],
+       [
+        1070.4,
+        91.0
+       ],
+       [
+        1095.0,
+        89.9
+       ],
+       [
+        1120.1,
+        88.8
+       ],
+       [
+        1145.8,
+        87.7
+       ],
+       [
+        1172.1,
+        86.7
+       ],
+       [
+        1198.9,
+        85.7
+       ],
+       [
+        1226.5,
+        84.8
+       ],
+       [
+        1254.6,
+        83.9
+       ],
+       [
+        1283.4,
+        83.0
+       ],
+       [
+        1312.8,
+        82.1
+       ],
+       [
+        1342.9,
+        81.3
+       ],
+       [
+        1373.7,
+        80.4
+       ],
+       [
+        1405.2,
+        79.7
+       ],
+       [
+        1437.5,
+        78.9
+       ],
+       [
+        1470.5,
+        78.2
+       ],
+       [
+        1504.2,
+        77.5
+       ],
+       [
+        1538.7,
+        76.9
+       ],
+       [
+        1574.0,
+        76.2
+       ],
+       [
+        1610.1,
+        75.6
+       ],
+       [
+        1647.0,
+        75.1
+       ],
+       [
+        1684.8,
+        74.5
+       ],
+       [
+        1723.5,
+        74.0
+       ],
+       [
+        1763.0,
+        73.6
+       ],
+       [
+        1803.4,
+        73.1
+       ],
+       [
+        1844.8,
+        72.7
+       ],
+       [
+        1887.1,
+        72.3
+       ],
+       [
+        1930.4,
+        71.9
+       ],
+       [
+        1974.7,
+        71.6
+       ],
+       [
+        2020.0,
+        71.3
+       ],
+       [
+        2066.3,
+        71.1
+       ],
+       [
+        2113.7,
+        70.8
+       ],
+       [
+        2162.2,
+        70.6
+       ],
+       [
+        2211.8,
+        70.4
+       ],
+       [
+        2262.6,
+        70.3
+       ],
+       [
+        2314.5,
+        70.2
+       ],
+       [
+        2367.6,
+        70.1
+       ],
+       [
+        2421.9,
+        70.0
+       ],
+       [
+        2477.4,
+        70.0
+       ],
+       [
+        2534.3,
+        70.4
+       ],
+       [
+        2592.4,
+        71.3
+       ],
+       [
+        2651.9,
+        72.4
+       ],
+       [
+        2712.7,
+        73.7
+       ],
+       [
+        2774.9,
+        75.1
+       ],
+       [
+        2838.6,
+        76.6
+       ],
+       [
+        2903.7,
+        78.2
+       ],
+       [
+        2970.3,
+        79.8
+       ],
+       [
+        3038.4,
+        81.5
+       ],
+       [
+        3108.1,
+        83.3
+       ],
+       [
+        3179.4,
+        85.1
+       ],
+       [
+        3252.4,
+        87.0
+       ],
+       [
+        3327.0,
+        89.0
+       ],
+       [
+        3403.3,
+        90.9
+       ],
+       [
+        3481.4,
+        93.0
+       ],
+       [
+        3561.2,
+        95.0
+       ],
+       [
+        3642.9,
+        97.1
+       ],
+       [
+        3726.5,
+        99.3
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "dead region: tip shifted",
+      "etiket_konum": [
+       2500,
+       70
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinyal",
+      "x": 4000,
+      "y": 25,
+      "cizgi": "dikey",
+      "renk": "kirmizi",
+      "nokta": false,
+      "etiket": "signal: 4 kHz",
+      "dx": 10,
+      "dy": 0,
+      "hiza": "start",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "sinyal",
+     "cumle": 1
+    },
+    {
+     "parca": "kaymis",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "A more detailed way to show a dead region is the psychophysical tuning curve.",
+    "The noise level needed at each frequency to mask a fixed, soft signal is measured.",
+    "Normally the tip of the curve, the frequency where the least noise is enough, lies at the signal frequency.",
+    "In a dead region the tip shifts away from the signal frequency; it shows the healthy region where the signal is really detected.",
+    "This shift also helps estimate the edge frequency; the curves on the graph are representative.",
+    "Although fast methods have been developed, this test is longer and more demanding in the clinic than the TEN test."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Clinical importance",
+   "baslik": "Dead regions and hearing aid *gain*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "yararli",
+      "x": [
+       250,
+       3400
+      ],
+      "renk": "mavi",
+      "etiket": "gain: about 1.7 x edge",
+      "cumle": 1,
+      "opak": 0.15
+     },
+     {
+      "ad": "olu",
+      "x": [
+       2000,
+       8000
+      ],
+      "renk": "kirmizi",
+      "etiket": "dead region",
+      "cumle": 0,
+      "opak": 0.1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kenar",
+      "x": 2000,
+      "y": 5,
+      "cizgi": "dikey",
+      "etiket": "edge: 2 kHz",
+      "dx": -10,
+      "dy": 40,
+      "hiza": "end",
+      "cumle": 0
+     },
+     {
+      "ad": "ust_sinir",
+      "x": 3400,
+      "y": 5,
+      "cizgi": "dikey",
+      "renk": "lacivert",
+      "etiket": "3.4 kHz",
+      "dx": 10,
+      "dy": 70,
+      "hiza": "start",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "yararli",
+     "cumle": 1
+    },
+    {
+     "parca": "olu",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Knowing about a dead region can guide hearing aid fitting.",
+    "In people with high-frequency dead regions, gain up to about one point seven times the edge frequency has been shown to be useful.",
+    "Gain placed deeper into the dead region may not help intelligibility for some people, and may even distort the sound.",
+    "However, some studies report that hearing aid users with dead regions can still benefit from high-frequency gain.",
+    "So gain is not cut on the TEN result alone; the decision depends on the person's response and verification measurements.",
+    "In wide dead regions, options such as frequency lowering may be considered; we will see this later in the hearing aid lessons.",
+    "Knowing about a dead region is also valuable in counseling, to keep the patient's expectations realistic."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Clinical importance",
+   "baslik": "*Other points* to know",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Low-frequency dead region",
+     "metin": "Reported in rising audiograms",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Children",
+     "metin": "Limited reliability",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Combined interpretation",
+     "metin": "Audiogram, speech, complaints",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dead regions are not seen only at high frequencies.",
+    "Low-frequency dead regions have also been reported with low-frequency loss, for example in rising audiograms.",
+    "In this case, low sounds are detected in a higher, healthy region.",
+    "The dead region test may not be reliable in children or in people who cannot sustain attention for long.",
+    "Test findings are always interpreted together with the audiogram, speech tests and the patient's complaints."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Consider the TEN test when a patient with a steeply sloping audiogram hears high tones as distorted or hissing. Use 2 dB steps and a comfortable noise level.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from the clinic: note a patient who says a high tone sounds not like a whistle but like a hiss, or distorted.",
+    "If such complaints come with a steeply sloping audiogram, consider doing a TEN test.",
+    "In the test, remember the two decibel steps and keep the noise below the level of discomfort.",
+    "Write the result in the report with an estimate of the edge frequency; this helps in hearing aid fitting and follow-up."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Dead region: _inner hair cell_ loss",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "The tone is heard in _a neighboring region_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "TEN: masked threshold _10 dB_ criterion",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Gain decisions are _individual_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "A cochlear dead region is a region where inner hair cells or nerve fibers do not function.",
+    "A tone in a dead region is detected in a healthy neighboring region by off-frequency listening; the audiogram does not show this.",
+    {
+     "yazi": "In the TEN(HL) test, a dead region is suspected if the masked threshold is ten decibels above both the noise and the quiet threshold.",
+     "ses": "In the TEN H L test, a dead region is suspected if the masked threshold is ten decibels above both the noise and the quiet threshold."
+    },
+    "In high-frequency dead regions, gain up to about one point seven times the edge frequency has helped; the decision is individual."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "TEN 80, quiet 70, masked threshold 94 dB HL: result?",
+   "secenekler": [
+    "Suggests a dead region",
+    "No dead region",
+    "Inconclusive"
+   ],
+   "dogru": 0,
+   "aciklama": "The masked threshold is _14 dB_ above the noise and _24 dB_ above the quiet threshold.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: if the noise is eighty, the quiet threshold seventy and the masked threshold ninety four decibels HL, what is the result?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: it suggests a dead region.",
+    "The masked threshold is fourteen decibels above the noise and twenty four above the quiet threshold, so both criteria are met."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Why We *Mask*: Interaural Attenuation Explained",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move on to clinical masking and learn about interaural attenuation.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,778 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D167_Speech_Perception_In_Children_EN",
+ "kapak": {
+  "ust": "LESSON 167",
+  "baslik": "Children's<br>*speech perception*",
+  "alt": "Closed set, open set, ESP",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Speech Perception Testing in Children | Lesson 167 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson explains how speech perception is assessed in children. We cover the levels of auditory skills, closed-set and open-set tests, chance level, the Early Speech Perception (ESP) test and its categories, materials in Turkish, choosing materials to suit language level, administration and reporting.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Moog and Geers, Early Speech Perception Test, Central Institute for the Deaf (1990); Erber, Auditory Training (1982); ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); Madell, Flexer, Wolfe and Schafer, Pediatric Audiology: Diagnosis, Technology, and Management.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "pediatricaudiology",
+   "speechperception"
+  ],
+  "etiketler": [
+   "speech perception",
+   "closed-set test",
+   "open-set test",
+   "Early Speech Perception test",
+   "ESP",
+   "chance level",
+   "PBK",
+   "pediatric speech testing",
+   "pediatric audiology",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 167",
+   "baslik": "*Speech perception* in children",
+   "alt": "Closed set, open set and ESP",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how speech perception is assessed in children.",
+    "We will cover closed-set and open-set tests, the Early Speech Perception test, and choosing materials to suit language level."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why test speech?",
+   "baslik": "Why test *speech*?",
+   "maddeler": [
+    {
+     "metin": "Pure tones do not show _understanding_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Benefit_ of hearing aids and implants",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "_Tracking_ development",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_Planning_ intervention",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "muz",
+      "metin": "Speech banana",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "muz",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "The pure tone audiogram shows how soft the sounds a child can hear are; it does not show how well the child perceives speech.",
+    "Two children with similar audiograms can have very different speech perception abilities.",
+    "Speech perception tests are the main way to see the real benefit of a device in a child using a hearing aid or cochlear implant.",
+    "Repeating the tests over time lets us track the child's auditory development.",
+    "The results help in planning device settings and speech and language therapy.",
+    "But because the child's language level directly affects the result, choosing the right test is very important."
+   ]
+  },
+  {
+   "id": "hiyerarsi",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Why test speech?",
+   "baslik": "*Levels* of auditory skills",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Detection",
+     "metin": "Is there a sound?",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Discrimination",
+     "metin": "Same or different?",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Identification",
+     "metin": "Which one?",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Comprehension",
+     "metin": "What does it mean?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "As Erber described, auditory skills can be thought of as levels that build on one another.",
+    "The first level is detection: the child notices whether a sound is present or not.",
+    "The second level is discrimination: the child can tell whether two sounds are the same or different.",
+    "The third level is identification: the child finds the word heard among the choices or repeats it.",
+    "The top level is comprehension: the child grasps the meaning of what was said and responds.",
+    "The test is chosen according to which of these levels the child has reached."
+   ]
+  },
+  {
+   "id": "set",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Closed and open set",
+   "baslik": "*Closed* set, open set",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Closed set",
+     "metin": "The child points to what was heard among a few pictures or objects.",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Open set",
+     "metin": "There are no choices; the child repeats what was heard.",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Speech perception tests fall into two groups according to how the child responds.",
+    "In closed-set tests, the child points to the word heard among a limited number of pictures or objects.",
+    "This format is useful for young children and for children whose speech is not intelligible, but there is a chance of guessing right.",
+    "In open-set tests, there are no choices; the child repeats the word or sentence heard.",
+    "Open-set testing is closer to everyday listening and is harder.",
+    "As we saw in the speech audiometry lessons, scores from the two types are not compared directly."
+   ]
+  },
+  {
+   "id": "sans",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Closed and open set",
+   "baslik": "*Chance* level in a closed set",
+   "sutunlar": [
+    "Number of choices",
+    "Correct by chance"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "2",
+      "50 percent"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3",
+      "About 33 percent"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "4",
+      "25 percent"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "6",
+      "About 17 percent"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "12",
+      "About 8 percent"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In closed-set tests, the score must be interpreted together with the chance level.",
+    "In a two-choice test, a child can get about half the answers right without hearing anything.",
+    "With three choices, the chance level is about thirty three percent; with four choices, it is twenty five percent.",
+    "As the number of choices rises, chance level falls; it is about seventeen percent with six choices and about eight percent with twelve.",
+    "So a score close to chance level is not evidence of real identification."
+   ]
+  },
+  {
+   "id": "esp",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Closed and open set",
+   "baslik": "Early Speech Perception: *ESP*",
+   "maddeler": [
+    {
+     "metin": "Moog and Geers, _1990_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Closed set_ with pictures or objects",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Standard version: _pictures_",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Low-verbal version: _toys_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Pattern, two-syllable and _one-syllable_ words",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ESP",
+    "metin": "Early Speech Perception: a *closed-set* test for young children",
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "The Early Speech Perception test, or ESP, was developed by Moog and Geers in 1990.",
+     "ses": "The Early Speech Perception test, or ESP, was developed by Moog and Geers in nineteen ninety."
+    },
+    "It is a closed-set test designed for young children with severe to profound hearing loss.",
+    "For children with enough vocabulary, the standard version with pictures is used.",
+    "For young children with more limited language, there is a low-verbal version that uses four real toys instead of pictures.",
+    "The test separately assesses recognition of the rhythm and syllable pattern of words, two-syllable words and one-syllable words.",
+    "Because its words are in English, the test format is used in other languages by adapting it on the same principles."
+   ]
+  },
+  {
+   "id": "esp_kategori",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Closed and open set",
+   "baslik": "*ESP* categories",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Category 1",
+     "metin": "Detection",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Category 2",
+     "metin": "Pattern perception",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Category 3",
+     "metin": "Some word identification",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Category 4",
+     "metin": "Consistent word identification",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Based on the ESP results, the child's speech perception is placed in one of four categories.",
+    "In category one, the child detects sound but cannot tell word patterns apart.",
+    "In category two, the child distinguishes patterns such as number of syllables and rhythm, but cannot identify words.",
+    "In category three, the child begins to identify some words, especially two-syllable words.",
+    "In category four, the child also identifies one-syllable words consistently; this may signal readiness for open-set tests.",
+    "These categories offer a simple, clear language for tracking the child's progress and explaining it to the family."
+   ]
+  },
+  {
+   "id": "acik_set",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Closed and open set",
+   "baslik": "*Open-set* tests",
+   "maddeler": [
+    {
+     "metin": "The child _repeats_ the word",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "English example: _PBK_ lists",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Turkish: _school-age_ lists",
+     "cumle": 3,
+     "ikon": "okul"
+    },
+    {
+     "metin": "In noise: Turkish HINT _for children_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "okul",
+      "baslik": "Words",
+      "metin": "One-syllable lists",
+      "cumle": 3
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "In noise",
+      "metin": "Sentence tests",
+      "cumle": 4
+     }
+    ],
+    "ust": "IN TURKISH"
+   },
+   "cumleler": [
+    "In open-set tests, the child repeats the word or sentence heard, and the words said correctly are scored.",
+    "In English, the phonetically balanced kindergarten lists of one-syllable words, or PBK, are a long-used example for this purpose.",
+    "Some tests also take into account how frequent the words are and how similar they are to one another.",
+    "For Turkish, as we saw in the lesson on speech materials, one-syllable word lists have been developed for ages seven to twelve.",
+    {
+     "yazi": "For speech in noise, the Turkish Hearing in Noise Test, or HINT, also has a children's version with norms for ages six to twelve."
+    },
+    "Open-set tests are used once the child's language is developed enough to repeat words."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Materials and administration",
+   "baslik": "When *choosing* a test",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Language level",
+     "metin": "Does the child know the words?",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Response mode",
+     "metin": "Pointing or repeating?",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Presentation",
+     "metin": "Recorded or live voice",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Level",
+     "metin": "Everyday speech level",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "To choose the right test, a few questions are answered.",
+    "The first is whether the child knows the words in the test; a child cannot be expected to perceive a word they do not know.",
+    "The second is the response mode: can the child point to pictures, or repeat intelligibly?",
+    "Recorded stimuli are more consistent and make comparison easier; with very young children, live voice can be more flexible.",
+    "The presentation level is usually chosen close to everyday conversational speech and is recorded.",
+    "Whatever choice is made, the same test should be repeated under the same conditions at follow-up."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Materials and administration",
+   "baslik": "Giving a *closed-set* test",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Introduce",
+     "metin": "Name the pictures together",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Screen",
+     "metin": "Remove unknown words",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Present",
+     "metin": "Auditory only",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Respond",
+     "metin": "The child points",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Score",
+     "metin": "Compare with chance",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In a closed-set test, the pictures or toys are first introduced to the child and named together.",
+    "Words the child does not know are left out of the test; the goal is to measure hearing, not vocabulary.",
+    "Words are presented through hearing only; the child must not see the speaker's lips.",
+    "The child points to the picture or object for the word heard; praise is given without showing whether it was right or wrong.",
+    "The result is calculated as a percentage and compared with the chance level of the test.",
+    "The positions of the pictures are changed on every trial, so the child cannot memorize locations."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Materials and administration",
+   "baslik": "What can *distort* the result",
+   "maddeler": [
+    {
+     "metin": "_Lipreading_: hide the mouth",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Articulation_ errors are not perception errors",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Fatigue and _loss of interest_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Check that the _device_ works",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "For a child with a speech disorder, use a closed-set picture test instead of an open set, or write responses down and score carefully.",
+    "cumle": 1
+   },
+   "cumleler": [
+    "If the child sees the speaker's face, lipreading raises the score, so the mouth is covered or recorded presentation is used.",
+    "In open-set tests, the child's own speech errors must not be confused with perception errors.",
+    "For example, a child who cannot say the r sound is not mishearing the word because of this error.",
+    "Long lists cause fatigue and loss of interest in young children; shorter lists are used if needed.",
+    "In a child using a hearing aid or implant, the device is checked with the Ling sounds before the test.",
+    "If these factors are not recorded, comparison with the next test will be misleading."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up and report",
+   "baslik": "*Tracking* over time",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "ad": "Months of device use",
+     "isaretler": [
+      0,
+      6,
+      12,
+      18,
+      24
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 4.5,
+     "adim": 1,
+     "ad": "ESP category",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    "seriler": [
+     {
+      "ad": "kategori",
+      "noktalar": [
+       [
+        0,
+        1
+       ],
+       [
+        6,
+        2
+       ],
+       [
+        12,
+        3
+       ],
+       [
+        18,
+        4
+       ],
+       [
+        24,
+        4
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "example child",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "acik_set_gecis",
+      "x": 18,
+      "y": 4,
+      "etiket": "move to open set",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Same test, _same conditions_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "No progress: review _with the team_",
+     "cumle": 5,
+     "ikon": "odyolog"
+    }
+   ],
+   "cumleler": [
+    "Speech perception tests are especially valuable for tracking change over time.",
+    "The graph shows how the ESP category of a purely example child who starts using a device changes over the months.",
+    "At first the child only detects sound; by the sixth month, pattern perception has appeared.",
+    "At twelve months the child identifies some words, and at eighteen months identifies words consistently.",
+    "At this point, the child may be ready to move on to open-set tests.",
+    "If the expected progress is not seen, device settings, hours of use and the therapy plan are reviewed again with the team."
+   ]
+  },
+  {
+   "id": "anket",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up and report",
+   "baslik": "*Questionnaires* for very young children",
+   "maddeler": [
+    {
+     "metin": "_Questionnaires_ based on parent observation",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "_Reactions to sound_ in daily life",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Complement_ testing, not replace it",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Show _change_ over follow-up",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "At home",
+      "metin": "Parent observation",
+      "cumle": 0
+     },
+     {
+      "ikon": "odyolog",
+      "baslik": "In the clinic",
+      "metin": "Test result",
+      "cumle": 3
+     }
+    ],
+    "ust": "TWO SOURCES"
+   },
+   "cumleler": [
+    "For children too young even for a closed-set test, auditory development questionnaires based on parent observation are used.",
+    "These questionnaires ask whether the child turns to their name and how they react to everyday sounds.",
+    "Parents' observations at home give information that a short test in the clinic cannot show.",
+    "Questionnaires do not replace behavioral and objective tests; they complement them.",
+    "When repeated before and after device fitting, they are useful for showing change in auditory development."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up and report",
+   "baslik": "*What* belongs in the report?",
+   "maddeler": [
+    {
+     "metin": "Test name and _set type_",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Number of choices and _chance level_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Presentation: _recorded_ or live, level",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Aided or _unaided_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "_Comparison_ with earlier results",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The report states the name of the test used and whether it was closed set or open set.",
+    "For closed-set tests, the number of choices and the chance level are also written.",
+    "It is noted whether presentation was recorded or live voice, the presentation level, and whether it was auditory only.",
+    "Whether the test was done aided or unaided, and with which ear, is stated clearly.",
+    "The result is compared with earlier assessments under the same conditions.",
+    "Without this information, another center cannot interpret the result correctly."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Before testing, make sure the child knows the words. Failing to find an unknown word is a language issue, not a hearing issue.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: before starting a closed-set test, name every picture together with the child.",
+    "A child's failure to find an unknown word relates to vocabulary, not hearing.",
+    "So remove pictures the child does not recognize from the test, and note this in the report.",
+    "In this way, the score reflects the child's perception through hearing, not the child's language level."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Closed set: choices, _chance level_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Open set: _repetition_, harder",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "ESP: closed set, _four categories_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Materials suited to _language level_",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "In closed-set tests, the child points among choices; the score is interpreted together with chance level.",
+    "In open-set tests, the child repeats what was heard; this method is closer to everyday listening.",
+    "The Early Speech Perception test is a closed-set test given with pictures or toys, and it summarizes the result in four categories.",
+    "Materials should suit the child's language level and response mode, and should be repeated under the same conditions at follow-up."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is chance level in a four-choice closed set?",
+   "secenekler": [
+    "10 percent",
+    "25 percent",
+    "50 percent"
+   ],
+   "dogru": 1,
+   "aciklama": "With four choices, a child can get about _one in four_ answers right without hearing anything.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a closed-set test based on pointing to one of four pictures, what is the chance level?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: twenty five percent.",
+    "So a score close to chance level does not show that the child really recognizes the words."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The *Objective* Test Battery in Infants and Children",
+   "cikis": 2.5,
+   "cumleler": [
+    "Next time we will learn the objective test battery: tympanometry, otoacoustic emissions, and auditory brainstem and steady-state responses.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R286_Small_Ear_Louder_Sound_EN",
+ "kapak": {
+  "ust": "QUICK FACT #286",
+  "baslik": "Small ear, *louder sound*",
+  "alt": "RECD and pediatric fitting",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "insert": true
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does the same hearing aid sound louder in a baby's ear? #shorts",
+  "aciklama": "Because an infant's ear canal is short and narrow, the same sound creates higher sound pressure in the small volume; the difference is largest at high frequencies and varies between children. The real-ear-to-coupler difference (RECD) is found with a measurement of a few seconds, and the rest of the fitting is done in the test box.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "children",
+   "RECD"
+  ],
+  "etiketler": [
+   "RECD",
+   "real-ear-to-coupler difference",
+   "coupler",
+   "pediatric fitting",
+   "DSL v5",
+   "simulated real-ear measurement",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does the same hearing aid sound louder in a baby's ear?",
+  "bilgiler": [
+   "A baby's small ear canal produces higher pressure from the same sound.",
+   "The difference is largest at high frequencies and varies by child.",
+   "RECD takes seconds; the fitting is done in the test box."
+  ],
+  "hashtag": [
+   "audiology",
+   "children",
+   "RECD"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #286",
+   "metin": "Same aid, *different level*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does the same hearing aid sound louder in a baby's ear?"
+   ]
+  },
+  {
+   "id": "recd",
+   "tur": "zincir",
+   "baslik": "Why *RECD* matters",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Small volume",
+     "tr": "infant ear canal",
+     "cumle": 0
+    },
+    {
+     "ad": "Higher",
+     "tr": "sound pressure",
+     "cumle": 1
+    },
+    {
+     "ad": "RECD",
+     "tr": "a few seconds",
+     "cumle": 3
+    }
+   ],
+   "alt": "The small ear _at the center_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "An infant's ear canal is short and narrow, leaving a tiny volume.",
+    "The same sound creates higher pressure in a smaller volume.",
+    "The difference is largest at high frequencies and varies between children.",
+    "RECD measures the ear canal versus coupler difference in seconds.",
+    "A fitting that ignores it may give a child too much sound."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D192",
+ "kaynak_baslik": "Real-Ear-to-Coupler Difference (RECD) in Children"
+}

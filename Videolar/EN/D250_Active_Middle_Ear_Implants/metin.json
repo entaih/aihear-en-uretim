@@ -1,0 +1,702 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D250_Active_Middle_Ear_Implants_EN",
+ "kapak": {
+  "ust": "LESSON 250",
+  "baslik": "Active middle ear<br>*implants*",
+  "alt": "Vibration delivered straight to the ossicles",
+  "cizim": "orta_kulak",
+  "vurgula": [
+   "incus"
+  ]
+ },
+ "youtube": {
+  "baslik": "Active Middle Ear Implants | Lesson 250 | AIHEAR Audiology Academy",
+  "aciklama": "Active middle ear implants deliver amplified sound not into the ear canal but as vibration to the ossicles or the round window. In this lesson we cover electromagnetic and piezoelectric transducers, semi and totally implantable systems, round window vibroplasty, candidacy criteria, advantages and limitations.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Dillon, Hearing Aids; Colletti et al., Treatment of mixed hearing losses via implantation of a vibratory transducer on the round window, International Journal of Audiology (2006); Shohet and Bibee, New considerations for a totally implantable active middle ear implant, Frontiers in Neurology (2021).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "middleearimplant",
+   "hearingimplants"
+  ],
+  "etiketler": [
+   "active middle ear implant",
+   "AMEI",
+   "floating mass transducer",
+   "round window vibroplasty",
+   "piezoelectric transducer",
+   "totally implantable hearing device",
+   "mixed hearing loss",
+   "implantable hearing devices",
+   "ossicular chain",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 250",
+   "baslik": "Active middle ear *implants*",
+   "alt": "Devices that vibrate the ossicles directly",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about implants that deliver sound as vibration to the ossicles or inner ear windows, not the ear canal.",
+    "We will cover how they work, attachment sites, candidacy criteria, advantages and limitations."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "How it works",
+   "baslik": "*Vibration* instead of sound",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2,
+     "olcek": 2.3
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "cumle": 3
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Tympanic membrane",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "metin": "Incus",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Round window",
+     "cumle": 3
+    },
+    {
+     "parca": "donusturucu",
+     "metin": "Vibrating transducer",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "A conventional hearing aid picks up sound, amplifies it and delivers it into the ear canal, again as sound.",
+    "This sound reaches the inner ear by vibrating the tympanic membrane and the ossicular chain.",
+    "An active middle ear implant, by contrast, turns the amplified signal directly into mechanical vibration.",
+    "This vibration is applied to the ossicular chain or to one of the inner ear windows.",
+    "So the ear canal stays open, and sound reaches the inner ear bypassing the receiver and eardrum stage.",
+    "It is called active because the system contains a power source and a transducer that creates the vibration.",
+    "The difference from bone-conduction implants is that the vibration goes to middle ear structures, not to the skull."
+   ],
+   "ayar": {
+    "implant": "orta_kulak",
+    "implant_cumle": 2,
+    "titresim_cumle": 3
+   }
+  },
+  {
+   "id": "parcalar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "How it works",
+   "baslik": "The *parts* of the system",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Sound processor",
+     "cumle": 1,
+     "metin": "Microphone, processor, battery"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Receiver",
+     "cumle": 2,
+     "metin": "Under the skin, decodes signal"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Conductor link",
+     "cumle": 3,
+     "metin": "From receiver to middle ear"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Transducer",
+     "cumle": 4,
+     "metin": "Turns signal into vibration"
+    }
+   ],
+   "cumleler": [
+    "Semi-implantable systems typically have four main parts.",
+    "The external sound processor, behind the ear under the hair, holds the microphone, processor and battery; a magnet holds it to the skin.",
+    "The processor's signal is passed wirelessly through the skin to a receiver placed under the skin.",
+    "A thin cable from the receiver runs through the mastoid bone to the middle ear.",
+    "The transducer at the end of the cable turns the electrical signal into motion that vibrates the ossicles or a window.",
+    "In totally implantable systems, all parts are under the skin and nothing is visible from outside."
+   ]
+  },
+  {
+   "id": "yari_tam",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "How it works",
+   "baslik": "Semi or *totally* implantable?",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Semi-implantable",
+     "cumle": 0,
+     "metin": "External processor, easy battery change"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Totally implantable",
+     "cumle": 3,
+     "metin": "Invisible, battery under skin"
+    }
+   ],
+   "cumleler": [
+    "In semi-implantable systems, the microphone and battery are in the external processor behind the ear.",
+    "The battery is easily changed when needed, and the processor can be upgraded with new technology.",
+    "But the processor is removed for bathing and swimming, and during that time the person does not hear with that ear.",
+    "Totally implantable systems are invisible and can be used all day, even during sleep and in water.",
+    "In these systems, sound is picked up by a microphone under the skin or by a sensor that detects ossicular vibration.",
+    "Depending on the system, the battery is charged from outside or replaced every few years with minor surgery."
+   ]
+  },
+  {
+   "id": "donusturucu",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Transducer and attachment",
+   "baslik": "Two kinds of *transducer*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Electromagnetic",
+     "cumle": 1,
+     "metin": "Coil current vibrates a magnet"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Piezoelectric",
+     "cumle": 4,
+     "metin": "Crystal changes shape with voltage"
+    }
+   ],
+   "cumleler": [
+    "The transducer is the heart of the implant and can work on two basic principles.",
+    "An electromagnetic transducer has a coil, with a magnet inside or beside it.",
+    "A varying current through the coil creates a magnetic field and vibrates the magnet in step with the sound.",
+    "The floating mass transducer is a well-known example of this type; it is a cylinder a few millimeters long.",
+    "In a piezoelectric transducer, a special crystal or ceramic changes shape very slightly when voltage is applied.",
+    "The same material also works in reverse, producing voltage from vibration; so some totally implantable systems use it as a sensor."
+   ]
+  },
+  {
+   "id": "baglanti",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Transducer and attachment",
+   "baslik": "*Where* is vibration applied?",
+   "cizim": "orta_kulak",
+   "yakinlastir": [
+    {
+     "parca": "incus",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3,
+     "olcek": 2.2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 4,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "incus",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "incus",
+     "metin": "Long process of the incus",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "Stapes",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Round window",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The transducer's vibration can be applied at several different points in the middle ear.",
+    "In the first and most common method, the transducer is clipped to the long process of the incus.",
+    "If the ossicular chain is intact, vibration travels along the chain to the stapes and the oval window.",
+    "If part of the chain is missing, the transducer can be connected to the head or footplate of the stapes with special couplers.",
+    "Another option is to place the transducer at the round window.",
+    "The attachment site is chosen from the person's type of loss, middle ear anatomy and the surgeon's evaluation.",
+    "In every case, the aim is to pass vibration to the inner ear fluids as efficiently as possible."
+   ]
+  },
+  {
+   "id": "vibroplasti",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Transducer and attachment",
+   "baslik": "Round window *vibroplasty*",
+   "maddeler": [
+    {
+     "metin": "Transducer at the _round window_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Described for severe mixed loss",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "When the ossicular chain is unusable",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Inner ear fluids driven _in reverse_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bone conduction limits capacity",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "yuvarlak_pencere",
+      "cumle": 0
+     },
+     {
+      "parca": "oval_pencere",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "yuvarlak_pencere",
+      "metin": "round window",
+      "cumle": 0
+     },
+     {
+      "parca": "oval_pencere",
+      "metin": "oval window",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Round window vibroplasty is the placement of the transducer on the round window membrane.",
+    {
+     "yazi": "The method was described in the mid 2000s, especially for people with severe mixed loss who had not benefited from earlier surgery.",
+     "ses": "The method was described in the mid two thousands, especially for people with severe mixed loss who had not benefited from earlier surgery."
+    },
+    "If the ossicular chain is damaged or unusable after repeated surgery, this route can be an option.",
+    "The vibration moves the inner ear fluids from the opposite direction to the oval window.",
+    "As long as a pressure difference forms between the two windows, the basilar membrane still vibrates and sound is perceived.",
+    "Because the signal reaches the cochlea directly, bone-conduction thresholds, that is, remaining cochlear function, set the possible gain."
+   ]
+  },
+  {
+   "id": "aday_odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Candidacy",
+   "baslik": "Example: a *candidate's* audiogram",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "<",
+     "renk": "sag",
+     "metin": "Bone conduction: _same_ as air",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       45,
+       50,
+       60,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       35,
+       45,
+       50,
+       55,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       40,
+       45,
+       50,
+       60,
+       65,
+       null
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": 40,
+     "alt": 70,
+     "etiket": "Moderate to moderately severe",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "This example audiogram shows a symmetric hearing loss in both ears that increases toward the high frequencies.",
+    "Bone-conduction thresholds are at the same level as air conduction; in other words, the loss is sensorineural.",
+    "The loss is moderate to moderately severe; this lies within the candidate range for sensorineural loss.",
+    "Technically, this person could also be helped with hearing aids.",
+    "An implant is considered only if hearing aids cannot be used or do not give enough benefit.",
+    "For example, frequent recurrent outer ear infections, canal stenosis or allergy to earmolds can prevent hearing aid use."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Candidacy",
+   "baslik": "Candidacy *criteria*",
+   "maddeler": [
+    {
+     "metin": "Stable, moderate to severe loss",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Adequate _speech discrimination_ score",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Healthy middle ear and Eustachian function",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Suitable anatomy: imaging",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Realistic _expectations_",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 2
+     },
+     {
+      "parca": "orta_kulak",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Eustachian tube",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "The first candidacy requirement is that the hearing loss is stable and of a degree within the device's capacity.",
+    "The speech discrimination score must also be adequate; the lower limit varies by device, for example forty or fifty percent.",
+    "For sensorineural loss, the middle ear must be healthy; recurrent middle ear infection or Eustachian tube problems can rule it out.",
+    "The structure of the middle ear and mastoid is assessed with imaging before surgery.",
+    "The person's expectations, the surgery and the follow-up are discussed openly; most systems are designed mainly for adults.",
+    "Fluctuating hearing loss, Meniere's disease or a retrocochlear pathology usually rule out candidacy.",
+    "For conductive and mixed loss, the manufacturer defines separate criteria based on the attachment site and bone-conduction thresholds."
+   ]
+  },
+  {
+   "id": "arti_eksi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Advantages and limitations",
+   "baslik": "Advantages and *limitations*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Open ear canal",
+     "cumle": 0,
+     "metin": "No occlusion or irritation"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Little feedback",
+     "cumle": 1,
+     "metin": "Output is vibration, not sound"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Comfort",
+     "cumle": 3,
+     "metin": "Invisible, all-day use"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Surgery",
+     "cumle": 4,
+     "metin": "Surgical risks, high cost"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "MRI limits",
+     "cumle": 6,
+     "metin": "Vary by implant"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Permanent intervention",
+     "cumle": 7,
+     "metin": "Chain may be separated"
+    }
+   ],
+   "cumleler": [
+    "The main advantage is that the ear canal stays open; the occlusion effect and canal irritation are gone.",
+    "Because the output is vibration rather than sound, acoustic feedback is much less of a problem than with conventional aids.",
+    "Direct mechanical driving can help the signal pass with less distortion, especially at high frequencies.",
+    "Invisibility and all-day use give important comfort, especially with totally implantable systems.",
+    "On the other hand, every system requires surgery, and surgery has its own risks.",
+    "Device and surgery costs are high; totally implantable systems may need extra surgery for the battery.",
+    "Whether magnetic resonance imaging, or MRI, can be done varies by implant; for some it is conditional or restricted.",
+    "In some systems the ossicular chain is permanently separated; if the implant is removed, natural conduction may not fully return."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Advantages and limitations",
+   "baslik": "From candidacy to *follow-up*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Evaluation",
+     "cumle": 0,
+     "metin": "Audiological and surgical"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Surgery",
+     "cumle": 2,
+     "metin": "Transducer placed"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Healing",
+     "cumle": 3,
+     "metin": "A few weeks"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Activation",
+     "cumle": 4,
+     "metin": "Programming and measurement"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Follow-up",
+     "cumle": 5,
+     "metin": "Threshold and speech tests"
+    }
+   ],
+   "cumleler": [
+    "The process starts with audiological evaluation and examination by the ear, nose and throat physician.",
+    "A well-run hearing aid trial is a valuable starting point for comparison.",
+    "During surgery, the transducer is placed at the chosen site and the receiver is fixed under the skin.",
+    "Usually a few weeks are allowed for the middle ear and the wound to heal.",
+    "Then the system is activated; thresholds are measured through the device and gain is set from them.",
+    "At follow-up, benefit is assessed regularly with implant-aided sound field thresholds, speech tests and self-report scales."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Compare bone-conduction thresholds before and after surgery. This documents that residual hearing was preserved and gives a basis for programming.",
+   "cumleler": [
+    "A tip from the clinic: measure and record bone-conduction thresholds carefully before and after surgery.",
+    "This comparison documents that remaining cochlear function was preserved during surgery.",
+    "Unaided air-conduction thresholds in the ear with the transducer have been reported to change slightly; record this too.",
+    "These measurements give a reliable baseline for programming and for follow-up in the years ahead."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Signal delivered to middle ear as _vibration_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Electromagnetic or piezoelectric transducer",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Incus, stapes or round window",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Open canal; surgery and cost limit",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "An active middle ear implant delivers the amplified signal as vibration to middle ear structures, not into the ear canal.",
+    "The vibration is created by an electromagnetic or piezoelectric transducer; the system may be semi or totally implantable.",
+    "The transducer can be attached to the incus, the stapes or the round window; the choice depends on the type of loss and anatomy.",
+    "The open ear canal is an important advantage; surgery, cost and MRI restrictions are the main limitations."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "When is round window vibroplasty mostly considered?",
+   "secenekler": [
+    "Mild sensorineural loss",
+    "Mixed loss, chain unusable",
+    "Fluctuating hearing loss",
+    "Normal hearing"
+   ],
+   "dogru": 1,
+   "aciklama": "The transducer is placed at the _round window_; a way to reach the inner ear when the chain is unusable.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in which situation is round window vibroplasty mostly considered?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: mixed loss with an unusable ossicular chain.",
+    "When the transducer is placed at the round window, vibration bypasses the chain and reaches the inner ear fluids directly."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "What Is Auditory Processing *Disorder* (APD)?",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move to a new module and learn what auditory processing disorder is.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

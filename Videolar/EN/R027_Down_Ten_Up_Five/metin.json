@@ -1,0 +1,103 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R027_Down_Ten_Up_Five_EN",
+ "kapak": {
+  "ust": "QUICK FACT #27",
+  "baslik": "Down ten, *up five*",
+  "alt": "How is the air-conduction threshold found?",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How is a hearing threshold found? #shorts",
+  "aciklama": "In the modified Hughson-Westlake method, the level is lowered by 10 dB when the patient responds and raised by 5 dB when they do not. The threshold is the lowest level with a response on at least half of the ascending trials.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiometry",
+   "hearing"
+  ],
+  "etiketler": [
+   "Hughson-Westlake",
+   "pure tone audiometry",
+   "hearing threshold",
+   "audiometry",
+   "down 10 up 5",
+   "audiology",
+   "hearing test",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How is a hearing threshold found?",
+  "bilgiler": [
+   "Response: lower the level by 10 dB.",
+   "No response: raise the level by 5 dB.",
+   "Threshold: the lowest level with responses on at least half of ascending trials."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #27",
+   "metin": "How is a hearing threshold *found?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How is a hearing threshold found?"
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "zincir",
+   "baslik": "*Down ten*, up five",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Response",
+     "cumle": 0,
+     "tr": "down 10 dB"
+    },
+    {
+     "ad": "No response",
+     "cumle": 1,
+     "tr": "up 5 dB"
+    },
+    {
+     "ad": "Threshold",
+     "cumle": 2,
+     "tr": "half or more responses"
+    }
+   ],
+   "alt": "The modified _Hughson-Westlake_ method",
+   "alt_cumle": 3,
+   "cumleler": [
+    "When the patient responds, the level drops by ten decibels.",
+    "When there is no response, it rises by five decibels.",
+    "Threshold is the lowest level heard on half the ascending trials.",
+    "In practice, for example, two responses out of three at one level."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D060",
+ "kaynak_baslik": "Finding Air-Conduction Thresholds: Hughson-Westlake"
+}

@@ -1,0 +1,105 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R134_Eyes_Turn_Together_EN",
+ "kapak": {
+  "ust": "QUICK FACT #134",
+  "baslik": "Eyes turn *together*",
+  "alt": "The medial longitudinal fasciculus (MLF)",
+  "cizim": "vestibuler",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How do both eyes turn together when you turn your head? #shorts",
+  "aciklama": "When the head turns left, the left lateral semicircular canal is stimulated; the left vestibular nuclei excite the right abducens nucleus and the right eye turns right. Interneurons ascend in the medial longitudinal fasciculus (MLF) to contract the left medial rectus, so both eyes turn together, opposite to the head.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "vestibular",
+   "balance"
+  ],
+  "etiketler": [
+   "medial longitudinal fasciculus",
+   "MLF",
+   "vestibulo-ocular reflex",
+   "VOR",
+   "abducens",
+   "eye movements",
+   "vestibular system",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How do both eyes turn together when you turn your head?",
+  "bilgiler": [
+   "When the head turns left, the left lateral canal is stimulated.",
+   "The right abducens nucleus turns the right eye to the right.",
+   "Interneurons in the MLF contract the left medial rectus; both eyes turn together."
+  ],
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "balance"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #134",
+   "metin": "How do both eyes turn *together?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How do both eyes turn together when you turn your head?"
+   ]
+  },
+  {
+   "id": "mlf",
+   "tur": "zincir",
+   "baslik": "The horizontal *VOR* pathway",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Left lateral canal",
+     "tr": "head turns left",
+     "cumle": 0
+    },
+    {
+     "ad": "Right abducens",
+     "tr": "right eye goes right",
+     "cumle": 1
+    },
+    {
+     "ad": "MLF",
+     "tr": "left eye goes right",
+     "cumle": 2
+    }
+   ],
+   "alt": "The target _stays in place_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "When the head turns left, the left lateral semicircular canal is stimulated.",
+    "Left vestibular nuclei excite the right abducens, turning the right eye right.",
+    "Interneurons ascend in the medial longitudinal fasciculus, or MLF.",
+    "They contract the left medial rectus, so both eyes turn right.",
+    "Because the eyes move opposite the head, the target stays in place."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D048",
+ "kaynak_baslik": "Central Vestibular Pathways: Nuclei, Cerebellum, Eyes"
+}

@@ -1,0 +1,869 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D033_Bone_Conduction_Hearing_EN",
+ "kapak": {
+  "ust": "LESSON 33",
+  "baslik": "Hearing by<br>*bone conduction*",
+  "alt": "Three components and the occlusion effect",
+  "cizim": "diyapazon",
+  "ayar": {
+   "test": "rinne"
+  }
+ },
+ "youtube": {
+  "baslik": "How Bone-Conduction Hearing Works | Lesson 33 | AIHEAR Audiology Academy",
+  "aciklama": "How does vibration of the skull reach the cochlea? In this lesson we cover the compressional, inertial and osseotympanic components of bone conduction and why bone conduction largely reflects the cochlea directly. We also look at the Carhart notch and the clinical importance of the occlusion effect.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Tonndorf J, Bone conduction: studies in experimental animals (Acta Oto-Laryngologica, Suppl. 213, 1966); Stenfelt S and Goode RL, Bone-conducted sound: physiological and clinical aspects (Otology and Neurotology, 2005); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "boneconduction",
+   "hearing"
+  ],
+  "etiketler": [
+   "bone conduction",
+   "inertial bone conduction",
+   "compressional bone conduction",
+   "osseotympanic",
+   "occlusion effect",
+   "Carhart notch",
+   "air-bone gap",
+   "bone vibrator",
+   "hearing physiology",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 33",
+   "baslik": "Hearing by *bone conduction*",
+   "alt": "Compressional, inertial and osseotympanic components",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how sound reaches the cochlea through vibration of the skull: hearing by bone conduction.",
+    "We will see its three main components, why bone conduction largely reflects the cochlea directly, and the occlusion effect."
+   ]
+  },
+  {
+   "id": "iki_yol",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Two routes, one target",
+   "baslik": "Air conduction and *bone conduction*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "ear canal",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "tympanic membrane (eardrum)",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "metin": "ossicles",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "temporal bone: skull vibration",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "cochlea",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Air conduction: _outer and middle_ ear",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Bone conduction: _skull_ vibration",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Shared target: the _cochlea_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "genel",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 5,
+     "olcek": 2.2
+    }
+   ],
+   "cumleler": [
+    "In daily life we mostly hear sound by air conduction.",
+    "Sound travels down the ear canal, vibrates the tympanic membrane, or eardrum, and the ossicles carry the vibration to the cochlea.",
+    "When the skull vibrates, however, sound can also reach the cochlea by bone conduction.",
+    "When we hear our own voice, bone conduction is always at work; the skull carries low-pitched sounds well, so our voice sounds fuller to us.",
+    "We hear our recorded voice by air conduction alone, which is why a recording sounds strange and thinner to us.",
+    "Both routes have the same goal: to make the basilar membrane vibrate inside the cochlea."
+   ]
+  },
+  {
+   "id": "uc_bilesen",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Three components",
+   "baslik": "The *three components* of bone conduction",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Compressional",
+     "metin": "Inner ear: capsule compresses, fluid shifts",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Inertial",
+     "metin": "Ossicles and fluid lag behind",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Osseotympanic",
+     "metin": "Ear canal wall radiates sound",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Three components are classically described: compressional, inertial and osseotympanic.",
+    "The compressional component arises in the inner ear, as the cochlear capsule is squeezed and expanded.",
+    "The inertial component arises because the ossicles and cochlear fluids lag behind the motion of the skull.",
+    "The osseotympanic component is sound radiated into the ear canal by its vibrating walls.",
+    "Recent studies show that extra routes, such as pressure transmission through the cerebrospinal fluid, also make a small contribution."
+   ]
+  },
+  {
+   "id": "kompresyonel",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Three components",
+   "baslik": "The *compressional* component",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "oval window",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "round window: more compliant",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Capsule _compresses_ and expands",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Fluid _shifts_ toward the compliant window",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_More important_ at high frequencies",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "When the skull vibrates, the cochlear capsule, the bone around the cochlea, compresses and expands very slightly, again and again.",
+    "The cochlear fluids cannot be compressed, so the squeezed capsule pushes the fluid toward the windows.",
+    "The round window is more compliant than the oval window, and the fluid volume on the scala vestibuli side is larger.",
+    "This asymmetry makes the fluid shift in one direction and moves the basilar membrane.",
+    "The compressional component becomes important especially at high frequencies, when the skull vibrates in segments."
+   ]
+  },
+  {
+   "id": "ataletsel",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Three components",
+   "baslik": "The *inertial* component",
+   "cizim": "orta_kulak",
+   "etiketler": [
+    {
+     "parca": "malleus",
+     "metin": "malleus",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "metin": "incus",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "stapes",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "oval window",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "malleus",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ossicles _lag behind_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Relative_ motion of stapes and window",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Clear around _2000 Hz_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "When the skull moves back and forth as a whole, the loosely suspended ossicles do not follow the motion right away.",
+    "Because of their mass, the malleus and the incus lag behind the skull; this is called inertia.",
+    "This creates relative motion between the stapes and the oval window, and the fluid is pushed just as in air conduction.",
+    "The inertial component is clear at low and mid frequencies and matters most around two thousand hertz, due to ossicular resonance.",
+    "This detail explains the Carhart notch, which we will see shortly."
+   ]
+  },
+  {
+   "id": "osseotimpanik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Three components",
+   "baslik": "The *osseotympanic* component",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "ear canal wall",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "tympanic membrane",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Canal walls _radiate_ sound",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "In an open canal, sound _escapes_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Boosted_ when the canal is closed",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "When the skull vibrates, the walls of the ear canal, especially its outer cartilaginous part, vibrate too and radiate sound into the canal.",
+    "This sound reaches the tympanic membrane and travels to the cochlea along the normal air conduction route.",
+    "With the canal open, most of this sound, especially its low-pitched part, escapes outward, so its contribution is small.",
+    "When the canal is closed, the sound stays inside; this is where the increase we call the occlusion effect comes from.",
+    "That is also where the name comes from: osseo refers to bone, and tympanic to the eardrum."
+   ]
+  },
+  {
+   "id": "ortak_yol",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "A mirror of the cochlea",
+   "baslik": "The result: the same *traveling wave*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Air and bone conduction: the _same_ wave",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Two tones can _cancel_ each other",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Bone threshold: _cochlear_ sensitivity",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "the same traveling wave",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Whichever component starts it, bone conduction creates the same traveling wave in the cochlea as air conduction.",
+    "In a classic experiment showing this, an air-conducted tone and a bone-conducted tone of the same frequency were presented together.",
+    "When the level and phase of the two tones were set correctly, they canceled each other and the person heard nothing.",
+    "This result shows that the two routes turn into the same stimulus in the cochlea.",
+    "Because bone conduction largely bypasses the outer and middle ear, bone conduction thresholds reflect the sensitivity of the cochlea."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "A mirror of the cochlea",
+   "baslik": "The air-bone *gap*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Air conduction_: 35 to 45 dB HL",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Bone conduction_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       35,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "In this example, the right ear's air conduction thresholds are between thirty five and forty five decibels.",
+    "Bone conduction thresholds are within normal limits, which means the cochlea is working normally.",
+    "Sound is not conducted well to the cochlea by air; the difference between the two is called the air-bone gap.",
+    "Comparing air and bone conduction thresholds is the basis for telling conductive from sensorineural loss."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "A mirror of the cochlea",
+   "baslik": "Not always pure: the *Carhart notch*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Air conduction_: conductive loss",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Masked bone conduction_: dip at 2000 Hz",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       45,
+       45,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "However, bone conduction is not completely independent of the middle ear.",
+    "In this example, in an ear with a fixed stapes, the bone conduction threshold drops clearly around two thousand hertz.",
+    "Because the stapes cannot move, the inertial component is lost and the bone conduction threshold becomes artificially worse.",
+    "This dip is called the Carhart notch; it is most marked at two thousand hertz, at about fifteen decibels on average.",
+    "The notch often resolves after successful surgery, which shows that it is a mechanical effect."
+   ]
+  },
+  {
+   "id": "iki_koklea",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "A mirror of the cochlea",
+   "baslik": "Vibration reaches *both cochleae*",
+   "maddeler": [
+    {
+     "metin": "Vibrator: _mastoid_ or forehead",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Both placements have _advantages_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Interaural attenuation: _about 0 dB_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Unmasked threshold: the _better_ cochlea",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Masking_ for ear-specific thresholds",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kemik_vibratoru",
+      "metin": "bone vibrator",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "In the clinic, bone conduction is tested with a bone vibrator placed on the mastoid bone or on the forehead.",
+    "Mastoid placement gives higher output and is more common in the clinic, while forehead placement gives more repeatable results.",
+    "Skull vibration spreads in all directions, so whichever side the vibrator is on, both cochleae are stimulated at almost the same level.",
+    "Interaural attenuation for bone conduction is very small and is usually taken as zero decibels.",
+    "So the unmasked bone conduction threshold reflects the better-hearing cochlea, whichever side the vibrator is on.",
+    "An ear-specific bone conduction threshold often requires masking the opposite ear."
+   ]
+  },
+  {
+   "id": "okluzyon",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "The occlusion effect",
+   "baslik": "The *occlusion* effect",
+   "cizim": "diyapazon",
+   "ayar": {
+    "test": "bing"
+   },
+   "vurgula": [
+    {
+     "parca": "mastoid",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "A closed canal boosts _low_ sounds",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_Negligible_ at 2000 Hz and above",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Absent_ or small in conductive loss",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "mastoid",
+     "metin": "mastoid",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak",
+     "metin": "closed ear canal",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Press the stem of a tuning fork on your mastoid, listen, then close your ear canal with a finger: the sound suddenly gets louder.",
+    "This louder perception of low-pitched bone-conducted sound when the ear canal is closed is called the occlusion effect.",
+    "Low-frequency energy radiated into the canal by the osseotympanic component can no longer escape and is directed to the eardrum.",
+    "The effect is clear between two hundred fifty and one thousand hertz and negligible at two thousand hertz and above.",
+    "In an ear with conductive loss, the effect is usually absent or very small, because sound transmission from the canal is already impaired.",
+    "The Bing test is a simple tuning fork test of this effect."
+   ]
+  },
+  {
+   "id": "okluzyon_buyukluk",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "The occlusion effect",
+   "baslik": "*Size* of the occlusion effect",
+   "sutunlar": [
+    "Frequency",
+    "Supra-aural earphone",
+    "Deep insert"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "About 30 dB",
+      "About 10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "About 20 dB",
+      "About 0 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "About 10 dB",
+      "About 0 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz and above",
+      "About 0 dB",
+      "About 0 dB"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The size of the occlusion effect depends on the type of earphone closing the ear and how deeply it is inserted.",
+    "With a supra-aural earphone, the increase at two hundred fifty hertz can reach about thirty decibels on average.",
+    "The effect shrinks as frequency rises: about twenty decibels at five hundred hertz and about ten at one thousand hertz.",
+    "A deep insert earphone clearly reduces the effect, as it leaves the sound-radiating cartilaginous part outside the closed space.",
+    "Because the values vary between people, some clinics use average values, while others measure the effect with the ear open and closed."
+   ]
+  },
+  {
+   "id": "okluzyon_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "The occlusion effect",
+   "baslik": "The occlusion effect *in the clinic*",
+   "maddeler": [
+    {
+     "metin": "A _correction_ is added in masking",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Conductive loss in non-test ear: _not added_",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_Own voice_ complaints with hearing aids",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reduced with a _vent_, open fitting",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "ITE"
+    },
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "In bone conduction masking, the non-test ear is covered by an earphone, so an occlusion effect arises in that ear.",
+    "So at low frequencies, a correction equal to the occlusion effect is added to the starting level of the masking noise.",
+    "If the non-test ear has a conductive loss, the effect does not arise, so this correction is not added.",
+    "With hearing aids, earmolds that close the ear canal can make people hear their own voice as muffled and booming.",
+    "This complaint is reduced with a ventilation channel drilled in the earmold, a vent, or with an open fitting."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "The occlusion effect",
+   "baslik": "Clinical tip",
+   "metin": "In bone conduction testing, keep the test ear's canal open. If the headband or the pinna closes the canal, low-frequency thresholds may falsely improve.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from practice: in bone conduction testing, the canal of the test ear must stay open.",
+    "If the headband or a folded pinna closes the canal, an occlusion effect arises and low-frequency thresholds may falsely improve.",
+    "This can create the appearance of an air-bone gap that is not really there.",
+    "Place the vibrator so that it does not touch the pinna, and check that the ear canal is open."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Same target: _basilar membrane_ motion",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Components: _compressional_, inertial, osseotympanic",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Bone conduction largely reflects the _cochlea_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Closed ear: the _occlusion_ effect",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Like air conduction, bone conduction creates the same traveling wave in the cochlea.",
+    "The three classic components of bone conduction are compressional, inertial and osseotympanic.",
+    "Bone conduction thresholds largely reflect cochlear sensitivity; the Carhart notch is the exception.",
+    "When the ear canal is closed, bone-conducted sound gets louder at low frequencies; this is the occlusion effect."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "At which frequencies is the occlusion effect largest?",
+   "secenekler": [
+    "250 to 1000 Hz",
+    "Around 2000 Hz",
+    "4000 to 8000 Hz",
+    "Equal at all frequencies"
+   ],
+   "dogru": 0,
+   "aciklama": "A closed ear canal boosts bone-conducted sound _at low frequencies_; at 2000 Hz and above the effect is negligible.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: At which frequencies is the occlusion effect seen the most?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: between two hundred fifty and one thousand hertz.",
+    "When the ear canal is closed, low-pitched sounds cannot escape; at two thousand hertz and above the effect is negligible."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Genetics *Basics*: Genes, Alleles, Inheritance Patterns",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move on to genetics and learn about genes, alleles and patterns of inheritance.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

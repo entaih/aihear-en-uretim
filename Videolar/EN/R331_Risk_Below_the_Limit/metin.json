@@ -1,0 +1,132 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R331_Risk_Below_the_Limit_EN",
+ "kapak": {
+  "ust": "QUICK FACT #331",
+  "baslik": "Risk *below the limit*",
+  "alt": "The NIOSH risk estimate",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does staying below the noise limit eliminate the risk? #shorts",
+  "aciklama": "No limit value brings risk to zero; it only lowers it to an acceptable level. According to the 1998 NIOSH criteria document, over a 40-year working life the excess risk of hearing loss is about 8 percent even at 85 dB(A), and about 25 percent at 90 dB(A).",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "noise",
+   "occupationalhealth"
+  ],
+  "etiketler": [
+   "NIOSH",
+   "noise exposure",
+   "exposure limit",
+   "noise-induced hearing loss",
+   "audiometric monitoring",
+   "occupational health",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does staying below the noise limit eliminate the risk?",
+  "bilgiler": [
+   "No limit value brings risk to zero.",
+   "NIOSH: over 40 years, excess risk at 85 dB(A) is about 8 percent.",
+   "At 90 dB(A), it rises to about 25 percent."
+  ],
+  "hashtag": [
+   "audiology",
+   "noise",
+   "occupationalhealth"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #331",
+   "metin": "Zero *risk?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does staying below the noise limit eliminate the risk?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Excess risk *over 40 years*",
+   "sayi": "8",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "No limit value brings risk to zero, only to an acceptable level.",
+    "NIOSH, a US research agency, estimated risk over a 40-year working life.",
+    "Even at 85 decibels A, the excess risk is about 8 percent.",
+    "At 90 decibels A, it rises to about 25 percent.",
+    "So monitoring and training matter even below the action values."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D222",
+ "kaynak_baslik": "Noise Exposure Limits: 80, 85 and 87 dB(A)"
+}

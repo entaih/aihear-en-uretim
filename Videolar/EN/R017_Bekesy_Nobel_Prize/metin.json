@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R017_Bekesy_Nobel_Prize_EN",
+ "kapak": {
+  "ust": "QUICK FACT #17",
+  "baslik": "A *Nobel-winning* wave",
+  "alt": "Bekesy and the traveling wave",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Which ear discovery won a Nobel Prize? #shorts",
+  "aciklama": "Georg von Bekesy observed that the basilar membrane vibrates with a traveling wave that moves from the base toward the apex. For his work on cochlear mechanics, he received the 1961 Nobel Prize in Physiology or Medicine.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "cochlea",
+   "science"
+  ],
+  "etiketler": [
+   "Bekesy",
+   "traveling wave",
+   "Nobel Prize",
+   "basilar membrane",
+   "cochlea",
+   "cochlear mechanics",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Which ear discovery won a Nobel Prize?",
+  "bilgiler": [
+   "Bekesy watched basilar membrane motion in cadaver cochleae.",
+   "He saw a wave moving from base to apex: the traveling wave.",
+   "His work on cochlear mechanics won the 1961 Nobel Prize."
+  ],
+  "hashtag": [
+   "audiology",
+   "cochlea",
+   "science"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #17",
+   "metin": "Which ear discovery won *a Nobel Prize?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Which ear discovery won a Nobel Prize?"
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "zincir",
+   "baslik": "The *traveling wave*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Base",
+     "cumle": 1,
+     "tr": "wave begins"
+    },
+    {
+     "ad": "Peak",
+     "cumle": 2,
+     "tr": "largest amplitude"
+    },
+    {
+     "ad": "Fades",
+     "cumle": 2,
+     "gecikme": 1.2,
+     "tr": "drops off quickly"
+    }
+   ],
+   "alt": "Georg von Bekesy, _1961 Nobel_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Bekesy watched the basilar membrane in cadaver cochleae.",
+    "He saw a traveling wave moving from the base toward the apex.",
+    "The wave grows, peaks at a certain place, then fades.",
+    {
+     "yazi": "His work on cochlear mechanics won the 1961 Nobel Prize.",
+     "ses": "His work on cochlear mechanics won the nineteen sixty one Nobel Prize."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D030",
+ "kaynak_baslik": "The Basilar Membrane and the Traveling Wave"
+}

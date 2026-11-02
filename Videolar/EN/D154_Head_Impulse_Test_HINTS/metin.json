@@ -1,0 +1,1048 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D154_Head_Impulse_Test_HINTS_EN",
+ "kapak": {
+  "ust": "LESSON 154",
+  "baslik": "Head impulse<br>and *HINTS*",
+  "alt": "Central or peripheral?",
+  "cizim": "nistagmus_izi"
+ },
+ "youtube": {
+  "baslik": "Head Impulse Test and the HINTS Exam | Lesson 154 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson covers the bedside head impulse test, what a corrective saccade means, and the HINTS exam, which helps separate central from peripheral causes in the acute vestibular syndrome. We go through the head impulse, nystagmus and test of skew components, the HINTS plus approach, the evidence and the limitations.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Halmagyi and Curthoys, A Clinical Sign of Canal Paresis, Archives of Neurology (1988); Kattah et al., HINTS to Diagnose Stroke in the Acute Vestibular Syndrome, Stroke (2009); Newman-Toker et al., HINTS Outperforms ABCD2 to Screen for Stroke in Acute Continuous Vertigo and Dizziness, Academic Emergency Medicine (2013); Jacobson and Shepard, Balance Function Assessment and Management.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "HINTS",
+   "vestibular"
+  ],
+  "etiketler": [
+   "head impulse test",
+   "HINTS exam",
+   "corrective saccade",
+   "test of skew",
+   "skew deviation",
+   "acute vestibular syndrome",
+   "vestibular neuritis",
+   "stroke",
+   "nystagmus",
+   "vestibular assessment",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 154",
+   "baslik": "The head impulse test and *HINTS*",
+   "alt": "Central or peripheral in acute dizziness",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the bedside head impulse test and what a corrective saccade tells us.",
+    "Then we will cover the HINTS exam, which helps separate central from peripheral causes: head impulse, nystagmus and test of skew."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The head impulse test",
+   "baslik": "Do the eyes *keep up* with the head?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 400,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 260,
+     "adim": 50,
+     "ad": "Velocity (degrees/s)"
+    },
+    "seriler": [
+     {
+      "ad": "bas",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        40,
+        60
+       ],
+       [
+        80,
+        180
+       ],
+       [
+        110,
+        220
+       ],
+       [
+        140,
+        170
+       ],
+       [
+        180,
+        60
+       ],
+       [
+        220,
+        5
+       ],
+       [
+        260,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "head",
+      "cumle": 1
+     },
+     {
+      "ad": "saglam",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        55
+       ],
+       [
+        85,
+        172
+       ],
+       [
+        115,
+        210
+       ],
+       [
+        145,
+        160
+       ],
+       [
+        185,
+        55
+       ],
+       [
+        225,
+        4
+       ],
+       [
+        265,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "eye: intact",
+      "cumle": 2
+     },
+     {
+      "ad": "zayif",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        25
+       ],
+       [
+        85,
+        60
+       ],
+       [
+        115,
+        75
+       ],
+       [
+        145,
+        60
+       ],
+       [
+        185,
+        25
+       ],
+       [
+        215,
+        10
+       ],
+       [
+        235,
+        150
+       ],
+       [
+        255,
+        200
+       ],
+       [
+        275,
+        120
+       ],
+       [
+        300,
+        10
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "eye: weak",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sakkad_bolgesi",
+      "x": [
+       215,
+       300
+      ],
+      "renk": "sari",
+      "etiket": "corrective saccade",
+      "cumle": 4
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "sakkad_bolgesi",
+     "metin": "Corrective saccade",
+     "cumle": 4,
+     "yer": "ust"
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Gain = eye velocity / _head velocity_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Weak VOR: a _saccade_ is needed",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "The head impulse test is a bedside test that examines each side of the vestibulo-ocular reflex, or VOR, separately.",
+    "In the graph, the navy line shows head velocity during a fast head impulse.",
+    "With an intact VOR, the eyes turn at almost the head's speed in the opposite direction; the blue dashed line follows the head curve.",
+    "On the weak side, eye velocity lags far behind the head, and gaze slips off the target.",
+    "The patient makes a fast eye movement to regain the target; this is called a corrective saccade.",
+    "The video head impulse test measures these curves; at the bedside, we only watch the eyes with the naked eye."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The head impulse test",
+   "baslik": "*How* is the test done?",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Preparation",
+     "metin": "Ask about the neck",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Target",
+     "metin": "Looks at your nose",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Impulse",
+     "metin": "Small, fast, unpredictable",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Observation",
+     "metin": "Is there a saccade?",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Record",
+     "metin": "Side and finding",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Before starting, ask whether the patient has neck pain, previous neck surgery or a problem with the neck vessels.",
+    "The patient looks at the nose of the examiner sitting opposite and keeps gaze on this target.",
+    "The head is held with both hands and turned very quickly to one side through a small angle of about ten to twenty degrees.",
+    "The direction and timing of the impulse are varied so the patient cannot predict them; a predicted impulse spoils the result.",
+    "As soon as the impulse ends, the examiner watches the eyes for a saccade back to the target.",
+    "Several impulses are made in each direction, and the finding is recorded together with the impulse direction in which the saccade appeared."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The head impulse test",
+   "baslik": "What do we *see?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "No saccade",
+     "metin": "Eyes stay on target: the VOR works on that side.",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Overt saccade",
+     "metin": "A refixation after the impulse: that side is weak.",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Covert saccade",
+     "metin": "During the impulse; invisible to the naked eye.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "At the bedside, we meet three possible findings.",
+    "If the eyes stay on the target throughout the head impulse, the VOR in that direction is working adequately.",
+    "If the eyes jump back to the target after the head stops, this is an overt saccade.",
+    "The weak side is the side toward which the head was turned; for example, a saccade on rightward impulses means the right VOR is weak.",
+    "Some saccades, however, appear while the head is still moving; these are called covert saccades.",
+    "Because covert saccades cannot be seen with the naked eye, the bedside test may miss partial or compensated losses."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The head impulse test",
+   "baslik": "Tips for *correct* technique",
+   "maddeler": [
+    {
+     "metin": "Neck problems: decide _with a physician_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Gaze on target, _without blinking_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Slow impulse: _falsely normal_ result",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Low _sensitivity_ in mild loss",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Findings can be confirmed _on video_",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Make the impulse fast and small; a slow impulse can make a weak side look normal.",
+    "cumle": 2
+   },
+   "cumleler": [
+    "In patients with serious neck problems, the test is done only after a joint decision with a physician, and with great care.",
+    "The patient must not blink and must keep gaze on the target for the saccade to be interpreted correctly.",
+    "If the impulse is not fast enough, the visual pursuit system takes over and a weak side may look normal.",
+    "The bedside test is reliable in marked losses, but its sensitivity is low in mild or compensated losses.",
+    "Doubtful findings can be confirmed with the video head impulse test, or vHIT, which also shows covert saccades."
+   ]
+  },
+  {
+   "id": "avs",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Acute vestibular syndrome",
+   "baslik": "The acute vestibular *syndrome*",
+   "maddeler": [
+    {
+     "metin": "_Sudden_, continuous dizziness",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Lasts for days",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Nausea, vomiting, _head motion_ intolerance",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Nystagmus and _gait_ unsteadiness",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Most common cause: _vestibular neuritis_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Peripheral",
+      "metin": "Most: neuritis",
+      "cumle": 4
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "Central",
+      "metin": "Rare but urgent: stroke",
+      "cumle": 5
+     }
+    ],
+    "ust": "TWO POSSIBILITIES"
+   },
+   "cumleler": [
+    "The acute vestibular syndrome is severe dizziness that begins suddenly and continues without a break.",
+    "The symptoms are not limited to hours; they usually last for days.",
+    "The patient has nausea, vomiting and complaints that worsen with head movement.",
+    "Examination often shows spontaneous nystagmus and unsteadiness when walking.",
+    "The most common cause of this picture is a peripheral problem such as vestibular neuritis.",
+    "However, the same picture can also be caused by a stroke affecting the brainstem or the cerebellum."
+   ]
+  },
+  {
+   "id": "inme",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Acute vestibular syndrome",
+   "baslik": "A hidden *danger*: stroke",
+   "maddeler": [
+    {
+     "metin": "Cerebellar and brainstem _stroke_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Obvious neurological signs _may be absent_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Early _MRI_ may miss a stroke",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "The bedside exam _guides us_",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_sapi_vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "beyincik",
+      "metin": "Cerebellum",
+      "cumle": 0
+     },
+     {
+      "parca": "medulla",
+      "metin": "Brainstem",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "beyincik",
+      "cumle": 0
+     },
+     {
+      "parca": "pons",
+      "cumle": 3
+     },
+     {
+      "parca": "medulla",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "A stroke in the posterior circulation, especially in the cerebellum, can mimic vestibular neuritis very closely."
+    },
+    "Some of these patients have no obvious neurological signs such as slurred speech, weakness or double vision.",
+    "So it is not always possible to make the distinction from the general neurological examination alone.",
+    {
+     "yazi": "Diffusion-weighted MRI taken in the first hours and days may fail to show some small brainstem strokes."
+    },
+    "CT is even more limited in showing small strokes in the posterior fossa.",
+    "This is where a bedside examination based on eye movements becomes a valuable guide."
+   ]
+  },
+  {
+   "id": "hints",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "HINTS components",
+   "baslik": "*HINTS* has three steps",
+   "adimlar": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Head impulse",
+     "metin": "Is the VOR intact?",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nystagmus",
+     "metin": "Does it change direction?",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Test of skew",
+     "metin": "Is there vertical refixation?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "HINTS is a three-step eye examination made up of the head impulse, nystagmus and test of skew.",
+    "In the first step, the head impulse test checks whether the VOR is working on that side.",
+    "In the second step, we look at whether the nystagmus changes with the direction of gaze.",
+    "In the third step, eye covering is used to look for vertical misalignment of the eyes, that is, skew deviation.",
+    "The examination takes a few minutes and needs no special equipment, but it does require experience."
+   ]
+  },
+  {
+   "id": "bilesen1",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "HINTS components",
+   "baslik": "Head impulse: *reversed* logic",
+   "cizim": "beyin_sapi_vestibuler",
+   "etiketler": [
+    {
+     "parca": "labirent",
+     "metin": "Labyrinth",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Vestibular nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "metin": "Cerebellum",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "labirent",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Abnormal impulse: fits _peripheral_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Normal impulse: _central_ suspicion",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Within HINTS, the interpretation of the head impulse test can seem reversed at first glance.",
+    "In vestibular neuritis the problem lies in the labyrinth or vestibular nerve, so impulses toward that side cause a corrective saccade.",
+    "So in the acute vestibular syndrome, an abnormal head impulse test fits a peripheral cause.",
+    "In most cerebellar or brainstem strokes, however, the labyrinth and nerve are intact and the VOR pathway is preserved.",
+    "So in a patient with continuous dizziness and nystagmus, a normal head impulse test suggests a central cause.",
+    "In this setting, a normal test is not reassuring; on the contrary, it is a finding that calls for attention."
+   ]
+  },
+  {
+   "id": "bilesen2",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "HINTS components",
+   "baslik": "Nystagmus: does the *direction* change?",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "tur": "sicramali",
+    "yavas_cumle": 1,
+    "hizli_cumle": 1,
+    "baslik": "Right-beating nystagmus"
+   },
+   "etiketler": [
+    {
+     "parca": "hizli_faz",
+     "metin": "Fast phase: toward the healthy side",
+     "cumle": 1
+    },
+    {
+     "parca": "yavas_faz",
+     "metin": "Slow phase",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Unidirectional: fits _peripheral_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Direction-changing: a _central_ sign",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Pure vertical or torsional: _central_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "In the second step, nystagmus is observed while the patient looks straight ahead, then to the right and to the left.",
+    "Peripheral nystagmus is unidirectional; it is horizontal and torsional and usually beats toward the healthy ear.",
+    "It increases when looking toward the fast phase and decreases when looking the other way; this is Alexander's law.",
+    "Nystagmus that beats right on right gaze and left on left gaze, however, is direction-changing gaze-evoked nystagmus.",
+    "Direction-changing gaze-evoked nystagmus, or purely vertical or purely torsional nystagmus, suggests a central cause.",
+    "However, in some central lesions the nystagmus can also be unidirectional, so this sign alone is not enough."
+   ]
+  },
+  {
+   "id": "bilesen3",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "HINTS components",
+   "baslik": "The test of *skew*",
+   "maddeler": [
+    {
+     "metin": "Patient looks at the examiner's _nose_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Eyes covered and uncovered _in turn_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Look for _vertical_ refixation",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Vertical misalignment: _skew deviation_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Rare_ in peripheral loss",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "goz_kapatma",
+    "cumle": 0,
+    "ayar": {
+     "sapma": true,
+     "kapat_cumle": 1,
+     "duzeltme_cumle": 3
+    }
+   },
+   "cumleler": [
+    "The test of skew is done with the alternate cover test.",
+    "While the patient looks straight ahead, the examiner covers one eye with a hand, then quickly covers the other eye.",
+    "The examiner watches whether the uncovered eye makes an upward or downward correction to regain the target.",
+    "A vertical correction shows that the vertical alignment of the two eyes is disturbed, that is, a skew deviation.",
+    "Skew deviation arises when the brainstem pathway carrying gravity information from the otolith organs is disrupted.",
+    "Because it is rare in peripheral losses, its presence in the acute vestibular syndrome suggests a central cause."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "HINTS components",
+   "baslik": "Peripheral and *central* patterns",
+   "sutunlar": [
+    "Component",
+    "Peripheral pattern",
+    "Central pattern"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Head impulse",
+      "Abnormal, saccade present",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Nystagmus",
+      "Unidirectional",
+      "Direction-changing"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Test of skew",
+      "No vertical refixation",
+      "Vertical refixation present"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "New hearing loss",
+      "Absent",
+      "Present: caution"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Now let us put the three components together.",
+    "In the peripheral pattern the head impulse test is abnormal; in the central pattern it is normal.",
+    "Peripheral nystagmus is unidirectional; in the central pattern it may change direction with gaze.",
+    "There is no skew deviation in the peripheral pattern; its presence is a central sign.",
+    "All three components must fit the peripheral pattern; even a single central finding suggests a central cause.",
+    "The last row added to the table is new-onset hearing loss; we will explain it shortly."
+   ]
+  },
+  {
+   "id": "hints_arti",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "HINTS in the clinic",
+   "baslik": "*HINTS plus*: hearing",
+   "maddeler": [
+    {
+     "metin": "Acute vertigo with _new_ hearing loss",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Labyrinthine artery: arises from _AICA_",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Head impulse may look _falsely peripheral_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Add a bedside _hearing_ check",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ic_kulak_yolu_dibi",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "labirent_arteri",
+      "metin": "Labyrinthine artery",
+      "cumle": 1
+     },
+     {
+      "parca": "koklear_sinir",
+      "metin": "Cochlear nerve",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "labirent_arteri",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "New-onset hearing loss together with acute dizziness is a fourth component added to HINTS.",
+    "The labyrinthine artery of the inner ear usually arises from the anterior inferior cerebellar artery, or AICA.",
+    "A stroke affecting this vessel can also involve the labyrinth, so the head impulse test may be abnormal, as in a peripheral loss.",
+    "So a simple bedside hearing check, such as finger rubbing, is added; this approach is called HINTS plus.",
+    "New hearing loss together with the acute vestibular syndrome also calls for urgent assessment because of the possibility of stroke."
+   ]
+  },
+  {
+   "id": "kanit",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "HINTS in the clinic",
+   "baslik": "What does the *evidence* say?",
+   "maddeler": [
+    {
+     "metin": "Kattah et al. 2009: _101_ patients",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "HINTS sensitivity: _100 percent_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Specificity: about _96 percent_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Initial MRI missed _8 strokes_",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "_Lower_ accuracy in non-expert hands",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CAUTION",
+    "metin": "HINTS needs *training and experience*",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "The key study showing the value of HINTS is the one by Kattah and colleagues in 2009, with one hundred one patients.",
+     "ses": "The key study showing the value of HINTS is the one by Kattah and colleagues in two thousand nine, with one hundred one patients."
+    },
+    "In this study, HINTS identified strokes with one hundred percent sensitivity and about ninety six percent specificity.",
+    "In the same patients, the initial diffusion MRI did not show eight strokes that were confirmed later.",
+    "However, the study was done in patients at high stroke risk, with the examination performed by an experienced neuro-ophthalmologist.",
+    "Later studies showed that accuracy can drop markedly when the examination is done by people without adequate training."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "HINTS in the clinic",
+   "baslik": "When is HINTS *not used?*",
+   "ogeler": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Continuous picture",
+     "metin": "Only in acute, continuous dizziness",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nystagmus required",
+     "metin": "Without nystagmus, interpretation is harder",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Attacks and position",
+     "metin": "Not suitable for BPPV or attacks",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Not a diagnosis",
+     "metin": "Does not replace a physician's examination",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "HINTS is not a test to be applied to every patient with dizziness.",
+    "It is meaningful only in patients whose dizziness began acutely, is continuous and is still present during the examination.",
+    "Spontaneous nystagmus must be present during the examination; without nystagmus, the head impulse result can be misleading.",
+    "HINTS is not used for brief attacks when turning in bed or for episodes that come and go; here, positional tests and the history come first.",
+    "Gait examination also matters; a patient who cannot stand even with help needs urgent assessment, whatever the HINTS result.",
+    "HINTS is not a diagnostic tool but a bedside examination that supports the decision on urgent referral."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "HINTS in the clinic",
+   "baslik": "The audiologist's *role*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Observe",
+     "metin": "Nystagmus and saccades",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Record",
+     "metin": "With video goggles",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Warning sign",
+     "metin": "Recognize central signs",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Refer",
+     "metin": "To a physician promptly",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The audiologist's task in this process is not to make a diagnosis but to observe accurately and refer at the right time.",
+    "In a patient with acute dizziness, the direction of nystagmus, its change with gaze and the head impulse finding are carefully observed.",
+    "If possible, eye movements are recorded with video goggles; the recording makes the physician's assessment easier.",
+    "If even one finding suggests a central pattern, the planned test battery is put on hold.",
+    "The patient is referred without delay for urgent medical assessment, with a short, clear summary of the findings."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In the acute vestibular syndrome, a normal head impulse test is not reassuring. If even one central sign is present, refer the patient to a physician promptly.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: in a patient with acute, continuous dizziness, do not read a normal head impulse test as good news.",
+    "In this setting, a normal head impulse is a finding that brings a central cause to mind.",
+    "Even one of direction-changing nystagmus, skew deviation or new hearing loss is enough for urgent referral.",
+    "Record the findings together with the time of onset; timing is critical information for the emergency team."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Corrective saccade: _weak VOR_ on that side",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "HINTS: head impulse, nystagmus, _skew_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Normal head impulse: _central_ suspicion",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Only in _acute, continuous_ dizziness",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "In the head impulse test, a corrective saccade shows that the VOR is weak on the side of the impulse.",
+    "HINTS consists of the head impulse, nystagmus and test of skew; HINTS plus also asks about new hearing loss.",
+    "A normal head impulse, direction-changing nystagmus or skew deviation suggests a central cause.",
+    "HINTS is meaningful only in patients with acute, continuous dizziness and nystagmus, and it requires training."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which finding suggests a central cause in the acute vestibular syndrome?",
+   "secenekler": [
+    "Corrective saccade on rightward impulses",
+    "Unidirectional horizontal nystagmus",
+    "Normal head impulse test"
+   ],
+   "dogru": 2,
+   "aciklama": "In the acute vestibular syndrome, a _normal head impulse_ test means the VOR pathway is preserved and suggests a central cause.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a patient with acute, continuous dizziness, which finding suggests a central cause?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: a normal head impulse test.",
+    "In a peripheral loss the head impulse is abnormal; in most strokes the VOR pathway stays intact, so the test is normal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Positional Tests: *Dix-Hallpike* and Supine Roll",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn the positional tests, namely the Dix-Hallpike maneuver and the supine roll test.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

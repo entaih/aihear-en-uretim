@@ -1,0 +1,817 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D162_Rotary_Chair_Posturography_EN",
+ "kapak": {
+  "ust": "LESSON 162",
+  "baslik": "Chair and<br>*posturography*",
+  "alt": "Rotary chair and SOT",
+  "cizim": "denge_durus"
+ },
+ "youtube": {
+  "baslik": "Rotary Chair and Computerized Posturography | Lesson 162 | AIHEAR Audiology Academy",
+  "aciklama": "What do the rotary chair and computerized dynamic posturography measure? In this lesson we cover the sinusoidal harmonic acceleration test, gain, phase and symmetry, its value in bilateral vestibular loss, the six conditions of the sensory organization test, the equilibrium score and the sensory analysis ratios.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jacobson and Shepard, Balance Function Assessment and Management; Strupp et al., Bilateral vestibulopathy: Diagnostic criteria (Journal of Vestibular Research, 2017) and corrigendum (2023); Nashner, Computerized dynamic posturography; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "balance"
+  ],
+  "etiketler": [
+   "rotary chair",
+   "rotational chair",
+   "sinusoidal harmonic acceleration",
+   "VOR gain",
+   "phase lead",
+   "computerized dynamic posturography",
+   "sensory organization test",
+   "SOT",
+   "equilibrium score",
+   "bilateral vestibulopathy",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 162",
+   "baslik": "Chair and *posturography*",
+   "alt": "The SHA test and the sensory organization test",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn two advanced tests in the vestibular battery: the rotary chair and computerized dynamic posturography.",
+    "We will cover the sinusoidal harmonic acceleration test, gain, phase and symmetry, and the six sensory organization test conditions."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The rotary chair",
+   "baslik": "The chair stimulates *both canals* together",
+   "cizim": "kanal_duzlemleri",
+   "ayar": {
+    "goster": [
+     "lateral"
+    ],
+    "cift_cumleleri": {
+     "lateral": 2
+    },
+    "donus": 45,
+    "donus_cumle": 3
+   },
+   "vurgula": [
+    {
+     "parca": "lateral_cift",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "A rotary chair is a motorized, computer-controlled chair that rotates the person around a vertical axis.",
+    "The person sits in darkness, and eye movements are recorded with video goggles; the head is fixed to the chair.",
+    "With the head tilted slightly forward, the two lateral canals come roughly into the plane of rotation.",
+    "When the chair turns one way, the lateral canal on one side is excited and the one on the other side is inhibited.",
+    "So unlike the caloric test, the chair stimulates both labyrinths at the same time and together.",
+    "This is both the test's greatest strength and its most important limitation; we will look at both shortly."
+   ]
+  },
+  {
+   "id": "sha",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The rotary chair",
+   "baslik": "Sinusoidal harmonic *acceleration*",
+   "adimlar": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Oscillation",
+     "metin": "Sinusoidal rotation, left and right",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Frequencies",
+     "metin": "0.01 to 0.64 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Velocity",
+     "metin": "Peak about 50°/s",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Recording",
+     "metin": "Eye velocity in darkness",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Alertness",
+     "metin": "Mental tasks",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The most common protocol is the sinusoidal harmonic acceleration test, or SHA.",
+    "The chair swings like a pendulum; most protocols use seven frequencies from zero point zero one to zero point six four hertz.",
+    "At the slowest frequency, one full cycle takes one hundred seconds; at the fastest, about one and a half seconds.",
+    "In most protocols, the chair's peak velocity is about fifty or sixty degrees per second.",
+    "At each frequency, slow phase eye velocity is compared with chair velocity.",
+    "To keep the vestibulo-ocular reflex, or VOR, from fading in darkness, the person stays alert with mental tasks such as counting."
+   ]
+  },
+  {
+   "id": "olcu",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Gain, phase, symmetry",
+   "baslik": "Three measures: *gain, phase, symmetry*",
+   "cizim": "faz_egrileri",
+   "ayar": {
+    "faz": 30,
+    "kazanc": 0.6,
+    "bas_cumle": 1,
+    "goz_cumle": 1,
+    "faz_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "faz_farki",
+     "metin": "phase lead",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "We calculate the two measures from the vestibulo-ocular reflex lesson here, separately at each frequency.",
+    "Gain is the ratio of slow phase eye velocity to chair velocity; it shows how well the eyes compensate for head movement.",
+    "Phase is the timing relation between the eye response and chair movement; at low frequencies the eyes lead, which is called phase lead.",
+    "In peripheral vestibular disorders, phase lead is greater than normal, especially at low frequencies.",
+    "Symmetry compares the eye responses produced by rotations to the right and to the left.",
+    "Asymmetry shows the response is stronger in one direction, but it does not always reliably tell which ear is affected.",
+    "Because both labyrinths are stimulated together, an acute loss and a compensated loss can give asymmetry in different directions."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Gain, phase, symmetry",
+   "baslik": "Example: *bilateral* loss",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.008,
+     "max": 0.8,
+     "log": true,
+     "ad": "Rotation frequency (Hz)",
+     "isaretler": [
+      0.01,
+      0.02,
+      0.04,
+      0.08,
+      0.16,
+      0.32,
+      0.64
+     ],
+     "yazilar": {
+      "0.01": "0.01",
+      "0.02": "0.02",
+      "0.04": "0.04",
+      "0.08": "0.08",
+      "0.16": "0.16",
+      "0.32": "0.32",
+      "0.64": "0.64"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.0,
+     "adim": 0.2,
+     "ad": "VOR gain",
+     "ond": 1
+    },
+    "bolgeler": [
+     {
+      "ad": "normal_bolge",
+      "y": [
+       0.35,
+       0.8
+      ],
+      "renk": "yesil",
+      "etiket": "sample normal range",
+      "cumle": 1
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0.01,
+        0.45
+       ],
+       [
+        0.02,
+        0.5
+       ],
+       [
+        0.04,
+        0.55
+       ],
+       [
+        0.08,
+        0.58
+       ],
+       [
+        0.16,
+        0.6
+       ],
+       [
+        0.32,
+        0.6
+       ],
+       [
+        0.64,
+        0.6
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "normal example",
+      "cumle": 2
+     },
+     {
+      "ad": "iki_tarafli",
+      "noktalar": [
+       [
+        0.01,
+        0.02
+       ],
+       [
+        0.02,
+        0.03
+       ],
+       [
+        0.04,
+        0.04
+       ],
+       [
+        0.08,
+        0.06
+       ],
+       [
+        0.16,
+        0.07
+       ],
+       [
+        0.32,
+        0.09
+       ],
+       [
+        0.64,
+        0.12
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "bilateral loss example",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "barany",
+      "x": 0.1,
+      "y": 0.1,
+      "etiket": "0.1 at 0.1 Hz",
+      "dus": "xy",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Norms are lab-specific",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Low gain at every frequency",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Measures remaining function",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "This graph is a schematic example of VOR gain as a function of frequency.",
+    "The green band shows a sample normal range; real norms are set by each lab, by device, protocol and age.",
+    "The blue line shows a normal person; gain is slightly lower at low frequencies and higher at mid frequencies.",
+    "In the red line, gain is very low at all frequencies; this pattern is consistent with bilateral vestibular loss.",
+    "In a patient with no caloric response on either side, the chair shows whether any function remains, and how much.",
+    "One Bárány criterion for bilateral vestibulopathy is a gain of zero point one or less at zero point one hertz, with increased phase lead.",
+    "Monitoring remaining function shows change over time, especially in people taking ototoxic drugs."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Gain, phase, symmetry",
+   "baslik": "*Other* tests in the chair",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Velocity step",
+     "metin": "Sudden start and stop",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Visual VOR",
+     "metin": "Rotation in light",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Fixation suppression",
+     "metin": "Rotation while viewing a target",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the velocity step test, the chair quickly reaches a constant speed, rotates for a while, and then stops suddenly.",
+    "The time it takes for the nystagmus after the start and after the stop to fade is measured; this is called the time constant.",
+    "In peripheral loss, the time constant shortens; comparing rotations to the right and left gives information about asymmetry.",
+    "In the visual VOR test, rotation is done in light; vision and the vestibular system work together, and gain normally nears one.",
+    "In the fixation suppression test, the person looks at a light that rotates with the chair; a healthy cerebellum clearly suppresses the VOR.",
+    "Impaired suppression may suggest a central problem involving the cerebellum."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Gain, phase, symmetry",
+   "baslik": "*Where* is the chair valuable?",
+   "maddeler": [
+    {
+     "metin": "Confirming bilateral loss",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Monitoring remaining function",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Young children: on a parent's lap",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Tracking compensation",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Limited for showing the side",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kanal_duzlemleri",
+    "cumle": 0,
+    "ayar": {
+     "goster": [
+      "lateral"
+     ]
+    }
+   },
+   "cumleler": [
+    "The rotary chair is one of the strongest tests for confirming bilateral vestibular loss.",
+    "It is also valuable for monitoring remaining function over time, as with ototoxic drug use.",
+    "Young children who cannot tolerate caloric testing can be tested in the chair, on a parent's lap.",
+    "After a one-sided loss, following phase and symmetry gives information about central compensation.",
+    "However, the chair does not show which ear has a one-sided loss as clearly as the caloric test, and it is costly equipment.",
+    "So the chair does not replace the caloric test and the video head impulse test; it complements them."
+   ]
+  },
+  {
+   "id": "cdp",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Posturography",
+   "baslik": "Computerized dynamic *posturography*",
+   "cizim": "posturografi",
+   "etiketler": [
+    {
+     "parca": "agirlik_merkezi",
+     "metin": "center of gravity",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "metin": "moving platform",
+     "cumle": 4
+    },
+    {
+     "parca": "kemer",
+     "metin": "safety harness",
+     "cumle": 2
+    },
+    {
+     "parca": "gorsel_cevre",
+     "metin": "visual surround",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "agirlik_merkezi",
+     "cumle": 3
+    },
+    {
+     "parca": "salinim",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the lesson on how balance works, we saw that balance relies on input from vision, body sense and the vestibular system.",
+    "Computerized dynamic posturography is a system that measures the contribution of each of these three senses to balance.",
+    "The person stands on a platform with force sensors, wearing a safety harness against falls.",
+    "The platform continuously measures the forward and backward sway of the center of gravity.",
+    "Its key feature is that the floor and visual surround can move with the person's sway; this is called sway referencing.",
+    "When the floor tilts with sway, ankle information becomes misleading; when the visual surround moves along, vision does."
+   ],
+   "ayar": {
+    "platform_cumle": 2,
+    "kemer_cumle": 2,
+    "salinim_cumle": 3,
+    "bagla_cumle": 4
+   }
+  },
+  {
+   "id": "sot",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Posturography",
+   "baslik": "The sensory organization test: *six conditions*",
+   "sutunlar": [
+    "Condition",
+    "Vision",
+    "Floor",
+    "Sense relied on"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "Eyes open",
+      "Fixed",
+      "All three"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2",
+      "Eyes closed",
+      "Fixed",
+      "Body, vestibular"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "3",
+      "Sway referenced",
+      "Fixed",
+      "Body, vestibular"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4",
+      "Eyes open",
+      "Sway referenced",
+      "Vision, vestibular"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "5",
+      "Eyes closed",
+      "Sway referenced",
+      "Vestibular"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "6",
+      "Sway referenced",
+      "Sway referenced",
+      "Vestibular"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "The core posturography test is the sensory organization test, or SOT; it has six conditions.",
+    "In condition one, the eyes are open and the floor and visual surround are fixed; all three senses give correct information.",
+    "In condition two, the eyes are closed; balance is left to body sense and the vestibular system.",
+    "In condition three, the eyes are open but the visual surround is sway referenced; vision is misleading.",
+    "In condition four, the floor is sway referenced; body sense is misleading, and vision and the vestibular system remain.",
+    "In conditions five and six, the floor is misleading and vision is absent or misleading; balance is left to the vestibular system.",
+    "Each condition usually lasts twenty seconds and is repeated three times."
+   ]
+  },
+  {
+   "id": "sot_ornek",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Interpreting the SOT",
+   "baslik": "Example: a *vestibular* pattern",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "adim": 1,
+     "yazilar": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6"
+     },
+     "ad": "SOT condition"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Equilibrium score"
+    },
+    "seriler": [
+     {
+      "ad": "kosul_1_4",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        94
+       ],
+       [
+        2,
+        91
+       ],
+       [
+        3,
+        89
+       ],
+       [
+        4,
+        80
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "1 to 4: near normal",
+      "cumle": 3
+     },
+     {
+      "ad": "kosul_5_6",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        5,
+        28
+       ],
+       [
+        6,
+        22
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "5 and 6: low",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Score: sway / 12.5°",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "1 to 4: near normal",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "5 and 6: low",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "For each trial, an equilibrium score is calculated; it ranges from zero to one hundred.",
+    "The score compares the forward and backward sway angle with a theoretical fall limit of about twelve and a half degrees.",
+    "For example, a sway of two and a half degrees gives a score of eighty; a fall or leaning on the harness scores zero.",
+    "In this example, scores in conditions one to four are near normal.",
+    "In conditions five and six, scores are clearly low, and the person leans on the harness.",
+    "So balance holds when vision or body sense can be used, but breaks down when only vestibular information is left.",
+    "This is called the vestibular dysfunction pattern; normal limits vary with age."
+   ]
+  },
+  {
+   "id": "oranlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Interpreting the SOT",
+   "baslik": "Sensory *analysis* ratios",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Somatosensory",
+     "metin": "Condition 2 / condition 1",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Visual",
+     "metin": "Condition 4 / condition 1",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Vestibular",
+     "metin": "Condition 5 / condition 1",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Visual preference",
+     "metin": "(3+6) / (2+5)",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ratios between conditions show which sense is not contributing enough to balance.",
+    "The somatosensory ratio is the score of condition two divided by condition one.",
+    "The visual ratio is condition four over condition one.",
+    "The vestibular ratio is condition five over condition one; it is low in the vestibular pattern.",
+    "The visual preference ratio shows resistance to misleading visual input: the sum of three and six divided by the sum of two and five.",
+    "A person with a low visual preference score tends to lose balance in a moving visual environment."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpreting the SOT",
+   "baslik": "What posturography *does not tell us*",
+   "maddeler": [
+    {
+     "metin": "Does not show site or side",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Puts function into numbers",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Valuable in rehabilitation follow-up",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Nonphysiological pattern: inconsistency",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "salinim",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Posturography does not show which ear, or which part of the nervous system, has the problem.",
+    "What it shows is how well the person uses the senses for balance in conditions similar to daily life.",
+    "So it is valuable for tracking functional change before and after vestibular rehabilitation.",
+    "The system also includes extra tests, such as the motor control test, which measures motor responses to sudden platform movements.",
+    "Physiologically unexpected patterns, such as worse performance in easy conditions than hard ones, suggest inconsistent responding.",
+    "Such a pattern alone is not enough for an interpretation; it is assessed together with other test findings."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In posturography, note the person's history and level of fear; fear of falling can affect scores, especially in conditions 5 and 6.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: posturography measures the person's performance at that moment; anxiety and fatigue affect the result.",
+    "A person afraid of falling may tense up too much in conditions five and six, or lean on the harness too early.",
+    "Before the test, show the safety harness, do a practice trial and note the person's anxiety.",
+    "In the chair test, keep up mental tasks at every frequency so the person stays alert; a drowsy patient can give falsely low gain."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "The chair stimulates both lateral canals _together_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Gain, phase and symmetry are measured",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SOT: three senses in six conditions",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Low in 5 and 6: vestibular pattern",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The rotary chair stimulates both lateral canals together; it is strong for confirming bilateral loss and tracking remaining function.",
+    "The sinusoidal harmonic acceleration test measures gain, phase and symmetry at each frequency; phase lead increases in peripheral loss.",
+    "The sensory organization test measures how vision, body sense and vestibular input contribute to balance in six conditions.",
+    "Low scores only in conditions five and six form the vestibular dysfunction pattern; posturography does not show the site of lesion."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Low scores only in SOT conditions 5 and 6?",
+   "secenekler": [
+    "Visual preference problem",
+    "Somatosensory problem",
+    "Vestibular pattern",
+    "Normal result"
+   ],
+   "dogru": 2,
+   "aciklama": "In these conditions, balance relies mainly on _vestibular_ input.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: on the sensory organization test, only conditions five and six have low scores. Which pattern is this?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: the vestibular dysfunction pattern.",
+    "In these two conditions, vision and body sense are unavailable or misleading; balance is left to the vestibular system."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Intro to *Pediatric* Audiology",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we start the pediatric assessment section and talk about why a child is not a small adult.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

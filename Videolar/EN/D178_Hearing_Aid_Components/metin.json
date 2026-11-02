@@ -1,0 +1,562 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D178_Hearing_Aid_Components_EN",
+ "kapak": {
+  "ust": "LESSON 178",
+  "baslik": "How hearing aids<br>*work*",
+  "alt": "Microphone, processor, receiver and battery",
+  "cizim": "isitme_cihazi"
+ },
+ "youtube": {
+  "baslik": "How Hearing Aids Work: Core Components | Lesson 178 | AIHEAR Audiology Academy",
+  "aciklama": "What is inside a hearing aid, and how does sound travel through it? In this lesson we meet the microphone, the digital signal processor (DSP), the receiver, and battery and rechargeable systems, then follow sound step by step from the microphone to the ear canal.\\n\\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\\n\\nSources: Dillon, Hearing Aids; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; Mueller, Ricketts and Bentler, Modern Hearing Aids.\\n\\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "hearing"
+  ],
+  "etiketler": [
+   "hearing aid",
+   "hearing aid components",
+   "how hearing aids work",
+   "digital signal processor",
+   "DSP",
+   "receiver",
+   "hearing aid microphone",
+   "hearing aid battery",
+   "telecoil",
+   "amplification",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 178",
+   "baslik": "How do hearing aids *work?*",
+   "alt": "Core components and the path of sound inside the aid",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the core components of a hearing aid and the job of each one.",
+    "Then we will follow sound step by step from the microphone to the ear canal."
+   ]
+  },
+  {
+   "id": "gorev",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Basic structure",
+   "baslik": "The *job* of a hearing aid",
+   "maddeler": [
+    {
+     "metin": "Make sound _audible_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Deliver loud sound _without discomfort_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Three main parts: microphone, processor, receiver",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "A battery powers them all",
+     "cumle": 5,
+     "ikon": "ampul"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "HEARING AID",
+    "metin": "Picks up sound, *processes* it and delivers it amplified to the ear",
+    "cumle": 0
+   },
+   "cumleler": [
+    "A hearing aid is a small electronic system that picks up sound, processes it and delivers it amplified to the ear.",
+    "Its first job is to make soft sounds that fall below the person's threshold audible.",
+    "Its second job is to deliver loud sounds without raising them to an uncomfortable level.",
+    "So the aim is not to boost every sound equally, but to fit sound into the person's remaining hearing range.",
+    "To do this, the aid has three main parts: a microphone, a digital signal processor and a receiver.",
+    "All these parts are powered by a disposable battery or a rechargeable battery.",
+    "So modern hearing aids are systems that do not just make sound louder, but shape it to the person's hearing."
+   ]
+  },
+  {
+   "id": "parcalar",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Basic structure",
+   "baslik": "*Parts* of a behind-the-ear aid",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "microphone",
+     "cumle": 1
+    },
+    {
+     "parca": "islemci",
+     "metin": "digital signal processor",
+     "cumle": 2
+    },
+    {
+     "parca": "alici",
+     "metin": "receiver",
+     "cumle": 3
+    },
+    {
+     "parca": "pil",
+     "metin": "battery",
+     "cumle": 4
+    },
+    {
+     "parca": "kalip",
+     "metin": "earmold",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "islemci",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Order: microphone, processor, receiver",
+     "cumle": 6,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Let us see the parts on a behind-the-ear hearing aid.",
+    "The microphone sits at the top of the aid and collects the surrounding sound.",
+    "Inside the case is the digital signal processor, the brain of the hearing aid.",
+    "The receiver is a tiny loudspeaker that turns the processed signal back into sound.",
+    "The battery compartment is usually at the bottom of the case.",
+    "In a behind-the-ear aid, sound reaches a custom earmold through a tube.",
+    "In in-the-ear aids, the same parts are placed inside a single shell made to fit the person's ear.",
+    "In short, sound enters the microphone, is shaped in the processor and leaves the receiver into the ear canal."
+   ]
+  },
+  {
+   "id": "mikrofon",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Microphone and inputs",
+   "baslik": "The microphone: sound's *way in*",
+   "maddeler": [
+    {
+     "metin": "Turns acoustic sound into _an electrical signal_",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Omnidirectional: picks up all directions equally",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Directional_: emphasizes sound from the front",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Telecoil and wireless inputs",
+     "cumle": 5,
+     "ikon": "telefon"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "DIRECTIONAL MICROPHONE",
+    "metin": "Reduces noise from behind, preserves the talker *in front*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "The microphone turns pressure changes in the air, the acoustic signal, into an electrical signal.",
+    "Today's hearing aids usually use very small electret or microelectromechanical microphones.",
+    "An omnidirectional microphone picks up sound from all directions with roughly equal sensitivity.",
+    "A directional microphone system uses the time difference between two microphones to emphasize sound from the front.",
+    "So while the person faces the talker, noise from behind is somewhat reduced.",
+    "Besides the microphone, a telecoil can pick up the magnetic signal from loop systems.",
+    "Many hearing aids also support wireless audio streaming from phones and televisions."
+   ]
+  },
+  {
+   "id": "dsp",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Digital signal processor",
+   "baslik": "What does the *DSP* do?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Channel splitting",
+     "metin": "Creates frequency bands",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Compression",
+     "metin": "More gain for soft sounds",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise reduction",
+     "metin": "Suppresses steady noise",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Feedback management",
+     "metin": "Prevents whistling",
+     "cumle": 5
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Programs",
+     "metin": "Settings for each environment",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "At the heart of the aid is the digital signal processor, or DSP.",
+    "The DSP is a tiny computer that performs very fast mathematical operations on the digitized sound signal.",
+    "First, it splits the signal into frequency channels, so each frequency region can receive its own gain.",
+    "With compression, soft sounds receive more gain and loud sounds less.",
+    "Noise reduction algorithms somewhat suppress steady noises such as air conditioner hum.",
+    "Feedback management tries to prevent the whistling caused when sound leaking from the ear re-enters the microphone.",
+    "Different programs can also be set for quiet places, noisy places or music."
+   ]
+  },
+  {
+   "id": "donusum",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Digital signal processor",
+   "baslik": "From analog to *digital* and back",
+   "maddeler": [
+    {
+     "metin": "Analog-to-digital converter: sampling",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Processing is done on numbers",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Digital-to-analog conversion and output",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Processing delay: _a few milliseconds_",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "The electrical signal from the microphone first enters the analog-to-digital converter.",
+    "This converter takes tens of thousands of samples per second and turns each sample into a number.",
+    "The DSP makes all its adjustments on these numbers, which allows very flexible programming.",
+    "The processed signal is then converted back into an analog electrical signal that drives the receiver.",
+    "All these digital steps happen so fast that the user does not notice them.",
+    "Still, some processing delay occurs; it is usually on the order of a few milliseconds.",
+    "If the delay becomes too long, the person may hear their own voice as echoey, especially with open fittings."
+   ]
+  },
+  {
+   "id": "alici",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Receiver and sound path",
+   "baslik": "The receiver: sound's *way out*",
+   "maddeler": [
+    {
+     "metin": "Turns the electrical signal _back into sound_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "BTE: receiver in case, sound through tube",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "RIC: receiver in the ear canal",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Earmold or dome, vent",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FEEDBACK",
+    "metin": "If sound leaking from the ear returns to the microphone, *whistling* occurs",
+    "cumle": 6
+   },
+   "cumleler": [
+    "The receiver is a miniature loudspeaker that turns the processed electrical signal back into acoustic sound.",
+    "The name can be misleading: here the receiver is the part that delivers sound to the ear, not the part that picks it up.",
+    "In a behind-the-ear aid the receiver is inside the case; sound passes through an earhook, tube and earmold to the ear canal.",
+    "In receiver-in-canal aids, the receiver sits directly in the ear canal on a thin wire.",
+    "The tip in the canal may be a custom earmold or a ready-made silicone dome, and a ventilation channel called a vent can be added.",
+    "A vent reduces the muffled sound of the person's own voice, but it also lets sound escape more easily.",
+    "If escaping sound reaches the microphone again, a whistle called acoustic feedback occurs."
+   ]
+  },
+  {
+   "id": "sesyolu",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Receiver and sound path",
+   "baslik": "The sound path *from start to finish*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Microphone",
+     "metin": "Sound to electrical signal",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Analog to digital",
+     "metin": "Signal becomes numbers",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "DSP",
+     "metin": "Channels, gain, compression",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Digital to analog",
+     "metin": "Back to analog signal",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Receiver and ear",
+     "metin": "Sound into the canal",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Now let us follow a speech sound through the hearing aid from start to finish.",
+    "The talker's voice reaches the microphone and becomes an electrical signal.",
+    "This signal is turned into numbers in the analog-to-digital converter.",
+    "The DSP splits the signal into channels, applies the gain and compression set for each, and reduces noise.",
+    "The processed signal returns to analog form and drives the receiver.",
+    "Sound from the receiver reaches the tympanic membrane through the tube and earmold, or directly in the ear canal.",
+    "From here on it is the natural hearing pathway: the middle ear, the cochlea and the auditory nerve."
+   ]
+  },
+  {
+   "id": "piller",
+   "tur": "tablo",
+   "bolum_no": "PART 5",
+   "bolum": "Batteries and rechargeable systems",
+   "baslik": "Zinc-air *battery sizes*",
+   "sutunlar": [
+    "Size",
+    "Color code",
+    "Common use"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "10",
+      "Yellow",
+      "Small in-canal aids"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "312",
+      "Brown",
+      "RIC, in-canal"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "13",
+      "Orange",
+      "RIC, behind-the-ear"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "675",
+      "Blue",
+      "Power behind-the-ear"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Battery-powered hearing aids usually use zinc-air batteries.",
+    "These batteries start working when the sticker is removed and they react with oxygen in the air.",
+    "Sizes are identified by an international color code: the smallest, size 10, is yellow.",
+    "Size 312 is brown and is often used in receiver-in-canal and in-the-canal aids.",
+    "Size 13 is orange; it is found in larger receiver-in-canal and behind-the-ear aids.",
+    "Size 675 is blue and is used mostly in power behind-the-ear aids.",
+    "The general rule is simple: the larger the battery, the longer it lasts, but the larger the aid.",
+    "Waiting about a minute after removing the sticker before inserting the battery is common manufacturer advice."
+   ]
+  },
+  {
+   "id": "sarj",
+   "tur": "karsilastir",
+   "bolum_no": "PART 5",
+   "bolum": "Batteries and rechargeable systems",
+   "baslik": "Disposable or *rechargeable?*",
+   "sol": {
+    "ust": "Zinc-air battery",
+    "maddeler": [
+     {
+      "metin": "Changed every few days",
+      "cumle": 0
+     },
+     {
+      "metin": "Easy to carry spares",
+      "cumle": 1
+     },
+     {
+      "metin": "Small battery, fine dexterity needed",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Rechargeable battery",
+    "maddeler": [
+     {
+      "metin": "Charge overnight, use all day",
+      "cumle": 3
+     },
+     {
+      "metin": "No battery changes",
+      "cumle": 4
+     },
+     {
+      "metin": "Wireless streaming shortens battery life",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Zinc-air battery life varies with size and use; it is usually between a few days and a few weeks.",
+    "Their advantages are that they are available everywhere and spares are easy to carry.",
+    "However, changing small batteries can be hard for people with poor dexterity or poor vision.",
+    "Rechargeable aids usually have a lithium-ion battery; an aid charged overnight usually lasts the whole day.",
+    "Since no battery changes are needed, they are especially convenient for users with reduced fine dexterity.",
+    "In both systems, wireless audio streaming increases power use and shortens battery life.",
+    "Rechargeable batteries also lose capacity over time, so they may need replacing within a few years."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Listen to the aid with a listening stethoscope at every check: if it crackles, cuts out or sounds weak, check battery, tubing, earmold and microphone port first.",
+   "cumleler": [
+    "A tip from the field: listen to the hearing aid yourself with a listening stethoscope at every check.",
+    "Crackling, cutting out or a weaker sound than expected is often the sign of a simple problem.",
+    "Check the battery first, then moisture or kinks in the tubing, and wax in the earmold or receiver tip.",
+    "A microphone port blocked by dirt or dust can also reduce the sound markedly.",
+    "For child users, teaching the family to do this listening check every day is very helpful.",
+    "Always remind users to keep batteries and small parts out of reach of children and pets."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Microphone turns sound into an electrical signal",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "DSP splits channels and applies gain",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Receiver turns the signal back into sound",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "A disposable or rechargeable battery powers it",
+     "cumle": 3,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that the microphone turns sound into an electrical signal.",
+    "The digital signal processor splits the signal into channels, applies gain and compression, and manages noise and feedback.",
+    "The receiver turns the processed signal back into sound and delivers it to the ear canal.",
+    "The whole system is powered by a zinc-air battery or a rechargeable battery."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which step comes right before the DSP in the sound path?",
+   "secenekler": [
+    "Receiver",
+    "Analog-to-digital converter",
+    "Earmold",
+    "Digital-to-analog converter"
+   ],
+   "dogru": 1,
+   "aciklama": "The microphone signal is first turned into numbers in the _analog-to-digital converter_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a hearing aid, which stage does sound pass through right before it reaches the DSP?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the analog-to-digital converter.",
+    "The signal from the microphone is first turned into numbers; the DSP can only work on these numbers."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Hearing Aid Styles: *BTE, RIC, ITE, ITC, CIC*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at behind-the-ear, receiver-in-canal and in-the-ear styles, and how a style is chosen.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

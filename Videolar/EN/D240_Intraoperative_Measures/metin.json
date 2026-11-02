@@ -1,0 +1,1399 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D240_Intraoperative_Measures_EN",
+ "kapak": {
+  "ust": "LESSON 240",
+  "baslik": "Intraoperative<br>*measures*",
+  "alt": "Impedance, ECAP and ESRT",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Intraoperative Measures: Impedance, ECAP and ESRT | Lesson 240 | AIHEAR Audiology Academy",
+  "aciklama": "During cochlear implant surgery, how do we know the implant and the auditory nerve are working while the patient is asleep? In this lesson we cover electrode impedance measured by telemetry, short and open circuits, the electrically evoked compound action potential (ECAP) and the electrically evoked stapedial reflex threshold (ESRT).\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Hughes, Objective Measures in Cochlear Implants; Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "ECAP"
+  ],
+  "etiketler": [
+   "cochlear implant",
+   "intraoperative measures",
+   "electrode impedance",
+   "ECAP",
+   "electrically evoked compound action potential",
+   "ESRT",
+   "electrically evoked stapedial reflex",
+   "telemetry",
+   "short circuit",
+   "open circuit",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 240",
+   "baslik": "Intraoperative *measures*",
+   "alt": "Impedance, ECAP and ESRT",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about the measurements made during cochlear implant surgery, while the patient is asleep.",
+    {
+     "yazi": "We will cover electrode impedance, the electrically evoked compound action potential, or ECAP, and the electrical stapedial reflex.",
+     "ses": "We will cover electrode impedance, the electrically evoked compound action potential, or E cap, and the electrical stapedial reflex."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Why measure?",
+   "baslik": "*Why* measure in the operating room?",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Electrode in place",
+     "cumle": 0,
+     "metin": "Array inside the cochlea"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Impedance",
+     "cumle": 2,
+     "metin": "Are electrodes intact?"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ECAP",
+     "cumle": 3,
+     "metin": "Does the nerve respond?"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ESRT",
+     "cumle": 4,
+     "metin": "Does the reflex pathway work?"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Record",
+     "cumle": 5,
+     "metin": "Starting point for programming"
+    }
+   ],
+   "cumleler": [
+    "After the surgeon places the electrode array in the cochlea and secures the receiver-stimulator, a short measurement period begins.",
+    "These measurements are often made by the audiologist; the patient is under general anesthesia and does not need to respond.",
+    "The first question is whether the implant and each electrode are technically intact; impedance measurement answers this.",
+    {
+     "yazi": "The second question is whether the auditory nerve responds to electrical stimulation; the ECAP shows this.",
+     "ses": "The second question is whether the auditory nerve responds to electrical stimulation; the E cap shows this."
+    },
+    "The third question is whether stimulation activates the reflex pathway in the brainstem; the electrical stapedial reflex shows this.",
+    "The results are recorded and become the starting point both for postoperative comparisons and for the first programming."
+   ]
+  },
+  {
+   "id": "telemetri",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why measure?",
+   "baslik": "*Telemetry*: talking to the implant",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "verici_bobin",
+     "metin": "coil: sends commands",
+     "cumle": 1
+    },
+    {
+     "parca": "alici_uyarici",
+     "metin": "receiver-stimulator: measures",
+     "cumle": 2
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "metin": "electrode array",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "verici_bobin",
+     "cumle": 1
+    },
+    {
+     "parca": "alici_uyarici",
+     "cumle": 2
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Command from coil to implant",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Result is sent back",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Coil in a sterile sleeve",
+     "cumle": 5,
+     "ikon": "hastane"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "alici_uyarici",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "No cable is connected to the implant in surgery; measurements use a wireless two-way link called telemetry.",
+    "An interface connected to a computer sends commands to the internal unit through a coil placed on the skin.",
+    "On command, the receiver-stimulator delivers a small current from a given electrode and measures the resulting voltage.",
+    "If needed, a neighboring electrode is used as a recording electrode to capture the nerve response inside the cochlea.",
+    "The measured values are sent back over the same link and appear on the computer screen.",
+    "Because the surgical field is sterile, the coil is used inside a sterile sleeve, over a thin drape.",
+    "The same telemetry is used at every visit after surgery, so these measurements are not unique to surgery."
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Electrode impedance",
+   "baslik": "Electrode *impedance*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Electrode (example array)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 30,
+     "adim": 5,
+     "ad": "Impedance (kilohms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        7
+       ],
+       [
+        2,
+        6.5
+       ],
+       [
+        3,
+        7.5
+       ],
+       [
+        4,
+        8
+       ],
+       [
+        5,
+        7
+       ],
+       [
+        8,
+        6.5
+       ],
+       [
+        9,
+        7
+       ],
+       [
+        10,
+        7.5
+       ],
+       [
+        11,
+        8
+       ],
+       [
+        12,
+        8.5
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     },
+     {
+      "ad": "acik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        6,
+        30
+       ]
+      ],
+      "renk": "kirmizi",
+      "cumle": 5
+     },
+     {
+      "ad": "kisa",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        7,
+        0.8
+       ]
+      ],
+      "renk": "sari",
+      "cumle": 6
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "beklenen",
+      "y": [
+       4,
+       12
+      ],
+      "renk": "yesil",
+      "etiket": "example expected range",
+      "cumle": 3
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "acik",
+     "metin": "very high: open circuit",
+     "cumle": 5
+    },
+    {
+     "parca": "kisa",
+     "metin": "very low: short circuit",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Impedance describes the opposition an electric current meets along a path, and it is expressed in kilohms.",
+    "A small known current is passed through each electrode, the voltage is measured and voltage is divided by current; this is Ohm's law.",
+    "Electrode impedance depends on the electrode surface and on the fluid and tissue around it.",
+    "Each system has its own expected range; the values in this graph are only examples.",
+    "What matters clinically is whether an electrode falls far outside the expected range.",
+    "In this example, electrode six shows a very high value, which suggests an open circuit.",
+    "Electrode seven shows a very low value, which suggests a short circuit."
+   ]
+  },
+  {
+   "id": "devre",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Electrode impedance",
+   "baslik": "Short circuit and *open circuit*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Short circuit",
+     "cumle": 0,
+     "metin": "Impedance very low"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Result",
+     "cumle": 2,
+     "metin": "Stimulation goes astray"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Open circuit",
+     "cumle": 3,
+     "metin": "Impedance very high"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "What to do?",
+     "cumle": 5,
+     "metin": "Remeasure, switch off if needed"
+    }
+   ],
+   "cumleler": [
+    "A short circuit occurs when there is unwanted contact between two electrodes or lead wires.",
+    "The current then stays between the two electrodes without spreading into the tissue; the measured impedance is far lower than expected.",
+    "If electrodes in a short circuit are used, stimulation goes to the wrong place and sound quality can suffer.",
+    "An open circuit means the current path is broken; impedance is very high or cannot be measured.",
+    "The cause may be a broken lead wire; in surgery, a small air bubble on the electrode surface can also cause this temporarily.",
+    "So a high value in surgery is measured again a few minutes later, or at the next check.",
+    "Electrodes with a lasting open or short circuit are switched off in programming, and the map is built with the remaining electrodes."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Electrode impedance",
+   "baslik": "Impedance changes *over time*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Weeks after surgery",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 15,
+     "adim": 5,
+     "ad": "Impedance (relative)"
+    },
+    "seriler": [
+     {
+      "ad": "seyir",
+      "noktalar": [
+       [
+        0,
+        6
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        2,
+        11
+       ],
+       [
+        3,
+        12
+       ],
+       [
+        4,
+        12.3
+       ],
+       [
+        5,
+        8.5
+       ],
+       [
+        6,
+        7.2
+       ],
+       [
+        8,
+        6.6
+       ],
+       [
+        10,
+        6.4
+       ],
+       [
+        12,
+        6.4
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "aktivasyon",
+      "x": 4,
+      "y": 12.3,
+      "cizgi": "dikey",
+      "etiket": "activation",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "artis",
+      "x": [
+       0,
+       4
+      ],
+      "renk": "sari",
+      "etiket": "unstimulated period",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "artis",
+     "cumle": 1
+    },
+    {
+     "parca": "aktivasyon",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Impedance does not stay constant after surgery; this graph shows the typical course with example values.",
+    "In the unstimulated period from surgery to activation, impedance often rises with the tissue response around the electrodes.",
+    "Once the electrodes are stimulated regularly, impedance usually drops in the first days and then stabilizes.",
+    "So impedance is always measured again at first activation; values from surgery are not enough for programming.",
+    "If impedance is high, more voltage is needed to deliver the same current; the voltage an implant can supply has an upper limit.",
+    "When this limit, called the compliance limit, is reached, the pulse width is increased; we will see this in the programming lesson."
+   ]
+  },
+  {
+   "id": "ecap",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "ECAP",
+   "baslik": "*ECAP*: the nerve's electrical response",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_tympani",
+     "metin": "electrode here",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "spiral ganglion",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "cochlear nerve",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Stimulus: one electrical pulse",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Recording: neighboring electrode",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Unaffected by sleep and anesthesia",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The second measurement is the electrically evoked compound action potential, or ECAP.",
+     "ses": "The second measurement is the electrically evoked compound action potential, or E cap."
+    },
+    {
+     "yazi": "The ECAP is the synchronous, combined response of auditory nerve fibers to an electrical pulse.",
+     "ses": "The E cap is the synchronous, combined response of auditory nerve fibers to an electrical pulse."
+    },
+    "The electrode sits in the scala tympani and delivers a brief pulse.",
+    "The pulse stimulates nearby spiral ganglion cells and nerve fibers at the same time.",
+    "The fibers firing together create a small but measurable electrical response along the cochlear nerve.",
+    "This response is recorded from inside the cochlea, with another electrode near the stimulated one.",
+    {
+     "yazi": "The ECAP is the electrical counterpart of the action potential in electrocochleography; it is not clearly affected by sleep or anesthesia.",
+     "ses": "The E cap is the electrical counterpart of the action potential in electrocochleography; it is not clearly affected by sleep or anesthesia."
+    }
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "ECAP",
+   "baslik": "N1 and P2: the *waveform*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1.6,
+     "ad": "Time (milliseconds)",
+     "isaretler": [
+      0,
+      0.4,
+      0.8,
+      1.2,
+      1.6
+     ],
+     "ond": 1
+    },
+    "y": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Amplitude (microvolts)"
+    },
+    "seriler": [
+     {
+      "ad": "ecap",
+      "noktalar": [
+       [
+        0.1,
+        -0.6
+       ],
+       [
+        0.125,
+        -2.7
+       ],
+       [
+        0.15,
+        -9.5
+       ],
+       [
+        0.175,
+        -27.8
+       ],
+       [
+        0.2,
+        -67.1
+       ],
+       [
+        0.225,
+        -132.8
+       ],
+       [
+        0.25,
+        -216.4
+       ],
+       [
+        0.275,
+        -290.0
+       ],
+       [
+        0.3,
+        -319.4
+       ],
+       [
+        0.325,
+        -288.9
+       ],
+       [
+        0.35,
+        -214.0
+       ],
+       [
+        0.375,
+        -128.0
+       ],
+       [
+        0.4,
+        -58.4
+       ],
+       [
+        0.425,
+        -13.1
+       ],
+       [
+        0.45,
+        14.1
+       ],
+       [
+        0.475,
+        33.2
+       ],
+       [
+        0.5,
+        50.9
+       ],
+       [
+        0.525,
+        69.8
+       ],
+       [
+        0.55,
+        89.7
+       ],
+       [
+        0.575,
+        109.0
+       ],
+       [
+        0.6,
+        125.3
+       ],
+       [
+        0.625,
+        136.2
+       ],
+       [
+        0.65,
+        140.0
+       ],
+       [
+        0.675,
+        136.2
+       ],
+       [
+        0.7,
+        125.3
+       ],
+       [
+        0.725,
+        109.0
+       ],
+       [
+        0.75,
+        89.8
+       ],
+       [
+        0.775,
+        69.9
+       ],
+       [
+        0.8,
+        51.5
+       ],
+       [
+        0.825,
+        35.9
+       ],
+       [
+        0.85,
+        23.7
+       ],
+       [
+        0.875,
+        14.8
+       ],
+       [
+        0.9,
+        8.7
+       ],
+       [
+        0.925,
+        4.9
+       ],
+       [
+        0.95,
+        2.6
+       ],
+       [
+        0.975,
+        1.3
+       ],
+       [
+        1.0,
+        0.6
+       ],
+       [
+        1.025,
+        0.3
+       ],
+       [
+        1.05,
+        0.1
+       ],
+       [
+        1.075,
+        0.0
+       ],
+       [
+        1.1,
+        0.0
+       ],
+       [
+        1.125,
+        0.0
+       ],
+       [
+        1.15,
+        0.0
+       ],
+       [
+        1.175,
+        0.0
+       ],
+       [
+        1.2,
+        0.0
+       ],
+       [
+        1.225,
+        0.0
+       ],
+       [
+        1.25,
+        0.0
+       ],
+       [
+        1.275,
+        0.0
+       ],
+       [
+        1.3,
+        0.0
+       ],
+       [
+        1.325,
+        0.0
+       ],
+       [
+        1.35,
+        0.0
+       ],
+       [
+        1.375,
+        0.0
+       ],
+       [
+        1.4,
+        0.0
+       ],
+       [
+        1.425,
+        0.0
+       ],
+       [
+        1.45,
+        0.0
+       ],
+       [
+        1.475,
+        0.0
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.525,
+        0.0
+       ],
+       [
+        1.55,
+        0.0
+       ],
+       [
+        1.575,
+        0.0
+       ],
+       [
+        1.6,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 4,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "n1",
+      "x": 0.3,
+      "y": -320,
+      "etiket": "N1",
+      "dolu": true,
+      "cumle": 1
+     },
+     {
+      "ad": "p2",
+      "x": 0.65,
+      "y": 140,
+      "etiket": "P2",
+      "dolu": true,
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "genlik",
+      "y": [
+       -320,
+       140
+      ],
+      "xk": 1.0,
+      "etiket": "N1-P2 amplitude",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "artefakt",
+      "x": [
+       0,
+       0.1
+      ],
+      "renk": "gri",
+      "etiket": "artifact",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "n1",
+     "cumle": 1
+    },
+    {
+     "parca": "p2",
+     "cumle": 2
+    },
+    {
+     "parca": "artefakt",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "This graph shows an example ECAP waveform; the time axis covers only about one and a half milliseconds.",
+     "ses": "This graph shows an example E cap waveform; the time axis covers only about one and a half milliseconds."
+    },
+    {
+     "yazi": "The first and most prominent component is N1, a negative peak seen at about 0.2 to 0.4 milliseconds.",
+     "ses": "The first and most prominent component is N one, a negative peak seen at about zero point two to zero point four milliseconds."
+    },
+    {
+     "yazi": "It is followed by a smaller positive peak, P2.",
+     "ses": "It is followed by a smaller positive peak, P two."
+    },
+    {
+     "yazi": "The size of the response is measured as the difference between N1 and P2, and is in the microvolt range.",
+     "ses": "The size of the response is measured as the difference between N one and P two, and is in the microvolt range."
+    },
+    "The main difficulty is that the stimulus pulse creates an electrical artifact at the recording electrode far larger than the response.",
+    "To reduce this artifact, methods such as forward masking with subtraction, or averaging pulses of opposite polarity, are used.",
+    "In software this measurement goes by different names depending on the manufacturer, but all record the same nerve response."
+   ]
+  },
+  {
+   "id": "buyume",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "ECAP",
+   "baslik": "Growth function and *threshold*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 140,
+     "max": 220,
+     "ad": "Stimulus level (current units)",
+     "isaretler": [
+      140,
+      160,
+      180,
+      200,
+      220
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 500,
+     "adim": 100,
+     "ad": "N1-P2 amplitude (microvolts)"
+    },
+    "seriler": [
+     {
+      "ad": "olcumler",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        175,
+        45
+       ],
+       [
+        180,
+        90
+       ],
+       [
+        185,
+        135
+       ],
+       [
+        190,
+        180
+       ],
+       [
+        195,
+        225
+       ],
+       [
+        200,
+        270
+       ],
+       [
+        205,
+        315
+       ],
+       [
+        210,
+        360
+       ],
+       [
+        215,
+        405
+       ],
+       [
+        220,
+        450
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "cumle": 1
+     },
+     {
+      "ad": "egri",
+      "noktalar": [
+       [
+        170,
+        0
+       ],
+       [
+        220,
+        450
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 170,
+      "y": 0,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "ECAP threshold",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "esik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The ECAP is measured not at a single level, but at several gradually increasing current levels.",
+     "ses": "The E cap is measured not at a single level, but at several gradually increasing current levels."
+    },
+    "As current increases, more nerve fibers are stimulated and the response amplitude grows.",
+    "This curve, showing how amplitude grows with current, is called the amplitude growth function.",
+    {
+     "yazi": "The level where the response first appears, or where the extended curve reaches zero, is taken as the ECAP threshold.",
+     "ses": "The level where the response first appears, or where the extended curve reaches zero, is taken as the E cap threshold."
+    },
+    "The slope of the curve gives indirect information about the number and synchrony of the nerve fibers that can be stimulated.",
+    "In surgery, measurements are usually made on several electrodes chosen along the array, so every region is represented."
+   ]
+  },
+  {
+   "id": "ecap_klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "ECAP",
+   "baslik": "What the ECAP *tells us*, and what it does not",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Nerve response",
+     "cumle": 0,
+     "metin": "Excitable fibers are present"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Programming",
+     "cumle": 1,
+     "metin": "For the profile of levels"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "If absent",
+     "cumle": 3,
+     "metin": "Not a definite result"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Limit",
+     "cumle": 5,
+     "metin": "Behavioral measures needed"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Obtaining an ECAP in surgery shows that the electrodes reach excitable nerve fibers, which reassures the team.",
+     "ses": "Obtaining an E cap in surgery shows that the electrodes reach excitable nerve fibers, which reassures the team."
+    },
+    {
+     "yazi": "ECAP thresholds help predict how threshold and comfort levels change along the electrodes at the first programming.",
+     "ses": "E cap thresholds help predict how threshold and comfort levels change along the electrodes at the first programming."
+    },
+    {
+     "yazi": "In most people, the ECAP threshold lies between the behavioral threshold and the comfort level, often closer to the comfort level.",
+     "ses": "In most people, the E cap threshold lies between the behavioral threshold and the comfort level, often closer to the comfort level."
+    },
+    {
+     "yazi": "A missing ECAP does not mean the implant is not working; some people benefit from the implant without a measurable ECAP.",
+     "ses": "A missing E cap does not mean the implant is not working; some people benefit from the implant without a measurable E cap."
+    },
+    "Cochlear nerve deficiency, inner ear malformations or technical causes can make the response smaller or absent.",
+    {
+     "yazi": "The link between ECAP and programming levels is moderate, so the ECAP is placed alongside behavioral measures, not instead of them.",
+     "ses": "The link between E cap and programming levels is moderate, so the E cap is placed alongside behavioral measures, not instead of them."
+    }
+   ]
+  },
+  {
+   "id": "esrt",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "ESRT",
+   "baslik": "The electrical *stapedial reflex*",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 2,
+    "kontra_cumle": 5
+   },
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "implanted cochlea",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius",
+     "metin": "stapedius contracts",
+     "cumle": 3
+    },
+    {
+     "parca": "karsi_stapedius",
+     "metin": "measured in the other ear",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 3
+    },
+    {
+     "parca": "karsi_stapedius",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The third measurement is the electrically evoked stapedial reflex threshold, or ESRT.",
+     "ses": "The third measurement is the electrically evoked stapedial reflex threshold, or E S R T."
+    },
+    "In the acoustic reflex lesson we saw that the stapedius muscle contracts to loud sound; the same reflex can be triggered electrically.",
+    "The implant stimulates the auditory nerve, and the signal passes through the reflex arc in the brainstem to the facial nerve.",
+    "In surgery, the surgeon watches the stapedius tendon or stapes through the microscope and reports the level at which contraction appears.",
+    "This is a visual measurement and takes only a few seconds per electrode.",
+    {
+     "yazi": "After surgery, the ESRT is usually measured with an immittance probe in the other ear, by watching for a change in admittance.",
+     "ses": "After surgery, the E S R T is usually measured with an immittance probe in the other ear, by watching for a change in admittance."
+    },
+    {
+     "yazi": "The ESRT relates well to the person's highest comfortable listening level, so it is a valuable clue for the upper limit in programming.",
+     "ses": "The E S R T relates well to the person's highest comfortable listening level, so it is a valuable clue for the upper limit in programming."
+    },
+    "The level at which the reflex appears is often close to, or slightly above, this comfort level."
+   ]
+  },
+  {
+   "id": "esrt_etki",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "ESRT",
+   "baslik": "What *affects* the ESRT",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Anesthesia",
+     "cumle": 0,
+     "metin": "Gases may raise threshold"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Middle ear",
+     "cumle": 2,
+     "metin": "Fluid prevents measurement"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Cut tendon",
+     "cumle": 3,
+     "metin": "No reflex seen"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nerve and malformation",
+     "cumle": 4,
+     "metin": "May be absent"
+    }
+   ],
+   "cumleler": [
+    "Some anesthetic gases and muscle relaxants can raise the reflex threshold or suppress the reflex.",
+    {
+     "yazi": "So the ESRT in surgery is often higher than in an awake person, and the timing is discussed with the anesthesia team.",
+     "ses": "So the E S R T in surgery is often higher than in an awake person, and the timing is discussed with the anesthesia team."
+    },
+    "After surgery, if there is fluid or another middle ear problem in the other ear, the reflex may not be measurable with the probe.",
+    "If the stapedius tendon was cut in an earlier operation, no reflex is seen on that side.",
+    "In cochlear nerve deficiency and some malformations, the reflex may not be obtained at all.",
+    {
+     "yazi": "So a missing ESRT is not a sign of a problem on its own; it is interpreted together with the other measures.",
+     "ses": "So a missing E S R T is not a sign of a problem on its own; it is interpreted together with the other measures."
+    }
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Other measures",
+   "baslik": "*Other* measures in surgery",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Imaging",
+     "cumle": 0,
+     "metin": "Array position, fold-over"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ECochG",
+     "cumle": 2,
+     "metin": "Monitoring residual hearing"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "EABR",
+     "cumle": 4,
+     "metin": "Brainstem response"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In many centers, an X-ray or CT scan at the end of surgery checks the position of the electrode array in the cochlea.",
+     "ses": "In many centers, an X-ray or C T scan at the end of surgery checks the position of the electrode array in the cochlea."
+    },
+    "This image can reveal rare but important problems, such as the tip folding back, while still in the operating room.",
+    {
+     "yazi": "When residual hearing is to be preserved, the cochlear response can be monitored during insertion with electrocochleography, or ECochG.",
+     "ses": "When residual hearing is to be preserved, the cochlear response can be monitored during insertion with electrocochleography, or E cock G."
+    },
+    "A sudden drop in the response tells the surgeon that the electrode may have damaged the cochlea.",
+    {
+     "yazi": "If the nerve is in doubt, the electrically evoked auditory brainstem response, or EABR, can also be recorded in selected cases.",
+     "ses": "If the nerve is in doubt, the electrically evoked auditory brainstem response, or E A B R, can also be recorded in selected cases."
+    },
+    "Which of these measures is routine varies from center to center."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Other measures",
+   "baslik": "The measures *at a glance*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Impedance",
+     "cumle": 0,
+     "metin": "Electrode integrity"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ECAP",
+     "cumle": 1,
+     "metin": "Nerve response, level profile"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ESRT",
+     "cumle": 2,
+     "metin": "Estimate of upper level"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Imaging",
+     "cumle": 3,
+     "metin": "Array position"
+    }
+   ],
+   "cumleler": [
+    "Impedance shows the technical integrity of each electrode and decides which electrodes will be used.",
+    {
+     "yazi": "The ECAP shows that the auditory nerve can be stimulated and helps predict the profile of levels along the electrodes.",
+     "ses": "The E cap shows that the auditory nerve can be stimulated and helps predict the profile of levels along the electrodes."
+    },
+    {
+     "yazi": "The ESRT shows that the reflex pathway works and offers an estimate of the highest comfort level.",
+     "ses": "The E S R T shows that the reflex pathway works and offers an estimate of the highest comfort level."
+    },
+    "Imaging shows where the array is and whether there is a fold-over.",
+    "None of these measures alone tells how much benefit the person will get from the implant."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Record the intraoperative impedance, ECAP and ESRT values and compare them at activation. If no response was obtained, explain to the family that this alone is not failure.",
+   "cumleler": [
+    "A tip from the clinic: record the surgical measurement results in detail, including which electrodes and which levels were used.",
+    "Repeating the same measurements at first activation and comparing them helps you spot a changing electrode early.",
+    "Explain to the family that the measurements show the state of the device and nerve, and do not decide the outcome on their own.",
+    "If a measurement could not be obtained, explain the reason and when it will be repeated, in calm and clear language."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Telemetry: wireless two-way measurement",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Impedance: short and open circuits",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "ECAP: synchronous nerve response",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ESRT: reflex near comfort level",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Intraoperative measures are made from within the implant through telemetry, with no response needed from the patient.",
+    "Impedance shows the integrity of each electrode; a very low value suggests a short circuit, a very high value an open circuit.",
+    {
+     "yazi": "The ECAP is the synchronous response of the auditory nerve to an electrical pulse; its threshold helps predict the programming profile.",
+     "ses": "The E cap is the synchronous response of the auditory nerve to an electrical pulse; its threshold helps predict the programming profile."
+    },
+    {
+     "yazi": "The ESRT is the contraction of the stapedius muscle to electrical stimulation, and gives a value close to the highest comfort level.",
+     "ses": "The E S R T is the contraction of the stapedius muscle to electrical stimulation, and gives a value close to the highest comfort level."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What does a very high impedance suggest?",
+   "secenekler": [
+    "Short circuit",
+    "Open circuit",
+    "Normal nerve response",
+    "High ECAP amplitude"
+   ],
+   "dogru": 1,
+   "aciklama": "The current path is broken: an _open circuit_; an air bubble can be a temporary cause.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: if an electrode shows a much higher impedance than expected in surgery, what comes to mind first?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: an open circuit.",
+    "When the current path is broken, impedance rises sharply; in surgery, an air bubble on the electrode can also cause this temporarily."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Coding Strategies: *CIS*, ACE and Fine Structure",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how the implant codes sound into electrical pulses, that is, coding strategies.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

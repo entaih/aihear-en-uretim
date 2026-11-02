@@ -1,0 +1,102 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R502_Quality_Warnings_in_Automated_Audiograms_EN",
+ "kapak": {
+  "ust": "QUICK FACT #502",
+  "baslik": "Warnings *before thresholds*",
+  "alt": "Quality in automated audiometry",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What do you check before approving an automated audiogram? #shorts",
+  "aciklama": "In automated audiometry, an algorithm runs the threshold-finding steps, and at the end of the test quality warnings are produced along with the thresholds. Before approving, look not only at the thresholds but also at these warnings: if there are many button presses with no sound, or false alarms, if background noise exceeded the limit, or if there is a masking warning, the result is not considered reliable. If in doubt, the relevant frequencies are retested manually; automated results are not used for diagnostic decisions without an audiologist's review.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "automation",
+   "audiometry"
+  ],
+  "etiketler": [
+   "automated audiometry",
+   "quality indicators",
+   "false alarm",
+   "background noise",
+   "masking",
+   "audiogram approval",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What do you check before approving an automated audiogram?",
+  "bilgiler": [
+   "Look at the quality warnings, not only the thresholds.",
+   "False alarms, noise and masking warnings lower reliability.",
+   "If in doubt, retest the relevant frequencies manually."
+  ],
+  "hashtag": [
+   "audiology",
+   "automation",
+   "audiometry"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #502",
+   "metin": "What to *check?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What do you check before approving an automated audiogram?"
+   ]
+  },
+  {
+   "id": "kalite",
+   "tur": "zincir",
+   "baslik": "Quality *indicators*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "False alarms",
+     "tr": "presses with no sound",
+     "cumle": 1
+    },
+    {
+     "ad": "Noise",
+     "tr": "limit exceeded?",
+     "cumle": 2
+    },
+    {
+     "ad": "Masking",
+     "tr": "any warning?",
+     "cumle": 2,
+     "gecikme": 0.6
+    }
+   ],
+   "cumleler": [
+    "Before approving an automated audiogram, check quality warnings, not just thresholds.",
+    "Button presses with no sound, called false alarms, are counted.",
+    "With many false alarms, excess noise or masking warnings, distrust the result.",
+    "If in doubt, retest those frequencies manually; this prevents a wrong report."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D295",
+ "kaynak_baslik": "Automation and Machine Learning in Audiology"
+}

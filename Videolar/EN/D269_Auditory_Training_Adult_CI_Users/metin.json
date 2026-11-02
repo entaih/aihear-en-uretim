@@ -1,0 +1,799 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D269_Auditory_Training_Adult_CI_Users_EN",
+ "kapak": {
+  "ust": "LESSON 269",
+  "baslik": "Auditory training<br>with an *implant*",
+  "alt": "Expectations, phone, music for adults",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Auditory Training for Adult Cochlear Implant Users | Lesson 269 | AIHEAR Audiology Academy",
+  "aciklama": "What can an adult cochlear implant user expect after activation? In this lesson we cover the timeline of progress, expectation counseling, analytic and synthetic training, the speech tracking method, phone use and music perception.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Tye-Murray, Foundations of Aural Rehabilitation: Children, Adults, and Their Family Members; Fu and Galvin, Perceptual learning and auditory training in cochlear implant recipients, Trends Amplif (2007); De Filippo and Scott, A method for training and evaluating the reception of ongoing speech, J Acoust Soc Am (1978); Limb and Roy, Technological, biological, and acoustical constraints to music perception in cochlear implant users, Hear Res (2014); Cusumano et al., Performance plateau in prelingually and postlingually deafened adult cochlear implant recipients, Otol Neurotol (2017).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "auditorytraining"
+  ],
+  "etiketler": [
+   "cochlear implant",
+   "adult cochlear implant",
+   "auditory training",
+   "analytic training",
+   "synthetic training",
+   "speech tracking",
+   "music perception",
+   "telephone use",
+   "expectation counseling",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 269",
+   "baslik": "*Auditory training* for adult implant users",
+   "alt": "Expectations, analytic and synthetic training, phone, music",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn what adult cochlear implant users can expect after activation and how auditory training is planned.",
+    "We will also cover analytic and synthetic training, phone use and listening to music."
+   ]
+  },
+  {
+   "id": "ilk_sesler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Expectations",
+   "baslik": "First sounds and *adjustment*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "First sounds",
+     "metin": "Robotic, metallic, high-pitched",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "The brain adapts",
+     "metin": "Weeks to months",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Postlingual loss",
+     "metin": "Usually faster",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Long-term deafness",
+     "metin": "May be slower",
+     "cumle": 3
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Family",
+     "metin": "Shares the expectations",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "After activation, many adults describe the first sounds as robotic, metallic or very high-pitched.",
+    "The brain adapts to this new electrical signal over time; for most people, sounds start to seem more natural within weeks to months.",
+    "Adults who lost their hearing after acquiring language, that is, with postlingual loss, usually progress faster.",
+    "In adults deaf since childhood or without sound for many years, progress may be slower and more limited.",
+    "So each user's progress is compared with their own starting point, not with someone else's.",
+    "Family and friends are also informed about the process; disappointment in the first weeks is common and temporary."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Expectations",
+   "baslik": "The *timeline* of progress",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "adim": 6,
+     "ad": "After activation (months)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Speech understanding (%)"
+    },
+    "seriler": [
+     {
+      "ad": "ornek",
+      "noktalar": [
+       [
+        0,
+        10
+       ],
+       [
+        1,
+        30
+       ],
+       [
+        3,
+        50
+       ],
+       [
+        6,
+        62
+       ],
+       [
+        12,
+        70
+       ],
+       [
+        24,
+        74
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "example user",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "aralik",
+      "y": [
+       30,
+       90
+      ],
+      "renk": "sari",
+      "etiket": "wide individual differences",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "plato",
+      "x": 12,
+      "y": 70,
+      "etiket": "plateau",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Most gains in the first months",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Most reach a plateau in year one",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Values are examples",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "In adults with postlingual loss, most of the gain in speech understanding happens in the first few months.",
+    "According to clinical data, many users reach a plateau, a level where progress slows, within the first year.",
+    "However, some studies have shown that progress can continue at a slower rate for several years.",
+    "The curve in the graph is an example of this typical course; the yellow band shows the wide differences between people.",
+    "In the same period, some users can talk on the phone, while others still need speechreading to understand.",
+    "So expectations are discussed as a likely range rather than a single number.",
+    "Auditory training is planned to support this learning process, especially in the first months."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Expectations",
+   "baslik": "*Expectation counseling* after activation",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Personal goals",
+     "metin": "Written with the COSI",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Discuss a range",
+     "metin": "Not a single number",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "No comparisons",
+     "metin": "With other users",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Feelings",
+     "metin": "Disappointment is normal",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Regular checkups",
+     "metin": "Return to the goals",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Expectation counseling continues after activation; the person's own goals are written with the Client Oriented Scale of Improvement.",
+    "Measured results are shared with the person, and the likely range of progress is discussed openly.",
+    "Comparing oneself with another user met in the waiting room can be misleading.",
+    "Fatigue, disappointment and worry are normal in the first months; these feelings should be open to discussion.",
+    "At every checkup, the goals written at the start are revisited and new goals are added.",
+    "Realistic expectations also support regular use and engagement in training."
+   ]
+  },
+  {
+   "id": "analitik_sentetik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Types of training",
+   "baslik": "Analytic and *synthetic* training",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Analytic",
+     "metin": "Small units, bottom up",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Example",
+     "metin": "bat or pat?",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Synthetic",
+     "metin": "Sentences and context",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Example",
+     "metin": "Conversation on a known topic",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Auditory training approaches fall into two basic orientations: analytic and synthetic training.",
+    "Analytic training focuses on small units of speech, meaning sounds, syllables and the differences between them.",
+    "For example, the person practices telling the words bat and pat apart; the only difference here is voicing.",
+    "Synthetic training aims to grasp the whole meaning at the sentence and conversation level, using context.",
+    "For example, repeating a sentence whose topic was given in advance, or following a story, is synthetic practice.",
+    "Analytic training strengthens bottom-up processing, while synthetic training strengthens top-down processing.",
+    "Most programs combine the two; the balance is set by the person's level and goal."
+   ]
+  },
+  {
+   "id": "analitik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Types of training",
+   "baslik": "Analytic training *examples*",
+   "maddeler": [
+    {
+     "metin": "Vowel contrasts: beat, bit, bat",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Consonant pairs: bat and pat",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Who is talking: woman or man?",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Recognizing environmental sounds",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "From closed set to open set",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Vowel",
+      "metin": "beat, bit, bat",
+      "cumle": 0
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Consonant",
+      "metin": "bat, pat, mat",
+      "cumle": 1
+     }
+    ],
+    "ust": "SAMPLE SETS"
+   },
+   "cumleler": [
+    "Vowel contrast exercises use words that differ only in the vowel; for example, beat, bit and bat.",
+    "Consonant exercises use pairs that differ in voicing, place or nasality, such as bat and pat, or bat and mat.",
+    "Telling whether the talker is a woman or a man, or whether a question or a statement was said, trains intonation cues.",
+    "Recognizing environmental sounds such as the doorbell, boiling water and the phone also matters for everyday safety.",
+    "Exercises start with a closed set of few choices; as success grows, choices are added and the person moves to an open set.",
+    "Analytic practice can be boring, so it is kept short and done with meaningful words."
+   ]
+  },
+  {
+   "id": "sentetik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Types of training",
+   "baslik": "Synthetic training *examples*",
+   "maddeler": [
+    {
+     "metin": "Sentences with a known topic",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Speech tracking: words per minute",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Audiobooks with written text",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Questions, answers and conversation",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Real-life scenarios",
+     "cumle": 5,
+     "ikon": "ev"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kitap",
+      "baslik": "First",
+      "metin": "Listen with the text",
+      "cumle": 3
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Then",
+      "metin": "Listen without the text",
+      "cumle": 3
+     }
+    ],
+    "ust": "AUDIOBOOK"
+   },
+   "cumleler": [
+    "Synthetic exercises start with sentences whose topic is given first; for example, knowing the topic is the kitchen makes a sentence easier.",
+    "In speech tracking, the talker reads a text section by section, and the listener repeats each section word for word.",
+    "The number of words correctly repeated per minute is used as the measure of progress.",
+    "At home, an audiobook can be listened to first with the written text, then without it.",
+    "Question and answer exercises and short conversations work on listening and speaking together.",
+    "Real-life scenarios that might occur at a pharmacy, a bank or on the phone are practiced through role play."
+   ]
+  },
+  {
+   "id": "zorlastirma",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Types of training",
+   "baslik": "Making it harder *step by step*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Face visible",
+     "metin": "Then sound only",
+     "cumle": 0
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Quiet room",
+     "metin": "Then noise",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Familiar voice",
+     "metin": "Then unfamiliar voices",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Closed set",
+     "metin": "Then open set",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Live voice",
+     "metin": "Then recordings, phone",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Training starts in easy conditions; first the talker's face is visible, then practice moves to listening alone.",
+    "Once success in a quiet room is solid, background noise is added and the signal-to-noise ratio is lowered.",
+    "Practice starts with the familiar voice of a spouse or someone close, then moves to different and unfamiliar talkers.",
+    "Tasks progress from those with few choices to open-set tasks with no choices.",
+    "After live voice, practice moves to recorded speech, television and the phone.",
+    "At each step, difficulty is kept at a level where the person mostly succeeds but is still challenged."
+   ]
+  },
+  {
+   "id": "ev",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Types of training",
+   "baslik": "Home programs and *apps*",
+   "maddeler": [
+    {
+     "metin": "Short, regular sessions",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Direct streaming to the processor",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Computer and tablet programs",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Limited transfer: link to real goals",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "dis_islemci",
+      "metin": "direct audio streaming",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dis_islemci",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "A home program consists of short, regular sessions; regularity matters more than long but infrequent practice.",
+    "Many processors allow direct audio streaming from a phone or tablet, which makes home practice easier.",
+    "Computer and tablet programs offer adaptive difficulty and instant feedback.",
+    "In some controlled studies, vowel and consonant recognition scores of implant users improved after this kind of training.",
+    "However, as in other studies with adults, transfer from the trained task to daily life may be limited.",
+    "So the home program is combined with the person's real-life goals and with rehabilitation in the clinic."
+   ]
+  },
+  {
+   "id": "telefon",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Phone and music",
+   "baslik": "Talking on the *phone*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "No visual cues",
+     "metin": "Sound only",
+     "cumle": 0
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Familiar person",
+     "metin": "Known topic",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Scripted calls",
+     "metin": "Written in advance",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Direct streaming",
+     "metin": "Wireless connection",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Video calls",
+     "metin": "The face is visible too",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Captioned calls",
+     "metin": "Speech-to-text app",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The phone is hard because the talker's face is not visible and phone audio may carry a narrower frequency range.",
+    "Practice starts with short calls to a familiar person on a topic known in advance.",
+    "Calls made with a prewritten script, for example with questions like what time is it, build the person's confidence.",
+    "Wireless, direct streaming of phone audio to the processor reduces room noise and makes understanding easier.",
+    "Video calls, where the face is visible, are a good intermediate step on the way to phone use.",
+    "Speech-to-text apps can also be used as support when needed."
+   ]
+  },
+  {
+   "id": "muzik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Phone and music",
+   "baslik": "Music *perception*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "yazilar": {
+      "1": "Rhythm",
+      "2": "Pitch, melody",
+      "3": "Timbre"
+     },
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "ad": "Music element"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Relative success (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        0.85,
+        95
+       ],
+       [
+        1.85,
+        95
+       ],
+       [
+        2.85,
+        90
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "normal hearing",
+      "cumle": 5
+     },
+     {
+      "ad": "implant",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1.15,
+        85
+       ],
+       [
+        2.15,
+        35
+       ],
+       [
+        3.15,
+        45
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "implant, example",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Rhythm: well preserved",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Pitch and timbre: difficult",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Schematic example",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "For implant users, music perception is a different and often harder area than speech.",
+    "The implant carries the timing and envelope information needed to understand speech well, but carries pitch information only partly.",
+    "So rhythm perception is well preserved in most users.",
+    "Pitch discrimination is often at the level of several semitones; in people with normal hearing it is usually under one semitone.",
+    "Recognizing a melody without words and telling instruments apart by timbre can also be markedly harder.",
+    "The graph is a schematic example of this general pattern; there are large differences between users.",
+    "Preserved low-frequency hearing in the same ear, or a hearing aid in the other ear, can help pitch perception."
+   ]
+  },
+  {
+   "id": "muzik_tanisma",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Phone and music",
+   "baslik": "Getting to know music *again*",
+   "ogeler": [
+    {
+     "ikon": "muzik",
+     "baslik": "Familiar songs",
+     "metin": "Known lyrics",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Simple arrangements",
+     "metin": "One instrument, one voice",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Direct streaming",
+     "metin": "Headphones or wireless",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "With lyrics",
+     "metin": "Read along while listening",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Regular listening",
+     "metin": "Short and enjoyable",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Realistic expectations",
+     "metin": "Enjoyment, not perfection",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "To get to know music again, it is advised to start with familiar songs whose lyrics the person knows.",
+    "Simple arrangements with a single instrument or voice are easier to follow than busy orchestral recordings.",
+    "Streaming music directly to the processor removes room reverberation and noise.",
+    "Listening to a song while reading the lyrics helps the brain match the melody with familiar information.",
+    "Music training has led to gains in melody and instrument recognition in some users; regular, enjoyable listening matters.",
+    "The aim is not to hear music as before, but to enjoy it again; this expectation is discussed from the start."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Choose the training goal from what the person wants in daily life: phoning a grandchild, chatting at a café or a favorite song. Goal-matched material boosts regular practice.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: choose the training goal from what the person wants in daily life.",
+    "Such as talking with a grandchild on the phone, chatting at a café or recognizing a favorite song again.",
+    "Prepare material to match this goal; for example, for a phone goal, practice with recorded phone speech.",
+    "As the person sees practice paying off in daily life, the chance of sticking with the program goes up."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Fast gains early, then a plateau",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Analytic: small units; synthetic: context",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Phone: familiar person, direct streaming",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Music: rhythm good, pitch hard",
+     "cumle": 3,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "In adult implant users, most progress happens in the first months; many reach a plateau within the first year.",
+    "Analytic training focuses on sound and syllable differences, synthetic training on sentences and context; programs combine both.",
+    "Phone practice starts with familiar people and direct audio streaming; video calls are a good intermediate step.",
+    "In music, rhythm is often preserved while pitch and timbre perception become harder; the aim is to enjoy music again."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which training is telling bat from pat?",
+   "secenekler": [
+    "Synthetic training",
+    "Analytic training",
+    "Speech tracking",
+    "Music training"
+   ],
+   "dogru": 1,
+   "aciklama": "Focusing on a single sound difference is _analytic training_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: practicing to tell the words bat and pat apart is an example of which type of auditory training?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: analytic training.",
+    "This practice focuses on a small unit of speech, a single sound difference; synthetic training uses context."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Educating Children with Hearing Loss: *Inclusion*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about school life, inclusive education and classroom accommodations for children with hearing loss.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

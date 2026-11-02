@@ -1,0 +1,568 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D053_How_Balance_Works_EN",
+ "kapak": {
+  "ust": "LESSON 53",
+  "baslik": "How balance<br>*works*",
+  "alt": "Vision, vestibular system, body sense",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "How Balance Works: Vision, Vestibular, Somatosensory | Lesson 53 | AIHEAR Audiology Academy",
+  "aciklama": "Balance comes from the brain combining information from vision, the vestibular system and the somatosensory system. In this lesson we look at sensory weighting, the vestibulospinal reflex (VSR), postural strategies, bedside and computerised balance tests, and the concept of central compensation.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Shumway-Cook and Woollacott, Motor Control: Translating Research into Clinical Practice; Herdman and Clendaniel, Vestibular Rehabilitation; Jacobson and Shepard, Balance Function Assessment and Management; Peterka (2002), Sensorimotor integration in human postural control, Journal of Neurophysiology; Shumway-Cook and Horak (1986), Assessing the influence of sensory interaction on balance, Physical Therapy.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "balance",
+   "vestibular"
+  ],
+  "etiketler": [
+   "balance",
+   "postural control",
+   "sensory integration",
+   "vestibulospinal reflex",
+   "proprioception",
+   "Romberg test",
+   "mCTSIB",
+   "posturography",
+   "vestibular compensation",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 53",
+   "baslik": "How balance *works*",
+   "alt": "Vision, vestibular and somatosensory systems",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the three sensory systems that keep us balanced and how the brain combines their information.",
+    "We will also get to know the vestibulospinal reflex, postural strategies, balance tests and the concept of central compensation."
+   ]
+  },
+  {
+   "id": "denge_nedir",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Three senses",
+   "baslik": "What is *balance*?",
+   "maddeler": [
+    {
+     "metin": "Center of mass over the _base of support_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Constant_ sway even when standing",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Input, integration, _output_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "agirlik_merkezi",
+      "metin": "Center of mass",
+      "cumle": 1
+     },
+     {
+      "parca": "destek_yuzeyi",
+      "metin": "Base of support",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "agirlik_merkezi",
+      "cumle": 1
+     },
+     {
+      "parca": "destek_yuzeyi",
+      "cumle": 1
+     },
+     {
+      "parca": "salinim",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Balance is the body's ability to keep its position without falling, both when still and when moving.",
+    "Physically, this means keeping the body's center of mass over the base of support formed by the feet.",
+    "Even when we stand upright, the body sways slightly all the time, and the nervous system corrects this moment by moment.",
+    "This control can be thought of in three stages: sensory input, central integration and motor output to the muscles.",
+    "In this lesson we will look first at the inputs, then at how the brain combines them and sends them to the muscles."
+   ]
+  },
+  {
+   "id": "uc_duyu",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Three senses",
+   "baslik": "Three *sensory* inputs",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Vision",
+     "metin": "Position relative to surroundings; moving scenes mislead",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Vestibular",
+     "metin": "Head motion, gravity; cannot sense the trunk",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Somatosensory",
+     "metin": "Ground, joint position; reduced on soft surfaces",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The three sensory systems that keep us balanced are vision, the vestibular system and the somatosensory system.",
+    "Vision reports our position relative to the surroundings, but can mislead, as when a train beside ours pulls out and we feel we move.",
+    "The vestibular system reports rotation and linear movement of the head and the direction of gravity.",
+    "But vestibular input alone cannot tell where the head is relative to the trunk; neck and trunk senses fill this in.",
+    "The somatosensory system reports pressure under the soles of the feet and the position of the joints.",
+    "The sense of position from joints and muscles is called proprioception; on a soft surface this information is reduced."
+   ]
+  },
+  {
+   "id": "agirlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Three senses",
+   "baslik": "Sensory *weighting*",
+   "maddeler": [
+    {
+     "metin": "Firm ground, light: _body sense_ leads",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Soft ground: _vision and vestibular_ rise",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Foam, eyes closed: _vestibular_",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "In conflict, vestibular is the _referee_",
+     "cumle": 5,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 4
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 4
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "The brain does not give the three senses equal weight in every situation; it changes their weights to suit the setting.",
+    "A healthy adult standing on firm ground in the light relies most on body sense for balance.",
+    "In the same condition, the share of the vestibular system and vision is smaller; the proportions vary by person and condition.",
+    "When the surface becomes soft or moves, the share of body sense falls, and vision and the vestibular system come to the fore.",
+    "With the eyes closed on a soft surface, balance is left largely to the vestibular system.",
+    "When the senses conflict, the vestibular system, with its gravity-based information, acts as a kind of referee."
+   ]
+  },
+  {
+   "id": "butunlesme",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Integration and output",
+   "baslik": "Where does the information *combine?*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Three senses",
+     "metin": "Vision, vestibular, body sense",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nuclei",
+     "metin": "First combined in the brainstem",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cerebellum",
+     "metin": "Compares, corrects errors",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cortex",
+     "metin": "Conscious perception, movement plan",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Combining information from the three senses is called sensory integration.",
+    "This integration begins in the vestibular nuclei of the brainstem.",
+    "The cerebellum compares the information, corrects errors and refines movements.",
+    "The cortex builds a conscious perception of the body's position in space and plans voluntary movements.",
+    "When the senses disagree, for example when reading on a ship, nausea and discomfort can appear; this is called motion sickness.",
+    "The sensory conflict theory is the most widely accepted explanation of motion sickness."
+   ]
+  },
+  {
+   "id": "vsr",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Integration and output",
+   "baslik": "The *vestibulospinal* reflex",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "VOR",
+     "metin": "Steadies gaze",
+     "cumle": 0
+    },
+    {
+     "ikon": "denge",
+     "baslik": "VSR",
+     "metin": "Keeps the body upright",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tilted side",
+     "metin": "Muscle tone increases",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Vestibulocollic reflex",
+     "metin": "Steadies the head",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The first output goes to the eyes: the vestibulo-ocular reflex, or VOR, from the last lesson keeps gaze steady.",
+    "The second output goes to the spinal cord; this is called the vestibulospinal reflex, or VSR.",
+    "For example, when the body tilts right, tone rises in the right leg and trunk muscles, supporting the body against falling.",
+    "This reflex excites the antigravity muscles through the lateral vestibulospinal tract, which descends from Deiters' nucleus.",
+    "The third output goes to the neck muscles; the vestibulocollic reflex steadies the head against trunk movements.",
+    "Eye, head and body reflexes working together let us stay balanced and see clearly while walking."
+   ]
+  },
+  {
+   "id": "stratejiler",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Integration and output",
+   "baslik": "Postural *strategies*",
+   "adimlar": [
+    {
+     "ikon": "denge",
+     "baslik": "Ankle",
+     "metin": "Small, slow sway; one piece",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Hip",
+     "metin": "Large, fast push; bend at hip",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Stepping",
+     "metin": "Beyond the limit, a new base",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "When balance is disturbed, the body uses different strategies depending on the size of the threat.",
+    "In small, slow sways the body moves as a single-piece pendulum pivoting at the ankle; this is the ankle strategy.",
+    "With larger, faster pushes or on a narrow surface, the body keeps balance by bending at the hip; this is the hip strategy.",
+    "If the center of mass moves outside the base of support, the person takes a step to create a new base of support.",
+    "People with vestibular loss may struggle more in situations that call for the hip strategy.",
+    "In older adults, slowing of these strategies is one of the factors that raise the risk of falls."
+   ]
+  },
+  {
+   "id": "mctsib",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Assessing balance",
+   "baslik": "Sensory test: *four conditions*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Condition 1",
+     "metin": "Firm, eyes open: all three senses",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Condition 2",
+     "metin": "Firm, eyes closed: body, vestibular",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Condition 3",
+     "metin": "Foam, eyes open: vision, vestibular",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Condition 4",
+     "metin": "Foam, eyes closed: vestibular",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "To test the sensory contributions, the modified Clinical Test of Sensory Interaction on Balance, or mCTSIB, is used."
+    },
+    "In the first condition, the person stands on a firm surface with eyes open; all three senses are available.",
+    "In the second condition the eyes are closed; balance is left to body sense and the vestibular system.",
+    "In the third condition, the person stands on a foam cushion with eyes open; body sense is reduced.",
+    "In the fourth condition, the eyes are also closed on the foam, and balance is left largely to the vestibular system.",
+    "Each condition is usually held for thirty seconds; clear difficulty in the fourth condition may suggest reduced vestibular contribution."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Assessing balance",
+   "baslik": "Bedside and *computerised* testing",
+   "ogeler": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Bedside",
+     "metin": "Romberg, mCTSIB; quick, cheap",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Observation-based",
+     "metin": "Small differences are hard to catch",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Posturography",
+     "metin": "Moving platform and visual surround",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Numerical measurement",
+     "metin": "Objective follow-up; fewer centers",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the Romberg test, the person stands with feet together; sway is observed first with eyes open, then with eyes closed.",
+    "Marked sway or a tendency to fall with the eyes closed is recorded as Romberg positive; classically it suggests loss of position sense.",
+    "Bedside tests are quick and cheap and can be done in any clinic.",
+    "But the results rely largely on observation, and small differences are hard to catch.",
+    "In computerised dynamic posturography, the platform and the visual surround can be moved in response to the person's sway.",
+    "In this way the sensory contributions are measured separately and numerically, and follow-up is more objective.",
+    "Bedside tests can be done in almost any clinic, while computerised posturography is expensive and found in fewer centers."
+   ]
+  },
+  {
+   "id": "kompanzasyon",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Compensation",
+   "baslik": "Central *compensation*",
+   "maddeler": [
+    {
+     "metin": "The brain _reduces_ the side difference",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Static symptoms: _days to weeks_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Dynamic symptoms: _slower_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Movement _supports_ the process",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "After a one-sided vestibular loss, the brain gradually reduces the imbalance between the two sides; this is called central compensation.",
+    "Static symptoms seen at rest, such as nystagmus and vertigo, often ease within days to weeks.",
+    "This rests on the resting activity of the vestibular nuclei being rebalanced with the help of the cerebellum.",
+    "Recovery of dynamic symptoms, which appear with head movement, takes longer and may not always be complete.",
+    "Compensation is supported by head and body movement and by visual stimulation; staying still for long can slow the process.",
+    "Long-term use of vestibular suppressant drugs is also reported to delay compensation; decisions on medication are for the physician."
+   ]
+  },
+  {
+   "id": "mekanizmalar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Compensation",
+   "baslik": "Pathways of *compensation*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Adaptation",
+     "metin": "VOR gain increases",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Substitution",
+     "metin": "Saccades, vision, body sense",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Habituation",
+     "metin": "Symptoms fade with repetition",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Recovery of function",
+     "metin": "The labyrinth partly recovers",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Compensation happens in several different ways.",
+    "In adaptation, the gain of the remaining vestibular function is increased; for example, the VOR gain rises partly.",
+    "In substitution, missing information is replaced in other ways, for example by corrective saccades or by vision and body sense.",
+    "In habituation, the discomfort response to a repeated stimulus decreases over time.",
+    "In some people, the function of the labyrinth itself can recover partly or completely.",
+    "Vestibular rehabilitation programs consist of exercises that target these mechanisms; we will look at them in later lessons."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Compensation",
+   "baslik": "Clinical caution",
+   "metin": "In balance tests, stand right next to the patient and be ready to prevent a fall. In eyes-closed and foam conditions safety comes first; use a safety harness if needed.",
+   "cumleler": [
+    "A clinical tip: in balance testing, safety always comes first.",
+    "Especially in the eyes-closed and foam conditions, stand right beside the patient, ready to prevent a fall.",
+    "With older people or those with marked unsteadiness, use a safety harness and leave no hard corners nearby.",
+    "If a person cannot complete a condition, record the time and how balance was lost; this information is valuable too."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_Three senses_: vision, vestibular, body sense",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "The brain _weights_ senses by condition",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_VSR_ keeps posture, VOR keeps gaze",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Compensation_: rebalancing after loss",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Balance relies on information from vision, the vestibular system and the somatosensory system.",
+    "The brain weights these senses differently by condition; on foam with eyes closed, the vestibular system comes to the fore.",
+    "The vestibulospinal reflex keeps us upright, while the VOR keeps gaze steady.",
+    "After a one-sided loss, the brain rebuilds balance through compensation; movement supports this process."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Standing on foam with eyes closed, which system does balance rely on most?",
+   "secenekler": [
+    "Vision",
+    "Vestibular system",
+    "Sensation from the soles",
+    "Hearing"
+   ],
+   "dogru": 1,
+   "aciklama": "With eyes closed vision is lost, on foam body sense is reduced; balance is left to the _vestibular system_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: standing on foam with eyes closed, which system does balance rely on most?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the vestibular system."
+    },
+    "With the eyes closed, vision is out of play, and on foam, body sense is largely out of play too."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "What Is Nystagmus? *Slow* and Fast Phases",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about the most important finding in vestibular assessment: nystagmus.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

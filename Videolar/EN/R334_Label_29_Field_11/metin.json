@@ -1,0 +1,90 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R334_Label_29_Field_11_EN",
+ "kapak": {
+  "ust": "QUICK FACT #334",
+  "baslik": "Label 29, *field 11*",
+  "alt": "Real-world hearing protection",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak_yolu"
+  ],
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How much does an earplug labeled 29 really protect? #shorts",
+  "aciklama": "Take an area at 95 dB(A) and a foam earplug with a noise reduction rating (NRR) of 29. Because the measurement is A-weighted, 7 is subtracted (22), and OSHA guidance halves this for real-world losses (11); about 84 dB(A) reaches the ear, not the 66 dB(A) the label suggests.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "noise",
+   "hearingprotection"
+  ],
+  "etiketler": [
+   "hearing protector",
+   "NRR",
+   "foam earplug",
+   "real-world protection",
+   "OSHA",
+   "hearing conservation",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How much does an earplug labeled 29 really protect?",
+  "bilgiler": [
+   "NRR 29; with A-weighted measurement, subtract 7 first: 22.",
+   "OSHA guidance halves this for the field: 11 dB.",
+   "In a 95 dB(A) area, about 84 dB(A) reaches the ear."
+  ],
+  "hashtag": [
+   "audiology",
+   "noise",
+   "hearingprotection"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #334",
+   "metin": "Is the label *right?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How much does an earplug labeled 29 really protect?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "*Estimated* real protection",
+   "sayi": "11",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The foam earplug's noise reduction rating, or NRR, is 29.",
+    "The area measures 95 decibels A, so 7 is subtracted first.",
+    "OSHA guidance halves the remaining 22 for real-world losses.",
+    "Estimated protection is 11 decibels, so about 84 reaches the ear.",
+    "Expecting 66 from the label overstates protection almost threefold."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D224",
+ "kaynak_baslik": "Hearing Protectors: Types and Real-World Protection"
+}

@@ -1,0 +1,156 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R037_Plateau_True_Threshold_EN",
+ "kapak": {
+  "ust": "QUICK FACT #37",
+  "baslik": "*Plateau*: the true threshold",
+  "alt": "Unmasked 50, masked 70 dB HL",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      50,
+      55,
+      60,
+      60
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      65,
+      65,
+      70,
+      70,
+      75,
+      75
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How misleading can an unmasked threshold be? #shorts",
+  "aciklama": "In this example, the unmasked threshold of the left ear is 50 dB, while the true threshold found with the plateau method is 70 dB HL. The range where the threshold stays the same as the noise rises is called the plateau; the threshold measured there belongs to the test ear.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "masking",
+   "audiometry"
+  ],
+  "etiketler": [
+   "plateau method",
+   "masking",
+   "Hood method",
+   "overmasking",
+   "undermasking",
+   "audiology",
+   "audiometry",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How misleading can an unmasked threshold be?",
+  "bilgiler": [
+   "In the example: unmasked threshold 50 dB, true threshold 70 dB HL.",
+   "If the threshold holds steady as noise rises, the plateau is found.",
+   "Too much noise crosses to the test ear: overmasking."
+  ],
+  "hashtag": [
+   "audiology",
+   "masking",
+   "audiometry"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #37",
+   "metin": "How *misleading* can an unmasked threshold be?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How misleading can an unmasked threshold be?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "The left ear's *true* threshold",
+   "sayi": "70",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "In this example, the left ear's unmasked threshold is fifty decibels.",
+    "The true threshold, found with the plateau method, is seventy dB HL."
+   ]
+  },
+  {
+   "id": "bolge",
+   "tur": "zincir",
+   "baslik": "*Three zones* as noise rises",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Under",
+     "cumle": 0,
+     "tr": "threshold rises"
+    },
+    {
+     "ad": "Plateau",
+     "cumle": 1,
+     "tr": "threshold steady"
+    },
+    {
+     "ad": "Over",
+     "cumle": 2,
+     "tr": "threshold rises again"
+    }
+   ],
+   "cumleler": [
+    "With too little noise, the other ear still hears the tone.",
+    "On the plateau, the threshold holds as noise rises; it is true.",
+    "Too much noise crosses to the test ear and raises the threshold."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D091",
+ "kaynak_baslik": "The plateau method, step by step"
+}

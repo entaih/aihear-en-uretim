@@ -1,0 +1,105 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R301_Forty_or_Eighty_Hz_EN",
+ "kapak": {
+  "ust": "QUICK FACT #301",
+  "baslik": "*80 Hz* for babies",
+  "alt": "Modulation rate changes the response source",
+  "cizim": "isitme_yolu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why is infant ASSR run at 80 Hz, not 40 Hz? #shorts",
+  "aciklama": "In ASSR, the response source depends on the modulation frequency. The roughly 40 Hz response comes mainly from the thalamus and auditory cortex and shrinks in sleep and sedation, while the 80 to 100 Hz response comes mainly from the brainstem and is barely affected by sleep. That is why infants and sleeping children are tested with high modulation rates.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ASSR",
+   "electrophysiology"
+  ],
+  "etiketler": [
+   "ASSR",
+   "auditory steady-state response",
+   "modulation frequency",
+   "40 Hz",
+   "80 Hz",
+   "infant hearing test",
+   "electrophysiology",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why is infant ASSR run at 80 Hz, not 40 Hz?",
+  "bilgiler": [
+   "The 40 Hz response comes from thalamus and cortex and shrinks in sleep.",
+   "The 80 to 100 Hz response comes from the brainstem.",
+   "It is barely affected by sleep, so it is used in infants."
+  ],
+  "hashtag": [
+   "audiology",
+   "ASSR",
+   "electrophysiology"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #301",
+   "metin": "Forty or *eighty?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why is infant ASSR run at 80 Hz, not 40 Hz?"
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "zincir",
+   "baslik": "Rate *changes the source*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "40 Hz",
+     "tr": "thalamus, cortex",
+     "cumle": 1
+    },
+    {
+     "ad": "Sleep",
+     "tr": "40 Hz shrinks",
+     "cumle": 2
+    },
+    {
+     "ad": "80-100 Hz",
+     "tr": "brainstem",
+     "cumle": 3
+    }
+   ],
+   "alt": "In infants: _80-100 Hz_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "In the auditory steady-state response, or ASSR, the source depends on modulation.",
+    "At about 40 hertz, it comes mainly from thalamus and auditory cortex.",
+    "This response shrinks markedly during sleep and sedation.",
+    "Between 80 and 100 hertz, it comes mainly from the brainstem.",
+    "Barely affected by sleep, this is the ASSR used in infants."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D198",
+ "kaynak_baslik": "Auditory Steady-State Response (ASSR)"
+}

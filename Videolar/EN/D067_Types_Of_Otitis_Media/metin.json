@@ -1,0 +1,246 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D067_Types_Of_Otitis_Media_EN",
+  "kapak": {
+    "ust": "LESSON 67",
+    "baslik": "Types of<br>*otitis media*",
+    "alt": "Acute, with effusion and chronic",
+    "cizim": "orta_kulak"
+  },
+  "youtube": {
+    "baslik": "Types of Otitis Media: Acute, Effusive, Chronic | Lesson 67 | AIHEAR Audiology Academy",
+    "aciklama": "Otitis media, or middle ear inflammation, is very common in childhood and is one of the main causes of conductive hearing loss. In this lesson, we use sample data to look at acute otitis media (AOM), otitis media with effusion (OME) and chronic suppurative otitis media (CSOM), their audiogram and tympanogram findings, and tympanostomy tubes.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: AAP Clinical Practice Guideline: The Diagnosis and Management of Acute Otitis Media (2013); AAO-HNS Clinical Practice Guideline: Otitis Media with Effusion (Update, 2016); WHO, Chronic Suppurative Otitis Media: Burden of Illness and Management Options (2004); Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "otitismedia", "hearing"],
+    "etiketler": ["otitis media", "acute otitis media", "otitis media with effusion", "OME", "chronic suppurative otitis media", "tympanostomy tube", "ventilation tube", "type B tympanogram", "conductive hearing loss", "middle ear infection", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 67", "baslik": "Types of *Otitis Media*: Acute, Effusive, Chronic", "alt": "Acute, with effusion and chronic suppurative otitis media",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn the three main types of otitis media, or middle ear inflammation.",
+       "With examples, we will also see how each type affects hearing and what the audiogram and tympanogram show."]},
+
+    {"id": "genel", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Overview", "baslik": "The middle ear and the *Eustachian tube*", "cizim": "orta_kulak",
+     "vurgula": [
+       {"parca": "ostaki_borusu", "cumle": 1},
+       {"parca": "timpanik_membran", "cumle": 5}],
+     "etiketler": [
+       {"parca": "ostaki_borusu", "metin": "Eustachian tube", "cumle": 1},
+       {"parca": "timpanik_membran", "metin": "tympanic membrane", "cumle": 5}],
+     "notlar": [
+       {"metin": "In children: short, horizontal, less rigid", "cumle": 3},
+       {"metin": "Fluid: less eardrum vibration", "cumle": 5}],
+     "cumleler": [
+       "Otitis media is inflammation of the middle ear, and it is very common, especially in childhood.",
+       "The middle ear is normally filled with air, and its pressure is balanced with the outside through the Eustachian tube.",
+       "When the Eustachian tube does not work well, negative pressure builds up in the middle ear, and fluid may collect over time.",
+       "In children, the Eustachian tube is shorter, more horizontal and less rigid than in adults.",
+       "That is why upper respiratory infections reach the middle ear more easily in children.",
+       "When the middle ear fills with fluid, the tympanic membrane, or eardrum, vibrates less, and a conductive hearing loss results."]},
+
+    {"id": "turler", "bolum_no": "PART 1", "bolum": "Overview", "tur": "ikonlar", "baslik": "Three main *types*",
+     "ogeler": [
+       {"ikon": "enfeksiyon", "baslik": "AOM", "metin": "Acute otitis media", "cumle": 0},
+       {"ikon": "kulak_tikali", "baslik": "OME", "metin": "Otitis media with effusion", "cumle": 1},
+       {"ikon": "akinti", "baslik": "CSOM", "metin": "Chronic suppurative otitis media", "cumle": 2},
+       {"ikon": "saat", "baslik": "Transition", "metin": "One type can lead to another", "cumle": 3}],
+     "cumleler": [
+       "In this lesson, we look at three main types; the first is acute otitis media, or AOM.",
+       "The second is otitis media with effusion, or OME; effusion means fluid collecting in the middle ear.",
+       "The third is chronic suppurative otitis media, or CSOM; suppurative means with discharge of pus.",
+       "One type can lead to another; for example, after an acute episode, fluid can stay in the middle ear for weeks."]},
+
+    {"id": "aom", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Acute otitis media", "baslik": "Acute otitis media (*AOM*)", "yan": {"tur": "cizim", "cizim": "orta_kulak", "cumle": 3, "vurgula": [{"parca": "timpanik_membran", "cumle": 3}, {"parca": "orta_kulak", "cumle": 4}], "etiketler": [{"parca": "timpanik_membran", "metin": "Tympanic membrane", "cumle": 3}, {"parca": "orta_kulak", "metin": "Middle ear", "cumle": 4}]},
+     "maddeler": [
+       {"metin": "_Sudden_ onset", "cumle": 0, "ikon": "saat"},
+       {"metin": "Ear pain, fever, irritability", "cumle": 1, "ikon": "agri"},
+       {"metin": "Red, _bulging_ eardrum", "cumle": 3, "ikon": "otoskop"},
+       {"metin": "_Conductive_ loss from fluid", "cumle": 4, "ikon": "kulak_tikali"}],
+     "cumleler": [
+       "Acute otitis media is a rapidly starting infection of the middle ear that often develops after a cold.",
+       "Typical symptoms are ear pain, fever and irritability; young children may often pull at their ear.",
+       "It is especially common in children between six months and two years of age.",
+       "On otoscopy, the tympanic membrane may look red, dull and bulging outward because of infected fluid in the middle ear.",
+       "The fluid in the middle ear causes a temporary conductive hearing loss.",
+       "Sometimes the membrane perforates on its own and the ear discharges; the pain often eases at this point."]},
+
+    {"id": "risk", "bolum_no": "PART 2", "bolum": "Acute otitis media", "tur": "ikonlar", "baslik": "*Risk* factors",
+     "ogeler": [
+       {"ikon": "kalabalik", "baslik": "Daycare, crowding", "metin": "More respiratory infections", "cumle": 0},
+       {"ikon": "uyari", "baslik": "Tobacco smoke", "metin": "Passive exposure is a risk too", "cumle": 1},
+       {"ikon": "bebek", "baslik": "Bottle feeding lying down", "metin": "Breast milk is protective", "cumle": 2},
+       {"ikon": "cocuk", "baslik": "Adenoids", "metin": "And cleft palate", "cumle": 3}],
+     "cumleler": [
+       "Attending daycare and crowded settings increase upper respiratory infections and, with them, otitis media.",
+       "Exposure to passive tobacco smoke is also a known risk factor.",
+       "Bottle feeding while the baby is lying down is counted among the risk factors, while breast milk is considered protective.",
+       "Adenoid hypertrophy, that is, enlarged adenoids, and cleft palate can impair Eustachian tube function.",
+       "This information guides which questions to ask when taking the history."]},
+
+    {"id": "aom_odyolog", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Acute otitis media", "baslik": "The *audiologist's* role in AOM",
+     "maddeler": [
+       {"metin": "Diagnosis and treatment: the _physician's_ job", "cumle": 0, "ikon": "hekim"},
+       {"metin": "Testing is usually _postponed_ while painful", "cumle": 1, "ikon": "takvim"},
+       {"metin": "_Hearing checks_ between episodes", "cumle": 3, "ikon": "kulaklik"}],
+     "cumleler": [
+       "Acute otitis media is diagnosed and treated by an ENT physician or a pediatrician.",
+       "During the painful acute phase, routine hearing tests are usually postponed.",
+       "Inserting a probe or changing the pressure in the ear canal while there is pain makes the child uncomfortable.",
+       "In children with recurrent episodes, it is important to check hearing between episodes.",
+       "This is because fluid can remain in the middle ear after an episode, and the hearing loss can quietly continue."]},
+
+    {"id": "ome", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "Otitis media with effusion", "baslik": "Otitis media with effusion (*OME*)",
+     "maddeler": [
+       {"metin": "Fluid present, no signs of acute infection", "cumle": 0, "ikon": "kulak_tikali"},
+       {"metin": "Often _without symptoms_", "cumle": 1, "ikon": "sessizlik"},
+       {"metin": "Usually clears _on its own_", "cumle": 3, "ikon": "takvim"},
+       {"metin": "_Very common_ in preschool children", "cumle": 4, "ikon": "cocuk"}],
+     "cumleler": [
+       "Otitis media with effusion is fluid in the middle ear without signs of acute infection.",
+       "There is usually no pain or fever, so it often goes unnoticed.",
+       "The only sign the family notices may be that the child is slow to respond when called or turns up the television.",
+       "In most children, the fluid clears on its own within a few months.",
+       "About ninety percent of children have otitis media with effusion at least once before school age.",
+       "It is more frequent and lasts longer in children with Down syndrome or cleft palate."]},
+
+    {"id": "ome_odyogram", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Otitis media with effusion", "baslik": "Example: an *OME* audiogram", "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [30, 30, 25, 25, 30, 35], "cumle": 1}, {"kulak": "sol", "tip": "hava", "degerler": [30, 35, 30, 25, 30, 35], "cumle": 1}, {"kulak": "sag", "tip": "kemik", "degerler": [5, 5, 5, 10, 10], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}, "aralik": {"konum": [1, 5, 30], "etiket": "25 dB", "cumle": 3}},
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Air conduction_: right ear", "cumle": 0},
+       {"isaret": "X", "renk": "sol", "metin": "_Air conduction_: left ear", "cumle": 0},
+       {"isaret": "&lt;", "renk": "sag", "metin": "_Bone conduction_: within normal limits", "cumle": 2}],
+     "cumleler": [
+       "This sample audiogram shows a picture that may be consistent with otitis media with effusion in both ears.",
+       "Air conduction thresholds in both ears are between twenty five and thirty five dB HL.",
+       "Bone conduction thresholds are within normal limits.",
+       "The difference of about twenty to twenty five decibels shows a mild conductive loss.",
+       "With effusion, the loss is usually mild; guidelines report an average of about twenty eight dB HL, though it can be greater.",
+       "The loss can fluctuate over time, depending on the amount and thickness of the fluid."]},
+
+    {"id": "timpanogram", "tur": "gorsel", "bolum_no": "PART 3", "bolum": "Otitis media with effusion", "baslik": "*Tympanogram* findings", "cizim": "timpanogram", "ayar": {"egriler": [{"tip": "A", "cumle": 0}, {"tip": "C", "cumle": 1}, {"tip": "B", "cumle": 2}]},
+     "notlar": [
+       {"metin": "A: normal middle ear pressure", "cumle": 0},
+       {"metin": "C: negative pressure", "cumle": 1},
+       {"metin": "B: flat curve, normal volume: fluid", "cumle": 3}],
+     "cumleler": [
+       "The most valuable objective finding of effusion is seen on tympanometry; first, let us recall the normal type A curve.",
+       "When the Eustachian tube does not work well, the peak shifts to negative pressure; this is type C, which can appear before fluid builds up.",
+       "When the middle ear fills with fluid, the membrane cannot move freely and the curve flattens; this is a type B tympanogram.",
+       "If the ear canal volume is normal with a type B curve, the finding is usually consistent with middle ear fluid.",
+       "Acoustic reflexes are also usually absent in this situation.",
+       "We will cover tympanogram types in detail later, in the immittance lessons."]},
+
+    {"id": "ome_onem", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "Otitis media with effusion", "baslik": "Why does OME *matter?*",
+     "maddeler": [
+       {"metin": "Fluctuating loss: _inconsistent_ auditory input", "cumle": 0, "ikon": "ses_dalgasi"},
+       {"metin": "Possible effect on language development", "cumle": 1, "ikon": "konusma"},
+       {"metin": "_Close_ monitoring of at-risk children", "cumle": 3, "ikon": "goz"},
+       {"metin": "Three months or more: _hearing test_", "cumle": 4, "ikon": "takvim"}],
+     "cumleler": [
+       "Even though otitis media with effusion causes a mild loss, when it lasts for months, the child's auditory input becomes inconsistent.",
+       "This can affect speech and language development, especially during the period when language develops quickly.",
+       "Struggling to hear the teacher in class can look like an attention or learning problem.",
+       "The effect may be greater in children with permanent hearing loss, developmental delay or vision problems; they are closely monitored.",
+       "Guidelines recommend an age-appropriate hearing test when effusion lasts three months or longer."]},
+
+    {"id": "tup", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Tympanostomy tubes", "baslik": "*Tympanostomy* tubes", "yan": {"tur": "cizim", "cizim": "orta_kulak", "cumle": 1, "vurgula": [{"parca": "timpanik_membran", "cumle": 1}, {"parca": "ostaki_borusu", "cumle": 2}], "etiketler": [{"parca": "timpanik_membran", "metin": "Tympanic membrane", "cumle": 1}, {"parca": "ostaki_borusu", "metin": "Eustachian tube", "cumle": 2}]},
+     "maddeler": [
+       {"metin": "Tympanostomy tube (ventilation tube)", "cumle": 0},
+       {"metin": "Small incision in the eardrum: _myringotomy_", "cumle": 1},
+       {"metin": "The tube _ventilates_ the middle ear", "cumle": 2},
+       {"metin": "Usually _falls out_ on its own", "cumle": 3},
+       {"metin": "The decision belongs to the _ENT physician_", "cumle": 4}],
+     "cumleler": [
+       "When effusion lasts a long time or episodes recur often, the ENT physician may recommend a tympanostomy tube, or ventilation tube.",
+       "A small incision is made in the tympanic membrane; this is called a myringotomy.",
+       "The small tube placed in the incision ventilates the middle ear in place of the Eustachian tube.",
+       "Short-term tubes mostly fall out on their own after six to eighteen months, and the membrane usually closes by itself.",
+       "The decision to place a tube is made by the ENT physician, guided by clinical guidelines."]},
+
+    {"id": "tup_bulgu", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Tympanostomy tubes", "baslik": "*Findings* in an ear with a tube", "yan": {"tur": "gorsel", "cizim": "timpanogram", "cumle": 1, "ayar": {"egriler": [{"tip": "B", "cumle": 1}]}, "etiketler": [{"parca": "B", "metin": "flat curve", "cumle": 1}]},
+     "maddeler": [
+       {"metin": "Open tube: flat curve, _large_ volume", "cumle": 1},
+       {"metin": "Blocked tube: flat curve, normal volume", "cumle": 2},
+       {"metin": "Fluid-related loss usually _resolves_", "cumle": 3},
+       {"metin": "Be _gentle_ with probes and inserts", "cumle": 4}],
+     "cumleler": [
+       "In an ear with a tube, tympanometry is used to check whether the tube is open.",
+       "If the tube is open, the curve is flat but the volume is larger than normal, because the device also measures the middle ear space.",
+       "If a flat curve comes with a normal volume, the tube may be blocked.",
+       "As long as the tube keeps working, the fluid-related conductive loss usually resolves.",
+       "In children with tubes, be gentle when placing insert earphones and probes."]},
+
+    {"id": "ksom", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Chronic suppurative otitis media", "baslik": "*CSOM*: the chronic suppurative type",
+     "maddeler": [
+       {"metin": "Permanent _perforation_", "cumle": 0, "ikon": "kulak"},
+       {"metin": "Recurrent or persistent _discharge_", "cumle": 0, "ikon": "akinti"},
+       {"metin": "Conductive, sometimes _mixed_ loss", "cumle": 3, "ikon": "odyogram"},
+       {"metin": "Cholesteatoma may develop", "cumle": 5, "ikon": "uyari"}],
+     "cumleler": [
+       "Chronic suppurative otitis media is defined by a permanent hole in the tympanic membrane with recurrent or persistent discharge through it.",
+       "The World Health Organization definition uses discharge lasting at least two weeks; some sources use a longer period.",
+       "It is usually painless; the patient's main complaints are discharge and reduced hearing.",
+       "The hearing loss is usually conductive and varies with the size of the perforation and any damage to the ossicles.",
+       "Long-standing inflammation can also affect the inner ear, and the loss can become mixed.",
+       "Some patients may develop a cholesteatoma; we will cover this in a separate lesson."]},
+
+    {"id": "karsilastirma", "tur": "tablo", "bolum_no": "PART 5", "bolum": "Chronic suppurative otitis media", "baslik": "The three types *compared*", "sutunlar": ["Feature", "AOM", "OME", "CSOM"],
+     "satirlar": [
+       {"hucreler": ["Onset", "Sudden", "Silent", "Long-standing"], "cumle": 0},
+       {"hucreler": ["Pain, fever", "Present", "Usually absent", "Usually absent"], "cumle": 1},
+       {"hucreler": ["Tympanic membrane", "Red, bulging", "Dull, less mobile", "Permanent perforation"], "cumle": 2},
+       {"hucreler": ["Discharge", "If perforated", "None", "Recurrent"], "cumle": 3},
+       {"hucreler": ["Tympanogram", "Usually B", "Usually B", "Flat, large volume"], "cumle": 4}],
+     "cumleler": [
+       "Let us compare the three types side by side: AOM starts suddenly, OME is silent, and CSOM is long-standing.",
+       "Pain and fever are seen mostly in acute otitis media.",
+       "The membrane is red and bulging in the acute phase, dull and less mobile with effusion, and perforated in the chronic suppurative type.",
+       "Discharge occurs in the acute type only if the membrane perforates, and recurs in the chronic type.",
+       "The tympanogram is usually type B with normal volume in the first two; with an open perforation, the curve is flat and the volume large."]},
+
+    {"id": "izlem", "bolum_no": "PART 5", "bolum": "Chronic suppurative otitis media", "tur": "akis", "baslik": "Audiological *follow-up*",
+     "adimlar": [
+       {"ikon": "kulaklik", "baslik": "Hearing test", "metin": "Age-appropriate method", "cumle": 1},
+       {"ikon": "timpanometre_prob", "baslik": "Tympanometry", "metin": "Together with the test", "cumle": 1},
+       {"ikon": "cocuk", "baslik": "Young child", "metin": "Visual reinforcement, play", "cumle": 2},
+       {"ikon": "konusma", "baslik": "Sharing", "metin": "With family and physician", "cumle": 3},
+       {"ikon": "takvim", "baslik": "Recheck", "metin": "After treatment", "cumle": 4}],
+     "cumleler": [
+       "In children with otitis media, the audiologist's role is to measure hearing and monitor change over time.",
+       "An age-appropriate hearing test is done together with tympanometry.",
+       "For young children, visual reinforcement audiometry or play audiometry is used.",
+       "The results are explained clearly to the family and shared with the physician.",
+       "After treatment, hearing is checked again to see whether it has returned to normal."]},
+
+    {"id": "ipucu", "tur": "ipucu", "bolum_no": "PART 5", "bolum": "Chronic suppurative otitis media", "baslik": "Clinical tip", "metin": "With a flat tympanogram, always read the volume: normal suggests fluid, large suggests a perforation or open tube, very small suggests wax or a probe against the wall.",
+     "cumleler": [
+       "A tip from practice: when you see a flat tympanogram, look not only at the curve but also at the measured ear canal volume.",
+       "If the volume is normal, the finding is usually consistent with middle ear fluid.",
+       "If the volume is clearly large, think of a perforation in the membrane or an open tube.",
+       "If the volume is very small, consider a probe pressed against the canal wall or impacted wax, and check with otoscopy."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [
+       {"metin": "AOM: _sudden_, painful, bulging eardrum", "cumle": 0, "ikon": "agri"},
+       {"metin": "OME: _silent_ fluid, type B curve", "cumle": 1, "ikon": "kulak_tikali"},
+       {"metin": "CSOM: permanent perforation and _discharge_", "cumle": 2, "ikon": "akinti"},
+       {"metin": "Tympanostomy tube: _ventilation_", "cumle": 3, "ikon": "kulak"}],
+     "cumleler": [
+       "Acute otitis media starts suddenly, with pain, fever and a bulging tympanic membrane.",
+       "Otitis media with effusion is often silent; it causes a mild, fluctuating conductive loss and a type B tympanogram.",
+       "Chronic suppurative otitis media involves a permanent perforation and recurrent discharge; the loss can sometimes be mixed.",
+       "A tympanostomy tube ventilates the middle ear; with an open tube, the tympanogram is flat and the volume is large."]},
+
+    {"id": "test", "tur": "test", "soru": "What does a flat tympanogram with a large ear canal volume suggest?", "secenekler": ["Middle ear fluid", "Open tube or perforation", "Impacted wax", "Normal middle ear"], "dogru": 1, "aciklama": "The device also measures the middle ear space behind the perforation or _open tube_, so the volume is larger.",
+     "cumleler": [
+       {"yazi": "Test yourself: If a flat tympanogram comes with a large ear canal volume, what should you think of?", "sonra_bekle": 5},
+       "The correct answer is B: an open tube or a perforation in the membrane.",
+       "In this case, the device also measures the middle ear space, so the volume is larger than normal."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "Eardrum *Perforation* and Its Effect on Hearing", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will look at how a tympanic membrane perforation affects hearing and how it can be repaired.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

@@ -1,0 +1,846 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D113_Audiometer_Calibration_EN",
+ "kapak": {
+  "ust": "LESSON 113",
+  "baslik": "Audiometer<br>*calibration*",
+  "alt": "Standards, couplers and levels of checking",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Audiometer Calibration: Why and How | Lesson 113 | AIHEAR Audiology Academy",
+  "aciklama": "Audiometer calibration verifies that the sound produced by earphones, bone vibrators and loudspeakers agrees with standards such as ISO 389 and IEC 60645. In this lesson we look at the RETSPL concept, the role of the artificial ear, the coupler and the sound level meter, the properties that are measured, and the daily, periodic and exhaustive levels of calibration.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ISO 389 series, Acoustics: Reference zero for the calibration of audiometric equipment; IEC 60645-1, Electroacoustics: Audiometric equipment, Part 1; ANSI/ASA S3.6, Specification for Audiometers; IEC 60318 series, Simulators of human head and ear; ISO 8253-1, Acoustics: Audiometric test methods, Part 1; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "calibration",
+   "audiometry"
+  ],
+  "etiketler": [
+   "audiometer calibration",
+   "calibration",
+   "RETSPL",
+   "artificial ear",
+   "coupler",
+   "sound level meter",
+   "ISO 389",
+   "IEC 60645",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 113",
+   "baslik": "Audiometer *Calibration*: Why and How",
+   "alt": "Why is it needed, and how is it done?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we will learn why audiometer calibration is needed, which standards it is based on, and how it is done.",
+    "We will talk about the role of the artificial ear, the coupler and the sound level meter, and the three levels of calibration."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why?",
+   "baslik": "*Why* is calibration needed?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Accurate threshold",
+     "metin": "Is the displayed value real?",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Wear",
+     "metin": "Drops, cables, parts",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Systematic error",
+     "metin": "Every patient is affected",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Comparison",
+     "metin": "Across clinics and years",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "If the audiometer display says forty dB HL, the earphone must really produce that level.",
+    "Calibration means measuring how well the sound produced by the device agrees with standard values, and correcting it if needed.",
+    "Earphones can be dropped, cables can wear, and electronic parts can change over time.",
+    "If these small changes go unnoticed, every patient's thresholds will be systematically wrong.",
+    "Being able to compare the same patient's results across clinics or over the years also depends on calibration.",
+    "This is why calibration is part of both clinical accuracy and professional responsibility."
+   ]
+  },
+  {
+   "id": "standartlar",
+   "tur": "tablo",
+   "bolum_no": "PART 1",
+   "bolum": "Why?",
+   "baslik": "Key *standards*",
+   "sutunlar": [
+    "Standard",
+    "Topic"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ISO 389 series",
+      "Reference zero levels"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "IEC 60645-1",
+      "Audiometer specifications"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "ANSI S3.6",
+      "US audiometer standard"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "IEC 60318 series",
+      "Ear simulators, couplers"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "ISO 8253-1",
+      "Test method, checks"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Calibration is done against values defined in international standards.",
+    {
+     "yazi": "The ISO 389 series gives the reference values that correspond to zero dB HL for each earphone and frequency.",
+     "ses": "The I.S.O. three eighty nine series gives the reference values that correspond to zero dB HL for each earphone and frequency."
+    },
+    {
+     "yazi": "IEC 60645-1 defines the technical properties of the audiometer, such as frequency, level and distortion.",
+     "ses": "I.E.C. sixty six forty five, part one, defines the technical properties of the audiometer, such as frequency, level and distortion."
+    },
+    {
+     "yazi": "In the United States, the same topics are covered by the ANSI S3.6 standard.",
+     "ses": "In the United States, the same topics are covered by the ANSI S three point six standard."
+    },
+    {
+     "yazi": "The IEC 60318 series defines the ear simulators and couplers used in measurement.",
+     "ses": "The I.E.C. sixty three eighteen series defines the ear simulators and couplers used in measurement."
+    },
+    {
+     "yazi": "ISO 8253-1 covers the test method and how often the equipment should be checked.",
+     "ses": "I.S.O. eighty two fifty three, part one, covers the test method and how often the equipment should be checked."
+    }
+   ]
+  },
+  {
+   "id": "retspl",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The measurement setup",
+   "baslik": "Reference zero: *RETSPL*",
+   "maddeler": [
+    {
+     "metin": "0 dB HL: _average normal threshold_",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Its equivalent: _RETSPL_ (dB SPL)",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "TDH-39, 1000 Hz: _about 7 dB SPL_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Bone conduction: _RETFL_ (force)",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 200,
+      "max": 9000,
+      "log": true,
+      "hz": true,
+      "isaretler": [
+       250,
+       500,
+       1000,
+       2000,
+       4000,
+       8000
+      ],
+      "ad": "Frequency (Hz)"
+     },
+     "y": {
+      "min": 0,
+      "max": 30,
+      "adim": 10,
+      "ad": "0 dB HL (dB SPL)"
+     },
+     "seriler": [
+      {
+       "ad": "retspl",
+       "noktalar": [
+        [
+         250,
+         25.5
+        ],
+        [
+         500,
+         11.5
+        ],
+        [
+         1000,
+         7
+        ],
+        [
+         2000,
+         9
+        ],
+        [
+         4000,
+         9.5
+        ],
+        [
+         8000,
+         13
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "yumusak": true,
+       "etiket": "TDH-39",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Let us recall from earlier lessons: zero dB HL is the average threshold of young adults with normal hearing.",
+    {
+     "yazi": "The sound pressure level matching this threshold at each frequency is the reference equivalent threshold sound pressure level, or RETSPL.",
+     "ses": "The sound pressure level matching this threshold at each frequency is the reference equivalent threshold sound pressure level, or R.E.T.S.P.L."
+    },
+    {
+     "yazi": "For example, with the TDH-39 earphone at one thousand hertz, zero dB HL corresponds to about seven dB SPL.",
+     "ses": "For example, with the T.D.H. thirty nine earphone at one thousand hertz, zero dB HL corresponds to about seven dB SPL."
+    },
+    {
+     "yazi": "For the bone vibrator, force is measured instead of sound pressure; this is the reference equivalent threshold force level, or RETFL.",
+     "ses": "For the bone vibrator, force is measured instead of sound pressure; this is the reference equivalent threshold force level, or R.E.T.F.L."
+    },
+    "The aim of calibration is to verify that the audiometer adds the correct amount above these reference values at every setting.",
+    "Because the reference values depend on the transducer and the measurement setup, the table for the earphone in use must be chosen."
+   ]
+  },
+  {
+   "id": "yapay_kulak",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The measurement setup",
+   "baslik": "Artificial ear and *coupler*",
+   "cizim": "kuplor",
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "bosluk",
+     "cumle": 3
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 5
+    },
+    {
+     "parca": "olcum_mikrofonu",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "Placed on the coupler",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Measured on an artificial mastoid",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Artificial ear: mimics the ear",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Coupler: 6 ml or 2 ml",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "The reading: dB SPL",
+     "cumle": 6,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "To measure the sound an earphone produces, a device that takes the place of the human ear is used.",
+    "An artificial ear is a measurement cavity that mimics the volume and acoustic properties of the ear covered by the earphone.",
+    "Simpler, hard-walled measurement cavities of a set volume are called couplers.",
+    "A common example for supra-aural earphones is the six milliliter coupler.",
+    "For insert earphones, a two milliliter coupler or an occluded ear simulator is used.",
+    "The bone vibrator is measured on an artificial mastoid, which mimics the human head.",
+    "A sensitive microphone inside the coupler passes the sound to the sound level meter, and the level is read in dB SPL."
+   ],
+   "ayar": {
+    "mod": "kalibrasyon",
+    "goster": {
+     "yapay_mastoid": 5
+    }
+   }
+  },
+  {
+   "id": "olcer",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The measurement setup",
+   "baslik": "The sound level *meter*",
+   "maddeler": [
+    {
+     "metin": "_Sound level meter_: signal to dB SPL",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Usually a _class 1_ device",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Octave filters_: noise measurement",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "First checked with an _acoustic calibrator_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CALIBRATOR",
+    "metin": "A fixed reference such as *94 dB SPL* at 1000 Hz",
+    "cumle": 4
+   },
+   "cumleler": [
+    "A sound level meter is a measuring instrument that converts the signal from a microphone into a sound pressure level.",
+    {
+     "yazi": "Calibration usually uses a class one meter, the highest accuracy class in the IEC 61672 standard.",
+     "ses": "Calibration usually uses a class one meter, the highest accuracy class in the I.E.C. sixty one six seventy two standard."
+    },
+    "Octave or third-octave filters are needed to measure noise signals and ambient noise.",
+    "Before measuring, the sound level meter itself is checked with an acoustic calibrator that produces sound at a known level.",
+    "For example, an acoustic calibrator produces a fixed reference sound such as ninety four dB SPL at one thousand hertz.",
+    "The calibrator, the microphone and the sound level meter are also verified regularly by an accredited laboratory."
+   ]
+  },
+  {
+   "id": "neler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "What is measured?",
+   "baslik": "*What* is measured in calibration?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Output level",
+     "metin": "Every frequency, every transducer",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frequency",
+     "metin": "Is the tone at the right frequency?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Distortion",
+     "metin": "Harmonics must be low",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Attenuator",
+     "metin": "Are the steps linear?",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Masking noise",
+     "metin": "Band and level",
+     "cumle": 5
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Timing",
+     "metin": "Rise, fall, pulsing",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "In an exhaustive calibration, output level is first measured at every frequency and for every transducer.",
+    "Standards usually allow a tolerance of plus or minus three decibels for this level, and somewhat wider at high frequencies.",
+    "Frequency accuracy is checked; a tone labeled one thousand hertz must really be close to one thousand hertz.",
+    "The purity of the tone, that is, low harmonic distortion, is verified.",
+    "The attenuator, or level control, is checked for linearity: each five decibel step must really be five decibels.",
+    "The bandwidth and level of the masking noises are also measured.",
+    "The rise and fall times of the tone and the timing of the pulsed tone are also compared with the standard."
+   ]
+  },
+  {
+   "id": "duzeyler",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "What is measured?",
+   "baslik": "The *three levels* of calibration",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Daily check",
+     "metin": "Listening and visual",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Periodic measurement",
+     "metin": "Basic acoustic measurements",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Exhaustive calibration",
+     "metin": "All properties",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Calibration is not a single procedure but a process thought of at three levels.",
+    "The first level is the listening and visual check done every day before testing; we will see it in detail in the next lesson.",
+    "The second level is periodic acoustic checks; output levels and basic properties are checked with measuring instruments.",
+    "These interim checks can be done several times a year, depending on how heavily the device is used.",
+    "The third level is exhaustive calibration, in which all technical properties are compared with the standard.",
+    "In many clinics, exhaustive calibration is done at least once a year and after every repair.",
+    {
+     "yazi": "ISO 8253-1 also defines the checks as stages A, B and C; the recommended intervals differ between standards.",
+     "ses": "I.S.O. eighty two fifty three, part one, also defines the checks as stages A, B and C; the recommended intervals differ between standards."
+    }
+   ]
+  },
+  {
+   "id": "kemik_serbest",
+   "tur": "karsilastir",
+   "bolum_no": "PART 4",
+   "bolum": "Other channels",
+   "baslik": "Bone conduction and *sound field*",
+   "sol": {
+    "ust": "Bone vibrator",
+    "maddeler": [
+     {
+      "metin": "Measured on an artificial mastoid",
+      "cumle": 0
+     },
+     {
+      "metin": "Unit: force level",
+      "cumle": 1
+     },
+     {
+      "metin": "Static force matters",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Sound field",
+    "maddeler": [
+     {
+      "metin": "Measured at the patient's head position",
+      "cumle": 3
+     },
+     {
+      "metin": "With no patient in the room",
+      "cumle": 4
+     },
+     {
+      "metin": "Warble tone, narrow band",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "The output of the bone vibrator is measured on an artificial mastoid.",
+    {
+     "yazi": "Here, it is not sound pressure but the vibratory force applied by the vibrator that is measured; the reference is the RETFL values.",
+     "ses": "Here, it is not sound pressure but the vibratory force applied by the vibrator that is measured; the reference is the R.E.T.F.L values."
+    },
+    "The force of the headband pressing the vibrator to the head also matters; standards define a specific static force.",
+    "In sound field calibration, the measuring microphone is placed where the patient's head will be.",
+    {
+     "yazi": "This measurement is made with no patient in the room; reference values are given in standards such as ISO 389-7.",
+     "ses": "This measurement is made with no patient in the room; reference values are given in standards such as I.S.O. three eighty nine, part seven."
+    },
+    "In loudspeaker testing, warble tones or narrowband noise are used to avoid standing waves in the room."
+   ]
+  },
+  {
+   "id": "hata",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Other channels",
+   "baslik": "The *cost* of drifted calibration",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "Frequency (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 40,
+     "adim": 10,
+     "ters": true,
+     "ad": "Hearing level (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "gercek",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "true threshold",
+      "cumle": 1
+     },
+     {
+      "ad": "olculen",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "with drifted device",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "centik",
+      "x": [
+       3000,
+       6000
+      ],
+      "renk": "sari",
+      "etiket": "false notch",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "4000 Hz output 10 dB low",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "A false notch",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Catch it early: regular checks",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Let us see the effect of a calibration error with an example.",
+    "The blue line shows the true thresholds of a person with normal hearing.",
+    "On this device, the earphone output at four thousand hertz has dropped by ten decibels; the threshold is measured ten decibels worse.",
+    "The result is a false four thousand hertz notch that suggests noise-induced hearing loss.",
+    "The same error repeats in every patient tested with that device and is hard to notice.",
+    "Daily checks and regular calibration with measurements catch errors like this early."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Other channels",
+   "baslik": "*Who* performs calibration?",
+   "maddeler": [
+    {
+     "metin": "Technical service or a _laboratory_",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Measuring instruments are also _traceable_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "The clinician: _daily check_",
+     "cumle": 2,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "If in doubt: _do not use the device_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Exhaustive calibration is done by a qualified technical service or laboratory with the necessary measuring equipment.",
+    "The measuring instruments themselves must also be linked to a traceable calibration chain.",
+    "The role of the audiologist and audiometrist is to do the daily checks and notice anything unusual.",
+    "Being able to read a calibration report and see that values are within tolerance is also part of this responsibility.",
+    "With a doubtful finding, the device is taken out of use and the service is called."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Earphones and vibrators are calibrated together with their audiometer. If you change an earphone, do not start testing patients before a measured check.",
+   "cumle": 0,
+   "cumleler": [
+    "A practical tip: calibration is done for the audiometer together with its own earphones and bone vibrator.",
+    "Swapping earphones with those of another device, or fitting a new earphone, can make the calibration invalid.",
+    "After such a change, do not start testing patients before a measured check.",
+    "Checking the serial numbers of the earphones and the vibrator on the calibration certificate is a good habit."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Records",
+   "baslik": "The calibration *record*",
+   "maddeler": [
+    {
+     "metin": "Date and _who measured_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Measured and _target_ values",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "A _calibration label_ on the device",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Expired calibration: _no testing_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RECORD",
+    "metin": "Undocumented calibration counts as *not done*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "The result of every calibration is recorded in a written document.",
+    "The document includes the date, the person or company who measured, the instruments used, and their calibration dates.",
+    "The measured values, the target values from the standard and any corrections made are written in a table.",
+    "Attaching a label to the device that shows the last calibration date is a common practice.",
+    "No measurements should be made with a device whose calibration has expired.",
+    "These records protect the clinic during quality audits and in case of any inquiry."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Calibration: verification against a _standard_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Artificial ear, _coupler_, sound level meter",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Level, frequency, distortion, _attenuator_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Daily, periodic, _yearly exhaustive_",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Calibration verifies the sound produced by the audiometer against standards such as ISO 389 and IEC 60645.",
+     "ses": "Calibration verifies the sound produced by the audiometer against standards such as I.S.O. three eighty nine and I.E.C. sixty six forty five."
+    },
+    "Earphone output is measured in dB SPL with a sound level meter, inside an artificial ear or a coupler.",
+    "Output level, frequency accuracy, distortion and attenuator linearity are checked.",
+    "Daily listening checks, periodic measurements and, usually, a yearly exhaustive calibration are used together."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "In calibration, what is a supra-aural earphone's output measured on?",
+   "secenekler": [
+    "An artificial mastoid",
+    "An artificial ear or coupler",
+    "The patient's ear",
+    "A sound field microphone"
+   ],
+   "dogru": 1,
+   "aciklama": "The earphone is placed on an _artificial ear or coupler_ that mimics the ear, and the level is read in dB SPL.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: In calibration, what is the output level of a supra-aural earphone measured on?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: an artificial ear or a coupler.",
+    "The artificial mastoid is for the bone vibrator; the earphone is placed on a measurement cavity that mimics the ear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The Daily *Biological* Listening Check",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will go step by step through the daily biological check, done in five minutes every morning.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

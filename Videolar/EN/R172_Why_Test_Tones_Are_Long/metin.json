@@ -1,0 +1,110 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R172_Why_Test_Tones_Are_Long_EN",
+ "kapak": {
+  "ust": "QUICK FACT #172",
+  "baslik": "Why are tones *long?*",
+  "alt": "Temporal integration: about 200-300 ms",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why do tones in a hearing test last a second or two? #shorts",
+  "aciklama": "The ear sums the energy of a short sound over about 200 to 300 milliseconds; this is called temporal integration, and tones shorter than this have higher thresholds. In pure-tone audiometry, tones are presented for about 1 to 2 seconds to stay well above this integration time.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiometry",
+   "hearing"
+  ],
+  "etiketler": [
+   "temporal integration",
+   "pure-tone audiometry",
+   "tone duration",
+   "threshold",
+   "psychoacoustics",
+   "hearing test",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why do tones in a hearing test last a second or two?",
+  "bilgiler": [
+   "The ear sums sound energy over about 200 to 300 ms.",
+   "Doubling the duration improves the threshold by about 3 dB.",
+   "So audiometry tones are presented for about 1 to 2 seconds."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #172",
+   "metin": "Why do test tones last *so long?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why do tones in a hearing test last a second or two?"
+   ]
+  },
+  {
+   "id": "butunlesme",
+   "tur": "zincir",
+   "baslik": "Temporal *integration*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Short tone",
+     "tr": "higher threshold",
+     "cumle": 1
+    },
+    {
+     "ad": "Double duration",
+     "tr": "about 3 dB better",
+     "cumle": 2
+    },
+    {
+     "ad": "200-300 ms",
+     "tr": "then no change",
+     "cumle": 3
+    }
+   ],
+   "alt": "Tone duration: _above integration time_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The ear sums the energy of a short sound over time.",
+    "So very short tones are harder to hear than long ones.",
+    {
+     "yazi": "Doubling the duration improves the threshold by about 3 dB.",
+     "ses": "Doubling the duration improves the threshold by about three decibels."
+    },
+    {
+     "yazi": "This improvement continues up to about 200 to 300 ms.",
+     "ses": "This improvement continues up to about two hundred to three hundred milliseconds."
+    },
+    "Audiometry tones last a second or two, so duration does not matter."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D083",
+ "kaynak_baslik": "Temporal Processing: Gap Detection and Integration"
+}

@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R474_Same_Frequency_Three_Thresholds_EN",
+ "kapak": {
+  "ust": "QUICK FACT #474",
+  "baslik": "One frequency, *three thresholds*",
+  "alt": "Consistency on retest",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What if three runs at one frequency give three different thresholds? #shorts",
+  "aciklama": "In the example case, the left threshold at 1000 hertz was 70, 55 and 70 dB in three separate runs; in organic loss, retests usually agree within five decibels. This shift is a warning, but it does not lead to a conclusion on its own; it is weighed together with the SRT, acoustic reflexes, OAEs and objective tests. Faced with inconsistent responses, we do not take an accusing tone; instructions are given again calmly and simply.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "casestudy"
+  ],
+  "etiketler": [
+   "pseudohypacusis",
+   "test-retest reliability",
+   "inconsistent responses",
+   "pure-tone audiometry",
+   "case study",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What if three runs at one frequency give three different thresholds?",
+  "bilgiler": [
+   "In organic loss, retests usually agree within 5 dB.",
+   "In the example, the same threshold measured 70, 55 and 70 dB.",
+   "The finding is a warning, weighed with the other tests."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "casestudy"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #474",
+   "metin": "Three runs, *three thresholds?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What if three runs at one frequency give three different thresholds?"
+   ]
+  },
+  {
+   "id": "tekrar",
+   "tur": "zincir",
+   "baslik": "Three runs at *1000 Hz*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Run 1",
+     "tr": "70 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "Run 2",
+     "tr": "55 dB",
+     "cumle": 1,
+     "gecikme": 0.5
+    },
+    {
+     "ad": "Run 3",
+     "tr": "70 dB",
+     "cumle": 1,
+     "gecikme": 1.0
+    }
+   ],
+   "alt": "Expected: _within 5 dB_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "The left threshold at one thousand hertz was measured three times.",
+    "The results were seventy, fifty-five and seventy decibels.",
+    "In organic loss, retests usually agree within five decibels.",
+    "This shift is a warning, but not a conclusion on its own.",
+    "Instructions are given again calmly, without accusing."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D277",
+ "kaynak_baslik": "Case: Inconsistent Responses and Pseudohypacusis"
+}

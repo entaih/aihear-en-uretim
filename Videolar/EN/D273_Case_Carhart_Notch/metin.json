@@ -1,0 +1,947 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D273_Case_Carhart_Notch_EN",
+ "kapak": {
+  "ust": "LESSON 273",
+  "baslik": "Case: the *Carhart*<br>notch",
+  "alt": "A gap with a normal tympanogram",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      40,
+      40,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      15,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Case: Air-Bone Gap, Normal Tympanogram, Carhart Notch | Lesson 273 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional adult case, we interpret an air-bone gap, a near-normal tympanogram and absent acoustic reflexes together. We cover the meaning of the Carhart notch, the audiological distinction between otosclerosis and superior canal dehiscence, and the audiologist's referral and reporting steps.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Carhart, Clinical application of bone conduction audiometry (1950); Minor, Superior canal dehiscence syndrome (2000).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "otosclerosis",
+   "casestudy"
+  ],
+  "etiketler": [
+   "Carhart notch",
+   "otosclerosis",
+   "absent acoustic reflex",
+   "air-bone gap",
+   "type As tympanogram",
+   "superior canal dehiscence",
+   "third window",
+   "VEMP",
+   "audiology case",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 273",
+   "baslik": "Case: the *Carhart* notch",
+   "alt": "Air-bone gap, normal tympanogram",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we work through an adult case with an air-bone gap but a near-normal tympanogram.",
+    "Together we will look at the Carhart notch, absent acoustic reflexes and the differential diagnosis with superior canal dehiscence."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Sample case: *history*",
+   "maddeler": [
+    {
+     "metin": "A sample woman, aged forty-two",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Slowly growing _left_ loss for years",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Her mother also had hearing loss",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Understands better in noisy places",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_No_ pain, discharge or dizziness",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "stapes",
+      "metin": "stapes",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "stapes",
+      "cumle": 1
+     },
+     {
+      "parca": "oval_pencere",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Our case is a fictional example: a forty-two-year-old woman comes in with reduced hearing in her left ear.",
+    "The loss has grown slowly over several years; she describes no sudden onset.",
+    "She says her mother also started using hearing aids at a young age.",
+    "An interesting detail: she says she understands people better in a noisy place than in a quiet one.",
+    "There is no ear pain, discharge or dizziness; she has occasional mild tinnitus in the left ear.",
+    "Understanding better in noise can be described with conductive losses, because people around speak louder in noise."
+   ]
+  },
+  {
+   "id": "otoskopi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Otoscopy: a *normal* drum",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sol"
+   },
+   "etiketler": [
+    {
+     "parca": "isik_ucgeni",
+     "metin": "light reflex present",
+     "cumle": 1
+    },
+    {
+     "parca": "pars_tensa",
+     "metin": "intact drum",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "pars_tensa",
+     "cumle": 0
+    },
+    {
+     "parca": "isik_ucgeni",
+     "cumle": 1
+    },
+    {
+     "parca": "manubrium",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "On otoscopy, both ear canals are clear and the tympanic membranes are intact and normal in appearance.",
+    "The light reflex and manubrium are visible; no fluid or mass is seen behind the drum.",
+    "In some ears with otosclerosis a pinkish blush behind the drum is described, but in most ears otoscopy is completely normal.",
+    "So a normal otoscopy does not rule out a middle ear problem; the next step is measurement."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram",
+   "baslik": "An *air-bone gap* in the left ear",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left_: masked bone conduction",
+     "cumle": 2
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "_Notch_ at 2000 Hz",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       40,
+       40,
+       35,
+       40
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      15,
+      45
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Right air conduction thresholds are within normal limits.",
+    "Left air conduction thresholds are between 35 and 45 dB HL; the loss is a little more marked in the low frequencies.",
+    "Left bone conduction thresholds, measured with the right ear masked, are 10 to 15 dB HL at most frequencies, in the normal range.",
+    "In the low frequencies the air-bone gap reaches 30 to 35 dB.",
+    "But at 2000 hertz bone conduction drops to 30 dB HL, about 15 dB worse than the neighboring frequencies.",
+    "The left pure-tone average is about 40 dB HL; the picture is consistent with a mild to moderate conductive loss in the left ear."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram",
+   "baslik": "*Why* does the notch occur?",
+   "cizim": "kemikcikler",
+   "ayar": {
+    "pencere": true
+   },
+   "etiketler": [
+    {
+     "parca": "stapes_taban",
+     "metin": "stapes footplate",
+     "cumle": 2
+    },
+    {
+     "parca": "ligamentum_anulare",
+     "metin": "annular ligament",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stapes",
+     "cumle": 2
+    },
+    {
+     "parca": "ligamentum_anulare",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Notch around _2000 Hz_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Mechanical, _not cochlear_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Often resolves after surgery",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "This drop in bone conduction around 2000 hertz is called the Carhart notch.",
+    "Part of bone conduction hearing comes from a middle ear component linked to the inertia of the ossicular chain.",
+    "When the stapes footplate is fixed to the oval window, this component shrinks and bone conduction worsens most around 2000 hertz.",
+    "So the notch does not show real cochlear damage; it is a mechanical effect.",
+    "The fact that the notch often resolves after successful stapes surgery also supports this explanation.",
+    "The Carhart notch suggests otosclerosis but is not specific to it; it can also be seen in other conductive problems."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Audiogram",
+   "baslik": "Speech and *tuning forks*",
+   "maddeler": [
+    {
+     "metin": "Left SRT 40 dB HL: _consistent_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Left score 100 percent",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Weber _to the left_, Rinne negative left",
+     "cumle": 3,
+     "ikon": "diyapazon"
+    },
+    {
+     "metin": "Autophony or sound-induced dizziness?",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "cumle": 3,
+    "ayar": {
+     "test": "rinne"
+    },
+    "vurgula": [
+     {
+      "parca": "mastoid",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The left speech reception threshold is 40 dB HL, consistent with the pure-tone average.",
+    "The left word recognition score was measured at 80 dB HL with the right ear masked and was 100 percent.",
+    "In conductive loss, speech presented at a sufficient level is understood well; this score confirms it.",
+    "On the tuning fork Weber test, sound lateralizes to the left ear; the Rinne test is negative on the left.",
+    "In the history we specifically ask about hearing one's own voice or pulse loudly, and about dizziness brought on by sound or pressure.",
+    "These questions matter for the differential diagnosis we will see shortly; our case has none of these complaints."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Immittance",
+   "baslik": "Tympanogram: *type As*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 1,
+      "kulak": "sag"
+     },
+     {
+      "tip": "As",
+      "cumle": 2,
+      "kulak": "sol"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Right: A, _0.8 mmho_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Left: As, _0.25 mmho_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A normal curve rules nothing out",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "In an ear with an air-bone gap, an abnormal tympanogram is often expected; in this case it is not.",
+    "The right ear has a normal type A curve with a peak static admittance of zero point eight mmho.",
+    "In the left ear the peak pressure is normal, but the peak height is zero point two five mmho, a shallow peak.",
+    {
+     "yazi": "Since the adult normal range is about zero point three to one point seven mmho, this curve is called type As.",
+     "ses": "Since the adult normal range is about zero point three to one point seven mmho, this curve is called type A S."
+    },
+    "Type As may suggest increased stiffness of the middle ear system, but in many ears with otosclerosis the tympanogram is fully type A.",
+    "So a normal or near-normal tympanogram does not explain an air-bone gap and does not rule out a problem."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Immittance",
+   "baslik": "Acoustic *reflexes*",
+   "sutunlar": [
+    "Measure",
+    "Stimulus",
+    "Probe",
+    "Reflex"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Left ipsi",
+      "Left",
+      "Left",
+      "Absent"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Right contra",
+      "Right",
+      "Left",
+      "Absent"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Left contra",
+      "Left",
+      "Right",
+      "Absent"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Right ipsi",
+      "Right",
+      "Right",
+      "85 dB HL"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The real clue lies in the acoustic reflexes.",
+    "The left ipsilateral reflex, measured with the probe in the left ear, is absent.",
+    "With stimulus right and probe left, the reflex is also absent; a fixed stapes shows no admittance change even when the muscle contracts.",
+    "With the stimulus left and the probe right, the reflex is again absent; the left conductive loss lowers the level reaching the cochlea.",
+    "With probe and stimulus both on the right, the reflex is present at 85 dB HL, a normal level.",
+    "In the early stage, brief deflections in the opposite direction may appear at the onset and offset of the reflex; this detail is noted."
+   ]
+  },
+  {
+   "id": "uyumsuz",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Immittance",
+   "baslik": "Three findings *together*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Air-bone gap",
+     "metin": "Left, confirmed with masking",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Near-normal curve",
+     "metin": "Type A or As",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Absent reflex",
+     "metin": "With the probe in the left ear",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The teaching point of this case is reading three findings together: first, an air-bone gap confirmed with masking.",
+    "Second, a normal or shallow-peaked tympanogram, with no curve suggesting middle ear fluid or a hole.",
+    "And third, absent acoustic reflexes when the affected ear holds the probe.",
+    "This triad suggests conditions that restrict movement of the ossicular chain, especially otosclerosis.",
+    "Otosclerosis is a bone remodeling disease of the otic capsule that fixes the stapes footplate to the oval window.",
+    "Age, sex and family history also fit this possibility; but this is a preliminary assessment, and the diagnosis is made by the physician."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Differential diagnosis",
+   "baslik": "Otosclerosis or *dehiscence*?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Bone conduction",
+     "metin": "May go below zero in dehiscence",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Acoustic reflex",
+     "metin": "Absent in otosclerosis, present in dehiscence",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "VEMP",
+     "metin": "Dehiscence: low threshold, large amplitude",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Symptoms",
+     "metin": "Autophony, sound-induced vertigo",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Another condition in which an air-bone gap and a normal tympanogram appear together is superior canal dehiscence.",
+    "In dehiscence the gap comes from the inner ear; bone conduction is often better than normal and can go below zero.",
+    "The most important distinction is the acoustic reflex: it is usually absent in otosclerosis, but preserved in dehiscence.",
+    {
+     "yazi": "The vestibular evoked myogenic potential, or VEMP, also helps: in dehiscence the cVEMP threshold drops and the oVEMP amplitude grows.",
+     "ses": "The vestibular evoked myogenic potential, or vemp, also helps: in dehiscence the C vemp threshold drops and the O vemp amplitude grows."
+    },
+    "In otosclerosis, VEMPs to air-conducted stimuli are usually absent.",
+    "People with dehiscence often describe hearing their own voice loudly and dizziness brought on by sound or pressure."
+   ]
+  },
+  {
+   "id": "scd",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Differential diagnosis",
+   "baslik": "Comparison: a *dehiscence* example",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left_: bone conduction below zero",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Reflexes _present_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       30,
+       25,
+       15,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       -10,
+       -5,
+       0,
+       5,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      0,
+      -10,
+      30
+     ],
+     "etiket": "40 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "For comparison, let us look at an entirely sample dehiscence audiogram; this is a different person.",
+    "Left air conduction is slightly raised in the low frequencies, while bone conduction is below zero at 250 and 500 hertz.",
+    "So there is an air-bone gap in the low frequencies, but bone conduction is better than normal.",
+    "In this person the tympanogram is type A and acoustic reflexes are preserved; this is the difference from our case.",
+    "So a very different mechanism can lie behind a gap that looks the same; reflex and bone conduction details show the way.",
+    "This distinction is valuable information for the physician in deciding which further tests to order."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Differential diagnosis",
+   "baslik": "*Other* conditions to consider",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ossicular discontinuity",
+     "metin": "Type Ad, large gap",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Malleus fixation",
+     "metin": "Absent reflex, type A",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Bone conduction error",
+     "metin": "Vibrator placement, masking",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "With ossicular discontinuity the tympanogram also does not show an effusion, but the curve is often deep-peaked, in other words type Ad.",
+     "ses": "With ossicular discontinuity the tympanogram also does not show an effusion, but the curve is often deep-peaked, in other words type A D."
+    },
+    "In discontinuity the air-bone gap is usually larger, and the history often includes trauma or past ear disease.",
+    "Rarer conditions such as malleus or incus fixation can give a similar picture; telling them apart is the physician's job.",
+    "Finally, technical causes are not forgotten: vibrator placement, a collapsing ear canal or undermasking can create a false gap.",
+    "So with a doubtful gap, measuring bone conduction again is the first and cheapest step."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "The audiologist's *steps*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Verify",
+     "metin": "Masked bone, retest",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Complete",
+     "metin": "Tympanogram and reflexes",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Document",
+     "metin": "Note notch and reflexes",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Refer",
+     "metin": "ENT physician",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Monitor",
+     "metin": "Serial audiograms",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "First we verify the air-bone gap: was bone conduction measured with correct masking, and is the vibrator placed correctly?",
+    "Then the tympanogram and acoustic reflexes are completed; in this case the reflex is the most telling finding.",
+    "The report states the Carhart notch, the reflex findings and the family history clearly.",
+    "The person is referred to an ENT physician with the findings; further tests and treatment options are assessed by the physician.",
+    {
+     "yazi": "If the physician sees a need, extra tests such as VEMP can be done in the audiology lab.",
+     "ses": "If the physician sees a need, extra tests such as vemp can be done in the audiology lab."
+    },
+    "Serial audiograms show whether the loss is progressing and whether bone conduction is preserved."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "The audiologist *after* the decision",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Surgical decision",
+     "metin": "Physician and person decide",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "After surgery",
+     "metin": "Has the gap closed?",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aid option",
+     "metin": "Gain works well in conductive loss",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sudden change",
+     "metin": "See the physician promptly",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Choosing surgery or another option is a decision made together by the physician and the person; the audiologist does not make it.",
+    "If surgery is done, the audiologist checks at follow-up both that the air-bone gap has closed and that bone conduction is preserved.",
+    "An air-bone gap reduced to 10 dB or less is a commonly used success criterion.",
+    "If surgery is not considered, a hearing aid is a good option; gain is usually used well in conductive loss.",
+    "If sudden hearing loss or dizziness occurs after surgery, the person is referred to the physician without delay."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "With an air-bone gap and a type A tympanogram, always measure reflexes; if present, consider an inner ear gap.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: in a person with an air-bone gap but a type A tympanogram, always measure the acoustic reflex.",
+    "If the reflex is absent, a condition restricting chain movement becomes more likely.",
+    "If the reflex is present, think of conditions that create a third window in the inner ear and check whether bone conduction goes below zero.",
+    "Either way you document the finding and refer the person to the physician, but your referral note will be far more informative."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "Sample *report* wording",
+   "maddeler": [
+    {
+     "metin": "Left: mild to moderate conductive loss",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Bone conduction notch at 2000 Hz",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Left As; no reflex with probe left",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Recommendation: ENT, serial audiograms",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        45,
+        40,
+        40,
+        35,
+        40
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        15,
+        15,
+        30,
+        15
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "In a sample report, the pure-tone result: mild to moderate conductive hearing loss in the left ear, right ear within normal limits.",
+    "Additional finding: a drop in left bone conduction at 2000 hertz consistent with a Carhart notch.",
+    {
+     "yazi": "Immittance: left type As tympanogram; acoustic reflexes absent with the probe in the left ear and with left stimulation.",
+     "ses": "Immittance: left type A S tympanogram; acoustic reflexes absent with the probe in the left ear and with left stimulation."
+    },
+    "Comment: findings may be consistent with a condition restricting ossicular chain movement, such as otosclerosis.",
+    "Recommendation: ENT assessment and audiological monitoring at intervals the physician considers appropriate."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Gap + normal curve + absent reflex",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Carhart notch: 2000 Hz, mechanical",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Reflexes and VEMP identify dehiscence",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "The audiologist documents and refers",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "A masked air-bone gap, a near-normal tympanogram and absent reflexes together suggest otosclerosis.",
+    "The Carhart notch is a mechanical drop in bone conduction around 2000 hertz.",
+    {
+     "yazi": "In superior canal dehiscence, bone conduction can go below zero, the reflex is preserved and VEMP findings differ.",
+     "ses": "In superior canal dehiscence, bone conduction can go below zero, the reflex is preserved and vemp findings differ."
+    },
+    "The audiologist's role is to verify the findings, report them fully and refer the person to the physician."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Gap present, type A, reflexes present. What is considered?",
+   "secenekler": [
+    "Otosclerosis is certain",
+    "A possible third window",
+    "Middle ear fluid",
+    "Perforation"
+   ],
+   "dogru": 1,
+   "aciklama": "If the reflex is preserved, an _inner ear_ gap is also considered.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: there is a low-frequency air-bone gap, the tympanogram is type A and reflexes are present. What is considered?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a possible third window, such as superior canal dehiscence.",
+    "In otosclerosis the reflex is usually absent; if it is preserved and bone conduction is better than normal, an inner ear gap comes to mind."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: *Asymmetric* Sensorineural Loss",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case we will look at an adult with asymmetric sensorineural loss and a lower than expected speech score.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

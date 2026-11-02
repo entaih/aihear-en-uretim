@@ -1,0 +1,1347 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D120_Sensitivity_Specificity_EN",
+ "kapak": {
+  "ust": "LESSON 120",
+  "baslik": "Sensitivity and<br>*specificity*",
+  "alt": "The two-by-two table and predictive values",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 100,
+    "adim": 20,
+    "ad": "Test value"
+   },
+   "y": {
+    "min": 0,
+    "max": 1.15,
+    "adim": 0.5,
+    "yazisiz": true,
+    "ad": "Number of people (relative)"
+   },
+   "seriler": [
+    {
+     "ad": "saglikli",
+     "noktalar": [
+      [
+       0,
+       0.002
+      ],
+      [
+       2.5,
+       0.005
+      ],
+      [
+       5.0,
+       0.011
+      ],
+      [
+       7.5,
+       0.023
+      ],
+      [
+       10.0,
+       0.044
+      ],
+      [
+       12.5,
+       0.08
+      ],
+      [
+       15.0,
+       0.135
+      ],
+      [
+       17.5,
+       0.216
+      ],
+      [
+       20.0,
+       0.325
+      ],
+      [
+       22.5,
+       0.458
+      ],
+      [
+       25.0,
+       0.607
+      ],
+      [
+       27.5,
+       0.755
+      ],
+      [
+       30.0,
+       0.882
+      ],
+      [
+       32.5,
+       0.969
+      ],
+      [
+       35.0,
+       1.0
+      ],
+      [
+       37.5,
+       0.969
+      ],
+      [
+       40.0,
+       0.882
+      ],
+      [
+       42.5,
+       0.755
+      ],
+      [
+       45.0,
+       0.607
+      ],
+      [
+       47.5,
+       0.458
+      ],
+      [
+       50.0,
+       0.325
+      ],
+      [
+       52.5,
+       0.216
+      ],
+      [
+       55.0,
+       0.135
+      ],
+      [
+       57.5,
+       0.08
+      ],
+      [
+       60.0,
+       0.044
+      ],
+      [
+       62.5,
+       0.023
+      ],
+      [
+       65.0,
+       0.011
+      ],
+      [
+       67.5,
+       0.005
+      ],
+      [
+       70.0,
+       0.002
+      ],
+      [
+       72.5,
+       0.001
+      ],
+      [
+       75.0,
+       0.0
+      ],
+      [
+       77.5,
+       0.0
+      ],
+      [
+       80.0,
+       0.0
+      ],
+      [
+       82.5,
+       0.0
+      ],
+      [
+       85.0,
+       0.0
+      ],
+      [
+       87.5,
+       0.0
+      ],
+      [
+       90.0,
+       0.0
+      ],
+      [
+       92.5,
+       0.0
+      ],
+      [
+       95.0,
+       0.0
+      ],
+      [
+       97.5,
+       0.0
+      ],
+      [
+       100.0,
+       0.0
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "dolgu": true,
+     "etiket": "healthy",
+     "etiket_konum": [
+      22,
+      1.05
+     ],
+     "cumle": 1
+    },
+    {
+     "ad": "hasta",
+     "noktalar": [
+      [
+       0,
+       0.0
+      ],
+      [
+       2.5,
+       0.0
+      ],
+      [
+       5.0,
+       0.0
+      ],
+      [
+       7.5,
+       0.0
+      ],
+      [
+       10.0,
+       0.0
+      ],
+      [
+       12.5,
+       0.0
+      ],
+      [
+       15.0,
+       0.0
+      ],
+      [
+       17.5,
+       0.0
+      ],
+      [
+       20.0,
+       0.0
+      ],
+      [
+       22.5,
+       0.0
+      ],
+      [
+       25.0,
+       0.0
+      ],
+      [
+       27.5,
+       0.001
+      ],
+      [
+       30.0,
+       0.002
+      ],
+      [
+       32.5,
+       0.005
+      ],
+      [
+       35.0,
+       0.011
+      ],
+      [
+       37.5,
+       0.023
+      ],
+      [
+       40.0,
+       0.044
+      ],
+      [
+       42.5,
+       0.08
+      ],
+      [
+       45.0,
+       0.135
+      ],
+      [
+       47.5,
+       0.216
+      ],
+      [
+       50.0,
+       0.325
+      ],
+      [
+       52.5,
+       0.458
+      ],
+      [
+       55.0,
+       0.607
+      ],
+      [
+       57.5,
+       0.755
+      ],
+      [
+       60.0,
+       0.882
+      ],
+      [
+       62.5,
+       0.969
+      ],
+      [
+       65.0,
+       1.0
+      ],
+      [
+       67.5,
+       0.969
+      ],
+      [
+       70.0,
+       0.882
+      ],
+      [
+       72.5,
+       0.755
+      ],
+      [
+       75.0,
+       0.607
+      ],
+      [
+       77.5,
+       0.458
+      ],
+      [
+       80.0,
+       0.325
+      ],
+      [
+       82.5,
+       0.216
+      ],
+      [
+       85.0,
+       0.135
+      ],
+      [
+       87.5,
+       0.08
+      ],
+      [
+       90.0,
+       0.044
+      ],
+      [
+       92.5,
+       0.023
+      ],
+      [
+       95.0,
+       0.011
+      ],
+      [
+       97.5,
+       0.005
+      ],
+      [
+       100.0,
+       0.002
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "dolgu": true,
+     "etiket": "affected",
+     "etiket_konum": [
+      72,
+      1.05
+     ],
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "kesme",
+     "x": 50,
+     "y": 1.1,
+     "cizgi": "dikey",
+     "etiket": "cutoff",
+     "cumle": 2
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Sensitivity, Specificity and Predictive Values | Lesson 120 | AIHEAR Audiology Academy",
+  "aciklama": "How well a test performs is described by its sensitivity, specificity and predictive values. In this lesson we use a fictional newborn hearing screening example to build the two-by-two table, calculate the four measures, and look at the cost of false positive and false negative results and the effect of prevalence on the positive predictive value.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Altman DG, Bland JM (1994), Diagnostic tests 1: sensitivity and specificity, BMJ; Altman DG, Bland JM (1994), Diagnostic tests 2: predictive values, BMJ; JCIH (2019), Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "biostatistics",
+   "screening"
+  ],
+  "etiketler": [
+   "sensitivity",
+   "specificity",
+   "positive predictive value",
+   "negative predictive value",
+   "two-by-two table",
+   "prevalence",
+   "newborn hearing screening",
+   "ROC curve",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 120",
+   "baslik": "Sensitivity, *Specificity* and Predictive Values",
+   "alt": "The two-by-two table and predictive values",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we will learn sensitivity, specificity and predictive values, which show how well a test tells people apart.",
+    "We will see how to build the two-by-two table, do the calculations, and interpret the results in a newborn hearing screening example."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Basics",
+   "baslik": "*How* accurate is the test?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "True positive",
+     "metin": "Affected, test positive",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "False positive",
+     "metin": "Healthy, test positive",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "False negative",
+     "metin": "Affected, test negative",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "True negative",
+     "metin": "Healthy, test negative",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "We compare a test result with a reference test that shows the condition with certainty; this is called the gold standard.",
+    "If the test is positive in a person who has the condition, the result is a true positive.",
+    "If the test is positive in a healthy person, it is a false positive result.",
+    "If the test is negative in a person who has the condition, it is a false negative result.",
+    "If the test is negative in a healthy person, the result is a true negative.",
+    "These four possibilities are the basis of every measure that describes test performance."
+   ]
+  },
+  {
+   "id": "dortlu",
+   "tur": "tablo",
+   "bolum_no": "PART 1",
+   "bolum": "Basics",
+   "baslik": "The *two-by-two* table",
+   "sutunlar": [
+    "Test result",
+    "Condition present",
+    "Condition absent"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Test positive",
+      "a: true positive",
+      "b: false positive"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Test negative",
+      "c: false negative",
+      "d: true negative"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Total",
+      "a + c",
+      "b + d"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "We arrange these four possibilities in a table with two rows and two columns; this is called a two-by-two, or contingency, table.",
+    "The rows show the test result, and the columns show the true condition according to the gold standard.",
+    "The cells are usually labeled a, b, c and d: a is true positive, b false positive, c false negative, and d true negative.",
+    "The column totals give the number of people who truly have the condition and the number who are healthy.",
+    "All the calculations are made from these four numbers."
+   ]
+  },
+  {
+   "id": "duyarlilik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Sensitivity and specificity",
+   "baslik": "*Sensitivity* and specificity",
+   "maddeler": [
+    {
+     "metin": "_Sensitivity_ = a / (a + c)",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "If high: _few cases missed_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Specificity_ = d / (b + d)",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "If high: few _false alarms_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REMEMBER",
+    "metin": "Sensitivity catches the affected, specificity the *healthy*",
+    "cumle": 6
+   },
+   "cumleler": [
+    "Sensitivity is the proportion of people with the condition whom the test finds positive.",
+    "As a formula, sensitivity is a divided by a plus c.",
+    "A highly sensitive test rarely misses affected people; in other words, there are few false negatives.",
+    "Specificity is the proportion of healthy people whom the test finds negative.",
+    "As a formula, specificity is d divided by b plus d.",
+    "A highly specific test rarely labels healthy people as affected; in other words, there are few false positives.",
+    "These two measures are properties of the test itself and are not directly affected by how common the condition is."
+   ]
+  },
+  {
+   "id": "kesme",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Sensitivity and specificity",
+   "baslik": "When the cutoff *moves*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Test value"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.15,
+     "adim": 0.5,
+     "yazisiz": true,
+     "ad": "Number of people (relative)"
+    },
+    "seriler": [
+     {
+      "ad": "saglikli",
+      "noktalar": [
+       [
+        0,
+        0.002
+       ],
+       [
+        2.5,
+        0.005
+       ],
+       [
+        5.0,
+        0.011
+       ],
+       [
+        7.5,
+        0.023
+       ],
+       [
+        10.0,
+        0.044
+       ],
+       [
+        12.5,
+        0.08
+       ],
+       [
+        15.0,
+        0.135
+       ],
+       [
+        17.5,
+        0.216
+       ],
+       [
+        20.0,
+        0.325
+       ],
+       [
+        22.5,
+        0.458
+       ],
+       [
+        25.0,
+        0.607
+       ],
+       [
+        27.5,
+        0.755
+       ],
+       [
+        30.0,
+        0.882
+       ],
+       [
+        32.5,
+        0.969
+       ],
+       [
+        35.0,
+        1.0
+       ],
+       [
+        37.5,
+        0.969
+       ],
+       [
+        40.0,
+        0.882
+       ],
+       [
+        42.5,
+        0.755
+       ],
+       [
+        45.0,
+        0.607
+       ],
+       [
+        47.5,
+        0.458
+       ],
+       [
+        50.0,
+        0.325
+       ],
+       [
+        52.5,
+        0.216
+       ],
+       [
+        55.0,
+        0.135
+       ],
+       [
+        57.5,
+        0.08
+       ],
+       [
+        60.0,
+        0.044
+       ],
+       [
+        62.5,
+        0.023
+       ],
+       [
+        65.0,
+        0.011
+       ],
+       [
+        67.5,
+        0.005
+       ],
+       [
+        70.0,
+        0.002
+       ],
+       [
+        72.5,
+        0.001
+       ],
+       [
+        75.0,
+        0.0
+       ],
+       [
+        77.5,
+        0.0
+       ],
+       [
+        80.0,
+        0.0
+       ],
+       [
+        82.5,
+        0.0
+       ],
+       [
+        85.0,
+        0.0
+       ],
+       [
+        87.5,
+        0.0
+       ],
+       [
+        90.0,
+        0.0
+       ],
+       [
+        92.5,
+        0.0
+       ],
+       [
+        95.0,
+        0.0
+       ],
+       [
+        97.5,
+        0.0
+       ],
+       [
+        100.0,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "healthy",
+      "etiket_konum": [
+       22,
+       1.05
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        10.0,
+        0.0
+       ],
+       [
+        12.5,
+        0.0
+       ],
+       [
+        15.0,
+        0.0
+       ],
+       [
+        17.5,
+        0.0
+       ],
+       [
+        20.0,
+        0.0
+       ],
+       [
+        22.5,
+        0.0
+       ],
+       [
+        25.0,
+        0.0
+       ],
+       [
+        27.5,
+        0.001
+       ],
+       [
+        30.0,
+        0.002
+       ],
+       [
+        32.5,
+        0.005
+       ],
+       [
+        35.0,
+        0.011
+       ],
+       [
+        37.5,
+        0.023
+       ],
+       [
+        40.0,
+        0.044
+       ],
+       [
+        42.5,
+        0.08
+       ],
+       [
+        45.0,
+        0.135
+       ],
+       [
+        47.5,
+        0.216
+       ],
+       [
+        50.0,
+        0.325
+       ],
+       [
+        52.5,
+        0.458
+       ],
+       [
+        55.0,
+        0.607
+       ],
+       [
+        57.5,
+        0.755
+       ],
+       [
+        60.0,
+        0.882
+       ],
+       [
+        62.5,
+        0.969
+       ],
+       [
+        65.0,
+        1.0
+       ],
+       [
+        67.5,
+        0.969
+       ],
+       [
+        70.0,
+        0.882
+       ],
+       [
+        72.5,
+        0.755
+       ],
+       [
+        75.0,
+        0.607
+       ],
+       [
+        77.5,
+        0.458
+       ],
+       [
+        80.0,
+        0.325
+       ],
+       [
+        82.5,
+        0.216
+       ],
+       [
+        85.0,
+        0.135
+       ],
+       [
+        87.5,
+        0.08
+       ],
+       [
+        90.0,
+        0.044
+       ],
+       [
+        92.5,
+        0.023
+       ],
+       [
+        95.0,
+        0.011
+       ],
+       [
+        97.5,
+        0.005
+       ],
+       [
+        100.0,
+        0.002
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "affected",
+      "etiket_konum": [
+       72,
+       1.05
+      ],
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesme",
+      "x": 50,
+      "y": 1.1,
+      "cizgi": "dikey",
+      "etiket": "cutoff",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yanlis_pozitif",
+      "x": [
+       50,
+       62
+      ],
+      "renk": "sari",
+      "etiket": "false positive",
+      "cumle": 3
+     },
+     {
+      "ad": "yanlis_negatif",
+      "x": [
+       38,
+       50
+      ],
+      "renk": "turuncu",
+      "etiket": "false negative",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Move left: sensitivity rises",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Move right: specificity rises",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "The balance: ROC curve",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Most tests produce a number; a cutoff is chosen to call the result positive or negative.",
+    "On the screen, we see the distributions of test values in healthy and affected groups; the two distributions partly overlap.",
+    "The cutoff is this vertical line; values to its right count as positive, and values to its left as negative.",
+    "In the overlap region, some healthy people test positive, and some affected people test negative.",
+    "If we move the cutoff to the left, sensitivity rises, but false positives also rise and specificity falls.",
+    "If we move it to the right, specificity rises, but more affected people are missed and sensitivity falls.",
+    "The graph that shows this trade-off across different cutoffs is called the ROC, or receiver operating characteristic, curve."
+   ]
+  },
+  {
+   "id": "bedel",
+   "tur": "karsilastir",
+   "bolum_no": "PART 3",
+   "bolum": "The cost of errors",
+   "baslik": "False positive or *false negative?*",
+   "sol": {
+    "ust": "False positive",
+    "maddeler": [
+     {
+      "metin": "Needless worry for the family",
+      "cumle": 0
+     },
+     {
+      "metin": "Needless further testing",
+      "cumle": 1
+     },
+     {
+      "metin": "Less trust in the program",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "False negative",
+    "maddeler": [
+     {
+      "metin": "Hearing loss is missed",
+      "cumle": 3
+     },
+     {
+      "metin": "Late diagnosis, late intervention",
+      "cumle": 4
+     },
+     {
+      "metin": "Language development may suffer",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "A false positive result causes needless worry in the family of a healthy baby.",
+    "The baby is called back for further tests, which means time, effort and cost.",
+    "Too many false positives reduce trust in the program and can increase loss to follow-up.",
+    "With a false negative result, a baby with hearing loss is counted as having passed the screening.",
+    "The family is reassured, but diagnosis and intervention are delayed.",
+    "Because late intervention can harm language and speech development, the cost of this error is high.",
+    "This is why high sensitivity usually comes first in screening; false positives are filtered out with a second-stage test."
+   ]
+  },
+  {
+   "id": "ongoru",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Predictive values",
+   "baslik": "*Predictive* values",
+   "maddeler": [
+    {
+     "metin": "_PPV_ = a / (a + b)",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "_NPV_ = d / (c + d)",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Predictive values depend on _prevalence_",
+     "cumle": 5,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Lower prevalence: _lower PPV_",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PPV",
+    "metin": "The chance of *truly* being affected after a positive test",
+    "cumle": 1
+   },
+   "cumleler": [
+    "In the clinic, our question is often the reverse: the test is positive, so what is the chance this person truly has the condition?",
+    "The answer to this question is the positive predictive value, or PPV.",
+    "PPV is the proportion of people with a positive test who truly have the condition, and it is a divided by a plus b.",
+    "The negative predictive value, or NPV, is the proportion of people with a negative test who are truly healthy.",
+    "NPV is calculated as d divided by c plus d.",
+    "Unlike sensitivity and specificity, predictive values depend on how common the condition is in the tested group.",
+    "This frequency is called prevalence; as prevalence falls, PPV falls too."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 5",
+   "bolum": "Screening example",
+   "baslik": "Example: *10,000* newborns",
+   "sutunlar": [
+    "Screening",
+    "Hearing loss",
+    "No hearing loss",
+    "Total"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Refer",
+      "19",
+      "400",
+      "419"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Pass",
+      "1",
+      "9,580",
+      "9,581"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Total",
+      "20",
+      "9,980",
+      "10,000"
+     ],
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Now let us do the calculations with a fictional newborn hearing screening example; the numbers are for illustration.",
+    "Ten thousand babies are screened, and twenty of them have permanent hearing loss; so the prevalence is two per thousand.",
+    "The screening catches nineteen of the twenty babies with hearing loss; one baby wrongly gets a pass result.",
+    "Of the nine thousand nine hundred eighty healthy babies, nine thousand five hundred eighty pass and four hundred are referred.",
+    "The total number of babies referred by the screening is four hundred nineteen.",
+    "This table shows how many different results even a good test produces across thousands of babies.",
+    "Now let us calculate the four measures from these numbers."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Screening example",
+   "baslik": "The *results*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Sensitivity",
+     "metin": "19 / 20: 95 percent",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Specificity",
+     "metin": "9,580 / 9,980: about 96 percent",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "PPV",
+     "metin": "19 / 419: about 4.5 percent",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "NPV",
+     "metin": "9,580 / 9,581: about 99.99 percent",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sensitivity is nineteen divided by twenty, that is, ninety five percent.",
+    "Specificity is nine thousand five hundred eighty divided by nine thousand nine hundred eighty, about ninety six percent.",
+    "The positive predictive value is nineteen divided by four hundred nineteen, only about four and a half percent.",
+    "So, of every hundred babies referred by the screening, only four or five truly have hearing loss.",
+    "The negative predictive value is about ninety nine point nine nine percent; almost all babies who pass are healthy.",
+    "Although the test is good, PPV is low, because permanent hearing loss is rare in newborns.",
+    "This is why families must be told carefully that a refer result is not a diagnosis, but a need for further testing."
+   ]
+  },
+  {
+   "id": "iki_asama",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Screening example",
+   "baslik": "Two-stage *screening*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "First screen",
+     "metin": "OAE or AABR",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Rescreen",
+     "metin": "Referred babies screened again",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Prevalence rises",
+     "metin": "Healthy babies filtered out",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Diagnostic test",
+     "metin": "Fewer referrals",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The way to reduce the false positive problem is to screen in stages.",
+    "Babies who do not pass the first screen are screened again before discharge or shortly after.",
+    "In the second stage, prevalence in the tested group is higher, because most healthy babies were filtered out in the first stage.",
+    "So the positive predictive value of the second test rises clearly, and fewer babies are referred for diagnostic assessment.",
+    "The price of this design is that a true loss can be missed in the second stage; so babies with risk factors are monitored separately.",
+    "We will cover screening protocols in detail in later lessons."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Sensitivity and specificity describe the test itself; predictive values describe your patient group. Think about the tested group when you interpret a result.",
+   "cumle": 1,
+   "cumleler": [
+    "A clinical tip: test brochures often give only sensitivity and specificity, but your question may be a different one.",
+    "The value of a test in your clinic depends on how common the condition is among your patients.",
+    "The same test gives a much higher positive predictive value in a high-risk intensive care group.",
+    "So when interpreting a result, always keep in mind the tested group and the pretest probability."
+   ]
+  },
+  {
+   "id": "odyoloji",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Screening example",
+   "baslik": "*Where* do we meet this in audiology?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Newborn screening",
+     "metin": "OAE and AABR",
+     "cumle": 1
+    },
+    {
+     "ikon": "okul",
+     "baslik": "School screening",
+     "metin": "Tones at a set level",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Retrocochlear suspicion",
+     "metin": "ABR and imaging",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Questionnaires",
+     "metin": "Cutoff score",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "These concepts come up in many areas of audiology.",
+    "In newborn screening, the performance of otoacoustic emission and automated brainstem response tests is described with these measures.",
+    "In school-age screening, responses to tones presented at a set level are judged with the same logic.",
+    "With a retrocochlear suspicion, the sensitivity of the auditory brainstem response compared with imaging guides the choice of test.",
+    "For questionnaires and screening questions, the sensitivity and specificity of the cutoff score are also reported.",
+    "When reading a paper, check in which group, and against which gold standard, these measures were obtained."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Sensitivity and _specificity_: test properties",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Two-by-two table: _a, b, c, d_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "_PPV_ depends on prevalence",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "In screening, _sensitivity_ comes first",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Sensitivity is the rate of correctly classifying affected people, and specificity healthy people; both are properties of the test.",
+    "All four measures are calculated from the a, b, c and d cells of the two-by-two table.",
+    "Predictive values depend on prevalence; for rare conditions, even a good test can have a low PPV.",
+    "In screening, high sensitivity comes first; false positives are reduced with staged testing."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "If the same test is used for a much rarer condition, which changes most?",
+   "secenekler": [
+    "Sensitivity",
+    "Specificity",
+    "Positive predictive value",
+    "None"
+   ],
+   "dogru": 2,
+   "aciklama": "Sensitivity and specificity are test properties; _PPV_ falls as prevalence falls.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: If the same test is used in a group where the condition is much rarer, which measure changes the most?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: the positive predictive value.",
+    "Sensitivity and specificity are properties of the test itself, while the positive predictive value falls as prevalence falls."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "What Are *Otoacoustic* Emissions?",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will get to know otoacoustic emissions, one of the main tests in newborn screening.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

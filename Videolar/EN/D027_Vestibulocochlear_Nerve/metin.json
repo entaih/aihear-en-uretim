@@ -1,0 +1,934 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D027_Vestibulocochlear_Nerve_EN",
+ "kapak": {
+  "ust": "LESSON 27",
+  "baslik": "Cranial<br>*nerve VIII*",
+  "alt": "The vestibulocochlear nerve",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "Cranial Nerve VIII: The Vestibulocochlear Nerve | Lesson 27 | AIHEAR Audiology Academy",
+  "aciklama": "The eighth cranial nerve carries hearing and balance information from the inner ear to the brainstem. In this lesson we cover its cochlear and vestibular branches, the spiral and Scarpa's ganglia, type I and type II neurons, efferent fibers, and its position in the internal auditory canal next to the facial nerve. We also link it to the ABR and look at clinical examples.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gray's Anatomy; Møller, Hearing: Anatomy, Physiology, and Disorders of the Auditory System; Hall, New Handbook of Auditory Evoked Responses; Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "anatomy",
+   "hearing"
+  ],
+  "etiketler": [
+   "eighth cranial nerve",
+   "vestibulocochlear nerve",
+   "cochlear nerve",
+   "vestibular nerve",
+   "spiral ganglion",
+   "Scarpa's ganglion",
+   "internal auditory canal",
+   "facial nerve",
+   "ABR",
+   "vestibular schwannoma",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 27",
+   "baslik": "Cranial *nerve VIII*",
+   "alt": "The vestibulocochlear nerve: hearing and balance",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will examine the eighth cranial nerve, which carries hearing and balance information from the inner ear to the brainstem.",
+    "We will learn its branches, its ganglia, its position in the internal auditory canal and its relation to the facial nerve."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "General structure",
+   "baslik": "The nerve of hearing and *balance*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibul",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Vestibulocochlear nerve",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "metin": "Cochlea",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibul",
+     "metin": "Vestibule",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "Internal auditory canal",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Entry: _cerebellopontine angle_",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Length: about _2.5 cm_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The anatomical name of the eighth cranial nerve is the nervus vestibulocochlearis, the nerve of balance and hearing."
+    },
+    "As the name suggests, it has two parts with two separate tasks.",
+    "The cochlear part carries hearing information from the cochlea, and the vestibular part carries motion information from the balance organs.",
+    "The nerve passes through the internal auditory canal into the cranial cavity and reaches the brainstem.",
+    "It enters the brainstem where the pons meets the medulla, in a region called the cerebellopontine angle.",
+    "In adults, the nerve runs about two and a half centimeters from the far end of the internal auditory canal to the brainstem."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "dallar",
+   "bolum_no": "PART 1",
+   "bolum": "General structure",
+   "baslik": "Cochlear and *vestibular* parts",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Cochlear nerve: comes _from the cochlea_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Spiral ganglion; about _30,000_ fibers",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Vestibular nerve: _superior and inferior_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Cell bodies: _Scarpa's ganglion_",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Fewer_ vestibular fibers",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "isitme_siniri",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    "vurgula": [
+     {
+      "parca": "koklear_sinir",
+      "cumle": 0
+     },
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "koklear_sinir",
+      "metin": "Cochlear nerve",
+      "cumle": 0
+     },
+     {
+      "parca": "vestibuler_sinir",
+      "metin": "Vestibular nerve",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The cochlear nerve carries fibers from the hair cells of the cochlea.",
+    "The cell bodies of these fibers lie in the ganglion spirale, the spiral ganglion, inside the modiolus, the core of the cochlea.",
+    "The human cochlear nerve has about thirty thousand nerve fibers.",
+    "The vestibular nerve divides into two branches, superior and inferior.",
+    {
+     "yazi": "The cell bodies of the vestibular fibers lie in the ganglion vestibulare, Scarpa's ganglion, in the internal auditory canal."
+    },
+    "The vestibular nerve has fewer fibers than the cochlear nerve."
+   ]
+  },
+  {
+   "id": "noronlar",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Cochlear fibers",
+   "baslik": "Type I and type II *neurons*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Spiral ganglion fibers",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Inner hair cell: type I",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Outer hair cells: type II",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Type I: about _90 to 95 percent_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Type II: about _5 to 10 percent_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Information mostly from _inner hair cells_",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "The spiral ganglion has two kinds of neurons, and they connect to different hair cells.",
+    {
+     "yazi": "About ninety to ninety five percent of the neurons are type I neurons, and they connect to inner hair cells.",
+     "ses": "About ninety to ninety five percent of the neurons are type one neurons, and they connect to inner hair cells."
+    },
+    "These neurons are large and myelinated; each goes to a single inner hair cell, while each inner hair cell receives many fibers.",
+    {
+     "yazi": "The remaining five to ten percent or so are type II neurons, and they connect to outer hair cells.",
+     "ses": "The remaining five to ten percent or so are type two neurons, and they connect to outer hair cells."
+    },
+    {
+     "yazi": "Type II neurons are small and unmyelinated; each one branches to reach many outer hair cells.",
+     "ses": "Type two neurons are small and unmyelinated; each one branches to reach many outer hair cells."
+    },
+    "This distribution shows that the hearing information sent to the brain comes mostly from the inner hair cells."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "sinaptopati",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Cochlear fibers",
+   "baslik": "A delicate link: the *synapse*",
+   "maddeler": [
+    {
+     "metin": "Inner hair cell and fiber: _synapse_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "May be affected _first_ by noise",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Audiogram may stay _normal_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Human research is _ongoing_",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "cumle": 0
+     },
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 1
+     }
+    ],
+    "yakinlastir": {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "The connection points between type I fibers and inner hair cells, the synapses, have been studied intensively in recent years.",
+     "ses": "The connection points between type one fibers and inner hair cells, the synapses, have been studied intensively in recent years."
+    },
+    "Animal studies have shown that noise can permanently damage some of these synapses, even when the hair cells survive.",
+    {
+     "yazi": "This is called cochlear synaptopathy; because thresholds are not affected, the audiogram may look normal."
+    },
+    "In humans, how common this is and how it relates to difficulty understanding speech in noise are still being studied.",
+    "This reminds us that a normal audiogram may not mean the neural pathway is fully intact."
+   ]
+  },
+  {
+   "id": "efferent",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Cochlear fibers",
+   "baslik": "From brain to cochlea: *efferent* fibers",
+   "maddeler": [
+    {
+     "metin": "Source: _superior olivary complex_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Medial fibers: _outer hair cells_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Lateral fibers: below inner hair cells",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Travel _with_ the vestibular nerve",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Superior olivary complex",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 1
+     },
+     {
+      "parca": "koklea",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The eighth nerve does not only carry information to the brain; it also contains efferent fibers running from the brain to the cochlea.",
+    "These fibers arise from the superior olivary complex; those from the medial part go to the outer hair cells.",
+    {
+     "yazi": "Those from the lateral part connect with the endings of type I fibers below the inner hair cells.",
+     "ses": "Those from the lateral part connect with the endings of type one fibers below the inner hair cells."
+    },
+    "After leaving the brainstem, the efferent fibers travel for a while with the vestibular nerve, then cross to the cochlea.",
+    "By adjusting outer hair cell activity, especially in noise, this system helps the signal be perceived more clearly."
+   ]
+  },
+  {
+   "id": "ic_kulak_yolu",
+   "bolum_no": "PART 3",
+   "bolum": "The internal auditory canal",
+   "baslik": "*Four quadrants* in the internal auditory canal",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Anterior superior",
+     "metin": "Facial nerve (VII)",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Anterior inferior",
+     "metin": "Cochlear nerve",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Posterior superior",
+     "metin": "Superior vestibular nerve",
+     "cumle": 4
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Posterior inferior",
+     "metin": "Inferior vestibular nerve",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The nerve runs within the meatus acusticus internus, the internal auditory canal of the temporal bone."
+    },
+    "At the far end of the internal auditory canal, the nerves are arranged in a set pattern.",
+    "A horizontal bony crest divides the canal into upper and lower parts, and a small vertical crest divides the upper part into front and back.",
+    "The facial nerve lies in the anterior superior quadrant, and the cochlear nerve in the anterior inferior quadrant.",
+    "The superior vestibular nerve lies in the posterior superior quadrant, and the inferior vestibular nerve in the posterior inferior quadrant.",
+    "To remember it: the seventh nerve is up, the cochlear nerve is down, and the vestibular nerves are at the back."
+   ]
+  },
+  {
+   "id": "komsuluk",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The internal auditory canal",
+   "baslik": "Next to the *facial nerve*",
+   "cizim": "ic_kulak_yolu_dibi",
+   "vurgula": [
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Facial nerve (VII)",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Cochlear nerve",
+     "cumle": 0
+    },
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Superior vestibular nerve",
+     "cumle": 0
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Inferior vestibular nerve",
+     "cumle": 0
+    },
+    {
+     "parca": "labirent_arteri",
+     "metin": "Labyrinthine artery",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Nervus facialis (facial nerve)",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Labyrinthine artery _takes the same route_",
+     "cumle": 3,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "_Preserving_ it matters in surgery",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In the internal auditory canal, the eighth nerve runs side by side with the seventh cranial nerve, the nervus facialis, or facial nerve."
+    },
+    "This means a mass in the internal auditory canal can affect both hearing and the facial muscles.",
+    "The motor fibers of the facial nerve move the facial muscles; this nerve also supplies the stapedius muscle.",
+    "The labyrinthine artery, which supplies the inner ear, usually reaches it along the same route.",
+    "This is why preserving the facial nerve is especially important in surgery of the internal auditory canal."
+   ]
+  },
+  {
+   "id": "hedefler",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The internal auditory canal",
+   "baslik": "*Targets* in the brainstem",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Cochlear nerve",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Cochlear nucleus",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Frequency map _preserved_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Vestibular fibers: _vestibular nuclei_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Some go to the _cerebellum_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "After entering the brainstem, cochlear nerve fibers reach the cochlear nucleus.",
+    "Here each fiber branches to connect with different parts of the nucleus, so sound information starts to be processed along parallel paths.",
+    "The frequency map of the cochlea, its tonotopy, is preserved in the nerve and in the cochlear nucleus as well.",
+    "Vestibular fibers, in turn, go to the vestibular nuclei in the brainstem.",
+    "Some vestibular fibers go directly to the cerebellum; these links help regulate balance and eye movements.",
+    "We will look at the continuation of the auditory pathway, from the brainstem to the cortex, in later lessons."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical links",
+   "baslik": "The nerve and the *ABR*",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 1.0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Wave I: cochlear end of the nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Wave V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "metin": "I-V interval",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dashed line: _normal_ recording",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal I-V: about _4 ms_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "The auditory brainstem response, or ABR, is one of the main clinical ways to assess the function of the eighth nerve.",
+    {
+     "yazi": "Wave I comes from the end of the nerve near the cochlea, and wave II from the part near the brainstem.",
+     "ses": "Wave one comes from the end of the nerve near the cochlea, and wave two from the part near the brainstem."
+    },
+    {
+     "yazi": "The later waves come from stations in the brainstem; wave V is the most prominent of them.",
+     "ses": "The later waves come from stations in the brainstem; wave five is the most prominent of them."
+    },
+    {
+     "yazi": "In this drawing the dashed line shows a normal recording; when conduction slows, the time between waves I and V gets longer.",
+     "ses": "In this drawing the dashed line shows a normal recording; when conduction slows, the time between waves one and five gets longer."
+    },
+    "In a normal adult, this interval is usually about four milliseconds.",
+    "This example only shows what a prolonged interval looks like; evaluation is always made together with all the findings."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical links",
+   "baslik": "Example: *asymmetric* sensorineural loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: high-frequency loss",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left masked bone conduction_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Left word recognition: _lower than expected_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       20,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       50
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Problems affecting the eighth nerve often show up as hearing loss in one ear.",
+    "In this example the right ear is normal, while the left ear shows a sensorineural loss that increases toward the high frequencies.",
+    "This asymmetry between the ears is a finding that may call for further study of the neural pathway.",
+    "In such ears the word recognition score may be worse than expected from the pure tone thresholds.",
+    {
+     "yazi": "Vestibular schwannoma, a benign tumor that usually arises from the vestibular branches of the eighth nerve, can cause this picture."
+    },
+    "The definitive assessment is made with magnetic resonance imaging; audiological tests are the first steps in this process."
+   ]
+  },
+  {
+   "id": "hangi_dal",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical links",
+   "baslik": "Which *branch* is affected?",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Superior: lateral, anterior canal, _utricle_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Superior: caloric, lateral vHIT, _oVEMP_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Inferior: posterior canal, _saccule_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Inferior: posterior vHIT, _cVEMP_; caloric normal",
+     "cumle": 4,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Vestibular neuritis: mostly _superior branch_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 0
+     },
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "superior_kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 1
+     },
+     {
+      "parca": "posterior_kanal",
+      "cumle": 3
+     },
+     {
+      "parca": "sakkul",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "utrikul",
+      "metin": "Utricle",
+      "cumle": 1
+     },
+     {
+      "parca": "sakkul",
+      "metin": "Saccule",
+      "cumle": 3
+     },
+     {
+      "parca": "posterior_kanal",
+      "metin": "Posterior canal",
+      "cumle": 3,
+      "yer": "sol"
+     }
+    ]
+   },
+   "cumleler": [
+    "Because the two vestibular branches go to different organs, we can tell in the clinic which branch is affected.",
+    "The superior branch carries fibers from the lateral and anterior canals and the utricle.",
+    "When it is affected, we expect weakness on the caloric test and the lateral canal video head impulse test, plus an abnormal ocular VEMP.",
+    "The inferior branch carries fibers from the posterior canal and most of the saccule.",
+    "When this branch is affected, posterior canal vHIT and cervical VEMP are abnormal, while the caloric test may stay normal.",
+    "Vestibular neuritis most often affects the superior branch, so the cervical VEMP is often preserved in these patients."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical links",
+   "baslik": "Clinical tip",
+   "metin": "In asymmetric sensorineural loss, do not stop at pure tones: measure word recognition and acoustic reflexes in each ear, and state the asymmetry clearly in the report.",
+   "cumleler": [
+    "A tip from practice: in sensorineural losses with a clear difference between the ears, do not stop at pure tone thresholds.",
+    "Also measure the word recognition score and the acoustic reflexes for each ear.",
+    "Word recognition lower than expected from the thresholds, or reflexes that are unexpectedly absent, point toward the neural pathway.",
+    "Stating the asymmetry and these findings clearly in the report helps the physician decide on further investigation."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Two parts: _cochlear_ and vestibular",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Spiral ganglion: _type I_ and type II",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Internal auditory canal: next to _facial nerve_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "ABR: I-V interval reflects the _neural pathway_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The eighth cranial nerve is made of the cochlear nerve and the superior and inferior vestibular nerves.",
+    {
+     "yazi": "Most cochlear fibers are type I neurons carrying information from inner hair cells; type II neurons go to outer hair cells.",
+     "ses": "Most cochlear fibers are type one neurons carrying information from inner hair cells; type two neurons go to outer hair cells."
+    },
+    "In the internal auditory canal, the facial nerve is front and up, the cochlear nerve front and down, and the vestibular nerves at the back.",
+    {
+     "yazi": "In the auditory brainstem response, the time between waves I and V reflects conduction in the nerve and brainstem.",
+     "ses": "In the auditory brainstem response, the time between waves one and five reflects conduction in the nerve and brainstem."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Where is the cochlear nerve in the internal auditory canal?",
+   "secenekler": [
+    "Anterior superior",
+    "Anterior inferior",
+    "Posterior superior",
+    "Posterior inferior"
+   ],
+   "dogru": 1,
+   "aciklama": "The facial nerve is _anterior superior_, the cochlear nerve anterior inferior; the vestibular nerves are posterior.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: At the far end of the internal auditory canal, in which quadrant does the cochlear nerve lie?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the anterior inferior quadrant."
+    },
+    "To remember it: the seventh nerve is up, the cochlear nerve is down, and the vestibular nerves are at the back."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Outer Ear *Acoustics*: Resonance and Direction Cues",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move on to physiology and see how the outer ear boosts sound and contributes to direction cues.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

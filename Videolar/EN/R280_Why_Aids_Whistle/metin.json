@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R280_Why_Aids_Whistle_EN",
+ "kapak": {
+  "ust": "QUICK FACT #280",
+  "baslik": "Why aids *whistle*",
+  "alt": "The acoustic feedback loop",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does a hearing aid whistle? #shorts",
+  "aciklama": "Acoustic feedback happens when sound from the receiver leaks through the vent or earmold edges and reaches the microphone again; the aid amplifies it again, and as the loop feeds itself a whistle appears. For any whistling complaint, the first step is to look in the ear canal with an otoscope; earwax is a common cause.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "feedback"
+  ],
+  "etiketler": [
+   "acoustic feedback",
+   "whistling",
+   "vent",
+   "earmold",
+   "feedback cancellation",
+   "otoscopy",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does a hearing aid whistle?",
+  "bilgiler": [
+   "Sound leaks through the vent or earmold edges back to the microphone.",
+   "The aid amplifies it again; as the loop grows, whistling starts.",
+   "For a new whistle, first look in the ear canal."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "feedback"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #280",
+   "metin": "Where does that *whistle* come from?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does a hearing aid whistle?"
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "zincir",
+   "baslik": "The feedback *loop*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Receiver",
+     "tr": "delivers sound",
+     "cumle": 0
+    },
+    {
+     "ad": "Leak",
+     "tr": "vent and edges",
+     "cumle": 1
+    },
+    {
+     "ad": "Microphone",
+     "tr": "amplifies again",
+     "cumle": 2
+    }
+   ],
+   "alt": "_Otoscopy_ first",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The receiver delivers amplified sound into the ear canal.",
+    "Some of it escapes through the vent or gaps around the earmold.",
+    "The leaked sound reaches the microphone, and the aid amplifies it again.",
+    "As the loop feeds itself, a steady whistle appears.",
+    "For a new whistle, first check the ear canal with an otoscope."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D184",
+ "kaynak_baslik": "Acoustic Feedback and the Occlusion Effect"
+}

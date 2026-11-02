@@ -1,0 +1,477 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R384_Five_Percent_of_Normals_EN",
+ "kapak": {
+  "ust": "QUICK FACT #384",
+  "baslik": "Normal, yet *outside limits*",
+  "alt": "The two standard deviation rule",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 4.8,
+    "max": 6.4,
+    "ad": "Wave V latency (ms)",
+    "isaretler": [
+     5.0,
+     5.2,
+     5.4,
+     5.6,
+     5.8,
+     6.0,
+     6.2
+    ],
+    "ond": 1
+   },
+   "y": {
+    "min": 0,
+    "max": 1.15,
+    "adim": 0.5,
+    "yazisiz": true,
+    "ad": "Number of people (relative)"
+   },
+   "seriler": [
+    {
+     "ad": "egri",
+     "noktalar": [
+      [
+       4.8,
+       0.0003
+      ],
+      [
+       4.82,
+       0.0005
+      ],
+      [
+       4.84,
+       0.0007
+      ],
+      [
+       4.86,
+       0.0011
+      ],
+      [
+       4.88,
+       0.0015
+      ],
+      [
+       4.9,
+       0.0022
+      ],
+      [
+       4.92,
+       0.0031
+      ],
+      [
+       4.94,
+       0.0043
+      ],
+      [
+       4.96,
+       0.006
+      ],
+      [
+       4.98,
+       0.0082
+      ],
+      [
+       5.0,
+       0.0111
+      ],
+      [
+       5.02,
+       0.0149
+      ],
+      [
+       5.04,
+       0.0198
+      ],
+      [
+       5.06,
+       0.0261
+      ],
+      [
+       5.08,
+       0.034
+      ],
+      [
+       5.1,
+       0.0439
+      ],
+      [
+       5.12,
+       0.0561
+      ],
+      [
+       5.14,
+       0.071
+      ],
+      [
+       5.16,
+       0.0889
+      ],
+      [
+       5.18,
+       0.1103
+      ],
+      [
+       5.2,
+       0.1353
+      ],
+      [
+       5.22,
+       0.1645
+      ],
+      [
+       5.24,
+       0.1979
+      ],
+      [
+       5.26,
+       0.2357
+      ],
+      [
+       5.28,
+       0.278
+      ],
+      [
+       5.3,
+       0.3247
+      ],
+      [
+       5.32,
+       0.3753
+      ],
+      [
+       5.34,
+       0.4296
+      ],
+      [
+       5.36,
+       0.4868
+      ],
+      [
+       5.38,
+       0.5461
+      ],
+      [
+       5.4,
+       0.6065
+      ],
+      [
+       5.42,
+       0.667
+      ],
+      [
+       5.44,
+       0.7261
+      ],
+      [
+       5.46,
+       0.7827
+      ],
+      [
+       5.48,
+       0.8353
+      ],
+      [
+       5.5,
+       0.8825
+      ],
+      [
+       5.52,
+       0.9231
+      ],
+      [
+       5.54,
+       0.956
+      ],
+      [
+       5.56,
+       0.9802
+      ],
+      [
+       5.58,
+       0.995
+      ],
+      [
+       5.6,
+       1.0
+      ],
+      [
+       5.62,
+       0.995
+      ],
+      [
+       5.64,
+       0.9802
+      ],
+      [
+       5.66,
+       0.956
+      ],
+      [
+       5.68,
+       0.9231
+      ],
+      [
+       5.7,
+       0.8825
+      ],
+      [
+       5.72,
+       0.8353
+      ],
+      [
+       5.74,
+       0.7827
+      ],
+      [
+       5.76,
+       0.7261
+      ],
+      [
+       5.78,
+       0.667
+      ],
+      [
+       5.8,
+       0.6065
+      ],
+      [
+       5.82,
+       0.5461
+      ],
+      [
+       5.84,
+       0.4868
+      ],
+      [
+       5.86,
+       0.4296
+      ],
+      [
+       5.88,
+       0.3753
+      ],
+      [
+       5.9,
+       0.3247
+      ],
+      [
+       5.92,
+       0.278
+      ],
+      [
+       5.94,
+       0.2357
+      ],
+      [
+       5.96,
+       0.1979
+      ],
+      [
+       5.98,
+       0.1645
+      ],
+      [
+       6.0,
+       0.1353
+      ],
+      [
+       6.02,
+       0.1103
+      ],
+      [
+       6.04,
+       0.0889
+      ],
+      [
+       6.06,
+       0.071
+      ],
+      [
+       6.08,
+       0.0561
+      ],
+      [
+       6.1,
+       0.0439
+      ],
+      [
+       6.12,
+       0.034
+      ],
+      [
+       6.14,
+       0.0261
+      ],
+      [
+       6.16,
+       0.0198
+      ],
+      [
+       6.18,
+       0.0149
+      ],
+      [
+       6.2,
+       0.0111
+      ],
+      [
+       6.22,
+       0.0082
+      ],
+      [
+       6.24,
+       0.006
+      ],
+      [
+       6.26,
+       0.0043
+      ],
+      [
+       6.28,
+       0.0031
+      ],
+      [
+       6.3,
+       0.0022
+      ],
+      [
+       6.32,
+       0.0015
+      ],
+      [
+       6.34,
+       0.0011
+      ],
+      [
+       6.36,
+       0.0007
+      ],
+      [
+       6.38,
+       0.0005
+      ],
+      [
+       6.4,
+       0.0003
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "dolgu": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "ortalama",
+     "x": 5.6,
+     "y": 1.08,
+     "cizgi": "dikey",
+     "etiket": "mean 5.6",
+     "cumle": 2
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "bir_sd",
+     "x": [
+      5.4,
+      5.8
+     ],
+     "renk": "sari",
+     "etiket": "±1 SD: 68%",
+     "cumle": 4
+    },
+    {
+     "ad": "iki_sd",
+     "x": [
+      5.2,
+      6.0
+     ],
+     "renk": "gri",
+     "etiket": "±2 SD: 95%",
+     "cumle": 5
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can a person with normal hearing fall outside normal limits? #shorts",
+  "aciklama": "Many clinical norms treat a value more than two standard deviations from the mean as outside normal limits. In a normal distribution, about 95 percent of values lie within this range, so by this definition about 5 percent of normal people also fall outside normal limits. Some norms use a cutoff of two and a half or three standard deviations instead.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "statistics",
+   "norms"
+  ],
+  "etiketler": [
+   "standard deviation",
+   "normal distribution",
+   "normative data",
+   "normal limits",
+   "z score",
+   "biostatistics",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can a person with normal hearing fall outside normal limits?",
+  "bilgiler": [
+   "Many norms use two standard deviations as the limit.",
+   "About 95 percent of values lie within this range.",
+   "About 5 percent of normal people fall outside it."
+  ],
+  "hashtag": [
+   "audiology",
+   "statistics",
+   "norms"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #384",
+   "metin": "Normal, yet *outside?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can a person with normal hearing fall outside normal limits?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Normals *outside the limits*",
+   "sayi": "5",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Many norms treat values beyond two standard deviations as outside normal limits.",
+    "In a normal distribution, about ninety five percent lie within this range.",
+    "By this definition, about five percent of normal people fall outside.",
+    "Some norms use two and a half or three standard deviations instead."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D118",
+ "kaynak_baslik": "Biostatistics Basics: Mean, SD and the Normal Curve"
+}

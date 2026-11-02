@@ -1,0 +1,109 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R365_Flute_and_Violin_EN",
+ "kapak": {
+  "ust": "QUICK FACT #365",
+  "baslik": "Flute or *violin?*",
+  "alt": "Same pitch, different timbre",
+  "cizim": "dalga_bicimi",
+  "ayar": {
+   "seriler": [
+    "ton",
+    "karmasik"
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Same note on flute and violin: how do we tell them apart? #shorts",
+  "aciklama": "A flute note and a violin note played at the same pitch have the same fundamental frequency; the difference comes from the relative amplitudes of the harmonics. The perceptual quality that depends on this distribution of harmonics is called timbre. In a flute, the upper harmonics are weak and the sound is close to a pure tone; a violin has many strong harmonics.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "acoustics",
+   "music"
+  ],
+  "etiketler": [
+   "timbre",
+   "harmonics",
+   "fundamental frequency",
+   "Fourier analysis",
+   "complex sound",
+   "pure tone",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Same note on flute and violin: how do we tell them apart?",
+  "bilgiler": [
+   "The two notes have the same fundamental frequency.",
+   "Relative harmonic amplitudes make the difference: timbre.",
+   "A flute has weak upper harmonics; a violin has many strong ones."
+  ],
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "music"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #365",
+   "metin": "Same note, *different sound?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Same note on flute and violin: how do we tell them apart?"
+   ]
+  },
+  {
+   "id": "tini",
+   "tur": "zincir",
+   "baslik": "Where does *timbre* come from?",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "F0",
+     "tr": "the same",
+     "cumle": 0
+    },
+    {
+     "ad": "Harmonics",
+     "tr": "relative amplitude",
+     "cumle": 1
+    },
+    {
+     "ad": "Timbre",
+     "tr": "the perceived difference",
+     "cumle": 2
+    }
+   ],
+   "alt": "Flute near pure, _violin rich_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Both notes share the same fundamental frequency, so the same pitch.",
+    "The difference comes from the relative amplitudes of the harmonics.",
+    "The perceptual quality set by this harmonic pattern is called timbre.",
+    "A flute has weak upper harmonics; a violin has many strong ones."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D039",
+ "kaynak_baslik": "Pure Tones vs Complex Sounds: Fourier Basics"
+}

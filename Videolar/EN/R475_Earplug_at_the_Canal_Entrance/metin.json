@@ -1,0 +1,147 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R475_Earplug_at_the_Canal_Entrance_EN",
+ "kapak": {
+  "ust": "QUICK FACT #475",
+  "baslik": "At the *canal entrance*",
+  "alt": "Inserting earplugs correctly",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      30,
+      40,
+      35,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      20,
+      25,
+      25,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why can a threshold shift continue while foam earplugs are used? #shorts",
+  "aciklama": "One of the most common causes of a shift is a protector that is worn wrongly or used irregularly. In the example case, the worker is asked to insert the earplug in front of the audiologist, and the plug stays only at the canal entrance; a foam plug should be rolled into a thin cylinder and inserted deep into the canal while the pinna is pulled up and back. The way to measure real protection, rather than guess it, is individual fit testing; even taking the protector out for short periods during a shift clearly reduces effective protection.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "noise",
+   "occupationalhealth"
+  ],
+  "etiketler": [
+   "earplugs",
+   "hearing protection",
+   "individual fit testing",
+   "standard threshold shift",
+   "noise-induced hearing loss",
+   "case study",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why can a threshold shift continue while foam earplugs are used?",
+  "bilgiler": [
+   "A plug left at the canal entrance protects far less than its label.",
+   "Roll it into a thin cylinder; pull the pinna up and back.",
+   "Real protection is measured with individual fit testing."
+  ],
+  "hashtag": [
+   "audiology",
+   "noise",
+   "occupationalhealth"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #475",
+   "metin": "Earplugs, yet *a shift?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why can a threshold shift continue while foam earplugs are used?"
+   ]
+  },
+  {
+   "id": "takma",
+   "tur": "zincir",
+   "baslik": "Correct *insertion*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Roll",
+     "tr": "thin cylinder",
+     "cumle": 2
+    },
+    {
+     "ad": "Pull",
+     "tr": "pinna up and back",
+     "cumle": 2,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Insert",
+     "tr": "deep in the canal",
+     "cumle": 2,
+     "gecikme": 1.2
+    }
+   ],
+   "alt": "Individual _fit testing_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "The worker inserts the earplug in front of the audiologist.",
+    "Here it stays at the canal entrance, far below its labeled protection.",
+    "Roll it thin, pull the pinna up and back, insert it deep.",
+    "Real protection is not guessed but measured with individual fit testing."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D278",
+ "kaynak_baslik": "Case: Annual Audiograms of a Noise-Exposed Worker"
+}

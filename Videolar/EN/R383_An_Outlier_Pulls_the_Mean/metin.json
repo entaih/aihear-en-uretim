@@ -1,0 +1,103 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R383_An_Outlier_Pulls_the_Mean_EN",
+ "kapak": {
+  "ust": "QUICK FACT #383",
+  "baslik": "The mean *can mislead*",
+  "alt": "One outlier and the median",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How much can a single outlier change the mean? #shorts",
+  "aciklama": "Take how long seven people have had tinnitus: 2, 3, 3, 4, 5, 6 and 40 years. The mean is 63 divided by 7, or 9 years; the median, the value in the middle when the values are sorted, is 4 years. A single outlier, 40 years, has pulled the mean up to 9, so the median is preferred for skewed distributions.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "statistics",
+   "research"
+  ],
+  "etiketler": [
+   "biostatistics",
+   "mean",
+   "median",
+   "outlier",
+   "skewed distribution",
+   "research",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How much can a single outlier change the mean?",
+  "bilgiler": [
+   "Durations: 2, 3, 3, 4, 5, 6 and 40 years.",
+   "Mean 9 years, median 4 years.",
+   "For skewed distributions, the median is preferred."
+  ],
+  "hashtag": [
+   "audiology",
+   "statistics",
+   "research"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #383",
+   "metin": "What does one value *do?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How much can a single outlier change the mean?"
+   ]
+  },
+  {
+   "id": "ortanca",
+   "tur": "zincir",
+   "baslik": "Mean or *median?*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Mean",
+     "tr": "9 years",
+     "cumle": 1
+    },
+    {
+     "ad": "Median",
+     "tr": "4 years",
+     "cumle": 2
+    },
+    {
+     "ad": "Outlier",
+     "tr": "40 years",
+     "cumle": 3
+    }
+   ],
+   "alt": "Skewed data: _median_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Seven tinnitus durations: two, three, three, four, five, six, forty years.",
+    "The mean is sixty three divided by seven, or nine years.",
+    "The median, the middle value, is four years.",
+    "A single outlier, forty years, has pulled the mean up to nine.",
+    "So for skewed distributions, the median is preferred."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D118",
+ "kaynak_baslik": "Biostatistics Basics: Mean, SD and the Normal Curve"
+}

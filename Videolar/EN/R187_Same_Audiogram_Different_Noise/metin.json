@@ -1,0 +1,102 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R187_Same_Audiogram_Different_Noise_EN",
+ "kapak": {
+  "ust": "QUICK FACT #187",
+  "baslik": "Same audiogram, *different noise*",
+  "alt": "SNR loss: 2 dB versus 12 dB",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Do two people with nearly identical audiograms understand speech in noise equally? #shorts",
+  "aciklama": "In this example, two patients have nearly identical audiograms and word scores in quiet. Yet Patient A's SNR loss is 2 dB and Patient B's is 12 dB; a speech-in-noise test makes this difference measurable and makes counseling individual.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "noise",
+   "audiogram"
+  ],
+  "etiketler": [
+   "SNR loss",
+   "speech-in-noise test",
+   "QuickSIN",
+   "HINT",
+   "audiogram",
+   "counseling",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Do two people with nearly identical audiograms understand speech in noise equally?",
+  "bilgiler": [
+   "In this example, two audiograms and quiet scores are nearly identical.",
+   "Patient A's SNR loss is 2 dB; Patient B's is 12 dB.",
+   "A speech-in-noise test makes this difference measurable."
+  ],
+  "hashtag": [
+   "audiology",
+   "noise",
+   "audiogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #187",
+   "metin": "Same audiogram, *same hearing* in noise?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Do two people with nearly identical audiograms understand speech in noise equally?"
+   ]
+  },
+  {
+   "id": "iki_hasta",
+   "tur": "zincir",
+   "baslik": "Same audiogram, *different* result",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Audiogram",
+     "tr": "nearly identical",
+     "cumle": 0
+    },
+    {
+     "ad": "Patient A",
+     "tr": "SNR loss 2 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "Patient B",
+     "tr": "SNR loss 12 dB",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "In this example, two patients have nearly identical audiograms and quiet scores.",
+    "Patient A's SNR loss is two decibels; near normal in noise.",
+    "Patient B's SNR loss is twelve decibels; moderate difficulty in noise.",
+    "Even with the same hearing aid, their experience in noise will differ.",
+    "A speech-in-noise test makes this difference measurable."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D099",
+ "kaynak_baslik": "Speech-in-Noise Tests: QuickSIN, HINT, Matrix"
+}

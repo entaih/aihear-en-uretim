@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R068_Toy_Hearing_Test_EN",
+ "kapak": {
+  "ust": "QUICK FACT #68",
+  "baslik": "A *toy* hearing test",
+  "alt": "VRA: conditioned head turn and visual reward",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How do you test a baby's hearing with a toy? #shorts",
+  "aciklama": "In visual reinforcement audiometry (VRA), the child turns toward a reward box on hearing a sound, and correct responses are rewarded with a lit or moving toy. The method is usually used with children aged about 6 to 24 months.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "pediatrics",
+   "hearing"
+  ],
+  "etiketler": [
+   "VRA",
+   "visual reinforcement audiometry",
+   "conditioned head turn",
+   "pediatric audiology",
+   "infant hearing test",
+   "behavioral testing",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How do you test a baby's hearing with a toy?",
+  "bilgiler": [
+   "The child turns toward the reward box on hearing a sound.",
+   "A correct response is rewarded with a lit or moving toy.",
+   "VRA is usually used from about 6 to 24 months."
+  ],
+  "hashtag": [
+   "audiology",
+   "pediatrics",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #68",
+   "metin": "How is a baby's hearing tested with a *toy?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How is a baby's hearing tested with a toy?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Visual reinforcement *audiometry*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Sound",
+     "tr": "stimulus",
+     "cumle": 1
+    },
+    {
+     "ad": "Head turn",
+     "tr": "response",
+     "cumle": 1,
+     "gecikme": 0.9
+    },
+    {
+     "ad": "Reward",
+     "tr": "lit toy",
+     "cumle": 2
+    }
+   ],
+   "alt": "Usually for children aged _6 to 24 months_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Visual reinforcement audiometry, or VRA, is a hearing test for young children.",
+    "When the child hears a sound, they turn toward the reward box.",
+    "A correct head turn is rewarded with a lit or moving toy.",
+    "The method is usually used from six to twenty four months."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D165",
+ "kaynak_baslik": "Visual Reinforcement Audiometry (VRA)"
+}

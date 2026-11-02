@@ -1,0 +1,753 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D244_Bimodal_and_Bilateral_CI_EN",
+ "kapak": {
+  "ust": "LESSON 244",
+  "baslik": "Bimodal and<br>*bilateral*",
+  "alt": "Regaining hearing with two ears",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  }
+ },
+ "youtube": {
+  "baslik": "Bimodal Hearing and Bilateral Implants | Lesson 244 | AIHEAR Audiology Academy",
+  "aciklama": "An implant in one ear and a hearing aid in the other, or implants in both ears? In this lesson we cover the benefits and fitting steps of bimodal hearing, simultaneous and sequential bilateral implantation, head shadow, summation and squelch effects, and balancing the fitting between the two ears.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Ching, Incerti and Hill (2004), Binaural benefits for adults who use hearing aids and cochlear implants in opposite ears, Ear and Hearing; Litovsky et al. (2006), Bilateral cochlear implants in children: localization acuity measured with minimum audible angle, Ear and Hearing; Gifford, Cochlear Implant Patient Assessment; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "bimodal"
+  ],
+  "etiketler": [
+   "bimodal hearing",
+   "bilateral cochlear implants",
+   "sequential implantation",
+   "simultaneous implantation",
+   "head shadow",
+   "binaural summation",
+   "binaural squelch",
+   "loudness balancing",
+   "sound localization",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 244",
+   "baslik": "Bimodal and *bilateral* implants",
+   "alt": "Regaining hearing with two ears",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we go beyond a single implant and learn the ways of regaining hearing with two ears.",
+    "We will cover using an implant in one ear and a hearing aid in the other, bilateral implants, and balancing the fitting between the ears."
+   ]
+  },
+  {
+   "id": "iki_kulak",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why two ears?",
+   "baslik": "The *benefits* of two ears",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Head shadow",
+     "cumle": 1,
+     "metin": "The ear on the better side"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Summation",
+     "cumle": 2,
+     "metin": "Sound is louder"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Squelch",
+     "cumle": 3,
+     "metin": "Separating from noise"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Localization",
+     "cumle": 4,
+     "metin": "Where the sound is"
+    }
+   ],
+   "cumleler": [
+    "In the hearing aid lessons we saw the advantages of hearing with two ears; the same advantages apply to implant users.",
+    "Thanks to the head shadow effect, a person can use the ear on the side away from the noise, which has the better signal-to-noise ratio.",
+    "With binaural summation, the same sound is perceived as slightly louder with two ears.",
+    "Binaural squelch is the brain's use of differences between the two ears to separate speech from noise.",
+    "Localization relies on time and intensity differences between the two ears.",
+    "Most of these advantages are lost with a single implant; adding a device or implant to the second ear aims to restore them in part."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Why two ears?",
+   "baslik": "The *shadow* problem with one implant",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "golge",
+    "gurultu_yonu": "sol"
+   },
+   "etiketler": [
+    {
+     "parca": "konusma",
+     "metin": "speech",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "noise",
+     "cumle": 0
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "head shadow",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 2
+    },
+    {
+     "parca": "iyi_kulak",
+     "cumle": 3
+    },
+    {
+     "parca": "kotu_kulak",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In this drawing, speech comes from one side and noise from the other.",
+    "Let us imagine the person has an implant in only one ear.",
+    "If speech comes from the side without the implant, the head shadows it, and it reaches the implanted ear weakened.",
+    "If speech comes from the implanted side and noise from the other side, things are much better.",
+    "So the success of someone with a single implant depends strongly on which side the talker is sitting on.",
+    "Adding a device or implant to the second ear gives the person an ear in a good position at all times."
+   ]
+  },
+  {
+   "id": "bimodal",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Bimodal hearing",
+   "baslik": "Bimodal: *two routes*, one brain",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "cihazli_kulak",
+      "noktalar": [
+       [
+        250,
+        50
+       ],
+       [
+        500,
+        60
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        100
+       ],
+       [
+        4000,
+        115
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "hearing aid ear, unaided",
+      "cumle": 1
+     },
+     {
+      "ad": "implant_kulagi",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        25
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        25
+       ],
+       [
+        4000,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "aided with the implant",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "akustik_bolge",
+      "x": [
+       250,
+       1000
+      ],
+      "renk": "sari",
+      "etiket": "acoustic contribution",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "akustik_bolge",
+     "cumle": 2
+    },
+    {
+     "parca": "implant_kulagi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bimodal hearing means using a cochlear implant in one ear and a hearing aid in the other.",
+    "In this example, the hearing aid ear has a moderate to severe loss in the low frequencies and a profound loss in the high frequencies.",
+    "This ear gains little at high frequencies, but at low frequencies it can still process amplified sound acoustically.",
+    "The implanted ear, on the other hand, makes speech audible at all frequencies, especially the high ones.",
+    "The brain learns to combine two different kinds of information, electric and acoustic.",
+    "Bimodal use is the first and natural option for most candidates, because some hearing often remains in the other ear.",
+    "The values in the graph are examples; each person's hearing in the other ear is different."
+   ]
+  },
+  {
+   "id": "yararlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Bimodal hearing",
+   "baslik": "The *contribution* of low-frequency acoustic information",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Voice pitch",
+     "cumle": 0,
+     "metin": "The talker's voice"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "In noise",
+     "cumle": 2,
+     "metin": "Separating talkers"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Music",
+     "cumle": 3,
+     "metin": "Melody and timbre"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Naturalness",
+     "cumle": 4,
+     "metin": "A fuller sound"
+    }
+   ],
+   "cumleler": [
+    "Low-frequency acoustic hearing carries voice pitch and the fundamental frequency much better than the implant.",
+    "This information helps with the intonation and stress of speech, and with recognizing who is talking.",
+    "Separating two talkers by pitch in noise becomes easier; in many studies bimodal use has improved speech understanding in noise.",
+    "In music listening, the perception of melody and timbre is usually better than with the implant alone.",
+    "Users often say that with two devices, sound feels more natural and fuller.",
+    "The benefit for localization is more limited, because the type and timing of information reaching the two ears differ.",
+    "The size of the benefit varies greatly between people; the best approach is to decide by measuring it in each person."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Bimodal hearing",
+   "baslik": "Bimodal *fitting* steps",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implant map",
+     "cumle": 0,
+     "metin": "Stabilized first"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aid fitting",
+     "cumle": 1,
+     "metin": "Prescription and verification"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Balance",
+     "cumle": 3,
+     "metin": "Both ears equal"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Bandwidth",
+     "cumle": 4,
+     "metin": "Limit if needed"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Measurement",
+     "cumle": 6,
+     "metin": "One ear and both ears"
+    }
+   ],
+   "cumleler": [
+    "In bimodal fitting, the implant map is usually stabilized to some degree first.",
+    "The hearing aid in the other ear is fitted with a prescriptive formula suited to the residual hearing and verified in the real ear.",
+    "Providing enough low-frequency gain is the basis of bimodal benefit; this region is often underamplified.",
+    "Then loudness is balanced while listening with both ears together; the person should hear sound in the middle of the head.",
+    "In some people, hearing aid output at high frequencies gives no benefit and may distort sound; this region can then be reduced.",
+    "The processing delays of the two devices may differ by a few milliseconds; in some systems this difference can be adjusted.",
+    "Finally, bimodal benefit is measured by testing each ear alone and both ears together, in quiet and in noise."
+   ]
+  },
+  {
+   "id": "kimde",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Bimodal hearing",
+   "baslik": "*When* is bimodal not enough?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Residual hearing",
+     "cumle": 0,
+     "metin": "Little benefit if very poor"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Measurement",
+     "cumle": 1,
+     "metin": "Low aided score"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Interference",
+     "cumle": 3,
+     "metin": "Both ears worse"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Option",
+     "cumle": 4,
+     "metin": "A second implant"
+    }
+   ],
+   "cumleler": [
+    "If hearing in the other ear is very poor, the hearing aid may not provide enough information even at low frequencies.",
+    "If the aided speech recognition score in the other ear is falling over time or is very low, that ear can also be assessed for an implant.",
+    "The person may describe the hearing aid ear as useless, bothersome or as bringing only noise.",
+    "Rarely, listening with both ears gives a worse result than the implant alone; this is a sign of interference.",
+    "Then a second implant is discussed in the team, together with the person's findings and the country's reimbursement rules.",
+    "Before deciding, it is important to make sure the hearing aid is really fitted appropriately."
+   ]
+  },
+  {
+   "id": "bilateral",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Bilateral implants",
+   "baslik": "Simultaneous or *sequential?*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Simultaneous",
+     "cumle": 0,
+     "metin": "Both ears in one surgery"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Sequential",
+     "cumle": 2,
+     "metin": "Two separate surgeries"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Interval",
+     "cumle": 4,
+     "metin": "Keeping it short matters"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Children",
+     "cumle": 5,
+     "metin": "Early, short interval"
+    }
+   ],
+   "cumleler": [
+    "Bilateral cochlear implants means implanting both ears.",
+    "In simultaneous implantation, both ears are implanted in the same surgery, and they start hearing experience at the same time.",
+    "In sequential implantation, the two ears are implanted at different times, in two separate surgeries.",
+    "A sequential approach allows the outcome of the first implant to be seen, or a need that arises later to be met.",
+    "However, the longer the time between the two implants, the more limited the results of the second ear usually are.",
+    "So in young children with profound loss, if bilateral implants are planned, simultaneous or short-interval implantation is recommended.",
+    "Which route is chosen is a team decision and is also affected by the country's reimbursement conditions."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Bilateral implants",
+   "baslik": "The *second ear* as the interval grows",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "ad": "Time between implants (years)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Second ear, relative outcome"
+    },
+    "seriler": [
+     {
+      "ad": "egilim",
+      "noktalar": [
+       [
+        0,
+        88
+       ],
+       [
+        1,
+        82
+       ],
+       [
+        2,
+        75
+       ],
+       [
+        4,
+        64
+       ],
+       [
+        6,
+        56
+       ],
+       [
+        8,
+        51
+       ],
+       [
+        10,
+        48
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 4,
+      "etiket": "schematic trend",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kisa",
+      "x": [
+       0,
+       2
+      ],
+      "renk": "yesil",
+      "etiket": "short interval",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kisa",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "This schematic graph summarizes the general trend seen in studies in children; the values are not real data.",
+    "The later the second implant, the more limited the second ear's speech recognition on its own usually is.",
+    "With a short interval, the results of the two ears are closer to each other.",
+    "The reason is that the auditory pathway and cortex that receive no input for a long time reorganize as the other ear becomes dominant.",
+    "Even after a long interval, a second implant can contribute to hearing with two ears, but expectations are discussed accordingly.",
+    "In adults too, how long the second ear has had a severe loss is an important factor in that ear's outcome."
+   ]
+  },
+  {
+   "id": "bi_yarar",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Bilateral implants",
+   "baslik": "*What* do two implants offer?",
+   "maddeler": [
+    {
+     "metin": "Head shadow: the largest benefit",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Summation and squelch: smaller",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Localization: clear improvement",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Timing differences poorly conveyed",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "ayar": {
+     "mod": "ild",
+     "frekanslar": [
+      4000,
+      500
+     ]
+    },
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "bas_golgesi",
+      "metin": "intensity difference",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "With bilateral implants, the largest, most consistent benefit is the head shadow effect; the person can always use the better-side ear.",
+    "Binaural summation and squelch are also seen, but their contributions are usually limited to a few decibels.",
+    "Localization improves clearly compared with one implant, but it often does not reach the level of normal-hearing people.",
+    "Implant users mostly rely on intensity differences between the two ears for localization.",
+    "As studies by Litovsky and colleagues have shown, interaural time differences are poorly conveyed by implants.",
+    "One reason is that the pulses of the two processors are not timed relative to each other, and fine structure is not conveyed.",
+    "Two implants also mean the person is not left completely without hearing if one device fails."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Balancing the fitting",
+   "baslik": "*Matching* two implants",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Each ear",
+     "cumle": 0,
+     "metin": "Separate map"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Balance",
+     "cumle": 1,
+     "metin": "Sound in the middle"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Pairing",
+     "cumle": 3,
+     "metin": "Programs and volume"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "New ear",
+     "cumle": 4,
+     "metin": "Practice on its own"
+    }
+   ],
+   "cumleler": [
+    "With bilateral implants, each ear's map is first created on its own.",
+    "Then both processors are switched on together and loudness is balanced; the person should hear speech in the middle of the head.",
+    "If sound shifts to one side, the upper levels on that side are lowered a little, or the other side is raised.",
+    "The programs and volume controls of the two processors are paired so the person can use them easily.",
+    "In sequential implantation, the new ear is weak at first; some centers suggest practicing with the new implant alone for part of the day.",
+    "This practice helps the brain attend to the new ear too, but it is planned so as not to strain the person's daily communication."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Balancing the fitting",
+   "baslik": "*How* do we measure benefit?",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Spatial testing",
+     "cumle": 0,
+     "metin": "Speech and noise separated"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Localization",
+     "cumle": 2,
+     "metin": "Loudspeaker array"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Questionnaire",
+     "cumle": 3,
+     "metin": "Scales such as SSQ"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Comparison",
+     "cumle": 4,
+     "metin": "One ear and both ears"
+    }
+   ],
+   "cumleler": [
+    "To see the benefit of two ears, speech and noise are presented from separate loudspeakers in different directions.",
+    "With speech from the front and noise from the side, head shadow and squelch effects can be calculated separately.",
+    "For localization testing, an array of loudspeakers placed around the person is used.",
+    {
+     "yazi": "Questionnaires such as the Speech, Spatial and Qualities of Hearing Scale, or SSQ, assess the person's experience in daily life.",
+     "ses": "Questionnaires such as the Speech, Spatial and Qualities of Hearing Scale, or S S Q, assess the person's experience in daily life."
+    },
+    "Results are compared for each ear alone and both ears together; this is also used in deciding between bimodal and bilateral implants.",
+    "Not every center can do all of these tests, but at least a speech in noise test is recommended."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not neglect a bimodal user's other-ear hearing aid. Verify its fitting with real-ear measurement at every visit; low-frequency gain is often too low.",
+   "cumleler": [
+    "A tip from the clinic: when a bimodal user comes in for an implant check, also check the hearing aid in the other ear every time.",
+    "For many people, this hearing aid stays on its old settings after implantation, breaks down or falls out of use.",
+    "Verify the hearing aid fitting with real-ear measurement; low-frequency gain is often below target.",
+    "If the person wants to give up the hearing aid, make the decision together after a measured bimodal comparison."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Bimodal: implant plus hearing aid opposite",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Low-frequency acoustics: pitch and music",
+     "cumle": 1,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Bilateral: a short interval matters",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Balance between the ears is essential",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Bimodal hearing combines an implant in one ear with a hearing aid in the other, and is the first option for most candidates.",
+    "Low-frequency hearing in the other ear fills in what the implant leaves out for pitch, music and separation in noise.",
+    "Bilateral implants are done simultaneously or sequentially; especially in children, a short interval between them improves outcomes.",
+    "In both approaches, loudness balance between the ears and measured benefit are the basis of fitting."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is the largest two-ear benefit?",
+   "secenekler": [
+    "Head shadow effect",
+    "Binaural squelch",
+    "Timing difference perception",
+    "Binaural summation"
+   ],
+   "dogru": 0,
+   "aciklama": "The person can always use the ear on the _better side_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in bilateral implant users, which two-ear benefit is the largest and most consistent?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: the head shadow effect.",
+    "With two implants the person can always use the ear away from the noise, with the better signal-to-noise ratio; other effects are smaller."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Electric-Acoustic Stimulation (*EAS*)",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about electric-acoustic stimulation, which combines acoustic and electrical stimulation in the same ear.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

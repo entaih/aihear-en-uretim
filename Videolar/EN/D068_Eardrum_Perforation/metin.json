@@ -1,0 +1,763 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D068_Eardrum_Perforation_EN",
+ "kapak": {
+  "ust": "LESSON 68",
+  "baslik": "Eardrum<br>*perforation*",
+  "alt": "Effect on hearing and repair",
+  "cizim": "kulak_zari_otoskopik",
+  "ayar": {
+   "kulak": "sag"
+  }
+ },
+ "youtube": {
+  "baslik": "Eardrum Perforation and Its Effect on Hearing | Lesson 68 | AIHEAR Audiology Academy",
+  "aciklama": "In this lesson, we look at tympanic membrane perforation: its causes, the factors that determine the size of the hearing loss, and audiogram and tympanometry findings. We also discuss how traumatic perforations heal, the concepts of myringoplasty and tympanoplasty, and the audiologist's role before and after surgery.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Mehta et al. (2006), Determinants of hearing loss in perforations of the tympanic membrane, Otology and Neurotology; Committee on Hearing and Equilibrium (1995), Guidelines for the evaluation of results of treatment of conductive hearing loss; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "eardrum",
+   "perforation"
+  ],
+  "etiketler": [
+   "tympanic membrane perforation",
+   "eardrum perforation",
+   "perforated eardrum",
+   "myringoplasty",
+   "tympanoplasty",
+   "conductive hearing loss",
+   "air-bone gap",
+   "type B tympanogram",
+   "ear canal volume",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 68",
+   "baslik": "Eardrum *perforation*",
+   "alt": "Causes, effect on hearing and repair",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn about tympanic membrane perforation, a hole in the eardrum, and how it affects hearing.",
+    "We will see what determines the size of the loss, the tympanometry findings, and the concepts of myringoplasty and tympanoplasty."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Perforation",
+   "baslik": "A hole in the *eardrum*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "kadranlar": true,
+    "kadran_cumle": 1,
+    "patoloji": [
+     {
+      "tur": "perforasyon_santral",
+      "cumle": 2,
+      "bitis": 5
+     },
+     {
+      "tur": "perforasyon_marjinal",
+      "cumle": 3,
+      "bitis": 5
+     },
+     {
+      "tur": "perforasyon_atik",
+      "cumle": 4,
+      "bitis": 5
+     },
+     {
+      "tur": "perforasyon_total",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "pars_tensa",
+     "cumle": 0
+    },
+    {
+     "parca": "arka_ust_kadran",
+     "cumle": 1
+    },
+    {
+     "parca": "anulus",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "anulus",
+     "metin": "annulus",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "metin": "pars flaccida",
+     "cumle": 4
+    },
+    {
+     "parca": "umbo",
+     "metin": "umbo",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "A tympanic membrane perforation is a break in the integrity of the eardrum, in other words, a hole in the membrane.",
+    "Its location is described by four quadrants, divided by the malleus handle and a line perpendicular to it.",
+    "A hole with intact membrane all around it is called a central perforation.",
+    "When the hole reaches the rim of the eardrum, the annulus, it is called a marginal perforation.",
+    "Holes in the pars flaccida, the attic region, and marginal holes are followed more closely because of the risk of cholesteatoma.",
+    "A hole can be as small as a pinpoint or cover almost the whole membrane; the latter is called a total perforation."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Perforation",
+   "baslik": "Causes of *perforation*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Acute otitis media",
+     "cumle": 1,
+     "metin": "Spontaneous rupture from pressure"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Chronic otitis media",
+     "cumle": 2,
+     "metin": "Permanent hole and discharge"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Barotrauma",
+     "cumle": 3,
+     "metin": "Slap, blast, diving"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Penetrating trauma",
+     "cumle": 4,
+     "metin": "Cotton swab, foreign body"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "After a tube",
+     "cumle": 5,
+     "metin": "Tube hole that does not close"
+    }
+   ],
+   "cumleler": [
+    "We can group the causes of perforation into two main groups: infection and trauma.",
+    "In acute otitis media, the pressure of infected fluid in the middle ear can rupture the eardrum on its own.",
+    "In chronic suppurative otitis media, there is a permanent hole with recurrent discharge.",
+    "A slap on the ear, a nearby blast, or sudden pressure changes during diving and flying can tear the eardrum.",
+    "Objects entering the canal, such as a cotton swab, a hairpin or a welding spark, can puncture the eardrum directly.",
+    "A hole that fails to close after a ventilation tube falls out is another cause of perforation."
+   ]
+  },
+  {
+   "id": "belirti",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Perforation",
+   "baslik": "Which *symptoms*?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Hearing loss",
+     "cumle": 1,
+     "metin": "Often mild"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Discharge",
+     "cumle": 2,
+     "metin": "With infection or water entry"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Sudden pain",
+     "cumle": 3,
+     "metin": "At the moment of trauma"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tinnitus",
+     "cumle": 4,
+     "metin": "Sometimes present"
+    }
+   ],
+   "cumleler": [
+    "The symptoms of a perforation depend on its cause and on the size of the hole.",
+    "The most common complaint is hearing loss; with small holes, the person may not notice any loss at all.",
+    "Discharge appears with holes caused by infection or when water gets into the ear.",
+    "With traumatic holes, there is sudden pain at the moment of trauma and sometimes a little bleeding.",
+    "Tinnitus may also occur; in some people, the hole is found only during routine otoscopy."
+   ]
+  },
+  {
+   "id": "etki",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Effect on hearing",
+   "baslik": "What *determines* the loss?",
+   "maddeler": [
+    {
+     "metin": "Loss is greater at _low frequencies_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Larger hole, _greater loss_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Small middle ear volume: _more_ loss",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Location of the hole: _not decisive_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "tympanic membrane",
+      "cumle": 0
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "metin": "round window",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The hole reduces the sound pressure difference across the two sides of the eardrum, which is what drives its vibration.",
+    "Sound passing through the hole also reaches the round window, but studies show this plays a smaller role in the loss.",
+    "According to Mehta and colleagues in two thousand six, the loss is greatest at low frequencies and decreases toward high frequencies.",
+    "The loss increases as the perforation gets larger.",
+    "If the air volume of the middle ear and mastoid is small, the same hole causes a greater loss.",
+    "Contrary to popular belief, the same study found that the location of the hole did not clearly affect the size of the loss."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Effect on hearing",
+   "baslik": "Example: *small* and large hole",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: small central hole",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: large hole",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left_: masked bone conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       25,
+       20,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       40,
+       35,
+       30,
+       30,
+       35
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    },
+    "aralik": {
+     "konum": [
+      0,
+      10,
+      45
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "In this example, the right ear has a small central perforation; thresholds are only slightly reduced at low frequencies.",
+    "Bone conduction is normal in both ears, so the loss is conductive.",
+    "The left ear has a large perforation, and its air conduction thresholds are clearly worse.",
+    "The air-bone gap is largest at two hundred fifty hertz and gradually gets smaller toward the high frequencies.",
+    "The gap caused by a hole in the eardrum is usually between mild and moderate.",
+    "A gap too large to be explained by the size of the hole suggests that there may also be a problem in the ossicular chain."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Effect on hearing",
+   "baslik": "*Perforation* in tympanometry",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "B",
+      "cumle": 0
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Type B + _large_ volume",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Blocked small hole: volume may be _normal_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Acoustic reflex _cannot be measured_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "With an open perforation, the tympanogram is flat, in other words, type B.",
+    "The measured equivalent volume is clearly above normal for age, because the probe tone also measures the middle ear and mastoid.",
+    "In this case, the measured volume also gives a rough idea of the size of the middle ear and mastoid air space.",
+    "If a very small hole is plugged with discharge, the volume can look normal, so the result is always read together with otoscopy.",
+    "In a perforated ear, the acoustic reflex cannot be measured with the probe, because there is no closed space for a pressure change.",
+    "With a fresh traumatic perforation, the decision to place a probe and apply pressure is made together with the physician."
+   ]
+  },
+  {
+   "id": "iyilesme",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Traumatic perforation",
+   "baslik": "Does a traumatic hole *heal?*",
+   "maddeler": [
+    {
+     "metin": "Most close _on their own_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "The ear is kept _dry_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Audiogram _again_ after healing",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Vertigo, sudden loss: _urgent_",
+     "cumle": 5,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_zari_otoskopik",
+    "cumle": 0,
+    "ayar": {
+     "kulak": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "pars_tensa",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "pars_tensa",
+      "metin": "healed eardrum",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Most traumatic perforations, about eighty to ninety percent according to studies, close on their own.",
+    "Closure usually takes from a few weeks to three months and takes longer with large holes.",
+    "Keeping water out of the ear during healing is important; infection and discharge clearly delay closure.",
+    "After the eardrum closes, hearing is measured again and compared with the first audiogram.",
+    "If a conductive loss remains after the eardrum has closed, damage to the ossicular chain is suspected.",
+    "If there is vertigo, sudden sensorineural loss or facial palsy after trauma, the person is referred to a physician without delay."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Traumatic perforation",
+   "baslik": "*Follow-up* of a traumatic hole",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy",
+     "cumle": 0,
+     "metin": "Location and size"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "First audiogram",
+     "cumle": 1,
+     "metin": "Air and bone conduction"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Dry ear",
+     "cumle": 2,
+     "metin": "Protection from water"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Check-up",
+     "cumle": 3,
+     "metin": "Closure is followed"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "New audiogram",
+     "cumle": 4,
+     "metin": "Compared with the first"
+    }
+   ],
+   "cumleler": [
+    "For a traumatic hole, follow-up proceeds in a simple sequence after the physician's examination.",
+    "The first audiogram measures air and bone conduction together; bone conduction shows whether the inner ear is affected.",
+    "During healing, the ear is kept dry and nothing is put into it.",
+    "At check-ups, closure of the eardrum is followed with otoscopy.",
+    "The audiogram after closure is compared with the first one; a remaining gap calls for further evaluation."
+   ]
+  },
+  {
+   "id": "onarim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Repair",
+   "baslik": "Basic concepts in *repair*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Paper patch",
+     "cumle": 1,
+     "metin": "For small traumatic holes"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Myringoplasty",
+     "cumle": 2,
+     "metin": "Only the eardrum is repaired"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tympanoplasty",
+     "cumle": 3,
+     "metin": "Eardrum and middle ear"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Graft",
+     "cumle": 5,
+     "metin": "Fascia, cartilage, perichondrium"
+    }
+   ],
+   "cumleler": [
+    "For perforations that do not close, the decision and method of repair belong to the ENT physician; we only cover the basic concepts.",
+    "For small traumatic holes, closure can be supported by placing a thin patch over the hole.",
+    "Myringoplasty is surgery that repairs only the tympanic membrane, without working in the middle ear.",
+    "Tympanoplasty adds repair of the middle ear, and if needed the ossicular chain, to the repair of the eardrum.",
+    {
+     "yazi": "A type one tympanoplasty in the Wullstein classification repairs only the eardrum with an intact chain and equals myringoplasty.",
+     "ses": "A type one tympanoplasty in the Vool-shtine classification repairs only the eardrum with an intact chain and equals myringoplasty."
+    },
+    "The graft is usually temporalis fascia, ear cartilage, or the membrane covering the cartilage, the perichondrium."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Repair",
+   "baslik": "The audiologist's *role*",
+   "maddeler": [
+    {
+     "metin": "_Masked_ bone conduction before surgery",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Gap: _500, 1000, 2000, 3000 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "After surgery: is the gap closing?",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Is bone conduction _preserved_?",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        40,
+        35,
+        30,
+        30,
+        35
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        10
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava_maskeli",
+       "degerler": [
+        20,
+        20,
+        15,
+        15,
+        20,
+        25
+       ],
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Before surgery, masked bone conduction shows the state of the cochlea and the gain that can be expected from surgery.",
+    "The size of the air-bone gap gives a rough idea of the upper limit of hearing that repair can restore.",
+    "The American Academy of Otolaryngology's nineteen ninety five guideline reports the gap as the mean of five hundred to three thousand hertz.",
+    "At check-ups after surgery, the narrowing of the air-bone gap is evaluated as well as closure of the eardrum.",
+    "Whether bone conduction thresholds are preserved is also compared at every check-up."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Repair",
+   "baslik": "*Daily life* with a perforation",
+   "ogeler": [
+    {
+     "ikon": "akinti",
+     "baslik": "Water protection",
+     "cumle": 0,
+     "metin": "Care when showering and swimming"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aids",
+     "cumle": 1,
+     "metin": "Watch discharge, vent the earmold"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Caloric test",
+     "cumle": 2,
+     "metin": "Air instead of water"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Ear impressions",
+     "cumle": 3,
+     "metin": "With the hole blocked, carefully"
+    }
+   ],
+   "cumleler": [
+    "Water entering a perforated ear can lead to middle ear infection and discharge; the ear is protected as the physician advises.",
+    "Hearing aids can be used, but discharge may increase when the earmold closes the ear, so venting and check-ups matter.",
+    "Water caloric testing is not done in a perforated ear; if needed, air caloric testing is used and read with care.",
+    "Before an ear impression, a suitable block is carefully placed in the canal so the material cannot enter the middle ear."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "With a perforation, the tympanogram is flat and the volume is large. If otoscopy shows a hole, accept it even with a normal volume; discharge may plug a small hole.",
+   "cumleler": [
+    "A tip from practice: when the tympanogram and otoscopy disagree, evaluate them together.",
+    "If you see a hole on otoscopy but the volume is normal, consider that a small hole may be plugged with discharge or a crust.",
+    "If the volume is large but you cannot see a hole, look again carefully for a small hole or an open tube.",
+    "Noting this mismatch in the report helps the physician's evaluation."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Perforation: a _hole_ in the eardrum",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "More loss at _low_ frequencies, large holes",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Type B and _large_ equivalent volume",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Myringoplasty eardrum, tympanoplasty _middle ear_",
+     "cumle": 3,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "A perforation is a hole in the tympanic membrane caused by infection or trauma.",
+    "The loss is conductive; it mostly affects low frequencies and grows with hole size and with smaller middle ear volume.",
+    "With an open perforation, the tympanogram is type B and the equivalent volume is large.",
+    "Myringoplasty repairs only the eardrum, while tympanoplasty also repairs the middle ear."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "At which frequencies is a perforation's conductive loss greatest?",
+   "secenekler": [
+    "At low frequencies",
+    "At high frequencies",
+    "Only at 4000 Hz",
+    "Equal at all frequencies"
+   ],
+   "dogru": 0,
+   "aciklama": "With a perforation, the loss is greatest at _low_ frequencies and decreases toward high frequencies.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: At which frequencies is the conductive loss from a tympanic membrane perforation greatest?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: at low frequencies.",
+    "The loss is greatest at low frequencies and decreases toward high frequencies; the larger the hole, the greater the loss."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Cholesteatoma*: What Every Audiologist Should Know",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will examine cholesteatoma, a disease that can be linked to marginal and attic perforations.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

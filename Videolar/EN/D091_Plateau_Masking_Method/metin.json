@@ -1,0 +1,942 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D091_Plateau_Masking_Method_EN",
+ "kapak": {
+  "ust": "LESSON 91",
+  "baslik": "*Plateau* masking<br>method",
+  "alt": "Finding the true threshold with masking",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      50,
+      55,
+      60,
+      60
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      65,
+      65,
+      70,
+      70,
+      75,
+      75
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "The Plateau Masking Method Step by Step | Lesson 91 | AIHEAR Audiology Academy",
+  "aciklama": "The plateau method is the core way to set the masking noise level in clinical masking and to find the true threshold of the test ear. In this lesson we work step by step through the initial masking level, 5 dB noise increments, the plateau criterion and how to avoid overmasking, using a sample measurement.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hood JD (1960), The principles and practice of bone conduction audiometry, Laryngoscope; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "masking",
+   "audiometry"
+  ],
+  "etiketler": [
+   "plateau method",
+   "clinical masking",
+   "initial masking level",
+   "effective masking",
+   "overmasking",
+   "undermasking",
+   "Hood plateau",
+   "pure tone audiometry",
+   "masked threshold",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 91",
+   "baslik": "The *plateau* method, step by step",
+   "alt": "Initial level, noise increments and the true threshold",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn, step by step, the plateau method used to set the level of masking noise.",
+    "Using an example, we will work through the initial level, the noise increments and the decision on the true threshold."
+   ]
+  },
+  {
+   "id": "fikir",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The basic idea",
+   "baslik": "How much *noise?*",
+   "maddeler": [
+    {
+     "metin": "Too little noise: _undermasking_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Too much noise: _overmasking_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Stable threshold in between: _plateau_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Described by: _Hood_",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Once we decide that masking is needed, a new question arises: how much noise should we give to the opposite ear?",
+    "If there is too little noise, the opposite ear keeps hearing the tone; this is called undermasking.",
+    "If there is too much noise, it crosses over to the test ear and raises its threshold; this is called overmasking.",
+    "Between these two, there is a range in which the test ear threshold stays the same even as the noise increases.",
+    "This range is called the plateau, and the plateau method is based on finding it.",
+    "The method was described by Hood, and it is still the foundation of clinical masking today.",
+    "Its strength is that it bases the masking level on the patient's own responses rather than on an estimate."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "karsi_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "test_kulagi",
+      "cumle": 2
+     },
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "bolgeler",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The basic idea",
+   "baslik": "The three *zones* of masking",
+   "cumleler": [
+    "Imagine that we raise the noise step by step and measure the threshold again at each step.",
+    "In the first zone the threshold rises with the noise, because the tone is actually heard by the non-test ear, or NTE.",
+    "In the second zone the threshold stays the same even when we raise the noise; this is the plateau.",
+    "On the plateau the NTE cannot hear the tone and the test ear, or TE, is not affected by the noise; this is the true TE threshold.",
+    "In the third zone the noise reaches the TE cochlea despite losing the interaural attenuation, or IA, and the threshold rises again.",
+    "Our goal is always to make the decision in the second zone, on the plateau."
+   ],
+   "cizim": "plato_grafigi",
+   "ayar": {
+    "esik": 45,
+    "plato": [
+     35,
+     75
+    ],
+    "bolge_cumleleri": [
+     1,
+     2,
+     4
+    ],
+    "esik_cumle": 3,
+    "cumle": 0
+   },
+   "vurgula": [
+    {
+     "parca": "yetersiz_maskeleme",
+     "cumle": 1
+    },
+    {
+     "parca": "plato",
+     "cumle": 2
+    },
+    {
+     "parca": "gercek_esik",
+     "cumle": 3
+    },
+    {
+     "parca": "asiri_maskeleme",
+     "cumle": 4
+    },
+    {
+     "parca": "plato",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Undermasking: threshold rises _with noise_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Plateau: _true threshold_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Overmasking: noise _reaches the TE_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Preparation",
+   "baslik": "Before you *start*",
+   "maddeler": [
+    {
+     "metin": "_Record_ unmasked thresholds",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Give the patient clear _instructions_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Noise: _narrowband_, in dB EM",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Noise to _NTE_, tone to TE",
+     "cumle": 6,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Before starting the plateau method, the unmasked thresholds of both ears must already be recorded.",
+    "We tell the patient they will hear a steady noise in one ear and that they should ignore it.",
+    "We ask them to respond only when they hear the tone, the beep, no matter how faint it is.",
+    {
+     "yazi": "For pure tones we use narrowband noise centered on the test frequency, and its level is given in effective masking, or dB EM.",
+     "ses": "For pure tones we use narrowband noise centered on the test frequency, and its level is given in effective masking, or decibels E.M."
+    },
+    {
+     "yazi": "dB EM is a calibration based on how much the noise raises the threshold.",
+     "ses": "Decibels E.M. is a calibration based on how much the noise raises the threshold."
+    },
+    {
+     "yazi": "For example, thirty dB EM of noise raises a normal threshold at that frequency to about thirty dB HL.",
+     "ses": "For example, thirty decibels E.M. of noise raises a normal threshold at that frequency to about thirty decibels HL."
+    },
+    "The noise goes to the NTE and the tone to the TE; make sure the earphones are on the correct sides."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 3
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 6
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "hasta_butonu",
+      "metin": "respond only to the tone",
+      "cumle": 2
+     },
+     {
+      "parca": "kulaklik",
+      "metin": "noise to NTE, tone to TE",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "baslangic",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Preparation",
+   "baslik": "Initial masking *level*",
+   "maddeler": [
+    {
+     "metin": "Air conduction: NTE air threshold _+10 dB_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "10 dB: _safety factor_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bone conduction: add _occlusion effect_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Occlusion effect: _low frequencies_",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EXAMPLE",
+    "metin": "NTE threshold 10 dB HL, initial noise *20 dB EM*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "The first step is to set the initial masking level.",
+    "For air conduction, the initial level is ten decibels above the NTE air conduction threshold at that frequency.",
+    "These ten decibels are a safety factor added to cover differences between individuals.",
+    {
+     "yazi": "For example, if the NTE threshold at one thousand hertz is ten decibels, the initial noise is twenty dB EM.",
+     "ses": "For example, if the N.T.E threshold at one thousand hertz is ten decibels, the initial noise is twenty decibels E.M."
+    },
+    "In bone conduction masking the NTE is covered by an earphone, so an occlusion effect occurs and is added to the initial level.",
+    "The occlusion effect matters between two hundred fifty and one thousand hertz, and is not added if the NTE has a conductive loss.",
+    "This correction is larger with supra-aural earphones and smaller with deeply inserted insert earphones."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Step by step",
+   "baslik": "The plateau method: *steps*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise to NTE",
+     "metin": "Continuous, at initial level",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "TE threshold",
+     "metin": "Searched again with noise on",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "If heard",
+     "metin": "Noise +5 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "If not heard",
+     "metin": "Tone +5 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Plateau",
+     "metin": "Stable over three increments",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Step one: we present the noise continuously to the NTE at the initial level.",
+    "Step two: with the noise on, we search for the TE threshold again, starting from the unmasked threshold.",
+    "If the patient hears the tone, we raise the noise by five decibels without changing the tone level and present the tone again.",
+    "If the patient does not hear it, we raise the tone in five decibel steps until there is a response, then raise the noise again.",
+    "This cycle continues until the threshold stays the same despite the noise increments.",
+    "If the threshold does not change over three successive noise increments, a total of fifteen decibels, the plateau has been found.",
+    "This stable threshold is recorded as the masked threshold of the TE.",
+    "Some clinics look for a twenty decibel plateau, while the British Society of Audiology guidance raises the noise in ten decibel steps."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Step by step",
+   "baslik": "Example: the *unmasked* picture",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_ (NTE): normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_ (TE): unmasked air conduction",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       10
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      50
+     ],
+     "etiket": "40 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Let us work through an example: here the right ear is normal, with air and bone thresholds of ten decibels at one thousand hertz.",
+    "The unmasked air conduction threshold of the left ear at one thousand hertz is fifty decibels.",
+    "With supra-aural earphones the difference is forty decibels, so the left air conduction threshold must be confirmed with masking.",
+    {
+     "yazi": "The left ear is the TE and the right ear the NTE; the initial noise is ten plus ten, or twenty dB EM.",
+     "ses": "The left ear is the test ear and the right ear the non-test ear; the initial noise is ten plus ten, or twenty decibels E.M."
+    },
+    "Now we will apply the plateau method to find the true threshold of the left ear at this frequency."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Step by step",
+   "baslik": "Step by step at *1000 Hz*",
+   "sutunlar": [
+    "Noise (dB EM)",
+    "TE threshold (dB HL)",
+    "Interpretation"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20",
+      "60",
+      "Threshold rose"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "25",
+      "65",
+      "Threshold rose"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "30",
+      "70",
+      "Threshold rose"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "35",
+      "70",
+      "Stable"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "40",
+      "70",
+      "Stable"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "45",
+      "70",
+      "Plateau: 70 dB HL"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "When we search for the left threshold again with twenty dB EM of noise, it rises from fifty to sixty decibels.",
+     "ses": "When we search for the left threshold again with twenty decibels E.M. of noise, it rises from fifty to sixty decibels."
+    },
+    "When we raise the noise to twenty five, the threshold rises to sixty five; the threshold is shifting with the noise.",
+    {
+     "yazi": "At thirty dB EM the threshold rises to seventy decibels.",
+     "ses": "At thirty decibels E.M. the threshold rises to seventy decibels."
+    },
+    {
+     "yazi": "At thirty five dB EM the threshold is still seventy decibels; for the first time it has not changed.",
+     "ses": "At thirty five decibels E.M. the threshold is still seventy decibels; for the first time it has not changed."
+    },
+    {
+     "yazi": "At forty dB EM the threshold also stays at seventy decibels.",
+     "ses": "At forty decibels E.M. the threshold also stays at seventy decibels."
+    },
+    {
+     "yazi": "At forty five dB EM it is seventy again; the noise rose fifteen decibels, from thirty to forty five, yet the threshold held.",
+     "ses": "At forty five decibels E.M. it is seventy again; the noise rose fifteen decibels, from thirty to forty five, yet the threshold held."
+    },
+    "The plateau is found: the masked threshold of the left ear at one thousand hertz is seventy dB HL.",
+    "The unmasked fifty decibels was in fact a shadow response heard by the right ear."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Step by step",
+   "baslik": "The masked *true* thresholds",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Unmasked_: shadow responses",
+     "cumle": 1
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Masked_: true thresholds",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       65,
+       65,
+       70,
+       70,
+       75,
+       75
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "When we repeat the same procedure at every frequency that needs masking, the true picture emerges.",
+    "The blue crosses show the unmasked responses, the shadow responses heard by the right ear.",
+    "The blue squares are the masked, true thresholds found with the plateau method.",
+    "In this example the left ear loss is about fifteen to twenty decibels greater than the unmasked test suggested.",
+    "Without masking, the degree of loss in this ear would have been reported as milder than it really is."
+   ]
+  },
+  {
+   "id": "kaymazsa",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Step by step",
+   "baslik": "If the threshold never *shifts*",
+   "maddeler": [
+    {
+     "metin": "First masked test: _same threshold_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Stable_ over all three increments",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "The unmasked threshold was _true_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Still record with _masked symbol_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Sometimes the threshold measured with the initial noise is the same as the unmasked threshold.",
+    "If the threshold still does not change when the noise is raised three times, the plateau was there from the start.",
+    "This shows that the unmasked threshold already belonged to the TE, in other words there was no cross hearing.",
+    "In this case too, the threshold is recorded with the masked symbol because it was confirmed with masking."
+   ]
+  },
+  {
+   "id": "asiri",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Limits",
+   "baslik": "Avoiding *overmasking*",
+   "maddeler": [
+    {
+     "metin": "Noise also crosses, weakened _by IA_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "If it reaches TE bone: _overmasking_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Upper limit: _TE bone + IA - 5_",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "No plateau: _masking dilemma_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Noise given to the NTE can also cross the skull to the TE, losing roughly the IA on the way.",
+    "If the noise reaching the TE reaches its bone conduction threshold, it masks the TE as well; this is overmasking.",
+    "So the highest safe noise level is five decibels below the sum of the TE bone conduction threshold and the IA.",
+    "Overmasking makes the true threshold look worse and makes the threshold rise again after the plateau.",
+    "If the TE has a conductive loss, meaning its bone conduction is good, this upper limit is lower.",
+    "If both ears have a large conductive loss, no plateau may be found at all; this is called the masking dilemma.",
+    "So as you raise the noise, calculate at each step how close you are to this upper limit."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklar_arasi_zayiflama",
+      "cumle": 0
+     },
+     {
+      "parca": "test_kulagi",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "genislik",
+   "tur": "karsilastir",
+   "bolum_no": "PART 4",
+   "bolum": "Limits",
+   "baslik": "Plateau *width*",
+   "sol": {
+    "ust": "Wide plateau",
+    "maddeler": [
+     {
+      "metin": "Poor TE bone conduction",
+      "cumle": 1
+     },
+     {
+      "metin": "Normal NTE conduction",
+      "cumle": 2
+     },
+     {
+      "metin": "Insert earphones",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Narrow plateau",
+    "maddeler": [
+     {
+      "metin": "Conductive loss in TE",
+      "cumle": 4
+     },
+     {
+      "metin": "Conductive loss in NTE",
+      "cumle": 5
+     },
+     {
+      "metin": "Both together: dilemma",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "The width of the plateau depends on the gap between the minimum noise needed and the maximum safe noise.",
+    "The poorer the TE bone conduction threshold, the later overmasking occurs and the higher the upper limit.",
+    "If NTE conduction is normal, the noise reaches its cochlea without loss and the lower limit stays low.",
+    "Insert earphones raise the IA, so they raise the upper limit and widen the plateau.",
+    "If the TE has a conductive loss, its bone conduction is good, so the upper limit is lower.",
+    "If the NTE has a conductive loss, the noise must also overcome this barrier, so the lower limit rises.",
+    "When both occur together the plateau can disappear completely; this is the masking dilemma."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not record a masked threshold without seeing a plateau. Small shifts of about 5 dB with noise in the opposite ear may be due to central masking.",
+   "cumleler": [
+    "Let us point out two common mistakes with the plateau method.",
+    "The first is stopping when the threshold does not change on the first masked test; the noise must be raised three times to see a plateau.",
+    "The second is mistaking small shifts of a few decibels for undermasking.",
+    "Even when noise is given to the opposite ear, the threshold can shift by about five decibels; this is called central masking.",
+    "This small shift does not mean the plateau has been broken."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Limits",
+   "baslik": "A *plateau* in bone conduction",
+   "maddeler": [
+    {
+     "metin": "Vibrator on _TE mastoid_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Noise to NTE, _TE uncovered_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Initial: +10 dB and _occlusion_ correction",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Same steps and _plateau criterion_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "The same method is used in bone conduction; the vibrator is placed on the mastoid of the test ear.",
+    "The noise is given to the NTE through a supra-aural or insert earphone, and the TE is left uncovered.",
+    "The initial level is the NTE air conduction threshold, plus a ten decibel safety factor and any occlusion effect correction.",
+    "The noise increments and the plateau criterion are the same as for air conduction.",
+    "Because IA in bone conduction is close to zero, masking is almost always needed in an ear with an air-bone gap.",
+    "In bone conduction masking too, a threshold is not final until a plateau has been seen."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Limits",
+   "baslik": "Recording and *reporting*",
+   "maddeler": [
+    {
+     "metin": "Plot with the _masked symbol_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Note the plateau _noise level_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "No plateau: _state it_ in report",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "No response: _downward arrow_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The threshold found with the plateau is plotted on the audiogram with the matching masked symbol.",
+    "The noise level at which the plateau was obtained is also recorded on the form.",
+    "This lets anyone reading the audiogram later judge whether the masking was adequate.",
+    "If no plateau was found, the threshold is not definite, and this is stated clearly in the report.",
+    "If there is no response even at the maximum level of the audiometer, a downward arrow is added below the symbol.",
+    "These records also allow later tests of the same patient to be compared under the same conditions."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Initial: NTE threshold _+10 dB_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Heard: raise noise; not heard: raise _tone_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Stable over _15 to 20 dB_: plateau",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Watch the _overmasking_ limit",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "In air conduction, the initial noise is ten decibels above the NTE air conduction threshold.",
+    "If the patient hears the tone, the noise is raised by five decibels; if not, the tone is raised.",
+    "If the threshold does not change while the noise rises fifteen to twenty decibels, the plateau is found and this is the true threshold.",
+    "If the noise goes above that sum minus five decibels, there is a risk of overmasking."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Noise went from 30 to 45 dB EM; threshold stayed 70 dB. Result?",
+   "secenekler": [
+    "Undermasking",
+    "Plateau: true threshold 70 dB",
+    "Overmasking"
+   ],
+   "dogru": 1,
+   "aciklama": "The noise rose 15 dB but the threshold did not change; the value belongs to the _test ear_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: the noise was raised from thirty to forty five dB EM and the threshold stayed at seventy decibels. What is the result?",
+     "ses": "Test yourself: noise was raised from thirty to forty five decibels E.M. and the threshold stayed at seventy decibels. What is the result?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the plateau has been found, and the true threshold is seventy decibels.",
+    "The noise rose fifteen decibels but the threshold did not change, so the measured value belongs to the test ear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The Masking *Dilemma* in Bilateral Conductive Loss",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at the masking dilemma met in bilateral conductive hearing loss.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

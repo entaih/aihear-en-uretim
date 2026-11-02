@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R380_No_Emission_in_a_Cavity_EN",
+ "kapak": {
+  "ust": "QUICK FACT #380",
+  "baslik": "OAE *probe check*",
+  "alt": "No emission in the cavity",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can a test cavity with no ear produce an otoacoustic emission? #shorts",
+  "aciklama": "In the OAE probe check, the probe is placed in a small test cavity supplied by the manufacturer. There is no ear in the cavity, so there should be no emission; a response in the cavity is distortion from the system itself and can be mistaken for a real emission. The most common problem in OAE testing comes from the probe tip: if earwax or moisture blocks the probe channels, the stimulus does not reach the ear and the emission seems absent.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "OAE",
+   "calibration"
+  ],
+  "etiketler": [
+   "otoacoustic emissions",
+   "probe check",
+   "calibration",
+   "DPOAE",
+   "daily check",
+   "probe tip",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can a test cavity with no ear produce an otoacoustic emission?",
+  "bilgiler": [
+   "There is no ear in the cavity, so no emission should appear.",
+   "A response in the cavity is distortion from the system.",
+   "A blocked probe tip makes emissions seem absent."
+  ],
+  "hashtag": [
+   "audiology",
+   "OAE",
+   "calibration"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #380",
+   "metin": "An emission *without an ear?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can a test cavity with no ear produce an otoacoustic emission?"
+   ]
+  },
+  {
+   "id": "prob",
+   "tur": "zincir",
+   "baslik": "OAE *probe check*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Cavity",
+     "tr": "no ear",
+     "cumle": 0
+    },
+    {
+     "ad": "Emission",
+     "tr": "should be none",
+     "cumle": 1
+    },
+    {
+     "ad": "Probe tip",
+     "tr": "wax and moisture",
+     "cumle": 3
+    }
+   ],
+   "alt": "_Probe check_ every day",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The probe is placed in a small test cavity from the manufacturer.",
+    "With no ear in the cavity, there should be no emission.",
+    "A response there is system distortion and can pass for an emission.",
+    "The most common problem is a tip blocked by wax or moisture.",
+    "Then the stimulus does not reach the ear; the emission seems absent."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D116",
+ "kaynak_baslik": "Calibrating Immittance, OAE and ABR Equipment"
+}

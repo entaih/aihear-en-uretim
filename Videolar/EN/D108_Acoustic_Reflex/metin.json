@@ -1,0 +1,715 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D108_Acoustic_Reflex_EN",
+ "kapak": {
+  "ust": "LESSON 108",
+  "baslik": "The *acoustic*<br>reflex",
+  "alt": "Reflex arc and normal thresholds",
+  "cizim": "orta_kulak"
+ },
+ "youtube": {
+  "baslik": "The Acoustic Reflex: Pathway and Normal Thresholds | Lesson 108 | AIHEAR Audiology Academy",
+  "aciklama": "The acoustic reflex is a response produced by contraction of the stapedius muscle to a loud sound, and it is measured with an immittance device. In this lesson we cover the ipsilateral and contralateral reflex arc, normal reflex thresholds, measurement technique and common artifacts.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acousticreflex",
+   "immittance"
+  ],
+  "etiketler": [
+   "acoustic reflex",
+   "acoustic reflex threshold",
+   "stapedius reflex",
+   "reflex arc",
+   "ipsilateral reflex",
+   "contralateral reflex",
+   "immittance audiometry",
+   "tympanometry",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 108",
+   "baslik": "The *acoustic reflex* and its arc",
+   "alt": "Ipsilateral and contralateral pathways, normal thresholds, technique",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how the acoustic reflex is produced, the reflex arc, and normal reflex thresholds.",
+    "We will also talk about measurement technique and the artifacts that can mislead the results."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Basis of the reflex",
+   "baslik": "What is the *acoustic reflex?*",
+   "maddeler": [
+    {
+     "metin": "_Acoustic reflex_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Loud sound: _stapedius_ contracts",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Normally contracts in _both ears_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "A small _drop_ in admittance",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The acoustic reflex is an involuntary muscle contraction in the middle ear in response to a loud sound.",
+    "In humans the stapedius muscle is mainly responsible for this reflex, so it is also called the stapedial reflex.",
+    "The reflex is involuntary; it does not depend on the patient's attention or on giving a response.",
+    "When the stapedius contracts, the ossicular chain stiffens and middle ear admittance decreases.",
+    "Even when sound is given to only one ear, the reflex normally occurs in both ears at once.",
+    "The immittance device measures this small drop in admittance with the probe in the ear canal.",
+    "The reflex is known to reduce somewhat the transmission of loud low-frequency sounds to the inner ear."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    "vurgula": [
+     {
+      "parca": "stapedius",
+      "cumle": 1
+     },
+     {
+      "parca": "kemikcikler",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "stapedius",
+      "metin": "stapedius",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "stapedius",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Basis of the reflex",
+   "baslik": "The *stapedius* muscle",
+   "cizim": "orta_kulak",
+   "vurgula": [
+    {
+     "parca": "stapedius",
+     "cumle": 0
+    },
+    {
+     "parca": "stapes",
+     "cumle": 1
+    },
+    {
+     "parca": "tensor_timpani",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "stapedius",
+     "metin": "stapedius muscle (CN VII)",
+     "cumle": 0
+    },
+    {
+     "parca": "stapes",
+     "metin": "stapes",
+     "cumle": 1
+    },
+    {
+     "parca": "tensor_timpani",
+     "metin": "tensor tympani (CN V)",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Contraction: the chain stiffens",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Clinical response: stapedius reflex",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "The stapedius is the smallest skeletal muscle in the body and is supplied by the facial nerve, the seventh cranial nerve.",
+    "Its tendon attaches to the neck of the stapes.",
+    "When the muscle contracts, it pulls the stapes backward and restricts the movement of the chain.",
+    "The other middle ear muscle, the tensor tympani, is supplied by the fifth cranial nerve; in humans its role in this reflex is limited.",
+    "So the response we measure in the clinic is, in practice, the stapedius reflex.",
+    "The stapedius tendon may be cut in some middle ear operations; in that case no reflex can be measured in that ear."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stapes",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "ark",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The reflex arc",
+   "baslik": "The reflex *arc*",
+   "cizim": "akustik_refleks_arki",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_motor_cekirdek",
+     "cumle": 3
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 4
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Cochlea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "CN VIII",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Ventral cochlear nucleus",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Superior olivary complex",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "CN VII",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Output: facial motor nucleus",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Via CN VII to stapedius",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Any link can affect the reflex",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The reflex arc begins when the sound is detected in the cochlea.",
+    "The signal is carried to the brainstem by the eighth cranial nerve, the auditory nerve.",
+    "The fibers first synapse in the ventral cochlear nucleus on the same side.",
+    "From there, information reaches the superior olivary complex and the facial motor nuclei on both sides.",
+    "The seventh cranial nerve, leaving the facial motor nucleus, contracts the stapedius muscle.",
+    "Because the arc is short, the reflex is fast; but a problem in any link of the arc can affect the reflex.",
+    "For example, a problem in the auditory nerve can affect both the ipsilateral and contralateral reflexes when that ear is stimulated."
+   ],
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 4,
+    "kontra_cumle": 6
+   }
+  },
+  {
+   "id": "taraflar",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "The reflex arc",
+   "baslik": "Ipsilateral and *contralateral*",
+   "sol": {
+    "ust": "Ipsilateral (same side)",
+    "maddeler": [
+     {
+      "metin": "Stimulus and probe in same ear",
+      "cumle": 0
+     },
+     {
+      "metin": "Signal does not cross",
+      "cumle": 1
+     },
+     {
+      "metin": "More prone to artifact",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Contralateral (opposite side)",
+    "maddeler": [
+     {
+      "metin": "Stimulus in one ear, probe in other",
+      "cumle": 3
+     },
+     {
+      "metin": "Signal crosses in the brainstem",
+      "cumle": 4
+     },
+     {
+      "metin": "State both ears in the report",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "In ipsilateral, or same-side, measurement, the stimulus is given and the reflex is measured with the probe in the same ear.",
+    "In this pathway the signal reaches the facial nerve on the same side without crossing in the brainstem.",
+    "Because the stimulus and the probe tone share the same small space, ipsilateral measurement is more prone to artifact.",
+    "In contralateral, or opposite-side, measurement, the stimulus goes to one ear by earphone and the reflex is measured in the other.",
+    "In this pathway the signal crosses to the other side in the brainstem and stimulates the facial nerve on that side.",
+    "Comparing the two pathways helps us understand whether the problem lies at the ear, the nerve or the brainstem.",
+    "Naming can differ between clinics; the report must clearly state the stimulated ear and the probe ear."
+   ]
+  },
+  {
+   "id": "esikler",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Normal thresholds",
+   "baslik": "Normal reflex *thresholds*",
+   "sutunlar": [
+    "Stimulus",
+    "Approximate threshold",
+    "Note"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500, 1000, 2000 Hz",
+      "70 to 100 dB",
+      "Mean about 85"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "Often absent",
+      "Unreliable for interpretation"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Broadband noise",
+      "About 20 dB lower",
+      "Compared with tones"
+     ],
+     "cumle": 6
+    },
+    {
+     "hucreler": [
+      "Ipsilateral",
+      "A few dB lower",
+      "Compared with contralateral"
+     ],
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "The lowest stimulus level at which the reflex appears is called the acoustic reflex threshold, or ART.",
+    "In adults with normal hearing, pure tone reflex thresholds are usually between seventy and one hundred dB HL.",
+    "Most sources give a mean value of around eighty five dB HL.",
+    "In other words, the reflex appears about seventy to one hundred decibels above a normal hearing threshold.",
+    "At four thousand hertz the reflex is often absent, even in people with normal hearing.",
+    "So interpretation usually uses five hundred, one thousand and two thousand hertz.",
+    "With broadband noise the reflex appears at levels about fifteen to twenty decibels lower than with pure tones.",
+    "Ipsilateral thresholds are usually a few decibels lower than contralateral thresholds."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Normal thresholds",
+   "baslik": "The *reflex* in hearing loss",
+   "maddeler": [
+    {
+     "metin": "Reflex can be _preserved_ in cochlear loss",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Lower_ sensation level than expected",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Probe ear conductive loss: _usually absent_",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Detailed patterns: _next lesson_",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "In mild and moderate cochlear losses, reflex thresholds often stay at normal levels.",
+    "The reflex then appears at a lower sensation level relative to the hearing threshold; this is consistent with cochlear loss.",
+    "This is because, with cochlear damage, loudness grows faster than normal above threshold.",
+    "Once the loss exceeds about fifty to sixty decibels, the reflex threshold starts to rise; in greater losses it is often absent.",
+    "Even a small conductive loss in the probe ear often prevents the reflex from being measured.",
+    "If the stimulated ear has a conductive loss, the reflex threshold rises by about the size of the air-bone gap.",
+    "In the next lesson we will see in detail how these patterns are used to estimate the site of lesion."
+   ]
+  },
+  {
+   "id": "teknik",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Measurement technique",
+   "baslik": "Measurement *steps*",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tympanometry",
+     "metin": "First, same probe placement",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Peak pressure",
+     "metin": "Pressure is set here",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "70 dB HL",
+     "metin": "Start with a pure tone",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "5 dB steps",
+     "metin": "Until a reflex is seen",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Criterion",
+     "metin": "Repeatable 0.02 mmho drop",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Reflex measurement is done right after tympanometry, with the same probe placement.",
+    "The ear canal pressure is set to the tympanogram's peak pressure, where the reflex is easiest to see.",
+    "A pure tone stimulus usually starts at around seventy dB HL; with broadband noise the starting level is lower.",
+    "The level is raised in five decibel steps until a reflex is seen.",
+    "By a commonly used criterion, the reflex threshold is the lowest level giving a drop of at least about zero point zero two millimhos.",
+    "The response at threshold is confirmed by seeing it at least twice.",
+    "The patient is told they will hear brief loud sounds, that no response is needed, and that they should just stay still."
+   ]
+  },
+  {
+   "id": "guvenlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Measurement technique",
+   "baslik": "Safety and the *upper limit*",
+   "maddeler": [
+    {
+     "metin": "Do not _prolong_ the test needlessly",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Upper limit for tones: _105 dB HL_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Caution_ with tinnitus and sound sensitivity",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "_Stop at once_ if uncomfortable",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Reflex stimuli are loud, so the measurement should not be prolonged unnecessarily.",
+    "British Society of Audiology guidance recommends not exceeding one hundred five dB HL for pure tones; the limit for noise is lower.",
+    "If no reflex is obtained up to this level, it is recorded as no response.",
+    "Extra care is taken with patients who have tinnitus, sound sensitivity or recent noise exposure.",
+    "For these patients, the need for the test is considered and stimulus levels are kept as low as possible.",
+    "If the patient becomes uncomfortable during the measurement, the test is stopped immediately."
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Measurement technique",
+   "baslik": "Common *artifacts*",
+   "sutunlar": [
+    "Artifact",
+    "Appearance",
+    "Solution"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ipsilateral acoustic artifact",
+      "Reversed or atypical deflection",
+      "Check in cavity"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Movement, swallowing",
+      "Irregular deflection",
+      "Measure again"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Probe leak",
+      "Drifting baseline",
+      "Reseat the tip"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Wrong pressure",
+      "Small response",
+      "Set to peak pressure"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "In ipsilateral measurement, the stimulus and probe tone can interact in the same space and create false deflections.",
+    "This artifact may appear as a reversed or unusually shaped deflection; if in doubt, the test is tried in a hard-walled test cavity.",
+    "If a deflection is also seen in the cavity, the response is not a reflex but an artifact from the equipment.",
+    "A true reflex is not seen in a cavity, because it is not a living ear.",
+    "Patient movement, swallowing or talking cause irregular deflections; the measurement is repeated.",
+    "A probe leak makes the baseline drift; the tip is reseated.",
+    "If the pressure is not set to peak pressure, the response becomes smaller and the reflex may be thought absent."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If the reflex is absent, check the probe ear first: tympanogram and otoscopy. Even a small conductive problem can hide the reflex.",
+   "cumleler": [
+    "A practical tip: when no reflex is obtained, do not immediately think of a neural problem.",
+    "First look at the tympanogram and otoscopy of the probe ear.",
+    "A small conductive problem in this ear, such as clearly negative pressure or effusion, can by itself hide the reflex.",
+    "Also check that the pressure was set to peak pressure and that the probe is not leaking.",
+    "These checks can prevent unnecessary referrals for further investigation."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Measurement technique",
+   "baslik": "Recording and *reporting*",
+   "maddeler": [
+    {
+     "metin": "_Threshold_ for each frequency (dB HL)",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Ipsi and contra written _separately_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "If absent: _no response_ and maximum level",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Summary in _table_ form",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Reflex thresholds are recorded in dB HL for each frequency.",
+    "Ipsilateral and contralateral results are written in separate columns, stating the stimulus and probe ear.",
+    "If no reflex was obtained, record no response and the highest level tried, since a reflex might appear at a higher level.",
+    "Presenting the results in a table makes the patterns easier to interpret.",
+    "The gap between the reflex threshold and the pure tone threshold can also be calculated; it is used in interpretations we will see later."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Measurement technique",
+   "baslik": "*Why* is the reflex important?",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "The whole pathway",
+     "metin": "Middle ear, nerve and brainstem",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Facial nerve",
+     "metin": "Integrity up to the stapedius branch",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Cross-check",
+     "metin": "Conflict with reported hearing loss",
+     "cumle": 3
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Routine immittance",
+     "metin": "Together with tympanometry",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The acoustic reflex answers several different questions in the test battery at the same time.",
+    "It tests middle ear function, the auditory nerve and the brainstem pathway together.",
+    "It also gives information about the integrity of the facial nerve up to its stapedius branch.",
+    "If normal reflex thresholds conflict with a reported severe hearing loss, this is also an important cross-check finding.",
+    "This is why reflex measurement is part of the routine immittance assessment, together with tympanometry."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_Stapedius_ contracts, admittance drops",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Arc: CN VIII, brainstem, _CN VII_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Normal threshold: _70 to 100 dB HL_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Probe ear conductive loss: _no reflex_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "With a loud sound, the stapedius muscle contracts and middle ear admittance decreases.",
+    "The reflex arc runs through the cochlea, the eighth nerve, the brainstem and the seventh nerve, with ipsilateral and contralateral branches.",
+    "In people with normal hearing, pure tone reflex thresholds are usually between seventy and one hundred dB HL.",
+    "Even a small conductive problem in the probe ear often abolishes the reflex."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which nerve contracts the stapedius in the reflex arc?",
+   "secenekler": [
+    "CN VIII",
+    "CN VII",
+    "CN V"
+   ],
+   "dogru": 1,
+   "aciklama": "The eighth nerve carries the signal to the brainstem; the motor fibers of the _facial nerve_ contract the stapedius.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in the acoustic reflex arc, which nerve contracts the stapedius muscle?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the seventh cranial nerve, the facial nerve.",
+    "The eighth nerve carries the signal to the brainstem, while the motor fibers of the facial nerve contract the muscle."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Acoustic Reflex *Patterns* and Site of Lesion",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how reflex patterns are used to estimate the site of lesion.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

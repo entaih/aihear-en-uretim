@@ -1,0 +1,694 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D104_Tympanometry_EN",
+ "kapak": {
+  "ust": "LESSON 104",
+  "baslik": "Performing<br>*tympanometry*",
+  "alt": "Probe, pressure sweep and basic values",
+  "cizim": "timpanogram"
+ },
+ "youtube": {
+  "baslik": "How to Perform Tympanometry | Lesson 104 | AIHEAR Audiology Academy",
+  "aciklama": "Tympanometry measures the admittance of the middle ear system while the pressure in the ear canal is varied. In this lesson we cover otoscopy and patient preparation, probe tip selection and the hermetic seal, the pressure sweep from plus 200 to minus 400 daPa, and the basic values measured (ECV, peak admittance, TPP, TW).\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds; ASHA, Guidelines for Audiologic Screening.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "tympanometry",
+   "immittance"
+  ],
+  "etiketler": [
+   "tympanometry",
+   "how to perform tympanometry",
+   "tympanogram",
+   "immittance audiometry",
+   "admittance",
+   "decapascal",
+   "daPa",
+   "hermetic seal",
+   "ear canal volume",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 104",
+   "baslik": "How to perform *tympanometry*",
+   "alt": "Probe, hermetic seal, pressure sweep and values",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn, step by step, how tympanometry is performed, from preparation to the results screen.",
+    "We will talk about choosing the probe tip, the hermetic seal and the basic values that are measured."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The basic principle",
+   "baslik": "What does tympanometry *measure?*",
+   "maddeler": [
+    {
+     "metin": "_Admittance_ of the middle ear system",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ear canal _pressure_ is varied",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "_226 Hz_ probe tone in adults",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "The result graph: _tympanogram_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Tympanometry measures how easily the middle ear system transmits sound, its admittance, while ear canal pressure is varied.",
+    "As the pressure in the ear canal changes, the tympanic membrane is stretched and transmits sound less easily.",
+    "Transmission is easiest when the pressure in the ear canal equals the pressure in the middle ear.",
+    "A continuous probe tone is given into the ear canal; in adults and older children it is usually two hundred twenty six hertz.",
+    "In infants under six months, a one thousand hertz probe tone is preferred; we will see this in a separate lesson.",
+    "The graph of admittance plotted against pressure is called a tympanogram."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "orta_kulak",
+      "cumle": 0
+     },
+     {
+      "parca": "timpanik_membran",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "tympanic membrane",
+      "cumle": 1
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "ear canal: pressure",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "prob",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The basic principle",
+   "baslik": "The probe and the *ear canal*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "prob",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_pompa",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    },
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Sealed ear canal",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Loudspeaker",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Microphone",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "Pump channel",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Tympanic membrane (eardrum)",
+     "cumle": 3
+    },
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Eustachian tube",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Probe: speaker, microphone, pump",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Easy transmission: less sound in canal",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "The probe is placed in the outer part of the ear canal with an airtight seal, turning the canal into a closed cavity.",
+    "The probe has three channels: a speaker that delivers the probe tone, a microphone that measures sound in the canal, and a pump channel.",
+    "While the pump changes the pressure, the microphone continuously measures the sound level remaining in the canal.",
+    "If the tympanic membrane, or eardrum, transmits sound easily, less sound remains in the canal; if not, more remains.",
+    "From this sound level, the device calculates the admittance of the middle ear system.",
+    "Middle ear pressure is balanced by the Eustachian tube, so tympanometry also gives indirect information about Eustachian function."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   }
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Preparation",
+   "baslik": "Before the *measurement*",
+   "maddeler": [
+    {
+     "metin": "_Otoscopy_ first",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "_Check_ for wax, discharge, perforation",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Brief _explanation_ to the patient",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_No_ talking, swallowing or moving",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Otoscopy is always done before tympanometry.",
+    "We check for wax blocking the canal, discharge, a foreign body or a perforation.",
+    "With active discharge, a painful ear canal or recent ear surgery, the test is not done without a physician's opinion.",
+    "The patient is told they will feel brief pressure in the ear and hear a soft sound.",
+    "They are asked not to talk, swallow or move their head during the test, since these can distort the curve.",
+    "In children, the test is done while the child is calm and seated; crying can change the results.",
+    "At the start of the day, the device is checked with test cavities of known volume."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ALSO",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Discharge, pain, surgery",
+      "metin": "No test without physician's opinion",
+      "cumle": 2
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "In children",
+      "metin": "Calm and seated",
+      "cumle": 5
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Start of the day",
+      "metin": "Device check with test cavities",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "sizdirmazlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Preparation",
+   "baslik": "Probe tip and *hermetic seal*",
+   "maddeler": [
+    {
+     "metin": "Tip _sized_ to the ear canal",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Pull the pinna _up and back_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Hermetic seal_",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Tip must not press the _wall_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The probe tip is chosen to be slightly larger than the entrance of the ear canal.",
+    "Disposable or cleanable tips are used according to infection control rules.",
+    "In adults, the pinna is gently pulled up and back to straighten the ear canal.",
+    "The tip is seated in the canal with a slight twisting movement.",
+    "The aim is a hermetic seal; otherwise the pump cannot build up pressure.",
+    "If there is a leak, the device usually gives a warning or the pressure does not reach its target; the tip is then changed or reseated.",
+    "If the tip presses against the canal wall or is buried in wax, a misleading flat curve with a very small volume is obtained."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "ear canal entrance",
+      "cumle": 0
+     },
+     {
+      "parca": "kulak_kepcesi",
+      "metin": "pinna: up and back",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "tarama",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Measurement",
+   "baslik": "The *pressure* sweep",
+   "maddeler": [
+    {
+     "metin": "Unit: _daPa_ (decapascal)",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Start: _+200 daPa_",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "End: usually _-400 daPa_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Admittance recorded _continuously_",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Pressure is expressed in decapascals, written on screen as daPa."
+    },
+    "One decapascal is ten pascals and roughly equal to the pressure of one millimeter of water.",
+    "The sweep usually starts at plus two hundred decapascals, a positive pressure that stretches the tympanic membrane.",
+    "The pressure is then lowered toward minus four hundred decapascals; some protocols go down to minus six hundred.",
+    "Meanwhile, admittance is recorded continuously and drawn on screen as a curve.",
+    "Pump speed and sweep direction affect the result somewhat, so the same clinic uses the same protocol.",
+    "The measurement takes a few seconds; if the curve is irregular, it is repeated."
+   ]
+  },
+  {
+   "id": "egri",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Measurement",
+   "baslik": "A normal *tympanogram*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Peak pressure: middle ear pressure",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Peak height: admittance",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tails: ear canal volume",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "In a normal middle ear, we see a curve like this with a single peak.",
+    "The pressure at the peak reflects middle ear pressure; it is normally around zero decapascals.",
+    "The height of the peak shows how easily the middle ear system transmits sound.",
+    "At the positive and negative tails the tympanic membrane is stretched, so admittance drops and the curve falls.",
+    "The value measured at these tails belongs mostly to the air in the ear canal; ear canal volume is calculated from it."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Measurement",
+   "baslik": "The measured *values*",
+   "sutunlar": [
+    "Parameter",
+    "Abbreviation",
+    "Unit"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ear canal volume",
+      "ECV",
+      "ml"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Peak static admittance",
+      "Ytm",
+      "mmho or ml"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Peak pressure",
+      "TPP",
+      "daPa"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Tympanometric width",
+      "TW",
+      "daPa"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The device calculates several basic values from the curve; the first is the ear canal volume, or ECV.",
+    "ECV is calculated from the admittance measured at plus two hundred decapascals and is given in milliliters.",
+    "The second is peak static admittance: the admittance of the middle ear left after the ear canal contribution is removed.",
+    "At two hundred twenty six hertz, one milliliter of air equals one millimho of admittance, so the two units can be used interchangeably.",
+    "The third is the tympanometric peak pressure, or TPP.",
+    "The fourth is the tympanometric width, or TW: the pressure width of the curve at half the peak height.",
+    "We will look at the normal ranges of these values in detail in a later lesson."
+   ]
+  },
+  {
+   "id": "normlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Measurement",
+   "baslik": "*Approximate* adult values",
+   "maddeler": [
+    {
+     "metin": "ECV: about _0.6 to 1.5 ml_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Peak admittance: _0.3 to 1.7 mmho_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Peak pressure: around _zero_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Norms vary with _age and device_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "In adults, ear canal volume is about zero point six to one point five milliliters; some recent norms have a higher upper limit.",
+    "Peak static admittance in adults is taken to be about zero point three to one point seven millimhos.",
+    "Peak pressure is normally around zero decapascals; clearly negative values may suggest a problem with Eustachian function.",
+    "Norms differ in children because the ear canal is smaller; the norm table of the device and clinic in use is the reference."
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Quality and interpretation",
+   "baslik": "Common *artifacts*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Swallowing, talking",
+     "metin": "Sudden jumps in the curve",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Leak",
+     "metin": "No pressure builds up",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Blocked tip",
+     "metin": "Flat, small-volume curve",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Crying child",
+     "metin": "Variable results",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Swallowing, talking or head movement can cause sudden jumps in the curve.",
+    "With an air leak, the pressure does not reach the target value and the curve cannot be completed.",
+    "If the tip is blocked or pressed against the wall, a flat, small-volume curve results.",
+    "In a crying child, middle ear pressure and admittance can change temporarily.",
+    "For any doubtful curve, the first step is to check the probe and repeat the measurement."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "With a flat curve, check the ECV and compare with otoscopy before interpreting. A very small volume is often a blocked tip or wax.",
+   "cumleler": [
+    "Here is an important tip from the field.",
+    "When you see a flat curve, look at the ECV before interpreting it.",
+    "If the volume is much smaller than expected, the tip may be against the canal wall or wax; reseat the probe and repeat.",
+    "If the volume is much larger than expected, think of a perforation or an open ventilation tube; compare with otoscopy.",
+    "This simple check prevents a false type B interpretation."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Quality and interpretation",
+   "baslik": "What it tells us, and what it *doesn't*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "It tells us",
+     "metin": "Pressure, mobility, volume, possible fluid",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "It does not tell us",
+     "metin": "Hearing threshold, cochlea and nerve",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tympanometry gives direct information about middle ear pressure.",
+    "It shows the mobility of the tympanic membrane and ossicular system.",
+    "Through the ear canal volume, it lets us assess the possibility of a perforation or a blockage.",
+    "A flat curve with a normal volume suggests possible fluid in the middle ear.",
+    "But tympanometry is not a hearing test; a normal tympanogram does not mean normal hearing.",
+    "In losses arising from the cochlea or the auditory nerve, the tympanogram can be completely normal.",
+    "This is why tympanometry is always interpreted together with the audiogram and other tests."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Quality and interpretation",
+   "baslik": "*Recording* the results",
+   "maddeler": [
+    {
+     "metin": "_Probe tone_ frequency",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Curve and _numerical values_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Otoscopy _note_",
+     "cumle": 2,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Test _conditions_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "The probe tone frequency used is always stated in the report.",
+    "The tympanogram curve, ECV, peak admittance and peak pressure are recorded separately for each ear.",
+    "The otoscopy finding is also noted next to the tympanometry result.",
+    "If the child was crying or the measurement was repeated, this is recorded as well.",
+    "Using the same device and protocol for follow-up measurements makes the results easier to compare."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_Otoscopy_ first, then a sealed probe",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Sweep from +200 to _-400 daPa_",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "226 Hz probe tone, result: _tympanogram_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ECV, peak admittance, _TPP_ and TW",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Before tympanometry, otoscopy is done and the probe is placed with an airtight seal.",
+    "Pressure is usually swept from plus two hundred toward minus four hundred decapascals.",
+    "In adults a two hundred twenty six hertz probe tone is used, and admittance is plotted against pressure as a tympanogram.",
+    "The basic values are ear canal volume, peak static admittance, peak pressure and tympanometric width."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Admittance measured at +200 daPa is used to calculate which value?",
+   "secenekler": [
+    "Middle ear pressure",
+    "Ear canal volume",
+    "Hearing threshold"
+   ],
+   "dogru": 1,
+   "aciklama": "At this pressure the tympanic membrane is stretched; the value belongs mostly to the _air in the ear canal_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: the admittance measured at plus two hundred decapascals is used to calculate which value?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: ear canal volume.",
+    "At this pressure the tympanic membrane is stretched, and the measured value belongs mostly to the air in the ear canal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tympanogram Types: *Jerger* A, As, Ad, B and C",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at the tympanogram types of the Jerger classification and what each type suggests.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,774 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D186_Telecoil_Wireless_ALDs_EN",
+ "kapak": {
+  "ust": "LESSON 186",
+  "baslik": "Telecoil and<br>*wireless* sound",
+  "alt": "Loops, Bluetooth, remote mics",
+  "cizim": "oda_plani",
+  "ayar": {
+   "mod": "kritik_mesafe",
+   "kritik_mesafe_m": 1.5,
+   "oda": [
+    9,
+    7
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Telecoil, Wireless and Assistive Listening Devices | Lesson 186 | AIHEAR Audiology Academy",
+  "aciklama": "Why does a hearing aid struggle to catch a distant talker in noise? In this lesson we cover the telecoil and induction loop, Bluetooth streaming, FM and digital remote microphone systems, and which solution to choose in which situation.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Dillon, Hearing Aids; IEC 60118-4, Electroacoustics: Hearing aids, Induction loop systems for assisted hearing; American Speech-Language-Hearing Association, Acoustics in Educational Settings (2005); American Academy of Audiology, Clinical Practice Guidelines: Remote Microphone Hearing Assistance Technologies for Children and Youth from Birth to 21 Years (2008).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "telecoil"
+  ],
+  "etiketler": [
+   "telecoil",
+   "T-coil",
+   "induction loop",
+   "hearing loop",
+   "remote microphone",
+   "FM system",
+   "Bluetooth",
+   "Auracast",
+   "assistive listening devices",
+   "signal-to-noise ratio",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 186",
+   "baslik": "Telecoil and *wireless* sound",
+   "alt": "Assistive listening devices",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about systems that bring sound to the hearing aid directly from the source, not through its microphone.",
+    "We will compare the telecoil and induction loop, Bluetooth streaming and remote microphone systems."
+   ]
+  },
+  {
+   "id": "mesafe",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The distance problem",
+   "baslik": "Distance, reverberation and *noise*",
+   "cizim": "oda_plani",
+   "ayar": {
+    "mod": "kritik_mesafe",
+    "kritik_mesafe_m": 1.5,
+    "oda": [
+     9,
+     7
+    ],
+    "halka_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "ogretmen",
+     "metin": "talker",
+     "cumle": 0
+    },
+    {
+     "parca": "kritik_mesafe",
+     "metin": "critical distance",
+     "cumle": 2
+    },
+    {
+     "parca": "ogrenciler",
+     "metin": "distant listener",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ogretmen",
+     "cumle": 0
+    },
+    {
+     "parca": "yankilanan_alan",
+     "cumle": 2
+    },
+    {
+     "parca": "ogrenciler",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Direct sound _drops_ with distance",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Reverberation blurs speech",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Solution: pick up sound at the source",
+     "cumle": 5,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "The hearing aid microphone is at the user's ear, while the talker is often several meters away.",
+    "As the distance from the source grows, the level of the direct sound drops, while background noise stays the same.",
+    "Beyond the critical distance, reflected sound becomes stronger than direct sound and speech becomes blurred.",
+    "This is why the signal-to-noise ratio for a student in the back row is markedly worse than for one in the front row.",
+    "A hearing aid cannot clean up the mixed sound reaching its microphone; it can only amplify and shape it.",
+    "Assistive listening devices solve this problem by picking up sound next to the source and sending it directly to the aid."
+   ]
+  },
+  {
+   "id": "uc_yol",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The distance problem",
+   "baslik": "*Three ways* to carry sound",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Telecoil",
+     "cumle": 1,
+     "metin": "Magnetic field from a loop"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Bluetooth",
+     "cumle": 2,
+     "metin": "Direct sound from a phone"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Remote microphone",
+     "cumle": 3,
+     "metin": "On the talker's collar"
+    }
+   ],
+   "cumleler": [
+    "There are three main ways to carry sound directly to a hearing aid.",
+    "The first is the telecoil and induction loop, which work through a magnetic field.",
+    "The second is wireless streaming via Bluetooth from devices such as phones and televisions.",
+    "The third is remote microphone systems, worn by the talker, which send sound by radio waves.",
+    "All three share the same aim: pick up sound next to the source and deliver it to the ear without added distance, reverberation or noise."
+   ]
+  },
+  {
+   "id": "telebobin",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Telecoil and loop",
+   "baslik": "What is a *telecoil?*",
+   "maddeler": [
+    {
+     "metin": "A small wire coil in the aid",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Magnetic field into an electrical signal",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "T program: coil only",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "MT program: coil and microphone",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "No extra receiver or pairing needed",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "islemci",
+      "metin": "telecoil in the case",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "The telecoil is a small coil of wire inside the hearing aid.",
+    "When it sits in a changing magnetic field, an electric current forms in the coil; the aid processes this current as a sound signal.",
+    "The telecoil was first used to pick up the magnetic field leaking from old telephone handsets.",
+    {
+     "yazi": "In the T program the aid delivers only the sound from the coil, so background noise is almost entirely shut out."
+    },
+    "In the microphone and telecoil program, or MT program, both work together; the person hears both the loop and the people nearby.",
+    "Telecoil-compatible phones emit a magnetic field from the earpiece; in mobile phones this compatibility varies by model.",
+    "A telecoil needs no extra receiver or pairing, but it does not always fit in small in-the-ear aids."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Telecoil and loop",
+   "baslik": "The induction *loop*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Sound source",
+     "cumle": 0,
+     "metin": "Microphone or broadcast"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Amplifier",
+     "cumle": 1,
+     "metin": "Drives the current"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Loop cable",
+     "cumle": 2,
+     "metin": "Around the room"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Magnetic field",
+     "cumle": 3,
+     "metin": "Inside the loop"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Telecoil",
+     "cumle": 4,
+     "metin": "Picks up the sound"
+    }
+   ],
+   "cumleler": [
+    "In an induction loop system, sound is first picked up from the talker's microphone or a broadcast source.",
+    "The loop amplifier converts this sound into an electric current.",
+    "The current passes through a cable laid around the room or under the floor.",
+    "In the area enclosed by the cable, a magnetic field forms that changes along with the sound.",
+    "Anyone inside this field can switch on their telecoil and hear the sound directly, unaffected by distance and reverberation.",
+    "A small neck loop applies the same principle personally, for a phone or a music player."
+   ]
+  },
+  {
+   "id": "standart",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Telecoil and loop",
+   "baslik": "*Where* and how are loops used?",
+   "maddeler": [
+    {
+     "metin": "Field strength: _400 mA/m_ reference",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Response: 100 to 5000 Hz",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sign: an ear and the letter T",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Counters, halls, places of worship, taxis",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Loop installation is verified by measurement",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "WHERE?",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "is_yeri",
+      "baslik": "Counters",
+      "cumle": 3,
+      "metin": "Banks, stations"
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Halls",
+      "cumle": 3,
+      "metin": "Theater, conference"
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Home",
+      "cumle": 4,
+      "metin": "Television loop"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Loop systems are installed to the international IEC 60118-4 standard; the reference field strength is 400 mA/m.",
+     "ses": "Loop systems are installed to the international I E C standard; the reference field strength is four hundred milliamperes per meter."
+    },
+    "The same standard requires the field's frequency response to be flat from about 100 to 5000 Hz.",
+    "Places with a loop are marked with a sign showing a crossed-out ear on a blue background with the letter T in the corner.",
+    "Ticket counters, meeting rooms, theaters and places of worship are where loops are most useful.",
+    "The biggest advantage of a loop is that anyone with a telecoil can use the system without an extra receiver.",
+    "After installation, field strength should be checked with a meter; a weak or uneven field gives poor sound."
+   ]
+  },
+  {
+   "id": "bluetooth",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Wireless connectivity",
+   "baslik": "*Direct* sound with Bluetooth",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Phone",
+     "cumle": 0,
+     "metin": "Directly to both ears"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Intermediary device",
+     "cumle": 1,
+     "metin": "Needed in older systems"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Low energy",
+     "cumle": 2,
+     "metin": "Direct streaming"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Broadcast audio",
+     "cumle": 4,
+     "metin": "Open to everyone"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Battery use",
+     "cumle": 6,
+     "metin": "Streaming shortens battery life"
+    }
+   ],
+   "cumleler": [
+    "Bluetooth allows sound from phones, televisions and computers to be streamed wirelessly to the hearing aid.",
+    "Because classic Bluetooth uses a lot of power, older systems needed an intermediary device worn around the neck, called a streamer.",
+    "With Bluetooth Low Energy technology, many aids today can receive sound from a phone without an intermediary.",
+    "Because a phone call can be delivered to both ears at once, intelligibility usually improves markedly.",
+    "Auracast, the broadcast feature of the new Bluetooth audio standard, can send sound from one source to many listeners.",
+    "With phone apps, users can change the volume and program; this is a side benefit of wireless connectivity.",
+    "Streaming increases battery use, and compatibility varies by aid and phone model, so it should be tried beforehand."
+   ]
+  },
+  {
+   "id": "uzak",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Remote microphones",
+   "baslik": "*How* does a remote microphone work?",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Talker",
+     "cumle": 0,
+     "metin": "Microphone near the mouth"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Transmitter",
+     "cumle": 1,
+     "metin": "Encodes the sound"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Radio wave",
+     "cumle": 2,
+     "metin": "FM or digital"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Receiver",
+     "cumle": 3,
+     "metin": "Connected to the aid"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ear",
+     "cumle": 4,
+     "metin": "High SNR"
+    }
+   ],
+   "cumleler": [
+    "In a remote microphone system, the microphone is worn close to the talker's mouth, for example on the collar.",
+    "The transmitter picks up this close, clean sound and prepares it for wireless transmission.",
+    "Older systems send the sound by frequency-modulated, or FM, radio waves, and newer ones by a digital wireless link.",
+    "The receiver may be a small part attached to the hearing aid, or it may be built into the aid.",
+    "So even if the talker is several meters away, the listener receives the sound as if it were right next to the talker's mouth.",
+    "This is why the remote microphone is considered the most powerful assistive tool against noise and distance."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Remote microphones",
+   "baslik": "Distance and *signal-to-noise ratio*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 8,
+     "log": true,
+     "ond": 1,
+     "ad": "Distance to talker (m)",
+     "isaretler": [
+      0.5,
+      1,
+      2,
+      4,
+      8
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 25,
+     "adim": 5,
+     "ad": "SNR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "cihaz",
+      "noktalar": [
+       [
+        0.5,
+        14
+       ],
+       [
+        1,
+        8
+       ],
+       [
+        2,
+        2
+       ],
+       [
+        4,
+        -3
+       ],
+       [
+        8,
+        -6
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "hearing aid only",
+      "cumle": 1
+     },
+     {
+      "ad": "uzak",
+      "noktalar": [
+       [
+        0.5,
+        18
+       ],
+       [
+        1,
+        18
+       ],
+       [
+        2,
+        18
+       ],
+       [
+        4,
+        18
+       ],
+       [
+        8,
+        18
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "remote microphone",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hedef",
+      "y": [
+       15,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "target: at least +15 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "This graph shows, with example values, the signal-to-noise ratio reaching a listener in a noisy classroom.",
+    "When listening through the hearing aid microphone alone, the ratio falls quickly with distance from the talker.",
+    "With a remote microphone, however, the ratio stays high wherever the listener sits.",
+    "Classic studies have reported an improvement of about 15 to 20 dB from remote microphones.",
+    "The American Speech-Language-Hearing Association recommends a classroom ratio of at least plus 15 dB for children with hearing loss.",
+    "In a large classroom, reaching this target with hearing aids alone is often not possible."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Remote microphones",
+   "baslik": "Remote microphones *for whom?*",
+   "ogeler": [
+    {
+     "ikon": "okul",
+     "baslik": "School age",
+     "cumle": 0,
+     "metin": "Teacher's voice in class"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Young child",
+     "cumle": 1,
+     "metin": "At home and in the car"
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Adult",
+     "cumle": 2,
+     "metin": "Meetings and restaurants"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implant",
+     "cumle": 3,
+     "metin": "Works with the same system"
+    }
+   ],
+   "cumleler": [
+    "For school-age children with hearing loss, a remote microphone is widely recommended to carry the teacher's voice directly in class.",
+    "For younger children, it can be used to carry a parent's voice from a distance, for example in the car or at the park.",
+    "For adults, microphones placed on the table or handed to the talker help in settings such as meetings and restaurants.",
+    "Many cochlear implant sound processors can also be used with the same remote microphone systems."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "tablo",
+   "bolum_no": "PART 5",
+   "bolum": "The right choice",
+   "baslik": "*Which solution* for which situation?",
+   "sutunlar": [
+    "Situation",
+    "Solution"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Phone call",
+      "Bluetooth or telecoil"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Television",
+      "Wireless TV transmitter"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Classroom",
+      "Remote microphone"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Theater, counter",
+      "Loop or broadcast"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Meeting, restaurant",
+      "Table microphone"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The choice of assistive system is based on the difficult situations in the person's daily life.",
+    "For the phone, Bluetooth streaming can be used, or the telecoil with compatible phones.",
+    "For television, a small wireless transmitter connected to the TV sends the sound directly to the aid.",
+    "In the classroom, the most effective solution is a remote microphone.",
+    "In shared spaces such as theaters, ticket counters and places of worship, loop or broadcast systems are used.",
+    "In settings with many talkers, such as meetings and restaurants, a microphone placed on the table can help."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "The right choice",
+   "baslik": "From choice to *use*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Ask about needs",
+     "cumle": 0,
+     "metin": "Difficult situations"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Check compatibility",
+     "cumle": 1,
+     "metin": "Aid and phone"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Try together",
+     "cumle": 2,
+     "metin": "In the clinic"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Teach",
+     "cumle": 3,
+     "metin": "Buttons and signs"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Follow up",
+     "cumle": 4,
+     "metin": "Ask at check-ups"
+    }
+   ],
+   "cumleler": [
+    "Recommending an assistive system starts with asking the person where they struggle most in daily life.",
+    "Then the aid's telecoil, Bluetooth and remote microphone compatibility, and the person's phone model, are checked.",
+    "If possible, the system is tried in the clinic with the person's own sound sources and their own phone.",
+    "The user, and a family member if needed, are taught practical steps such as switching programs and charging.",
+    "At follow-up visits, ask whether the system is really being used; a system that is not used brings no benefit."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In many aids the telecoil is off by default. Activate its program at the first fit, try it together in a loop, and show the user the button.",
+   "cumleler": [
+    "A tip from the field: many aids have a telecoil, but its program is often not enabled by default.",
+    "At the first fit, turn on the telecoil program and, if possible, try it together with a loop or test device in the clinic.",
+    "Show the user how to switch to this program and where to look for the loop sign.",
+    "For wireless connections, having the person bring their own phone and pairing it in the clinic reduces later problems.",
+    "Assistive systems work only as long as the user knows them and can use them easily."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Distance and reverberation lower SNR",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Telecoil picks up the loop's magnetic field",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bluetooth: sound from phone and TV",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Remote microphone: the largest SNR gain",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that the signal-to-noise ratio falls as distance from the talker and reverberation increase.",
+    "The telecoil picks up the magnetic field of an induction loop and delivers sound directly to the aid.",
+    "Bluetooth provides wireless streaming from devices such as phones and televisions.",
+    "Remote microphone systems provide the largest signal-to-noise gain against noise and distance."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Most effective way to understand the teacher in class?",
+   "secenekler": [
+    "More gain",
+    "Remote microphone",
+    "Large vent",
+    "Noise program"
+   ],
+   "dogru": 1,
+   "aciklama": "A remote microphone picks up sound _at the source_ and largely removes the effects of distance and reverberation.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: for a student with hearing loss sitting in the back row of a noisy classroom, which solution is most effective?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a remote microphone.",
+    "A remote microphone picks up sound close to the teacher's mouth, so the effects of distance and reverberation largely disappear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Test Box Measurements and the *2 cc Coupler*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will see how a hearing aid is measured in a test box and coupler before it is handed over.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

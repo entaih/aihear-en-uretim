@@ -1,0 +1,106 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R125_Why_White_Noise_Hisses_EN",
+ "kapak": {
+  "ust": "QUICK FACT #125",
+  "baslik": "Why white noise *hisses*",
+  "alt": "Each octave is twice as wide as the last",
+  "cizim": "maskeleme",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does white noise sound so high-pitched? #shorts",
+  "aciklama": "White noise has equal energy in every 1 Hz band. Because each octave is twice as wide as the one below, energy per octave rises by 3 dB, so white noise sounds like a high-pitched hiss.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "acoustics",
+   "noise"
+  ],
+  "etiketler": [
+   "white noise",
+   "pink noise",
+   "octave",
+   "spectrum",
+   "noise types",
+   "masking",
+   "acoustics",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does white noise sound so high-pitched?",
+  "bilgiler": [
+   "Each octave is twice as wide as the one before.",
+   "White noise has equal energy per hertz; it rises 3 dB per octave.",
+   "Pink noise has equal energy per octave and sounds more balanced."
+  ],
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "noise"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #125",
+   "metin": "Why does white noise sound *hissy?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does white noise sound like a high-pitched hiss?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Each octave is *twice* as wide",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "250-500 Hz",
+     "tr": "250 Hz wide",
+     "cumle": 0
+    },
+    {
+     "ad": "1000-2000 Hz",
+     "tr": "1000 Hz wide",
+     "cumle": 0,
+     "gecikme": 0.7
+    },
+    {
+     "ad": "4000-8000 Hz",
+     "tr": "4000 Hz wide",
+     "cumle": 0,
+     "gecikme": 1.4
+    }
+   ],
+   "alt": "White noise: _+3 dB per octave_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Each octave is twice as wide as the one before.",
+    "White noise has equal energy in every one-hertz band.",
+    "So each octave's energy doubles, rising by three decibels.",
+    "Pink noise has equal energy per octave and sounds more balanced."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D040",
+ "kaynak_baslik": "Noise Types: White, Pink and Narrowband Noise"
+}

@@ -1,0 +1,114 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R207_The_Third_Tone_EN",
+ "kapak": {
+  "ust": "QUICK FACT #207",
+  "baslik": "Two tones, *a third*",
+  "alt": "Distortion product otoacoustic emissions",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does the ear make a third sound when given two tones? #shorts",
+  "aciklama": "In DPOAE testing, two tones, f1 and f2, are played into the ear canal at once. Because a healthy cochlea is nonlinear, it creates sounds at new frequencies; in humans the largest is at 2f1-f2. For example, if f2 is 2000 Hz, the product is sought near 1280 Hz; this nonlinearity depends on outer hair cells.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "OAE",
+   "cochlea"
+  ],
+  "etiketler": [
+   "DPOAE",
+   "distortion product",
+   "otoacoustic emissions",
+   "2f1-f2",
+   "DP-gram",
+   "outer hair cells",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does the ear make a third sound when given two tones?",
+  "bilgiler": [
+   "In DPOAE, two tones are played at once: f1 and f2.",
+   "A nonlinear cochlea creates a new sound.",
+   "If f2 is 2000 Hz, the product is near 1280 Hz."
+  ],
+  "hashtag": [
+   "audiology",
+   "OAE",
+   "cochlea"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #207",
+   "metin": "Why does the ear make *a third sound?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does the ear make a third sound when given two tones?"
+   ]
+  },
+  {
+   "id": "dp",
+   "tur": "zincir",
+   "baslik": "Two tones, *a third sound*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "f2",
+     "tr": "2000 Hz",
+     "cumle": 1
+    },
+    {
+     "ad": "f1",
+     "tr": "1640 Hz",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "Product",
+     "tr": "1280 Hz",
+     "cumle": 2
+    }
+   ],
+   "alt": "The product sits _below both tones_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "In distortion product otoacoustic emissions, or DPOAE, two tones are played.",
+    {
+     "yazi": "Say f2 is 2000 Hz, and f1 is about 1640 Hz.",
+     "ses": "Say f two is two thousand hertz, and f one is about sixteen forty hertz."
+    },
+    {
+     "yazi": "A healthy cochlea makes a third sound near 1280 Hz.",
+     "ses": "A healthy cochlea makes a third sound near twelve eighty hertz."
+    },
+    {
+     "yazi": "This is 2f1-f2, the largest product in humans.",
+     "ses": "This is two f one minus f two, the largest product in humans."
+    },
+    "This nonlinearity depends on outer hair cells; damage reduces the product."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D123",
+ "kaynak_baslik": "Distortion Product Otoacoustic Emissions (DPOAE)"
+}

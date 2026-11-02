@@ -1,0 +1,683 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D084_Sound_Localization_EN",
+ "kapak": {
+  "ust": "LESSON 84",
+  "baslik": "*Locating* sound",
+  "alt": "Duplex theory, precedence effect and BMLD",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "superior_oliver"
+  ]
+ },
+ "youtube": {
+  "baslik": "Sound Localization and Binaural Perception | Lesson 84 | AIHEAR Audiology Academy",
+  "aciklama": "How does the brain find where a sound comes from? In this lesson we look at the difference between lateralization and localization, the minimum audible angle, the psychoacoustic basis of the duplex theory, the precedence effect, the binaural masking level difference and the clinical importance of spatial release from masking.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Mills (1958), On the minimum audible angle, Journal of the Acoustical Society of America; Litovsky et al. (1999), The precedence effect, Journal of the Acoustical Society of America; Blauert, Spatial Hearing; Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "psychoacoustics",
+   "binauralhearing"
+  ],
+  "etiketler": [
+   "sound localization",
+   "lateralization",
+   "minimum audible angle",
+   "duplex theory",
+   "precedence effect",
+   "binaural masking level difference",
+   "BMLD",
+   "spatial release from masking",
+   "interaural time difference",
+   "psychoacoustics",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 84",
+   "baslik": "Sound localization and *binaural* perception",
+   "alt": "Duplex theory, precedence effect and BMLD",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn, from a psychoacoustic view, how the brain finds where a sound comes from.",
+    "With clinical examples, we will see the duplex theory, the precedence effect and the binaural masking level difference."
+   ]
+  },
+  {
+   "id": "lateral",
+   "tur": "karsilastir",
+   "bolum_no": "PART 1",
+   "bolum": "Perceiving direction",
+   "baslik": "Lateralization or *localization*?",
+   "sol": {
+    "ust": "Lateralization",
+    "maddeler": [
+     {
+      "metin": "With earphones, heard _inside the head_",
+      "cumle": 0
+     },
+     {
+      "metin": "Sound image _shifts_ left or right",
+      "cumle": 1
+     },
+     {
+      "metin": "Single cues _studied_ one by one",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Localization",
+    "maddeler": [
+     {
+      "metin": "In a free field, heard _outside_",
+      "cumle": 3
+     },
+     {
+      "metin": "Direction and distance together",
+      "cumle": 4
+     },
+     {
+      "metin": "All cues work _together_",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "When listening through earphones, sounds are often heard inside the head, on a line between the two ears; this is called lateralization.",
+    "When a small time or level difference is added to the sound going to the two ears, the sound image shifts toward one side.",
+    "Lateralization experiments make it possible to separate the cues and study them one by one.",
+    "In a free field, we hear the sound outside the head, at a point in space; this is called localization.",
+    "Localization judges horizontal direction, elevation and distance together.",
+    "In real environments, all cues work at the same time, and the brain combines them."
+   ]
+  },
+  {
+   "id": "aci",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Perceiving direction",
+   "baslik": "*How many degrees* can the ear resolve?",
+   "maddeler": [
+    {
+     "metin": "Smallest angle in front: _about 1 degree_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "At the sides, angle _grows markedly_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "1500 to 2000 Hz: _weakest_ region",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "MILLS 1958",
+    "metin": "The minimum audible angle is smallest *in front*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "The precision of direction perception is measured with the minimum audible angle.",
+    {
+     "yazi": "In nineteen fifty eight, Mills showed that for tones from straight ahead, this angle is about one degree in the best condition."
+    },
+    "This means we can easily tell which of two people a few meters away is talking.",
+    "As the source moves toward the side, the angle grows markedly; we place sounds at the sides with coarser accuracy.",
+    "For pure tones, the region around fifteen hundred to two thousand hertz is where direction discrimination is weakest.",
+    "The duplex theory explains the reason for this weakness."
+   ]
+  },
+  {
+   "id": "kuram",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The duplex theory",
+   "baslik": "Two cues, *two nuclei*",
+   "cizim": "isitme_yolu",
+   "yakinlastir": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 1
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "MSO: time, LSO: level",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "In the binaural hearing lesson, we met the two main cues: the interaural time difference and the interaural level difference.",
+    "These cues are first compared in the superior olivary complex.",
+    "The medial superior olive assesses the time difference, and the lateral superior olive the level difference.",
+    "According to Lord Rayleigh's duplex theory, time differences dominate for low-pitched sounds and level differences for high-pitched sounds.",
+    "This information is combined in the inferior colliculus and becomes a single percept of the sound's direction.",
+    "The auditory cortex is also needed; damage to one side of the cortex has been reported to impair localization on the opposite side."
+   ]
+  },
+  {
+   "id": "sayilar",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "The duplex theory",
+   "baslik": "The cues in *numbers*",
+   "sutunlar": [
+    "Cue",
+    "Size",
+    "Smallest detectable difference"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Time difference (ITD)",
+      "0.6 to 0.7 ms",
+      "10 to 20 microseconds"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Level difference (ILD)",
+      "Over 20 dB, highs",
+      "About 1 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Limit for ITD",
+      "Below about 1500 Hz",
+      "Fine structure"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The interaural time difference, or ITD, is at most about 0.6 to 0.7 milliseconds in an adult when sound comes from directly to the side.",
+     "ses": "The interaural time difference, or I.T.D., is at most about zero point six to zero point seven milliseconds in an adult when sound comes from directly to the side."
+    },
+    "Even so, in the best conditions differences of ten to twenty microseconds are detected, matching a direction change of about one degree.",
+    {
+     "yazi": "The interaural level difference, or ILD, can exceed twenty decibels at high frequencies because of the head shadow.",
+     "ses": "The interaural level difference, or I.L.D., can exceed twenty decibels at high frequencies because of the head shadow."
+    },
+    "A level difference between the two ears can be detected even at about one decibel.",
+    "A time difference in the fine structure of the wave is a reliable cue below about fifteen hundred hertz.",
+    "Above that, the wavelength approaches the width of the head, and it becomes unclear which wave peaks match."
+   ]
+  },
+  {
+   "id": "ek_ipuclari",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The duplex theory",
+   "baslik": "*Beyond* the duplex theory",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Envelope ITD",
+     "metin": "In complex high sounds",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pinna",
+     "metin": "Elevation, front and back",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Head movement",
+     "metin": "Resolves ambiguity",
+     "cumle": 5
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Distance",
+     "metin": "Level and reverberation ratio",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "The duplex theory is an important framework, but it does not explain all of direction perception.",
+    "In high-frequency but complex sounds, time differences in the envelope of the sound can be used instead of the fine structure.",
+    "The pinna filters high frequencies differently depending on the direction the sound comes from.",
+    "This monaural spectral cue lets us find a sound's elevation and tell front from back.",
+    {
+     "yazi": "The whole of this filtering effect is called the head-related transfer function, or HRTF.",
+     "ses": "The whole of this filtering effect is called the head-related transfer function, or H.R.T.F."
+    },
+    "Turning the head slightly changes the differences at the two ears and quickly resolves confusion between front and back.",
+    "We estimate distance from the sound's level, the loss of high-frequency components and the ratio of direct sound to reverberation."
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The precedence effect",
+   "baslik": "The *first* sound wins",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Direct sound",
+     "metin": "Reaches the ear first",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Reflection",
+     "metin": "Arrives ms later",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Fusion",
+     "metin": "One sound, first direction",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Echo threshold",
+     "metin": "Longer delay: an echo",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In a closed room, a sound and its copies reflected from the walls reach the ear at different times.",
+    "The direct sound reaches the ear first, because it travels the shortest path.",
+    "The reflections arrive a few milliseconds to a few tens of milliseconds later, from other directions.",
+    "When the delay is short, the reflection is not heard as a separate sound; it fuses with the first, which sets the perceived direction.",
+    {
+     "yazi": "This is called the precedence effect; Wallach and colleagues studied it in detail in nineteen forty nine, and Haas in nineteen fifty one."
+    },
+    "As the delay grows, the reflection starts to be heard as a separate echo; this limit is called the echo threshold.",
+    "The echo threshold is about five milliseconds for short sounds such as clicks, and a few tens of milliseconds for speech and music."
+   ]
+  },
+  {
+   "id": "oncelik_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The precedence effect",
+   "baslik": "The precedence effect in *daily* life",
+   "maddeler": [
+    {
+     "metin": "_Direction preserved_ in reverberant rooms",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Sound systems tuned _with delay_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "May _weaken_ with hearing loss",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EXAMPLE",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kalabalik",
+      "baslik": "Conference hall",
+      "metin": "Sound comes from stage",
+      "cumle": 1
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Two devices",
+      "metin": "Synchronization matters",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Thanks to the precedence effect, we find the talker's position correctly even in a reverberant room.",
+    "In conference halls, a small delay is added to the rear loudspeakers, so amplified sound still seems to come from the stage.",
+    "Under certain conditions, the delayed sound can be up to about ten decibels louder and still leave the direction to the first sound.",
+    "The precedence effect has been reported to weaken with hearing loss and aging, adding to difficulty in reverberant places.",
+    "This is also why, with bilateral hearing aids or implants, similar processing delays on the two sides matter."
+   ]
+  },
+  {
+   "id": "bmld",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Binaural masking",
+   "baslik": "Binaural masking *level difference*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "N0S0",
+     "metin": "Everything identical at both ears",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "N0Sπ",
+     "metin": "Tone phase-inverted in one ear",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Difference",
+     "metin": "12 to 15 dB at 500 Hz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The power of binaural processing is measured with the binaural masking level difference, or BMLD.",
+     "ses": "The power of binaural processing is measured with the binaural masking level difference, or B.M.L.D."
+    },
+    "First, noise and tone are given to both ears in exactly the same way, and the threshold of the tone in noise is found.",
+    "Then, while the noise stays the same, the phase of the tone in one ear only is inverted.",
+    "Now the tone is heard much more easily through the noise; at five hundred hertz, threshold improves by about twelve to fifteen decibels.",
+    "The improvement is large at low frequencies; above about fifteen hundred hertz, it drops to a few decibels.",
+    "The difference arises because the brainstem uses small time and phase differences between the ears to separate the signal from noise."
+   ]
+  },
+  {
+   "id": "bmld_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Binaural masking",
+   "baslik": "BMLD *in the clinic*",
+   "maddeler": [
+    {
+     "metin": "_Reflects_ brainstem processing",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "May _drop_ with brainstem lesions",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Asymmetric loss also _lowers_ it",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Part_ of the test battery",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Superior olivary complex",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The BMLD reflects processing at the level where information from the two ears is first compared in the brainstem.",
+     "ses": "The B.M.L.D. reflects processing at the level where information from the two ears is first compared in the brainstem."
+    },
+    {
+     "yazi": "The BMLD has been reported to drop with lesions affecting the brainstem, for example in multiple sclerosis.",
+     "ses": "The B.M.L.D. has been reported to drop with lesions affecting the brainstem, for example in multiple sclerosis."
+    },
+    {
+     "yazi": "However, the BMLD also drops with peripheral losses that have a clear threshold difference between the two ears.",
+     "ses": "However, the B.M.L.D. also drops with peripheral losses that have a clear threshold difference between the two ears."
+    },
+    "So the result is interpreted together with the pure-tone thresholds of both ears.",
+    {
+     "yazi": "The BMLD can also be measured with speech stimuli; the gain is then usually smaller than with pure tones.",
+     "ses": "The B.M.L.D. can also be measured with speech stimuli; the gain is then usually smaller than with pure tones."
+    },
+    {
+     "yazi": "In central auditory assessment, the BMLD is used not on its own but as part of the test battery.",
+     "ses": "In central auditory assessment, the B.M.L.D. is used not on its own but as part of the test battery."
+    }
+   ]
+  },
+  {
+   "id": "uzamsal",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Binaural masking",
+   "baslik": "Spatial *release*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Same direction",
+     "metin": "Speech and noise in front",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Separate directions",
+     "metin": "Noise moves aside",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Head shadow",
+     "metin": "Physical gain",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Binaural processing",
+     "metin": "Central gain",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "When speech and noise come from the same direction, a certain signal-to-noise ratio is needed to understand speech.",
+    "When the noise is moved to the side, the same speech is understood at a lower ratio; this is called spatial release from masking.",
+    "Part of this gain comes from the head shadow, that is, from the ear that is physically better placed.",
+    "Another part comes from the brain using the differences between the two ears, that is, from binaural processing.",
+    {
+     "yazi": "To measure this in children, tests such as the Listening in Spatialized Noise Sentences test, or LiSN-S, by Cameron and Dillon exist.",
+     "ses": "To measure this in children, tests such as the Listening in Spatialized Noise Sentences test, by Cameron and Dillon, exist."
+    },
+    "In these tests, a low spatial gain may explain why a child with a normal audiogram struggles in noise."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Binaural masking",
+   "baslik": "Hearing loss and *direction*",
+   "maddeler": [
+    {
+     "metin": "Unilateral loss: cues are _disrupted_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Behind-the-ear mic: _pinna cue_ lost",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Bilateral fitting may _help_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Implants: ITD cue _limited_",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        50,
+        55,
+        60,
+        65,
+        70
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "In unilateral or clearly asymmetric loss, the time and level information reaching the two ears is disrupted, and localization gets harder.",
+    "In this example, the loss in the left ear may make sounds seem always to come from the right.",
+    "In behind-the-ear devices, the microphone sits above the pinna, so its spectral cues are lost and front-back confusion may increase.",
+    "In bilateral loss, fitting devices on both ears can help preserve interaural cues.",
+    "Users of bilateral cochlear implants, by contrast, localize mostly with level differences; fine timing cues remain limited."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Compare the thresholds of both ears before interpreting binaural tests. An asymmetric peripheral loss can look like a central problem on BMLD and localization tests.",
+   "cumleler": [
+    "A tip from the clinic: always compare the pure-tone thresholds of both ears before interpreting binaural tests.",
+    {
+     "yazi": "If there is a clear threshold difference between the ears, a low score on BMLD or localization tests may look like a central problem.",
+     "ses": "If there is a clear threshold difference between the ears, a low score on B.M.L.D. or localization tests may look like a central problem."
+    },
+    "Such tests give the most reliable information in people whose thresholds are normal or symmetrical.",
+    "Also ask patients who report localization problems where they struggle in daily life; together with testing, this guides you."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Direction difference in front: about _1 degree_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Lows: time; highs: _level_ difference",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Precedence effect: the _first_ sound wins",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "BMLD: _12 to 15 dB_ at 500 Hz",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "For sounds from the front, the minimum audible angle is about one degree; at the sides, it grows markedly.",
+    "By the duplex theory, time cues dominate for low sounds and level cues for high sounds; the pinna adds elevation and front-back cues.",
+    "Thanks to the precedence effect, in a reverberant room a sound is heard in the direction of the first wave to arrive.",
+    {
+     "yazi": "The BMLD shows a binaural gain of about twelve to fifteen decibels at five hundred hertz and reflects brainstem processing.",
+     "ses": "The B.M.L.D. shows a binaural gain of about twelve to fifteen decibels at five hundred hertz and reflects brainstem processing."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "What lets us hear a sound in the source's direction in a reverberant room?",
+   "secenekler": [
+    "Head shadow",
+    "Precedence effect",
+    "Binaural summation",
+    "Temporal integration"
+   ],
+   "dogru": 1,
+   "aciklama": "Reflections with short delays fuse with the first sound; direction is set by _the first sound to arrive_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which phenomenon lets us hear a sound in the direction of its source in a reverberant room?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the precedence effect.",
+    "Reflections arriving with a short delay fuse with the first sound, and the brain sets the direction by the first sound to arrive."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How Cochlear Damage Changes Perception: *Recruitment*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at how cochlear damage changes perception, and at the phenomenon of recruitment.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

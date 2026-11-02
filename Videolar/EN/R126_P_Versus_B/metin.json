@@ -1,0 +1,105 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R126_P_Versus_B_EN",
+ "kapak": {
+  "ust": "QUICK FACT #126",
+  "baslik": "P versus b: *timing*",
+  "alt": "Voice onset time: a few tens of milliseconds",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How does your ear tell p from b? #shorts",
+  "aciklama": "In stop consonants, the time between the burst and the start of vocal fold vibration is called voice onset time. In Turkish b, for example, voicing often starts with the burst or even before it, while in p it starts after a clear delay.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "speech",
+   "spectrogram"
+  ],
+  "etiketler": [
+   "voice onset time",
+   "VOT",
+   "stop consonants",
+   "spectrogram",
+   "speech acoustics",
+   "phonetics",
+   "consonants",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How does your ear tell p from b?",
+  "bilgiler": [
+   "In stops, airflow is fully blocked for a moment, then released.",
+   "The time from burst to voicing is called voice onset time.",
+   "In Turkish b, voicing starts with or before the burst; in p, after a delay."
+  ],
+  "hashtag": [
+   "audiology",
+   "speech",
+   "spectrogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #126",
+   "metin": "How does your ear *tell* p from b?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How does your ear tell a P sound from a B sound?"
+   ]
+  },
+  {
+   "id": "vot",
+   "tur": "zincir",
+   "baslik": "*Voice onset* time",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Closure",
+     "tr": "silent gap",
+     "cumle": 0
+    },
+    {
+     "ad": "Burst",
+     "tr": "vertical spike",
+     "cumle": 1
+    },
+    {
+     "ad": "Voicing",
+     "tr": "vocal folds vibrate",
+     "cumle": 2
+    }
+   ],
+   "alt": "The difference is just _a few tens of milliseconds_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "In stop consonants, airflow is fully blocked for a moment.",
+    "As it opens, a short vertical burst appears on the spectrogram.",
+    "The time from burst to voicing is called voice onset time.",
+    "In Turkish B, voicing often starts with or before the burst.",
+    "In P, it starts after a clear delay and a breathy noise."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D042",
+ "kaynak_baslik": "How to Read a Spectrogram: Acoustics of Speech"
+}

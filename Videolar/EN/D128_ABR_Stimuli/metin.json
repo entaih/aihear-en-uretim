@@ -1,0 +1,2305 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D128_ABR_Stimuli_EN",
+ "kapak": {
+  "ust": "LESSON 128",
+  "baslik": "Clicks, tone bursts,<br>*chirps*",
+  "alt": "Getting to know ABR stimuli",
+  "cizim": "koklea_acik"
+ },
+ "youtube": {
+  "baslik": "ABR Stimuli: Clicks, Tone Bursts and Chirps | Lesson 128 | AIHEAR Audiology Academy",
+  "aciklama": "We explain the structure and frequency content of the click, tone burst and chirp stimuli used in the auditory brainstem response (ABR), and when each one is chosen. We also cover details that shape the recording, such as stimulus polarity (rarefaction, condensation, alternating), stimulus rate and insert earphone delay.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Elberling and Don, studies on the chirp stimulus; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "electrophysiology"
+  ],
+  "etiketler": [
+   "ABR",
+   "click",
+   "tone burst",
+   "chirp",
+   "CE-Chirp",
+   "stimulus polarity",
+   "stimulus rate",
+   "auditory brainstem response",
+   "frequency-specific ABR",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 128",
+   "baslik": "Clicks, tone bursts and *chirps*",
+   "alt": "ABR stimuli, polarity and stimulus rate",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    {
+     "yazi": "In this lesson we will learn the three stimuli used for the auditory brainstem response, or ABR: the click, the tone burst and the chirp."
+    },
+    "We will also see when each is preferred, and how polarity and stimulus rate affect the recording."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The basic principle",
+   "baslik": "Why a *brief* stimulus?",
+   "maddeler": [
+    {
+     "metin": "ABR relies on fibers firing _together_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "An abrupt onset _boosts synchrony_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Short sound: _broad_ frequency content",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Long sound: _narrow_ frequency, weak ABR",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TRADE-OFF",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "Brief stimulus",
+      "metin": "Strong but broadband",
+      "cumle": 3
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Longer stimulus",
+      "metin": "Frequency-specific but weak",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The ABR is an onset response produced by thousands of auditory nerve fibers firing at the same time.",
+    "To achieve this synchrony, the stimulus has to start very rapidly.",
+    "However, there is an unavoidable trade-off between time and frequency.",
+    "The shorter a sound is, the wider the frequency region its energy spreads over.",
+    "The longer a sound is, the clearer its frequency, but as its onset slows, the ABR becomes weaker.",
+    "The three stimulus types sit at different points along this trade-off."
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The click",
+   "baslik": "Click: a *100-microsecond* pulse",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -0.5,
+     "max": 2,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Time (ms)"
+    },
+    "y": {
+     "min": -0.4,
+     "max": 1.3,
+     "ad": "Voltage (relative)",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "klik",
+      "noktalar": [
+       [
+        -0.5,
+        0
+       ],
+       [
+        0.4,
+        0
+       ],
+       [
+        0.4,
+        1
+       ],
+       [
+        0.5,
+        1
+       ],
+       [
+        0.5,
+        0
+       ],
+       [
+        2,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 0
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sure",
+      "x": [
+       0.4,
+       0.5
+      ],
+      "y": 1.15,
+      "etiket": "0.1 ms",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Rectangular electrical pulse",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Wide basilar membrane region stimulated",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Strong, clear _wave V_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A click is a brief, rectangular electrical pulse sent to the transducer."
+    },
+    {
+     "yazi": "The pulse usually lasts 100 microseconds, or 0.1 milliseconds.",
+     "ses": "The pulse usually lasts one hundred microseconds, or zero point one milliseconds."
+    },
+    "The earphone turns this pulse into a very short sound with an abrupt onset.",
+    "Because of the abrupt onset, a wide part of the basilar membrane is stimulated almost at the same time.",
+    {
+     "yazi": "The result is a strong, repeatable ABR; waves I, III and V can often be clearly identified.",
+     "ses": "The result is a strong, repeatable ABR; waves one, three and five can often be clearly identified."
+    },
+    "This is why the click is the standard stimulus for neurodiagnostic ABR."
+   ]
+  },
+  {
+   "id": "klik_spektrum",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The click",
+   "baslik": "Frequency *content* of the click",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)"
+    },
+    "y": {
+     "min": -40,
+     "max": 10,
+     "adim": 10,
+     "ad": "Relative level (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "spektrum",
+      "noktalar": [
+       [
+        125,
+        -18
+       ],
+       [
+        250,
+        -10
+       ],
+       [
+        500,
+        -4
+       ],
+       [
+        1000,
+        -1
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        3000,
+        1
+       ],
+       [
+        4000,
+        -2
+       ],
+       [
+        6000,
+        -14
+       ],
+       [
+        8000,
+        -26
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "example click",
+      "cumle": 0,
+      "etiket_konum": [
+       500,
+       -4
+      ]
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "katki",
+      "x": [
+       2000,
+       4000
+      ],
+      "renk": "sari",
+      "etiket": "largest ABR contribution",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Energy over a _broad_ band",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "The earphone _limits_ the high end",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Response mainly from _2000 to 4000 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In this example graph, we see that the energy of the click spreads over a broad frequency band.",
+    "Because of the earphone's own properties, the energy drops quickly at high frequencies, usually above a few kilohertz.",
+    {
+     "yazi": "Even so, the click-evoked ABR mainly reflects hearing in the region of about 2000 to 4000 Hz.",
+     "ses": "Even so, the click-evoked ABR mainly reflects hearing in the region of about two thousand to four thousand hertz."
+    },
+    "This is because regions at the base of the cochlea respond faster and more synchronously.",
+    "So the click is broadband, but the source of the response is not spread evenly across all frequencies."
+   ]
+  },
+  {
+   "id": "klik_sinir",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The click",
+   "baslik": "The *limit* of the click",
+   "maddeler": [
+    {
+     "metin": "_No_ frequency-specific information",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Low-frequency loss _may be missed_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal click ABR is _not_ a normal audiogram",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Suited_ to neurodiagnostic assessment",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        55,
+        50,
+        35,
+        20,
+        15,
+        15
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "The most important limit of the click is that it gives no frequency-specific information.",
+    "This example audiogram shows a moderate loss in the low frequencies and normal hearing in the high frequencies.",
+    "In such an ear, the click ABR threshold may come out normal or near normal.",
+    "So a normal click ABR result does not mean that the audiogram is normal at every frequency.",
+    "The click suits neurodiagnostic ABR, which assesses brainstem conduction; for threshold estimation, it is not enough on its own."
+   ]
+  },
+  {
+   "id": "tonburst",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The tone burst",
+   "baslik": "Tone burst: a *brief* piece of tone",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -0.3,
+     "max": 2.9,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Time (ms)"
+    },
+    "y": {
+     "min": -1.3,
+     "max": 1.5,
+     "ad": "Pressure (relative)",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "ton",
+      "noktalar": [
+       [
+        -0.3,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0.01,
+        0.001
+       ],
+       [
+        0.02,
+        0.005
+       ],
+       [
+        0.03,
+        0.011
+       ],
+       [
+        0.04,
+        0.019
+       ],
+       [
+        0.05,
+        0.029
+       ],
+       [
+        0.06,
+        0.041
+       ],
+       [
+        0.07,
+        0.054
+       ],
+       [
+        0.08,
+        0.068
+       ],
+       [
+        0.09,
+        0.081
+       ],
+       [
+        0.1,
+        0.095
+       ],
+       [
+        0.11,
+        0.108
+       ],
+       [
+        0.12,
+        0.12
+       ],
+       [
+        0.13,
+        0.13
+       ],
+       [
+        0.14,
+        0.138
+       ],
+       [
+        0.15,
+        0.143
+       ],
+       [
+        0.16,
+        0.145
+       ],
+       [
+        0.17,
+        0.144
+       ],
+       [
+        0.18,
+        0.139
+       ],
+       [
+        0.19,
+        0.13
+       ],
+       [
+        0.2,
+        0.118
+       ],
+       [
+        0.21,
+        0.101
+       ],
+       [
+        0.22,
+        0.081
+       ],
+       [
+        0.23,
+        0.057
+       ],
+       [
+        0.24,
+        0.03
+       ],
+       [
+        0.25,
+        -0.0
+       ],
+       [
+        0.26,
+        -0.033
+       ],
+       [
+        0.27,
+        -0.067
+       ],
+       [
+        0.28,
+        -0.103
+       ],
+       [
+        0.29,
+        -0.14
+       ],
+       [
+        0.3,
+        -0.176
+       ],
+       [
+        0.31,
+        -0.212
+       ],
+       [
+        0.32,
+        -0.247
+       ],
+       [
+        0.33,
+        -0.279
+       ],
+       [
+        0.34,
+        -0.308
+       ],
+       [
+        0.35,
+        -0.333
+       ],
+       [
+        0.36,
+        -0.354
+       ],
+       [
+        0.37,
+        -0.369
+       ],
+       [
+        0.38,
+        -0.379
+       ],
+       [
+        0.39,
+        -0.383
+       ],
+       [
+        0.4,
+        -0.38
+       ],
+       [
+        0.41,
+        -0.371
+       ],
+       [
+        0.42,
+        -0.355
+       ],
+       [
+        0.43,
+        -0.331
+       ],
+       [
+        0.44,
+        -0.301
+       ],
+       [
+        0.45,
+        -0.265
+       ],
+       [
+        0.46,
+        -0.222
+       ],
+       [
+        0.47,
+        -0.173
+       ],
+       [
+        0.48,
+        -0.119
+       ],
+       [
+        0.49,
+        -0.061
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.51,
+        0.064
+       ],
+       [
+        0.52,
+        0.129
+       ],
+       [
+        0.53,
+        0.195
+       ],
+       [
+        0.54,
+        0.26
+       ],
+       [
+        0.55,
+        0.323
+       ],
+       [
+        0.56,
+        0.383
+       ],
+       [
+        0.57,
+        0.439
+       ],
+       [
+        0.58,
+        0.49
+       ],
+       [
+        0.59,
+        0.534
+       ],
+       [
+        0.6,
+        0.571
+       ],
+       [
+        0.61,
+        0.599
+       ],
+       [
+        0.62,
+        0.619
+       ],
+       [
+        0.63,
+        0.629
+       ],
+       [
+        0.64,
+        0.629
+       ],
+       [
+        0.65,
+        0.618
+       ],
+       [
+        0.66,
+        0.597
+       ],
+       [
+        0.67,
+        0.566
+       ],
+       [
+        0.68,
+        0.524
+       ],
+       [
+        0.69,
+        0.472
+       ],
+       [
+        0.7,
+        0.411
+       ],
+       [
+        0.71,
+        0.342
+       ],
+       [
+        0.72,
+        0.265
+       ],
+       [
+        0.73,
+        0.182
+       ],
+       [
+        0.74,
+        0.093
+       ],
+       [
+        0.75,
+        -0.0
+       ],
+       [
+        0.76,
+        -0.095
+       ],
+       [
+        0.77,
+        -0.191
+       ],
+       [
+        0.78,
+        -0.287
+       ],
+       [
+        0.79,
+        -0.381
+       ],
+       [
+        0.8,
+        -0.47
+       ],
+       [
+        0.81,
+        -0.554
+       ],
+       [
+        0.82,
+        -0.632
+       ],
+       [
+        0.83,
+        -0.701
+       ],
+       [
+        0.84,
+        -0.76
+       ],
+       [
+        0.85,
+        -0.808
+       ],
+       [
+        0.86,
+        -0.845
+       ],
+       [
+        0.87,
+        -0.868
+       ],
+       [
+        0.88,
+        -0.878
+       ],
+       [
+        0.89,
+        -0.874
+       ],
+       [
+        0.9,
+        -0.856
+       ],
+       [
+        0.91,
+        -0.823
+       ],
+       [
+        0.92,
+        -0.777
+       ],
+       [
+        0.93,
+        -0.717
+       ],
+       [
+        0.94,
+        -0.643
+       ],
+       [
+        0.95,
+        -0.558
+       ],
+       [
+        0.96,
+        -0.462
+       ],
+       [
+        0.97,
+        -0.357
+       ],
+       [
+        0.98,
+        -0.244
+       ],
+       [
+        0.99,
+        -0.124
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.01,
+        0.125
+       ],
+       [
+        1.02,
+        0.249
+       ],
+       [
+        1.03,
+        0.368
+       ],
+       [
+        1.04,
+        0.482
+       ],
+       [
+        1.05,
+        0.588
+       ],
+       [
+        1.06,
+        0.685
+       ],
+       [
+        1.07,
+        0.771
+       ],
+       [
+        1.08,
+        0.844
+       ],
+       [
+        1.09,
+        0.905
+       ],
+       [
+        1.1,
+        0.951
+       ],
+       [
+        1.11,
+        0.982
+       ],
+       [
+        1.12,
+        0.998
+       ],
+       [
+        1.13,
+        0.998
+       ],
+       [
+        1.14,
+        0.982
+       ],
+       [
+        1.15,
+        0.951
+       ],
+       [
+        1.16,
+        0.905
+       ],
+       [
+        1.17,
+        0.844
+       ],
+       [
+        1.18,
+        0.771
+       ],
+       [
+        1.19,
+        0.685
+       ],
+       [
+        1.2,
+        0.588
+       ],
+       [
+        1.21,
+        0.482
+       ],
+       [
+        1.22,
+        0.368
+       ],
+       [
+        1.23,
+        0.249
+       ],
+       [
+        1.24,
+        0.125
+       ],
+       [
+        1.25,
+        -0.0
+       ],
+       [
+        1.26,
+        -0.125
+       ],
+       [
+        1.27,
+        -0.249
+       ],
+       [
+        1.28,
+        -0.368
+       ],
+       [
+        1.29,
+        -0.482
+       ],
+       [
+        1.3,
+        -0.588
+       ],
+       [
+        1.31,
+        -0.685
+       ],
+       [
+        1.32,
+        -0.771
+       ],
+       [
+        1.33,
+        -0.844
+       ],
+       [
+        1.34,
+        -0.905
+       ],
+       [
+        1.35,
+        -0.951
+       ],
+       [
+        1.36,
+        -0.982
+       ],
+       [
+        1.37,
+        -0.998
+       ],
+       [
+        1.38,
+        -0.998
+       ],
+       [
+        1.39,
+        -0.982
+       ],
+       [
+        1.4,
+        -0.951
+       ],
+       [
+        1.41,
+        -0.905
+       ],
+       [
+        1.42,
+        -0.844
+       ],
+       [
+        1.43,
+        -0.771
+       ],
+       [
+        1.44,
+        -0.685
+       ],
+       [
+        1.45,
+        -0.588
+       ],
+       [
+        1.46,
+        -0.482
+       ],
+       [
+        1.47,
+        -0.368
+       ],
+       [
+        1.48,
+        -0.249
+       ],
+       [
+        1.49,
+        -0.125
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.51,
+        0.124
+       ],
+       [
+        1.52,
+        0.244
+       ],
+       [
+        1.53,
+        0.357
+       ],
+       [
+        1.54,
+        0.462
+       ],
+       [
+        1.55,
+        0.558
+       ],
+       [
+        1.56,
+        0.643
+       ],
+       [
+        1.57,
+        0.717
+       ],
+       [
+        1.58,
+        0.777
+       ],
+       [
+        1.59,
+        0.823
+       ],
+       [
+        1.6,
+        0.856
+       ],
+       [
+        1.61,
+        0.874
+       ],
+       [
+        1.62,
+        0.878
+       ],
+       [
+        1.63,
+        0.868
+       ],
+       [
+        1.64,
+        0.845
+       ],
+       [
+        1.65,
+        0.808
+       ],
+       [
+        1.66,
+        0.76
+       ],
+       [
+        1.67,
+        0.701
+       ],
+       [
+        1.68,
+        0.632
+       ],
+       [
+        1.69,
+        0.554
+       ],
+       [
+        1.7,
+        0.47
+       ],
+       [
+        1.71,
+        0.381
+       ],
+       [
+        1.72,
+        0.287
+       ],
+       [
+        1.73,
+        0.191
+       ],
+       [
+        1.74,
+        0.095
+       ],
+       [
+        1.75,
+        -0.0
+       ],
+       [
+        1.76,
+        -0.093
+       ],
+       [
+        1.77,
+        -0.182
+       ],
+       [
+        1.78,
+        -0.265
+       ],
+       [
+        1.79,
+        -0.342
+       ],
+       [
+        1.8,
+        -0.411
+       ],
+       [
+        1.81,
+        -0.472
+       ],
+       [
+        1.82,
+        -0.524
+       ],
+       [
+        1.83,
+        -0.566
+       ],
+       [
+        1.84,
+        -0.597
+       ],
+       [
+        1.85,
+        -0.618
+       ],
+       [
+        1.86,
+        -0.629
+       ],
+       [
+        1.87,
+        -0.629
+       ],
+       [
+        1.88,
+        -0.619
+       ],
+       [
+        1.89,
+        -0.599
+       ],
+       [
+        1.9,
+        -0.571
+       ],
+       [
+        1.91,
+        -0.534
+       ],
+       [
+        1.92,
+        -0.49
+       ],
+       [
+        1.93,
+        -0.439
+       ],
+       [
+        1.94,
+        -0.383
+       ],
+       [
+        1.95,
+        -0.323
+       ],
+       [
+        1.96,
+        -0.26
+       ],
+       [
+        1.97,
+        -0.195
+       ],
+       [
+        1.98,
+        -0.129
+       ],
+       [
+        1.99,
+        -0.064
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.01,
+        0.061
+       ],
+       [
+        2.02,
+        0.119
+       ],
+       [
+        2.03,
+        0.173
+       ],
+       [
+        2.04,
+        0.222
+       ],
+       [
+        2.05,
+        0.265
+       ],
+       [
+        2.06,
+        0.301
+       ],
+       [
+        2.07,
+        0.331
+       ],
+       [
+        2.08,
+        0.355
+       ],
+       [
+        2.09,
+        0.371
+       ],
+       [
+        2.1,
+        0.38
+       ],
+       [
+        2.11,
+        0.383
+       ],
+       [
+        2.12,
+        0.379
+       ],
+       [
+        2.13,
+        0.369
+       ],
+       [
+        2.14,
+        0.354
+       ],
+       [
+        2.15,
+        0.333
+       ],
+       [
+        2.16,
+        0.308
+       ],
+       [
+        2.17,
+        0.279
+       ],
+       [
+        2.18,
+        0.247
+       ],
+       [
+        2.19,
+        0.212
+       ],
+       [
+        2.2,
+        0.176
+       ],
+       [
+        2.21,
+        0.14
+       ],
+       [
+        2.22,
+        0.103
+       ],
+       [
+        2.23,
+        0.067
+       ],
+       [
+        2.24,
+        0.033
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.26,
+        -0.03
+       ],
+       [
+        2.27,
+        -0.057
+       ],
+       [
+        2.28,
+        -0.081
+       ],
+       [
+        2.29,
+        -0.101
+       ],
+       [
+        2.3,
+        -0.118
+       ],
+       [
+        2.31,
+        -0.13
+       ],
+       [
+        2.32,
+        -0.139
+       ],
+       [
+        2.33,
+        -0.144
+       ],
+       [
+        2.34,
+        -0.145
+       ],
+       [
+        2.35,
+        -0.143
+       ],
+       [
+        2.36,
+        -0.138
+       ],
+       [
+        2.37,
+        -0.13
+       ],
+       [
+        2.38,
+        -0.12
+       ],
+       [
+        2.39,
+        -0.108
+       ],
+       [
+        2.4,
+        -0.095
+       ],
+       [
+        2.41,
+        -0.081
+       ],
+       [
+        2.42,
+        -0.068
+       ],
+       [
+        2.43,
+        -0.054
+       ],
+       [
+        2.44,
+        -0.041
+       ],
+       [
+        2.45,
+        -0.029
+       ],
+       [
+        2.46,
+        -0.019
+       ],
+       [
+        2.47,
+        -0.011
+       ],
+       [
+        2.48,
+        -0.005
+       ],
+       [
+        2.49,
+        -0.001
+       ],
+       [
+        2.5,
+        -0.0
+       ],
+       [
+        2.5,
+        0
+       ],
+       [
+        2.9,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 3,
+      "sure": 2.2,
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yukselme",
+      "x": [
+       0,
+       1.0
+      ],
+      "renk": "sari",
+      "etiket": "2 cycles",
+      "cumle": 2
+     },
+     {
+      "ad": "plato",
+      "x": [
+       1.0,
+       1.5
+      ],
+      "renk": "yesil",
+      "etiket": "1",
+      "cumle": 2
+     },
+     {
+      "ad": "dusus",
+      "x": [
+       1.5,
+       2.5
+      ],
+      "renk": "sari",
+      "etiket": "2 cycles",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Example: a _2000 Hz_ tone burst",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Rise, plateau, fall: _2-1-2_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Duration _scales_ with the period",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A tone burst is a brief piece of pure tone lasting a few cycles."
+    },
+    {
+     "yazi": "The example on screen is a 2000 Hz tone burst.",
+     "ses": "The example on screen is a two thousand hertz tone burst."
+    },
+    {
+     "yazi": "In a common design, the sound rises over 2 cycles, stays steady for 1 cycle and falls over 2 cycles; this is called 2-1-2.",
+     "ses": "In a common design, the sound rises over two cycles, stays steady for one cycle and falls over two cycles; this is called two one two."
+    },
+    "This way the sound starts abruptly, but its energy is concentrated around the chosen frequency.",
+    "Because duration is defined by the number of cycles, tone bursts are longer at low frequencies and shorter at high frequencies.",
+    "This approach aims to give similar frequency specificity at every frequency."
+   ]
+  },
+  {
+   "id": "sureler",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The tone burst",
+   "baslik": "2-1-2 tone burst *durations*",
+   "sutunlar": [
+    "Frequency",
+    "One cycle",
+    "Total duration"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "2 ms",
+      "10 ms"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "1 ms",
+      "5 ms"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "0.5 ms",
+      "2.5 ms"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "0.25 ms",
+      "1.25 ms"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "When the number of cycles is fixed, the total duration is easy to calculate.",
+    {
+     "yazi": "At 500 Hz, one cycle is 2 milliseconds; a five-cycle tone burst lasts 10 milliseconds.",
+     "ses": "At five hundred hertz, one cycle is two milliseconds; a five-cycle tone burst lasts ten milliseconds."
+    },
+    {
+     "yazi": "At 1000 Hz, one cycle is 1 millisecond, and the total duration is 5 milliseconds.",
+     "ses": "At one thousand hertz, one cycle is one millisecond, and the total duration is five milliseconds."
+    },
+    {
+     "yazi": "At 2000 and 4000 Hz, the total duration drops to 2.5 and 1.25 milliseconds.",
+     "ses": "At two thousand and four thousand hertz, the total duration drops to two point five and one point two five milliseconds."
+    },
+    {
+     "yazi": "The longer, slower onset of low-frequency tone bursts is one reason the 500 Hz response is broader and later.",
+     "ses": "The longer, slower onset of low-frequency tone bursts is one reason the five hundred hertz response is broader and later."
+    }
+   ]
+  },
+  {
+   "id": "pencere",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The tone burst",
+   "baslik": "Ramps and *windows*",
+   "maddeler": [
+    {
+     "metin": "A sharp edge _spreads energy sideways_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Linear ramp: _simple_ and common",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Blackman window: _low side lobes_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Specificity _drops_ at high intensity",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 500,
+      "max": 8000,
+      "log": true,
+      "hz": true,
+      "ad": "Frequency (Hz)"
+     },
+     "y": {
+      "min": -60,
+      "max": 5,
+      "adim": 20,
+      "ad": "dB"
+     },
+     "seriler": [
+      {
+       "ad": "dogrusal",
+       "noktalar": [
+        [
+         500,
+         -30
+        ],
+        [
+         700,
+         -36
+        ],
+        [
+         900,
+         -26
+        ],
+        [
+         1300,
+         -14
+        ],
+        [
+         1600,
+         -5
+        ],
+        [
+         2000,
+         0
+        ],
+        [
+         2500,
+         -5
+        ],
+        [
+         3100,
+         -14
+        ],
+        [
+         3800,
+         -26
+        ],
+        [
+         4500,
+         -34
+        ],
+        [
+         5500,
+         -28
+        ],
+        [
+         8000,
+         -34
+        ]
+       ],
+       "renk": "lacivert",
+       "kesik": true,
+       "yumusak": true,
+       "etiket": "linear",
+       "cumle": 1,
+       "etiket_konum": [
+        5500,
+        -28
+       ]
+      },
+      {
+       "ad": "blackman",
+       "noktalar": [
+        [
+         500,
+         -60
+        ],
+        [
+         1000,
+         -45
+        ],
+        [
+         1300,
+         -24
+        ],
+        [
+         1600,
+         -8
+        ],
+        [
+         2000,
+         0
+        ],
+        [
+         2500,
+         -8
+        ],
+        [
+         3100,
+         -24
+        ],
+        [
+         4000,
+         -45
+        ],
+        [
+         6000,
+         -58
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "etiket": "Blackman",
+       "cumle": 2,
+       "etiket_konum": [
+        1000,
+        -45
+       ]
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "The sharper the start and end of a sound, the more its energy spreads to both sides of the main frequency.",
+    "A linear ramp makes the sound rise and fall along a straight line; it is a simple and common option.",
+    {
+     "yazi": "Smoothly curved gates, such as the Blackman window, clearly reduce the side lobes outside the main frequency."
+    },
+    "The curves in the graph are only examples; the goal is to keep the energy around the chosen frequency.",
+    "Also remember: at high intensity, excitation spreads along the basilar membrane, so frequency specificity decreases.",
+    "That is why the most valuable tone burst ABR information comes from low intensities near threshold."
+   ]
+  },
+  {
+   "id": "chirp_ilke",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "The chirp",
+   "baslik": "Chirp: compensating for *delay*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: high pitch, early",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "apex: low pitch, late",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Low components first, then high",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "All regions respond _at once_",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Result: a larger _wave V_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The click has a problem too: the traveling wave moves from the base of the cochlea toward the apex.",
+    "The high-frequency region at the base of the cochlea responds to the stimulus first.",
+    "The wave reaches the low-frequency region at the apex a few milliseconds later, and this reduces synchrony.",
+    {
+     "yazi": "The chirp stimulus is designed to compensate for this delay; low-frequency components come first, high-frequency ones later."
+    },
+    "This way, responses from different frequency regions combine more synchronously in the auditory nerve.",
+    {
+     "yazi": "The result is a larger wave V than with a click, especially at low and moderate intensities.",
+     "ses": "The result is a larger wave five than with a click, especially at low and moderate intensities."
+    }
+   ]
+  },
+  {
+   "id": "chirp_tur",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "The chirp",
+   "baslik": "Types of *chirp*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Broadband",
+     "metin": "Replaces the click, e.g. CE-Chirp",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Level-specific",
+     "metin": "Adapted to intensity",
+     "cumle": 2
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Narrowband",
+     "metin": "500 to 4000 Hz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A broadband chirp can be used instead of a click; one commercial example is known as the CE-Chirp.",
+     "ses": "A broadband chirp can be used instead of a click; one commercial example is known as the C E chirp."
+    },
+    {
+     "yazi": "Because cochlear delay changes with intensity, the best chirp shape also depends on intensity."
+    },
+    {
+     "yazi": "A level-specific chirp takes this change into account and adapts its shape at each intensity."
+    },
+    {
+     "yazi": "A narrowband chirp focuses on a specific octave band and, like a tone burst, is used for frequency-specific threshold estimation."
+    },
+    "These stimuli have become widespread, especially in newborn screening and threshold estimation in infants."
+   ]
+  },
+  {
+   "id": "chirp_dikkat",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "The chirp",
+   "baslik": "Chirp: *benefits* and cautions",
+   "maddeler": [
+    {
+     "metin": "Wave V usually _larger_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Response emerges _sooner_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Latency norms _differ_ from clicks",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Advantage _shrinks_ at high intensity",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RULE",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "tablo",
+      "baslik": "Own norms",
+      "metin": "Stimulus-specific norms",
+      "cumle": 2
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Do not mix",
+      "metin": "Never use click norms",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In studies, wave V amplitude with chirps has usually been clearly larger than with clicks at low and moderate intensities.",
+     "ses": "In studies, wave five amplitude with chirps has usually been clearly larger than with clicks at low and moderate intensities."
+    },
+    "Because the response separates from noise earlier, threshold searches can be shorter, a valuable time saving in a sleeping baby.",
+    {
+     "yazi": "However, latencies measured with chirps differ from click values, depending on the timing of the stimulus."
+    },
+    {
+     "yazi": "So chirp recordings should be interpreted with norms obtained with the same stimulus and device."
+    },
+    {
+     "yazi": "At high intensities, excitation in the cochlea spreads, so the difference between chirps and clicks becomes smaller."
+    }
+   ]
+  },
+  {
+   "id": "polarite",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Polarity",
+   "baslik": "Stimulus *polarity*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Rarefaction",
+     "metin": "Diaphragm pulls back first",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Condensation",
+     "metin": "Diaphragm pushes forward first",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Alternating",
+     "metin": "The two take turns",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Stimulus polarity describes whether the sound first lowers or raises the pressure in the ear canal."
+    },
+    {
+     "yazi": "With rarefaction polarity, the earphone diaphragm first pulls back and the pressure in the canal drops first."
+    },
+    {
+     "yazi": "With condensation polarity, the diaphragm first pushes forward and the pressure rises first."
+    },
+    {
+     "yazi": "With alternating polarity, these two forms take turns on successive stimuli."
+    },
+    "Because rarefaction stimulates the hair cells slightly earlier, in many people it can make the waves slightly earlier and clearer.",
+    "But this difference varies from person to person; in some people the best recording is obtained with condensation polarity."
+   ]
+  },
+  {
+   "id": "polarite_secim",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Polarity",
+   "baslik": "Which polarity, *when?*",
+   "maddeler": [
+    {
+     "metin": "Alternating: _reduces_ stimulus artifact",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Alternating: _cancels_ the cochlear microphonic",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "If latencies differ, waves _blur_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Suspected neuropathy: polarities _separately_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 2,
+    "ayar": {
+     "latans_kayma": 0.3
+    },
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "may shift with polarity",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "With alternating polarity, the electrical stimulus artifact has opposite signs in the two polarities, so it largely cancels in the average.",
+    "For the same reason, the cochlear microphonic, or CM, which follows the stimulus waveform, also cancels in an alternating recording.",
+    "However, in some people, especially with high-frequency hearing loss, wave latencies differ clearly between the two polarities.",
+    "In that case, the two responses overlap in the alternating recording, widening and blurring the waves.",
+    "When auditory neuropathy is suspected, rarefaction and condensation recordings are obtained separately and overlaid for comparison."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "gorsel",
+   "bolum_no": "PART 6",
+   "bolum": "Stimulus rate",
+   "baslik": "Stimulus *rate*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 90,
+     "adim": 10,
+     "ad": "Stimulus rate (per second)"
+    },
+    "y": {
+     "min": -0.2,
+     "max": 1.2,
+     "ad": "Relative change",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "latans",
+      "noktalar": [
+       [
+        10,
+        0
+       ],
+       [
+        20,
+        0.08
+       ],
+       [
+        40,
+        0.25
+       ],
+       [
+        60,
+        0.45
+       ],
+       [
+        80,
+        0.62
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "wave V latency",
+      "cumle": 1,
+      "etiket_konum": [
+       80,
+       0.62
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -18,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "genlik",
+      "noktalar": [
+       [
+        10,
+        1
+       ],
+       [
+        20,
+        0.95
+       ],
+       [
+        40,
+        0.8
+       ],
+       [
+        60,
+        0.66
+       ],
+       [
+        80,
+        0.55
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "early wave amplitude",
+      "cumle": 2,
+      "etiket_konum": [
+       10,
+       1
+      ],
+      "etiket_dy": -16
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "noro",
+      "x": [
+       11,
+       21
+      ],
+      "renk": "sari",
+      "etiket": "neurodiagnostic",
+      "cumle": 3
+     },
+     {
+      "ad": "esik",
+      "x": [
+       30,
+       40
+      ],
+      "renk": "yesil",
+      "etiket": "threshold",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Higher rate, _longer latency_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Non-integer rate: such as _21.1_",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Stimulus rate is the number of stimuli given per second, and it directly sets the length of the test."
+    },
+    {
+     "yazi": "As the rate increases, nerve fibers have less time to recover, and the latency of wave V gets slightly longer.",
+     "ses": "As the rate increases, nerve fibers have less time to recover, and the latency of wave five gets slightly longer."
+    },
+    {
+     "yazi": "At the same time, the amplitude of the early waves, especially wave I, decreases; the graph shows this trend as an example.",
+     "ses": "At the same time, the amplitude of the early waves, especially wave one, decreases; the graph shows this trend as an example."
+    },
+    {
+     "yazi": "So for neurodiagnostic ABR, about 11 to 21 stimuli per second are usually used, so that the waves are clearly visible.",
+     "ses": "So for neurodiagnostic ABR, about eleven to twenty one stimuli per second are usually used, so that the waves are clearly visible."
+    },
+    {
+     "yazi": "In threshold searches, the main target is wave V, so the rate is often raised to about 30 to 40 per second.",
+     "ses": "In threshold searches, the main target is wave five, so the rate is often raised to about thirty to forty per second."
+    },
+    {
+     "yazi": "A non-integer rate such as 21.1 is chosen so that 50 Hz mains interference does not lock to the stimulus and cancels in the average.",
+     "ses": "A non-integer rate such as twenty one point one is chosen so that fifty hertz mains interference does not lock to the stimulus and cancels out."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "With insert earphones, the sound tube adds about 0.8 to 0.9 ms of delay; check whether your device corrects for it and whether your norms used the same setting.",
+   "cumleler": [
+    "A clinical tip: with insert earphones, sound travels through a tube from the transducer to the ear.",
+    {
+     "yazi": "This tube adds a delay of about 0.8 to 0.9 milliseconds.",
+     "ses": "This tube adds a delay of about zero point eight to zero point nine milliseconds."
+    },
+    "Some devices automatically subtract this delay from the latencies, and some do not.",
+    "Make sure your norms were obtained with the same earphone and the same correction setting; otherwise all latencies may be misread."
+   ]
+  },
+  {
+   "id": "siddet",
+   "tur": "maddeler",
+   "bolum_no": "PART 6",
+   "bolum": "Stimulus rate",
+   "baslik": "Intensity and the *transducer*",
+   "maddeler": [
+    {
+     "metin": "Intensity: given in _dB nHL_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Calibration: _peak-equivalent_ SPL",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Insert earphones: _high_ interaural attenuation",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Bone vibrator: _limited_ maximum intensity",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TRANSDUCER",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "insert_kulaklik",
+      "baslik": "Insert",
+      "metin": "The most common choice",
+      "cumle": 2
+     },
+     {
+      "ikon": "kemik_vibratoru",
+      "baslik": "Bone vibrator",
+      "metin": "Bone-conduction ABR",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The intensity of ABR stimuli is usually given in dB nHL, that is, normalized hearing level.",
+     "ses": "The intensity of ABR stimuli is usually given in decibels N H L, that is, normalized hearing level."
+    },
+    {
+     "yazi": "For device calibration, peak-equivalent sound pressure level, or peak-equivalent SPL, is used for brief sounds."
+    },
+    "Insert earphones are the most widely used transducer because their interaural attenuation is high and they prevent canal collapse.",
+    "ABR can also be recorded with a bone vibrator, but its maximum intensity is limited; we will cover this in detail in a later lesson."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Click: strong response, _no frequency specificity_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tone burst: _frequency-specific_ threshold",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Chirp: offsets delay, _larger wave V_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Polarity and rate _change_ the recording",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The click produces a strong, clear ABR, but it mainly reflects the 2000 to 4000 Hz region and is not frequency-specific.",
+     "ses": "The click produces a strong, clear ABR, but it mainly reflects the two thousand to four thousand hertz region and is not frequency-specific."
+    },
+    "The tone burst is a brief piece of tone defined by its number of cycles and is used for frequency-specific threshold estimation.",
+    {
+     "yazi": "The chirp compensates for the traveling wave delay in the cochlea and usually produces a larger wave V.",
+     "ses": "The chirp compensates for the traveling wave delay in the cochlea and usually produces a larger wave five."
+    },
+    "Polarity and stimulus rate affect waveform and latency; they are chosen according to the purpose of the test."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Does a normal click ABR rule out low-frequency loss?",
+   "secenekler": [
+    "Yes, always",
+    "No, it may be missed",
+    "Only in infants"
+   ],
+   "dogru": 1,
+   "aciklama": "The click response mainly reflects the _2000 to 4000 Hz_ region; low frequencies need tone bursts.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: does a normal click ABR threshold rule out a hearing loss in the low frequencies?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: no, a low-frequency loss may be missed.",
+    {
+     "yazi": "The click response mainly reflects high frequencies, so low frequencies are tested separately with tone bursts or narrowband chirps."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Neurodiagnostic ABR: Looking for *Retrocochlear* Lesions",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will see how we use the click ABR to investigate retrocochlear problems.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

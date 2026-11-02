@@ -1,0 +1,108 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R242_Twenty_Five_Percent_Every_Time_EN",
+ "kapak": {
+  "ust": "QUICK FACT #242",
+  "baslik": "25 percent, *every time*",
+  "alt": "A common misunderstanding in recessive inheritance",
+  "cizim": "koklea_kesit",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "If the first child is affected, will the next three be unaffected? #shorts",
+  "aciklama": "For two carrier parents, the chance of an affected child is 25 percent in each pregnancy, or one in four. Some families think that if the first child is affected, the next three will be unaffected; but the risk is the same in every pregnancy, and the outcome of one pregnancy does not change the next. These questions are answered together with a genetic counselor.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "genetics",
+   "hearing"
+  ],
+  "etiketler": [
+   "autosomal recessive",
+   "genetic counseling",
+   "carrier status",
+   "25 percent risk",
+   "inheritance",
+   "genetic hearing loss",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "If the first child is affected, will the next three be unaffected?",
+  "bilgiler": [
+   "For two carrier parents, each pregnancy carries a 25 percent risk.",
+   "Twenty-five percent means a one in four chance.",
+   "One pregnancy's outcome does not change the next."
+  ],
+  "hashtag": [
+   "audiology",
+   "genetics",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #242",
+   "metin": "One in four, *in order?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "If the first child is affected, will the next three be unaffected?"
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "zincir",
+   "baslik": "Same risk *every time*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Pregnancy 1",
+     "tr": "25%",
+     "cumle": 0
+    },
+    {
+     "ad": "Pregnancy 2",
+     "tr": "25%",
+     "cumle": 3
+    },
+    {
+     "ad": "Pregnancy 3",
+     "tr": "25%",
+     "cumle": 3,
+     "gecikme": 0.9
+    }
+   ],
+   "alt": "Past results _do not change_ the next",
+   "alt_cumle": 3,
+   "cumleler": [
+    {
+     "yazi": "Two carrier parents face a 25 percent chance each pregnancy.",
+     "ses": "Two carrier parents face a twenty-five percent chance each pregnancy."
+    },
+    "Twenty-five percent means a one in four chance.",
+    "Some families assume the next three children will then be unaffected.",
+    "But the risk resets each pregnancy; past results do not change it.",
+    "Answering these questions with a genetic counselor prevents wrong decisions."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D151",
+ "kaynak_baslik": "Consanguinity and Genetic Counseling in Audiology"
+}

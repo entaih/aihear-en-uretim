@@ -1,0 +1,128 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R469_Meniere_Thirty_Decibel_Difference_EN",
+ "kapak": {
+  "ust": "QUICK FACT #469",
+  "baslik": "A thirty-decibel *difference*",
+  "alt": "The audiometric criterion in Meniere's disease",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      35,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      40,
+      40,
+      30,
+      25,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What must the audiogram show in the criteria for Meniere's disease? #shorts",
+  "aciklama": "The Barany Society criteria look for an audiometrically documented loss at two adjacent frequencies below two thousand hertz; in this loss, the bone conduction threshold of the affected ear must be at least 30 dB worse than the other ear's. In the example case, at 250 and 500 Hz right bone conduction is 40 and left is 10 dB; the difference is 30 dB and the criterion is met. For this comparison, bone conduction must be correctly masked; weighing the criteria as a whole and making the diagnosis is the physician's job.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "Meniere",
+   "casestudy"
+  ],
+  "etiketler": [
+   "Meniere's disease",
+   "Barany criteria",
+   "bone conduction",
+   "low-frequency loss",
+   "masking",
+   "case study",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What must the audiogram show in the criteria for Meniere's disease?",
+  "bilgiler": [
+   "A loss is sought at two adjacent frequencies below two thousand hertz.",
+   "Bone conduction must be at least 30 dB worse than the other ear.",
+   "The physician diagnoses; the audiologist provides audiometric evidence."
+  ],
+  "hashtag": [
+   "audiology",
+   "Meniere",
+   "casestudy"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #469",
+   "metin": "What must *it show?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What must the audiogram show in the criteria for Meniere's disease?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Bone conduction, *at least*",
+   "sayi": "30",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Barany criteria require loss at two adjacent frequencies below two thousand hertz.",
+    "Bone conduction in the affected ear: at least thirty decibels worse.",
+    "So bone conduction must be correctly masked.",
+    "The physician diagnoses; the audiologist provides the audiometric evidence."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D275",
+ "kaynak_baslik": "Case: Fluctuating Low-Frequency Loss in Meniere's"
+}

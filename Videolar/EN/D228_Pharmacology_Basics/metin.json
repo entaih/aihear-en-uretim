@@ -1,0 +1,980 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D228_Pharmacology_Basics_EN",
+ "kapak": {
+  "ust": "LESSON 228",
+  "baslik": "Pharmacology for<br>*audiologists*",
+  "alt": "How do drugs reach the ear?",
+  "cizim": "koklea_kesit",
+  "vurgula": [
+   "stria_vaskularis"
+  ]
+ },
+ "youtube": {
+  "baslik": "Pharmacology Basics for Audiologists | Lesson 228 | AIHEAR Audiology Academy",
+  "aciklama": "How do drugs reach the inner ear, and why are they more harmful for some people? In this lesson we cover pharmacokinetics and pharmacodynamics, half-life, the blood-labyrinth barrier, the importance of total dose, duration and kidney function, and the concept of intratympanic delivery. The lesson contains no drug or dose recommendations.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Campbell (ed.), Pharmacology and Ototoxicity for Audiologists; Salt and Plontke, Principles of local drug delivery to the inner ear, Audiology and Neurotology (2009); American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "pharmacology",
+   "ototoxicity"
+  ],
+  "etiketler": [
+   "pharmacology",
+   "pharmacokinetics",
+   "pharmacodynamics",
+   "blood-labyrinth barrier",
+   "half-life",
+   "intratympanic",
+   "ototoxicity",
+   "kidney function",
+   "drug history",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 228",
+   "baslik": "Pharmacology for *audiologists*",
+   "alt": "How do drugs reach the ear?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we begin the ototoxicity section and learn the pharmacology basics that audiologists need to know.",
+    "We will cover pharmacokinetics, the blood-labyrinth barrier, the role of dose, duration and kidney function, and intratympanic delivery."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "Why should audiologists *know?*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Drug history",
+     "metin": "Asking the right questions",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Monitoring plan",
+     "metin": "Understanding the timing",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Team communication",
+     "metin": "A shared language",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Audiologists do not prescribe drugs or decide on drug treatment; these decisions always belong to the physician.",
+    "But knowing how a drug reaches the ear is essential for taking an accurate drug history.",
+    "For example, an audiologist who knows a drug is cleared by the kidneys understands why closer monitoring is needed in kidney disease.",
+    "Knowing that damage can continue after a drug is stopped explains how long monitoring should go on.",
+    "Speaking the same language as the treatment team also helps findings to be understood correctly.",
+    "This lesson contains no drug or dose recommendations, only basic concepts."
+   ]
+  },
+  {
+   "id": "kinetik_dinamik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "Two basic *questions*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Pharmacokinetics",
+     "metin": "What does the body do to the drug?",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Pharmacodynamics",
+     "metin": "What does the drug do to the body?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Pharmacology asks two basic questions.",
+    "The first is pharmacokinetics: what does the body do to the drug?",
+    "That is, how is the drug absorbed, distributed to tissues, transformed and eliminated from the body?",
+    "The second is pharmacodynamics: what does the drug do to the body?",
+    "That is, which cells does the drug bind to, and what effects and side effects does it produce?",
+    "Ototoxicity is an unwanted pharmacodynamic effect a drug has on inner ear cells, alongside its intended effect."
+   ]
+  },
+  {
+   "id": "adme",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "The drug's *journey*",
+   "adimlar": [
+    {
+     "ikon": "ilac",
+     "baslik": "Absorption",
+     "metin": "Into the blood",
+     "cumle": 0
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Distribution",
+     "metin": "Reaching the tissues",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Metabolism",
+     "metin": "Transformation",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Elimination",
+     "metin": "Kidney and liver",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A drug's journey through the body is summarized in four stages: absorption, distribution, metabolism and elimination.",
+    "A drug taken by mouth first passes from the digestive tract into the blood; a drug given intravenously reaches the blood directly.",
+    "How much of a drug distributed by the blood reaches the inner ear is set by the barriers we will see shortly.",
+    "Many drugs are transformed into other substances in the liver.",
+    "Finally, the drug or its products are eliminated from the body mainly through the kidneys or the bile.",
+    "The kidneys play the main role in eliminating ototoxic drugs such as aminoglycosides and cisplatin."
+   ]
+  },
+  {
+   "id": "yarilanma",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Basic concepts",
+   "baslik": "*Half-life*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Time (hours, schematic)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 110,
+     "adim": 25,
+     "ad": "Blood level (percent)"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        0,
+        100.0
+       ],
+       [
+        1,
+        70.5
+       ],
+       [
+        2,
+        49.7
+       ],
+       [
+        3,
+        35.0
+       ],
+       [
+        4,
+        24.7
+       ],
+       [
+        5,
+        17.4
+       ],
+       [
+        6,
+        12.2
+       ],
+       [
+        8,
+        6.1
+       ],
+       [
+        10,
+        3.0
+       ],
+       [
+        12,
+        1.5
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yari",
+      "x": 1.98,
+      "y": 50,
+      "dus": "xy",
+      "etiket": "half-life",
+      "cumle": 2
+     },
+     {
+      "ad": "ceyrek",
+      "x": 3.96,
+      "y": 25,
+      "dus": "xy",
+      "etiket": "two half-lives",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Falls by the same proportion",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Half-life: level halves",
+     "cumle": 2,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "This schematic graph shows how the blood level of a drug falls over time after a single intravenous dose.",
+    "The level falls not by the same amount but by the same proportion every hour, so the curve gradually flattens.",
+    "The time it takes for the blood level to fall by half is called the half-life.",
+    "After two half-lives the level falls to a quarter; in practice, most of the drug is eliminated after four to five half-lives.",
+    "But when the blood level falls, the level in the inner ear may not fall as quickly; we will see this in the barrier section.",
+    "The values are schematic; each drug has a different half-life, and it varies from person to person."
+   ]
+  },
+  {
+   "id": "bariyer",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The blood-labyrinth barrier",
+   "baslik": "The *blood-labyrinth* barrier",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "stria vascularis",
+     "cumle": 2
+    },
+    {
+     "parca": "perilenf",
+     "metin": "perilymph",
+     "cumle": 3
+    },
+    {
+     "parca": "endolenf",
+     "metin": "endolymph",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 2
+    },
+    {
+     "parca": "perilenf",
+     "cumle": 3
+    },
+    {
+     "parca": "endolenf",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Just as a blood-brain barrier protects the brain from harmful substances in the blood, the inner ear has its own protection.",
+    "This is called the blood-labyrinth barrier.",
+    "The most studied part of the barrier is the capillaries of the stria vascularis, whose cells are held together by tight junctions.",
+    "So many substances in the blood cannot pass freely into the perilymph and endolymph, and the special makeup of the inner ear fluids is kept.",
+    "But the barrier is not a solid wall: some drugs reach the inner ear fluids, especially when given for a long time at high levels.",
+    "Inflammation, high noise levels and some drugs can increase the permeability of the barrier."
+   ]
+  },
+  {
+   "id": "birikim_kulak",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The blood-labyrinth barrier",
+   "baslik": "A *long stay* in the inner ear",
+   "maddeler": [
+    {
+     "metin": "Enters the inner ear slowly",
+     "cumle": 0,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "May accumulate in hair cells",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Stays longer than in blood",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Damage may progress later",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "cumle": 2
+     },
+     {
+      "parca": "ic_tuy_hucresi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Ototoxic drugs usually enter the inner ear fluids more slowly than the blood.",
+    "They also leave the inner ear slowly, so they can remain there even after the blood level has fallen.",
+    "Some drugs accumulate inside hair cells; we will see how aminoglycosides enter hair cells in the next lesson.",
+    "Cisplatin has been shown to be detectable in cochlear tissue for months, even years.",
+    "So hearing loss can begin or progress after treatment has ended.",
+    "This is the pharmacological reason why monitoring should not stop when treatment ends."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Dose, duration and kidneys",
+   "baslik": "Factors that *change* risk",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Total dose",
+     "metin": "Cumulative amount",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Duration",
+     "metin": "Long and repeated",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Kidney function",
+     "metin": "Sets elimination",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Age",
+     "metin": "Very young and very old",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetic susceptibility",
+     "metin": "Some variants",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise",
+     "metin": "Can increase damage",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "For most drugs, the risk of ototoxicity rises with the total, or cumulative, dose.",
+    "The length of treatment and repeated courses of the same drug also raise the risk.",
+    "Kidney function sets how quickly the drug is eliminated from the body, so it is one of the most important factors.",
+    "In newborns the kidneys are not yet mature, and in older adults kidney function is often reduced.",
+    "Genetic factors, such as the mitochondrial change that causes hypersensitivity to aminoglycosides, can also raise the risk markedly.",
+    "Noise and combined use with other ototoxic drugs can add to the damage."
+   ]
+  },
+  {
+   "id": "birikim",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Dose, duration and kidneys",
+   "baslik": "Kidney function and *accumulation*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "ad": "Time (schematic)",
+     "isaretler": [
+      0,
+      6,
+      12,
+      18,
+      24
+     ],
+     "yazilar": {
+      "0": "dose 1",
+      "6": "2.",
+      "12": "3.",
+      "18": "4."
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 140,
+     "adim": 20,
+     "ad": "Blood level (schematic)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        60.0
+       ],
+       [
+        1,
+        38.3
+       ],
+       [
+        2,
+        24.4
+       ],
+       [
+        3,
+        15.6
+       ],
+       [
+        4,
+        9.9
+       ],
+       [
+        5,
+        6.3
+       ],
+       [
+        6,
+        64.0
+       ],
+       [
+        7,
+        40.8
+       ],
+       [
+        8,
+        26.0
+       ],
+       [
+        9,
+        16.6
+       ],
+       [
+        10,
+        10.6
+       ],
+       [
+        11,
+        6.7
+       ],
+       [
+        12,
+        64.3
+       ],
+       [
+        13,
+        41.0
+       ],
+       [
+        14,
+        26.1
+       ],
+       [
+        15,
+        16.7
+       ],
+       [
+        16,
+        10.6
+       ],
+       [
+        17,
+        6.8
+       ],
+       [
+        18,
+        64.3
+       ],
+       [
+        19,
+        41.0
+       ],
+       [
+        20,
+        26.2
+       ],
+       [
+        21,
+        16.7
+       ],
+       [
+        22,
+        10.6
+       ],
+       [
+        23,
+        6.8
+       ],
+       [
+        24,
+        4.3
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "normal kidney function",
+      "cumle": 1
+     },
+     {
+      "ad": "azalmis",
+      "noktalar": [
+       [
+        0,
+        60.0
+       ],
+       [
+        1,
+        53.2
+       ],
+       [
+        2,
+        47.2
+       ],
+       [
+        3,
+        41.9
+       ],
+       [
+        4,
+        37.1
+       ],
+       [
+        5,
+        32.9
+       ],
+       [
+        6,
+        89.2
+       ],
+       [
+        7,
+        79.1
+       ],
+       [
+        8,
+        70.2
+       ],
+       [
+        9,
+        62.2
+       ],
+       [
+        10,
+        55.2
+       ],
+       [
+        11,
+        49.0
+       ],
+       [
+        12,
+        103.4
+       ],
+       [
+        13,
+        91.7
+       ],
+       [
+        14,
+        81.4
+       ],
+       [
+        15,
+        72.2
+       ],
+       [
+        16,
+        64.0
+       ],
+       [
+        17,
+        56.8
+       ],
+       [
+        18,
+        110.3
+       ],
+       [
+        19,
+        97.9
+       ],
+       [
+        20,
+        86.8
+       ],
+       [
+        21,
+        77.0
+       ],
+       [
+        22,
+        68.3
+       ],
+       [
+        23,
+        60.6
+       ],
+       [
+        24,
+        53.7
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "etiket": "reduced kidney function",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yuksek",
+      "y": [
+       100,
+       140
+      ],
+      "renk": "sari",
+      "etiket": "unwanted high level",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: no accumulation",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Reduced: accumulation",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "This schematic graph shows repeated doses of the same drug given at the same intervals.",
+    "On the navy curve, the kidneys work normally; most of the drug has been eliminated before each new dose.",
+    "The blood level rises and falls with each dose, but does not gradually build up.",
+    "On the red curve, kidney function is reduced; because the drug is eliminated slowly, each new dose adds on top of the last.",
+    "The level rises steadily and can reach unwanted high levels, and the risk of ototoxicity rises with it.",
+    "So with reduced kidney function, the physician adjusts the dose and interval, and the audiologist may plan more frequent monitoring."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Dose, duration and kidneys",
+   "baslik": "Measuring blood *levels*",
+   "maddeler": [
+    {
+     "metin": "Blood levels monitored for some drugs",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Goal: effective yet safe level",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normal blood level cannot guarantee safety",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Audiological monitoring still needed",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Blood level",
+      "metin": "Physician and pharmacist",
+      "cumle": 0
+     },
+     {
+      "ikon": "odyogram",
+      "baslik": "Hearing monitoring",
+      "metin": "Audiologist",
+      "cumle": 4
+     }
+    ],
+    "ust": "TWO KINDS OF MONITORING"
+   },
+   "cumleler": [
+    "For some antibiotics, such as aminoglycosides, the blood level of the drug is measured regularly.",
+    "The aim is to keep a level that is effective against infection but not needlessly high.",
+    "These measurements and dosing decisions are managed by the physician and the clinical pharmacist.",
+    "But a blood level within the target range does not guarantee that the inner ear will not be affected.",
+    "So blood level monitoring does not replace audiological monitoring; the two complement each other."
+   ]
+  },
+  {
+   "id": "intratimpanik",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Intratympanic delivery",
+   "baslik": "Straight into the *middle ear*",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "round window",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "oval window",
+     "cumle": 3
+    },
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Eustachian tube",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In some cases a drug is given not through the blood but directly into the middle ear; this is called intratympanic delivery.",
+    "The physician injects the drug into the middle ear space with a fine needle passed through the eardrum.",
+    "The drug in the middle ear reaches the perilymph mainly by passing through the round window membrane.",
+    "Some passage is also thought to occur around the oval window.",
+    "This route can give much higher levels in the inner ear than a drug given through the blood, while the rest of the body is little affected.",
+    "But passage varies between people; the thickness of the round window membrane and drainage down the Eustachian tube affect the result."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Intratympanic delivery",
+   "baslik": "Examples of intratympanic *use*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Corticosteroid",
+     "metin": "In sudden hearing loss",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Gentamicin",
+     "metin": "Balance organ in Meniere's",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "New drugs",
+     "metin": "At the research stage",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In sudden hearing loss, intratympanic corticosteroids may be one of the options, based on the physician's assessment.",
+    "Which drug is used for which person is always the physician's decision.",
+    "In Meniere's disease, gentamicin, an ototoxic drug, may be used intratympanically to control vertigo attacks.",
+    "Here the drug's ability to damage the balance organ is used on purpose; there is also a risk to hearing.",
+    "Delivering new drugs that aim to protect or repair the inner ear by this route is also being researched.",
+    "Audiological and vestibular tests before and after these procedures provide the key information for tracking the effect."
+   ]
+  },
+  {
+   "id": "damla",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Intratympanic delivery",
+   "baslik": "Ear *drops*",
+   "maddeler": [
+    {
+     "metin": "Intact eardrum: no passage inward",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Perforated eardrum: passage possible",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Drops belong in the drug history",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_zari_otoskopik",
+    "cumle": 0,
+    "ayar": {
+     "patoloji": {
+      "tur": "perforasyon_santral",
+      "cumle": 1
+     }
+    },
+    "vurgula": [
+     {
+      "parca": "pars_tensa",
+      "cumle": 0
+     },
+     {
+      "parca": "on_alt_kadran",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "An intact eardrum keeps drops placed in the ear canal from passing into the middle ear.",
+    "If there is a perforation or a ventilation tube, drops can reach the middle ear and pass through the round window into the inner ear.",
+    "So some guidelines stress care in choosing potentially ototoxic drops for ears with a perforated eardrum.",
+    "Ear drops are also part of the drug history; people often do not think of them as medicines.",
+    "The choice of drops is the physician's decision; the audiologist's role is to take a complete history and share findings."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In the drug history, ask about the drug name, start date, duration, courses, ear drops, kidney disease and family history of drug-related hearing loss.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: a good drug history does not end with asking the drug's name.",
+    "Ask about the start date, duration, how many courses were given, and whether there was similar treatment in earlier years.",
+    "Always record kidney disease, ear drops and any family history of hearing loss after medication.",
+    "This information helps you interpret monitoring findings and give the team accurate information."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Pharmacokinetics: absorption, distribution, metabolism, elimination",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Blood-labyrinth barrier: stria vessels",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Kidney function and total dose set risk",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Intratympanic: via round window to perilymph",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Pharmacokinetics studies a drug's absorption, distribution, metabolism and elimination; half-life shows the speed of elimination.",
+    "The blood-labyrinth barrier protects the inner ear fluids, but some drugs pass into the inner ear and can stay there a long time.",
+    "Total dose, length of treatment and especially kidney function determine the risk of ototoxicity.",
+    "In intratympanic delivery, the drug is placed in the middle ear and passes mainly through the round window into the perilymph."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "How does an intratympanic drug mainly reach the inner ear?",
+   "secenekler": [
+    "Eustachian tube",
+    "Round window membrane",
+    "Stria vascularis",
+    "Internal auditory canal"
+   ],
+   "dogru": 1,
+   "aciklama": "A drug placed in the middle ear passes mainly through the round window membrane into the perilymph.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: by which route does a drug given intratympanically mainly reach the inner ear?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the round window membrane.",
+    "The drug passes mainly through the round window membrane into the perilymph; the Eustachian tube can let it drain out of the middle ear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ototoxic Drugs: *Aminoglycosides*, Cisplatin, Others",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about the main drugs that can harm the ear: aminoglycosides, cisplatin and others.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R491_Better_Hearing_on_Some_Days_EN",
+ "kapak": {
+  "ust": "QUICK FACT #491",
+  "baslik": "Fluctuating *hearing*",
+  "alt": "Inconsistent input in OME",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      null,
+      35,
+      30,
+      30,
+      35,
+      null
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      null,
+      40,
+      35,
+      30,
+      35,
+      null
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      null,
+      10,
+      10,
+      10,
+      15,
+      null
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      null,
+      10,
+      5,
+      10,
+      10,
+      null
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does a child seem to hear better on some days? #shorts",
+  "aciklama": "In otitis media with effusion (OME), hearing loss is not stable; it changes over weeks with the amount and thickness of the fluid. In the example course, the average threshold sometimes nears normal and sometimes reaches 35 decibels; for the child, this means hearing the same word clearly one day and incompletely another, an inconsistent auditory input. When fluid lasts for months, this inconsistency overlaps with the period of rapid language growth; diagnosis and treatment decisions belong to the ENT physician.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "children",
+   "middleear"
+  ],
+  "etiketler": [
+   "otitis media with effusion",
+   "OME",
+   "fluctuating hearing loss",
+   "language development",
+   "speech delay",
+   "conductive loss",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does a child seem to hear better on some days?",
+  "bilgiler": [
+   "In OME, the loss changes over weeks with the fluid.",
+   "The child hears a word clearly one day, poorly another.",
+   "Long-lasting fluid overlaps with rapid language growth."
+  ],
+  "hashtag": [
+   "audiology",
+   "children",
+   "middleear"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #491",
+   "metin": "Better *some days?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does a child seem to hear better on some days?"
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "zincir",
+   "baslik": "Inconsistent *input*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Fluid",
+     "tr": "amount and thickness",
+     "cumle": 0
+    },
+    {
+     "ad": "Threshold",
+     "tr": "normal to 35 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "Language",
+     "tr": "rapid growth",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In otitis media with effusion, the loss shifts over weeks with fluid.",
+    "The average threshold sometimes nears normal, sometimes reaches thirty five decibels.",
+    "The child hears the same word clearly one day, incompletely another.",
+    "If fluid lasts months, this overlaps with rapid language growth.",
+    "Diagnosis and treatment decisions belong to the ENT physician."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D289",
+ "kaynak_baslik": "Case: Speech Delay and Flat Tympanograms in a Toddler"
+}

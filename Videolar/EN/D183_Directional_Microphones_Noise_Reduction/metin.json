@@ -1,0 +1,1418 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D183_Directional_Microphones_Noise_Reduction_EN",
+ "kapak": {
+  "ust": "LESSON 183",
+  "baslik": "Directional mics,<br>*noise* reduction",
+  "alt": "Polar patterns, DNR, real benefit",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Directional Microphones and Noise Reduction | Lesson 183 | AIHEAR Audiology Academy",
+  "aciklama": "What can a hearing aid do to help a person understand speech in noise? In this lesson we cover how directional microphones work, polar patterns, fixed and adaptive directionality, digital noise reduction, and the real-world effect of these features.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Dillon, Hearing Aids; Ricketts, Bentler and Mueller, Essentials of Modern Hearing Aids; Bentler, Wu, Kettel and Hurtig, Digital noise reduction: outcomes from laboratory and field studies, International Journal of Audiology (2008); Stelmachowicz et al., Effects of digital noise reduction on speech perception for children with hearing loss, Ear and Hearing (2010); Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "noise"
+  ],
+  "etiketler": [
+   "directional microphone",
+   "polar pattern",
+   "digital noise reduction",
+   "DNR",
+   "adaptive directionality",
+   "SNR loss",
+   "speech in noise",
+   "remote microphone",
+   "hearing aids",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 183",
+   "baslik": "Directional microphones and *noise reduction*",
+   "alt": "Understanding speech in noise",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how directional microphones in hearing aids work and how to read polar patterns.",
+    "Then we will discuss digital noise reduction and the real effect of these technologies on speech perception in noise."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The noise problem",
+   "baslik": "Why is noise *so hard?*",
+   "maddeler": [
+    {
+     "metin": "Hearing loss requires a better SNR",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Gain amplifies noise too",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "The only fix: improve SNR",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Directionality, remote microphone, room setup",
+     "cumle": 5,
+     "ikon": "mikrofon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "golge"
+    },
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 4
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "People with sensorineural loss need a better signal-to-noise ratio than normal-hearing listeners for the same understanding in noise.",
+    "This difference is called signal-to-noise ratio loss, or SNR loss, and is measured with speech-in-noise tests.",
+    "A hearing aid amplifies speech, but it also amplifies noise coming from the same direction and at the same frequencies.",
+    "So gain alone does not fix understanding in noise.",
+    "Real benefit requires improving the ratio of speech to noise reaching the ear.",
+    "The main ways to do this are directional microphones, remote microphone systems and arranging the listening setting.",
+    "Digital noise reduction, as we will see shortly, contributes mostly to listening comfort."
+   ]
+  },
+  {
+   "id": "iki_mik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Directional microphones",
+   "baslik": "Two microphones, *one delay*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "RIC"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "two microphone ports",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "islemci",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Rear signal is delayed",
+     "cumle": 4,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sound from behind cancels",
+     "cumle": 5,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Speech in front is kept",
+     "cumle": 6,
+     "ikon": "konusma"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "An omnidirectional microphone picks up sound from all directions with roughly equal sensitivity.",
+    "A directional system uses two microphones on the aid, about one centimeter apart.",
+    "Sound from the front reaches the front microphone first, and the rear microphone a very short time later.",
+    "For sound from behind, the order is reversed: it reaches the rear microphone first.",
+    "The processor delays the rear microphone's signal briefly and subtracts it from the front microphone's signal.",
+    "If the delay is chosen correctly, sound from behind is present in both signals at the same moment and cancels out.",
+    "Sound from the front is not canceled, so the talker in front stands out against the noise behind.",
+    "This arrangement requires the two microphones to be lined up from front to back on the aid.",
+    "So a directional microphone does not always fit into very small in-the-ear aids."
+   ]
+  },
+  {
+   "id": "polar",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Directional microphones",
+   "baslik": "Polar *patterns*",
+   "cizim": "polar_desen",
+   "ayar": {
+    "desenler": [
+     {
+      "tip": "cok_yonlu",
+      "cumle": 2
+     },
+     {
+      "tip": "kardiyoid",
+      "cumle": 3
+     },
+     {
+      "tip": "hiperkardiyoid",
+      "cumle": 4
+     }
+    ],
+    "sifir_cumle": 3,
+    "grafik": {
+     "x": {
+      "min": 0,
+      "max": 360,
+      "isaretler": [
+       0,
+       90,
+       180,
+       270,
+       360
+      ],
+      "ad": "Angle of incidence (degrees)"
+     },
+     "y": {
+      "min": -30,
+      "max": 5,
+      "adim": 10,
+      "ad": "Relative sensitivity (dB)"
+     },
+     "seriler": [
+      {
+       "ad": "cok_yonlu",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         360,
+         0
+        ]
+       ],
+       "renk": "gri",
+       "kesik": true,
+       "cumle": 2,
+       "etiket": "omnidirectional",
+       "etiket_konum": [
+        10,
+        0
+       ],
+       "etiket_dy": -12
+      },
+      {
+       "ad": "kardiyoid",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         5,
+         -0.02
+        ],
+        [
+         10,
+         -0.07
+        ],
+        [
+         15,
+         -0.15
+        ],
+        [
+         20,
+         -0.27
+        ],
+        [
+         25,
+         -0.42
+        ],
+        [
+         30,
+         -0.6
+        ],
+        [
+         35,
+         -0.82
+        ],
+        [
+         40,
+         -1.08
+        ],
+        [
+         45,
+         -1.38
+        ],
+        [
+         50,
+         -1.71
+        ],
+        [
+         55,
+         -2.08
+        ],
+        [
+         60,
+         -2.5
+        ],
+        [
+         65,
+         -2.96
+        ],
+        [
+         70,
+         -3.47
+        ],
+        [
+         75,
+         -4.02
+        ],
+        [
+         80,
+         -4.63
+        ],
+        [
+         85,
+         -5.29
+        ],
+        [
+         90,
+         -6.02
+        ],
+        [
+         95,
+         -6.81
+        ],
+        [
+         100,
+         -7.68
+        ],
+        [
+         105,
+         -8.62
+        ],
+        [
+         110,
+         -9.66
+        ],
+        [
+         115,
+         -10.79
+        ],
+        [
+         120,
+         -12.04
+        ],
+        [
+         125,
+         -13.42
+        ],
+        [
+         130,
+         -14.96
+        ],
+        [
+         135,
+         -16.69
+        ],
+        [
+         140,
+         -18.64
+        ],
+        [
+         145,
+         -20.87
+        ],
+        [
+         150,
+         -23.48
+        ],
+        [
+         155,
+         -26.59
+        ],
+        [
+         160,
+         -30.0
+        ],
+        [
+         165,
+         -30.0
+        ],
+        [
+         170,
+         -30.0
+        ],
+        [
+         175,
+         -30.0
+        ],
+        [
+         180,
+         -30.0
+        ],
+        [
+         185,
+         -30.0
+        ],
+        [
+         190,
+         -30.0
+        ],
+        [
+         195,
+         -30.0
+        ],
+        [
+         200,
+         -30.0
+        ],
+        [
+         205,
+         -26.59
+        ],
+        [
+         210,
+         -23.48
+        ],
+        [
+         215,
+         -20.87
+        ],
+        [
+         220,
+         -18.64
+        ],
+        [
+         225,
+         -16.69
+        ],
+        [
+         230,
+         -14.96
+        ],
+        [
+         235,
+         -13.42
+        ],
+        [
+         240,
+         -12.04
+        ],
+        [
+         245,
+         -10.79
+        ],
+        [
+         250,
+         -9.66
+        ],
+        [
+         255,
+         -8.62
+        ],
+        [
+         260,
+         -7.68
+        ],
+        [
+         265,
+         -6.81
+        ],
+        [
+         270,
+         -6.02
+        ],
+        [
+         275,
+         -5.29
+        ],
+        [
+         280,
+         -4.63
+        ],
+        [
+         285,
+         -4.02
+        ],
+        [
+         290,
+         -3.47
+        ],
+        [
+         295,
+         -2.96
+        ],
+        [
+         300,
+         -2.5
+        ],
+        [
+         305,
+         -2.08
+        ],
+        [
+         310,
+         -1.71
+        ],
+        [
+         315,
+         -1.38
+        ],
+        [
+         320,
+         -1.08
+        ],
+        [
+         325,
+         -0.82
+        ],
+        [
+         330,
+         -0.6
+        ],
+        [
+         335,
+         -0.42
+        ],
+        [
+         340,
+         -0.27
+        ],
+        [
+         345,
+         -0.15
+        ],
+        [
+         350,
+         -0.07
+        ],
+        [
+         355,
+         -0.02
+        ],
+        [
+         360,
+         0.0
+        ]
+       ],
+       "renk": "mavi",
+       "cumle": 3,
+       "etiket": "cardioid",
+       "etiket_konum": [
+        150,
+        -15
+       ],
+       "etiket_dx": -110
+      },
+      {
+       "ad": "hiperkardiyoid",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         5,
+         -0.02
+        ],
+        [
+         10,
+         -0.1
+        ],
+        [
+         15,
+         -0.22
+        ],
+        [
+         20,
+         -0.4
+        ],
+        [
+         25,
+         -0.63
+        ],
+        [
+         30,
+         -0.92
+        ],
+        [
+         35,
+         -1.27
+        ],
+        [
+         40,
+         -1.68
+        ],
+        [
+         45,
+         -2.15
+        ],
+        [
+         50,
+         -2.71
+        ],
+        [
+         55,
+         -3.35
+        ],
+        [
+         60,
+         -4.08
+        ],
+        [
+         65,
+         -4.93
+        ],
+        [
+         70,
+         -5.91
+        ],
+        [
+         75,
+         -7.05
+        ],
+        [
+         80,
+         -8.4
+        ],
+        [
+         85,
+         -10.02
+        ],
+        [
+         90,
+         -12.04
+        ],
+        [
+         95,
+         -14.67
+        ],
+        [
+         100,
+         -18.43
+        ],
+        [
+         105,
+         -25.05
+        ],
+        [
+         110,
+         -30.0
+        ],
+        [
+         115,
+         -23.48
+        ],
+        [
+         120,
+         -18.06
+        ],
+        [
+         125,
+         -14.89
+        ],
+        [
+         130,
+         -12.69
+        ],
+        [
+         135,
+         -11.05
+        ],
+        [
+         140,
+         -9.77
+        ],
+        [
+         145,
+         -8.77
+        ],
+        [
+         150,
+         -7.97
+        ],
+        [
+         155,
+         -7.34
+        ],
+        [
+         160,
+         -6.84
+        ],
+        [
+         165,
+         -6.48
+        ],
+        [
+         170,
+         -6.22
+        ],
+        [
+         175,
+         -6.07
+        ],
+        [
+         180,
+         -6.02
+        ],
+        [
+         185,
+         -6.07
+        ],
+        [
+         190,
+         -6.22
+        ],
+        [
+         195,
+         -6.48
+        ],
+        [
+         200,
+         -6.84
+        ],
+        [
+         205,
+         -7.34
+        ],
+        [
+         210,
+         -7.97
+        ],
+        [
+         215,
+         -8.77
+        ],
+        [
+         220,
+         -9.77
+        ],
+        [
+         225,
+         -11.05
+        ],
+        [
+         230,
+         -12.69
+        ],
+        [
+         235,
+         -14.89
+        ],
+        [
+         240,
+         -18.06
+        ],
+        [
+         245,
+         -23.48
+        ],
+        [
+         250,
+         -30.0
+        ],
+        [
+         255,
+         -25.05
+        ],
+        [
+         260,
+         -18.43
+        ],
+        [
+         265,
+         -14.67
+        ],
+        [
+         270,
+         -12.04
+        ],
+        [
+         275,
+         -10.02
+        ],
+        [
+         280,
+         -8.4
+        ],
+        [
+         285,
+         -7.05
+        ],
+        [
+         290,
+         -5.91
+        ],
+        [
+         295,
+         -4.93
+        ],
+        [
+         300,
+         -4.08
+        ],
+        [
+         305,
+         -3.35
+        ],
+        [
+         310,
+         -2.71
+        ],
+        [
+         315,
+         -2.15
+        ],
+        [
+         320,
+         -1.68
+        ],
+        [
+         325,
+         -1.27
+        ],
+        [
+         330,
+         -0.92
+        ],
+        [
+         335,
+         -0.63
+        ],
+        [
+         340,
+         -0.4
+        ],
+        [
+         345,
+         -0.22
+        ],
+        [
+         350,
+         -0.1
+        ],
+        [
+         355,
+         -0.02
+        ],
+        [
+         360,
+         0.0
+        ]
+       ],
+       "renk": "kirmizi",
+       "cumle": 4,
+       "etiket": "hypercardioid",
+       "etiket_konum": [
+        210,
+        -9.5
+       ],
+       "etiket_dx": 14
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "arka",
+       "x": 180,
+       "y": -30,
+       "etiket": "directly behind",
+       "dy": -16,
+       "renk": "lacivert",
+       "cumle": 3,
+       "nokta": false
+      }
+     ]
+    }
+   },
+   "vurgula": [
+    {
+     "parca": "kardiyoid",
+     "cumle": 3
+    },
+    {
+     "parca": "hiperkardiyoid",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A microphone's sensitivity by direction is shown with a polar pattern.",
+    "Here we unroll the pattern onto a flat graph: the horizontal axis is the angle, with zero degrees straight ahead and 180 directly behind.",
+    "The omnidirectional pattern is flat; sound from every angle is picked up with the same sensitivity.",
+    "In the cardioid pattern, sensitivity falls toward the back and reaches its lowest point directly behind; this point is called the null.",
+    "In the hypercardioid pattern, the nulls are at about 110 and 250 degrees, so it suppresses sound from the rear sides most.",
+    "The directivity index is the ratio of sensitivity to sound from the front to sensitivity to sound from all directions, in decibels.",
+    {
+     "yazi": "In theory it is about 4.8 decibels for a cardioid and about 6 decibels for a hypercardioid.",
+     "ses": "In theory it is about four point eight decibels for a cardioid and about six decibels for a hypercardioid."
+    },
+    "When the aid is worn, the head and pinna change the pattern; real values are usually lower."
+   ]
+  },
+  {
+   "id": "dusuk",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Directional microphones",
+   "baslik": "Low-frequency *roll-off*",
+   "maddeler": [
+    {
+     "metin": "Directional systems weaken low frequencies",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Compensating gain raises internal noise",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Omnidirectional suits quiet settings better",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Sensitive to wind noise",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 125,
+      "max": 8000,
+      "log": true,
+      "hz": true,
+      "ad": "Frequency (Hz)",
+      "isaretler": [
+       125,
+       500,
+       2000,
+       8000
+      ]
+     },
+     "y": {
+      "min": -30,
+      "max": 5,
+      "adim": 10,
+      "ad": "Sensitivity (dB)"
+     },
+     "seriler": [
+      {
+       "ad": "cok_yonlu",
+       "noktalar": [
+        [
+         125,
+         0
+        ],
+        [
+         8000,
+         0
+        ]
+       ],
+       "renk": "gri",
+       "kesik": true,
+       "cumle": 0
+      },
+      {
+       "ad": "yonlu",
+       "noktalar": [
+        [
+         125,
+         -24
+        ],
+        [
+         250,
+         -18
+        ],
+        [
+         500,
+         -12
+        ],
+        [
+         1000,
+         -6
+        ],
+        [
+         2000,
+         -1.5
+        ],
+        [
+         4000,
+         0
+        ],
+        [
+         8000,
+         0
+        ]
+       ],
+       "renk": "mavi",
+       "cumle": 0
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "yonlu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "A directional system formed by subtracting two microphones loses sensitivity at low frequencies.",
+    "This drop grows by about 6 decibels each time the frequency is halved.",
+    "The aid usually compensates with extra gain, but this also raises the microphone's internal noise.",
+    "In a quiet setting, this noise may be heard as a hiss, and directionality brings no expected benefit there.",
+    "So omnidirectional mode is often preferred in quiet settings.",
+    "Directional systems are also more sensitive to wind noise, which is why aids include wind noise management."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Fixed and adaptive",
+   "baslik": "Types of *directionality*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Omnidirectional",
+     "cumle": 0,
+     "metin": "All directions equal"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Fixed directional",
+     "cumle": 1,
+     "metin": "Pattern does not change"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Adaptive",
+     "cumle": 3,
+     "metin": "Null follows the noise"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Automatic switching",
+     "cumle": 5,
+     "metin": "Mode by setting"
+    }
+   ],
+   "cumleler": [
+    "Omnidirectional mode is the baseline, with directionality switched off.",
+    "In fixed directional mode, the pattern is preset; for example, it always works as a cardioid or hypercardioid.",
+    "In this mode, the best result comes when the noise source falls at the null of the pattern.",
+    "With adaptive directionality, the aid continually estimates the direction of the strongest noise in the rear half.",
+    "It then steers the null toward that direction; as the noise source moves, the pattern changes too.",
+    "Automatic systems classify the sound of the setting and switch to omnidirectional in quiet and directional in noisy speech settings.",
+    "Some aids can also wirelessly combine the microphones of both ears to form narrower directionality.",
+    "Which mode switches on when can be seen and adjusted in the aid's software."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Fixed and adaptive",
+   "baslik": "Who *benefits* from directionality?",
+   "maddeler": [
+    {
+     "metin": "Talker _in front_ and close",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Noise behind or to the sides",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "More effective with little reverberation",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Lab benefit shrinks in real life",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Careful use in young children",
+     "cumle": 6,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "oda": [
+      9,
+      7
+     ],
+     "halka_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "dogrudan_alan",
+      "cumle": 3
+     },
+     {
+      "parca": "yankilanan_alan",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The benefit of a directional microphone is greatest when the person faces the talker and the talker is relatively close.",
+    "Noise sources should be behind or to the sides; if noise comes from the same direction as the talker, directionality cannot help.",
+    "In a reverberant room, sounds reflect from every direction, so the effect of directionality decreases.",
+    "As the talker moves beyond the critical distance, more of the sound reaching the ear comes from reflections, and the benefit shrinks.",
+    "In the lab, directionality easily shows a benefit of a few decibels for understanding in noise.",
+    "In real life, however, the benefit users perceive is usually smaller.",
+    "Young children do not always face the talker and also learn language by overhearing, so directionality is used carefully with them."
+   ]
+  },
+  {
+   "id": "dnr",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Noise reduction",
+   "baslik": "How does noise reduction *work?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Channel (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -12,
+     "max": 2,
+     "adim": 4,
+     "ad": "Gain change (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu_kanallari",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        250,
+        -8
+       ],
+       [
+        500,
+        -6
+       ],
+       [
+        6000,
+        -3
+       ]
+      ],
+      "renk": "kirmizi",
+      "genislik": 0.6,
+      "taban": 0,
+      "cumle": 4,
+      "etiket": "noise dominant",
+      "etiket_konum": [
+       250,
+       -8
+      ],
+      "etiket_dy": 26,
+      "etiket_hiza": "start",
+      "etiket_dx": -20
+     },
+     {
+      "ad": "konusma_kanallari",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1000,
+        -1
+       ],
+       [
+        2000,
+        -0.5
+       ],
+       [
+        3000,
+        -1
+       ]
+      ],
+      "renk": "mavi",
+      "genislik": 0.6,
+      "taban": 0,
+      "cumle": 4,
+      "etiket": "speech dominant",
+      "etiket_konum": [
+       2000,
+       -1
+      ],
+      "etiket_dy": 26,
+      "etiket_hiza": "middle",
+      "etiket_dx": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sifir",
+      "x": 7000,
+      "y": 0,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "no change",
+      "dy": -10,
+      "cumle": 0,
+      "renk": "gri"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "gurultu_kanallari",
+     "cumle": 5
+    },
+    {
+     "parca": "konusma_kanallari",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Digital noise reduction, or DNR, estimates in each channel whether the signal resembles speech or noise.",
+    "The level of speech rises and falls several times per second with the rhythm of syllables, at around 4 hertz.",
+    "The level of steady noise, such as an air conditioner or engine hum, hardly fluctuates at all.",
+    "By looking at the depth and rate of this fluctuation, the aid estimates the signal-to-noise ratio in each channel.",
+    "Gain is reduced in channels where noise dominates; channels where speech dominates are protected.",
+    "In this example, gain has been lowered by a few decibels in the low-frequency channels, where the hum is strongest.",
+    "But speech and noise present in the same channel at the same time cannot be separated; if gain drops, both drop together.",
+    "So DNR cannot change the signal-to-noise ratio within a channel."
+   ]
+  },
+  {
+   "id": "etki",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Noise reduction",
+   "baslik": "The *real effect* of DNR",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Listening comfort",
+     "cumle": 0,
+     "metin": "Improves in most studies"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Listening effort",
+     "cumle": 2,
+     "metin": "Reduced in some studies"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Intelligibility",
+     "cumle": 3,
+     "metin": "Usually no clear change"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Children",
+     "cumle": 5,
+     "metin": "No negative effect shown"
+    }
+   ],
+   "cumleler": [
+    "Research shows that DNR improves listening comfort and noise tolerance in noisy settings.",
+    {
+     "yazi": "In the 2008 study by Bentler and colleagues, users also found listening easier with DNR switched on."
+    },
+    "Some studies suggest that DNR may reduce listening effort.",
+    "On the other hand, no clear improvement in speech intelligibility in noise has usually been shown.",
+    "In other words, DNR does not make speech more intelligible; it makes the setting more tolerable.",
+    "Studies with children have not reported clear evidence that DNR harms speech perception.",
+    "This information is important for setting the user's expectations realistically."
+   ]
+  },
+  {
+   "id": "yollar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Noise reduction",
+   "baslik": "Ways to *improve SNR*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Remote microphone",
+     "cumle": 0,
+     "metin": "Largest SNR gain"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Directional microphone",
+     "cumle": 2,
+     "metin": "A few decibels"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Proximity and facing",
+     "cumle": 3,
+     "metin": "Reduce the distance"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Room setup",
+     "cumle": 4,
+     "metin": "Move away from noise"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "DNR",
+     "cumle": 5,
+     "metin": "Comfort, not intelligibility"
+    }
+   ],
+   "cumleler": [
+    "The most effective way to understand speech in noise is a remote microphone system, which brings the microphone close to the talker's mouth.",
+    "A remote microphone largely removes the loss caused by distance and reverberation.",
+    "Directional microphones give an improvement of a few decibels under suitable conditions.",
+    "Moving closer to the talker and facing them improves both the signal-to-noise ratio and lipreading.",
+    "In a restaurant, sitting with your back to the noise source or choosing a quiet corner are also simple but effective strategies.",
+    "DNR does not replace these methods; it accompanies them for comfort.",
+    "In counseling, explaining these strategies together with the technology improves the user's real-world success."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Tell users that directionality only works when they face the talker. Use a speech-in-noise test to set expectations in advance.",
+   "cumleler": [
+    "A tip from the field: directional microphones and noise reduction are the features users most often have wrong expectations about.",
+    "Tell the user clearly that directionality only works when they turn to face the talker.",
+    "A speech-in-noise test before fitting shows the person's SNR loss and what can realistically be expected.",
+    "For people with a large SNR loss, bring up remote microphone systems early.",
+    "At the follow-up appointment, check in the software which mode the aid switches to in which setting."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and quiz",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Directionality: two microphones and a delay",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Polar patterns: cardioid, hypercardioid",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Benefit: talker in front, low reverberation",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "DNR gives comfort, not intelligibility",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that a directional microphone uses the time difference between two microphones to suppress sound from behind.",
+    "A polar pattern shows sensitivity by direction; the cardioid null is directly behind, and the hypercardioid nulls are at the rear sides.",
+    "The benefit of directionality is greatest when the talker is in front, the noise is behind and reverberation is low.",
+    "Digital noise reduction improves listening comfort but usually does not clearly change speech intelligibility in noise."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and quiz",
+   "soru": "Where is the null of a cardioid pattern?",
+   "secenekler": [
+    "Straight ahead",
+    "At the sides, 90 degrees",
+    "Directly behind, 180 degrees",
+    "The pattern has no null"
+   ],
+   "dogru": 2,
+   "aciklama": "A cardioid pattern suppresses sound from directly _behind_ the most.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a cardioid polar pattern, in which direction is the null, the point of lowest sensitivity?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: directly behind, at 180 degrees.",
+    "In a hypercardioid pattern, the nulls are at about 110 and 250 degrees, that is, at the rear sides."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Acoustic *Feedback* and the Occlusion Effect",
+   "cikis": 2.5,
+   "cumleler": [
+    "Next, we will look at acoustic feedback, which causes whistling, and the occlusion effect, which makes one's own voice sound boomy.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

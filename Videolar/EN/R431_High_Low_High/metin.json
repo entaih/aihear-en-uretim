@@ -1,0 +1,103 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R431_High_Low_High_EN",
+ "kapak": {
+  "ust": "QUICK FACT #431",
+  "baslik": "High, low, *high*",
+  "alt": "The frequency pattern test",
+  "cizim": "beyin_yan",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can one-sided cortical damage lower scores in both ears? #shorts",
+  "aciklama": "In the frequency pattern test, two tones, one high and one low, are arranged into sequences of three, and the person says the sequence in words. Labeling a pattern requires the right hemisphere to perceive it and the left hemisphere to put it into language; so even with a cortical lesion in one hemisphere, scores often drop in both ears, while humming it back correctly points to a problem with interhemispheric transfer.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "APD",
+   "brain"
+  ],
+  "etiketler": [
+   "frequency pattern test",
+   "auditory processing disorder",
+   "interhemispheric transfer",
+   "temporal pattern",
+   "central auditory tests",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can one-sided cortical damage lower scores in both ears?",
+  "bilgiler": [
+   "The right hemisphere perceives the pattern, the left labels it.",
+   "With a one-sided cortical lesion, scores often drop in both ears.",
+   "Humming it back correctly suggests a transfer problem."
+  ],
+  "hashtag": [
+   "audiology",
+   "APD",
+   "brain"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #431",
+   "metin": "Both *ears?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can one-sided cortical damage lower scores in both ears?"
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "zincir",
+   "baslik": "Frequency *pattern*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Sequence",
+     "tr": "high, low, high",
+     "cumle": 0
+    },
+    {
+     "ad": "Right hemisphere",
+     "tr": "perceives the pattern",
+     "cumle": 1
+    },
+    {
+     "ad": "Left hemisphere",
+     "tr": "puts it into words",
+     "cumle": 2
+    }
+   ],
+   "alt": "Humming is _a clue_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "In the frequency pattern test, the person names high and low tones.",
+    "The right hemisphere first perceives the pattern.",
+    "To name it, the information must reach the left hemisphere, for language.",
+    "So even a one-sided lesion often lowers scores in both ears.",
+    "If the person hums it back correctly, a transfer problem is suspected."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D252",
+ "kaynak_baslik": "APD Test Battery: Dichotic, Temporal, Low-Redundancy"
+}

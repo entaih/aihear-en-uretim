@@ -1,0 +1,970 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D279_Case_First_Hearing_Aid_Older_Adult_EN",
+ "kapak": {
+  "ust": "LESSON 279",
+  "baslik": "Case: a first<br>*hearing aid*",
+  "alt": "An older adult, from needs to follow-up",
+  "cizim": "isitme_cihazi"
+ },
+ "youtube": {
+  "baslik": "Case: An Older Adult's First Hearing Aid Journey | Lesson 279 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional case, we follow an older adult who will use a hearing aid for the first time: needs assessment, concrete goals with the COSI, barriers and supports, device selection, verification with NAL-NL2 and real-ear measurement, the first fitting day, acclimatization, data logging and follow-up appointments.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Dillon, Hearing Aids; Dillon et al., Client Oriented Scale of Improvement (1997); Keidser et al., The NAL-NL2 prescription procedure (2011); ASHA, Hearing Aids for Adults; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "casestudy"
+  ],
+  "etiketler": [
+   "first hearing aid",
+   "first-time user",
+   "acclimatization",
+   "follow-up",
+   "COSI",
+   "NAL-NL2",
+   "real-ear measurement",
+   "data logging",
+   "age-related hearing loss",
+   "audiology case study",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 279",
+   "baslik": "Case: a first *hearing aid*",
+   "alt": "An older adult, from needs to follow-up",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we follow, from start to finish, an older adult who will use a hearing aid for the first time.",
+    "We will cover needs assessment and personal goals, verification with NAL-NL2 and real-ear measurement, acclimatization and follow-up visits."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Needs assessment",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "A seventy-two-year-old example woman",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Comes with her husband",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "TV volume is _a source of arguments_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Loses track at family dinners",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Struggles to understand her grandchildren",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 0,
+    "ayar": {
+     "yalniz_cumle": 3
+    }
+   },
+   "cumleler": [
+    "Our case is fictional: a seventy-two-year-old woman comes in for a hearing aid assessment.",
+    "She came with her husband, who says that in recent years she gives wrong answers to questions and often asks for repeats.",
+    "Because she turns the TV up very loud, there are sometimes arguments at home.",
+    "She struggles most at family dinners; when several people talk at once, she loses the conversation and falls silent.",
+    "She has trouble understanding her grandchildren's high voices, and this upsets her.",
+    "She is willing to try hearing aids, but she has concerns about appearance, learning to use them, and cost."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "Needs assessment",
+   "baslik": "Bilateral *symmetric* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Bone conduction: _overlaps_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       40,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       40,
+       55,
+       60,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       20,
+       30,
+       40,
+       50,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Otoscopy and tympanograms are normal in both ears; the audiogram shows a loss sloping toward the high frequencies in both ears.",
+    "Bone conduction overlaps air conduction; the loss is sensorineural, with no significant asymmetry between the ears.",
+    "The pure-tone average is about forty decibels in both ears; the loss is mild in the lows and moderate to severe in the highs.",
+    "Word recognition scores are eighty-four percent on the right and eighty percent on the left; consistent with the loss.",
+    "This picture may fit age-related hearing loss; an ENT exam was also done, and no barrier to hearing aids was reported.",
+    "The loss at the frequencies that carry high consonants fits her difficulty in crowds and with high voices."
+   ]
+  },
+  {
+   "id": "cosi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Needs assessment",
+   "baslik": "*Concrete* goals with the COSI",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Family dinner",
+     "metin": "Joining the conversation",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Television",
+     "metin": "Without disturbing her husband",
+     "cumle": 2
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Telephone",
+     "metin": "Weekly call with her daughter",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Grandchildren",
+     "metin": "Understanding questions the first time",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "With the Client Oriented Scale of Improvement, or COSI, we set the person's own goals.",
+    "The person chooses up to five specific situations to improve; the first goal is joining the conversation at Sunday family dinners.",
+    "The second goal is watching TV at a volume that does not disturb her husband.",
+    "The third goal is having weekly phone calls with her daughter without strain.",
+    "The fourth goal is understanding her grandchildren's questions the first time.",
+    "Goals are written as concretely as possible and ranked by importance; each will be assessed separately at follow-up."
+   ]
+  },
+  {
+   "id": "engel",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Needs assessment",
+   "baslik": "Barriers and *supports*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Vision",
+     "metin": "Seeing small parts",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Manual dexterity",
+     "metin": "Inserting, changing batteries",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Expectations",
+     "metin": "Limits in noise",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Husband's support",
+     "metin": "A strong resource",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Vision problems can make small parts and buttons hard to see; in our case, she uses reading glasses.",
+    "She says that, because of stiff finger joints, she may struggle to change small batteries.",
+    "We talk about expectations: hearing aids will help in noise too, but they will not bring hearing back to normal.",
+    "Her concerns are taken seriously; the look and use of the devices are explored together with sample devices.",
+    "Her husband's willingness is a great support; he is encouraged to attend the fitting and follow-up visits."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Selection and verification",
+   "baslik": "Device *selection*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bilateral",
+     "metin": "Symmetric loss, both ears",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Open fit",
+     "metin": "Good lows, high loss",
+     "cumle": 3
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Rechargeable",
+     "metin": "No battery changes",
+     "cumle": 4
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "TV connection",
+     "metin": "Wireless streaming",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Because the loss is symmetric in both ears, bilateral hearing aids are recommended.",
+    "Listening with two ears helps with understanding in noise and finding where sound comes from.",
+    "Selection weighs the loss, the ear canal, dexterity, vision and the person's preferences together.",
+    "With a mild low-frequency loss, a behind-the-ear device with the receiver in the canal and an open fit may be a suitable option.",
+    "Because her dexterity is limited, a rechargeable model removes the trouble of changing batteries.",
+    "For the TV goal, wireless streaming or a TV accessory is discussed.",
+    "Options are explained with their benefits and limits; the decision is made together with her and her husband."
+   ]
+  },
+  {
+   "id": "rem",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Selection and verification",
+   "baslik": "Real-ear *measurement*",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "prob_tupu",
+     "metin": "probe tube",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "metin": "reference microphone",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_tupu",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_cihazi",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Prescription: _NAL-NL2_",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "_Measurement_, not estimate",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Compare with the target",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "The device is set to her audiogram with NAL-NL2, the prescription formula of Australia's National Acoustic Laboratories.",
+    "But the software estimate does not fully show the sound produced in her own ear canal.",
+    "So a thin probe tube is placed in the ear canal, near the tympanic membrane, and measurements are made with the device in place.",
+    "With a speech-like signal from a loudspeaker, the sound level in the ear canal is measured and compared with the target.",
+    "Real-ear measurement shows whether the device reaches the prescription target; this is called verification."
+   ]
+  },
+  {
+   "id": "rem_grafik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Selection and verification",
+   "baslik": "Target and *measured*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Gain (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        4
+       ],
+       [
+        500,
+        8
+       ],
+       [
+        1000,
+        16
+       ],
+       [
+        2000,
+        24
+       ],
+       [
+        3000,
+        27
+       ],
+       [
+        4000,
+        28
+       ],
+       [
+        6000,
+        26
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "target",
+      "cumle": 0
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        4
+       ],
+       [
+        500,
+        7
+       ],
+       [
+        1000,
+        13
+       ],
+       [
+        2000,
+        16
+       ],
+       [
+        3000,
+        17
+       ],
+       [
+        4000,
+        16
+       ],
+       [
+        6000,
+        12
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "first fit",
+      "cumle": 1
+     },
+     {
+      "ad": "son",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        500,
+        8
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        22
+       ],
+       [
+        3000,
+        23
+       ],
+       [
+        4000,
+        23
+       ],
+       [
+        6000,
+        19
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "after adjustment",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "alt_bolge",
+      "x": [
+       250,
+       2000
+      ],
+      "renk": "sari",
+      "etiket": "up to 2 kHz: plus or minus 5 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "First fit: _below target_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "After adjustment: _near target_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Write the reason in the file",
+     "cumle": 6,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "In the chart, the navy dashed line shows a sample prescription target for average speech.",
+    "The red line is the measurement with the manufacturer's first fit; it is clearly below target, especially from two thousand hertz up.",
+    "Research shows that manufacturers' first-fit settings often fall below the prescription target.",
+    "The measurement after adjustment, the green line, is within five decibels of the target up to two thousand hertz.",
+    "A common approach is for the measurement to be within plus or minus five decibels of target, especially up to two thousand hertz.",
+    "For this first-time user, gain left a little below target in the high frequencies will be raised step by step as she acclimatizes.",
+    "Every measurement, and the reason for any deliberate departure from target, is written in the file."
+   ]
+  },
+  {
+   "id": "ilk_gun",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "First day and acclimatization",
+   "baslik": "The first *fitting day*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Physical fit",
+     "metin": "Comfortable, any leakage?",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Verification",
+     "metin": "Real-ear measurement",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Insert and remove",
+     "metin": "With her own hands",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Care and charging",
+     "metin": "A simple routine",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Phone and TV",
+     "metin": "Try them out",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The first fitting day starts with physical fit: is the device comfortable, is there pressure in the canal, is there feedback?",
+    "Then fit to target is verified with the real-ear measurement we have just seen.",
+    "She inserts and removes the devices several times with her own hands, while her husband watches.",
+    "Care steps such as charging, cleaning and changing domes are explained as a simple routine and given in writing.",
+    "Phone calls and the TV connection are tried in the clinic, so the first try at home does not end in disappointment.",
+    "Understanding of key information is checked by having her repeat it in her own words."
+   ]
+  },
+  {
+   "id": "alisma",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "First day and acclimatization",
+   "baslik": "The acclimatization *process*",
+   "maddeler": [
+    {
+     "metin": "New sounds may seem _loud and artificial_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Regular use all day",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Quiet places first, then crowds",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Her own voice may sound different",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Gain is raised step by step",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "All day",
+      "metin": "Regular use",
+      "cumle": 2
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Home first",
+      "metin": "Then crowds",
+      "cumle": 3
+     }
+    ],
+    "ust": "ACCLIMATIZATION"
+   },
+   "cumleler": [
+    "The brain readjusting to sounds it has not heard for years is called acclimatization.",
+    "In the first days, rustling paper, running water and footsteps may seem unusually loud and artificial; this is expected.",
+    "The most effective way to acclimatize is to wear the devices regularly all day, not only in difficult places.",
+    "Starting at home and in quiet places in the first days, then moving to crowded places, puts the person at ease.",
+    "Her own voice sounding different is also a common complaint, and it often fades with time or is fixed by adjustment.",
+    "At follow-up visits, gain is raised step by step toward target, as comfort allows."
+   ]
+  },
+  {
+   "id": "strateji",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "First day and acclimatization",
+   "baslik": "Communication *strategies*",
+   "maddeler": [
+    {
+     "metin": "Get her attention before speaking",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Face to face, same room",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "If not understood, _rephrase_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reduce background noise",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Choose a quiet corner in noise",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kalabalik",
+      "baslik": "For her husband",
+      "metin": "Strategies for both",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Written summary",
+      "metin": "Taken home",
+      "cumle": 4
+     }
+    ],
+    "ust": "TOGETHER"
+   },
+   "cumleler": [
+    "Hearing aids alone are not enough; we teach her and her husband some strategies: get her attention by name before speaking.",
+    "Speak face to face, where she can see your face, instead of calling from another room.",
+    "When a sentence is not understood, say it again in other words instead of shouting the same sentence.",
+    "Turn down the TV or radio while talking.",
+    "At family dinners, sitting where she can see everyone, away from noise sources, also helps the first goal."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "On the first day, do not end the visit until the person has inserted and removed the device several times by hand; include the spouse too.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the field: on the fitting day, do not end the visit until the person has inserted and removed the device several times herself.",
+    "A device she cannot put in cannot be used at home; this is one of the common reasons for giving up in the first weeks.",
+    "When a spouse or caregiver also sees these steps, small problems can be solved at home.",
+    "A short phone call in the first days after fitting catches small problems before they grow."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up",
+   "baslik": "Follow-up *appointments*",
+   "adimlar": [
+    {
+     "ikon": "telefon",
+     "baslik": "First days",
+     "metin": "Short phone call",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "First weeks",
+     "metin": "Comfort, fine-tuning",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Data logging",
+     "metin": "Daily hours",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "A few months later",
+     "metin": "COSI, questionnaires",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Regular checks",
+     "metin": "Audiogram and device",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the first days after fitting, a short phone call asks how use is going.",
+    "The check in the first weeks covers comfort, sound quality and problems with use; fine-tuning is done if needed.",
+    "The device's data logging objectively shows daily hours of use and the settings it was used in.",
+    "A few months later, outcomes are assessed with the COSI goals and standard questionnaires.",
+    "The timing of follow-up appointments is planned by the clinic's protocol and the person's needs.",
+    "After that, audiogram and device checks continue at regular intervals."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up",
+   "baslik": "Data logging: the *weeks*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Week 1",
+      "2": "Week 2",
+      "3": "Week 3",
+      "4": "Week 4"
+     },
+     "ad": "Week"
+    },
+    "y": {
+     "min": 0,
+     "max": 12,
+     "adim": 2,
+     "ad": "Daily use (hours)"
+    },
+    "seriler": [
+     {
+      "ad": "saat",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        3.5
+       ],
+       [
+        2,
+        5
+       ],
+       [
+        3,
+        7
+       ],
+       [
+        4,
+        8.5
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dorduncu",
+      "x": 4,
+      "y": 8.5,
+      "etiket": "8.5 hours",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Low use: _ask why_",
+     "cumle": 4,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_Collaboration_, not policing",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "This chart shows the average daily hours of use in our case over the first four weeks.",
+    "In the first week the devices were used for an average of three and a half hours a day, mostly only while watching TV in the evening.",
+    "In the phone call, the importance of all-day use was explained again.",
+    "By the fourth week, daily use rises to eight and a half hours.",
+    "Short hours of use may signal discomfort, expectations or a physical problem; the reason is always asked.",
+    "The log is not a policing tool but the starting point for solving problems together with the person."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up",
+   "baslik": "The *COSI* at three months",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Family dinner",
+     "metin": "Much better",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Television",
+     "metin": "Much better",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Telephone",
+     "metin": "Slightly better",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Grandchildren",
+     "metin": "Better",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "At three months, she rates joining the conversation at family dinners as much better.",
+    "The TV is now at a level that does not disturb her husband; this goal is also much better.",
+    "Change on the phone has been limited; the phone listening setting and wireless connection will be worked on again.",
+    "There is also a clear improvement in understanding her grandchildren's questions.",
+    "Looking goal by goal clearly shows what works and which areas still need work.",
+    {
+     "yazi": "Overall satisfaction is also measured with a short questionnaire such as the International Outcome Inventory for Hearing Aids, or IOI-HA.",
+     "ses": "Overall satisfaction is also measured with a short questionnaire such as the International Outcome Inventory for Hearing Aids, or I O I H A."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Needs assessment and concrete COSI goals",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "NAL-NL2 target, verified by real-ear measurement",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Acclimatization: all-day use, gradual gain",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Planned follow-up, data logging, outcomes",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "The first hearing aid process starts with a needs assessment involving the person and family, and concrete COSI goals.",
+    "The device is set with a prescription formula, and its fit to target is verified by real-ear measurement.",
+    "For acclimatization, regular all-day use is advised; gain is brought toward target step by step if needed.",
+    "Planned follow-up visits, data logging and outcome assessment with the COSI complete the process."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "The manufacturer's first fit is below target. What next?",
+   "secenekler": [
+    "Leave it as it is",
+    "Bring it to target with REM",
+    "Change the device",
+    "Turn the gain off"
+   ],
+   "dogru": 1,
+   "aciklama": "Real-ear measurement verifies _fit to target_; for a first-time user, gain can be raised step by step.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: on real-ear measurement, the manufacturer's first fit is clearly below target in the highs. What should be done?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the fitting is brought toward target, guided by real-ear measurement.",
+    "For a first-time user, gain may be kept slightly low for comfort at first; but the plan is to reach target step by step."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: The *Dissatisfied* Hearing Aid User",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case we will work step by step through the complaint of a user who is not satisfied with their hearing aid.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

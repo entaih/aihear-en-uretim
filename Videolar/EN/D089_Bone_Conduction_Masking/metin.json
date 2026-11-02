@@ -1,0 +1,811 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D089_Bone_Conduction_Masking_EN",
+ "kapak": {
+  "ust": "LESSON 89",
+  "baslik": "Bone conduction<br>*masking*",
+  "alt": "When is it needed? The occlusion effect",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      40,
+      40,
+      40,
+      35,
+      40,
+      45
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "kemik",
+     "degerler": [
+      5,
+      10,
+      10,
+      10,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "When Is Bone-Conduction Masking Needed? | Lesson 89 | AIHEAR Audiology Academy",
+  "aciklama": "In bone conduction, interaural attenuation is about zero, so an unmasked bone conduction threshold does not tell us which ear it belongs to. In this lesson we use sample audiograms to work through the bone conduction masking rule, how to read the air-bone gap, the occlusion effect correction and the two possible outcomes.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "masking",
+   "boneconduction"
+  ],
+  "etiketler": [
+   "bone conduction masking",
+   "unmasked bone conduction",
+   "air-bone gap",
+   "occlusion effect",
+   "clinical masking",
+   "test ear",
+   "non-test ear",
+   "pure tone audiometry",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 89",
+   "baslik": "When Is Bone-Conduction *Masking* Needed?",
+   "alt": "The air-bone gap and the occlusion effect",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn how we decide when masking is needed in bone conduction testing.",
+    "Using sample audiograms, we will look at the occlusion effect and the two possible outcomes of masked bone conduction."
+   ]
+  },
+  {
+   "id": "belirsizlik",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The problem",
+   "baslik": "Bone conduction stimulates *both* cochleae",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 0,
+    "test_kulak": "sol"
+   },
+   "vurgula": [
+    {
+     "parca": "kafatasi",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 2
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: about 0 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "metin": "TE cochlea",
+     "cumle": 2
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "NTE cochlea",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Unmasked bone conduction: _the better cochlea_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Which ear? _Unknown_",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Even when the bone vibrator sits on the mastoid of the test ear, its vibration is not confined to that side.",
+    "The skull vibrates as a whole; in bone conduction, interaural attenuation, or IA, is taken as about zero decibels.",
+    "So the vibrator stimulates the cochlea of the test ear, or TE, and of the non-test ear, or NTE, almost equally.",
+    "For this reason, an unmasked bone conduction threshold reflects whichever of the two cochleae is better.",
+    "Looking at an unmasked bone conduction threshold, we cannot say which ear it belongs to.",
+    "The purpose of bone conduction masking is to show whether the threshold really belongs to the test ear."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The problem",
+   "baslik": "The real question: is the *gap* real?",
+   "maddeler": [
+    {
+     "metin": "Air-bone gap: is it _conductive_?",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Unmasked bone may come from _the other ear_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "False gap: _wrong type_ of loss",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "GOAL",
+    "metin": "Prove that the gap belongs to *the test ear*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "The main reason we measure bone conduction is to determine the type of loss from the air-bone gap.",
+    "When a gap appears in the test ear, the unmasked bone conduction may actually come from the better cochlea of the opposite ear.",
+    "In that case, the true bone conduction threshold of the test ear may be much worse than what we see.",
+    "A sensorineural loss can then look like a conductive or mixed loss because of a false air-bone gap.",
+    "Bone conduction masking shows whether the gap seen in the test ear really belongs to that ear."
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "The masking rule",
+   "baslik": "The *rule* for bone conduction",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "TE air conduction",
+     "metin": "Start with this threshold",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Unmasked bone conduction",
+     "metin": "Subtract this threshold",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Is the gap significant?",
+     "metin": "If greater than 10 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Mask the NTE",
+     "metin": "Retest TE bone conduction",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The bone conduction rule starts with the air conduction threshold of the test ear.",
+    "From this threshold, we subtract the unmasked bone conduction threshold at the same frequency; the result is the TE air-bone gap.",
+    "Many guidelines call for masking when the gap is greater than ten decibels, that is, fifteen or more in five decibel steps.",
+    "The British Society of Audiology, or BSA, is more cautious and recommends masking for a gap of ten decibels or more.",
+    "If masking is needed, the noise goes to the NTE and the bone conduction threshold of the TE is measured again.",
+    "As in air conduction, we decide for each frequency; bone conduction is usually tested from two hundred fifty to four thousand hertz."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "The masking rule",
+   "baslik": "Air conduction and *bone conduction* rules",
+   "sol": {
+    "ust": "Air conduction rule",
+    "maddeler": [
+     {
+      "metin": "TE air minus _NTE bone_",
+      "cumle": 0
+     },
+     {
+      "metin": "Criterion: _IA_, 40 or 55 dB",
+      "cumle": 1
+     },
+     {
+      "metin": "Question: does sound _cross over?_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Bone conduction rule",
+    "maddeler": [
+     {
+      "metin": "TE air minus _unmasked bone_",
+      "cumle": 3
+     },
+     {
+      "metin": "Criterion: _a significant gap_",
+      "cumle": 4
+     },
+     {
+      "metin": "Question: _whose_ bone conduction?",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "In the air conduction rule, we compared the air conduction threshold of the test ear with the bone conduction threshold of the opposite ear.",
+    "If the difference reached forty decibels with supra-aural earphones or about fifty five with inserts, masking was needed.",
+    "Our question was whether the test sound reached the opposite cochlea.",
+    "In the bone conduction rule, we compare the air conduction and unmasked bone conduction of the same ear.",
+    "Since IA is already zero, the criterion is not an attenuation value but a significant air-bone gap.",
+    "Our question changes too: does this bone conduction threshold really belong to the test ear?"
+   ]
+  },
+  {
+   "id": "tolerans",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The masking rule",
+   "baslik": "No gap, no *masking* needed",
+   "maddeler": [
+    {
+     "metin": "Bone _cannot be worse_ than air",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Small gap: _test variability_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Symmetric sensorineural: often _not needed_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DECISION",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Small gap",
+      "metin": "10 dB or less: not needed",
+      "cumle": 1
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Significant gap",
+      "metin": "15 dB or more: mask",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The true bone conduction threshold of an ear cannot be significantly worse than its own air conduction threshold.",
+    "So if there is no gap in the test ear, the loss is read as sensorineural, whichever ear the unmasked bone conduction belongs to.",
+    "Small differences of five or ten decibels can fall within the natural variability of bone conduction testing.",
+    "Once the gap goes beyond this limit, masking is essential, because whose threshold it is can change the type of loss.",
+    "When both ears have a symmetric sensorineural loss, bone conduction masking is often not needed."
+   ]
+  },
+  {
+   "id": "okluzyon",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The occlusion effect",
+   "baslik": "A covered ear *boosts the lows*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Occluded ear canal",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "Low-frequency sound is boosted",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In bone conduction masking, we deliver the noise to the NTE through an earphone, so the NTE ear canal is covered.",
+    "When the skull vibrates, the walls of the ear canal also vibrate and radiate sound into the canal.",
+    "When the ear canal is open, this sound, especially its low-frequency part, escapes.",
+    "When the canal is covered, this energy stays inside and the low-frequency sound reaching the cochlea grows; this is the occlusion effect.",
+    "As a result, the covered NTE starts to hear low tones delivered by bone conduction better.",
+    "So to mask the NTE adequately, we need to add a correction to the noise at low frequencies.",
+    "The effect is largest between two hundred fifty and one thousand hertz; at higher frequencies it can be ignored."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The occlusion effect",
+   "baslik": "Occlusion *correction* (dB)",
+   "sutunlar": [
+    "Frequency",
+    "Supra-aural",
+    "Deep insert"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "30",
+      "about 10"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "20",
+      "0 to 10"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "10",
+      "about 0"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz and above",
+      "0",
+      "0"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The size of the correction depends on the type of earphone covering the ear and on frequency.",
+    "For supra-aural earphones, a commonly used value is thirty decibels at two hundred fifty hertz.",
+    "At five hundred hertz, twenty decibels are added, and at one thousand hertz, ten.",
+    "At two thousand hertz and above, no correction is needed.",
+    "With an insert earphone whose foam tip sits deep in the canal, the occlusion effect is much smaller; values vary by source.",
+    "This is another advantage of insert earphones in bone conduction masking."
+   ]
+  },
+  {
+   "id": "eklenmez",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The occlusion effect",
+   "baslik": "When is the correction *not* added?",
+   "maddeler": [
+    {
+     "metin": "If the NTE has _conductive_ loss",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_Above_ 1000 Hz",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Individual measure: _open and occluded_ thresholds",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "orta_kulak",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "If the NTE has a conductive loss, the occlusion effect is either absent or very small.",
+    "This ear already has a conductive block, so covering the canal changes little; in this case no correction is added.",
+    "The occlusion correction is also not used at frequencies above one thousand hertz.",
+    "Some clinics calculate the patient's own occlusion effect from bone conduction thresholds measured with the ear open and covered.",
+    "This individual method gives a more accurate correction than average values."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Sample audiograms",
+   "baslik": "Example: a *gap* in the left ear",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_ (TE): air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "Unmasked bone conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       40,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "In this example, the air conduction thresholds of the right ear are normal.",
+    "The air conduction thresholds of the left ear are between thirty five and forty five decibels.",
+    "The unmasked bone conduction thresholds measured from the left mastoid are between five and ten decibels, which is normal.",
+    "At one thousand hertz, the left ear shows a thirty decibel air-bone gap; the gap is above fifteen, so masking is needed.",
+    "The air conduction rule does not call for masking here: the difference is at most thirty five, below forty for supra-aural earphones.",
+    "Now let us mask the right ear and measure left bone conduction again; there are two possible outcomes."
+   ]
+  },
+  {
+   "id": "sonuc_a",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Sample audiograms",
+   "baslik": "Outcome A: *conductive* loss",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left_: masked bone conduction",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       10,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      15,
+      40
+     ],
+     "etiket": "25 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "In the first outcome, even with the right ear masked, the left bone conduction thresholds change by only a few decibels.",
+    "Masked bone conduction for the left ear is marked with a closing square bracket.",
+    "The air-bone gap remains, so the bone conduction really belongs to the left ear.",
+    "This picture shows a conductive loss in the left ear.",
+    "Small shifts of five decibels caused by the noise can be explained by central masking and do not change the result."
+   ]
+  },
+  {
+   "id": "sonuc_b",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Sample audiograms",
+   "baslik": "Outcome B: *sensorineural* loss",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Left_: masked bone conduction",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       35,
+       35,
+       40,
+       35,
+       40
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "In the second outcome, when the right ear is masked, the left bone conduction thresholds rise to thirty five to forty decibels.",
+    "The normal bone conduction we measured without masking actually belonged to the right cochlea.",
+    "The air-bone gap has closed; the loss in the left ear is sensorineural.",
+    "Without masking, this ear would have been wrongly reported as having a conductive loss.",
+    "This difference can completely change the patient's referral and treatment options."
+   ]
+  },
+  {
+   "id": "baslangic",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Sample audiograms",
+   "baslik": "*How* is the initial noise calculated?",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "NTE air conduction",
+     "metin": "Example: 10 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Safety factor",
+     "metin": "Plus 10 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Occlusion",
+     "metin": "Plus 20 dB, 500 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Initial level",
+     "metin": "40 dB EM",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "As we will see in the plateau method lesson, the initial level of the masking noise is the sum of three parts.",
+    "The first part is the NTE air conduction threshold at that frequency; in our example, the right ear, ten decibels at five hundred hertz.",
+    "A safety factor of ten decibels is added to cover differences between individuals.",
+    "If supra-aural earphones are used, an occlusion correction of twenty decibels is also added for five hundred hertz.",
+    {
+     "yazi": "The initial noise is then forty dB EM, that is, forty decibels of effective masking; with insert earphones it is much lower.",
+     "ses": "The initial noise is then forty decibels E.M., that is, forty decibels of effective masking; with insert earphones it is much lower."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Vibrator on the test ear mastoid, noise earphone on the opposite ear. Keep the unused earphone off the test ear, or it will also cause an occlusion effect there.",
+   "cumleler": [
+    "A tip from the clinic: when setting up for bone conduction masking, watch out for two mistakes.",
+    "The vibrator should be on the mastoid of the test ear, and the earphone delivering the noise on the opposite ear.",
+    "The unused earphone is placed on the temple or beside the head, not over the test ear.",
+    "If the test ear is covered, it also gets an occlusion effect and its bone conduction threshold improves falsely at low frequencies.",
+    "Also make sure the vibrator headband and the earphone headband do not push against each other and that the vibrator does not slip."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Unmasked bone conduction: _the better cochlea_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Mask if the TE has _a significant gap_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Occlusion_ correction at low frequencies",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Gap remains: _conductive_; gap closes: sensorineural",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "In bone conduction, IA is about zero; unmasked bone conduction shows the better of the two cochleae.",
+    "If the test ear has an air-bone gap greater than ten decibels, the NTE is masked; the BSA recommends this from ten decibels.",
+    "A covered NTE gets an occlusion effect; with supra-aural earphones, thirty, twenty and ten decibels are added at low frequencies.",
+    "If the gap remains with masked bone conduction, the loss is conductive; if the gap closes, it is sensorineural."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "TE air conduction 45, unmasked bone conduction 10 dB. What do we do?",
+   "secenekler": [
+    "No masking needed",
+    "Mask NTE, retest TE bone",
+    "Mask the TE"
+   ],
+   "dogru": 1,
+   "aciklama": "The gap is 35 dB; the NTE is masked to learn _which ear_ the bone conduction belongs to.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: In the test ear, air conduction is forty five and unmasked bone conduction is ten decibels. What should we do?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the NTE is masked and the bone conduction of the TE is measured again.",
+    "A thirty five decibel gap is significant; unmasked bone conduction may belong to the opposite cochlea, so masking is essential."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Effective Masking* Level: Minimum and Maximum",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn about effective masking and how to calculate the least and the most noise we can use.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

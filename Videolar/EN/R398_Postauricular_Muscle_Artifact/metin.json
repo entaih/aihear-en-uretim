@@ -1,0 +1,234 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R398_Postauricular_Muscle_Artifact_EN",
+ "kapak": {
+  "ust": "QUICK FACT #398",
+  "baslik": "Wave or *muscle?*",
+  "alt": "The postauricular muscle reflex",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 80,
+    "ad": "Time (ms)",
+    "isaretler": [
+     0,
+     10,
+     20,
+     30,
+     40,
+     50,
+     60,
+     70,
+     80
+    ]
+   },
+   "y": {
+    "min": -1.2,
+    "max": 1.2,
+    "adim": 0.5,
+    "ad": "Amplitude (µV)",
+    "ond": 1
+   },
+   "seriler": [
+    {
+     "ad": "mlr",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       3,
+       0.1
+      ],
+      [
+       6,
+       0.25
+      ],
+      [
+       8,
+       0.1
+      ],
+      [
+       12,
+       -0.2
+      ],
+      [
+       18,
+       -0.6
+      ],
+      [
+       23,
+       -0.1
+      ],
+      [
+       30,
+       0.75
+      ],
+      [
+       36,
+       0.2
+      ],
+      [
+       42,
+       -0.45
+      ],
+      [
+       47,
+       0.0
+      ],
+      [
+       52,
+       0.5
+      ],
+      [
+       60,
+       0.1
+      ],
+      [
+       70,
+       0
+      ],
+      [
+       80,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 0
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "abr_v",
+     "x": 6,
+     "y": 0.25,
+     "etiket": "ABR V",
+     "cumle": 1
+    },
+    {
+     "ad": "na",
+     "x": 18,
+     "y": -0.6,
+     "etiket": "Na",
+     "cumle": 2
+    },
+    {
+     "ad": "pa",
+     "x": 30,
+     "y": 0.75,
+     "etiket": "Pa",
+     "cumle": 3
+    },
+    {
+     "ad": "nb",
+     "x": 42,
+     "y": -0.45,
+     "etiket": "Nb",
+     "cumle": 4
+    },
+    {
+     "ad": "pb",
+     "x": 52,
+     "y": 0.5,
+     "etiket": "Pb",
+     "cumle": 4
+    }
+   ],
+   "araliklar": [
+    {
+     "ad": "na_pa",
+     "y": [
+      -0.6,
+      0.75
+     ],
+     "xk": 33,
+     "etiket": "Na-Pa amplitude",
+     "cumle": 5
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Could what looks like a brain wave be a muscle contraction? #shorts",
+  "aciklama": "The best-known pitfall in middle latency response (MLR) recording is the reflex contraction of the postauricular muscle in response to sound. This muscle response appears at about 13 milliseconds, is large, and can blend into the Na-Pa region as a misleading wave; if it is taken for a true Pa, a central problem may be missed.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "electrophysiology",
+   "MLR"
+  ],
+  "etiketler": [
+   "middle latency response",
+   "MLR",
+   "Pa wave",
+   "muscle artifact",
+   "postauricular muscle",
+   "evoked potentials",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Could what looks like a brain wave be a muscle contraction?",
+  "bilgiler": [
+   "The postauricular muscle contracts reflexively to sound.",
+   "The muscle response appears at about 13 milliseconds and is large.",
+   "It can blend into the Na-Pa region as a false wave."
+  ],
+  "hashtag": [
+   "audiology",
+   "electrophysiology",
+   "MLR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #398",
+   "metin": "Wave or *muscle?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Could what looks like a brain wave be a muscle contraction?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Timing of the *muscle response*",
+   "sayi": "13",
+   "birim": "ms",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The best-known pitfall in middle latency response recording is a muscle.",
+    "The postauricular muscle contracts reflexively in response to sound.",
+    "This muscle response appears at about thirteen milliseconds.",
+    {
+     "yazi": "Mistaken for a true Pa, it can hide a central problem.",
+     "ses": "Mistaken for a true P A, it can hide a central problem."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D200",
+ "kaynak_baslik": "Middle Latency Response (MLR)"
+}

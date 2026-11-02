@@ -1,0 +1,152 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D038_dB_SPL_HL_SL_EN",
+  "kapak": {
+    "ust": "LESSON 38",
+    "baslik": "SPL, HL<br>and *SL*",
+    "alt": "Which decibel, and when?",
+    "cizim": "desibel_olcegi"
+  },
+  "youtube": {
+    "baslik": "dB SPL vs dB HL vs dB SL: When to Use Which | Lesson 38 | AIHEAR Audiology Academy",
+    "aciklama": "A decibel is always measured against a reference. In this lesson, we use examples to look at the difference between sound pressure level (dB SPL), hearing level (dB HL) and sensation level (dB SL), at RETSPL values and at what the 0 dB HL line on the audiogram really means.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; ISO 389-1, Acoustics: Reference zero for the calibration of audiometric equipment; ANSI S3.6, Specification for Audiometers.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "decibel", "hearing"],
+    "etiketler": ["dB SPL", "dB HL", "dB SL", "decibel", "RETSPL", "sound pressure level", "hearing level", "sensation level", "audiogram", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 38", "baslik": "dB SPL vs dB HL vs dB SL: When to Use *Which*", "alt": "Which decibel to use, when and why",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn to tell apart the three decibel scales most often confused in audiology: SPL, HL and SL.",
+       "We will also see what the zero decibel line on the audiogram really means."]},
+
+    {"id": "oran", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "The decibel is a ratio", "baslik": "The decibel is *always* a ratio", "maddeler": [{"metin": "A logarithmic _ratio_ scale", "cumle": 0, "ikon": "grafik"}, {"metin": "Always relative to a _reference_", "cumle": 1, "ikon": "dikkat"}, {"metin": "Turns a huge range into _handy numbers_", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Reference: the SPL, HL or SL label", "cumle": 3, "ikon": "rapor"}], "yan": {"tur": "kart", "ust": "RULE", "metin": "A decibel without its label is *incomplete* information", "cumle": 4},
+     "cumleler": [
+       "The decibel is a scale that expresses the ratio of two values in logarithmic form.",
+       "So a decibel value means nothing on its own; we always have to say what it is measured against.",
+       "The range of pressures the ear can detect is so wide that a logarithmic scale turns it into handy numbers.",
+       "The SPL, HL or SL label next to the decibel tells us what that reference is.",
+       "From a clinical point of view, a decibel value without its reference is incomplete information.",
+       "Now let us look at these three references one by one."]},
+
+    {"id": "spl", "tur": "gorsel", "bolum_no": "PART 2", "bolum": "dB SPL", "baslik": "dB SPL: *sound pressure* level", "cizim": "ses_dalgasi", "ayar": {"frekans_hz": 1000}, "vurgula": [{"parca": "genlik", "cumle": 1}], "etiketler": [{"parca": "genlik", "metin": "amplitude: pressure change", "cumle": 1}], "notlar": [{"metin": "Reference: 20 µPa = 0 dB SPL", "cumle": 2, "ikon": "mikrofon"}, {"metin": "10 times the pressure: +20 dB", "cumle": 4, "ikon": "grafik"}, {"metin": "Twice the pressure: about +6 dB", "cumle": 4, "ikon": "grafik"}],
+     "cumleler": [
+       "dB SPL stands for sound pressure level, and it is a purely physical scale.",
+       "The amplitude of a sound wave shows how large the pressure changes in the air are.",
+       "On the dB SPL scale, the reference is a pressure of twenty micropascals, which is taken as zero dB SPL.",
+       "Twenty micropascals is close to the smallest pressure a healthy young ear can detect at its most sensitive frequencies.",
+       "When pressure increases tenfold, the level rises by twenty decibels; when it doubles, the level rises by about six decibels.",
+       "Sound level meters and calibration equipment measure in dB SPL."]},
+
+    {"id": "olcek", "tur": "gorsel", "bolum_no": "PART 2", "bolum": "dB SPL", "baslik": "Everyday sounds in *dB SPL*", "cizim": "desibel_olcegi", "etiketler": [{"parca": "fisilti", "metin": "whisper: about 30", "cumle": 0}, {"parca": "konusma", "metin": "conversation: about 60", "cumle": 1}, {"parca": "trafik", "metin": "heavy traffic: about 80", "cumle": 2}, {"parca": "konser", "metin": "concert: 100 and above", "cumle": 3}, {"parca": "agri_esigi", "metin": "pain threshold: 120 to 140", "cumle": 4}],
+     "cumleler": [
+       "Let us look at everyday sounds: a soft whisper is around thirty dB SPL.",
+       "Normal conversation at a distance of one meter is about sixty dB SPL.",
+       "Heavy traffic noise can reach eighty dB SPL and more.",
+       "At a concert or in a nightclub, the level can exceed one hundred dB SPL.",
+       "The threshold of pain is usually given in the literature as one hundred twenty to one hundred forty dB SPL.",
+       "These values are approximate and change with the measuring distance."]},
+
+    {"id": "duyarlilik", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "dB SPL", "baslik": "The ear does not hear all frequencies *equally*", "maddeler": [{"metin": "Most sensitive: about _1000 to 4000 Hz_", "cumle": 1, "ikon": "kulak"}, {"metin": "Lows and very highs need _more_ SPL", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Normal threshold curve in SPL: _not flat_", "cumle": 3, "ikon": "grafik"}],
+     "cumleler": [
+       "Our ears are not equally sensitive to all frequencies.",
+       "A young adult with normal hearing is most sensitive between about one thousand and four thousand hertz.",
+       "For low-pitched and very high-pitched sounds, more sound pressure is needed to reach threshold.",
+       "So if we plot normal thresholds in dB SPL, we get not a flat line but a curve shaped like the letter U.",
+       "Depending on how it is measured, this curve is called the minimum audible pressure or the minimum audible field curve.",
+       "To avoid dealing with this curve at every frequency in the clinic, we use another scale: dB HL."]},
+
+    {"id": "hl", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "dB HL and RETSPL", "baslik": "dB HL: a scale relative to *normal*", "maddeler": [{"metin": "Reference: _average threshold_ of normal listeners", "cumle": 0, "ikon": "kalabalik"}, {"metin": "A _different_ sound pressure at each frequency", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "This value is called _RETSPL_", "cumle": 3, "ikon": "tablo"}, {"metin": "The audiometer adds the difference _itself_", "cumle": 5, "ikon": "odyometre"}], "yan": {"tur": "kart", "ust": "0 dB HL", "metin": "The *average* threshold of young normal listeners at that frequency", "cumle": 1},
+     "cumleler": [
+       "dB HL stands for hearing level, and its reference is the human ear.",
+       "Zero dB HL is the average threshold of otologically normal young adults at that frequency.",
+       "This average threshold corresponds to a different sound pressure at each frequency.",
+       "The value at each frequency is called the reference equivalent threshold sound pressure level, or RETSPL.",
+       {"yazi": "RETSPL values are given in international standards such as ISO 389, in separate tables for each earphone type.", "ses": "RETSPL values are given in international standards such as I.S.O three eighty nine, in separate tables for each earphone type."},
+       "When you select a level in HL on the audiometer, the device adds this difference itself and produces the correct sound pressure."]},
+
+    {"id": "retspl", "tur": "tablo", "bolum_no": "PART 3", "bolum": "dB HL and RETSPL", "baslik": "Sample *RETSPL* (TDH-39)", "sutunlar": ["Frequency", "0 dB HL equals"], "satirlar": [{"hucreler": ["250 Hz", "25.5 dB SPL"], "cumle": 1}, {"hucreler": ["500 Hz", "11.5 dB SPL"], "cumle": 1}, {"hucreler": ["1000 Hz", "7 dB SPL"], "cumle": 2, "vurgu": true}, {"hucreler": ["2000 Hz", "9 dB SPL"], "cumle": 4}, {"hucreler": ["4000 Hz", "9.5 dB SPL"], "cumle": 4}, {"hucreler": ["8000 Hz", "13 dB SPL"], "cumle": 4}],
+     "cumleler": [
+       "The table shows RETSPL values for a widely used supra-aural earphone.",
+       "At two hundred fifty hertz, zero dB HL corresponds to about twenty five point five dB SPL.",
+       "At one thousand hertz, the same zero dB HL is only about seven dB SPL.",
+       "So at the low frequency, about eighteen decibels more sound pressure is needed to reach threshold.",
+       "The values depend on the earphone and the measurement setup; insert earphones, for example, have different values."]},
+
+    {"id": "hesap", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "dB HL and RETSPL", "baslik": "From HL to SPL: the *calculation*", "maddeler": [{"metin": "_dB SPL = dB HL + RETSPL_", "cumle": 0, "ikon": "kitap"}, {"metin": "250 Hz, 40 dB HL: _65.5 dB SPL_", "cumle": 1, "ikon": "kulaklik"}, {"metin": "1000 Hz, 40 dB HL: _47 dB SPL_", "cumle": 2, "ikon": "kulaklik"}], "yan": {"tur": "odyogram", "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [40, null, null, null, null, null], "cizgi": false, "cumle": 1}, {"kulak": "sag", "tip": "hava", "degerler": [null, null, 40, null, null, null], "cizgi": false, "cumle": 2}]}},
+     "cumleler": [
+       "A simple formula is worth remembering: decibels SPL equals decibels HL plus the RETSPL value.",
+       "For example, a forty dB HL tone at two hundred fifty hertz produces about sixty five point five dB SPL with this earphone.",
+       "At one thousand hertz, the same forty dB HL is about forty seven dB SPL.",
+       "On the audiogram, the two thresholds appear at the same height, but the physical pressure from the earphone is different.",
+       "The value measured during calibration is in SPL, while the value on the audiometer display is in HL."]},
+
+    {"id": "sifir", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "dB HL and RETSPL", "baslik": "What the zero line *means*", "lejant": [{"isaret": "✓", "renk": "yesil", "metin": "_0 dB HL_: average normal threshold", "cumle": 0}, {"isaret": "O", "renk": "sag", "metin": "_Right ear_: example", "cumle": 2}, {"isaret": "X", "renk": "sol", "metin": "_Left ear_: example", "cumle": 2}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [5, 0, 5, 0, 5, 10], "cumle": 2}, {"kulak": "sol", "tip": "hava", "degerler": [0, 5, 0, 5, 10, 5], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal", "cumle": 0}},
+     "cumleler": [
+       "Because the RETSPL differences are corrected, the average normal threshold falls on the same flat line at every frequency: zero dB HL.",
+       "In this way, normal hearing, which is a curve in SPL, becomes a flat reference in HL.",
+       "In this example, the thresholds of both ears are between zero and ten dB HL, very close to the average normal level.",
+       "Because zero is an average, some people have thresholds of minus five or minus ten dB HL.",
+       "A negative value does not mean there is no sound; it shows that the person is a little more sensitive than average.",
+       "Every deviation on the audiogram directly shows how far hearing departs from average normal hearing."]},
+
+    {"id": "sl", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "dB SL", "baslik": "dB SL: relative to the *person's* threshold", "maddeler": [{"metin": "Reference: _the person's own threshold_", "cumle": 0, "ikon": "hasta"}, {"metin": "_Different_ for each ear and frequency", "cumle": 1, "ikon": "kulak"}, {"metin": "How many dB _above_ threshold?", "cumle": 2, "ikon": "grafik"}, {"metin": "Below threshold: _negative_ SL", "cumle": 5, "ikon": "sessizlik"}], "yan": {"tur": "kart", "ust": "EXAMPLE", "metin": "Threshold 30 dB HL, stimulus 70 dB HL: *40 dB SL*", "cumle": 3},
+     "cumleler": [
+       "dB SL stands for sensation level, and its reference is the person's own threshold.",
+       "So the same stimulus can correspond to very different sensation levels in different people and different ears.",
+       "dB SL tells us how many decibels a sound is above that person's threshold.",
+       "For example, if we present a sound at seventy dB HL to an ear with a threshold of thirty dB HL, that is forty dB SL.",
+       "In an ear with a threshold of ten dB HL, the same seventy dB HL corresponds to sixty dB SL.",
+       "A stimulus below threshold has a negative SL and is not heard by the person."]},
+
+    {"id": "sl_kullanim", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "dB SL", "baslik": "*Where* is SL used?", "maddeler": [{"metin": "Suprathreshold tests", "cumle": 0, "ikon": "kulaklik"}, {"metin": "Word tests: _30 to 40 dB_ above threshold", "cumle": 1, "ikon": "konusma"}, {"metin": "_State_ the reference threshold in reports", "cumle": 4, "ikon": "rapor"}],
+     "cumleler": [
+       "SL is used especially in suprathreshold tests.",
+       "For example, word recognition tests are often given thirty to forty decibels above the speech recognition threshold.",
+       "This approach makes the test equally audible for each patient, relative to their own threshold.",
+       "In people with normal hearing, the acoustic reflex also usually appears about seventy to one hundred decibels above threshold.",
+       "When you report an SL value, stating which threshold it was calculated from ensures the result is read correctly."]},
+
+    {"id": "karsilastirma", "tur": "ikonlar", "bolum_no": "PART 5", "bolum": "The scales together", "baslik": "The scales *side by side*", "ogeler": [{"ikon": "mikrofon", "baslik": "dB SPL", "metin": "Reference: 20 µPa pressure; calibration, noise measurement", "cumle": 0}, {"ikon": "odyogram", "baslik": "dB HL", "metin": "Average normal threshold; audiogram", "cumle": 1}, {"ikon": "kulak", "baslik": "dB SL", "metin": "The person's own threshold; suprathreshold tests", "cumle": 2}, {"ikon": "kalabalik", "baslik": "dB nHL", "metin": "Normal group's threshold; brief stimuli", "cumle": 3}],
+     "cumleler": [
+       "Let us sum up: dB SPL is relative to physical pressure and is used in calibration and noise measurement.",
+       "dB HL is relative to average normal hearing and is the language of the audiogram.",
+       "dB SL is relative to the person's own threshold and is used in suprathreshold tests.",
+       {"yazi": "There is also dB nHL: for brief stimuli such as clicks, it is set relative to the threshold of a normal-hearing group.", "ses": "There is also decibels N H L: for brief stimuli such as clicks, it is set relative to the threshold of a normal-hearing group."},
+       "We will see this scale often in the lessons on the auditory brainstem response, or ABR."]},
+
+    {"id": "hatalar", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "The scales together", "baslik": "Common *mistakes*", "maddeler": [{"metin": "_Mixing up_ SPL and HL", "cumle": 0, "ikon": "yanlis"}, {"metin": "Device output in SPL, thresholds in HL", "cumle": 1, "ikon": "isitme_cihazi"}, {"metin": "_Not stating_ the reference threshold for SL", "cumle": 3, "ikon": "rapor"}],
+     "cumleler": [
+       "One of the most common mistakes with these scales is reading SPL and HL values as if they were the same number.",
+       "For example, hearing aid output is expressed in SPL, while the patient's thresholds are in HL; a conversion is needed between them.",
+       "This conversion is also the basis of the SPL-based audiogram displays we will see in the fitting lessons.",
+       "Another common mistake is not stating which threshold an SL value was calculated from."]},
+
+    {"id": "ipucu", "tur": "ipucu", "bolum_no": "PART 5", "bolum": "The scales together", "baslik": "Clinical tip", "metin": "Do not compare decibels on different scales directly: 85 dB of workplace noise is not the same as 85 dB HL on the audiogram.",
+     "cumleler": [
+       "A tip from practice: do not compare decibel values on different scales directly.",
+       "For example, workplace noise measured at eighty five decibels is a physical value obtained with a sound level meter.",
+       "Eighty five dB HL on the audiogram is relative to a completely different reference.",
+       "In your reports, too, always write the SPL, HL or SL label next to the decibel value."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*", "maddeler": [{"metin": "_dB SPL_: physical pressure, 20 µPa", "cumle": 0, "ikon": "mikrofon"}, {"metin": "_dB HL_: average normal threshold", "cumle": 1, "ikon": "odyogram"}, {"metin": "_RETSPL_: the bridge between HL and SPL", "cumle": 2, "ikon": "tablo"}, {"metin": "_dB SL_: the person's own threshold", "cumle": 3, "ikon": "kulak"}],
+     "cumleler": [
+       "dB SPL is a physical scale with a reference of twenty micropascals.",
+       "dB HL takes the average threshold of normal listeners as zero and is used on the audiogram.",
+       "RETSPL values show how many dB SPL zero dB HL equals at each frequency.",
+       "dB SL tells us how far a sound is above the person's own threshold."]},
+
+    {"id": "test", "tur": "test", "soru": "Threshold 20 dB HL, stimulus 60 dB HL. What is the sensation level?", "secenekler": ["20 dB SL", "40 dB SL", "60 dB SL", "80 dB SL"], "dogru": 1, "aciklama": "SL is how far the stimulus is above the person's _own threshold_: 60 minus 20.",
+     "cumleler": [
+       {"yazi": "Test yourself: If a sixty dB HL tone is presented to an ear with a threshold of twenty dB HL, what is the sensation level?", "sonra_bekle": 5},
+       "The correct answer is B: forty dB SL.",
+       "Sensation level is how far the stimulus is above the person's own threshold; we subtract twenty from sixty."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "Pure Tones vs Complex Sounds: *Fourier* Basics", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will see what sets pure tones apart from complex sounds and learn the basics of Fourier analysis.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

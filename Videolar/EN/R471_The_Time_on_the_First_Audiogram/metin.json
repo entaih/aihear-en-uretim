@@ -1,0 +1,135 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R471_The_Time_on_the_First_Audiogram_EN",
+ "kapak": {
+  "ust": "QUICK FACT #471",
+  "baslik": "First audiogram, *timed*",
+  "alt": "The baseline for comparison in sudden loss",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "hava_maskeli",
+     "degerler": [
+      60,
+      65,
+      70,
+      70,
+      75,
+      80
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "In sudden loss, why does the first audiogram record the time? #shorts",
+  "aciklama": "When a person comes in with sudden hearing loss, the audiogram is recorded with date and time, because later follow-up measurements will be compared with this first value. Being fast does not mean measuring less: air and bone conduction are measured with the masking needed, and the speech recognition threshold and word recognition score are added when possible; an accurate first audiogram is the basis of every later comparison. The referral note first gives the date of onset and, if possible, the time; follow-up measurements use the same method, the same earphones and the same masking rules each time.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "suddenhearingloss",
+   "casestudy"
+  ],
+  "etiketler": [
+   "sudden hearing loss",
+   "follow-up audiogram",
+   "referral note",
+   "pure-tone audiometry",
+   "masking",
+   "case study",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "In sudden loss, why does the first audiogram record the time?",
+  "bilgiler": [
+   "The first audiogram is recorded with date and time.",
+   "Being fast does not mean measuring less.",
+   "Follow-up uses the same method and the same earphones."
+  ],
+  "hashtag": [
+   "audiology",
+   "suddenhearingloss",
+   "casestudy"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #471",
+   "metin": "Why *the time?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "In sudden loss, why does the first audiogram record the time?"
+   ]
+  },
+  {
+   "id": "ilk_olcum",
+   "tur": "zincir",
+   "baslik": "The basis for *comparison*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Date, time",
+     "tr": "recorded",
+     "cumle": 0
+    },
+    {
+     "ad": "Full test",
+     "tr": "masked, with scores",
+     "cumle": 2
+    },
+    {
+     "ad": "Follow-up",
+     "tr": "same conditions",
+     "cumle": 4
+    }
+   ],
+   "alt": "Fast but _complete_",
+   "alt_cumle": 1,
+   "cumleler": [
+    "In sudden loss, the first audiogram is recorded with date and time.",
+    "Being fast does not mean measuring less.",
+    "Air and bone conduction are masked as needed, with speech scores.",
+    "This first audiogram is the basis of every later comparison.",
+    "Follow-up uses the same method, earphones and masking rules."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D276",
+ "kaynak_baslik": "Case: A Patient Presenting with Sudden Hearing Loss"
+}

@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R120_Sounds_Cancel_Out_EN",
+ "kapak": {
+  "ust": "QUICK FACT #120",
+  "baslik": "Two sounds, *silence*",
+  "alt": "Air and bone conduction create the same wave",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can two sounds cancel each other out? #shorts",
+  "aciklama": "In a classic experiment, an air-conduction tone and a bone-conduction tone of the same frequency were presented together. With level and phase adjusted, the tones canceled each other and the listener heard nothing, showing that both routes become the same stimulus in the cochlea.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "boneconduction",
+   "science"
+  ],
+  "etiketler": [
+   "bone conduction",
+   "air conduction",
+   "traveling wave",
+   "cochlea",
+   "phase",
+   "hearing physiology",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can two sounds cancel each other out?",
+  "bilgiler": [
+   "Air and bone conduction tones of the same frequency were played together.",
+   "With level and phase adjusted, the tones canceled each other.",
+   "Both routes create the same traveling wave in the cochlea."
+  ],
+  "hashtag": [
+   "audiology",
+   "boneconduction",
+   "science"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #120",
+   "metin": "Can two sounds *cancel each other?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can two sounds cancel each other out?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "A classic *experiment*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Air",
+     "tr": "air-conduction tone",
+     "cumle": 0
+    },
+    {
+     "ad": "Bone",
+     "tr": "bone-conduction tone",
+     "cumle": 0,
+     "gecikme": 1.6
+    },
+    {
+     "ad": "Silence",
+     "tr": "tones cancel",
+     "cumle": 1
+    }
+   ],
+   "alt": "Two routes, _the same traveling wave_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Air and bone conduction tones of the same frequency were played together.",
+    "With level and phase adjusted, they canceled out; nothing was heard.",
+    "So both routes become the same stimulus in the cochlea.",
+    "Bone conduction creates the same traveling wave as air conduction."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D033",
+ "kaynak_baslik": "How Bone-Conduction Hearing Works"
+}

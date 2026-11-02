@@ -1,0 +1,652 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D294_Tele_Audiology_EN",
+ "kapak": {
+  "ust": "LESSON 294",
+  "baslik": "*Tele*-audiology",
+  "alt": "Remote testing and fitting",
+  "cizim": "test_kabini"
+ },
+ "youtube": {
+  "baslik": "Tele-Audiology: Remote Testing and Fitting | Lesson 294 | AIHEAR Audiology Academy",
+  "aciklama": "How can audiology services be delivered remotely? In this lesson we learn about synchronous and asynchronous tele-audiology, the facilitator model, remote testing and fine-tuning, the limits set by calibration and background noise, and the regulation on remote health services in Türkiye. This is not legal advice; check the current legislation.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Swanepoel DW, Hall JW. A systematic review of telehealth applications in audiology. Telemedicine and e-Health (2010); ASHA, Telepractice (Practice Portal); World Health Organization, World Report on Hearing (2021); Regulation on the Provision of Remote Health Services, Türkiye (Official Gazette, February 10, 2022, No. 31746).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "teleaudiology",
+   "telehealth"
+  ],
+  "etiketler": [
+   "tele-audiology",
+   "telehealth",
+   "teleaudiology",
+   "remote fitting",
+   "remote programming",
+   "asynchronous service",
+   "synchronous service",
+   "facilitator",
+   "remote hearing testing",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 294",
+   "baslik": "*Tele-audiology*: remote testing and fitting",
+   "alt": "Synchronous, asynchronous, remote fine-tuning",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "With this lesson we begin the section on current topics and professional development, starting with tele-audiology.",
+    "We will cover synchronous and asynchronous services, remote testing and fitting, the limitations, and the regulations in Türkiye."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Models",
+   "baslik": "What is *tele-audiology?*",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Remote service",
+     "metin": "Through communication technology",
+     "cumle": 0
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Access",
+     "metin": "Remote areas, limited mobility",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Time",
+     "metin": "Less travel and waiting",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Specialist support",
+     "metin": "For underserved areas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tele-audiology is the remote delivery of audiology services through communication technologies.",
+    "It is the audiology branch of what is more broadly called telehealth.",
+    "Its main goal is access: reaching people who live far away, have limited mobility, or cannot come to the clinic because of work.",
+    "A call from home instead of hours of travel for a short adjustment saves time and money.",
+    "In areas with few audiologists, specialist knowledge can reach the patient through a local health worker.",
+    "Tele-audiology does not replace in-person care; used with the right patient and for the right purpose, it complements it."
+   ]
+  },
+  {
+   "id": "modeller",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Models",
+   "baslik": "Synchronous and *asynchronous*",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Synchronous",
+     "metin": "Live, at the same time",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Asynchronous",
+     "metin": "Store and forward",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Hybrid",
+     "metin": "Both together",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In synchronous service, the audiologist and patient are connected at the same time; a video call or live remote testing are examples.",
+    "The audiologist controls the remote computer and test equipment from their own screen and watches the patient on camera.",
+    "In asynchronous service, data are first collected and stored, and then reviewed later by the specialist.",
+    "For example, video otoscopy images and automated audiograms taken at a screening site can be sent and read the next day.",
+    "In a hybrid model, both approaches are used: data are collected in advance, and results are shared with the patient in a live call.",
+    "The model is chosen based on the type of service, connection quality and the patient's needs."
+   ]
+  },
+  {
+   "id": "kolay",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Models",
+   "baslik": "The facilitator *model*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Patient",
+     "metin": "At a remote site",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Facilitator",
+     "metin": "Trained local worker",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Equipment",
+     "metin": "Controlled remotely",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Audiologist",
+     "metin": "Tests and interprets",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Report",
+     "metin": "Advice and referral",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In many remote tests, the patient is at a local health center.",
+    "There, a trained facilitator places the earphones and probe and assists the patient.",
+    "The test equipment is controlled by the remote audiologist over a computer connection.",
+    "The audiologist runs the test, monitors responses and interprets the result; the clinical decision is the audiologist's responsibility.",
+    "The outcome is a report, recommendations and, if needed, referral for an in-person evaluation.",
+    "Facilitator training and a written workflow are the foundation of this model's reliability."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Remote testing",
+   "baslik": "*Which tests* can be done remotely?",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Screening",
+     "metin": "School, work, community",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Pure tone",
+     "metin": "With calibrated equipment",
+     "cumle": 1
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Video otoscopy",
+     "metin": "Image sharing",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Immittance and OAE",
+     "metin": "Facilitator places probe",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech tests",
+     "metin": "Depend on connection",
+     "cumle": 4
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "Remote control",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Hearing screening is the most common use of tele-audiology; it can be done at school, at work or in the community.",
+    "With a calibrated audiometer and a suitable environment, pure-tone thresholds can be obtained remotely.",
+    "Video otoscopy images can be stored and sent, so findings such as earwax or discharge are seen by the specialist.",
+    "For tympanometry and otoacoustic emissions, the probe is placed by the local facilitator.",
+    "Speech tests are sensitive to sound quality and the connection; the accuracy of the presentation level is checked separately.",
+    "The auditory brainstem response, or ABR, can also be controlled remotely, with a local worker placing the electrodes.",
+    "Such remote ABR services have been reported especially in some countries with few specialists.",
+    "Systematic reviews have shown that, under suitable conditions, remote results can be similar to in-person tests."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Remote testing",
+   "baslik": "Environment and *calibration*",
+   "cizim": "test_kabini",
+   "etiketler": [
+    {
+     "parca": "ses_emici",
+     "metin": "sound absorbing",
+     "cumle": 1
+    },
+    {
+     "parca": "cift_duvar",
+     "metin": "insulated wall",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "test_odasi",
+     "cumle": 0
+    },
+    {
+     "parca": "ses_emici",
+     "cumle": 1
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Measure background noise",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Flag noisy frequencies",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Earphones calibrated with the device",
+     "cumle": 5,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "The biggest limitation of remote testing is that it cannot always take place in a sound-treated booth.",
+    "Booth walls and sound-absorbing material keep background noise below the permitted level.",
+    "A test at school or at home has no such guarantee; low-frequency thresholds are especially affected by noise.",
+    "So earphones that better attenuate outside noise are used, and background noise is measured during the test.",
+    "When the noise limit is exceeded, the result at that frequency is counted as invalid or flagged.",
+    "Calibration is also critical: the earphone used must be calibrated together with that device.",
+    "A result from an uncalibrated earphone or an ordinary consumer headphone is not a threshold, only an estimate."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Remote testing",
+   "baslik": "Other *limitations*",
+   "maddeler": [
+    {
+     "metin": "Dropped connections and delay",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Masking and bone conduction difficult",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Hard with young children",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Data security",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Patient access to technology",
+     "cumle": 4,
+     "ikon": "telefon"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "yazilim",
+      "baslik": "Technical",
+      "metin": "Connection, calibration",
+      "cumle": 0
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Clinical",
+      "metin": "Masking, young children",
+      "cumle": 1
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "Patient",
+      "metin": "Access and skills",
+      "cumle": 4
+     }
+    ],
+    "ust": "LIMITS"
+   },
+   "cumleler": [
+    "Dropped connections or delays can disrupt the timing of sounds and patient responses, so response times are monitored.",
+    "Measurements needing bone conduction and masking are harder remotely; vibrator placement depends on the facilitator.",
+    "Tests for young children, such as visual reinforcement audiometry, need a two-person team and experience, so they are hard to do remotely.",
+    "Because images and health data travel over the internet, a secure system approved by the institution is used.",
+    "The patient may lack a device, an internet connection or digital skills, which can create a new inequality in care.",
+    "The principle of justice from the ethics lesson applies here too: technology should widen access and leave no one out.",
+    "So when choosing remote care, the clinician first asks whether the patient has these resources."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Remote fitting",
+   "baslik": "Remote *fine-tuning*",
+   "adimlar": [
+    {
+     "ikon": "telefon",
+     "baslik": "Request",
+     "metin": "Patient reports a complaint",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Connection",
+     "metin": "App or computer",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Adjustment",
+     "metin": "Audiologist changes settings",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Trial",
+     "metin": "Patient listens at once",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Record",
+     "metin": "Change and outcome",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Remote fine-tuning often starts with a patient complaint, for example that their own voice sounds muffled.",
+    "Many current hearing aids can connect to the audiologist's software through an app on the patient's phone.",
+    "Once connected, the audiologist changes the device settings from their own screen.",
+    "The patient hears the change right away in their own environment and gives feedback, an advantage the clinic cannot offer.",
+    "Every change, its reason and the patient's reaction are documented.",
+    "The initial fitting and verification with real-ear measurement are mostly done in person; remote adjustment complements them."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Remote fitting",
+   "baslik": "Remote *follow-up*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Data logging",
+     "metin": "Hours of use, environments",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Questionnaires",
+     "metin": "Benefit and satisfaction",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Video call",
+     "metin": "Counseling, training",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Troubleshooting",
+     "metin": "Care and handling",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implants",
+     "metin": "Remote programming",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Rehabilitation",
+     "metin": "Auditory training session",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "By reviewing the device's data logging remotely, daily hours of use and common listening environments can be seen.",
+    "Questionnaires measuring hearing aid benefit and satisfaction can be completed online before the appointment.",
+    "A video call is well suited to counseling new users and training them in communication strategies.",
+    "Simple problems with batteries, wax filters or connections can often be solved together on camera.",
+    "For cochlear implant users, remote programming is a method that has been studied and is used in some centers.",
+    "Auditory training and auditory verbal therapy sessions can also be run with the family by video."
+   ]
+  },
+  {
+   "id": "uygun",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Remote fitting",
+   "baslik": "Who is it *suitable for?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Suitable",
+     "metin": "Check-ups, small adjustments, counseling",
+     "cumle": 0
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Suitable",
+     "metin": "Distant, regular users",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "In person",
+     "metin": "Sudden loss, discharge, pain",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "In person",
+     "metin": "Infant diagnostic assessment",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "In person",
+     "metin": "New dizziness",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Check-up appointments, small adjustments and counseling are where tele-audiology fits best.",
+    "People who live far away, use their device regularly and are comfortable with technology are also good candidates.",
+    "Sudden hearing loss, ear discharge or pain, however, need fast, in-person evaluation.",
+    "Diagnostic assessment of infants needs a detailed, long test battery, so it is usually done in person.",
+    "New-onset dizziness is also referred to the clinic for examination and vestibular testing.",
+    "The rule is simple: if a red flag is noticed during a remote session, the patient is called in for an in-person evaluation."
+   ]
+  },
+  {
+   "id": "mevzuat",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Remote fitting",
+   "baslik": "*Regulations* in Türkiye",
+   "maddeler": [
+    {
+     "metin": "The 2022 regulation",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Ministry permit for facilities",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Recording needs both parties' consent",
+     "cumle": 4,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Patients cannot be forced",
+     "cumle": 5,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Not equivalent to in-person care",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hastane",
+      "baslik": "Permit",
+      "metin": "Ministry operating permit",
+      "cumle": 3
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Consent",
+      "metin": "Explicit consent to record",
+      "cumle": 4
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Choice",
+      "metin": "No coercion",
+      "cumle": 5
+     }
+    ],
+    "ust": "REGULATION"
+   },
+   "cumleler": [
+    {
+     "yazi": "In Türkiye, remote health services are governed by a regulation published in the Official Gazette No. 31746 of February 10, 2022.",
+     "ses": "In Türkiye, remote health services are governed by a regulation published in the Official Gazette number thirty one thousand seven hundred forty six of February tenth, twenty twenty two."
+    },
+    "The Regulation on the Provision of Remote Health Services covers all health professionals who take part in such services.",
+    "It defines remote health care as a service a health professional provides through a remote health information system.",
+    "Under Article 8, a health facility that meets the conditions for remote services receives an operating permit from the Ministry.",
+    "Under Article 12, a session cannot be recorded on video or audio without the explicit consent of both parties.",
+    "Article 14 prohibits forcing a person booking an appointment to receive remote care.",
+    "Under Article 9, the patient is told in advance that remote care cannot be equivalent to in-person care.",
+    "This is not legal advice; check the current legislation and your facility's permit before planning remote services."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical alert",
+   "metin": "Before a remote session, do a short connection test with the patient and tell them which number you will call if the session drops.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the field: do a short connection test with the patient the day before the first remote session.",
+    "Use this test to check that the camera, the microphone and the hearing aid app are working.",
+    "Tell the patient at the start which number you will call them from if the session drops.",
+    "For a patient with hearing loss, captions or a text chat window make a video call much easier."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Synchronous, asynchronous and hybrid models",
+     "cumle": 0,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Calibration and background noise are critical",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Remote fine-tuning and follow-up",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Red flag: in person",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Tele-audiology is delivered in synchronous, asynchronous or hybrid models; a local facilitator is key to many remote tests.",
+    "The reliability of remote thresholds depends on calibrated earphones, background noise monitoring and connection quality.",
+    "Remote fine-tuning and follow-up bring check-ups and counseling into the patient's own environment.",
+    "For sudden loss, discharge, pain or new dizziness, the patient is referred for an in-person evaluation."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is an example of asynchronous service?",
+   "secenekler": [
+    "Live video fine-tuning",
+    "Later review of stored otoscopy images",
+    "Live remote ABR",
+    "Instant phone consultation"
+   ],
+   "dogru": 1,
+   "aciklama": "In asynchronous service, data are _stored first_ and reviewed by the specialist later.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which of the following is an example of asynchronous tele-audiology?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: later review of a stored otoscopy image.",
+    "In the other options, the audiologist and patient are connected at the same time, so they are synchronous services."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Automation and *Machine Learning* in Audiology",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will look at automated audiometry and the possibilities and limits of machine learning in audiology.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

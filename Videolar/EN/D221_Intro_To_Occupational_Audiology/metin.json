@@ -1,0 +1,637 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D221_Intro_To_Occupational_Audiology_EN",
+ "kapak": {
+  "ust": "LESSON 221",
+  "baslik": "Occupational<br>*audiology*",
+  "alt": "Noise at work",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Intro to Occupational Audiology: Noise at Work | Lesson 221 | AIHEAR Audiology Academy",
+  "aciklama": "Noise-induced hearing loss is permanent, but it is largely preventable. In this lesson we cover the aims of occupational audiology, the scale of occupational noise, the concepts of noise exposure and noise dose, the order of priority for noise control, the components of a hearing conservation program and the legal framework in Türkiye.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998); OSHA, 29 CFR 1910.95 Occupational Noise Exposure; Nelson et al., The global burden of occupational noise-induced hearing loss, American Journal of Industrial Medicine (2005); European Union Directive 2003/10/EC on noise; Regulation on the Protection of Employees from Noise-Related Risks, Türkiye, Official Gazette 28.07.2013, No. 28721; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "occupationalhealth",
+   "noise"
+  ],
+  "etiketler": [
+   "occupational audiology",
+   "industrial audiology",
+   "noise at work",
+   "noise exposure",
+   "noise dose",
+   "hearing conservation program",
+   "noise-induced hearing loss",
+   "occupational noise",
+   "noise regulation",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 221",
+   "baslik": "Intro to *occupational* audiology",
+   "alt": "Noise at work and hearing conservation",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we begin a new module and learn about occupational audiology, that is, protecting hearing at work.",
+    "We will cover noise exposure, the concept of noise dose and the components of a hearing conservation program."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The field and the problem",
+   "baslik": "What is occupational *audiology?*",
+   "maddeler": [
+    {
+     "metin": "Protecting workers' hearing",
+     "cumle": 0,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Measurement, audiometry, protectors, training",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Teamwork with occupational physicians",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "The real goal: _prevention_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "test_odasi",
+      "cumle": 1
+     },
+     {
+      "parca": "odyometre",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Occupational audiology is the field of audiology that aims to protect workers' hearing from risks in the workplace.",
+    "Noise measurement, pre-employment and periodic audiometry, choosing hearing protectors and training are its main tasks.",
+    "In this work, the audiologist collaborates with the occupational physician, the safety specialist and the employer.",
+    "Noise-induced hearing loss is permanent, but it is largely preventable.",
+    "So the real goal of occupational audiology is not to detect loss but to prevent it before it develops.",
+    "This work requires combining audiometric knowledge with occupational health and safety regulations."
+   ]
+  },
+  {
+   "id": "boyut",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The field and the problem",
+   "baslik": "The *scale* of the problem",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Worldwide",
+     "metin": "About 16 percent of losses",
+     "cumle": 0
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "In the United States",
+     "metin": "Over 22 million workers",
+     "cumle": 2
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "High-risk sectors",
+     "metin": "Industry, construction, mining",
+     "cumle": 4
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Chemicals",
+     "metin": "Ototoxic solvents",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A study done for the World Health Organization attributed about 16 percent of disabling hearing loss in adults to occupational noise.",
+    "This share varies by region and is higher in developing regions.",
+    "In the United States, more than 22 million workers are estimated to be exposed to hazardous noise at work.",
+    "Occupational noise affects men more, because men make up a larger share of workers in noisy jobs.",
+    "Industry, construction, mining, agriculture and military settings are the main high-risk areas.",
+    "Besides noise, some chemicals such as certain solvents can also damage hearing; these are called ototoxic chemicals."
+   ]
+  },
+  {
+   "id": "maruziyet",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The field and the problem",
+   "baslik": "Noise *exposure*",
+   "cizim": "desibel_olcegi",
+   "etiketler": [
+    {
+     "parca": "konusma",
+     "metin": "everyday speech",
+     "cumle": 2
+    },
+    {
+     "parca": "konser",
+     "metin": "loud noise",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "konusma",
+     "cumle": 2
+    },
+    {
+     "parca": "trafik",
+     "cumle": 2
+    },
+    {
+     "parca": "konser",
+     "cumle": 3
+    },
+    {
+     "parca": "agri_esigi",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Level and duration together",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Peak value for impulse noise",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Noise exposure is the total sound energy a worker receives over the working day.",
+    "Two things determine exposure: the level of the sound and how long it lasts.",
+    "Everyday speech is around 60 decibels; heavy traffic is clearly above that.",
+    {
+     "yazi": "Many industrial machines can produce sound between 85 and 100 dB(A).",
+     "ses": "Many industrial machines can produce sound between eighty five and one hundred decibels A."
+    },
+    "Short but very loud impulse sounds, such as hammering, presses or gunfire, are also assessed by their peak sound pressure.",
+    "That is why both the average level and the peak values are measured at work.",
+    "The harm of noise depends not on whether the sound is pleasant but on the energy it carries; even music we love can cause damage."
+   ]
+  },
+  {
+   "id": "doz",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Dose and controls",
+   "baslik": "Noise *dose*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 9,
+     "adim": 1,
+     "ad": "Hours worked at 88 dB(A)"
+    },
+    "y": {
+     "min": 0,
+     "max": 220,
+     "adim": 50,
+     "ad": "Dose (percent)"
+    },
+    "seriler": [
+     {
+      "ad": "doz",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        25
+       ],
+       [
+        2,
+        50
+       ],
+       [
+        4,
+        100
+       ],
+       [
+        8,
+        200
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "dose",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yuzde100",
+      "x": 0,
+      "y": 100,
+      "cizgi": "yatay",
+      "etiket": "100 percent",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Reference: 85 dB(A), 8 hours",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Plus 3 dB: half the time",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "88 dB(A), 8 hours: 200 percent",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Noise dose is the ratio of the sound energy a worker receives to the allowed daily amount, expressed as a percentage.",
+    "A dose of 100 percent means an exposure equal to the reference level over an eight-hour working day.",
+    {
+     "yazi": "Many guidelines take this reference as 85 dB(A).",
+     "ses": "Many guidelines take this reference as eighty five decibels A."
+    },
+    "By the equal energy principle, a 3 decibel increase doubles the energy, so the same dose is reached in half the time.",
+    {
+     "yazi": "In this example, working 4 hours in a place at 88 dB(A) is enough to reach a 100 percent dose.",
+     "ses": "In this example, working four hours in a place at eighty eight decibels A is enough to reach a one hundred percent dose."
+    },
+    "Working 8 hours in the same place means a dose of 200 percent.",
+    "The daily total dose is found by adding the doses from periods spent at different levels during the day.",
+    "We will compare exchange rates and limit values in detail in the next lesson."
+   ]
+  },
+  {
+   "id": "hiyerarsi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Dose and controls",
+   "baslik": "The *order of priority* for controls",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "Reduce at the source",
+     "metin": "Quieter machines, maintenance",
+     "cumle": 1
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Block the path",
+     "metin": "Enclosures, insulation",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Limit the time",
+     "metin": "Rotation, quiet breaks",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Personal protection",
+     "metin": "The last line of defense",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In noise control, measures are applied in an order of priority.",
+    "The most effective way is to reduce noise at its source, for example by choosing a quieter machine or maintaining it.",
+    "Second come engineering controls that block the spread of noise: machine enclosures and sound and vibration insulation.",
+    "Then come administrative controls: limiting working time, rotating noisy tasks and providing quiet rest areas.",
+    "Personal hearing protectors are the last line of defense; they are used alongside the other measures, not instead of them.",
+    "In Türkiye, the regulation also requires risks to be eliminated or minimized at the source first.",
+    "Another drawback of relying on protectors alone is that the protection achieved in real use is often less than expected."
+   ]
+  },
+  {
+   "id": "program",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Hearing conservation program",
+   "baslik": "Hearing conservation *program*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Measurement",
+     "metin": "Identify exposed workers",
+     "cumle": 1
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "Control",
+     "metin": "Engineering, administrative",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protectors",
+     "metin": "Selection and use",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiometry",
+     "metin": "Baseline and monitoring",
+     "cumle": 4
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Training",
+     "metin": "Risks and use",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A hearing conservation program is a systematic program to protect the hearing of workers exposed to noise.",
+    "The first component is noise measurement and identifying the exposed workers.",
+    "The second component is the engineering and administrative controls that reduce noise.",
+    "The third component is selecting suitable hearing protectors for each worker and making sure they are worn correctly.",
+    "The fourth component is audiometric monitoring: a baseline audiogram and tests repeated at regular intervals.",
+    "The fifth component is training; workers learn about the risks, how to fit protectors and why they are tested.",
+    "Keeping records and regularly evaluating how well the program works are also essential parts of it."
+   ]
+  },
+  {
+   "id": "mevzuat",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Hearing conservation program",
+   "baslik": "The *legal framework* in Türkiye",
+   "maddeler": [
+    {
+     "metin": "The 2013 noise regulation",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "In line with the EU directive",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Risk assessment and measurement",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "80 dB(A): protectors available, training",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "85 dB(A): use, signs, testing",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ACTION VALUES",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulaklik",
+      "baslik": "80 dB(A)",
+      "metin": "Protectors made available",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "85 dB(A)",
+      "metin": "Use ensured and enforced",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In Türkiye, this area is governed by the 2013 Regulation on the Protection of Employees from Noise-Related Risks.",
+     "ses": "In Türkiye, this area is governed by the twenty thirteen Regulation on the Protection of Employees from Noise-Related Risks."
+    },
+    {
+     "yazi": "The regulation is in line with the 2003 noise directive of the European Union.",
+     "ses": "The regulation is in line with the two thousand three noise directive of the European Union."
+    },
+    "The employer carries out a risk assessment and arranges noise measurement when needed.",
+    {
+     "yazi": "If daily exposure exceeds 80 dB(A), hearing protectors are made available and workers receive training.",
+     "ses": "If daily exposure exceeds eighty decibels A, hearing protectors are made available and workers receive training."
+    },
+    {
+     "yazi": "At 85 dB(A) and above, the use of protectors is ensured and enforced, and work areas are marked with signs.",
+     "ses": "At eighty five decibels A and above, the use of protectors is ensured and enforced, and work areas are marked with signs."
+    },
+    "The employer arranges hearing tests for workers whose exposure exceeds this upper action value.",
+    "We will cover the limit and action values in detail in the next lesson; for practice, always check the current regulation."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "The audiologist's role",
+   "baslik": "The audiologist's *tasks*",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Reliable testing",
+     "metin": "Calibrated device, right setting",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Comparison",
+     "metin": "With earlier tests",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protector fit",
+     "metin": "Selection and checks",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Report",
+     "metin": "To the occupational physician",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In occupational audiology, the audiologist's tasks fall under a few headings.",
+    "The first task is reliable audiometry in a suitable room with a correctly calibrated device.",
+    "The second task is to compare audiograms with earlier tests and report meaningful changes in time.",
+    "Choosing a suitable protector for the worker and checking that it is worn correctly is another area where the audiologist contributes.",
+    "Training and motivation matter at least as much as technical measures for the success of the program.",
+    "The audiologist reports findings to the occupational physician; medical evaluation and fitness-for-work decisions belong to the physician.",
+    "Answering workers' questions also builds their trust in protector use and in the program."
+   ]
+  },
+  {
+   "id": "baslangic",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "The audiologist's role",
+   "baslik": "The baseline *audiogram*",
+   "cizim": "test_kabini",
+   "etiketler": [
+    {
+     "parca": "hasta",
+     "metin": "worker",
+     "cumle": 0
+    },
+    {
+     "parca": "odyolog",
+     "metin": "audiologist",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "test_odasi",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "The basis for later comparisons",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Quiet rest period beforehand",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Example: at least 14 hours",
+     "cumle": 2,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "The pre-employment, or baseline, audiogram is the basis for all later comparisons.",
+    "This test should be done after a rest period during which the worker has not been exposed to noise.",
+    "For example, the US occupational health regulation requires at least 14 hours away from workplace noise before the baseline test.",
+    "Otherwise, a temporary threshold shift is recorded as permanent loss, and later changes can be missed.",
+    "A history is also taken at baseline: previous noisy jobs, military service and shooting, ear disease and medications are recorded.",
+    "Periodic tests and threshold shift criteria will be covered separately in a later lesson."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Schedule periodic tests at the start of a shift when possible. Ask about the last noise exposure and protector use, and write both in the test record.",
+   "cumleler": [
+    "A clinical tip: schedule periodic tests at the start of a shift when possible.",
+    "A test at the end of a shift can make the result look worse than it is because of a temporary threshold shift.",
+    "During the test, ask the worker when their last noise exposure was and whether they wore protectors.",
+    "Writing this information in the test record allows later comparisons to be interpreted correctly."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Goal: prevent loss before it starts",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Dose: level and duration together",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Source first, protectors last",
+     "cumle": 2,
+     "ikon": "fabrika"
+    },
+    {
+     "metin": "Program: measure, protect, test, train",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "The goal of occupational audiology is to prevent noise-induced hearing loss before it develops.",
+    "Noise dose depends on both level and duration; a 3 decibel increase reaches the same dose in half the time.",
+    "The priority in noise control is reducing noise at the source; personal protectors are the last line of defense.",
+    "A hearing conservation program includes measurement, controls, protectors, audiometric monitoring, training and records."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is the most effective noise control measure?",
+   "secenekler": [
+    "Reducing it at the source",
+    "Handing out earplugs",
+    "Annual audiometry",
+    "Warning signs"
+   ],
+   "dogru": 0,
+   "aciklama": "Personal protectors are _the last line of defense_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which is the most effective measure for controlling noise in the workplace?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: reducing noise at its source.",
+    "Hearing protectors and audiometry matter, but they cannot replace reducing noise at its source."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Noise Exposure Limits: *80, 85 and 87* dB(A)",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "In the next lesson, we will look in detail at the values of 80, 85 and 87 dB(A) and at the exchange rate.",
+     "ses": "In the next lesson, we will look in detail at the values of eighty, eighty five and eighty seven decibels A and at the exchange rate."
+    },
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

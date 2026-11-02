@@ -1,0 +1,100 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R438_Noise_Limit_in_an_Empty_Classroom_EN",
+ "kapak": {
+  "ust": "QUICK FACT #438",
+  "baslik": "Empty classroom: *35 dBA*",
+  "alt": "Classroom acoustics standard",
+  "cizim": "oda_plani",
+  "ayar": {
+   "mod": "kritik_mesafe",
+   "kritik_mesafe_m": 1.5,
+   "oda": [
+    9,
+    7
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What is the most background noise allowed in an empty classroom? #shorts",
+  "aciklama": "The American national standard recommends that background noise in an empty classroom not exceed 35 dBA, and that reverberation time in small and medium classrooms not exceed about 0.6 to 0.7 seconds. As reverberation time grows, the echoes of syllables overlap and speech becomes blurred; simple measures such as carpets, sound-absorbing ceiling panels, curtains and felt pads on chair legs reduce reverberation and noise.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "classroomacoustics",
+   "APD"
+  ],
+  "etiketler": [
+   "classroom acoustics",
+   "background noise",
+   "reverberation time",
+   "environmental modification",
+   "auditory processing disorder",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What is the most background noise allowed in an empty classroom?",
+  "bilgiler": [
+   "Background noise in an empty classroom should not exceed 35 dBA.",
+   "Reverberation time should not exceed about 0.6 to 0.7 seconds.",
+   "Carpet, ceiling panels and felt pads reduce reverberation and noise."
+  ],
+  "hashtag": [
+   "audiology",
+   "classroomacoustics",
+   "APD"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #438",
+   "metin": "How *quiet?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What is the most background noise allowed in an empty classroom?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Empty classroom, *at most*",
+   "sayi": "35",
+   "birim": "dBA",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The American national standard sets a noise limit for empty classrooms.",
+    {
+     "yazi": "Background noise should not exceed thirty five dBA.",
+     "ses": "Background noise should not exceed thirty five decibels A."
+    },
+    {
+     "yazi": "Reverberation: about 0.6 to 0.7 seconds at most.",
+     "ses": "Reverberation: about zero point six to zero point seven seconds at most."
+    },
+    "Longer echoes make syllables overlap, and speech becomes blurred.",
+    "Carpet, sound-absorbing ceiling panels and chair felt pads reduce echo and noise."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D256",
+ "kaynak_baslik": "APD Management: Environment, Remote Mics, Training"
+}

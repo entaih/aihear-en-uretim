@@ -1,0 +1,101 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R123_Shouting_Does_Not_Help_EN",
+ "kapak": {
+  "ust": "QUICK FACT #123",
+  "baslik": "Does shouting *help?*",
+  "alt": "Talking with a person with hearing loss",
+  "cizim": "isitme_cihazi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Should you shout when talking to someone with hearing loss? #shorts",
+  "aciklama": "Shouting distorts the voice and changes lip movements. When talking with someone with hearing loss, first get their attention, face them, and speak a little slower and clearly; if a sentence is not understood, say it in other words.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "communication",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "hearing loss",
+   "communication",
+   "lipreading",
+   "counseling",
+   "shouting",
+   "communication strategies",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Should you shout when talking to someone with hearing loss?",
+  "bilgiler": [
+   "Shouting distorts the voice and changes lip movements.",
+   "Get their attention first, face them, and speak a bit slower and clearly.",
+   "If not understood, use different words, not the same ones."
+  ],
+  "hashtag": [
+   "audiology",
+   "communication",
+   "hearingloss"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #123",
+   "metin": "Should you *shout* at someone with hearing loss?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Should you shout when talking to someone with hearing loss?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Better *communication*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Face",
+     "tr": "turn toward them",
+     "cumle": 1
+    },
+    {
+     "ad": "Clear",
+     "tr": "a bit slower",
+     "cumle": 2
+    },
+    {
+     "ad": "Rephrase",
+     "tr": "instead of repeating",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "No; shouting distorts the voice and changes lip movements.",
+    "Before speaking, get their attention and turn your face toward them.",
+    "Instead of shouting, speak a little slower and clearly.",
+    "If not understood, rephrase it rather than repeating the same words."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D037",
+ "kaynak_baslik": "Talking with Patients: Intro to Audiology Counseling"
+}

@@ -1,0 +1,869 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D138_Audiology_Report_EN",
+ "kapak": {
+  "ust": "LESSON 138",
+  "baslik": "The audiology<br>*report*",
+  "alt": "Findings, interpretation, recommendations",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      30,
+      40,
+      50,
+      55
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      30,
+      45,
+      50,
+      60
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "How to Write a Clear Audiology Report | Lesson 138 | AIHEAR Audiology Academy",
+  "aciklama": "We explain how to turn test findings into a clear, well-organized audiology report. Using a purely example case, we cover the sections of the report, test conditions and reliability, the difference between interpretation and diagnosis, writing recommendations, and plain language for patients and physicians.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Preferred Practice Patterns for the Profession of Audiology; Law No. 6698 on the Protection of Personal Data, Türkiye.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "report",
+   "hearing"
+  ],
+  "etiketler": [
+   "audiology report",
+   "audiological report",
+   "report writing",
+   "interpretation",
+   "recommendation",
+   "audiogram",
+   "degree of hearing loss",
+   "clinical documentation",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 138",
+   "baslik": "Writing the audiology *report*",
+   "alt": "Findings, interpretation and recommendations",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how to turn test findings into a clear, well-organized and understandable audiology report.",
+    "Using a purely example case, we will look at the sections of the report, interpretation versus diagnosis, and writing recommendations."
+   ]
+  },
+  {
+   "id": "okur",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Purpose of the report",
+   "baslik": "*Who* is the report for?",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Physician",
+     "metin": "Summary for decisions",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Patient and family",
+     "metin": "A clear explanation",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Another audiologist",
+     "metin": "Detail for comparison",
+     "cumle": 3
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Institutions",
+     "metin": "School, employer, medical board",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "An audiological report is the written record of test results, their interpretation and the recommendations."
+    },
+    "The person who reads the report most often is the physician, who will base decisions on this information.",
+    "The patient and family also read the report; for them, what the result means in daily life matters.",
+    "Another audiologist testing the same person years later needs details for comparison.",
+    "Institutions such as schools, employers or medical boards may also use the report for different purposes.",
+    "A good report keeps the needs of each of these readers in mind; it is clear, brief, accurate and objective."
+   ]
+  },
+  {
+   "id": "bolumler",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Report structure",
+   "baslik": "*Sections* of the report",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Identity and reason",
+     "metin": "Who, when, why?",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "History",
+     "metin": "Brief and relevant",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Findings",
+     "metin": "An organized summary",
+     "cumle": 2
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Interpretation",
+     "metin": "What do findings say?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Recommendations",
+     "metin": "What should be done?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The report starts with identifying details, the test date and the reason for referral: who sent the person, and with what question?",
+    "Then the complaints and relevant history are briefly summarized.",
+    "The findings section gives the results of the tests performed in a clear, consistent order.",
+    "The interpretation section explains what the findings say when taken together.",
+    "The recommendations section clearly states what should be done next.",
+    "This order lets every reader quickly find the information they are looking for."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Report structure",
+   "baslik": "Reason for referral and *history*",
+   "maddeler": [
+    {
+     "metin": "Referral source and _the question asked_",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Complaints: _side, duration, course_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Only _relevant_ history",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Personal data: _confidentiality_ is essential",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EXAMPLE QUESTION",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Referred by",
+      "metin": "Ear, nose and throat physician",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Question",
+      "metin": "Hearing level and type?",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "The reason for referral states who referred the person and what question needs an answer.",
+    "When complaints are written, details such as side, time of onset and course are given in short sentences.",
+    "The history includes only information that affects the result, such as noise exposure, ear surgery or family history of hearing loss.",
+    "Unnecessary personal details are not written into the report.",
+    {
+     "yazi": "In Türkiye, the personal data protection law, Law No. 6698, protects health data as a special category of personal data.",
+     "ses": "In Türkiye, the personal data protection law, Law number sixty six ninety eight, protects health data as a special category of personal data."
+    },
+    "So reports are shared only with authorized people and stored securely."
+   ]
+  },
+  {
+   "id": "bulgular",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Report structure",
+   "baslik": "An *organized* summary of findings",
+   "sutunlar": [
+    "Test",
+    "What the report includes"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Otoscopy",
+      "Canal and eardrum appearance"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Pure tone",
+      "Type, degree, configuration"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Speech",
+      "SRT, word score"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Immittance",
+      "Tympanogram, reflexes"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Other tests",
+      "Such as OAE, ABR"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Reliability",
+      "Good, fair, poor"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "The findings section usually begins with otoscopy: the appearance of the ear canal and eardrum is briefly described.",
+    "Pure-tone results are summarized for each ear by type, degree and configuration of loss; the audiogram is attached to the report.",
+    "For speech audiometry, the speech recognition threshold, or SRT, and the word recognition score are given with their test levels.",
+    "The immittance section includes the tympanogram type, related values and acoustic reflex findings.",
+    "If done, otoacoustic emission, or OAE, and auditory brainstem response, or ABR, results are also added.",
+    "Finally, test reliability is stated; whether the person's responses were consistent is very important for the reader."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Report structure",
+   "baslik": "Record the test *conditions*",
+   "maddeler": [
+    {
+     "metin": "Transducer: _insert or supra-aural_",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Masking: _was it used_, and where?",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Speech material: _recorded or live_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Method and _deviations_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 0
+     },
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Test conditions are briefly recorded so results can be compared correctly; for example, the type of earphone used.",
+    "If masking was used, the ear and the test in which it was used are stated.",
+    "For speech testing, whether recorded material or monitored live voice was used, and which list was chosen, are noted.",
+    "If there was any deviation from the standard method, for example play audiometry with a child, this is also noted.",
+    "These details make sure a later test at another center is truly comparable."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation",
+   "baslik": "*How* to write the interpretation",
+   "maddeler": [
+    {
+     "metin": "Type: conductive, _sensorineural_, mixed",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Degree: by the _classification_ used",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Configuration and _symmetry_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Comparison_ with previous tests",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Findings _agree with each other_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        30,
+        40,
+        50,
+        55
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        30,
+        45,
+        50,
+        60
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "The interpretation first states the type of loss in each ear: conductive, sensorineural or mixed."
+    },
+    "Then the degree is written according to the classification the center uses; for example, mild, moderate or severe.",
+    "The configuration, that is, sloping, flat or notched, and the symmetry between the ears are also described.",
+    "If there is a previous test, whether there has been any change is clearly stated.",
+    "Finally, it notes whether speech, immittance and other test results agree with the audiogram.",
+    "The interpretation should be brief; the reader should grasp the situation in a few sentences."
+   ]
+  },
+  {
+   "id": "tani_degil",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation",
+   "baslik": "Interpretation is not *diagnosis*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Appropriate",
+     "metin": "Moderate sensorineural loss, left ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Appropriate",
+     "metin": "May be consistent with a retrocochlear process",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Not appropriate",
+     "metin": "The patient has a tumor",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "An audiological interpretation describes hearing function; it does not make a medical diagnosis.",
+    "For example, moderate sensorineural hearing loss in the left ear is an appropriate audiological interpretation.",
+    "If findings point to a possibility, cautious language is used, such as may be consistent with a retrocochlear process.",
+    "Statements such as the patient has a tumor, or this medication should be used, go beyond the limits of an audiology report.",
+    "Medical diagnosis and treatment decisions belong to the physician; the report gives reliable information for that decision."
+   ]
+  },
+  {
+   "id": "oneriler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Recommendations",
+   "baslik": "Examples of *recommendations*",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Medical referral",
+     "metin": "State the reason clearly",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aid evaluation",
+     "metin": "If appropriate",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Retest",
+     "metin": "Give the timing",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Additional test",
+     "metin": "For example ABR, OAE",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Communication",
+     "metin": "Strategies, counseling",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In the recommendations section, any referral to a physician and the reason for it are clearly written."
+    },
+    "If the hearing loss is suitable, a hearing aid evaluation is recommended.",
+    "When a retest is recommended, its timing is given; instead of a vague as needed, write, for example, in six months.",
+    "If a question remains unanswered, additional tests such as ABR or OAE are recommended.",
+    "Recommendations on communication strategies and counseling also contribute directly to the person's daily life."
+   ]
+  },
+  {
+   "id": "dil",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Recommendations",
+   "baslik": "*Plain* language",
+   "maddeler": [
+    {
+     "metin": "_Spell out_ abbreviations on first use",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Short sentences, _one idea_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "An _everyday language_ summary for patients",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Numbers and interpretation _must agree_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SAME FINDING",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "To the physician",
+      "metin": "Bilateral mild to moderate sensorineural loss",
+      "cumle": 2
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "To the patient",
+      "metin": "You find some speech sounds hard to hear",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Abbreviations are spelled out the first time they appear; not every reader can be expected to know what SRT or ABR means.",
+    "Short sentences and one-idea paragraphs make reading easier.",
+    "The technical summary for the physician can be supported with a brief explanation for the patient in everyday language.",
+    "For example, the patient might be told that their hearing loss makes soft, high-pitched speech sounds especially hard to hear.",
+    "The numbers in the report and the interpretation must not contradict each other; a contradiction undermines the reader's trust."
+   ]
+  },
+  {
+   "id": "ornek_odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 5",
+   "bolum": "Example report",
+   "baslik": "Example case: the *audiogram*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Right air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Left air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Right bone conduction",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "Left bone conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       40,
+       50,
+       55
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       45,
+       50,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       30,
+       40,
+       50
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       30,
+       45,
+       50
+      ],
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Now let us write a report for a purely example case; this data does not belong to a real patient.",
+    "A sixty eight year old example person says they struggle to follow conversations in a crowd; thresholds are similar in both ears.",
+    "Bone-conduction thresholds overlap with air conduction; that is, there is no air-bone gap.",
+    "The loss increases toward the high frequencies, and there is no significant asymmetry between the ears.",
+    {
+     "yazi": "The pure-tone average is about 30 to 35 dB HL in both ears; this corresponds to a mild degree.",
+     "ses": "The pure-tone average is about thirty to thirty five decibels HL in both ears; this corresponds to a mild degree."
+    }
+   ]
+  },
+  {
+   "id": "ornek_rapor",
+   "tur": "tablo",
+   "bolum_no": "PART 5",
+   "bolum": "Example report",
+   "baslik": "Example report: *summary*",
+   "sutunlar": [
+    "Section",
+    "Example wording"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Reason for referral",
+      "Difficulty in crowds"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Pure tone",
+      "Bilateral sensorineural loss"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Degree, shape",
+      "Mild-moderate, sloping"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Speech",
+      "Scores fit the loss"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Immittance",
+      "Type A, expected reflexes"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Recommendation 1",
+      "ENT examination"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Recommendation 2",
+      "Hearing aid evaluation, retest"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "In the example report, the reason for referral is written as difficulty understanding speech in crowded settings.",
+    "Interpretation: bilateral, symmetric, mild to moderate sensorineural hearing loss sloping toward the high frequencies.",
+    "Word recognition scores in both ears fit the degree of loss.",
+    "Tympanograms are type A in both ears, and acoustic reflexes are present at the levels expected for the hearing level.",
+    "The first recommendation is an ear, nose and throat, or ENT, examination; medical assessment belongs to the physician.",
+    "Then a hearing aid evaluation, communication strategies and a follow-up audiogram in one year are recommended.",
+    "This example only shows report language; in a real case, recommendations are based on all of the person's findings."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "When you finish the report, read it as a colleague who was not at the test: from the report alone, can they understand the situation and what to do next?",
+   "cumleler": [
+    "A clinical tip: after finishing the report, read it again through the eyes of a colleague who was not present at the test.",
+    "From the report alone, can they understand the person's hearing status and what should happen next?",
+    "If the answer is no, what is missing is usually the interpretation or a clear recommendation.",
+    "Do not forget to add the date, your signature and contact information to the report."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Example report",
+   "baslik": "Common *mistakes*",
+   "maddeler": [
+    {
+     "metin": "Numbers only, _no interpretation_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Vague or _missing_ recommendations",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Diagnostic _statements_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Reliability and _conditions_ not recorded",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CHECK",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Final read",
+      "metin": "Consistent and complete?",
+      "cumle": 4
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Date, signature",
+      "metin": "Contact details added?",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The most common mistake is a report that lists only numbers, with no interpretation at all.",
+    "Leaving the recommendations section empty or vague also leaves the reader without direction.",
+    "Statements that make a medical diagnosis go beyond professional limits and can be misunderstood.",
+    "Not recording test reliability and conditions makes later comparisons difficult.",
+    "A short final read prevents most of these mistakes."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Sections: reason, history, _findings_, interpretation, recommendations",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Record conditions and _reliability_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Interpretation describes function, _not diagnosis_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Recommendations _clear_ and timed",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "A good report has sections for the reason for referral, history, findings, interpretation and recommendations.",
+    "Test conditions and response reliability are recorded so that results can be compared correctly.",
+    "An audiological interpretation describes hearing function; medical diagnosis and treatment decisions belong to the physician.",
+    "Recommendations are written clearly and practically, with timing given where needed."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is an appropriate audiological interpretation?",
+   "secenekler": [
+    "The patient has a tumor",
+    "Moderate sensorineural loss",
+    "This medication is needed"
+   ],
+   "dogru": 1,
+   "aciklama": "An audiological interpretation _describes_ hearing function; diagnosis and treatment belong to the physician.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which of the following is an appropriate audiological interpretation?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: moderate sensorineural hearing loss.",
+    "The other two statements enter medical diagnosis and treatment; these are the physician's responsibility."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Presbycusis: *Age-Related* Hearing Loss",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn about age-related hearing loss, or presbycusis.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

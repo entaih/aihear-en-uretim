@@ -1,0 +1,102 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R452_The_McGurk_Effect_EN",
+ "kapak": {
+  "ust": "QUICK FACT #452",
+  "baslik": "Hear ba, *perceive da*",
+  "alt": "The McGurk effect",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Your ear gets ba, your eye gets ga: what do you hear? #shorts",
+  "aciklama": "In 1976, McGurk and MacDonald played the syllable ba to the ear while showing a face saying ga on the screen. Most listeners said they heard neither ba nor ga, but da, a syllable in between. Even when the person knows it is an illusion, the percept does not change; this effect shows that the brain decodes speech by using hearing and vision together.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "speech",
+   "brain"
+  ],
+  "etiketler": [
+   "McGurk effect",
+   "audiovisual integration",
+   "speechreading",
+   "speech perception",
+   "perceptual illusion",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Your ear gets ba, your eye gets ga: what do you hear?",
+  "bilgiler": [
+   "A face saying ga was shown while ba was played to the ear.",
+   "Most listeners said they heard da.",
+   "Knowing it is an illusion does not change the percept."
+  ],
+  "hashtag": [
+   "audiology",
+   "speech",
+   "brain"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #452",
+   "metin": "Ba *or ga?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Your ear gets ba, your eye gets ga: what do you hear?"
+   ]
+  },
+  {
+   "id": "mcgurk",
+   "tur": "zincir",
+   "baslik": "The McGurk *effect*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Ear",
+     "tr": "ba",
+     "cumle": 0
+    },
+    {
+     "ad": "Eye",
+     "tr": "ga",
+     "cumle": 0,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Percept",
+     "tr": "da",
+     "cumle": 1
+    }
+   ],
+   "alt": "Integration is _automatic_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "McGurk and MacDonald played ba while a face on screen said ga.",
+    "Most listeners said they heard da, a syllable in between.",
+    "Even knowing it is an illusion, the percept does not change.",
+    "The brain decodes speech using hearing and vision together."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D264",
+ "kaynak_baslik": "Speechreading and Visual Cues"
+}

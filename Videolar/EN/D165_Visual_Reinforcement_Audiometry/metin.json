@@ -1,0 +1,776 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D165_Visual_Reinforcement_Audiometry_EN",
+ "kapak": {
+  "ust": "LESSON 165",
+  "baslik": "*VRA*: visual<br>reinforcement",
+  "alt": "Behavioral testing from 6 to 24 months",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Visual Reinforcement Audiometry (VRA) | Lesson 165 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson covers visual reinforcement audiometry (VRA), used with children aged about 6 to 24 months. With examples, we explain the conditioned head turn response, visual reward and conditioning, control trials, and ear-specific testing with insert earphones.\\n\\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\\n\\nSources: Katz, Handbook of Clinical Audiology; British Society of Audiology, Recommended Procedure: Visual Reinforcement Audiometry; ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age.\\n\\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "VRA",
+   "pediatricaudiology"
+  ],
+  "etiketler": [
+   "VRA",
+   "visual reinforcement audiometry",
+   "conditioned head turn",
+   "control trials",
+   "minimal response level",
+   "Ling sounds",
+   "pediatric audiology",
+   "infant hearing test",
+   "insert earphones",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 165",
+   "baslik": "Visual reinforcement *audiometry*",
+   "alt": "VRA: conditioned head turn and visual reward",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn visual reinforcement audiometry, or VRA.",
+    "We will cover the conditioned head turn response, control trials and ear-specific testing with insert earphones."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "What is VRA?",
+   "baslik": "What is *VRA?*",
+   "maddeler": [
+    {
+     "metin": "A _head turn_ in response to sound",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "A _visual reward_ for correct responses",
+     "cumle": 2,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Basis: _operant conditioning_",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Result: _minimal response level_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "VRA",
+    "metin": "Visual reinforcement audiometry: a *visual reward* for head turns",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Visual reinforcement audiometry, or VRA, is a behavioral hearing test developed for young children.",
+    "When the child hears a sound, they turn their head toward the reward box; this is called a conditioned head turn.",
+    "A head turn made at the right time is rewarded by showing a lit or moving toy.",
+    "The method is based on operant conditioning: a rewarded behavior becomes more likely to be repeated.",
+    {
+     "yazi": "The method has its roots in the conditioned orientation reflex technique described in the 1960s."
+    },
+    "The lowest response levels obtained in infants are often called minimal response levels."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "What is VRA?",
+   "baslik": "*Who* is it suitable for?",
+   "maddeler": [
+    {
+     "metin": "About _6 to 24 months_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "What matters: _developmental_ age",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Head control and _supported sitting_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Enough _vision_ to see the reward",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "VRA is usually used with children aged about six to twenty four months.",
+    "What matters is developmental rather than chronological age; for premature babies, corrected age is used.",
+    "The child needs to be able to control their head and sit with support.",
+    "Because the reward is visual, the child's vision must be good enough to notice it.",
+    "Some guidelines suggest it up to a developmental age of about thirty months; many children move to play audiometry around age two."
+   ]
+  },
+  {
+   "id": "duzenek",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Test setup",
+   "baslik": "The test *setup*",
+   "cizim": "vra_odasi",
+   "vurgula": [
+    {
+     "parca": "cocuk",
+     "cumle": 0
+    },
+    {
+     "parca": "aci",
+     "cumle": 1
+    },
+    {
+     "parca": "dikkat_dagitici",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 3
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "cocuk",
+     "metin": "Child on a parent's lap",
+     "cumle": 0
+    },
+    {
+     "parca": "odul_kutusu",
+     "metin": "Lighted reward box",
+     "cumle": 1
+    },
+    {
+     "parca": "dikkat_dagitici",
+     "metin": "Distracter",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "Loudspeaker (sound field)",
+     "cumle": 3
+    },
+    {
+     "parca": "test_eden",
+     "metin": "Tester",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Reward box: beside the child",
+     "cumle": 1,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Distracter: in front of the child",
+     "cumle": 2,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "The child sits in the test room, usually on a parent's lap, facing forward.",
+    "The reward box and loudspeaker are placed to the child's side, often at an angle of about ninety degrees.",
+    "A distracter in front of the child keeps the child's gaze at the center with quiet toys.",
+    "The stimulus is given through a loudspeaker in the sound field or, if the child accepts them, through insert earphones.",
+    "The tester controls the audiometer, presents the stimulus and judges the response.",
+    "When the type of loss needs to be understood, bone conduction responses can also be obtained with a bone vibrator."
+   ]
+  },
+  {
+   "id": "roller",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Test setup",
+   "baslik": "*Who* does what in the team?",
+   "ogeler": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Tester",
+     "metin": "Stimulus and decision",
+     "cumle": 0
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Distracter",
+     "metin": "Keeps the gaze centered",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Parent",
+     "metin": "Quiet and neutral",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Computerized system",
+     "metin": "Scheduling and recording",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The tester sets the timing and level of the stimulus and decides whether a response is valid.",
+    "The distracter holds the child's attention at the center without over-entertaining; a very exciting game can reduce head turns.",
+    "The parent is asked to stay quiet and not to signal to the child when they hear the sound.",
+    "To prevent unintentional cues, some centers give the parent masking sound through headphones.",
+    "In some systems, test and control trials are scheduled and recorded by computer, which reduces observer bias."
+   ]
+  },
+  {
+   "id": "odul",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Test setup",
+   "baslik": "How is the *reward* used?",
+   "maddeler": [
+    {
+     "metin": "Lit, moving _toy_ or video",
+     "cumle": 0,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Reward only _correct_ responses",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Keep the reward _brief_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "When interest fades, _change the reward_",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "The reward is often a toy that lights up and moves inside a dark box, or a short video clip.",
+    "The reward is given only after a correct response made at the right time.",
+    "Keeping the reward brief delays the child's habituation to it.",
+    "When interest fades, switching to a different toy or image can revive responses.",
+    "The reward must not make a sound that could be confused with the test stimulus, or the child may respond to the wrong sound."
+   ]
+  },
+  {
+   "id": "kosullama",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Conditioning and threshold",
+   "baslik": "The *conditioning* phase",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Clearly audible stimulus",
+     "metin": "A level surely heard",
+     "cumle": 0
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Sound and reward",
+     "metin": "Paired together",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Spontaneous turn",
+     "metin": "Without waiting for reward",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Criterion",
+     "metin": "Consecutive correct responses",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The test starts at a clearly audible level that the child is sure to hear.",
+    "In the first trials the sound is presented and the reward is lit right after it, linking sound and reward.",
+    "After a few trials, the child starts turning their head on hearing the sound, without waiting for the reward.",
+    "This head turn before the reward shows that conditioning has taken place.",
+    "Usually, threshold searching begins after two or more consecutive correct responses.",
+    "If the loss is severe, a higher level or vibration from the bone vibrator can be used for conditioning."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Conditioning and threshold",
+   "baslik": "Searching for *threshold*",
+   "maddeler": [
+    {
+     "metin": "_Warble tones_ or narrowband noise",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Response: _decrease_; no response: increase",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Response window: a _short_ time",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Few trials: set _priorities_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Threshold searching uses frequency-specific stimuli, such as warble tones with a slightly modulated frequency, or narrowband noise.",
+    "After a response the level is lowered, after none it is raised; for example, ten decibels down and five up near threshold.",
+    "Only head turns made within a short time window after the stimulus are accepted as responses.",
+    "The reward is kept brief and changed if needed, so the child's interest lasts longer.",
+    "Because the child will tire after a certain number of responses, the most important frequencies are tested first.",
+    "Usually one low and one high frequency are targeted in each ear first, followed by the frequencies in between."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Conditioning and threshold",
+   "baslik": "Speech and *Ling sounds*",
+   "maddeler": [
+    {
+     "metin": "_Speech_ awareness level",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ling sounds: _m, oo, ah, ee, sh, s_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Checks_ aided hearing",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "_Does not replace_ frequency-specific thresholds",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "VRA can be done with speech sounds as well as tones, giving the speech awareness level.",
+    "The Ling sounds, m, oo, ah, ee, sh and s, cover a wide range from low to high frequencies.",
+    "These sounds are especially useful for checking aided hearing in children who wear hearing aids.",
+    "However, speech is a broadband stimulus, so it does not replace frequency-specific thresholds.",
+    "So responses to speech are used to complement the findings obtained with tones."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Conditioning and threshold",
+   "baslik": "An example *result*",
+   "sutunlar": [
+    "Frequency",
+    "Right (insert)",
+    "Left (insert)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "20 dB HL",
+      "25 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "20 dB HL",
+      "20 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "25 dB HL",
+      "50 dB HL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "20 dB HL",
+      "60 dB HL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Now let us look at a purely example VRA result; for this child, testing was done with insert earphones.",
+    "In the right ear, responses were obtained at around twenty to twenty five decibels at all frequencies.",
+    "In the left ear, however, responses rose to fifty and sixty decibels at two thousand and four thousand hertz.",
+    "Had this test been done in the sound field, the right ear would have responded and this left ear loss would have been missed.",
+    "This finding needs to be evaluated together with ABR, OAE and tympanometry."
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Control trials",
+   "baslik": "*Control* trials",
+   "maddeler": [
+    {
+     "metin": "A trial with _no_ sound",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Goal: measure _random_ head turns",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_No reward_ on control trials",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Many false responses: _low reliability_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Control trials are observation trials in which no sound is presented at all.",
+    "In these trials, you check whether the child turns their head at random even without sound.",
+    "Head turns on control trials are not rewarded; otherwise the child is conditioned to timing rather than to sound.",
+    "If the false response rate is high, for example above thirty percent, the levels are unreliable and the child is reconditioned.",
+    "Control trials are placed at irregular intervals among the real trials.",
+    "The report also states the false response rate and the reliability of the test."
+   ]
+  },
+  {
+   "id": "yanlilik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Control trials",
+   "baslik": "*Reducing* bias",
+   "maddeler": [
+    {
+     "metin": "Present stimuli at _irregular_ intervals",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "The distracter must not give _cues_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Define the response _in advance_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "If stimuli come in a regular rhythm, the child may turn by predicting the timing, so the intervals are varied.",
+    "If the distracter knows when the stimulus is presented, they may give cues without realizing it.",
+    "So it is preferable that the distracter neither hears nor sees the stimulus.",
+    "What counts as a response, for example a clear head turn toward the reward, is clearly defined before testing.",
+    "These precautions ensure that the results come from the child's hearing, not from the observer's expectations."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If the child accepts them, start with insert earphones; the sound field shows only the better ear and can hide a unilateral loss.",
+   "cumleler": [
+    "A clinical tip: if the child accepts them, start the test with insert earphones from the very beginning.",
+    "Sound field responses reflect only the better-hearing ear and can hide a unilateral loss.",
+    "Foam-tipped insert earphones are well tolerated by most children and can be fitted during the distraction play.",
+    "Because the child's attention is limited, getting ear-specific information from the first responses makes testing more efficient."
+   ]
+  },
+  {
+   "id": "ses_alani",
+   "tur": "karsilastir",
+   "bolum_no": "PART 5",
+   "bolum": "Ear-specific testing",
+   "baslik": "Sound field or *insert?*",
+   "sol": {
+    "ust": "Sound field",
+    "maddeler": [
+     {
+      "metin": "Stimulus from a loudspeaker",
+      "cumle": 0
+     },
+     {
+      "metin": "Reflects the better ear",
+      "cumle": 1
+     },
+     {
+      "metin": "Warble tone or narrowband",
+      "cumle": 4
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Insert earphones",
+    "maddeler": [
+     {
+      "metin": "Each ear separately",
+      "cumle": 2
+     },
+     {
+      "metin": "Reveals a unilateral loss",
+      "cumle": 2
+     },
+     {
+      "metin": "Less need for masking",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Sound field testing is a useful start for children who will not wear earphones.",
+    "However, the result reflects the two ears hearing together, in practice the better ear.",
+    "Insert earphones allow each ear to be tested separately and reveal a unilateral or asymmetric loss.",
+    "Because interaural attenuation is high with insert earphones, there is also less need for masking.",
+    "To avoid standing waves in the sound field, warble tones or narrowband noise are preferred over pure tones."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Ear-specific testing",
+   "baslik": "VRA with *bone conduction*",
+   "maddeler": [
+    {
+     "metin": "Vibrator on the _mastoid_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Air and bone _compared_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "No _ear specificity_ without masking",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Middle ear fluid is _common_ at this age",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "kemik_vibratoru",
+      "metin": "bone vibrator",
+      "cumle": 1
+     },
+     {
+      "parca": "cihaz",
+      "metin": "audiometer",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "If air conduction responses are elevated, VRA with bone conduction can be done to understand the type of loss.",
+    "The bone vibrator is placed on the mastoid, taking care that it does not slip as the child moves.",
+    "If bone conduction responses are normal and air conduction responses elevated, a conductive component is considered.",
+    "Because bone-conducted sound reaches both cochleae, without masking you cannot know which ear responded.",
+    "Middle ear fluid is common in this age group, so evaluation together with tympanometry is important."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Ear-specific testing",
+   "baslik": "*Limitations* and cross-checking",
+   "maddeler": [
+    {
+     "metin": "Habituation: a _limited_ number of responses",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Developmental delay, _vision_ problems",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Responses may sit _slightly above_ threshold",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cross-check: _ABR, OAE_, tympanometry",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Over time the child habituates to the reward and responses decline, so the information from one session is limited.",
+    "For children with developmental delay or vision problems, the method may not be suitable or may need adapting.",
+    "Even in infants with normal hearing, minimal response levels may be slightly higher than adult thresholds.",
+    "So results are interpreted with ABR, OAE and tympanometry findings, following the cross-check principle.",
+    "When needed, testing is completed over several sessions and the consistency of results is monitored.",
+    "This information forms the basis for hearing aid fitting, if needed, and for the follow-up plan."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Ear-specific testing",
+   "baslik": "*What* goes in the report?",
+   "maddeler": [
+    {
+     "metin": "Sound field or _ear-specific_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Stimulus type and _frequencies_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Response levels and _reliability_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "The child's _state_ and cooperation",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "The report states clearly whether testing was done in the sound field or ear-specifically with earphones.",
+    "The stimulus type used and the frequencies tested are recorded.",
+    "Along with the response levels, the false response rate on control trials and overall reliability are noted.",
+    "Details such as the child's alertness, cooperation and why testing stopped early help plan the next session.",
+    "Sound field results are shown on the audiogram with the sound field symbol, not with ear-specific symbols."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "About _6 to 24 months_, developmental age",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Conditioned head turn and _visual reward_",
+     "cumle": 1,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Reliability via _control trials_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Ear-specific_ testing with insert earphones",
+     "cumle": 3,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "VRA suits children with a developmental age of about six to twenty four months.",
+    "The child is conditioned to turn toward sound, and correct responses are reinforced with a visual reward.",
+    "Control trials without sound show random head turns and the reliability of the test.",
+    "Because the sound field reflects only the better ear, ear-specific testing with insert earphones is the goal."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is the purpose of a control trial in VRA?",
+   "secenekler": [
+    "To find threshold quickly",
+    "To measure random head turns",
+    "To introduce the reward"
+   ],
+   "dogru": 1,
+   "aciklama": "A trial with no sound shows the _false response_ rate.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in VRA, what is the purpose of control trials presented without sound?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: to measure random head turns, that is, false responses.",
+    "If the false response rate is high, the levels obtained are not considered reliable."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Conditioned *Play* Audiometry (CPA)",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn conditioned play audiometry, or CPA, used with older children.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

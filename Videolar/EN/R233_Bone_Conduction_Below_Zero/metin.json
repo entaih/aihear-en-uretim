@@ -1,0 +1,120 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R233_Bone_Conduction_Below_Zero_EN",
+ "kapak": {
+  "ust": "QUICK FACT #233",
+  "baslik": "Bone conduction *below zero*",
+  "alt": "An audiogram clue in superior canal dehiscence",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      25,
+      20,
+      15,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      -10,
+      -10,
+      0,
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can a bone conduction threshold fall below zero decibels? #shorts",
+  "aciklama": "In superior canal dehiscence, an opening in the superior semicircular canal creates a third window in the inner ear. In this example, masked bone conduction reaches minus 10 dB at low frequencies, and an air-bone gap appears despite a normal middle ear; unlike otosclerosis, the acoustic reflex is usually present.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiometry",
+   "vestibular"
+  ],
+  "etiketler": [
+   "superior canal dehiscence",
+   "third window",
+   "bone conduction",
+   "air-bone gap",
+   "acoustic reflex",
+   "otosclerosis",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can a bone conduction threshold fall below zero decibels?",
+  "bilgiler": [
+   "Here, masked bone conduction is minus 10 dB at low frequencies.",
+   "A third window boosts bone conduction, creating an air-bone gap.",
+   "Unlike otosclerosis, the acoustic reflex is usually present."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "vestibular"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #233",
+   "metin": "Bone conduction *below zero?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can a bone conduction threshold fall below zero decibels?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Masked *bone conduction* threshold",
+   "sayi": "-10",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    {
+     "yazi": "Here, masked bone conduction reaches -10 dB at low frequencies.",
+     "ses": "Here, masked bone conduction reaches minus ten decibels at low frequencies."
+    },
+    "A canal opening creates a third window in the inner ear.",
+    "Bone conduction sensitivity rises, creating a low-frequency air-bone gap.",
+    "The middle ear is intact; unlike otosclerosis, the reflex is usually present.",
+    "So do not stop at zero; test negative levels too."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D145",
+ "kaynak_baslik": "Third Window Syndromes: Superior Canal Dehiscence"
+}

@@ -1,0 +1,115 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R060_More_Than_a_Quarter_EN",
+ "kapak": {
+  "ust": "QUICK FACT #60",
+  "baslik": "Age and *hearing loss*",
+  "alt": "More than a quarter of people over 60",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      55,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      20,
+      40,
+      55,
+      70
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How common is hearing loss after age sixty? #shorts",
+  "aciklama": "According to the World Health Organization, more than a quarter of people over 60 have disabling hearing loss. Because the loss progresses slowly, people often do not notice it for a long time.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "aging"
+  ],
+  "etiketler": [
+   "presbycusis",
+   "age-related hearing loss",
+   "World Health Organization",
+   "hearing loss prevalence",
+   "older adults",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How common is hearing loss after age sixty?",
+  "bilgiler": [
+   "More than a quarter of people over 60 have disabling hearing loss.",
+   "The loss progresses slowly; people often miss it for a long time.",
+   "Often, those around them notice it first."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "aging"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #60",
+   "metin": "After 60, how *common* is hearing loss?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How common is hearing loss after age sixty?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Over sixty: *more than a quarter*",
+   "sayi": "1/4",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The World Health Organization says over a quarter have disabling loss.",
+    "The loss progresses slowly, so people often miss it for years.",
+    "Often, those around them notice it first."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D139",
+ "kaynak_baslik": "Presbycusis"
+}

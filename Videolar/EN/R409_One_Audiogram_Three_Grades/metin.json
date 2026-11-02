@@ -1,0 +1,113 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R409_One_Audiogram_Three_Grades_EN",
+ "kapak": {
+  "ust": "QUICK FACT #409",
+  "baslik": "Three scales, *three grades*",
+  "alt": "Example audiogram after cisplatin",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can one audiogram get different ototoxicity grades on different scales? #shorts",
+  "aciklama": "In a purely illustrative audiogram of an eight-year-old child after cisplatin treatment, thresholds are 30 dB HL at 3000 Hz and 45 dB HL at 4000 Hz. The same audiogram is grade 2 on the Brock scale, 2a on the Chang scale and grade 3 on the SIOP Boston scale; so the grade is always reported with the scale name, and treatment decisions belong to the team.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ototoxicity",
+   "pediatrics"
+  ],
+  "etiketler": [
+   "ototoxicity grading",
+   "Brock scale",
+   "Chang scale",
+   "SIOP Boston scale",
+   "cisplatin",
+   "pediatric oncology",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can one audiogram get different ototoxicity grades on different scales?",
+  "bilgiler": [
+   "Brock scale: grade 2.",
+   "Chang scale: grade 2a.",
+   "SIOP Boston scale: grade 3; report the grade with the scale name."
+  ],
+  "hashtag": [
+   "audiology",
+   "ototoxicity",
+   "pediatrics"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #409",
+   "metin": "Which *grade?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can one audiogram get different ototoxicity grades on different scales?"
+   ]
+  },
+  {
+   "id": "olcekler",
+   "tur": "zincir",
+   "baslik": "One *audiogram*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Brock",
+     "tr": "grade 2",
+     "cumle": 1
+    },
+    {
+     "ad": "Chang",
+     "tr": "grade 2a",
+     "cumle": 2
+    },
+    {
+     "ad": "SIOP Boston",
+     "tr": "grade 3",
+     "cumle": 3
+    }
+   ],
+   "alt": "Write the _scale name_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Example thresholds: thirty at three thousand hertz, forty five at four thousand.",
+    "Brock: forty decibels starts at four thousand hertz, so grade two.",
+    {
+     "yazi": "On the Chang scale, the grade is 2a.",
+     "ses": "On the Chang scale, the grade is two A."
+    },
+    {
+     "yazi": "SIOP Boston uses a twenty decibel cutoff: grade three.",
+     "ses": "See op Boston uses a twenty decibel cutoff: grade three."
+    },
+    "So the grade is always written with the scale name."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D231",
+ "kaynak_baslik": "Grading Ototoxicity in Children: Brock, Chang, SIOP"
+}

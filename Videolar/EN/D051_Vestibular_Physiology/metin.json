@@ -1,0 +1,898 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D051_Vestibular_Physiology_EN",
+ "kapak": {
+  "ust": "LESSON 51",
+  "baslik": "Vestibular<br>*physiology*",
+  "alt": "Canals, otoliths, push-pull",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Vestibular Physiology: How We Sense Head Motion | Lesson 51 | AIHEAR Audiology Academy",
+  "aciklama": "The semicircular canals sense rotation of the head, while the otolith organs sense linear motion and gravity. In this lesson we look at vestibular hair cells, how the cupula is deflected, the role of the otoconia, the canal planes, the push-pull principle and which structure each vestibular test assesses.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jacobson and Shepard, Balance Function Assessment and Management; Goldberg et al., The Vestibular System: A Sixth Sense; Herdman and Clendaniel, Vestibular Rehabilitation; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "balance"
+  ],
+  "etiketler": [
+   "vestibular physiology",
+   "semicircular canals",
+   "otolith organs",
+   "cupula",
+   "otoconia",
+   "angular acceleration",
+   "linear acceleration",
+   "push-pull principle",
+   "VEMP",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 51",
+   "baslik": "Vestibular *physiology*",
+   "alt": "How is head motion sensed?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how the balance part of the inner ear senses head motion and gravity.",
+    "We will look at the semicircular canals, the otolith organs and the push-pull principle by which the two ears work together."
+   ]
+  },
+  {
+   "id": "bes_organ",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Five sensors",
+   "baslik": "*Five* sensors in each ear",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "semicircular canals",
+     "cumle": 0
+    },
+    {
+     "parca": "ampulla",
+     "metin": "ampulla",
+     "cumle": 2
+    },
+    {
+     "parca": "utrikul",
+     "metin": "utricle",
+     "cumle": 3
+    },
+    {
+     "parca": "sakkul",
+     "metin": "saccule",
+     "cumle": 3
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "vestibular nerve",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 1
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 2
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 3
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Canals: rotation",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Otoliths: linear motion, gravity",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ampulla",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Each inner ear has five sensors for balance: three semicircular canals and two otolith organs.",
+    "The semicircular canals sense rotation of the head, that is, angular acceleration.",
+    "The widened end of each canal is called the ampulla; the sensory hair cells are located here.",
+    "The utricle and saccule are the otolith organs; they sense linear acceleration and gravity.",
+    "Information from these organs reaches the brainstem through the vestibular nerve.",
+    "So the brain learns both that the head is turning and in which direction it is tilting or sliding."
+   ]
+  },
+  {
+   "id": "tuy_hucresi",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Five sensors",
+   "baslik": "Vestibular *hair cells*",
+   "maddeler": [
+    {
+     "metin": "Stereocilia and a single _kinocilium_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Bending towards kinocilium: _excitation_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bending away: _inhibition_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "_Constant_ firing even at rest",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler_tuy_hucresi",
+    "cumle": 0,
+    "ayar": {
+     "mod": "ates",
+     "cumleler": [
+      2,
+      0,
+      1
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "kinosilyum",
+      "cumle": 0
+     },
+     {
+      "parca": "kinosilyuma_dogru",
+      "cumle": 1
+     },
+     {
+      "parca": "ters_yon",
+      "cumle": 2
+     },
+     {
+      "parca": "dinlenim",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "On top of vestibular hair cells are stereocilia of increasing height, with a single kinocilium on the tallest side."
+    },
+    "When the stereocilia bend towards the kinocilium, the cell depolarises and the firing rate of the nerve fiber increases.",
+    "When they bend the other way, the cell hyperpolarises and the firing rate decreases.",
+    "Vestibular nerve fibers fire continuously even when the head is still; this is called tonic firing.",
+    "In monkeys, this resting rate has been found to average about seventy to ninety spikes per second, depending on the study.",
+    "Thanks to this resting activity, a single fiber can code motion in two directions by raising or lowering its rate."
+   ]
+  },
+  {
+   "id": "kupula",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Semicircular canals",
+   "baslik": "The ampulla and the *cupula*",
+   "cizim": "ampulla_kesit",
+   "etiketler": [
+    {
+     "parca": "krista",
+     "metin": "Crista ampullaris",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "metin": "Cupula",
+     "cumle": 1
+    },
+    {
+     "parca": "akim",
+     "metin": "Endolymph lags behind",
+     "cumle": 2
+    },
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Hair cells",
+     "cumle": 3,
+     "yer": "alt"
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "krista",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "cumle": 1
+    },
+    {
+     "parca": "akim",
+     "cumle": 2
+    },
+    {
+     "parca": "stereosiller",
+     "cumle": 3
+    },
+    {
+     "parca": "kupula",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endolymph lags behind",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Cupula deflects, cells bend",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Cupula is insensitive to gravity",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "krista",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Inside each ampulla is a ridge carrying the hair cells, called the crista ampullaris."
+    },
+    {
+     "yazi": "The hair cell bundles are embedded in the gelatinous cupula, which closes off the ampulla like a flap."
+    },
+    "When the head turns, the canal wall turns at once, but the endolymph inside lags behind because of inertia.",
+    "This relative flow pushes the cupula to one side and bends the hair cell bundles.",
+    "The cupula has almost the same density as endolymph, so the canals are normally not affected by gravity.",
+    "If otoconia stick to the cupula, the canal becomes sensitive to gravity; this is one cause of positional vertigo."
+   ],
+   "ayar": {
+    "sapma": 0.8,
+    "sapma_cumle": 3,
+    "akim": true
+   }
+  },
+  {
+   "id": "ivme_hiz",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Semicircular canals",
+   "baslik": "Acceleration or *velocity*?",
+   "maddeler": [
+    {
+     "metin": "Stimulus: _angular acceleration_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "In daily movement, signal tracks _velocity_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Constant rotation: cupula _returns_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Velocity storage_ extends the response",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "What deflects the cupula is the start or stop of rotation, that is, angular acceleration.",
+    "But because of the canal's mechanics, in everyday head movements the nerve signal is proportional to head angular velocity.",
+    "So the canals code very well the quick, brief movements made when walking or turning the head.",
+    "When we rotate at a constant velocity for a long time, the cupula springs back within a few seconds and the signal fades.",
+    "The brainstem extends this signal for a while longer; this is called velocity storage.",
+    "That is why, when rotation stops suddenly, a brief sensation of turning and nystagmus appear in the opposite direction."
+   ]
+  },
+  {
+   "id": "duzlemler",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Semicircular canals",
+   "baslik": "Canal *planes*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "lateral_kanal",
+     "metin": "lateral canal",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "metin": "anterior canal",
+     "cumle": 3
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "posterior canal",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lateral pair: turning the head side to side",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "LARP: left anterior, right posterior",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "RALP: right anterior, left posterior",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "The three canals lie in roughly perpendicular planes, so rotation in any direction can be sensed.",
+    "The two lateral canals lie in the same plane and sense turning the head from side to side.",
+    "The lateral canal is not exactly horizontal; its front tilts up about thirty degrees, so in caloric testing the supine head is raised thirty degrees.",
+    "The vertical canals pair diagonally: the left anterior and right posterior canals share a plane, called LARP.",
+    "The right anterior and left posterior canals form the RALP plane.",
+    "The two canals in the same plane report the same movement with opposite signals."
+   ]
+  },
+  {
+   "id": "itme_cekme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Semicircular canals",
+   "baslik": "The *push-pull* principle",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Right lateral canal",
+     "metin": "Endolymph towards the ampulla",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Right nerve",
+     "metin": "Firing increases",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Left lateral canal",
+     "metin": "Flow away from ampulla, firing falls",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Brain",
+     "metin": "Reads the difference between sides",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "When we turn the head to the right, both lateral canals are stimulated at once but in opposite directions; this is the push-pull principle.",
+    "In the right lateral canal, endolymph flows, relatively, towards the ampulla.",
+    "In this canal, flow towards the ampulla is excitatory, so firing in the right nerve increases.",
+    "In the left lateral canal, flow is away from the ampulla, and firing in the left nerve decreases.",
+    "By reading the difference between the two sides, the brain works out the direction and speed of rotation.",
+    "This arrangement strengthens the signal and lets the system notice when there is a problem on one side."
+   ]
+  },
+  {
+   "id": "polarite",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Semicircular canals",
+   "baslik": "Flow direction and *excitation*",
+   "maddeler": [
+    {
+     "metin": "Lateral canal: flow to ampulla _excites_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Vertical canals: flow away _excites_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Excitation _stronger_ than inhibition",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fast impulses: excited side _dominates_",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "superior_kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "posterior_kanal",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "In the lateral canal the kinocilium is on the utricle side, so flow towards the ampulla is excitatory.",
+    "In the anterior and posterior canals the kinocilium is on the canal side, and flow away from the ampulla is excitatory.",
+    "A fiber's firing can rise very high but cannot fall below zero, so the excitatory response is stronger than the inhibitory one.",
+    {
+     "yazi": "This asymmetry is part of the rules known as Ewald's laws; we will look at them in detail in the next lesson."
+    },
+    "In fast head movements, each canal gives the dominant signal in its excitatory direction; the video head impulse test relies on this."
+   ]
+  },
+  {
+   "id": "makula",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Otolith organs",
+   "baslik": "The macula and *otoconia*",
+   "cizim": "makula_kesit",
+   "etiketler": [
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Hair cells",
+     "cumle": 0
+    },
+    {
+     "parca": "otolit_zari",
+     "metin": "Otolithic membrane",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "metin": "Otoconia",
+     "cumle": 2
+    },
+    {
+     "parca": "striola",
+     "metin": "Striola",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "makula",
+     "cumle": 0
+    },
+    {
+     "parca": "jelatinimsi_tabaka",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "cumle": 2
+    },
+    {
+     "parca": "kayma",
+     "cumle": 3
+    },
+    {
+     "parca": "striola",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Otoconia: calcium carbonate",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Position and linear acceleration",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Striola: cell orientation reverses",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In the utricle and saccule, the hair cells sit in an area called the macula."
+    },
+    "The hair cell bundles are embedded in a gelatinous membrane, and on top of it lie the otoconia, or ear stones.",
+    "Otoconia are tiny crystals of calcium carbonate and are heavier than the surrounding fluid.",
+    "When the head tilts or accelerates in a straight line, this heavy layer slides or lags behind and bends the hair cells.",
+    "So the otolith organs sense both the position of the head relative to gravity and linear motion.",
+    "On either side of a line in the macula called the striola, cells face opposite ways, so one macula can code every direction in its plane."
+   ],
+   "ayar": {
+    "egim": 0.8,
+    "egim_cumle": 3
+   }
+  },
+  {
+   "id": "utrikul_sakkul",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Otolith organs",
+   "baslik": "Utricle and *saccule*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "utricle",
+     "cumle": 0
+    },
+    {
+     "parca": "sakkul",
+     "metin": "saccule",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 0
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "utrikul",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Utricle: horizontal; forward, back, sideways",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Saccule: vertical; up and down",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "cVEMP: saccule, oVEMP: utricle",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "When we stand upright, the utricular macula lies in a roughly horizontal plane.",
+    "So the utricle senses linear movement forward, backward and sideways, as well as head tilt.",
+    "The saccular macula lies in a roughly vertical plane.",
+    "The saccule mainly senses up and down movement, for example a lift starting to rise.",
+    "In the clinic, the otolith organs are assessed with vestibular evoked myogenic potential, or VEMP, tests.",
+    {
+     "yazi": "The saccule is studied mainly with the cervical VEMP, or cVEMP, and the utricle mainly with the ocular VEMP, or oVEMP."
+    }
+   ]
+  },
+  {
+   "id": "belirsizlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Otolith organs",
+   "baslik": "Tilt or *acceleration*?",
+   "maddeler": [
+    {
+     "metin": "To an otolith, tilt and acceleration are _alike_",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "The brain _adds_ canal and visual input",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Without visual cues, _illusions_ can occur",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "utrikul",
+      "cumle": 0
+     },
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "To an otolith organ, tilting the head back and accelerating forward are very similar stimuli.",
+    "In both cases, the otolith layer slides the same way relative to the macula.",
+    "The brain resolves this ambiguity using rotation information from the semicircular canals and visual information.",
+    "During a tilt the canals are also stimulated, whereas in straight acceleration no rotation signal comes from the canals.",
+    "Without visual cues, for example in an aircraft accelerating in the dark, an illusion that the nose is pitching up can occur."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical link",
+   "baslik": "Which test measures *what*?",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Caloric test",
+     "metin": "Lateral canal, each ear separately",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Rotary chair",
+     "metin": "Lateral canals; low, mid frequency",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "Six canals; high frequency",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "cVEMP",
+     "metin": "Saccule, inferior nerve",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "oVEMP",
+     "metin": "Utricle, superior nerve",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Each vestibular test examines a different part of these sensors and a different speed of movement.",
+    "The caloric test assesses only the lateral canal, with a very slow stimulus, and each ear separately.",
+    "The rotary chair tests both lateral canals together, with low and mid-frequency rotations.",
+    "The video head impulse test, or vHIT, assesses all six canals with fast, high-frequency head movements.",
+    {
+     "yazi": "The cVEMP reflects the saccule and inferior vestibular nerve, and the oVEMP the utricle and superior vestibular nerve.",
+     "ses": "The cervical VEMP reflects the saccule and inferior vestibular nerve, and the ocular VEMP the utricle and superior vestibular nerve."
+    },
+    "So the tests do not replace one another; together they form a test battery."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical link",
+   "baslik": "If one side goes *silent*",
+   "maddeler": [
+    {
+     "metin": "The two sides _unbalanced_ at rest",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "The brain: the head is _turning_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Vertigo, nystagmus, nausea",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Compensation_ over time",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "The push-pull principle explains why a one-sided vestibular loss causes severe symptoms.",
+    "If tonic firing on one side suddenly drops, the brain reads the difference as the head turning towards the healthy side.",
+    "As a result, vertigo, nystagmus and nausea can appear even when the person is still.",
+    "Over time the central nervous system reduces this imbalance and the symptoms ease; this process is called compensation.",
+    "In bilateral loss, by contrast, image blurring during head movement and unsteadiness in the dark come to the fore rather than vertigo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical link",
+   "baslik": "Clinical caution",
+   "metin": "When interpreting vestibular results, consider which organ and which movement speed each test measures. A caloric weakness with a normal vHIT can occur; this alone is not a contradiction.",
+   "cumleler": [
+    "A clinical tip: when interpreting vestibular test results, consider which organ and which movement speed each test measures.",
+    "For example, the caloric test can show a weakness while the vHIT is normal, which fits with the two tests measuring different frequencies.",
+    "Similarly, VEMP responses may be affected while the canal tests are normal.",
+    "Reporting results based on the whole battery rather than a single test reduces misinterpretation."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Canals sense _rotation_, otoliths tilt and translation",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "The _cupula_ deflects with endolymph flow",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Otoconia_ give sensitivity to gravity",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_Push-pull_: the two sides oppose",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "The semicircular canals sense rotation, while the otolith organs sense linear motion and gravity.",
+    "In the canals, when the head turns, the endolymph lags, the cupula deflects and the hair cells are stimulated.",
+    "In the otolith organs, the weight of the otoconia makes the macula sensitive to gravity and linear acceleration.",
+    "Paired canals on the two sides work by the push-pull principle; the brain reads the difference between the sides."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which canal is excited when we turn the head to the right?",
+   "secenekler": [
+    "Right lateral canal",
+    "Left lateral canal",
+    "Right posterior canal",
+    "Left anterior canal"
+   ],
+   "dogru": 0,
+   "aciklama": "On a turn to the right, flow in the right lateral canal is _towards the ampulla_ and excitatory.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which semicircular canal is excited when we turn the head to the right?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is A: the right lateral canal."
+    },
+    "At the same time the left lateral canal is inhibited; the brain senses rotation by reading the difference between the two sides."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The Vestibulo-Ocular Reflex: Keeping Vision *Stable*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how these signals move the eyes, through the vestibulo-ocular reflex.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,812 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D195_Measuring_Outcomes_EN",
+ "kapak": {
+  "ust": "LESSON 195",
+  "baslik": "Measuring<br>*outcomes*",
+  "alt": "APHAB, IOI-HA and SSQ",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Measuring Outcomes: APHAB, IOI-HA and SSQ | Lesson 195 | AIHEAR Audiology Academy",
+  "aciklama": "Does the hearing aid really help in the person's daily life? In this lesson we cover the difference between verification and validation, the four APHAB subscales and their scoring, the seven IOI-HA items, the speech, spatial and qualities sections of the SSQ, and choosing questionnaires in the clinic.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Cox and Alexander (1995), The Abbreviated Profile of Hearing Aid Benefit, Ear and Hearing; Cox et al. (2000), Optimal outcome measures, research priorities, and international cooperation, Ear and Hearing; Cox, Alexander and Beyer (2003), Norms for the International Outcome Inventory for Hearing Aids, Journal of the American Academy of Audiology; Gatehouse and Noble (2004), The Speech, Spatial and Qualities of Hearing Scale, International Journal of Audiology; Şerbetçioğlu et al. (2009), Journal of International Advanced Otology; Kılıç et al. (2021), Turkish Archives of Otorhinolaryngology; Çıldır et al. (2021), ENT Updates; Dillon, Hearing Aids.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "APHAB"
+  ],
+  "etiketler": [
+   "APHAB",
+   "IOI-HA",
+   "SSQ",
+   "self-report questionnaire",
+   "hearing aid benefit",
+   "hearing aid outcome",
+   "verification",
+   "validation",
+   "COSI",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 195",
+   "baslik": "Measuring *outcomes*",
+   "alt": "APHAB, IOI-HA and SSQ",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how we measure how much a hearing aid helps in the person's daily life.",
+    "We will look at the logic of self-report questionnaires, the three most widely used ones, and how they are interpreted in the clinic."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why self-report?",
+   "baslik": "Isn't measurement *enough?*",
+   "maddeler": [
+    {
+     "metin": "Verification: did the aid reach target?",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Validation: did the person's life change?",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "The person knows their daily life",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Standard, comparable questions",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TWO QUESTIONS",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Verification",
+      "cumle": 0,
+      "metin": "Does it match target?"
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Validation",
+      "cumle": 1,
+      "metin": "Has life changed?"
+     }
+    ]
+   },
+   "cumleler": [
+    "Real-ear measurement shows whether the aid reaches the prescriptive target; this is called verification.",
+    "But the real question is whether the aid changes the person's daily life; this is called validation.",
+    "Even an aid that matches target exactly may not deliver the expected benefit in the settings the person cares about.",
+    "The person knows best what happens in a restaurant, in a meeting or at home.",
+    "Self-report questionnaires turn this experience into numbers with standard questions and allow comparison over time.",
+    "So good practice includes both verification and validation."
+   ]
+  },
+  {
+   "id": "alanlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why self-report?",
+   "baslik": "The *five faces* of success",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Use",
+     "cumle": 1,
+     "metin": "How many hours a day?"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Benefit",
+     "cumle": 2,
+     "metin": "Difference from unaided"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Residual difficulty",
+     "cumle": 3,
+     "metin": "What is still hard"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Satisfaction",
+     "cumle": 4,
+     "metin": "Was it worth it?"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Quality of life",
+     "cumle": 5,
+     "metin": "Participation and enjoyment"
+    }
+   ],
+   "cumleler": [
+    "There is no single measure of hearing aid success; different questionnaires look at different domains.",
+    "Use shows how much the aid is really worn; an aid that is not used brings no benefit.",
+    "Benefit is the difference between the aided and unaided conditions.",
+    "Residual difficulty shows the situations that are still hard despite the aid.",
+    "Satisfaction is the person's judgment of whether the aid was worth the effort and cost.",
+    "Quality of life covers the effect of hearing on social participation and general well-being."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Why self-report?",
+   "baslik": "*When* is a questionnaire given?",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Before the aid",
+     "cumle": 0,
+     "metin": "Unaided condition"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Fitting",
+     "cumle": 1,
+     "metin": "Verification"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Acclimatization",
+     "cumle": 2,
+     "metin": "A few weeks"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Aided form",
+     "cumle": 3,
+     "metin": "Same questionnaire"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Compare",
+     "cumle": 4,
+     "metin": "Difference and norms"
+    }
+   ],
+   "cumleler": [
+    "If benefit is to be measured, the unaided condition is assessed before the aid is fitted.",
+    "Then the aid is fitted and verified with real-ear measurement.",
+    "The person is given a few weeks to use the aid in daily settings and get used to it.",
+    "Then the same questionnaire is completed again for the aided condition.",
+    "The two results are compared and interpreted together with the questionnaire's norms.",
+    "This structure makes follow-up appointments more productive for fine-tuning and counseling."
+   ]
+  },
+  {
+   "id": "aphab",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "APHAB",
+   "baslik": "*APHAB*: four subscales",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Ease of communication",
+     "cumle": 1,
+     "metin": "Speech in good conditions"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Reverberation",
+     "cumle": 2,
+     "metin": "In reverberant rooms"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Background noise",
+     "cumle": 3,
+     "metin": "Speech in noise"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Aversiveness",
+     "cumle": 4,
+     "metin": "Loud environmental sounds"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The Abbreviated Profile of Hearing Aid Benefit, or APHAB, was published in 1995.",
+     "ses": "The Abbreviated Profile of Hearing Aid Benefit, or A P H A B, was published in nineteen ninety-five."
+    },
+    "It has 24 items, divided into four subscales of six items each; the first is ease of communication.",
+    "The second subscale asks about understanding speech in reverberant settings.",
+    "The third assesses understanding speech when there is background noise.",
+    "The fourth asks how unpleasant loud environmental sounds are found.",
+    "For each item, the person marks how often they experience the problem described."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "APHAB",
+   "baslik": "APHAB *response scale*",
+   "sutunlar": [
+    "Response",
+    "Problem percentage"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Always",
+      "99"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Almost always",
+      "87"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Generally",
+      "75"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Half the time",
+      "50"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Occasionally",
+      "25"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Seldom",
+      "12"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Never",
+      "1"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Responses are given on a seven-point frequency scale.",
+    "The answer always is scored as 99 percent, and almost always as 87 percent.",
+    "Generally counts as 75 percent, and half the time as 50 percent.",
+    "Occasionally is scored as 25 percent, seldom as 12 percent and never as 1 percent.",
+    "Some items are worded in the opposite direction and are reversed in scoring, so the official scoring key or software is used."
+   ]
+  },
+  {
+   "id": "aphab_grafik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "APHAB",
+   "baslik": "Unaided and *aided* APHAB",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4.5,
+     "ad": "Subscale",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Communication",
+      "2": "Reverberation",
+      "3": "Noise",
+      "4": "Aversiveness"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Problem percentage"
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        0.82,
+        62
+       ],
+       [
+        1.82,
+        68
+       ],
+       [
+        2.82,
+        74
+       ],
+       [
+        3.82,
+        24
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "unaided",
+      "etiket_konum": [
+       0.82,
+       62
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "cihazli",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1.18,
+        26
+       ],
+       [
+        2.18,
+        41
+       ],
+       [
+        3.18,
+        46
+       ],
+       [
+        4.18,
+        39
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "aided",
+      "etiket_konum": [
+       1.18,
+       26
+      ],
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "yarar",
+      "y": [
+       26,
+       62
+      ],
+      "xk": 1.4,
+      "etiket": "benefit",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Scores show the percentage of problems the person experiences; the lower the score, the smaller the problem.",
+    "In this example, on the unaided form, the problem percentage is high for the communication, reverberation and noise subscales.",
+    "On the aided form, scores have dropped markedly on these three subscales; the difference is the aid's benefit.",
+    "On the aversiveness subscale, however, the score has risen with the aid; loud sounds have started to feel more unpleasant.",
+    "This increase is common on this subscale, because environmental sounds are heard more with the aid.",
+    "This finding can be a clue to review the gain for loud inputs and the maximum output."
+   ]
+  },
+  {
+   "id": "aphab_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "APHAB",
+   "baslik": "*Interpreting* the APHAB",
+   "maddeler": [
+    {
+     "metin": "Benefit: unaided minus aided",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Comparison with norms is possible",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Criteria exist for meaningful differences",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Translated forms: check validation",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "APHAB",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "24 items",
+      "cumle": 0,
+      "metin": "Four subscales"
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Seven responses",
+      "cumle": 0,
+      "metin": "1 to 99 percent"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Benefit",
+      "cumle": 0,
+      "metin": "Unaided minus aided"
+     }
+    ]
+   },
+   "cumleler": [
+    "For each subscale, benefit is calculated by subtracting the aided score from the unaided score.",
+    "The average of the first three subscales is also used as a global benefit score.",
+    "The developers of the questionnaire published norms from experienced users, and a person's result can be compared with them.",
+    "Criteria have also been proposed for the smallest difference needed to say that a change is not due to chance.",
+    "So a small difference of a few points is not, on its own, interpreted as a real change.",
+    "The questionnaire has translations into other languages; before using a Turkish or other translated form, check for a validation study."
+   ]
+  },
+  {
+   "id": "ioiha",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "IOI-HA",
+   "baslik": "*IOI-HA*: seven items",
+   "sutunlar": [
+    "Item",
+    "Domain"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Hours per day?",
+      "Use"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "How helpful is it?",
+      "Benefit"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "How hard still?",
+      "Residual difficulty"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Worth it?",
+      "Satisfaction"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Effect on activities?",
+      "Residual restriction"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Effect on others?",
+      "Impact on others"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Enjoyment of life?",
+      "Quality of life"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The International Outcome Inventory for Hearing Aids, or IOI-HA, consists of seven items.",
+     "ses": "The International Outcome Inventory for Hearing Aids, or I O I H A, consists of seven items."
+    },
+    "The first two items ask about daily hours of use and how much the aid helps.",
+    "The next items assess residual difficulty and satisfaction.",
+    "Then it asks how much activities are still restricted despite the aid and how much the hearing problem affects others.",
+    "The last item asks how the aid has changed enjoyment of life; each item is answered with five options.",
+    "Because it is short, it is easy to use in routine clinics and for comparisons between countries."
+   ]
+  },
+  {
+   "id": "ioiha_tr",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "IOI-HA",
+   "baslik": "Short but *powerful*",
+   "maddeler": [
+    {
+     "metin": "Seven items, a few minutes",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Translated into many languages",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "A Turkish validation study exists",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Completed only for the aided condition",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "The IOI-HA can be completed in a few minutes, so it is easily added to follow-up appointments.",
+     "ses": "The I O I H A can be completed in a few minutes, so it is easily added to follow-up appointments."
+    },
+    "The questionnaire has been translated into many languages, and norm data have been collected in different countries.",
+    {
+     "yazi": "For the Turkish adaptation, a validity and reliability study was published in 2009.",
+     "ses": "For the Turkish adaptation, a validity and reliability study was published in two thousand nine."
+    },
+    "Comparison with international norms also helps in evaluating a clinic's results overall.",
+    {
+     "yazi": "Unlike the APHAB, it needs no unaided form; it is completed only once, after the aid has been used for a while.",
+     "ses": "Unlike the A P H A B, it needs no unaided form; it is completed only once, after the aid has been used for a while."
+    },
+    "A low answer on use or satisfaction is a warning sign that calls for a detailed conversation with the person."
+   ]
+  },
+  {
+   "id": "ssq",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "SSQ and choosing",
+   "baslik": "*SSQ*: speech, spatial, qualities",
+   "maddeler": [
+    {
+     "metin": "Speech: 14 items",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Spatial hearing: 17 items",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sound qualities: 18 items",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "A zero to ten scale",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Short version: _SSQ12_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 2,
+    "ayar": {
+     "mod": "itd",
+     "yol_cumle": 2
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "The Speech, Spatial and Qualities of Hearing Scale, or SSQ, was published in 2004.",
+     "ses": "The Speech, Spatial and Qualities of Hearing Scale, or SSQ, was published in two thousand four."
+    },
+    "The first section has 14 items asking about understanding speech in different settings.",
+    "The second section, with 17 items, assesses finding the direction and distance of sounds, that is, spatial hearing.",
+    "The third section, with 18 items, asks about the clarity and naturalness of sounds and listening effort.",
+    "Each item is marked on a scale from zero to ten; a higher score means better hearing.",
+    "There is also a twelve-item short version; Turkish validation studies of both the full and short versions have been published."
+   ]
+  },
+  {
+   "id": "hangisi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "SSQ and choosing",
+   "baslik": "Which question, *which questionnaire?*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "COSI",
+     "cumle": 0,
+     "metin": "Personal goals"
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "APHAB",
+     "cumle": 1,
+     "metin": "Benefit before and after"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "IOI-HA",
+     "cumle": 2,
+     "metin": "Short overall outcome"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "SSQ",
+     "cumle": 3,
+     "metin": "Spatial and two ears"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "HHIE",
+     "cumle": 4,
+     "metin": "Perceived handicap"
+    }
+   ],
+   "cumleler": [
+    "To see whether the person reaches their own goals, the Client Oriented Scale of Improvement, or COSI, is suitable.",
+    {
+     "yazi": "To compare the unaided and aided conditions in detail, the APHAB is used.",
+     "ses": "To compare the unaided and aided conditions in detail, the A P H A B is used."
+    },
+    {
+     "yazi": "For a short overall outcome and satisfaction rating, the IOI-HA is a practical option.",
+     "ses": "For a short overall outcome and satisfaction rating, the I O I H A is a practical option."
+    },
+    "Where spatial hearing matters, as with bilateral fitting, CROS or a cochlear implant, the SSQ comes to the fore.",
+    "The Hearing Handicap Inventory for the Elderly, or HHIE, measures the emotional and social impact of the loss.",
+    "In the clinic one or two questionnaires are usually chosen; the aim is to gather meaningful information without tiring the person."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Have the unaided form completed before fitting, and the aided form after a few weeks of use. Read the results together; low-scoring items set the agenda for fine-tuning and counseling.",
+   "cumleler": [
+    "A tip from the field: if you are measuring benefit, always have the unaided form completed before the aid is fitted.",
+    "Give the aided form after the person has used the aid in daily settings for a few weeks.",
+    "Do not just file the results; read them together with the person and talk about the lowest-scoring items.",
+    "These items are often the subject of fine-tuning, an assistive device recommendation or communication strategy training.",
+    "Repeating the same questionnaire at the next follow-up shows whether the change made has worked."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Verification and validation together",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "APHAB: four subscales, before and after",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "IOI-HA: seven items, overall outcome",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "SSQ: speech, spatial, qualities",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "In this lesson we saw that verification with real-ear measurement should be completed by validation with self-report questionnaires.",
+    {
+     "yazi": "The APHAB calculates benefit by comparing unaided and aided problem percentages on four subscales.",
+     "ses": "The A P H A B calculates benefit by comparing unaided and aided problem percentages on four subscales."
+    },
+    {
+     "yazi": "The IOI-HA sums up use, benefit, satisfaction and quality of life with seven items.",
+     "ses": "The I O I H A sums up use, benefit, satisfaction and quality of life with seven items."
+    },
+    "The SSQ assesses speech, spatial hearing and sound qualities in detail."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which APHAB subscale score often rises with the aid?",
+   "secenekler": [
+    "Ease of communication",
+    "Reverberation",
+    "Background noise",
+    "Aversiveness"
+   ],
+   "dogru": 3,
+   "aciklama": "Because environmental sounds are heard more with the aid, the score on the _aversiveness_ subscale often rises.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: on the APHAB, which subscale often shows a higher score, meaning more problems, in the aided condition?",
+     "ses": "Test yourself: on the A P H A B, which subscale often shows a higher score, meaning more problems, in the aided condition?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is D: aversiveness.",
+    "Because environmental sounds are heard more with the aid, this score often rises; the gain for loud inputs can be reviewed."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Fitting *Hearing Aids* to Infants and Children",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about fitting hearing aids to infants and children, safety and family follow-up.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

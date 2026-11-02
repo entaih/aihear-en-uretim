@@ -1,0 +1,883 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D253_GIN_and_RGDT_EN",
+ "kapak": {
+  "ust": "LESSON 253",
+  "baslik": "Temporal tests:<br>*GIN*, RGDT",
+  "alt": "Measuring gap detection",
+  "cizim": "dalga_bicimi",
+  "ayar": {
+   "seriler": [
+    "gurultu"
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Temporal Processing Tests: GIN and RGDT | Lesson 253 | AIHEAR Audiology Academy",
+  "aciklama": "Temporal resolution is measured in the clinic with gap detection tests. In this lesson we cover how the gaps-in-noise test (GIN) is given, how the approximate threshold is found and its norms, the structure of the random gap detection test (RGDT) and its 20 millisecond cutoff, how the two tests differ, and the factors that affect results.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Musiek et al., GIN (Gaps-In-Noise) test performance in subjects with confirmed central auditory nervous system involvement, Ear and Hearing (2005); Keith, Random Gap Detection Test, Auditec (2000); American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); Musiek and Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "APD",
+   "temporalprocessing"
+  ],
+  "etiketler": [
+   "GIN test",
+   "gaps-in-noise",
+   "RGDT",
+   "random gap detection test",
+   "gap detection threshold",
+   "temporal resolution",
+   "temporal processing",
+   "auditory processing disorder",
+   "central auditory testing",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 253",
+   "baslik": "Temporal tests: *GIN* and RGDT",
+   "alt": "Measuring gap detection in the clinic",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn two clinical tests of temporal resolution: the gaps-in-noise test and the random gap detection test.",
+    "We will cover how the tests are given, how they are scored and which factors change the results."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Temporal resolution",
+   "baslik": "*A gap* in the noise",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Time (ms)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "isaretler": [
+      0,
+      1
+     ],
+     "yazilar": {
+      "0": "silent",
+      "1": "noise"
+     },
+     "ad": "Noise envelope"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        0,
+        1
+       ],
+       [
+        45,
+        1
+       ],
+       [
+        45,
+        0
+       ],
+       [
+        51,
+        0
+       ],
+       [
+        51,
+        1
+       ],
+       [
+        100,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "etiket": "noise",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "bosluk",
+      "x": [
+       45,
+       51
+      ],
+      "renk": "sari",
+      "etiket": "gap",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "_Noticing_ a brief silence",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Consonant cues in speech",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Clinical test: _its own norms_",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Temporal resolution is the ability to detect very brief changes in sound; it is most often measured with gap detection.",
+    "In the graph we see a silence of a few milliseconds placed inside an ongoing noise.",
+    "If the listener notices this brief interruption, they have detected the gap.",
+    "In speech, the brief silences before stop consonants and voice onset time depend on this skill.",
+    "In the temporal processing lesson, we saw that in young adults under laboratory conditions the threshold is about two to three milliseconds.",
+    "Noticing a gap depends on neural responses, from cochlea to cortex, precisely coding the moments when sound stops and starts again.",
+    "Clinical tests are designed to be given more quickly and are interpreted with their own norms."
+   ]
+  },
+  {
+   "id": "gin",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "The GIN test",
+   "baslik": "*How* is the GIN given?",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise segment",
+     "cumle": 1,
+     "metin": "Six seconds of white noise"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Gaps",
+     "cumle": 2,
+     "metin": "2 to 20 ms"
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Response",
+     "cumle": 3,
+     "metin": "Button press per gap"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Each ear",
+     "cumle": 5,
+     "metin": "With separate lists"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The gaps-in-noise test, or GIN, was described by Musiek and colleagues in 2005.",
+     "ses": "The gaps-in-noise test, or G I N, was described by Musiek and colleagues in two thousand five."
+    },
+    "In the test, six-second segments of white noise are presented one after another, with short silent intervals between them.",
+    "A segment may contain no gap, or a few gaps at random points; the gaps range from two to twenty milliseconds.",
+    "When the person hears a gap, they press a button or raise a hand right away.",
+    "A list contains ten different gap durations, each six times, for a total of sixty gaps.",
+    "A practice section comes first; then each ear is tested separately with a different list.",
+    "The test has four separate lists, so the same list need not be used for retesting."
+   ]
+  },
+  {
+   "id": "gin_puan",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The GIN test",
+   "baslik": "How is the approximate *threshold* found?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 21,
+     "isaretler": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      15,
+      20
+     ],
+     "ad": "Gap duration (ms)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Detected (%)"
+    },
+    "seriler": [
+     {
+      "ad": "ornek",
+      "noktalar": [
+       [
+        2,
+        0
+       ],
+       [
+        3,
+        17
+       ],
+       [
+        4,
+        50
+       ],
+       [
+        5,
+        83
+       ],
+       [
+        6,
+        83
+       ],
+       [
+        8,
+        100
+       ],
+       [
+        10,
+        100
+       ],
+       [
+        12,
+        100
+       ],
+       [
+        15,
+        100
+       ],
+       [
+        20,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "example ear",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "dortte",
+      "y": [
+       67,
+       100
+      ],
+      "renk": "yesil",
+      "etiket": "at least four of six",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 5,
+      "y": 83,
+      "dus": "x",
+      "etiket": "approximate threshold: 5 ms",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "_At least four_ of six correct",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Second measure: _percent correct_",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "False presses are recorded",
+     "cumle": 6,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "This graph shows a GIN result for one ear with example values.",
+    "For each gap duration, the share of the six trials detected is plotted as a percentage.",
+    "Very short gaps are often missed; as the gap gets longer, the detection rate rises quickly.",
+    "The approximate threshold is the shortest gap detected in at least four of six trials, with longer gaps also detected reliably.",
+    "In this example, the approximate threshold is five milliseconds.",
+    "The second measure is the percentage of all gaps in the list that were correctly detected.",
+    "Presses when there is no gap are recorded as false responses; if there are many, the result is not considered reliable."
+   ]
+  },
+  {
+   "id": "gin_norm",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The GIN test",
+   "baslik": "*Interpreting* GIN results",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Adult",
+     "cumle": 0,
+     "metin": "Mean about 5 ms"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Child",
+     "cumle": 2,
+     "metin": "Near adult from about age 7"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Central lesion",
+     "cumle": 4,
+     "metin": "Longer threshold, lower percent"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Local norms",
+     "cumle": 6,
+     "metin": "The center's own data"
+    }
+   ],
+   "cumleler": [
+    "In North American studies, the mean approximate threshold in normal-hearing adults was around five milliseconds.",
+    "Percent correct is around seventy percent; no clear difference between the two ears is expected.",
+    "Studies in children suggest that results are close to adult values from about age seven.",
+    "However, some studies suggest that this maturation is completed at later ages.",
+    "In people with central auditory nervous system lesions, the threshold is clearly longer and percent correct is lower.",
+    "The test's specificity is reported as high and its sensitivity as moderate; so a normal result does not fully rule out a central problem.",
+    "Because norms can vary somewhat between countries, the center's own data should also be used when possible."
+   ]
+  },
+  {
+   "id": "rgdt",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The RGDT",
+   "baslik": "*How* is the RGDT given?",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tone pair",
+     "cumle": 1,
+     "metin": "500 to 4000 Hz"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Interval",
+     "cumle": 2,
+     "metin": "0 to 40 ms, random"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Response",
+     "cumle": 3,
+     "metin": "One or two?"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Threshold",
+     "cumle": 5,
+     "metin": "Average across frequencies"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The random gap detection test, or RGDT, was published by Keith in 2000.",
+     "ses": "The random gap detection test, or R G D T, was published by Keith in two thousand."
+    },
+    "Instead of noise, the test presents two very short tones in a row; the tones are at five hundred, one, two and four thousand hertz.",
+    "The gap between the two tones varies from zero to forty milliseconds and is presented in random order.",
+    "For each pair, the person says, or shows with their fingers, whether they heard one sound or two.",
+    "The shortest interval consistently perceived as two sounds is the gap detection threshold for that frequency.",
+    "A composite threshold is calculated by averaging the thresholds of the four frequencies; there is also a click subtest."
+   ]
+  },
+  {
+   "id": "rgdt_ornek",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The RGDT",
+   "baslik": "Example RGDT *thresholds*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 400,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000
+     ],
+     "ad": "Frequency (Hz)"
+    },
+    "y": {
+     "min": 0,
+     "max": 45,
+     "adim": 10,
+     "ad": "Gap threshold (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        5
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "example 1",
+      "cumle": 1
+     },
+     {
+      "ad": "uzun",
+      "noktalar": [
+       [
+        500,
+        40
+       ],
+       [
+        1000,
+        30
+       ],
+       [
+        2000,
+        40
+       ],
+       [
+        4000,
+        30
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "example 2",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal_disi",
+      "y": [
+       20,
+       45
+      ],
+      "renk": "sari",
+      "etiket": "above 20 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Above 20 ms: _abnormal_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Consistency across frequencies",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In this graph we see example RGDT thresholds for two children.",
+    "For the child on the green line, the thresholds at all four frequencies are between five and ten milliseconds.",
+    "For the child on the red line, thresholds extend to thirty to forty milliseconds.",
+    "According to the test author, thresholds above twenty milliseconds are considered abnormal and suggest a temporal processing problem.",
+    "Thresholds are usually close to each other across frequencies; a clear outlier at one frequency may call for retesting.",
+    "In this example, the second child's composite threshold is clearly above twenty milliseconds."
+   ]
+  },
+  {
+   "id": "rgdt_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The RGDT",
+   "baslik": "*Points to watch* in the RGDT",
+   "maddeler": [
+    {
+     "metin": "One and two must be _known_",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Zero interval: an attention check",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Expanded version: longer gaps",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Can be given to both ears",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Quick and practical for children",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RESPONSE",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "One sound",
+      "cumle": 0,
+      "metin": "One finger"
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Two sounds",
+      "cumle": 0,
+      "metin": "Two fingers"
+     }
+    ]
+   },
+   "cumleler": [
+    "The RGDT requires the child to use the concepts of one and two reliably.",
+    "Pairs with no gap act as a check on whether the child is really listening.",
+    "For a child who often answers two sounds at the zero interval, the result is not reliable.",
+    "For people who cannot separate two sounds at any standard interval, there is an expanded version with longer gaps.",
+    "In practice, the test is often given to both ears together; so it does not show an interaural difference.",
+    "Its short duration and low language load make it a practical screening and assessment tool for children."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and factors",
+   "baslik": "GIN and RGDT *side by side*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Stimulus",
+     "cumle": 0,
+     "metin": "GIN noise, RGDT tone pairs"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Task",
+     "cumle": 1,
+     "metin": "Catch the gap or count"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Ear",
+     "cumle": 2,
+     "metin": "GIN ear by ear"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Evidence",
+     "cumle": 3,
+     "metin": "GIN studied in lesions"
+    }
+   ],
+   "cumleler": [
+    "Both tests measure gap detection, but their stimuli differ: the GIN uses broadband noise, the RGDT short tones.",
+    "In the GIN, the person tries to catch a gap within a long noise; in the RGDT, they count two sounds.",
+    "The GIN tests each ear separately; this helps reveal interaural differences in unilateral central problems.",
+    "The GIN has been studied in people with confirmed central auditory nervous system lesions, and its clinical sensitivity has been reported.",
+    "The RGDT, with its short and simple design, is widely used for screening and quick assessment, especially in children.",
+    "The thresholds of the two tests are not interchangeable; each is interpreted with its own norms.",
+    "An abnormal result on one test is evaluated against the other tests in the battery."
+   ]
+  },
+  {
+   "id": "periferik",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and factors",
+   "baslik": "*Peripheral* hearing first",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "!",
+     "renk": "yesil",
+     "metin": "High-frequency loss: _gap threshold_ may lengthen",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       45,
+       50
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       45,
+       55
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "This example audiogram shows a mild to moderate loss at the high frequencies in both ears.",
+    "The low and mid frequencies are within normal limits.",
+    "Because gap detection in broadband noise also uses high-frequency information, this person's threshold may be longer.",
+    "In this case, a long GIN threshold may come from the peripheral loss rather than a central problem.",
+    "So temporal tests are interpreted together with pure tone thresholds, making sure the stimulus is audible enough."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and factors",
+   "baslik": "Factors that *change* results",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Age",
+     "cumle": 0,
+     "metin": "Developmental level"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Attention",
+     "cumle": 2,
+     "metin": "Long test, wandering mind"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Stimulus level",
+     "cumle": 3,
+     "metin": "Audibility is essential"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Practice",
+     "cumle": 4,
+     "metin": "Learning the task"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Aging",
+     "cumle": 5,
+     "metin": "Threshold may lengthen"
+    }
+   ],
+   "cumleler": [
+    "In young children, gap detection may still be developing; results should be compared with age norms.",
+    "So for diagnosis, these tests are usually interpreted after about age seven.",
+    "In long tests such as the GIN, fluctuating attention can lead to some gaps being missed.",
+    "If the stimulus level is too low, gaps are missed because of audibility; the level used should follow the instructions.",
+    "Skipping the practice section can create a task-learning effect, especially on the first list.",
+    "In older age, gap thresholds have been reported to lengthen even when the audiogram is normal.",
+    "Some people press by guessing when unsure; this tendency shows in the number of false presses."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and factors",
+   "baslik": "*Where* are the tests useful?",
+   "cizim": "beyin_yan",
+   "vurgula": [
+    {
+     "parca": "temporal_lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "Temporal lobe",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "Auditory cortex",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Temporal lobe lesions, epilepsy",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Part_ of the APD battery",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_Not diagnostic_ alone",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Gap detection depends largely on the integrity of the auditory cortex in the temporal lobe and the pathways leading to it.",
+    "So the GIN has been studied in lesions affecting the temporal lobe and in some types of epilepsy, and long thresholds have been reported.",
+    "In children with suspected auditory processing disorder, temporal tests are among the core parts of the battery.",
+    "In auditory neuropathy, too, gap thresholds can be clearly longer because the timing of neural responses is disrupted.",
+    "However, these tests do not show a disease on their own; they only describe the state of temporal resolution.",
+    "The result is always considered together with the history, other tests and, when needed, neurological evaluation."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Before a temporal test, check that the stimulus is heard comfortably, do not skip the practice section, and note false presses.",
+   "cumleler": [
+    "A tip from the clinic: before the GIN or RGDT, always check that the stimulus is heard comfortably in each ear.",
+    "Do not skip the practice section; watch the first trials to see that the person understands the task correctly.",
+    "Presses where there is no gap, or answers of two sounds at the zero interval, may point to attention problems; write these in the report.",
+    "If the result is borderline, repeating the test on another day reduces the risk of a single misleading session."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "GIN: _2 to 20 ms_ gaps in noise",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Adult approximate threshold: about _5 ms_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "RGDT: tone pairs; above _20 ms_ abnormal",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Peripheral loss, age and attention matter",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "The GIN places gaps of two to twenty milliseconds at random in six-second noise segments and tests each ear separately.",
+    "The approximate threshold is the shortest gap detected in at least four of six trials; in normal adults it is about five milliseconds.",
+    "The RGDT measures the gap between short tone pairs; a threshold above twenty milliseconds is considered abnormal.",
+    "Both tests are interpreted with their own norms, together with peripheral hearing, age, attention and stimulus level."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "How is the approximate threshold defined in the GIN?",
+   "secenekler": [
+    "Longest gap never missed",
+    "Detected at least four of six",
+    "Shortest gap detected once",
+    "Average of all gaps"
+   ],
+   "dogru": 1,
+   "aciklama": "The approximate threshold is the shortest gap detected in _at least four_ of six trials.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: how is the approximate threshold defined in the gaps-in-noise test?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the shortest gap detected in at least four of six trials.",
+    "Gaps longer than this should also be detected reliably; in normal adults the value is about five milliseconds."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Binaural and Spatial Processing: *LiSN-S* and MLD",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will see tests of how the two ears work together: listening in spatialized noise and the masking level difference.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,657 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D095_Speech_Recognition_Threshold_EN",
+ "kapak": {
+  "ust": "LESSON 95",
+  "baslik": "Finding the<br>*SRT*",
+  "alt": "Speech recognition threshold, step by step",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "How to Find the Speech Recognition Threshold (SRT) | Lesson 95 | AIHEAR Audiology Academy",
+  "aciklama": "The speech recognition threshold (SRT) is the lowest level at which fifty percent of two-syllable words are repeated correctly, and it is used to cross-check pure tone thresholds. In this lesson we cover spondee words, familiarization, the ASHA descending method, a sample SRT calculation and agreement between the SRT and the pure tone average (PTA).\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ASHA, Guidelines for Determining Threshold Level for Speech; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "speechaudiometry",
+   "SRT"
+  ],
+  "etiketler": [
+   "SRT",
+   "speech recognition threshold",
+   "speech reception threshold",
+   "speech audiometry",
+   "spondee words",
+   "familiarization",
+   "pure tone average",
+   "PTA",
+   "SRT PTA agreement",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 95",
+   "baslik": "Speech recognition threshold: *SRT*",
+   "alt": "Spondee words, familiarization and SRT-PTA agreement",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn, step by step, how to find the speech recognition threshold, or SRT.",
+    "We will look at word selection, the familiarization phase and how the result is compared with the pure tone average."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and materials",
+   "baslik": "What is the *SRT?*",
+   "maddeler": [
+    {
+     "metin": "_Speech recognition threshold_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_50 percent_ of words correct",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Unit: _dB HL_, each ear separately",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "A _cross-check_ of pure tone thresholds",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SRT",
+    "metin": "Lowest level at which *half* of two-syllable words are repeated correctly",
+    "cumle": 1
+   },
+   "cumleler": [
+    "The speech recognition threshold, or SRT, is the basic threshold measure of speech audiometry.",
+    "The SRT is the lowest intensity level at which a person can correctly repeat fifty percent of two-syllable words.",
+    "In older sources the same measure is also called the speech reception threshold.",
+    "Like pure tone thresholds, the result is recorded in decibels HL, separately for each ear.",
+    "The most important role of the SRT is to check the reliability of the pure tone thresholds.",
+    "It is also used to decide the level at which the word recognition test will be given."
+   ]
+  },
+  {
+   "id": "spondee",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and materials",
+   "baslik": "Spondee *words*",
+   "maddeler": [
+    {
+     "metin": "_Spondee_: two syllables, equal stress",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Words are _equally_ intelligible",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Steep_ performance curve near threshold",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Two-syllable_ word lists in Turkish",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "The SRT uses spondees, which are two-syllable words with equal stress.",
+    "In these words both syllables are spoken with similar stress and intensity.",
+    "The words in a list are chosen so that they all start to be recognized at about the same intensity level.",
+    "Thanks to this, the percentage of correct responses changes quickly with small level changes, and the threshold is clear.",
+    "Because Turkish has a different stress pattern, common Turkish lists use three-syllable words chosen for equal intelligibility.",
+    "We will cover Turkish speech test materials in detail in a separate lesson."
+   ]
+  },
+  {
+   "id": "duzenek",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and materials",
+   "baslik": "The test *setup*",
+   "cizim": "odyometre",
+   "vurgula": [
+    {
+     "parca": "cihaz",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "audiometer: speech channel",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "earphones: each ear separately",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "verbal response, not the button",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Live voice or recorded source",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Speech channel is calibrated too",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Speech tests are given through the speech channel of the audiometer.",
+    "Live voice through a microphone, or a recorded source, is connected to this channel.",
+    "The words are presented to the patient through earphones, to each ear separately.",
+    "The audiologist hears the patient's spoken response through the talkback microphone in the booth.",
+    "So for the SRT, the patient repeats the word instead of pressing the response button.",
+    "The calibration of the speech channel must be checked regularly, just like the pure tone channel."
+   ]
+  },
+  {
+   "id": "tanistirma",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Preparation",
+   "baslik": "The *familiarization* phase",
+   "maddeler": [
+    {
+     "metin": "_Familiarization_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Words introduced _beforehand_ at a comfortable level",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Unfamiliar words _are removed_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Instruction: repeat, _guess_",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Before testing begins, there is a familiarization phase.",
+    "In this phase the word list is introduced to the patient, spoken or written, at a comfortable listening level.",
+    "Words the patient does not know or cannot repeat correctly are removed from the list.",
+    "Familiarization reduces errors caused by vocabulary and makes the threshold more reliable.",
+    "This is why the guideline of the American Speech-Language-Hearing Association, or ASHA, also recommends familiarization.",
+    "The instructions must be clear too: the patient is asked to repeat the word they hear, and to guess if unsure.",
+    "For patients who cannot speak, or for young children, a picture-pointing response can be used instead of repetition."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RESPONSE",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Repetition",
+      "metin": "Says the word heard",
+      "cumle": 5
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Picture pointing",
+      "metin": "Young child, non-speaking patient",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "sunum",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Preparation",
+   "baslik": "Mode of *presentation*",
+   "maddeler": [
+    {
+     "metin": "Recorded or _live voice_",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Live voice: monitor the _VU meter_",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Earphones, _each ear separately_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Masking_ the opposite ear if needed",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Words can be presented from recorded material or read by the audiologist into the microphone, that is, by live voice.",
+    "Recorded material is more standardized, while live voice is more flexible and faster.",
+    "With live voice, the level of each word is kept as steady as possible by watching the VU meter on the audiometer.",
+    "The speaker also takes care to say the words naturally and with the same intonation.",
+    "The test is done with earphones, separately for each ear.",
+    "If the presentation level is high enough to cross to the opposite ear, that ear is masked with speech noise."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PRESENTATION",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Recorded material",
+      "metin": "More standardized",
+      "cumle": 1
+     },
+     {
+      "ikon": "mikrofon",
+      "baslik": "Live voice",
+      "metin": "More flexible and faster",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "yontem",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Method",
+   "baslik": "The ASHA *descending* method",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Preliminary phase",
+     "metin": "Descend in 10 dB steps",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Two misses",
+     "metin": "Start 10 dB above",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Test phase",
+     "metin": "5 words every 5 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Stop",
+     "metin": "5 of last 6 words wrong",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the descending method recommended by ASHA, the first word is given about thirty to forty decibels above the estimated threshold.",
+    "As long as the patient repeats correctly, the level is lowered in ten decibel steps.",
+    "When two words in a row are missed at one level, ten decibels above that level becomes the starting level of the test phase.",
+    "In the test phase, five words are given at each five decibel step and the number correct is recorded.",
+    "The test stops when the patient misses five of the last six words.",
+    "There is also a version of this method that uses two decibel steps, with two words at each step."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Method",
+   "baslik": "A sample *calculation*",
+   "sutunlar": [
+    "Level (dB HL)",
+    "Correct (of 5)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "40",
+      "5"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "35",
+      "5"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "30",
+      "4"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "25",
+      "2"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "20",
+      "0"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "SRT",
+      "26 dB HL"
+     ],
+     "cumle": 6,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Let us work through an example: the test phase starts at forty decibels, and the patient repeats all five words correctly.",
+    "At thirty five decibels, again five out of five are correct.",
+    "At thirty decibels, four of the five words are correct.",
+    "At twenty five decibels there are only two correct responses.",
+    "At twenty decibels there are none; at least five of the last six words are wrong, so the test stops here.",
+    "The calculation: the starting level is forty, the total correct is sixteen, and the correction for five decibel steps is two.",
+    "The SRT is forty minus sixteen plus two, which is twenty six dB HL."
+   ]
+  },
+  {
+   "id": "formul",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Method",
+   "baslik": "The formula and *alternatives*",
+   "maddeler": [
+    {
+     "metin": "SRT: start minus correct plus _correction_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Correction for 5 dB steps: _2_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Correction for 2 dB steps: _1_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ascending methods _may also be used_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "The general formula is: subtract the total number correct from the starting level, then add the correction factor.",
+    "The correction factor is two for five decibel steps and one for two decibel steps.",
+    "This calculation is a statistical estimate of the fifty percent correct point.",
+    "Some clinics also use ascending methods, similar to pure tone threshold searching.",
+    "Whichever method is chosen, it is important to apply it consistently within the same clinic."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "SRT and PTA",
+   "baslik": "SRT and PTA *agreement*",
+   "maddeler": [
+    {
+     "metin": "_PTA_: mean of 500, 1000, 2000 Hz",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Expected difference: within _10 dB_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Example: PTA 27, SRT _26_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "SDT _8 to 10 dB_ better than SRT",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        25,
+        30,
+        40,
+        45
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "The SRT is compared with the average of the pure tone thresholds, called the pure tone average, or PTA.",
+    "The PTA is usually the average of the thresholds at five hundred, one thousand and two thousand hertz.",
+    "The difference between the two values usually stays within plus or minus ten decibels, and in most patients it is even smaller.",
+    "In this example, the right ear PTA is about twenty seven and the SRT twenty six dB HL; the two values agree.",
+    "Agreement shows that the pure tone thresholds and the speech threshold confirm each other.",
+    "The speech detection threshold, or SDT, is usually about eight to ten decibels better than the SRT."
+   ]
+  },
+  {
+   "id": "uyumsuz",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "SRT and PTA",
+   "baslik": "*Possible causes* of disagreement",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "SRT much better",
+     "metin": "Possible functional hearing loss",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "SRT slightly better",
+     "metin": "Steeply sloping audiogram",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "SRT poorer",
+     "metin": "Language or cognition",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Either direction",
+     "metin": "Instructions or calibration",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "If the SRT is clearly better than the PTA, an important possibility to consider is functional, or nonorganic, hearing loss.",
+    "These people may show raised thresholds for pure tones, yet repeat speech at a much lower level than expected.",
+    "With a steeply sloping audiogram, the SRT can also come out better than the three-frequency PTA.",
+    "In this case the SRT agrees better with the average of the best two of these three thresholds; this is called the Fletcher average.",
+    "If the SRT is clearly poorer than the PTA, a language difference, cognitive difficulty or a speech understanding problem may be considered.",
+    "In either direction, first check that the instructions were understood and that the equipment is working correctly."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If the SRT and PTA differ by more than 10 dB, repeat the instructions and recheck the pure tone thresholds before writing the report.",
+   "cumleler": [
+    "Here is a habit that is very useful in the clinic.",
+    "Compare the SRT result with the PTA while the patient is still in the booth.",
+    "If the difference is more than ten decibels, repeat the instructions and recheck the pure tone thresholds before writing the report.",
+    "Many reliability problems are caught by this simple comparison before the test is over.",
+    "When functional loss is suspected, some clinicians prefer to measure the SRT before pure tone testing."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "SRT and PTA",
+   "baslik": "What is the SRT *used for?*",
+   "maddeler": [
+    {
+     "metin": "_Confirming_ pure tone thresholds",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Presentation level_ for word recognition",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Information_ in difficult-to-test patients",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_Aided_ comparison in sound field",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "The first use of the SRT is to confirm the pure tone thresholds.",
+    "The second is to set the presentation level of the word recognition test, often thirty to forty decibels above the SRT.",
+    "In some patients who cannot respond reliably to pure tones, the speech threshold can give an idea of hearing level.",
+    "For example, in young children, a speech threshold found with a picture-pointing response is valuable information.",
+    "A speech threshold measured in sound field can also be used to compare aided and unaided hearing."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "SRT: _50 percent_ of words correct",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Spondee_ words and familiarization",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Start minus correct _plus correction_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Within _about 10 dB_ of PTA",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "The SRT is the lowest level at which fifty percent of two-syllable words are repeated correctly.",
+    "The test uses equally intelligible two-syllable words, after a familiarization phase.",
+    "In the ASHA method, the SRT is the starting level minus the number correct, plus a correction factor.",
+    "The SRT and PTA usually agree within ten decibels; a large difference calls for rechecking the result."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Start 50 dB, total correct 18, 5 dB steps. What is the SRT?",
+   "secenekler": [
+    "32 dB HL",
+    "34 dB HL",
+    "36 dB HL",
+    "50 dB HL"
+   ],
+   "dogru": 1,
+   "aciklama": "50 minus 18 plus 2 = 34; with 5 dB steps the _correction factor is 2_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: the starting level is fifty decibels, the total number correct is eighteen, and the step is five decibels. What is the SRT?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: thirty four dB HL.",
+    "Fifty minus eighteen plus two is thirty four; with five decibel steps the correction factor is two."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How to Measure Word Recognition *Scores*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how to measure the word recognition score, a suprathreshold test.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

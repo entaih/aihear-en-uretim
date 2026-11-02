@@ -1,0 +1,1003 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D291_Case_Struggling_at_School_APD_EN",
+ "kapak": {
+  "ust": "LESSON 291",
+  "baslik": "Case: struggling<br>*at school*",
+  "alt": "Normal audiogram, APD evaluation",
+  "cizim": "beyin_ustten"
+ },
+ "youtube": {
+  "baslik": "Case: Struggling at School with a Normal Audiogram | Lesson 291 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional case we evaluate a nine-year-old who struggles at school despite a normal audiogram: peripheral hearing, questionnaires and screening, dichotic, pattern, gap detection and low-redundancy speech tests, the AAA 2010 criterion, referral for comorbid conditions, and classroom accommodations.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); ASHA, (Central) Auditory Processing Disorders, Technical Report (2005); Musiek and Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "auditoryprocessing",
+   "casestudy"
+  ],
+  "etiketler": [
+   "auditory processing disorder",
+   "APD",
+   "dichotic digits",
+   "frequency pattern test",
+   "comorbidity",
+   "classroom accommodations",
+   "remote microphone",
+   "normal audiogram",
+   "school-age child",
+   "audiology case study",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 291",
+   "baslik": "Case: struggling *at school*",
+   "alt": "Normal audiogram, auditory processing evaluation",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we evaluate, step by step, a nine-year-old who struggles at school but has a normal audiogram.",
+    "We will cover auditory processing screening and the test battery, referral for attention and language assessment, and classroom advice."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "Example child, nine years old",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Teacher: seems _not to listen_",
+     "cumle": 1,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Often asks \"what?\" in noise",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "At home, in quiet: few problems",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Frequent ear fluid when younger",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "okul",
+      "baslik": "At school",
+      "metin": "Misses instructions",
+      "cumle": 1
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "In noise",
+      "metin": "Often asks for repeats",
+      "cumle": 2
+     },
+     {
+      "ikon": "ev",
+      "baslik": "At home",
+      "metin": "Fine in quiet",
+      "cumle": 3
+     }
+    ],
+    "ust": "HISTORY"
+   },
+   "cumleler": [
+    "Our case is entirely fictional: a nine-year-old in primary school is brought in at the teacher's suggestion.",
+    "The teacher says the child seems not to listen in class and leaves instructions half done.",
+    "In the crowded classroom and after recess, the child often asks what was said, and also struggles on the phone.",
+    "At home, in quiet and face to face, the family sees no clear problem.",
+    "The child had frequent middle ear fluid when younger, and speech also started a little later than in peers.",
+    "No attention or language evaluation has been done before."
+   ]
+  },
+  {
+   "id": "gozlem",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "The teacher's *observations*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Reading",
+     "metin": "Slow, sound errors",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Instructions",
+     "metin": "Lost in multistep ones",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Attention",
+     "metin": "Easily distracted",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Group work",
+     "metin": "Hardest setting",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "According to the teacher, the child reads aloud slowly and confuses similar sounds.",
+    "The child can follow one-step instructions but gets lost in multistep ones.",
+    "The child is easily distracted, and the difficulty grows toward the end of a long lesson.",
+    "The hardest setting in class is group work, when several groups talk at the same time.",
+    "These complaints may fit an auditory processing difficulty, but they look the same in attention, language and learning difficulties."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Peripheral hearing",
+   "baslik": "Pure tones: both ears *normal*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_ air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_ air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Bone conduction",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       5,
+       5,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       5,
+       10,
+       5,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       5,
+       5,
+       10
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       5,
+       10,
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Peripheral hearing is always assessed before central tests; air conduction thresholds are five to fifteen decibels HL in both ears.",
+    "Bone conduction thresholds are also normal and overlap with air conduction.",
+    "The speech recognition threshold is five decibels HL in both ears, in agreement with the pure-tone average.",
+    "The word recognition score in quiet is one hundred percent in both ears.",
+    "A normal audiogram does not diagnose auditory processing disorder, or APD; it only shows a peripheral loss does not explain the complaints."
+   ]
+  },
+  {
+   "id": "immitans",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Peripheral hearing",
+   "baslik": "Immittance and *OAE*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0,
+      "kulak": "sag"
+     },
+     {
+      "tip": "A",
+      "cumle": 0,
+      "kulak": "sol"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Both ears: _type A_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Reflexes and OAE: _present_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "In noise: _borderline_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Tympanograms are type A in both ears; middle ear function is normal.",
+    "Ipsilateral and contralateral acoustic reflexes are present at expected levels.",
+    "Otoacoustic emissions, or OAE, are present in both ears.",
+    "Normal reflexes and emissions also make a hidden peripheral or neural problem, such as auditory neuropathy, less likely.",
+    "On a sentences-in-noise test, however, the result is borderline for the test's age norms."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Screening and battery",
+   "baslik": "Screening and *questionnaires*",
+   "maddeler": [
+    {
+     "metin": "Teacher and parent questionnaire",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Short screening tests",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Screening is not diagnosis",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Diagnostic tests after age seven",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Questionnaire",
+      "metin": "Teacher and parent",
+      "cumle": 0
+     },
+     {
+      "ikon": "tarama",
+      "baslik": "Screening",
+      "metin": "Short tests",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Outcome",
+      "metin": "Detailed evaluation",
+      "cumle": 2
+     }
+    ],
+    "ust": "SCREENING"
+   },
+   "cumleler": [
+    "With normal peripheral hearing, the teacher and family fill in a questionnaire such as the Children's Auditory Performance Scale, or CHAPS.",
+    "The questionnaire and short screening tests suggest difficulty with listening in noise and auditory memory.",
+    "A screening result is not a diagnosis; it only shows that a detailed evaluation is needed.",
+    "Many guidelines recommend diagnostic tests from about age seven, because results vary at younger ages; our child is nine.",
+    "Before starting the battery, what is known about the child's attention, language and cognition is noted."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Screening and battery",
+   "baslik": "The test *battery*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dichotic",
+     "metin": "Digits to both ears",
+     "cumle": 0
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Pattern",
+     "metin": "High and low sequences",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Gap detection",
+     "metin": "Gaps in noise",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Low redundancy",
+     "metin": "Filtered speech",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Speech in noise",
+     "metin": "Noise in the same ear",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the dichotic digits test, two digits are presented to each ear at the same time, and the child repeats all four digits heard.",
+    "In the frequency pattern test, the child names three-tone sequences of high and low tones in words.",
+    {
+     "yazi": "The Gaps-In-Noise test, or GIN, measures the detection of brief changes in sound over time.",
+     "ses": "The Gaps-In-Noise test, or G I N, measures the detection of brief changes in sound over time."
+    },
+    "The filtered speech test assesses low-redundancy listening with words whose high-frequency components have been filtered out.",
+    "A speech-in-noise test completes the profile.",
+    "Tests use recorded stimuli, start after practice items show the task is understood, and are given in the morning when the child is rested."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Screening and battery",
+   "baslik": "Test *profile*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 7.6,
+     "ad": "Test",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "yazilar": {
+      "1": "Dichotic right",
+      "2": "Dichotic left",
+      "3": "Pattern right",
+      "4": "Pattern left",
+      "5": "GIN",
+      "6": "Filtered",
+      "7": "In noise"
+     }
+    },
+    "y": {
+     "min": -4,
+     "max": 1,
+     "adim": 1,
+     "ad": "Relative to age norm (SD)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        -0.5
+       ],
+       [
+        5,
+        -0.4
+       ],
+       [
+        6,
+        -0.8
+       ],
+       [
+        7,
+        -1.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "within norm",
+      "cumle": 1
+     },
+     {
+      "ad": "dusuk",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        -3.0
+       ],
+       [
+        3,
+        -2.6
+       ],
+       [
+        4,
+        -2.8
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "below two SD",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sinir",
+      "y": [
+       -4,
+       -2
+      ],
+      "renk": "sari",
+      "etiket": "two standard deviations below",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Dichotic: _left ear_ low",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Pattern: _both ears_ low",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Attention: _maintained_",
+     "cumle": 6,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "The graph shows each test result as the number of standard deviations from the norm for the child's age.",
+    {
+     "yazi": "Blue bars are results within the norm: the right ear on dichotic digits, GIN, filtered speech and speech in noise.",
+     "ses": "Blue bars are results within the norm: the right ear on dichotic digits, G I N, filtered speech and speech in noise."
+    },
+    "Red bars are those more than two standard deviations below: the left ear on dichotic digits and both ears on the frequency pattern test.",
+    "A right ear advantage on dichotic tests is normal, but the difference here is larger than the age norm expects.",
+    "Low scores in both ears on the frequency pattern test are common, because verbal labeling needs both hemispheres to work together.",
+    "The speech-in-noise result is borderline and is not considered significant on its own.",
+    "The child was motivated throughout testing and attention was well maintained; this observation also goes into the report."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Screening and battery",
+   "baslik": "*Apply* the criterion",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Two tests",
+     "metin": "Different processes",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "One ear",
+     "metin": "At least one",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Two SD",
+     "metin": "Or more",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "This child",
+     "metin": "Dichotic and pattern",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The two thousand ten guideline of the American Academy of Audiology contains a widely cited criterion.",
+    "According to it, results must fall below the norm on at least two different tests, in at least one ear.",
+    "This difference must be two standard deviations or more below the norm.",
+    "In our case, the dichotic digits and frequency pattern tests meet this criterion.",
+    "The criterion supports a profile consistent with APD, but diagnosis is made with the team and physician after comorbidities are assessed."
+   ]
+  },
+  {
+   "id": "profil",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Screening and battery",
+   "baslik": "What does the profile *suggest*?",
+   "cizim": "beyin_ustten",
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "seven",
+     "four"
+    ],
+    "yol_cumleleri": {
+     "capraz_yol_sag": 0,
+     "capraz_yol_sol": 0,
+     "kallozal_yol": 1
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "corpus_callosum",
+     "metin": "Corpus callosum",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "corpus_callosum",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Left ear: _callosal pathway_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Pattern: _both hemispheres_",
+     "cumle": 2,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "In a dichotic test, verbal information entering the left ear first reaches the right hemisphere.",
+    "To reach the left hemisphere, which is dominant for language, it must cross the corpus callosum.",
+    "Naming a frequency pattern in words also requires transfer between the two hemispheres.",
+    "So a low left ear on dichotic digits plus low scores in both ears on the pattern test raises the question of interhemispheric transfer.",
+    "This is a direction for interpretation, not a diagnosis; the profile guides intervention planning."
+   ]
+  },
+  {
+   "id": "es_tani",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Referral and classroom",
+   "baslik": "*Explore* comorbid conditions",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Attention",
+     "metin": "Child psychiatrist",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Language",
+     "metin": "Speech-language pathologist",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Reading, learning",
+     "metin": "Educational assessment",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "General health",
+     "metin": "Pediatrician",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "APD often occurs together with other developmental conditions; this is called comorbidity.",
+    {
+     "yazi": "The most frequent co-occurrence is with attention deficit hyperactivity disorder, or ADHD.",
+     "ses": "The most frequent co-occurrence is with attention deficit hyperactivity disorder, or A D H D."
+    },
+    "The child is referred to a child and adolescent psychiatrist for attention and to a speech-language pathologist for language.",
+    {
+     "yazi": "For the reading difficulty, an educational assessment with the school and, in Türkiye, the Guidance and Research Center (RAM) is discussed.",
+     "ses": "For the reading difficulty, an educational assessment with the school and, in Türkiye, the Guidance and Research Center (R A M) is discussed."
+    },
+    "The pediatrician is also part of the process for general health and development.",
+    "These evaluations are not done to rule out APD, but to see all of the child's needs."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical alert",
+   "metin": "Do not count a low score as APD right away. Attention, fatigue and language easily disrupt central tests.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: auditory processing tests are very sensitive to attention, motivation and language skills.",
+    "A low score from a tired or unwilling child may reflect the child's state at that moment more than an auditory problem.",
+    "Give the battery when the child is rested, split it into two sessions if needed, and note behavior during testing.",
+    "Low results on language-based tests with normal results on tests with little language load suggest language and attention factors."
+   ]
+  },
+  {
+   "id": "sinif",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Referral and classroom",
+   "baslik": "Classroom *accommodations*",
+   "maddeler": [
+    {
+     "metin": "Front row, near the teacher",
+     "cumle": 0,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Reduce classroom noise",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Remote microphone system trial",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Written and visual instructions",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Check understanding",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "oda": [
+      9,
+      7
+     ],
+     "halka_cumle": 0
+    },
+    "vurgula": [
+     {
+      "parca": "on_siralar",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "The child should sit near the teacher but away from noise sources such as doors and windows.",
+    {
+     "yazi": "Classroom noise should be reduced; the American Speech-Language-Hearing Association recommends a classroom SNR of at least plus fifteen dB.",
+     "ses": "Classroom noise should be reduced; the American Speech-Language-Hearing Association recommends a classroom S N R of at least plus fifteen decibels."
+    },
+    "A remote microphone system, which sends the teacher's voice directly to the child, can be evaluated with a trial period.",
+    "Writing key instructions on the board as well, and breaking multistep instructions into parts, is helpful.",
+    "The teacher can check understanding by having the child repeat the instruction in their own words.",
+    "These classroom accommodations are given to the teacher as a short written list."
+   ]
+  },
+  {
+   "id": "plan",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Referral and classroom",
+   "baslik": "Family and *follow-up* plan",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Share with family",
+     "metin": "Plain and concrete",
+     "cumle": 0
+    },
+    {
+     "ikon": "okul",
+     "baslik": "List for teacher",
+     "metin": "Three to five tips",
+     "cumle": 1
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Microphone trial",
+     "metin": "Benefit measured",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Auditory training",
+     "metin": "Targeted practice",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Follow-up",
+     "metin": "After six months",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The family is told that the child may have difficulty not in hearing, but in processing what is heard in noise and fast speech.",
+    "The teacher receives three to five concrete tips in writing that can be applied right away.",
+    "The remote microphone trial is evaluated with teacher and parent questionnaires before and after the trial.",
+    "Based on the profile, auditory training targeting dichotic listening may also be planned.",
+    "A reevaluation is done in about six months, together with the results of the comorbidity assessments."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Referral and classroom",
+   "baslik": "Example *report* language",
+   "maddeler": [
+    {
+     "metin": "Peripheral hearing normal",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Dichotic left and pattern low",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Attention maintained during testing",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Comorbidity assessment recommended",
+     "cumle": 3,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Classroom advice attached",
+     "cumle": 4,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 7.6,
+      "ad": "Test",
+      "isaretler": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7
+      ],
+      "yazilar": {
+       "1": "Dichotic right",
+       "2": "Dichotic left",
+       "3": "Pattern right",
+       "4": "Pattern left",
+       "5": "GIN",
+       "6": "Filtered",
+       "7": "In noise"
+      }
+     },
+     "y": {
+      "min": -4,
+      "max": 1,
+      "adim": 1,
+      "ad": "Relative to age norm (SD)"
+     },
+     "seriler": [
+      {
+       "ad": "normal",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         -0.5
+        ],
+        [
+         5,
+         -0.4
+        ],
+        [
+         6,
+         -0.8
+        ],
+        [
+         7,
+         -1.5
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "within norm",
+       "cumle": 1
+      },
+      {
+       "ad": "dusuk",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         2,
+         -3.0
+        ],
+        [
+         3,
+         -2.6
+        ],
+        [
+         4,
+         -2.8
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "below two SD",
+       "cumle": 1
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "sinir",
+       "y": [
+        -4,
+        -2
+       ],
+       "renk": "sari",
+       "etiket": "two standard deviations below",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Example report language: pure-tone thresholds, immittance findings and OAEs are within normal limits in both ears.",
+    "Scores over two standard deviations below age norms were found for the left ear on dichotic digits and both ears on frequency patterns.",
+    {
+     "yazi": "Attention and cooperation were good throughout testing; GIN and filtered speech were within normal limits.",
+     "ses": "Attention and cooperation were good throughout testing; G I N and filtered speech were within normal limits."
+    },
+    "Findings show a profile consistent with an auditory processing difficulty; attention, language and educational assessments are recommended.",
+    "Classroom recommendations and a remote microphone trial are attached."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "First assess peripheral hearing fully",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Battery: different processes, age norms",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Comorbidities explored within the team",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Classroom advice: short and written",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "In a child struggling at school, peripheral hearing is first fully assessed with pure tones, speech, immittance and OAEs.",
+    "The APD battery measures different processes; scores two standard deviations below norm on two tests, in one ear or more, support diagnosis.",
+    "Attention, language and learning difficulties often co-occur and are assessed by the relevant specialists; diagnosis is a team decision.",
+    "Classroom advice and the remote microphone are passed to the teacher as a short written list."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "According to AAA 2010, which finding supports APD?",
+   "secenekler": [
+    "Low score on one test",
+    "Two SD below on two tests",
+    "Normal audiogram",
+    "Teacher complaint"
+   ],
+   "dogru": 1,
+   "aciklama": "Two standard deviations below on at least _two tests_, in at least one ear.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: according to the two thousand ten criterion of the American Academy of Audiology, which finding supports an APD diagnosis?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: performance two standard deviations below the norm on at least two tests, in at least one ear.",
+    "A single low score is easily explained by attention or fatigue, and a normal audiogram alone does not diagnose anything."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: Spinning When Getting Out of Bed *(BPPV)*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case, we will examine an adult who gets dizzy when getting out of bed, and posterior canal benign paroxysmal positional vertigo.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,937 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D276_Case_Sudden_Hearing_Loss_EN",
+ "kapak": {
+  "ust": "LESSON 276",
+  "baslik": "Case: *sudden*<br>hearing loss",
+  "alt": "Document, refer the same day",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "hava_maskeli",
+     "degerler": [
+      60,
+      65,
+      70,
+      70,
+      75,
+      80
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Case: A Patient Presenting with Sudden Hearing Loss | Lesson 276 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional adult case, we assess sudden sensorineural hearing loss step by step: a focused history and red flags, ruling out conductive causes with otoscopy and tympanometry, masked air and bone conduction, applying the 2019 AAO-HNSF definition, same-day ENT referral, and naming recovery on follow-up audiograms.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Chandrasekhar et al., Clinical Practice Guideline: Sudden Hearing Loss (Update), Otolaryngology-Head and Neck Surgery, 2019; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "suddenhearingloss",
+   "casestudy"
+  ],
+  "etiketler": [
+   "sudden hearing loss",
+   "sudden sensorineural hearing loss",
+   "SSNHL",
+   "urgent referral",
+   "follow-up audiogram",
+   "masking",
+   "Weber test",
+   "hearing recovery",
+   "audiology case study",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 276",
+   "baslik": "Case: *sudden* hearing loss",
+   "alt": "Rapid assessment, same-day referral",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we follow a patient with sudden hearing loss step by step, from the moment they walk in to the follow-up audiograms.",
+    "We will cover a rapid but complete assessment, urgent ENT referral and how to interpret follow-up audiograms."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Presentation",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "A thirty-eight-year-old example person",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Right ear blocked_ on waking yesterday",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "New tinnitus in the same ear",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Waited, thinking it was earwax",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "No vertigo or neurological symptoms",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Onset",
+      "metin": "Yesterday morning, on waking",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Side",
+      "metin": "Right, unilateral",
+      "cumle": 0
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Associated",
+      "metin": "New tinnitus",
+      "cumle": 2
+     }
+    ],
+    "ust": "HISTORY"
+   },
+   "cumleler": [
+    "Our case is fictional: a thirty-eight-year-old person comes to the clinic complaining of a blocked right ear.",
+    "The complaint began on waking yesterday morning; the night before, both ears were normal.",
+    "Tinnitus that was not there before has started in the same ear, and the person is clearly worried about it.",
+    "Thinking it was an earwax plug, the person waited a day and used ear drops, but nothing improved.",
+    "There is no vertigo, facial weakness, speech problem or sudden headache; the left ear hears normally.",
+    "A blocked ear may sound ordinary, but if it is unilateral and sudden, we must always think of sudden sensorineural loss."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Presentation",
+   "baslik": "*Red flags* first",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Bilateral loss",
+     "metin": "Systemic or neurological cause",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Neurological symptom",
+     "metin": "Face, speech, headache",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Marked imbalance",
+     "metin": "Unable to walk, falls",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Recurrent attacks",
+     "metin": "Suggest other conditions",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sudden loss in both ears at once suggests systemic or neurological causes and needs a more urgent assessment.",
+    "We ask about neurological symptoms such as facial weakness, speech problems, a sudden severe headache or double vision.",
+    "These symptoms may point to a life-threatening cause such as stroke.",
+    "Marked imbalance and being unable to walk matter for the same reason.",
+    "If any of these is present, the person is helped to reach emergency care without waiting for tests and without losing time.",
+    "Recurrent attacks of sudden loss may suggest other conditions such as Meniere's disease; this is also written in the referral note."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Rapid assessment",
+   "baslik": "Rapid but *complete*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Focused history",
+     "metin": "When, which ear?",
+     "cumle": 0
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy",
+     "metin": "Wax, fluid, perforation",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tympanometry",
+     "metin": "Middle ear normal?",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Pure tone",
+     "metin": "Masked air and bone",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech",
+     "metin": "SRT and score",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The assessment starts with a short, focused history: time of onset, side, associated symptoms and red flags.",
+    "On otoscopy we look for conductive causes such as impacted wax, middle ear fluid or a perforation.",
+    "Tympanometry shows the middle ear status; it helps us tell whether the sudden blocked feeling comes from the middle ear.",
+    "In pure-tone audiometry, air and bone conduction are measured in both ears, with the masking needed.",
+    "The speech recognition threshold and word recognition score are added when possible; these scores are also used in follow-up.",
+    "Being fast does not mean measuring less; an accurate first audiogram is the basis of every later comparison."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Rapid assessment",
+   "baslik": "Otoscopy and the *tympanogram*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 1,
+      "kulak": "sag"
+     },
+     {
+      "tip": "A",
+      "cumle": 1,
+      "kulak": "sol"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Otoscopy: _normal_",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Both ears: _type A_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Next step: _pure tone_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "In this case otoscopy is normal in both ears; the canal is clear, the eardrum intact, with no sign of fluid behind it.",
+    "Tympanograms are type A in both ears; peak pressure and height are within the normal range.",
+    "So there is no outer or middle ear problem to explain the blocked feeling.",
+    "A blocked ear with normal otoscopy and a type A tympanogram leads us straight to pure-tone audiometry."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Rapid assessment",
+   "baslik": "*Sudden* sensorineural loss on the right",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Right_: masked air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Right_: masked bone conduction",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       70,
+       70,
+       75,
+       80
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       50,
+       65,
+       65,
+       70,
+       65
+      ],
+      "cumle": 4
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Thresholds in the left ear are within normal limits.",
+    "Air conduction thresholds in the right ear are between sixty and eighty decibels.",
+    "Because crossover can occur in a severe unilateral loss, the left ear was masked for air conduction testing.",
+    "We show the masked air conduction thresholds for the right ear with a triangle symbol.",
+    "Right bone conduction was also measured with the left ear masked, and it overlaps air conduction; so the loss is sensorineural.",
+    "Without masking, responses from the normal left cochlea could show a false air-bone gap in the right ear.",
+    "The pure-tone average of the right ear is about sixty-eight decibels; the picture fits a moderately severe loss.",
+    "The audiogram is recorded with date and time, because later follow-up measurements will be compared with this first value."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Rapid assessment",
+   "baslik": "*Apply* the definition",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Time",
+     "metin": "Developed within 72 hours",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Degree",
+     "metin": "30 dB at three consecutive frequencies",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Comparison",
+     "metin": "Against the other ear",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "In this case",
+     "metin": "Difference at least 50 dB",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Per the 2019 guideline of the American Academy of Otolaryngology, sudden sensorineural loss develops within seventy-two hours.",
+     "ses": "Per the twenty nineteen guideline of the American Academy of Otolaryngology, sudden sensorineural loss develops within seventy-two hours."
+    },
+    "The most widely used audiometric criterion is a loss of thirty decibels or more at at least three consecutive frequencies.",
+    "Because the person's earlier audiogram is often unknown, the comparison is made with the other ear's thresholds.",
+    "In our case, the difference between the ears is fifty decibels or more at all consecutive frequencies; the criterion is clearly met.",
+    "In the clinic, sudden losses smaller than thirty decibels are also taken seriously; the definition is a shared language, not a lower limit."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Rapid assessment",
+   "baslik": "Speech and *Weber*",
+   "maddeler": [
+    {
+     "metin": "Right SRT 65 dB HL, left masked",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Right score 44 percent",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Left SRT 10, score 100 percent",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Weber to the _left_: sensorineural pattern",
+     "cumle": 3,
+     "ikon": "diyapazon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "cumle": 3,
+    "ayar": {
+     "test": "weber"
+    },
+    "vurgula": [
+     {
+      "parca": "alin",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The right ear's speech recognition threshold, or SRT, was sixty-five decibels HL with the left ear masked; it fits the pure-tone average.",
+    "The right word recognition score is forty-four percent at ninety decibels HL; this score will also be used to judge recovery.",
+    "In the left ear, the SRT is ten decibels HL and the word recognition score is one hundred percent.",
+    "On the tuning fork Weber test, the sound goes to the better-hearing left ear; this fits a sensorineural loss.",
+    "Tests such as acoustic reflexes and otoacoustic emissions add information, but they should not delay the referral."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Urgent referral",
+   "baslik": "Same-day *referral*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Document",
+     "metin": "Masked thresholds, score",
+     "cumle": 0
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Notify",
+     "metin": "Contact ENT",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Write a note",
+     "metin": "Findings and onset",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Same day",
+     "metin": "To the ENT physician",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "As soon as the results are ready, the loss is documented with masked thresholds and speech scores.",
+    "Depending on how the clinic works, the ENT physician is notified by phone or through the system; no one waits in the appointment queue.",
+    "A written referral note is prepared, and the person is also given a copy.",
+    "The person is referred to the ENT physician the same day.",
+    "Treatment options and timing are assessed by the physician; the guideline stresses the early period, especially the first two weeks.",
+    "The audiologist does not recommend treatment, but clearly explains to the person why delay matters."
+   ]
+  },
+  {
+   "id": "not",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Urgent referral",
+   "baslik": "The referral *note*",
+   "maddeler": [
+    {
+     "metin": "Date and time of onset",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Side and associated symptoms",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Masked thresholds, PTA, score",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Tympanogram and otoscopy",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Note: _same-day assessment_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 2,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava_maskeli",
+       "degerler": [
+        60,
+        65,
+        70,
+        70,
+        75,
+        80
+       ],
+       "cumle": 2
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 2
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "The note first gives the date of onset and, if possible, the time; the assessment is based on this timing.",
+    "Then it briefly states the side, and whether tinnitus, vertigo or red flags are present.",
+    "Pure-tone results are given with masked thresholds, the pure-tone average and the word recognition score; the audiogram is attached.",
+    "The otoscopy and tympanometry results show that no conductive cause was found.",
+    "The last line clearly asks for a same-day assessment, because the findings fit sudden sensorineural loss."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If someone with a blocked ear has normal otoscopy and a type A tympanogram, do not send them away without measuring bone conduction.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: keep sudden sensorineural loss in mind for everyone who comes in saying their ear feels blocked.",
+    "If otoscopy is normal and the tympanogram is type A, the blocked feeling may not come from the middle ear.",
+    "For such a person, do pure-tone audiometry the same day, and always measure bone conduction with masking.",
+    "If you find a sensorineural loss, refer to a physician the same day, without putting the person in the appointment queue."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up",
+   "baslik": "Follow-up *audiograms*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 20,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "isaretli": true,
+      "etiket": "left ear",
+      "cumle": 1,
+      "kesik": true
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        60
+       ],
+       [
+        500,
+        65
+       ],
+       [
+        1000,
+        70
+       ],
+       [
+        2000,
+        70
+       ],
+       [
+        4000,
+        75
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "right: first",
+      "cumle": 1
+     },
+     {
+      "ad": "iki_hafta",
+      "noktalar": [
+       [
+        250,
+        45
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        50
+       ],
+       [
+        2000,
+        55
+       ],
+       [
+        4000,
+        65
+       ],
+       [
+        8000,
+        75
+       ]
+      ],
+      "renk": "turuncu",
+      "isaretli": true,
+      "etiket": "right: week 2",
+      "cumle": 2
+     },
+     {
+      "ad": "uc_ay",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        30
+       ],
+       [
+        1000,
+        35
+       ],
+       [
+        2000,
+        45
+       ],
+       [
+        4000,
+        60
+       ],
+       [
+        8000,
+        70
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "right: month 3",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "iyilesme",
+      "y": [
+       70,
+       35
+      ],
+      "xk": 1000,
+      "etiket": "35 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "After the physician's assessment, follow-up measurements document recovery objectively.",
+    "The red line shows the first measurement of the right ear, and the gray dashed line the healthy left ear.",
+    "The orange line is the check two weeks later; thresholds in the low and mid frequencies improved by fifteen to twenty decibels.",
+    "The green line is the measurement three months later; total recovery at one thousand hertz is thirty-five decibels.",
+    "But thresholds are still clearly worse than the left ear; there is little change in the high frequencies.",
+    "The word recognition score also rose from forty-four percent to eighty-eight percent.",
+    "Each time, measurements use the same method, the same earphones and the same masking rules."
+   ]
+  },
+  {
+   "id": "kategori",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up",
+   "baslik": "*How* is recovery named?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Complete recovery",
+     "metin": "Within 10 dB of healthy ear",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Partial recovery",
+     "metin": "Over 10 dB improvement",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "No recovery",
+     "metin": "Under 10 dB change",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "By the guideline, complete recovery means thresholds return to about ten decibels of the healthy ear, with a similar word score.",
+    "Improvement of more than ten decibels that is not complete is called partial recovery.",
+    "A change of less than ten decibels is defined as no recovery.",
+    "In our case, the pure-tone average improved by about thirty decibels but is not within ten of the healthy ear; this is partial recovery.",
+    "The guideline recommends follow-up audiometry at the end of treatment and within six months after treatment ends."
+   ]
+  },
+  {
+   "id": "destek",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Follow-up",
+   "baslik": "*Support* for lasting loss",
+   "maddeler": [
+    {
+     "metin": "Counseling for tinnitus",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hearing aid or _CROS_ options",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Emotional impact: anxiety, insecurity",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Retrocochlear workup by the physician",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Tinnitus",
+      "metin": "Counseling",
+      "cumle": 0
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Hearing",
+      "metin": "Hearing aid, CROS",
+      "cumle": 1
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Follow-up",
+      "metin": "With the physician",
+      "cumle": 3
+     }
+    ],
+    "ust": "AFTERWARD"
+   },
+   "cumleler": [
+    "If recovery is incomplete, tinnitus often remains the most bothersome complaint and needs counseling.",
+    "Depending on remaining hearing, options such as a hearing aid or CROS systems, which route sound to the other side, are considered.",
+    "Sudden loss in one ear can cause anxiety and insecurity; this emotional impact is also addressed in the session.",
+    "The guideline recommends looking for retrocochlear causes; choosing imaging or other methods for this is up to the physician.",
+    "Keep in mind that in some people, the cause may only become clear during long-term follow-up."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Blocked ear: think of sudden loss",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Rule out conductive first, mask bone",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Same-day ENT; treatment is the physician's",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Follow-up under the same conditions",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "With a unilateral, sudden blocked feeling in the ear, we always think of sudden sensorineural loss.",
+    "Conductive causes are ruled out with otoscopy and tympanometry; air and bone conduction are measured with the masking needed.",
+    "When the loss meets the criterion, the person is referred to an ENT physician the same day; treatment is the physician's decision.",
+    "Follow-up audiograms are taken under the same conditions as the first, and recovery is named with the guideline's definitions."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Normal otoscopy, type A, sudden SNHL on the right. What next?",
+   "secenekler": [
+    "Recheck in two weeks",
+    "Refer to ENT the same day",
+    "Suggest ear drops",
+    "Start a hearing aid trial"
+   ],
+   "dogru": 1,
+   "aciklama": "In sudden sensorineural loss, referral to a physician is made _the same day_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: otoscopy is normal, the tympanogram is type A, and there is a right sensorineural loss meeting the criterion. What next?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: refer the person with the findings to an ENT physician the same day.",
+    "Because treatment options are assessed early by the physician, waiting or postponing the appointment is not appropriate."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: *Inconsistent* Responses and Pseudohypacusis",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case we will look at an adult whose responses do not agree with each other, and the steps to confirm pseudohypacusis.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

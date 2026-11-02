@@ -1,0 +1,105 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R138_Flip_The_Phase_EN",
+ "kapak": {
+  "ust": "QUICK FACT #138",
+  "baslik": "Phase flip *reveals tones*",
+  "alt": "Masking level difference (MLD)",
+  "cizim": "maskeleme",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How can a tone lost in noise become audible again? #shorts",
+  "aciklama": "In the masking level difference test, the tone and noise are first presented identically to both ears; then the phase of the tone is inverted in one ear only, and the tone becomes much easier to hear through the noise. In normal listeners, this improvement at 500 Hz is usually 10 to 15 dB.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "brain"
+  ],
+  "etiketler": [
+   "masking level difference",
+   "MLD",
+   "binaural hearing",
+   "binaural processing",
+   "phase",
+   "auditory processing",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How can a tone lost in noise become audible again?",
+  "bilgiler": [
+   "First, tone and noise are presented identically to both ears.",
+   "Then the tone's phase is inverted in one ear; it is much easier to hear.",
+   "In normal listeners, the gain at 500 Hz is usually 10 to 15 dB."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "brain"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #138",
+   "metin": "How does a lost tone *become audible?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How can a tone lost in noise become audible again?"
+   ]
+  },
+  {
+   "id": "mld",
+   "tur": "zincir",
+   "baslik": "Masking *level difference*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Same phase",
+     "tr": "identical in both ears",
+     "cumle": 1
+    },
+    {
+     "ad": "Inverted phase",
+     "tr": "tone flipped in one ear",
+     "cumle": 2
+    },
+    {
+     "ad": "10-15 dB",
+     "tr": "gain at 500 Hz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The masking level difference measures the power of binaural processing.",
+    "First, tone and noise go identically to both ears; threshold is found.",
+    "Then the phase of the tone is inverted in one ear only.",
+    "Now the tone is much easier to hear through the noise.",
+    {
+     "yazi": "At 500 Hz, normal listeners typically gain 10 to 15 dB.",
+     "ses": "At five hundred hertz, normal listeners typically gain ten to fifteen decibels."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D050",
+ "kaynak_baslik": "Binaural Hearing: Why Two Ears Beat One"
+}

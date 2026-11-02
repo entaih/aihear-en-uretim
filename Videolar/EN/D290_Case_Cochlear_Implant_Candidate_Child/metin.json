@@ -1,0 +1,1129 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D290_Case_Cochlear_Implant_Candidate_Child_EN",
+ "kapak": {
+  "ust": "LESSON 290",
+  "baslik": "Case: an implant<br>*candidate* child",
+  "alt": "Aided performance and the team decision",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Case: A Child Being Evaluated for a Cochlear Implant | Lesson 290 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional infant case we follow a cochlear implant candidacy evaluation: device verification and data logging, unaided and aided VRA thresholds, monitoring with developmental questionnaires, the cochlear nerve on CT and MRI, cVEMP and motor development, the implant team's decision, reimbursement rules in Türkiye, and family expectations.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Joint Committee on Infant Hearing, Year 2019 Position Statement; American Academy of Audiology, Clinical Practice Guidelines: Pediatric Amplification (2013); Social Security Institution of Türkiye (SGK), Health Implementation Communiqué (SUT); Katz, Handbook of Clinical Audiology; Niparko, Cochlear Implants: Principles and Practices.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "casestudy"
+  ],
+  "etiketler": [
+   "cochlear implant",
+   "implant candidacy",
+   "candidacy",
+   "aided performance",
+   "implant team",
+   "VRA",
+   "data logging",
+   "cochlear nerve",
+   "pediatric audiology",
+   "audiology case study",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 290",
+   "baslik": "Case: an implant *candidate* child",
+   "alt": "Aided performance, imaging and the team decision",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we follow, step by step, how an infant with a profound hearing loss is evaluated for a cochlear implant.",
+    "We will cover tracking aided performance and development, imaging, the implant team's decision and family expectations."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "Example infant, eleven months old",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Screening: AABR referred both ears",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Diagnosis at six weeks: profound loss",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Bilateral hearing aids since month two",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Family: very little response to sound",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "tarama",
+      "baslik": "Screening",
+      "metin": "AABR referred",
+      "cumle": 1
+     },
+     {
+      "ikon": "odyogram",
+      "baslik": "Diagnosis",
+      "metin": "Six weeks",
+      "cumle": 2
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Devices",
+      "metin": "Month two",
+      "cumle": 4
+     }
+    ],
+    "ust": "HISTORY"
+   },
+   "cumleler": [
+    "Our case is entirely fictional: an eleven-month-old infant born at term.",
+    {
+     "yazi": "At newborn screening, the infant was referred in both ears on automated auditory brainstem response, or AABR.",
+     "ses": "At newborn screening, the infant was referred in both ears on automated auditory brainstem response, or A A B R."
+    },
+    "At six weeks, diagnostic auditory brainstem response, or ABR, showed no click response even at maximum level, and no cochlear microphonic.",
+    "Frequency-specific tests estimated thresholds consistent with a bilateral severe to profound sensorineural loss.",
+    "Hearing aids were fitted to both ears at the end of the second month, and the family joined an early intervention program.",
+    "The family says the infant responds very little to sounds even with the hearing aids, and cooing has decreased."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "*Timeline*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "Screening",
+     "metin": "Newborn period",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Diagnosis",
+     "metin": "Six weeks",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Devices",
+     "metin": "Month two",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Early intervention",
+     "metin": "Month three",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implant team",
+     "metin": "Month nine",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "This infant's journey moved ahead of the one, three, six benchmarks: screening was completed in the first month.",
+    "The diagnosis was made at six weeks.",
+    "The hearing aids were fitted about a month after diagnosis, at the end of the second month.",
+    "Family-centered early intervention began in the third month.",
+    "When progress was slower than expected, the infant was referred to the implant team in the ninth month.",
+    "Starting the implant evaluation early makes it possible to use the period when the auditory brain is most plastic."
+   ]
+  },
+  {
+   "id": "cihazsiz",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Aided performance",
+   "baslik": "Unaided *behavioral* thresholds",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: insert",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: insert",
+     "cumle": 1
+    },
+    {
+     "isaret": "↓",
+     "renk": "yesil",
+     "metin": "No response at equipment limit",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       null,
+       95,
+       100,
+       105,
+       110,
+       null
+      ],
+      "yanitsiz": [
+       4
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       null,
+       100,
+       105,
+       110,
+       110,
+       null
+      ],
+      "yanitsiz": [
+       3,
+       4
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "In the ninth month, ear-specific thresholds are obtained with visual reinforcement audiometry, or VRA, using insert earphones.",
+     "ses": "In the ninth month, ear-specific thresholds are obtained with visual reinforcement audiometry, or V R A, using insert earphones."
+    },
+    "In the right ear, minimum response levels are between ninety five and one hundred five decibels HL.",
+    "Left ear responses are between one hundred and one hundred five decibels HL; high frequencies show no response at the equipment limit.",
+    "At these levels, some low-frequency responses may come from feeling vibration rather than hearing sound.",
+    "The results agree with the first estimates from ABR and the auditory steady-state response, or ASSR.",
+    "The picture is consistent with a bilateral profound sensorineural hearing loss."
+   ]
+  },
+  {
+   "id": "dogrulama",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Aided performance",
+   "baslik": "Verify the *devices* first",
+   "maddeler": [
+    {
+     "metin": "Targets based on measured RECD",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Output close to prescriptive targets",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Data logging: ten hours a day",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Good earmolds, no feedback",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Regular early intervention attendance",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Use",
+      "metin": "Ten hours a day",
+      "cumle": 2
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Fitting",
+      "metin": "Close to target",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "High frequencies",
+      "metin": "Target not reached",
+      "cumle": 1
+     }
+    ],
+    "ust": "VERIFICATION"
+   },
+   "cumleler": [
+    "Before calling the benefit limited, the fitting must be verified; the real-ear-to-coupler difference, or RECD, was measured on the infant.",
+    "Output is as close to the Desired Sensation Level, or DSL, targets as the device allows; the targets are not reached at high frequencies.",
+    "Data logging shows the devices are on for an average of ten hours a day, which is adequate use.",
+    "The earmolds were recently remade, and there is no acoustic feedback problem.",
+    "The family attends early intervention sessions regularly, so the limited progress is not due to insufficient use."
+   ]
+  },
+  {
+   "id": "cihazli",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Aided performance",
+   "baslik": "Aided thresholds and *speech*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 20,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        500,
+        95
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        2000,
+        105
+       ],
+       [
+        4000,
+        110
+       ]
+      ],
+      "renk": "gri",
+      "isaretli": true,
+      "etiket": "unaided",
+      "cumle": 1,
+      "kesik": true
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        55
+       ],
+       [
+        2000,
+        65
+       ],
+       [
+        4000,
+        75
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "aided",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "konusma",
+      "y": [
+       20,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "speech sounds (approximate)",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Aided: _50 to 75_ dB",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "High consonants _not heard_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Aided thresholds are obtained with VRA in the sound field, with the hearing aids on.",
+     "ses": "Aided thresholds are obtained with V R A in the sound field, with the hearing aids on."
+    },
+    "The gray line shows unaided thresholds, and the blue line shows aided thresholds.",
+    "With the hearing aids, thresholds improve to fifty decibels HL at five hundred hertz and seventy five at four thousand hertz.",
+    "The yellow area shows the approximate region where average speech sounds fall.",
+    "Many aided thresholds fall below this area; high-frequency consonants in particular do not become audible.",
+    "Aided thresholds alone are not enough, but they are an important clue to how much of speech is audible."
+   ]
+  },
+  {
+   "id": "gelisim",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Aided performance",
+   "baslik": "Tracking auditory *development*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "ad": "Age (months)",
+     "isaretler": [
+      0,
+      6,
+      12,
+      18,
+      24
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 35,
+     "adim": 5,
+     "ad": "Questionnaire score (schematic)"
+    },
+    "seriler": [
+     {
+      "ad": "beklenen",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        3,
+        8
+       ],
+       [
+        6,
+        16
+       ],
+       [
+        9,
+        22
+       ],
+       [
+        12,
+        26
+       ],
+       [
+        18,
+        31
+       ],
+       [
+        24,
+        34
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "expected development (schematic)",
+      "cumle": 1
+     },
+     {
+      "ad": "cocuk",
+      "noktalar": [
+       [
+        3,
+        2
+       ],
+       [
+        5,
+        4
+       ],
+       [
+        7,
+        6
+       ],
+       [
+        9,
+        7
+       ],
+       [
+        11,
+        8
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "example child",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "plato",
+      "x": [
+       7,
+       11
+      ],
+      "renk": "sari",
+      "etiket": "slowing progress",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Questionnaire: _below expected_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Last four months: _flat_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Agrees with therapist observation",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Since speech tests cannot be done in a young child, benefit is judged by how auditory skills and language develop.",
+    "The dashed gray line schematically shows how a parent questionnaire score rises with age in hearing infants.",
+    "The blue dots are the scores of our example infant with hearing aids; they are clearly below the expected curve.",
+    "Over the last four months, the score has stayed almost the same; progress has slowed.",
+    "The speech-language pathologist also reports that the infant's canonical babbling is behind for age.",
+    "The questionnaire results, the therapist's observation and the family's account support one another."
+   ]
+  },
+  {
+   "id": "sinirli",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Aided performance",
+   "baslik": "Limited benefit: look at it *together*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Correct fitting",
+     "metin": "Verified by measurement",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Adequate use",
+     "metin": "Ten hours a day",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Aided thresholds",
+     "metin": "Below speech",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Development",
+     "metin": "Slow progress",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "A decision of limited benefit is not based on a single finding but on these four pieces of information together.",
+    "The hearing aids are fitted correctly, and the infant uses them enough.",
+    "Even so, the aided thresholds do not make a large part of speech audible.",
+    "Developmental tracking also shows that progress is clearly slower than expected for age.",
+    "This picture is a strong reason for a full evaluation of the infant by the implant team."
+   ]
+  },
+  {
+   "id": "goruntuleme",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Team evaluation",
+   "baslik": "Imaging: the *cochlear nerve*",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "koklear_sinir",
+     "metin": "Cochlear nerve: present",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Facial nerve",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "CT: _normal cochlea_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "MRI: _cochlear nerve present_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Genetics: GJB2",
+     "cumle": 5,
+     "ikon": "gen_dna"
+    }
+   ],
+   "cumleler": [
+    "Imaging is a key part of the team evaluation; ordering and interpreting it belong to the physician and the radiologist.",
+    "On temporal bone computed tomography, the cochlea has a normal two and a half turns, with no inner ear anomaly.",
+    "On magnetic resonance imaging, four nerves are seen in a cross section of the internal auditory canal.",
+    "The cochlear nerve, in the front lower part, is present on both sides and similar in size to the facial nerve in the same section.",
+    "The presence of the cochlear nerve is one of the basic conditions for an implant decision.",
+    {
+     "yazi": "Genetic testing ordered by the physician found variants in both copies of GJB2; this cause is usually linked to good implant outcomes.",
+     "ses": "Genetic testing ordered by the physician found variants in both copies of G J B two; this cause is usually linked to good implant outcomes."
+    }
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Team evaluation",
+   "baslik": "Balance organ and *motor* development",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "sakkul",
+     "metin": "Saccule: cVEMP",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Motor development: _late_",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "cVEMP: right _absent_, left present",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "In some children with profound loss, vestibular function is also affected.",
+    "Our infant gained head control at five months and sat without support at about nine months; this is later than expected.",
+    {
+     "yazi": "The cervical vestibular evoked myogenic potential, or cVEMP, which can be done in infants, reflects saccule function.",
+     "ses": "The cervical vestibular evoked myogenic potential, or C vemp, which can be done in infants, reflects saccule function."
+    },
+    {
+     "yazi": "In our case, the cVEMP is absent on the right and present on the left.",
+     "ses": "In our case, the C vemp is absent on the right and present on the left."
+    },
+    "This information guides the team when discussing the risk of surgery to the balance organ and when planning the side."
+   ]
+  },
+  {
+   "id": "ekip",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Team evaluation",
+   "baslik": "The implant *team*",
+   "ogeler": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Audiologist",
+     "metin": "Tests, devices, follow-up",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "ENT surgeon",
+     "metin": "Medical, surgical candidacy",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Radiologist",
+     "metin": "Cochlea and nerve",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech-language pathologist",
+     "metin": "Communication development",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Psychologist",
+     "metin": "Expectations and adjustment",
+     "cumle": 4
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Family",
+     "metin": "Partner in the decision",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The audiologist documents hearing tests, device verification and aided performance.",
+    "The ENT surgeon assesses medical and surgical candidacy, working with the pediatrician on general anesthesia.",
+    "The radiologist interprets the imaging of the cochlea and the auditory nerve.",
+    "The speech-language pathologist assesses communication development and rehabilitation needs.",
+    "The psychologist assesses the family's expectations, adjustment and sources of support.",
+    "Once all the information is shared, the family is a full partner in the decision."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical alert",
+   "metin": "Before calling the benefit limited, document data logging, device verification and attendance. If use is low, solve that first.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: before saying the child gets no benefit from hearing aids, document that the devices are actually used enough.",
+    "If data logging is low, the problem is first solved with the family; low use should not be confused with insufficient benefit.",
+    "Add the fitting verified with real-ear measurements and the developmental questionnaires to the file.",
+    "These documents strengthen both the team decision and the medical board report."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Family and decision",
+   "baslik": "Family *expectations*",
+   "maddeler": [
+    {
+     "metin": "An implant is not normal hearing",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Outcomes vary from child to child",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Programming and therapy last years",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Use during every waking hour",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Communication choice is the family's",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "dis_islemci",
+      "metin": "External processor",
+      "cumle": 3
+     },
+     {
+      "parca": "elektrot_dizisi",
+      "metin": "Electrode array",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_islemci",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The family is told clearly that an implant does not give normal hearing; it is a device that makes sound audible through the auditory nerve.",
+    "They are told that outcomes vary widely between children and that no exact speech outcome can be promised.",
+    "After surgery, regular programming and auditory rehabilitation are needed; the real work starts in this period.",
+    "Using the processor during every waking hour, with the family joining daily listening and talking practice, strongly affects the outcome.",
+    {
+     "yazi": "It is also discussed that residual hearing may be lost with surgery and that future MRI scans may need precautions.",
+     "ses": "It is also discussed that residual hearing may be lost with surgery and that future M R I scans may need precautions."
+    },
+    "Communication options, including sign language, are presented neutrally; meeting families who went through a similar process also helps."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Family and decision",
+   "baslik": "*Reimbursement* in Türkiye",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Hearing level",
+     "metin": "Both ears, over 90",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hearing aid trial",
+     "metin": "At least three months",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Age",
+     "metin": "Twelve months or older",
+     "cumle": 2
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Bilateral",
+     "metin": "Cases listed in the rules",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In Türkiye, the national reimbursement rules (SUT) require a loss over ninety decibels HL in both ears for children aged two and under.",
+     "ses": "In Türkiye, the national reimbursement rules, or S U T, require a loss over ninety decibels HL in both ears for children aged two and under."
+    },
+    "A medical board report must state no benefit from at least three months of hearing aid use in both ears.",
+    "The cost of an implant placed before twelve months of age is not covered.",
+    "Simultaneous or sequential bilateral implants are covered in cases listed in the rules, such as children aged twelve to forty eight months.",
+    "These rules may change, so in practice the current text of the regulation is always checked."
+   ]
+  },
+  {
+   "id": "karar",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Family and decision",
+   "baslik": "From decision to *activation*",
+   "adimlar": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Team meeting",
+     "metin": "Findings together",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Family meeting",
+     "metin": "Options, expectations",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Surgery",
+     "metin": "Around twelve months",
+     "cumle": 2
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Activation",
+     "metin": "A few weeks later",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Follow-up",
+     "metin": "Based on goals",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "At the team meeting, all findings are reviewed together and the team agrees that the infant is a candidate for an implant.",
+    "This view is shared with the family; after asking questions and thinking it over, they accept bilateral implants.",
+    "Surgery is planned at the earliest time possible under local conditions, around twelve months of age.",
+    "The device is usually switched on for the first time a few weeks after surgery; this is called activation.",
+    "Family goals written down during the evaluation make it possible to see progress together during follow-up."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Family and decision",
+   "baslik": "Example *report* language",
+   "maddeler": [
+    {
+     "metin": "VRA: bilateral profound loss",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Verified devices, ten hours daily",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Aided thresholds below speech region",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Development: clearly behind for age",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Plan: implant team evaluation",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 2,
+    "ayar": {
+     "x": {
+      "min": 500,
+      "max": 4000,
+      "log": true,
+      "hz": true,
+      "ad": "Frequency (Hz)",
+      "isaretler": [
+       500,
+       1000,
+       2000,
+       4000
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 120,
+      "adim": 20,
+      "ad": "Hearing level (dB HL)",
+      "ters": true
+     },
+     "seriler": [
+      {
+       "ad": "cihazsiz",
+       "noktalar": [
+        [
+         500,
+         95
+        ],
+        [
+         1000,
+         100
+        ],
+        [
+         2000,
+         105
+        ],
+        [
+         4000,
+         110
+        ]
+       ],
+       "renk": "gri",
+       "isaretli": true,
+       "etiket": "unaided",
+       "cumle": 0,
+       "kesik": true
+      },
+      {
+       "ad": "cihazli",
+       "noktalar": [
+        [
+         500,
+         50
+        ],
+        [
+         1000,
+         55
+        ],
+        [
+         2000,
+         65
+        ],
+        [
+         4000,
+         75
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "etiket": "aided",
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Example report language: thresholds obtained with VRA and insert earphones are consistent with a bilateral profound loss.",
+     "ses": "Example report language: thresholds obtained with V R A and insert earphones are consistent with a bilateral profound loss."
+    },
+    "The hearing aids were verified with measured RECD; data logging shows daily use of about ten hours.",
+    "Sound field aided thresholds are between fifty and seventy five decibels HL; high-frequency speech sounds are not audible.",
+    "The parent questionnaire and therapist observation show auditory development clearly behind for age.",
+    "Findings are consistent with limited benefit despite appropriate hearing aid use; implant team evaluation is recommended."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "First verify devices and use",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Benefit: thresholds, development, observation",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Imaging and balance inform the team",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Realistic expectations; family decides",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Before an implant evaluation, it is documented that the hearing aids are fitted correctly and used enough.",
+    "In a young child, benefit is judged from aided thresholds, developmental questionnaires, and therapist and family observations together.",
+    "Imaging shows the cochlear nerve and cochlea, vestibular tests show the balance organ; the decision is made by the team.",
+    "The family hears realistic expectations, communication options are presented neutrally, and the decision is made with the family."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Aided progress is slow; what should be checked first?",
+   "secenekler": [
+    "Surgery date",
+    "Data logging and fitting",
+    "Electrode type",
+    "School choice"
+   ],
+   "dogru": 1,
+   "aciklama": "Low use and a poor fitting can be mistaken for _limited benefit_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in an infant with slow aided progress, what do you check first, before an implant evaluation?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: data logging and a fitting verified with real-ear measurement.",
+    "Low use or a fitting that misses targets should not be confused with limited benefit."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: Struggling at School with a *Normal Audiogram*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case, we will examine a child who struggles at school despite a normal audiogram, and the auditory processing evaluation.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

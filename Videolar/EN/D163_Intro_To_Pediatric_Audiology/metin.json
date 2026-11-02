@@ -1,0 +1,601 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D163_Intro_To_Pediatric_Audiology_EN",
+ "kapak": {
+  "ust": "LESSON 163",
+  "baslik": "Pediatric<br>*audiology*",
+  "alt": "A child is not a small adult",
+  "cizim": "vra_odasi"
+ },
+ "youtube": {
+  "baslik": "Intro to Pediatric Audiology | Lesson 163 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson introduces the core principles of pediatric audiology. We cover the acoustic differences of a child's ear, choosing tests by developmental and corrected age, family-centered care, the pediatric case history, and the cross-check principle.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jerger and Hayes, The cross-check principle in pediatric audiometry, Archives of Otolaryngology (1976); ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); Moeller et al., Best practices in family-centered early intervention for children who are deaf or hard of hearing, Journal of Deaf Studies and Deaf Education (2013); Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "pediatricaudiology",
+   "childhearing"
+  ],
+  "etiketler": [
+   "pediatric audiology",
+   "developmental age",
+   "corrected age",
+   "family-centered care",
+   "cross-check principle",
+   "pediatric hearing test",
+   "infant hearing",
+   "case history",
+   "test battery",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 163",
+   "baslik": "Introduction to pediatric *audiology*",
+   "alt": "A child is not a small adult",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "With this lesson we begin the pediatric assessment section and learn the core principles of assessing a child's hearing.",
+    "We will cover choosing tests by developmental age, the family-centered approach and the cross-check principle."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Children are different",
+   "baslik": "Why are children *different?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Small ear",
+     "metin": "The same sound creates higher pressure in the ear canal.",
+     "cumle": 1
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Development",
+     "metin": "Responses to sound change with age.",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Short attention",
+     "metin": "Limited information per session.",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Language development",
+     "metin": "Hearing loss affects language development.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "There is a well-known saying in pediatric audiology: a child is not a small adult.",
+    "A child's ear is not only small but also acoustically different, and this difference directly affects measurements.",
+    "A child's response to sound changes with developmental level, from a startle to a head turn, then to play and a spoken reply.",
+    "Attention span is short, so the information that can be obtained in one session is limited and the test order is planned in advance.",
+    "Most importantly, a hearing loss that goes unnoticed in this period can affect speech and language development.",
+    "So the goal of pediatric assessment is to obtain reliable information for each ear as quickly as possible.",
+    "Now let us look at how these differences affect measurements and test choice."
+   ]
+  },
+  {
+   "id": "kulak",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Children are different",
+   "baslik": "Small ear, *big* difference",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Short, narrow ear canal",
+     "cumle": 0
+    },
+    {
+     "parca": "kopuk_uc",
+     "metin": "Insert earphone",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Middle ear: fluid is common",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Same setting: _higher_ pressure",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Under 6 months: _1000 Hz_ tympanometry",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "A baby's ear canal is shorter and narrower than an adult's, and its volume is much smaller.",
+    "The same audiometer setting produces a higher sound pressure in a small ear canal than in an adult's.",
+    "This difference is taken into account, especially in hearing aid fitting, by measuring the real-ear-to-coupler difference.",
+    "In the first months of life the ear canal wall is softer, so one thousand hertz probe tone tympanometry is used in babies under six months.",
+    "In the preschool years, middle ear fluid is common and can cause temporary conductive hearing loss.",
+    "So at every assessment of a child, middle ear status is also examined separately."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Developmental age",
+   "baslik": "*Tests* by developmental age",
+   "adimlar": [
+    {
+     "ikon": "bebek",
+     "baslik": "Infant",
+     "metin": "0 to 6 months: BOA, objective",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Toddler",
+     "metin": "6 to 24 months: VRA",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Preschool",
+     "metin": "2.5 to 5 years: CPA",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "School age",
+     "metin": "Over 5 years: conventional",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "What decides the test choice is not the child's chronological age but the developmental age.",
+    "In babies developmentally younger than six months, behavioral observation is possible, but thresholds are estimated with objective tests.",
+    "From about six to twenty four months, visual reinforcement audiometry, or VRA, is used.",
+    "From about two and a half to five years, the child is conditioned to respond through play; this is conditioned play audiometry, or CPA.",
+    "From around five years, most children can be tested with conventional audiometry, by pressing a button or raising a hand.",
+    "These limits are not fixed; for a child whose development is advanced or delayed, the method is chosen to suit the child.",
+    "Objective tests, such as tympanometry, otoacoustic emissions, or OAE, and the auditory brainstem response, or ABR, suit any age."
+   ]
+  },
+  {
+   "id": "duzeltilmis",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Developmental age",
+   "baslik": "Example: *corrected* age",
+   "sutunlar": [
+    "Item",
+    "Value"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Chronological age",
+      "9 months"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Gestational age",
+      "32 weeks"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Born early by",
+      "8 weeks, 2 months"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Corrected age",
+      "7 months"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "In babies born prematurely, development is assessed according to corrected age.",
+    "Let us take a purely example baby whose chronological age is nine months.",
+    "The baby was born at thirty two weeks instead of the expected forty weeks.",
+    "So the baby was born eight weeks, or about two months, early.",
+    "This baby's corrected age is about seven months, and the test is chosen accordingly.",
+    "Corrected age is usually taken into account until about two years of age.",
+    "Without this correction, a premature baby's responses could wrongly be thought delayed for age."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Family-centered care",
+   "baslik": "Family-centered *care*",
+   "maddeler": [
+    {
+     "metin": "The family is a _decision partner_",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Parent observations are _valuable_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Information _clear and understandable_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Respect the family's _priorities_",
+     "cumle": 3,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "_Support_ the emotional process",
+     "cumle": 4,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Partnership",
+      "metin": "Shared decisions",
+      "cumle": 0
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Observation",
+      "metin": "Parent knowledge",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalp",
+      "baslik": "Respect",
+      "metin": "Language and culture",
+      "cumle": 3
+     }
+    ],
+    "ust": "PRINCIPLES"
+   },
+   "cumleler": [
+    "Family-centered care sees the family not as a recipient of information but as a partner in decisions.",
+    "Parents know the child best; their observations of how the child reacts to sounds at home are very valuable.",
+    "Test results are explained to the family in clear, understandable language, without drowning them in technical terms.",
+    "The family's language, culture and priorities are respected; options are offered and decisions are made together.",
+    "The possibility of hearing loss can be a hard process for a family; this emotional process is met with understanding.",
+    "International consensus statements also accept partnership with the family as a core principle of early intervention."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Family-centered care",
+   "baslik": "The pediatric *case history*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Pregnancy, birth",
+     "metin": "Prematurity, intensive care",
+     "cumle": 1
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Family history",
+     "metin": "Childhood-onset hearing loss",
+     "cumle": 2
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Screening",
+     "metin": "Newborn screening result",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Development",
+     "metin": "Language and motor milestones",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ears",
+     "metin": "Infections, discharge",
+     "cumle": 5
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Concern",
+     "metin": "Family concern about hearing",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "A pediatric case history is a systematic interview covering risk factors and development.",
+    "For pregnancy and birth, ask about prematurity, neonatal intensive care and congenital infections.",
+    "Find out whether anyone in the family has hearing loss that began in childhood.",
+    "Record whether newborn hearing screening was done and what the result was.",
+    "Speech, language and motor milestones are assessed in comparison with peers.",
+    "A history of frequent ear infections and ear discharge is also asked about.",
+    "A family's concern about hearing is, even on its own, a finding that must be taken seriously."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "The cross-check",
+   "baslik": "The *cross-check* principle",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Behavioral",
+     "metin": "BOA, VRA, CPA",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Physiological",
+     "metin": "OAE, ABR and ASSR",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Immittance",
+     "metin": "Tympanometry, reflex",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The cross-check principle was described by Jerger and Hayes in 1976.",
+     "ses": "The cross-check principle was described by Jerger and Hayes in nineteen seventy six."
+    },
+    "According to this principle, the result of a single test is not accepted as final until it is confirmed by another, independent test.",
+    "In children, behavioral tests are compared with physiological tests that rely on different mechanisms.",
+    "Tympanometry and the acoustic reflex show middle ear status and, indirectly, the auditory pathway.",
+    "If the results agree, confidence grows; if not, the cause is investigated and the test is repeated if needed.",
+    "This principle matters especially in children, because behavioral responses are easily affected by attention, fatigue and development.",
+    "The cross-check helps prevent both missed hearing losses and unnecessary diagnoses of hearing loss."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "The cross-check",
+   "baslik": "Example: *conflicting* findings",
+   "sutunlar": [
+    "Test",
+    "Result"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "VRA, sound field",
+      "20 to 25 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Tympanometry",
+      "Both ears normal"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "OAE",
+      "Right present, left absent"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Next step",
+      "Inserts and ABR"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Now let us look at the findings of a purely example eighteen-month-old child.",
+    "In sound field VRA, the responses are around twenty to twenty five decibels, which looks normal.",
+    "Tympanometry is normal in both ears.",
+    "However, otoacoustic emissions are present in the right ear and absent in the left.",
+    "Because sound field responses reflect the better-hearing ear, a loss in the left ear may have been hidden.",
+    "The cross-check reveals this conflict; the next step is ear-specific testing with insert earphones and, if needed, ABR."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "The cross-check",
+   "baslik": "*Preparing* for the test",
+   "maddeler": [
+    {
+     "metin": "A child-friendly, _calm_ setting",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Key information is obtained _first_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Two testers_ if needed",
+     "cumle": 2,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "_Appointment_ timed around naps",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Several _sessions_ are normal",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vra_odasi",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "test_eden",
+      "metin": "Tester",
+      "cumle": 2
+     },
+     {
+      "parca": "dikkat_dagitici",
+      "metin": "Distractor",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "test_eden",
+      "cumle": 2
+     },
+     {
+      "parca": "dikkat_dagitici",
+      "cumle": 2
+     },
+     {
+      "parca": "ebeveyn",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "The test room should be a calm setting where the child feels safe, free of distracting objects.",
+    "Before the session starts, decide which information matters most and plan the test around this priority.",
+    "With young children, two people often work together: one runs the test and the other directs the child's attention.",
+    "For objective tests that need sleep, the appointment is timed around the child's usual nap time.",
+    "It is not always possible to get all the information in one session; spreading the assessment over several sessions is normal.",
+    "The information obtained and the child's level of cooperation are recorded at every session."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Seek ear-specific information even in a child with normal sound field responses. Do not decide from a single test; cross-check.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: do not report a child as having normal hearing based only on normal sound field responses.",
+    "Sound field responses reflect the better of the two ears; a unilateral loss cannot be seen this way.",
+    "Aim for ear-specific testing with insert earphones and a cross-check with OAE at the earliest possible session.",
+    "The family's concern and the developmental history are also important information alongside the findings."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "A child's ear is _acoustically_ different",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tests chosen by _developmental age_",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "The family is a _partner_ in decisions",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Never rely on one test: _cross-check_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "A child's ear canal is small, and the same setting produces a higher sound pressure; this affects measurements.",
+    "Tests are chosen by developmental age, not chronological age; in premature babies, corrected age is used.",
+    "In family-centered care, the family is not just informed but is a partner in decisions.",
+    "Under the cross-check principle, behavioral results are confirmed with physiological tests."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What decides the choice of pediatric test?",
+   "secenekler": [
+    "Chronological age",
+    "Developmental age",
+    "The parent's preference"
+   ],
+   "dogru": 1,
+   "aciklama": "The test is chosen by the child's _developmental age_; in premature babies, corrected age is used.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: when choosing a behavioral test method for a child, what is the deciding factor?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: developmental age.",
+    "For example, for a two-year-old with delayed development, VRA may be more suitable than play audiometry."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Behavioral *Observation* Audiometry (BOA) in Infants",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn behavioral observation audiometry, or BOA, used with the youngest babies.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

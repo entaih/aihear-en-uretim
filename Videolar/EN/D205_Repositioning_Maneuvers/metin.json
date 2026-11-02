@@ -1,0 +1,811 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D205_Repositioning_Maneuvers_EN",
+ "kapak": {
+  "ust": "LESSON 205",
+  "baslik": "BPPV<br>*maneuvers*",
+  "alt": "Epley, Semont, Gufoni, barbecue roll",
+  "cizim": "vestibuler",
+  "vurgula": [
+   "posterior_kanal"
+  ]
+ },
+ "youtube": {
+  "baslik": "Repositioning Maneuvers: Epley, Semont, Gufoni | Lesson 205 | AIHEAR Audiology Academy",
+  "aciklama": "How are ear stones moved back into place in BPPV? In this lesson, for educational purposes, we cover the logic of the Epley and Semont maneuvers for the posterior canal and the Gufoni and barbecue roll maneuvers for the lateral canal, safety considerations, and reassessment after the maneuver. Maneuvers are performed by a trained, qualified clinician on an appropriate patient.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Bhattacharyya et al., Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update), Otolaryngology-Head and Neck Surgery (2017); von Brevern et al., Benign paroxysmal positional vertigo: Diagnostic criteria, Journal of Vestibular Research (2015); Jacobson and Shepard, Balance Function Assessment and Management.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "BPPV",
+   "vertigo"
+  ],
+  "etiketler": [
+   "BPPV",
+   "Epley maneuver",
+   "Semont maneuver",
+   "Gufoni maneuver",
+   "barbecue roll",
+   "canalith repositioning procedure",
+   "posterior canal",
+   "lateral canal",
+   "dizziness",
+   "vestibular",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 205",
+   "baslik": "BPPV *repositioning* maneuvers",
+   "alt": "Epley, Semont, Gufoni and the barbecue roll",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the Epley, Semont, Gufoni and barbecue roll maneuvers used in benign paroxysmal positional vertigo, or BPPV.",
+    "This content is for education; maneuvers are performed by a trained, qualified clinician on an appropriate patient."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The basic principle",
+   "baslik": "Sending the stones *back*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "posterior_kanal",
+     "metin": "Posterior canal",
+     "cumle": 3
+    },
+    {
+     "parca": "crus_commune",
+     "metin": "Common crus",
+     "cumle": 3
+    },
+    {
+     "parca": "utrikul",
+     "metin": "Utricle",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "crus_commune",
+     "cumle": 3
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "First identify _canal and side_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the previous lesson we saw that in BPPV, otoconia that break off the utricle enter a semicircular canal.",
+    "A canalith repositioning procedure aims to move these crystals out of the canal and back into the utricle.",
+    "To do this, the head is brought into a series of positions; in each one, gravity moves the crystals a little further along the canal.",
+    "In the posterior canal, the crystals are guided from the lowest point of the canal to the common crus, and from there to the utricle.",
+    "Crystals that return to the utricle no longer drag the canal fluid, and the positional vertigo resolves.",
+    "So before a maneuver, the affected canal and side must be identified correctly with positional tests.",
+    "A maneuver for the wrong canal or the wrong side does not work and causes the patient needless discomfort."
+   ],
+   "ayar": {
+    "epley": true,
+    "taraf": "sag",
+    "epley_cumle": 2,
+    "utrikul_cumle": 4
+   }
+  },
+  {
+   "id": "guvenlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The basic principle",
+   "baslik": "*Safety* first",
+   "maddeler": [
+    {
+     "metin": "_Ask about_ neck and back problems",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Vascular disease: decide _with physician_",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Warning signs: _no maneuver_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Prepare for nausea and _falls_",
+     "cumle": 3,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "The patient is _informed_",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Warning sign",
+      "metin": "No maneuver, refer",
+      "cumle": 2
+     },
+     {
+      "ikon": "agri",
+      "baslik": "Neck problem",
+      "metin": "Modified technique",
+      "cumle": 4
+     }
+    ],
+    "ust": "CAUTION"
+   },
+   "cumleler": [
+    "Before the maneuver, ask about neck pain, neck or back surgery, and limited neck movement.",
+    "If there is serious neck vessel disease or another major health problem, the decision to do a maneuver is made with the physician.",
+    "If the picture is not typical BPPV, or warning signs suggest a central cause, no maneuver is done; the patient is referred to a physician.",
+    "Severe vertigo and nausea can occur during the maneuver; the patient is always supported against falling.",
+    "For people with limited mobility, a tilting stretcher or modified techniques can be used instead of an exam table.",
+    "The patient is told in advance what will be done, why, and what they may feel during it."
+   ]
+  },
+  {
+   "id": "duzlem",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Posterior canal",
+   "baslik": "Why *45 degrees?*",
+   "cizim": "kanal_duzlemleri",
+   "ayar": {
+    "goster": [
+     "larp"
+    ],
+    "cift_cumleleri": {
+     "larp": 2
+    },
+    "donus": 45,
+    "donus_cumle": 3
+   },
+   "etiketler": [
+    {
+     "parca": "sag_arka_kanal",
+     "metin": "Right posterior canal",
+     "cumle": 1
+    },
+    {
+     "parca": "larp",
+     "metin": "LARP plane",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sag_arka_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "bas",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Most posterior canal maneuvers start by turning the head about forty five degrees.",
+    "This is because the posterior canal lies in a plane tilted about forty five degrees from the midline of the head.",
+    "The right posterior canal lies in the same plane as the left anterior canal; this is called the LARP plane.",
+    "With the head turned forty five degrees to the right, the right posterior canal plane lines up with the front to back plane of the body.",
+    "When the patient is then laid back, the canal rotates fully in the direction of gravity, and the crystals move along the canal.",
+    "This is also why the Dix-Hallpike test and the first step of the Epley maneuver are the same."
+   ]
+  },
+  {
+   "id": "epley",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Posterior canal",
+   "baslik": "The *Epley* maneuver",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sitting",
+     "metin": "Head 45 degrees to affected side",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Supine",
+     "metin": "Dix-Hallpike position",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Head turns",
+     "metin": "90 degrees to other side",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Side-lying",
+     "metin": "Face toward floor",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sitting up",
+     "metin": "Slowly, chin slightly down",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "The Epley maneuver is the most widely used repositioning maneuver for posterior canal BPPV; our example is the right posterior canal.",
+    "The patient sits, the head is turned forty five degrees to the right, and the patient is quickly laid back into the Dix-Hallpike position.",
+    "In this position, wait until the nystagmus and spinning pass; this usually takes twenty to thirty seconds.",
+    "Then, keeping the head extended, it is slowly turned ninety degrees to the left, and again you wait.",
+    "Next the patient rolls onto the left side; the head turns another ninety degrees so the face points toward the floor.",
+    "After waiting in this position too, most of the crystals have reached the utricle through the common crus.",
+    "Finally, the patient is slowly brought up to sitting, with the head turned left and the chin slightly down.",
+    "Waiting times vary between sources; the shared principle is to wait in each position until the nystagmus fades."
+   ]
+  },
+  {
+   "id": "semont",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Posterior canal",
+   "baslik": "The *Semont* maneuver",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sitting on edge",
+     "metin": "Head 45 toward healthy side",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "To affected side",
+     "metin": "Quickly lying down",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Waiting",
+     "metin": "One to two minutes",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "To other side",
+     "metin": "Fast swing, face down",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sitting up",
+     "metin": "Slowly",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The Semont maneuver is also known as the liberatory maneuver; our example is again the right posterior canal.",
+    "Seated on the table edge, the head is turned forty five degrees to the healthy left side, and the patient is quickly laid on the right side.",
+    "In this position the face points toward the ceiling; wait until the nystagmus and spinning pass, usually about one to two minutes.",
+    "Then, without changing the head angle at all, the patient is swung quickly through sitting onto the left side; now the face points down.",
+    "This fast transition aims to use momentum to move the crystals out of the canal; again, wait a few minutes in this position.",
+    "Finally, the patient is slowly brought up to sitting.",
+    "Because it needs no neck extension, the Semont maneuver may be preferred in some people for whom extending the head back is a concern."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Posterior canal",
+   "baslik": "Epley or *Semont?*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Epley",
+     "metin": "Common; neck extended, slow transitions.",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Semont",
+     "metin": "No neck extension; fast movement.",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "In common",
+     "metin": "Reported to be similarly effective.",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The choice between the two posterior canal maneuvers mostly depends on the patient's characteristics and the clinician's experience.",
+    "The Epley maneuver uses slower transitions, but it requires the head to be extended backward.",
+    "The Semont maneuver needs no neck extension; in exchange, it requires a fast, wide body movement.",
+    "In comparative studies, the two maneuvers have generally been found to be similarly effective.",
+    {
+     "yazi": "The 2017 American Academy of Otolaryngology guideline names repositioning as the recommended treatment for posterior canal BPPV.",
+     "ses": "The twenty seventeen American Academy of Otolaryngology guideline names repositioning as the recommended treatment for posterior canal BPPV."
+    },
+    "In controlled studies, the maneuvers showed clearly higher resolution rates than a sham maneuver."
+   ]
+  },
+  {
+   "id": "lateral_taraf",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Lateral and anterior canals",
+   "baslik": "Lateral canal: *which side?*",
+   "maddeler": [
+    {
+     "metin": "_Identified_ with the supine roll test",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Geotropic: the _stronger_ side is affected",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Apogeotropic: the _weaker_ side is affected",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Unclear side changes the _approach_",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "Lateral canal",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "In lateral canal BPPV, the supine roll test first identifies the type of nystagmus and the affected side.",
+    "With geotropic nystagmus, the side where the nystagmus is stronger is usually the affected ear.",
+    "With apogeotropic nystagmus, the side where the nystagmus is weaker is usually the affected ear.",
+    "This distinction directly decides which way the maneuver is done.",
+    "If the nystagmus intensity is very similar on both sides, identifying the side is harder and additional signs are used."
+   ]
+  },
+  {
+   "id": "gufoni",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Lateral and anterior canals",
+   "baslik": "The *Gufoni* maneuver (geotropic)",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sitting",
+     "metin": "Starting position",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Healthy side",
+     "metin": "Quick side-lying",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Waiting",
+     "metin": "Until nystagmus fades",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Head down",
+     "metin": "About 45 degrees",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sitting up",
+     "metin": "After one to two minutes",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The Gufoni maneuver is a short, easy maneuver often used in lateral canal BPPV.",
+    "In the geotropic type, the patient is brought quickly from sitting into straight side-lying on the healthy side.",
+    "Wait until the nystagmus in this position fades, usually about one minute.",
+    "Then the head is quickly turned about forty five degrees toward the floor.",
+    "After waiting one to two minutes in this position, the patient is slowly brought up to sitting.",
+    "In the apogeotropic type, different versions of the maneuver toward the affected side are used; details vary by protocol."
+   ]
+  },
+  {
+   "id": "barbeku",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Lateral and anterior canals",
+   "baslik": "The *barbecue* roll",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Supine",
+     "metin": "Head to affected side",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "90 degrees",
+     "metin": "Face up",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "90 degrees",
+     "metin": "To healthy side",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "90 degrees",
+     "metin": "Face down",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sitting up",
+     "metin": "Over healthy side",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The barbecue roll is a lateral canal technique, also known as the Lempert maneuver.",
+    "The patient lies supine, and the head is first turned toward the affected side.",
+    "Then the head and body are rotated toward the healthy side in steps of ninety degrees.",
+    "The patient turns until lying face down, completing a total rotation of two hundred seventy to three hundred sixty degrees.",
+    "In each position, wait until the nystagmus fades, usually thirty seconds to one minute.",
+    "Finally, the patient is slowly brought up to sitting over the healthy side.",
+    "Some clinicians also use forced prolonged positioning, asking the patient to lie on the healthy side, for example overnight."
+   ]
+  },
+  {
+   "id": "on_kanal",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Lateral and anterior canals",
+   "baslik": "Anterior canal and *special cases*",
+   "maddeler": [
+    {
+     "metin": "Anterior canal: _rare_",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Deep head-hanging maneuvers",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Downbeating nystagmus: _rule out central_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cupulolithiasis: _free the debris_ first",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "superior_kanal",
+      "metin": "Anterior (superior) canal",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "superior_kanal",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Anterior canal BPPV is rare and harder to diagnose than the other types.",
+    "It is treated with maneuvers in which the head hangs deeply below the edge of the table; the Yacovino maneuver is one of these.",
+    "Downbeating positional nystagmus can also occur with central causes.",
+    "So ruling out central causes is especially important before diagnosing anterior canal BPPV.",
+    "In cupulolithiasis, the crystals stick to the cupula.",
+    "In this case, modified maneuvers that aim to free the crystals first can be used.",
+    "In these special cases, choosing a maneuver needs more experience; if things do not improve, the patient is reassessed."
+   ]
+  },
+  {
+   "id": "gozlem",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "After the maneuver",
+   "baslik": "Observing *during* the maneuver",
+   "maddeler": [
+    {
+     "metin": "Eyes watched _in every position_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Same-direction nystagmus: _a good sign_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Reversed nystagmus: _backflow_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "New nystagmus type: _canal conversion_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Same direction",
+      "metin": "Sign of progress",
+      "cumle": 2
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Reversed",
+      "metin": "Possible backflow",
+      "cumle": 4
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "New type",
+      "metin": "Canal conversion",
+      "cumle": 5
+     }
+    ],
+    "ust": "OBSERVATION"
+   },
+   "cumleler": [
+    "Where possible, the maneuver is done with Frenzel or video goggles, and the eyes are watched in every position.",
+    "In the posterior canal, nystagmus may also appear in the second and third positions of the maneuver.",
+    "If this nystagmus beats the same way as in the first position, it has been reported as a sign that the crystals are moving the right way.",
+    "This finding suggests the maneuver is likely to succeed.",
+    "Nystagmus in the opposite direction may suggest that the crystals are sliding back toward the ampulla.",
+    "During a maneuver, crystals can move into another canal; this is called canal conversion, and the type of nystagmus changes.",
+    "In that case, the newly affected canal is identified and a suitable maneuver is chosen for it."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "After the maneuver",
+   "baslik": "*After* the maneuver",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Retest",
+     "metin": "Same or next session",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Repeat if needed",
+     "metin": "Same maneuver",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Residual imbalance",
+     "metin": "May last days",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Within a month",
+     "metin": "Reassessment",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Counseling",
+     "metin": "It may recur",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "After the maneuver, positional testing is repeated in the same session or at the next visit, and the result is recorded.",
+    "If nystagmus persists, the same maneuver can be repeated; some patients need several sessions.",
+    {
+     "yazi": "The 2017 guideline does not recommend routine head or sleeping restrictions after a posterior canal maneuver.",
+     "ses": "The twenty seventeen guideline does not recommend routine head or sleeping restrictions after a posterior canal maneuver."
+    },
+    "Even after a successful maneuver, a mild feeling of imbalance may remain for a few days to a few weeks.",
+    "The guideline recommends reassessing the patient within about one month after initial treatment or observation.",
+    "If symptoms persist, the diagnosis is reviewed, and another vestibular problem or a central cause is looked for.",
+    "The patient is told that BPPV can recur and that they can come back if a new attack occurs."
+   ]
+  },
+  {
+   "id": "ev",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "After the maneuver",
+   "baslik": "Home exercises and *rehabilitation*",
+   "maddeler": [
+    {
+     "metin": "Self-_Epley_ can be taught",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "_Brandt-Daroff_: less effective",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_Rehabilitation_ for residual imbalance",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Fall_ prevention in older adults",
+     "cumle": 4,
+     "ikon": "yasli"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "When teaching a home exercise, do it once with the patient and give the side in writing.",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Suitable patients can be shown a self-Epley technique to use at home after a clinician has taught it.",
+    "Brandt-Daroff exercises are also used at home, but they have been reported to be less effective than repositioning maneuvers.",
+    "For home use, the side must have been identified correctly and the patient must be in a safe setting.",
+    "If imbalance persists after the maneuver, or the patient avoids movement, vestibular rehabilitation can help.",
+    "In older patients, fall risk is assessed and home safety measures are discussed."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Confirm the affected canal and side on video before the maneuver. Do not perform a maneuver for atypical nystagmus; refer to a physician.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the field: the success of a maneuver depends on an accurate diagnosis.",
+    "Confirm the positional test finding with a video recording if possible; the direction of brief torsional nystagmus is much clearer on video.",
+    "If the nystagmus does not fit typical BPPV, for example with no latency, no fatigue, or pure downbeating, do not perform a maneuver.",
+    "In such a case, record the findings and refer the patient for a physician's assessment."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Goal: return crystals to the _utricle_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Posterior canal: _Epley_ or Semont",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Lateral canal: _Gufoni_ or barbecue roll",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Then: retest, review within _a month_",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Repositioning maneuvers aim to return otoconia that entered a canal to the utricle by using head positions.",
+    "The Epley and Semont maneuvers are used for the posterior canal, and they are reported to be similarly effective.",
+    "In the lateral canal, the Gufoni and barbecue roll maneuvers are used; the affected side decides the direction.",
+    "After the maneuver the test is repeated, routine restrictions are not recommended, and reassessment is done within about a month."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which suits right posterior canal BPPV?",
+   "secenekler": [
+    "Right-sided Epley maneuver",
+    "Barbecue roll to the right",
+    "Gufoni maneuver",
+    "No maneuver needed"
+   ],
+   "dogru": 0,
+   "aciklama": "Posterior canal BPPV is treated with _Epley_ or Semont; the Epley starts on the affected side.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which maneuver is appropriate for right posterior canal BPPV?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: the Epley maneuver starting on the right side.",
+    "The barbecue roll and Gufoni maneuvers are for the lateral canal; Epley or Semont is used for the posterior canal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vestibular Neuritis and *Labyrinthitis*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about dizziness that starts suddenly and lasts for days: vestibular neuritis and labyrinthitis.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

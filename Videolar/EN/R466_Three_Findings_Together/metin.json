@@ -1,0 +1,133 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R466_Three_Findings_Together_EN",
+ "kapak": {
+  "ust": "QUICK FACT #466",
+  "baslik": "Three findings *together*",
+  "alt": "The picture that suggests otosclerosis",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      40,
+      40,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      15,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "With a normal tympanogram, what explains an air-bone gap? #shorts",
+  "aciklama": "In the example case, an air-bone gap confirmed with masking comes with a normal or shallow-peaked tympanogram; in other words, there is no curve suggesting middle ear fluid or a hole. The real clue is in the acoustic reflexes: with the affected ear holding the probe the reflex is absent, because a fixed stapes shows no admittance change even when the muscle contracts. This triad suggests conditions that restrict movement of the ossicular chain, especially otosclerosis; the diagnosis is made by the physician.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "otosclerosis",
+   "casestudy"
+  ],
+  "etiketler": [
+   "otosclerosis",
+   "air-bone gap",
+   "acoustic reflex",
+   "type As tympanogram",
+   "conductive hearing loss",
+   "case study",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "With a normal tympanogram, what explains an air-bone gap?",
+  "bilgiler": [
+   "An air-bone gap confirmed with masking.",
+   "A normal or shallow-peaked tympanogram.",
+   "An absent acoustic reflex with the affected ear holding the probe."
+  ],
+  "hashtag": [
+   "audiology",
+   "otosclerosis",
+   "casestudy"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #466",
+   "metin": "Tympanogram *normal?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "With a normal tympanogram, what explains an air-bone gap?"
+   ]
+  },
+  {
+   "id": "uclu",
+   "tur": "zincir",
+   "baslik": "Read them *together*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Gap",
+     "tr": "confirmed with masking",
+     "cumle": 0
+    },
+    {
+     "ad": "Tympanogram",
+     "tr": "near normal",
+     "cumle": 1
+    },
+    {
+     "ad": "Reflex",
+     "tr": "absent",
+     "cumle": 2
+    }
+   ],
+   "alt": "Chain movement _restricted_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "In the example, there is an air-bone gap confirmed with masking.",
+    "The tympanogram is normal or shallow-peaked, not suggesting fluid.",
+    "Affected ear probed: no reflex, since a fixed stapes cannot change admittance.",
+    "These three especially suggest otosclerosis; the diagnosis is the physician's."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D273",
+ "kaynak_baslik": "Case: Air-Bone Gap, Normal Tympanogram, Carhart Notch"
+}

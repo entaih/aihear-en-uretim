@@ -1,0 +1,777 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D135_Classic_Suprathreshold_Tests_EN",
+ "kapak": {
+  "ust": "LESSON 135",
+  "baslik": "Classic *suprathreshold*<br>tests",
+  "alt": "ABLB, SISI, tone decay",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.6,
+    "max": 2.4,
+    "adim": 1,
+    "yazilar": {
+     "1": "Better ear",
+     "2": "Poorer ear"
+    },
+    "ad": ""
+   },
+   "y": {
+    "min": -10,
+    "max": 100,
+    "adim": 20,
+    "ad": "dB HL",
+    "ters": true
+   },
+   "seriler": [
+    {
+     "ad": "denge_0",
+     "noktalar": [
+      [
+       1,
+       0
+      ],
+      [
+       2,
+       50
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 2
+    },
+    {
+     "ad": "denge_20",
+     "noktalar": [
+      [
+       1,
+       20
+      ],
+      [
+       2,
+       60
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 3
+    },
+    {
+     "ad": "denge_40",
+     "noktalar": [
+      [
+       1,
+       40
+      ],
+      [
+       2,
+       70
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 4
+    },
+    {
+     "ad": "denge_60",
+     "noktalar": [
+      [
+       1,
+       60
+      ],
+      [
+       2,
+       75
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 4
+    },
+    {
+     "ad": "denge_80",
+     "noktalar": [
+      [
+       1,
+       80
+      ],
+      [
+       2,
+       80
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 4
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "esikler",
+     "x": 1.5,
+     "y": 25,
+     "etiket": "thresholds: 0 and 50",
+     "cumle": 2
+    },
+    {
+     "ad": "esitlenme",
+     "x": 1.5,
+     "y": 88,
+     "etiket": "equal at 80 dB",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Classic Suprathreshold Tests: ABLB, SISI, Tone Decay | Lesson 135 | AIHEAR Audiology Academy",
+  "aciklama": "How were the classic site of lesion tests done, and how are they interpreted? In this lesson we cover demonstrating recruitment with ABLB and the laddergram, the one decibel increments of the SISI test, the Carhart tone decay test and its variants, and where these tests stand today.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Jerger, Shedd and Harford, On the detection of extremely small changes in sound intensity (Archives of Otolaryngology, 1959); Carhart, Clinical determination of abnormal auditory adaptation (1957).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "recruitment",
+   "diagnosticaudiology"
+  ],
+  "etiketler": [
+   "ABLB",
+   "alternate binaural loudness balance",
+   "SISI",
+   "short increment sensitivity index",
+   "tone decay test",
+   "recruitment",
+   "laddergram",
+   "Carhart",
+   "STAT",
+   "site of lesion testing",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 135",
+   "baslik": "Classic *suprathreshold* tests",
+   "alt": "ABLB, SISI and tone decay",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the classic suprathreshold tests developed to identify the site of lesion.",
+    "We will see how loudness balance shows recruitment, the short increment sensitivity index, the tone decay test, and their place today."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The logic",
+   "baslik": "*What* do we look for above threshold?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Recruitment",
+     "metin": "Loudness grows quickly",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Small increments",
+     "metin": "1 dB increments are noticed",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Adaptation",
+     "metin": "A steady tone fades",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The audiogram shows threshold; how sounds above threshold are perceived can differ between cochlear and retrocochlear problems.",
+    "In cochlear loss, outer hair cell damage makes loudness grow abnormally fast above threshold; this is recruitment.",
+    "As we saw in the recruitment lesson, this lets loudness catch up with normal at high levels.",
+    "An ear with recruitment also notices very small increases in intensity more easily.",
+    "In retrocochlear problems, the auditory nerve may fail to sustain its response to a steady stimulus; the tone fades over time.",
+    {
+     "yazi": "Classic suprathreshold tests measure these three features; they were the basis of site of lesion testing from the 1950s to the 1970s.",
+     "ses": "Classic suprathreshold tests measure these three features; they were the basis of site of lesion testing, mainly from the nineteen fifties to the seventies."
+    }
+   ]
+  },
+  {
+   "id": "ablb_yontem",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "ABLB",
+   "baslik": "*How* is ABLB done?",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Suitable patient",
+     "metin": "Loss in one ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Alternating tone",
+     "metin": "To each ear in turn",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Fixed and adjusted",
+     "metin": "One fixed, one adjusted",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Steps",
+     "metin": "In 20 dB steps",
+     "cumle": 6
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Graph",
+     "metin": "Equal loudness lines",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The alternate binaural loudness balance test, or ABLB, is based on Fowler's method from the 1930s.",
+     "ses": "The alternate binaural loudness balance test, or A B L B, is based on Fowler's method from the nineteen thirties."
+    },
+    "The test requires one ear to be normal or near normal at the test frequency.",
+    "The other ear has a hearing loss, with a clear difference between the thresholds of the two ears.",
+    "A tone of the same frequency is presented to the two ears, alternating at short intervals.",
+    "The level in one ear is held fixed; the level in the other ear is changed until the person hears the two tones as equally loud.",
+    "The person is asked a single question: which side is louder, or are they equal?",
+    "This balancing is repeated in twenty decibel steps, starting about twenty decibels above the threshold of the better ear.",
+    "At each step, the levels that give equal loudness in the two ears are joined on a graph.",
+    "Because this graph looks like a ladder, it is known as a laddergram."
+   ]
+  },
+  {
+   "id": "merdiven",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "ABLB",
+   "baslik": "Example: *complete* recruitment",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.6,
+     "max": 2.4,
+     "adim": 1,
+     "yazilar": {
+      "1": "Better ear",
+      "2": "Poorer ear"
+     },
+     "ad": ""
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 20,
+     "ad": "dB HL",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "denge_0",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        50
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 2
+     },
+     {
+      "ad": "denge_20",
+      "noktalar": [
+       [
+        1,
+        20
+       ],
+       [
+        2,
+        60
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 3
+     },
+     {
+      "ad": "denge_40",
+      "noktalar": [
+       [
+        1,
+        40
+       ],
+       [
+        2,
+        70
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 4
+     },
+     {
+      "ad": "denge_60",
+      "noktalar": [
+       [
+        1,
+        60
+       ],
+       [
+        2,
+        75
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 4
+     },
+     {
+      "ad": "denge_80",
+      "noktalar": [
+       [
+        1,
+        80
+       ],
+       [
+        2,
+        80
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esikler",
+      "x": 1.5,
+      "y": 25,
+      "etiket": "thresholds: 0 and 50",
+      "cumle": 2
+     },
+     {
+      "ad": "esitlenme",
+      "x": 1.5,
+      "y": 88,
+      "etiket": "equal at 80 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Threshold difference: 50 dB",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "The gap narrows step by step",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Equal at 80 dB: complete recruitment",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Now let us read an entirely hypothetical ABLB result.",
+    "The left column shows levels for the better ear and the right column for the poorer ear; decibels HL increase downward.",
+    "Thresholds are zero decibels HL in the better ear and fifty in the poorer ear; the top line joins the two thresholds.",
+    "Twenty decibels in the better ear sounds equal to sixty in the poorer ear; the gap falls from fifty decibels to forty.",
+    "As the steps go on, the gap narrows, and at eighty decibels both ears hear the tone equally loud at the same level.",
+    "Lines converging lower down show that loudness has caught up with normal in the poorer ear, that is, complete recruitment.",
+    "This pattern is classically considered consistent with a cochlear lesion."
+   ]
+  },
+  {
+   "id": "ablb_sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "ABLB",
+   "baslik": "*Four* ABLB outcomes",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Complete recruitment",
+     "metin": "Equal at high levels",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Partial",
+     "metin": "The gap narrows, never closes",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "No recruitment",
+     "metin": "The gap stays the same",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Decruitment",
+     "metin": "The gap grows",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In complete recruitment, loudness becomes equal in the two ears at high levels.",
+    "In partial recruitment, the gap narrows but does not fully close.",
+    "With no recruitment, the lines stay parallel; the threshold difference is kept at all levels.",
+    "This picture is expected in conductive loss, because the problem lies only in getting sound to the cochlea.",
+    "In decruitment, the gap grows as level rises; loudness grows more slowly than normal in the poorer ear.",
+    "In sensorineural loss, absent recruitment or decruitment classically suggests a retrocochlear process.",
+    "The main limitation of ABLB is that one ear must be normal; it cannot be used in bilateral losses."
+   ]
+  },
+  {
+   "id": "sisi_yontem",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "SISI",
+   "baslik": "*How* is SISI done?",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Carrier tone",
+     "metin": "20 dB SL",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Brief increments",
+     "metin": "Every 5 seconds",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Practice",
+     "metin": "5 dB increments first",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "20 increments",
+     "metin": "1 dB, counted",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Score",
+     "metin": "Number correct x 5",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The short increment sensitivity index, or SISI, was described in 1959 by Jerger and colleagues.",
+     "ses": "The short increment sensitivity index, or SISI, was described in nineteen fifty nine by Jerger and colleagues."
+    },
+    "At the test frequency, usually one and four kilohertz, a steady tone is presented twenty decibels above threshold.",
+    "About every five seconds, brief intensity increments lasting around two hundred milliseconds are added to this tone.",
+    "The person first learns the task with clear five decibel increments; then the increments are reduced to one decibel.",
+    "Twenty one decibel increments are presented, and the person reports each one heard with a button or verbally.",
+    "The number heard is multiplied by five and given as a percentage; for example, sixteen increments make eighty percent.",
+    "Five decibel control increments mixed in check the person's attention and understanding of the task.",
+    "Because SISI is done in one ear, unlike ABLB, it can also be used in bilateral losses."
+   ]
+  },
+  {
+   "id": "sisi_yorum",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "SISI",
+   "baslik": "Interpreting the SISI *score*",
+   "sutunlar": [
+    "Score",
+    "Classic interpretation"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "70 to 100%",
+      "High: cochlear"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "0 to 20%",
+      "Low"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "In between",
+      "Inconclusive"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "High-level SISI",
+      "Low score: retrocochlear?"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A person with normal hearing does not hear most one decibel increments at twenty decibels sensation level.",
+    "An ear with cochlear loss hears most of them; a score of seventy percent or more is classically linked to a cochlear lesion.",
+    "Low scores can be seen in normal ears, in conductive loss and in retrocochlear lesions.",
+    "So a low score alone does not show a retrocochlear problem; it does not separate it from normal or conductive ears.",
+    "Intermediate values are considered inconclusive; the cutoffs differ by a few points between sources.",
+    "In one variant, the test is done at a high level, around seventy five decibels HL, where normal and cochlear ears hear increments easily.",
+    "A low score at a high level has been interpreted as a clue pointing toward a retrocochlear site."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Tone decay",
+   "baslik": "The Carhart tone decay *test*",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tone at threshold",
+     "metin": "Presented continuously",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "As long as heard",
+     "metin": "Hand stays up",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Did it fade?",
+     "metin": "Add 5 dB, restart timing",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "60 seconds",
+     "metin": "Ends when heard fully",
+     "cumle": 5
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Amount of decay",
+     "metin": "Final level minus threshold",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "The tone decay test measures whether a steady tone becomes inaudible over time.",
+    {
+     "yazi": "The classic form of the test was described by Carhart in 1957.",
+     "ses": "The classic form of the test was described by Carhart in nineteen fifty seven."
+    },
+    "At the test frequency, a steady tone is presented at or just above threshold.",
+    "The person is told to raise a hand or hold a button as long as the tone is heard, and to release it when the tone fades.",
+    "If the tone fades before sixty seconds, the level is raised by five decibels without interrupting the tone, and timing restarts.",
+    "This continues until the person hears the tone for a full sixty seconds at one level.",
+    "The difference between the final level and the starting threshold is recorded as the amount of tone decay.",
+    "Decay of a few decibels can be seen in normal and cochlear ears.",
+    "Depending on the source, decay greater than twenty five to thirty decibels is a clue pointing toward a retrocochlear site."
+   ]
+  },
+  {
+   "id": "turevler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Tone decay",
+   "baslik": "*Variants* of tone decay",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Olsen-Noffsinger",
+     "metin": "Starts at 20 dB SL",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Rosenberg",
+     "metin": "One minute in total",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "STAT",
+     "metin": "Very high level, 60 s",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the Olsen and Noffsinger modification, the test starts not at threshold but twenty decibels above it.",
+    "This shortens the test and reduces uncertainty at threshold; normal ears usually hear the tone for a full minute at this level.",
+    "In Rosenberg's modified test, the total time is limited to one minute; the total increase made in that time is the amount of decay.",
+    "Short tests save time, but they may miss mild adaptation.",
+    "The suprathreshold adaptation test, or STAT, by Jerger and Jerger, is done at a high level, about one hundred ten decibels SPL.",
+    "In STAT, the result is positive if the tone is not heard for sixty seconds; the very high level may require masking the other ear."
+   ]
+  },
+  {
+   "id": "bugun",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Their place today",
+   "baslik": "Where are these tests *today*?",
+   "maddeler": [
+    {
+     "metin": "ABR and MRI took the lead",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Limited sensitivity",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tone decay: a quick extra check",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Essential for reading the literature",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "noron",
+      "baslik": "ABR",
+      "metin": "Shows neural conduction",
+      "cumle": 1
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "MRI",
+      "metin": "Imaging, the physician's decision",
+      "cumle": 1
+     }
+    ],
+    "ust": "TODAY"
+   },
+   "cumleler": [
+    "These tests were the main tools for locating a lesion before imaging and electrophysiology became widespread.",
+    "Today, when a retrocochlear problem is suspected, auditory brainstem response, or ABR, and magnetic resonance imaging are far more decisive.",
+    "Classic suprathreshold tests have shown limited sensitivity for detecting small tumors, so they cannot be relied on alone.",
+    "Still, the tone decay test is used in some clinics as a quick, inexpensive extra check that needs only an audiometer.",
+    "Acoustic reflex and reflex decay tests have stayed in the battery as measures that carry the logic of these tests objectively.",
+    "SISI is rarely used in the clinic today; it appears mostly in studies of intensity discrimination.",
+    "Knowing the logic of these tests is also needed to read older reports and the classic literature correctly."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Give clear instructions for the tone decay test: hold the button as long as you hear the tone, and let go as soon as it fades.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: the result of the tone decay test depends largely on clear understanding of the instructions.",
+    "Tell the person that the presence of the tone matters, not its loudness: hold while it is heard, let go the moment it fades.",
+    "People with tinnitus may confuse the tone with their ringing; in that case, introduce the tone's frequency and character beforehand.",
+    "If the difference between the test ear and the better ear is large, consider whether the other ear needs masking at high levels."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "ABLB: _recruitment_ in one-sided loss",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SISI: 1 dB increments, high score cochlear",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tone decay: 60 seconds, _adaptation_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Today ABR and MRI decide",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "ABLB balances loudness between the two ears in one-sided loss; becoming equal at high levels is complete recruitment.",
+    "SISI counts one decibel increments added to a tone twenty decibels above threshold; a high score is classically cochlear.",
+    "The tone decay test measures the increase needed for a tone to be heard for sixty seconds; marked decay points toward a retrocochlear site.",
+    "These tests have limited sensitivity; today ABR and imaging are decisive in retrocochlear assessment."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In ABLB, what does equal loudness at 80 dB show?",
+   "secenekler": [
+    "Conductive loss",
+    "Complete recruitment",
+    "Decruitment",
+    "Tone decay"
+   ],
+   "dogru": 1,
+   "aciklama": "Loudness in the poorer ear has _caught up with normal_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: two ears with thresholds of zero and fifty decibels hear a tone as equally loud at eighty decibels. What does this show?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: complete recruitment.",
+    "The fifty decibel threshold gap has closed at a high level; this is classically consistent with a cochlear lesion."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Recognizing *Pseudohypacusis* (Nonorganic Loss)",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn to recognize nonorganic hearing loss, known as pseudohypacusis.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

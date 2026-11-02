@@ -1,0 +1,105 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R006_Normal_or_Hearing_Loss_EN",
+ "kapak": {
+  "ust": "QUICK FACT #6",
+  "baslik": "Normal, or *hearing loss?*",
+  "alt": "Same threshold, two different scales",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      20,
+      30,
+      40,
+      50,
+      60,
+      65
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can the same ear be both normal and impaired? #shorts",
+  "aciklama": "An ear with an average of 18 dB is normal on the World Health Organization scale but counts as a slight loss on the Clark scale. That is because the normal limit is 20 dB on one and 15 dB on the other.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "hearing"
+  ],
+  "etiketler": [
+   "degrees of hearing loss",
+   "WHO classification",
+   "Clark scale",
+   "pure tone average",
+   "PTA",
+   "audiogram",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can the same ear be both normal and impaired?",
+  "bilgiler": [
+   "An ear with an 18 dB average is normal on the WHO scale.",
+   "The same ear counts as a slight loss on the Clark scale.",
+   "The normal limit is 20 dB for WHO and 15 dB for Clark."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #6",
+   "metin": "Can one ear be normal *and impaired?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can the same ear be both normal and impaired?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Average threshold, *two scales*",
+   "sayi": "18",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Picture an ear with an average of eighteen decibels.",
+    "On the World Health Organization scale, this ear is normal.",
+    "On the Clark scale, it counts as a slight loss.",
+    "The normal limit is twenty decibels on one, fifteen on the other."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D005",
+ "kaynak_baslik": "Degrees of Hearing Loss: How Severity Is Classified"
+}

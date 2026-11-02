@@ -1,0 +1,225 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D002_What_Is_Audiology_EN",
+  "kapak": {
+    "ust": "LESSON 2",
+    "baslik": "What is<br>*audiology?*",
+    "alt": "Audiologist, audiometrist and ENT physician",
+    "cizim": "odyometre"
+  },
+  "youtube": {
+    "baslik": "What Is Audiology and What Does an Audiologist Do? | Lesson 02 | AIHEAR Audiology Academy",
+    "aciklama": "We define audiology and look at how it began and how it developed in Türkiye. We cover the fields of audiology and compare the roles of the audiologist, the audiometrist and the ENT physician on the care team.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Martin and Clark, Introduction to Audiology; ASHA, Scope of Practice in Audiology (2018); WHO, World Report on Hearing (2021).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "audiologist", "hearing"],
+    "etiketler": ["audiology", "audiologist", "what is audiology", "audiometrist", "audiology career", "ENT", "otorhinolaryngology", "hearing loss", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 2", "baslik": "What Is Audiology and What Does an Audiologist *Do?*",
+     "alt": "Definition, history, fields and the care team",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we talk about what audiology is, how it began and how it developed in Türkiye.",
+       "We will also compare the roles of the audiologist, the audiometrist and the ENT physician on the care team."]},
+
+    {"id": "tanim", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "What is audiology?", "baslik": "What is *audiology*?",
+     "maddeler": [
+       {"metin": "_Audiology_: the science of hearing and balance", "cumle": 0, "ikon": "kulak"},
+       {"metin": "Latin _audire_: to hear", "cumle": 2, "ikon": "kitap"},
+       {"metin": "Assessment, _rehabilitation_, prevention", "cumle": 3, "ikon": "kontrol_listesi"},
+       {"metin": "All ages: _from infants to older adults_", "cumle": 5, "ikon": "bebek"}],
+     "yan": {"tur": "kart", "ust": "AUDIOLOGIST", "metin": "The specialist who *assesses* hearing and balance", "cumle": 1},
+     "cumleler": [
+       "Audiology is a health science that studies the hearing and balance systems and their disorders.",
+       "A health professional with a university degree in this field is called an audiologist.",
+       "The word comes from the Latin audire, meaning to hear, and the Greek suffix logia, meaning the study of.",
+       "Audiology is not only about measuring hearing; it also covers assessment, rehabilitation and the prevention of hearing loss.",
+       "It also assesses balance, that is, the vestibular system.",
+       "The people it serves range from newborn babies to older adults."]},
+
+    {"id": "dogus", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "A short history", "baslik": "The *birth* of audiology",
+     "maddeler": [
+       {"metin": "1940s: the _Second World War_ era", "cumle": 0, "ikon": "takvim"},
+       {"metin": "_Aural rehabilitation_ for veterans", "cumle": 1, "ikon": "hastane"},
+       {"metin": "Raymond Carhart: _father of audiology_", "cumle": 3, "ikon": "odyolog"},
+       {"metin": "Electronic _audiometers_ become widespread", "cumle": 4, "ikon": "odyometre"}],
+     "cumleler": [
+       {"yazi": "Audiology took shape as a scientific field in the 1940s, during and after the Second World War.", "ses": "Audiology took shape as a scientific field in the nineteen forties, during and after the Second World War."},
+       "Many soldiers returned from the war with hearing loss, and their rehabilitation called for a new specialty.",
+       "To meet this need, aural rehabilitation centers were set up in military hospitals.",
+       "Raymond Carhart, who worked in these centers, is called the father of audiology in many sources.",
+       "In the same period, electronic audiometers became widespread, which made it easier to measure hearing in numbers.",
+       "In this way, hearing assessment became the specialty of a separate professional group."],
+     "yan": {"tur": "cizim", "cizim": "odyometre", "cumle": 4, "etiketler": [{"parca": "cihaz", "metin": "Audiometer", "cumle": 4}], "vurgula": [{"parca": "cihaz", "cumle": 4}]}},
+
+    {"id": "turkiye", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "A short history", "baslik": "*Audiology* in Türkiye",
+     "maddeler": [
+       {"metin": "1967: _Hacettepe_, first audiology unit", "cumle": 0, "ikon": "hastane"},
+       {"metin": "2011: first _bachelor's_ program, Istanbul", "cumle": 2, "ikon": "kitap"},
+       {"metin": "Today: departments at _many_ universities", "cumle": 3, "ikon": "okul"},
+       {"metin": "Hospitals, centers, _universities_, workplaces", "cumle": 4, "ikon": "is_yeri"}],
+     "cumleler": [
+       {"yazi": "In Türkiye, audiology was founded in 1967 at Hacettepe University, and training was first given at the graduate level.", "ses": "In Türkiye, audiology was founded in nineteen sixty seven at Hacettepe University, and training was first given at the graduate level."},
+       "For many years, audiology specialists were trained mainly in master's and doctoral programs.",
+       {"yazi": "The first bachelor's program in audiology opened in 2011 at Istanbul University, and the number of programs then grew quickly.", "ses": "The first bachelor's program in audiology opened in twenty eleven at Istanbul University, and the number of programs then grew quickly."},
+       "Today, many universities offer a four-year bachelor's program in audiology.",
+       "Audiologists work in public and private hospitals, hearing centers, universities and occupational health units.",
+       "National programs such as newborn hearing screening have also increased the need for audiology services."]},
+
+    {"id": "alanlar", "tur": "ikonlar", "bolum_no": "PART 3", "bolum": "Fields of practice",
+     "baslik": "The *fields* of audiology",
+     "ogeler": [
+       {"ikon": "odyometre", "baslik": "Diagnostic audiology", "metin": "Audiometry, tympanometry", "cumle": 0},
+       {"ikon": "noron", "baslik": "Electrophysiology", "metin": "ABR, OAE", "cumle": 1},
+       {"ikon": "bebek", "baslik": "Pediatric audiology", "metin": "Screening, tests for children", "cumle": 2},
+       {"ikon": "isitme_cihazi", "baslik": "Devices and implants", "metin": "Selection and fitting", "cumle": 3}],
+     "cumleler": [
+       "Diagnostic audiology covers the basic tests, such as pure tone audiometry, speech tests and tympanometry.",
+       "Electrophysiology includes objective measures such as the auditory brainstem response, or ABR, and otoacoustic emissions, or OAE.",
+       "Pediatric audiology ranges from newborn hearing screening to behavioral tests for young children.",
+       "Hearing aids and cochlear implants, from selection to fine tuning, are among the core tasks of the audiologist."]},
+
+    {"id": "alanlar2", "tur": "ikonlar", "bolum_no": "PART 3", "bolum": "Fields of practice",
+     "baslik": "*More fields* of audiology",
+     "ogeler": [
+       {"ikon": "denge", "baslik": "Vestibular assessment", "metin": "Balance tests", "cumle": 0},
+       {"ikon": "konusma", "baslik": "Rehabilitation", "metin": "Auditory training, counseling", "cumle": 1},
+       {"ikon": "fabrika", "baslik": "Occupational audiology", "metin": "Protection from noise", "cumle": 2},
+       {"ikon": "gurultu", "baslik": "Tinnitus", "metin": "Ringing, auditory processing disorder", "cumle": 3}],
+     "cumleler": [
+       "In vestibular assessment, the balance part of the inner ear is examined in people with dizziness and balance problems.",
+       "In rehabilitation, audiologists provide auditory training and counseling, and teach communication strategies.",
+       "In occupational audiology, the hearing of people who work in noisy workplaces is monitored and protected.",
+       "Tinnitus, that is, ringing in the ears, and auditory processing disorder are also areas that audiologists deal with."]},
+
+    {"id": "sistem", "tur": "gorsel", "bolum_no": "PART 3", "bolum": "Fields of practice",
+     "baslik": "The whole system, from ear to *brain*", "cizim": "kulak_kesit",
+     "vurgula": [
+       {"parca": "dis_kulak", "cumle": 0},
+       {"parca": "orta_kulak", "cumle": 1},
+       {"parca": "ic_kulak", "cumle": 2},
+       {"parca": "isitme_siniri", "cumle": 3}],
+     "notlar": [
+       {"metin": "Middle ear: tympanometry", "cumle": 1, "ikon": "timpanometre_prob"},
+       {"metin": "Inner ear: OAE", "cumle": 2, "ikon": "kulak"},
+       {"metin": "Nerve and brainstem: ABR", "cumle": 3, "ikon": "beyin"}],
+     "cumleler": [
+       "The audiologist is concerned with the whole path that sound takes, from the outer ear to the brain.",
+       "Tests such as tympanometry show the condition of the middle ear.",
+       "Otoacoustic emissions reflect the function of the outer hair cells in the inner ear.",
+       "The auditory brainstem response assesses the auditory nerve and the brainstem pathways.",
+       "Interpreting the tests together is the strongest tool for locating the problem; this is called the test battery approach."],
+     "yakinlastir": [
+       {"parca": "orta_kulak", "cumle": 1, "olcek": 2.1},
+       {"parca": "ic_kulak", "cumle": 2, "olcek": 2.1},
+       {"parca": "isitme_siniri", "cumle": 3, "olcek": 1.8},
+       {"parca": "genel", "cumle": 4}]},
+
+    {"id": "egitim", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "Fields of practice",
+     "baslik": "What does audiology *training* include?",
+     "maddeler": [
+       {"metin": "_Basic sciences_: anatomy, physics, acoustics", "cumle": 0, "ikon": "kitap"},
+       {"metin": "_Diagnostic tests_ and electrophysiology", "cumle": 1, "ikon": "odyometre"},
+       {"metin": "Devices, implants and _rehabilitation_", "cumle": 2, "ikon": "isitme_cihazi"},
+       {"metin": "Supervised _clinical practice_", "cumle": 3, "ikon": "hastane"}],
+     "cumleler": [
+       "An audiology degree begins with basic sciences such as anatomy, physiology, sound physics and acoustics.",
+       "Next come diagnostic tests, electrophysiological measures and balance assessment.",
+       "In the later years, hearing aids, implants and rehabilitation methods take center stage.",
+       "The final year consists largely of supervised clinical practice.",
+       "The lessons on this channel will follow this learning path step by step."]},
+
+    {"id": "roller", "tur": "ikonlar", "bolum_no": "PART 4", "bolum": "The team and roles", "baslik": "Three professions, *three roles*",
+     "ogeler": [
+       {"ikon": "odyolog", "baslik": "Audiologist", "metin": "4-year degree; assessment, rehabilitation", "cumle": 1},
+       {"ikon": "odyometre", "baslik": "Audiometrist", "metin": "2-year associate degree; testing", "cumle": 3},
+       {"ikon": "hekim", "baslik": "ENT physician", "metin": "Medical specialist; diagnosis, treatment", "cumle": 5}],
+     "cumleler": [
+       "Three professions often work together in hearing care: the audiologist, the audiometrist and the ENT physician.",
+       "In Türkiye, an audiologist is a health professional with a four-year bachelor's degree in audiology.",
+       "Hearing and balance assessment, hearing aids and implants, and rehabilitation are their core tasks.",
+       "An audiometrist is usually an audiometry technician who has completed a two-year associate degree in audiometry.",
+       "Audiometrists carry out hearing tests and work together with the audiologist or the physician.",
+       "The ear, nose and throat physician, or ENT physician, is a doctor who has specialized in this field after medical school.",
+       "Medical diagnosis, drug treatment and surgical decisions are the responsibility of the ENT physician.",
+       "The scientific name of this specialty is otorhinolaryngology, the medicine of the ear, nose and throat."]},
+
+    {"id": "yolculuk", "tur": "akis", "bolum_no": "PART 4", "bolum": "The team and roles", "baslik": "A patient's *journey*",
+     "adimlar": [
+       {"ikon": "hekim", "baslik": "ENT visit", "metin": "Examination and history", "cumle": 0},
+       {"ikon": "odyometre", "baslik": "Test battery", "metin": "Audiological tests", "cumle": 1},
+       {"ikon": "ilac", "baslik": "Medical treatment", "metin": "Or referral", "cumle": 2},
+       {"ikon": "isitme_cihazi", "baslik": "Rehabilitation", "metin": "Devices and implants", "cumle": 3},
+       {"ikon": "takvim", "baslik": "Follow-up", "metin": "Regular monitoring", "cumle": 4}],
+     "cumleler": [
+       "In a sample scenario, an adult with hearing difficulty first comes for an ENT examination.",
+       "The physician examines the ear and requests an audiological assessment; the audiologist or audiometrist does the tests.",
+       "If the results point to a medical problem, the physician plans the treatment.",
+       "If there is a permanent loss, the audiologist evaluates suitable hearing aid or implant options and leads rehabilitation.",
+       "After that, hearing and device performance are followed with regular monitoring.",
+       "Each profession works within its own scope, and the best result for the patient comes only from this collaboration."]},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical tip",
+     "metin": "If you see sudden hearing loss, one-sided loss, ear discharge, pain or dizziness, refer the person to an ENT physician without delay.",
+     "cumleler": [
+       "There is an important rule in audiology: some findings call for medical evaluation right away.",
+       "Sudden hearing loss that develops within three days is an emergency and should be referred to a physician without delay.",
+       "One-sided or asymmetric loss, ear discharge, ear pain and dizziness are also reasons for referral.",
+       "The audiologist's job is to notice these signs and get the person to the right specialist at the right time."]},
+
+    {"id": "beceri", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "The team and roles",
+     "baslik": "The *skills* of a good audiologist",
+     "maddeler": [
+       {"metin": "Accurate and _repeatable_ measurement", "cumle": 0, "ikon": "odyometre"},
+       {"metin": "_Clear communication_ with the patient", "cumle": 1, "ikon": "konusma"},
+       {"metin": "_Evidence-based_ practice", "cumle": 4, "ikon": "kitap"},
+       {"metin": "_Ethics_ and confidentiality", "cumle": 5, "ikon": "kontrol_listesi"}],
+     "cumleler": [
+       "Above all, a good audiologist makes accurate and repeatable measurements.",
+       "They explain the results in words the patient understands; only then can an audiogram be related to daily life.",
+       "Listening to the patient is as important as the test itself.",
+       "This is because hearing loss affects not only the ear but also communication, work and family life.",
+       "An audiologist bases decisions on current scientific evidence and guidelines.",
+       "Patient confidentiality and professional ethics are also an essential part of the job."]},
+
+    {"id": "onem", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Why does it matter?", "baslik": "Why does audiology *matter?*",
+     "maddeler": [
+       {"metin": "About _1.5 billion_ people with hearing loss", "cumle": 0, "ikon": "kalabalik"},
+       {"metin": "About _2.5 billion_ projected by 2050", "cumle": 1, "ikon": "grafik"},
+       {"metin": "Early detection in infancy: _language development_", "cumle": 3, "ikon": "bebek"},
+       {"metin": "In adults: _communication_ and quality of life", "cumle": 4, "ikon": "yasli"}],
+     "cumleler": [
+       {"yazi": "According to the 2021 World Report on Hearing by the World Health Organization, about 1.5 billion people live with some hearing loss.", "ses": "According to the twenty twenty one World Report on Hearing by the World Health Organization, about one point five billion people live with some hearing loss."},
+       {"yazi": "The same report projects that this number could rise to about 2.5 billion by 2050.", "ses": "The same report projects that this number could rise to about two point five billion by twenty fifty."},
+       "A large share of these people need assessment and rehabilitation services.",
+       "In infancy, early detection of hearing loss is critical for language and speech development.",
+       "In adults, unaddressed hearing loss is linked to social isolation and a lower quality of life.",
+       "In short, audiology is a profession that helps people hear one another and stay connected."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [
+       {"metin": "Audiology: the science of hearing and *balance*", "cumle": 0, "ikon": "kulak"},
+       {"metin": "1940s worldwide, *1967* in Türkiye", "cumle": 1, "ikon": "takvim"},
+       {"metin": "A broad field: diagnosis to *rehabilitation*", "cumle": 2, "ikon": "odyometre"},
+       {"metin": "Audiologist, audiometrist and ENT *together*", "cumle": 3, "ikon": "odyolog"}],
+     "cumleler": [
+       "Audiology is a health science that assesses and rehabilitates the hearing and balance systems.",
+       {"yazi": "It was born in the 1940s; in Türkiye, it began in 1967 at Hacettepe University.", "ses": "It was born in the nineteen forties; in Türkiye, it began in nineteen sixty seven at Hacettepe University."},
+       "It covers a broad area, from diagnostic tests to devices, implants, balance and rehabilitation.",
+       "The audiologist, the audiometrist and the ENT physician work together, each within their own scope."]},
+
+    {"id": "test", "tur": "test", "soru": "Which of these is the responsibility of the ENT physician?",
+     "secenekler": ["Pure tone audiometry", "Hearing aid fitting", "Decision on surgery", "Aural rehabilitation"],
+     "dogru": 2,
+     "aciklama": "Medical diagnosis and _surgical decisions_ belong to the ENT physician; tests, devices and rehabilitation are the field of audiology.",
+     "cumleler": [
+       {"yazi": "Test yourself: Which of the following is the responsibility of the ENT physician?", "sonra_bekle": 5},
+       "The correct answer is C, the decision on surgery. Tests, hearing aid fitting and rehabilitation are the field of audiology."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "How Sound Travels from the Ear to the *Brain*", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will follow the path of sound step by step, from the outer ear to the brain.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

@@ -1,0 +1,106 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R018_Piano_in_Your_Ear_EN",
+ "kapak": {
+  "ust": "QUICK FACT #18",
+  "baslik": "The *piano* in your ear",
+  "alt": "High at the base, low at the apex: tonotopy",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Is there a piano inside your ear? #shorts",
+  "aciklama": "The basilar membrane is narrow and stiff at the base and wide and flexible at the apex. So high-pitched sounds vibrate it most at the base and low-pitched sounds near the apex, much like the short and long strings of a piano. This arrangement is called tonotopy.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "cochlea",
+   "facts"
+  ],
+  "etiketler": [
+   "tonotopy",
+   "basilar membrane",
+   "traveling wave",
+   "cochlea",
+   "frequency",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Is there a piano inside your ear?",
+  "bilgiler": [
+   "The basilar membrane is narrow and stiff at the base, wide and flexible at the apex.",
+   "High sounds vibrate at the base, low sounds near the apex.",
+   "This frequency map is called tonotopy."
+  ],
+  "hashtag": [
+   "audiology",
+   "cochlea",
+   "facts"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #18",
+   "metin": "Is there *a piano* inside your ear?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Is there a piano inside your ear?"
+   ]
+  },
+  {
+   "id": "tonotopi",
+   "tur": "zincir",
+   "baslik": "*Tonotopy* on the basilar membrane",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Base",
+     "cumle": 0,
+     "tr": "high pitch"
+    },
+    {
+     "ad": "Middle",
+     "cumle": 2,
+     "gecikme": 0.7,
+     "tr": "around 1000 Hz"
+    },
+    {
+     "ad": "Apex",
+     "cumle": 2,
+     "gecikme": 1.5,
+     "tr": "low pitch"
+    }
+   ],
+   "alt": "A frequency map: _tonotopy_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "At the base, the basilar membrane is narrow and stiff.",
+    "Toward the apex, it becomes wider and more flexible.",
+    "So high sounds vibrate at the base, low sounds near the apex.",
+    "On a piano, short tight strings play high, long loose strings low.",
+    "This frequency arrangement is called tonotopy."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D030",
+ "kaynak_baslik": "The Basilar Membrane and the Traveling Wave"
+}

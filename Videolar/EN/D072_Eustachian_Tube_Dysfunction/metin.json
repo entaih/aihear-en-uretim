@@ -1,0 +1,733 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D072_Eustachian_Tube_Dysfunction_EN",
+ "kapak": {
+  "ust": "LESSON 72",
+  "baslik": "Eustachian tube<br>*dysfunction*",
+  "alt": "Negative pressure and patulous tube",
+  "cizim": "ostaki_kaslari"
+ },
+ "youtube": {
+  "baslik": "Eustachian Tube Dysfunction and Negative Pressure | Lesson 72 | AIHEAR Audiology Academy",
+  "aciklama": "In this lesson, we look at the subtypes of Eustachian tube dysfunction: a tube that fails to open and negative middle ear pressure, eardrum retraction, type C and type B tympanograms, links with adenoid hypertrophy and cleft palate, and the patulous Eustachian tube. We also discuss assessment tools and treatment options.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Schilder et al. (2015), Eustachian tube dysfunction: consensus statement on definition, types, clinical presentation and diagnosis, Clinical Otolaryngology; McCoul et al. (2012), Validating the clinical assessment of Eustachian tube dysfunction: the ETDQ-7, Laryngoscope; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "eustachiantube",
+   "tympanometry"
+  ],
+  "etiketler": [
+   "Eustachian tube dysfunction",
+   "patulous Eustachian tube",
+   "negative middle ear pressure",
+   "eardrum retraction",
+   "adenoid hypertrophy",
+   "cleft palate",
+   "type C tympanogram",
+   "ETDQ-7",
+   "autophony",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 72",
+   "baslik": "Eustachian tube *dysfunction*",
+   "alt": "Obstructive and patulous types, negative middle ear pressure",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn about Eustachian tube dysfunction and the consequences of negative pressure in the middle ear.",
+    "We will compare a tube that does not open with one that does not close, and see links with adenoid hypertrophy and cleft palate."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Definition",
+   "baslik": "A balance of opening and *closing*",
+   "cizim": "ostaki_kaslari",
+   "ayar": {
+    "acilma": 1,
+    "acilma_cumle": 0
+   },
+   "vurgula": [
+    {
+     "parca": "tensor_veli_palatini",
+     "cumle": 0
+    },
+    {
+     "parca": "lumen",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "tensor_veli_palatini",
+     "metin": "tensor veli palatini",
+     "cumle": 0
+    },
+    {
+     "parca": "lumen",
+     "metin": "tube lumen",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Opening: _ventilation_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Staying closed: _protection_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Balance lost: _dysfunction_",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The cartilaginous part of the Eustachian tube is closed at rest; it opens briefly with swallowing and yawning via the tensor veli palatini.",
+    "This opening ventilates the middle ear, while staying closed protects it from nasopharyngeal secretions and sounds.",
+    "Eustachian tube dysfunction is a disturbance of this balance between opening and closing.",
+    "If the tube cannot open enough, the middle ear cannot be ventilated; if it stays open too much, its protective role is lost.",
+    "We covered the structure and functions of the tube in the Eustachian tube lesson; here we focus on the clinical side of its dysfunction."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Definition",
+   "baslik": "Three *subtypes*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Tube fails to open",
+     "cumle": 1,
+     "metin": "Obstructive or dilatory type"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "With pressure change",
+     "cumle": 2,
+     "metin": "Appears when flying and diving"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tube fails to close",
+     "cumle": 3,
+     "metin": "Patulous type"
+    }
+   ],
+   "cumleler": [
+    "An international consensus statement published in two thousand fifteen groups Eustachian tube dysfunction into three subtypes.",
+    "The most common is the type in which the tube does not open enough; it is called obstructive or dilatory dysfunction.",
+    "In the second type, symptoms appear only when ambient pressure changes quickly, as in flying or diving.",
+    "The third is the patulous type, in which the tube stays open more than normal; we will cover it separately at the end of the lesson.",
+    "According to the consensus, diagnosing the dilatory type requires symptoms together with evidence of negative middle ear pressure."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Tube fails to open",
+   "baslik": "Why the tube *fails to open*",
+   "ogeler": [
+    {
+     "ikon": "virus",
+     "baslik": "Common cold",
+     "cumle": 0,
+     "metin": "Swollen mucosa"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Allergic rhinitis",
+     "cumle": 1,
+     "metin": "Chronic nasal inflammation"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Adenoid hypertrophy",
+     "cumle": 2,
+     "metin": "Narrows the tube opening"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Cleft palate",
+     "cumle": 3,
+     "metin": "Opening muscle does not work well"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Down syndrome",
+     "cumle": 4,
+     "metin": "Narrow tube, low muscle tone"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Nasopharyngeal mass",
+     "cumle": 5,
+     "metin": "One-sided effusion in adults"
+    }
+   ],
+   "cumleler": [
+    "Upper respiratory infections swell the tube's mucosa; this is the most common cause of temporary dysfunction.",
+    "Chronic nasal inflammation, such as allergic rhinitis, can also impair function by keeping the mucosa swollen.",
+    "Adenoid hypertrophy, or enlarged adenoids, can narrow the tube opening and act as a source of germs.",
+    "In cleft palate, the tensor veli palatini, the muscle that opens the tube, cannot attach normally, so the tube does not open well.",
+    "Children with Down syndrome have a narrow tube and low muscle tone, which is why middle ear problems are very common in them.",
+    "In adults, a rare but important cause is a mass in the nasopharynx that blocks the tube opening."
+   ]
+  },
+  {
+   "id": "adenoid",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Tube fails to open",
+   "baslik": "Adenoids and *cleft palate*",
+   "maddeler": [
+    {
+     "metin": "Adenoids: _blockage_ and source of germs",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Cleft palate: effusion is _almost the rule_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Follow-up_ continues after repair",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Regular _hearing tests_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ostaki_kaslari",
+    "cumle": 2,
+    "ayar": {
+     "acilma": 0.3
+    },
+    "vurgula": [
+     {
+      "parca": "tensor_veli_palatini",
+      "cumle": 2
+     },
+     {
+      "parca": "yumusak_damak",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "tensor_veli_palatini",
+      "metin": "tensor veli palatini",
+      "cumle": 2
+     },
+     {
+      "parca": "yumusak_damak",
+      "metin": "soft palate",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Large adenoid tissue mechanically narrows the tube opening and keeps nasopharyngeal germs close to the tube.",
+    "So recurrent otitis media and effusion are common in children with adenoid hypertrophy.",
+    "Otitis media with effusion is very common in infants with unrepaired cleft palate; sources usually put the rate at about ninety percent.",
+    "Even after the palate is repaired, tube function does not always improve right away; middle ear problems can last for years.",
+    "In these children, hearing is monitored at regular intervals along with tympanometry, and results are shared within the team."
+   ]
+  },
+  {
+   "id": "retraksiyon",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Negative pressure",
+   "baslik": "The eardrum under *negative pressure*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "patoloji": [
+     {
+      "tur": "retraksiyon",
+      "cumle": 1,
+      "kalici": true
+     },
+     {
+      "tur": "atik_cebi",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "manubrium",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "cumle": 2
+    },
+    {
+     "parca": "pars_flaccida",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "manubrium",
+     "metin": "manubrium: looks short",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "metin": "lateral process: prominent",
+     "cumle": 2
+    },
+    {
+     "parca": "isik_ucgeni",
+     "metin": "light reflex: lost",
+     "cumle": 3
+    },
+    {
+     "parca": "atik_cebi",
+     "metin": "retraction pocket",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Malleus handle looks _short_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "If prolonged: _retraction pocket_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Fullness, _crackling_",
+     "cumle": 5,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "If the tube cannot open, the middle ear mucosa keeps absorbing gas from the space, and the pressure drops.",
+    "Negative pressure pulls the tympanic membrane inward; this is called retraction of the eardrum.",
+    "On otoscopy, the malleus handle looks shortened and more horizontal, and its lateral process becomes prominent.",
+    "The light reflex may be distorted or lost.",
+    "With long-standing negative pressure, the eardrum thins, can stick to middle ear structures, and retraction pockets can form.",
+    "The person feels fullness, blockage and crackling when swallowing; hearing is usually mildly reduced."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Negative pressure",
+   "baslik": "From pressure to *fluid*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "C",
+      "cumle": 1
+     },
+     {
+      "tip": "B",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A: normal _pressure_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "C: _negative_ peak",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "B: _fluid_ buildup",
+     "cumle": 2,
+     "ikon": "akinti"
+    }
+   ],
+   "cumleler": [
+    "In a normal middle ear, the tympanogram peak is around zero decapascals.",
+    "With negative pressure, the peak shifts to the negative side; by Jerger's criterion, a peak below minus one hundred decapascals is type C.",
+    "If negative pressure lasts, the mucosa secretes fluid into the space, and the curve can flatten into type B.",
+    "Negative pressure alone usually causes a mild conductive loss; when fluid builds up, the loss increases a little.",
+    "As tube function improves, this sequence often reverses: first a type C curve, then a type A curve."
+   ]
+  },
+  {
+   "id": "odyolog",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Negative pressure",
+   "baslik": "What does the *audiologist do?*",
+   "maddeler": [
+    {
+     "metin": "Tympanogram and audiogram _together_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Report peak pressure _as a number_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Long-lasting effusion in children: _hearing test_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_Monitor_ change, share with physician",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        30,
+        25,
+        20,
+        20,
+        25
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        5,
+        5,
+        5,
+        10,
+        10
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "When Eustachian tube dysfunction is suspected, tympanometry and pure-tone audiometry are done together.",
+    "The report gives not only the curve type but also the numeric peak pressure, so change can be tracked at check-ups.",
+    "In children, an age-appropriate hearing test is recommended when effusion lasts three months or longer.",
+    "Negative pressure and effusion can fluctuate over time, so regular monitoring is more valuable than a single measurement.",
+    "Results are shared with the physician, who makes the treatment decision in light of these findings."
+   ]
+  },
+  {
+   "id": "patulous",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Tube fails to close",
+   "baslik": "Patulous *Eustachian tube*",
+   "maddeler": [
+    {
+     "metin": "Hearing own voice _echoing_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Hearing_ own breathing in the ear",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Relief_ when lying or bending down",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Linked to weight loss, _pregnancy_",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Hearing often _normal_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ostaki_kaslari",
+    "cumle": 0,
+    "ayar": {
+     "acilma": 1
+    },
+    "vurgula": [
+     {
+      "parca": "lumen",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "lumen",
+      "metin": "tube that does not close",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "In a patulous Eustachian tube, the tube stays open even at rest; the most typical complaint is autophony.",
+    "The person hears their own voice echoing loudly and unpleasantly in the ear and may also hear their own breathing.",
+    "There may also be a feeling of fullness, so the condition is easily confused with a tube that does not open.",
+    "Symptoms ease when lying down or bending the head forward, because blood vessels around the tube fill and close it.",
+    "Rapid weight loss, pregnancy and hormonal changes are known associations; in many patients no clear cause is found.",
+    "Hearing is usually normal; on otoscopy, the eardrum may be seen moving in and out with breathing.",
+    "Nasal decongestants given for a supposed blocked tube can worsen symptoms in a patulous tube, so the right distinction matters."
+   ]
+  },
+  {
+   "id": "ayirim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Tube fails to close",
+   "baslik": "Telling the two *apart*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Blockage, crackling",
+     "cumle": 0,
+     "metin": "Tube fails to open"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Autophony",
+     "cumle": 1,
+     "metin": "Tube fails to close"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Type C, B",
+     "cumle": 2,
+     "metin": "Tube fails to open"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Breathing fluctuations",
+     "cumle": 3,
+     "metin": "Tube fails to close"
+    }
+   ],
+   "cumleler": [
+    "Both types can cause ear fullness, but blockage and crackling when swallowing point more to a tube that does not open.",
+    "Hearing one's own voice and breathing echoing, on the other hand, is a hallmark of a tube that does not close.",
+    "When the tube does not open, the tympanogram is often type C or type B.",
+    "When the tube does not close, peak pressure is usually normal; deep breathing may cause fluctuations in the curve that follow respiration.",
+    "These findings are only clues; the differential diagnosis belongs to the physician."
+   ]
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Assessment",
+   "baslik": "*Assessment* in the clinic",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "ETDQ-7",
+     "cumle": 0,
+     "metin": "Seven items, 7 to 49 points"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tympanometry",
+     "cumle": 2,
+     "metin": "Peak pressure and type"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Maneuvers",
+     "cumle": 3,
+     "metin": "Swallowing, Valsalva, Toynbee"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Perforated eardrum",
+     "cumle": 4,
+     "metin": "Inflation and deflation test"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "To track symptoms in numbers, the seven-item Eustachian Tube Dysfunction Questionnaire, or ETDQ-7, can be used.",
+     "ses": "To track symptoms in numbers, the seven-item Eustachian Tube Dysfunction Questionnaire, or E T D Q seven, can be used."
+    },
+    "Each item is scored from one to seven, so the total ranges from seven to forty nine; cutoff values vary between studies.",
+    "Tympanometry is the most practical objective test, showing middle ear pressure and the likelihood of fluid.",
+    "A change in peak pressure before and after swallowing, Valsalva and Toynbee maneuvers shows that the tube can open.",
+    "If there is a perforation or a tube in the eardrum, pressure is applied to the canal and the person tries to equalize it by swallowing.",
+    "This method is called the inflation and deflation test.",
+    "No single test fully shows tube function; symptoms and findings are evaluated together."
+   ]
+  },
+  {
+   "id": "tedavi",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Assessment",
+   "baslik": "Treatment *options*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "Watchful waiting",
+     "cumle": 0,
+     "metin": "Most resolve on their own"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Nasal treatment",
+     "cumle": 1,
+     "metin": "Allergy and inflammation"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Autoinflation",
+     "cumle": 2,
+     "metin": "Inflating a balloon by nose"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tube, adenoidectomy",
+     "cumle": 3,
+     "metin": "In selected children"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Balloon dilation",
+     "cumle": 4,
+     "metin": "In selected adults"
+    }
+   ],
+   "cumleler": [
+    "The treatment decision belongs to the physician; dysfunction after a cold in particular often resolves on its own.",
+    "Treating underlying nasal problems, such as allergic rhinitis, can support tube function.",
+    "In children, autoinflation, which opens the tube by inflating a special balloon through the nose, can be used.",
+    "For long-lasting effusion, the physician may recommend a ventilation tube, in selected children together with adenoidectomy.",
+    "In selected adults with chronic obstructive dysfunction, the tube can be widened with a balloon, called balloon dilation."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If you see one-sided, unexplained effusion in an adult, always refer the person to a physician; the nasopharynx needs to be examined.",
+   "cumleler": [
+    "A tip from practice: effusion is very common in children, but one-sided effusion in an adult means something different.",
+    "In an adult with no clear cause such as a cold, note a one-sided type B tympanogram with a conductive loss.",
+    "Though rare, this can be the first sign of a mass in the nasopharynx blocking the tube opening.",
+    "Refer the person to a physician for a nasopharyngeal exam and state the finding clearly in your report."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Three subtypes: dilatory, _baro-challenge_, patulous",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Adenoids and cleft palate: tube _fails to open_",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Negative pressure: _retraction_, type C",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Patulous: _autophony_, relief when lying down",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Eustachian tube dysfunction is divided into three subtypes: dilatory, triggered by pressure change, and patulous.",
+    "Colds, allergies, adenoid hypertrophy and cleft palate impair tube opening.",
+    "A tube that fails to open causes negative pressure, eardrum retraction and a type C tympanogram; if it lasts, fluid builds up.",
+    "In a patulous tube, hearing one's own voice echoing is typical; symptoms ease when lying down, and hearing is often normal."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Own voice echoing, relief when lying down: what should you suspect?",
+   "secenekler": [
+    "Tube that fails to open",
+    "Patulous Eustachian tube",
+    "Otosclerosis",
+    "Impacted wax"
+   ],
+   "dogru": 1,
+   "aciklama": "In a patulous tube, the tube _stays open_; autophony is typical, and lying down fills the vessels and closes the tube, easing symptoms.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: A person hears their own voice and breathing echoing and feels better lying down. What should you suspect?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a patulous Eustachian tube.",
+    "The tube stays open even at rest, so voice and breathing reach the middle ear directly; lying down fills the area and eases symptoms."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How *Speech* Is Produced: Breath, Voice, Articulation",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we move from the ear to speech and see how breath, voice and articulation produce speech.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R317_Hearing_Loss_and_Falls_EN",
+ "kapak": {
+  "ust": "QUICK FACT #317",
+  "baslik": "10 dB, *1.4 times*",
+  "alt": "Hearing loss and fall risk",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      55,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      20,
+      40,
+      55,
+      70
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Is hearing loss linked to fall risk? #shorts",
+  "aciklama": "In an analysis of US data, every 10 decibels of hearing loss was associated with about 1.4 times higher odds of falling. One explanation is that orienting by environmental sounds and noticing warning sounds becomes harder; another is cognitive load, as listening effort can draw attention away from balance. These studies are cross-sectional, and whether hearing aid use reduces falls is not yet known for certain.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "balance"
+  ],
+  "etiketler": [
+   "hearing loss",
+   "fall risk",
+   "cognitive load",
+   "balance in older adults",
+   "hearing aids",
+   "cross-sectional study",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Is hearing loss linked to fall risk?",
+  "bilgiler": [
+   "Each 10 dB of hearing loss was linked to about 1.4 times higher odds of falling.",
+   "Listening effort may draw attention away from balance.",
+   "Whether hearing aids reduce falls is not yet known."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "balance"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #317",
+   "metin": "Hearing and *falling?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Is hearing loss linked to fall risk?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Odds of falling *per 10 dB*",
+   "sayi": "1.4",
+   "birim": "x",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Hearing loss is also linked to fall risk.",
+    {
+     "yazi": "Each 10 dB of loss: about 1.4-fold higher odds of falling.",
+     "ses": "Each ten decibels of loss: about one point four fold higher odds of falling."
+    },
+    "One explanation: orienting by sound and noticing warning sounds gets harder.",
+    "Another is cognitive load: listening effort can pull attention from balance.",
+    "The studies are cross-sectional; whether hearing aids reduce falls is still unclear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D212",
+ "kaynak_baslik": "Balance and Fall Risk in Older Adults"
+}

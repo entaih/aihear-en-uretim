@@ -1,0 +1,1217 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D199_ECochG_SP_AP_EN",
+ "kapak": {
+  "ust": "LESSON 199",
+  "baslik": "*ECochG*<br>and SP/AP",
+  "alt": "Electrocochleography and hydrops",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 5,
+    "ad": "Time (ms)",
+    "isaretler": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   "y": {
+    "min": -1.2,
+    "max": 0.3,
+    "adim": 0.5,
+    "ad": "Amplitude (µV)",
+    "ond": 1
+   },
+   "seriler": [
+    {
+     "ad": "normal",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       0.6,
+       0
+      ],
+      [
+       0.75,
+       -0.05
+      ],
+      [
+       0.9,
+       -0.2
+      ],
+      [
+       1.05,
+       -0.25
+      ],
+      [
+       1.22,
+       -0.2625
+      ],
+      [
+       1.38,
+       -0.75
+      ],
+      [
+       1.5,
+       -1.0
+      ],
+      [
+       1.62,
+       -0.7
+      ],
+      [
+       1.8,
+       -0.35
+      ],
+      [
+       2.1,
+       -0.18
+      ],
+      [
+       2.6,
+       -0.08
+      ],
+      [
+       3.2,
+       0
+      ],
+      [
+       5,
+       0
+      ]
+     ],
+     "renk": "gri",
+     "yumusak": true,
+     "kesik": true,
+     "etiket": "example normal",
+     "cumle": 1
+    },
+    {
+     "ad": "hidrops",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       0.6,
+       0
+      ],
+      [
+       0.75,
+       -0.05
+      ],
+      [
+       0.9,
+       -0.48
+      ],
+      [
+       1.05,
+       -0.6
+      ],
+      [
+       1.22,
+       -0.63
+      ],
+      [
+       1.38,
+       -0.75
+      ],
+      [
+       1.5,
+       -1.0
+      ],
+      [
+       1.62,
+       -0.7
+      ],
+      [
+       1.8,
+       -0.35
+      ],
+      [
+       2.1,
+       -0.18
+      ],
+      [
+       2.6,
+       -0.08
+      ],
+      [
+       3.2,
+       0
+      ],
+      [
+       5,
+       0
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "kalin": true,
+     "etiket": "example hydrops",
+     "cumle": 3
+    }
+   ],
+   "araliklar": [
+    {
+     "ad": "buyuk_sp",
+     "y": [
+      -0.6,
+      0
+     ],
+     "xk": 0.95,
+     "etiket": "large SP",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Electrocochleography (ECochG) and the SP/AP Ratio | Lesson 199 | AIHEAR Audiology Academy",
+  "aciklama": "What is electrocochleography, and how is the SP/AP ratio calculated? In this lesson we cover the cochlear microphonic, summating potential and action potential, transtympanic and extratympanic electrodes, and the diagnostic value of an increased SP/AP ratio in endolymphatic hydrops.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Lopez-Escamez et al., Diagnostic criteria for Meniere's disease, Journal of Vestibular Research (2015); Ayub et al., A systematic review and meta-analysis of extratympanic electrocochleography in Ménière's disease diagnosis, International Journal of Audiology (2019).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ECochG",
+   "Meniere"
+  ],
+  "etiketler": [
+   "ECochG",
+   "electrocochleography",
+   "SP/AP ratio",
+   "summating potential",
+   "action potential",
+   "cochlear microphonic",
+   "endolymphatic hydrops",
+   "Meniere's disease",
+   "tiptrode",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 199",
+   "baslik": "*ECochG* and the SP/AP ratio",
+   "alt": "The electrophysiological recording closest to the cochlea",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    {
+     "yazi": "In this lesson we will learn about electrocochleography, or ECochG, and the three components seen in this recording.",
+     "ses": "In this lesson we will learn about electrocochleography, or E cock G, and the three components seen in this recording."
+    },
+    "We will cover electrode types, how the summating to action potential ratio is calculated, and its link to endolymphatic hydrops."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is ECochG?",
+   "baslik": "*Where* do the responses come from?",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Outer hair cells",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Inner hair cell",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Cochlear nerve fibers",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "corti_organi",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Electrocochleography records the electrical potentials that sound produces in the cochlea and the first part of the auditory nerve.",
+    {
+     "yazi": "These responses appear within the first few milliseconds after the stimulus, so ECochG belongs to the early responses.",
+     "ses": "These responses appear within the first few milliseconds after the stimulus, so E cock G belongs to the early responses."
+    },
+    "The first two components come from the hair cells; they are the cochlear microphonic and the summating potential.",
+    "Outer hair cells contribute most to the cochlear microphonic; inner and outer hair cells together contribute to the summating potential.",
+    "The third component is the action potential, produced by the synchronous firing of auditory nerve fibers.",
+    "The closer the electrode is to the cochlea, the larger and clearer these small responses are recorded.",
+    {
+     "yazi": "So ECochG can be thought of as the electrophysiological recording taken from the point closest to the cochlea.",
+     "ses": "So E cock G can be thought of as the electrophysiological recording taken from the point closest to the cochlea."
+    }
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What is ECochG?",
+   "baslik": "Three *components*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "CM",
+     "metin": "Follows the stimulus; flips with polarity.",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "SP",
+     "metin": "A direct current shift of baseline.",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "AP",
+     "metin": "The nerve response; ABR wave I.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The cochlear microphonic, or CM, is an alternating current response that closely follows the waveform of the stimulus.",
+     "ses": "The cochlear microphonic, or C M, is an alternating current response that closely follows the waveform of the stimulus."
+    },
+    {
+     "yazi": "When the stimulus polarity changes, the CM flips too, so it cancels out when the two polarities are averaged.",
+     "ses": "When the stimulus polarity changes, the C M flips too, so it cancels out when the two polarities are averaged."
+    },
+    {
+     "yazi": "The summating potential, or SP, is a direct current like component that shifts the baseline in one direction while the stimulus lasts.",
+     "ses": "The summating potential, or S P, is a direct current like component that shifts the baseline in one direction while the stimulus lasts."
+    },
+    {
+     "yazi": "The SP does not change direction with polarity, so it remains in the recording with alternating polarity.",
+     "ses": "The S P does not change direction with polarity, so it remains in the recording with alternating polarity."
+    },
+    {
+     "yazi": "The action potential, or AP, is the compound response of the auditory nerve, and its first negative peak is called N1.",
+     "ses": "The action potential, or A P, is the compound response of the auditory nerve, and its first negative peak is called N one."
+    },
+    {
+     "yazi": "The AP is the same response as wave I of the auditory brainstem response, or ABR; its latency is about one and a half milliseconds.",
+     "ses": "The A P is the same response as wave one of the auditory brainstem response, or ABR; its latency is about one and a half milliseconds."
+    }
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is ECochG?",
+   "baslik": "The ECochG *waveform*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 0.3,
+     "adim": 0.5,
+     "ad": "Amplitude (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "iz",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.6,
+        0
+       ],
+       [
+        0.75,
+        -0.05
+       ],
+       [
+        0.9,
+        -0.2
+       ],
+       [
+        1.05,
+        -0.25
+       ],
+       [
+        1.22,
+        -0.2625
+       ],
+       [
+        1.38,
+        -0.75
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.62,
+        -0.7
+       ],
+       [
+        1.8,
+        -0.35
+       ],
+       [
+        2.1,
+        -0.18
+       ],
+       [
+        2.6,
+        -0.08
+       ],
+       [
+        3.2,
+        0
+       ],
+       [
+        5,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "taban",
+      "x": 0.3,
+      "y": 0,
+      "cizgi": "yatay",
+      "etiket": "baseline",
+      "cumle": 1
+     },
+     {
+      "ad": "sp",
+      "x": 1.15,
+      "y": -0.26,
+      "etiket": "SP",
+      "cumle": 2
+     },
+     {
+      "ad": "ap",
+      "x": 1.5,
+      "y": -1.0,
+      "etiket": "AP (N1)",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sp_genlik",
+      "y": [
+       -0.26,
+       0
+      ],
+      "xk": 0.95,
+      "etiket": "SP",
+      "cumle": 5
+     },
+     {
+      "ad": "ap_genlik",
+      "y": [
+       -1.0,
+       0
+      ],
+      "xk": 2.2,
+      "etiket": "AP",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Amplitude measured _from baseline_",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ratio = SP / AP",
+     "cumle": 6,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "This schematic drawing shows an example ECochG recording obtained with an alternating polarity click.",
+     "ses": "This schematic drawing shows an example E cock G recording obtained with an alternating polarity click."
+    },
+    "Measurement starts by setting the baseline of the recording.",
+    {
+     "yazi": "Just before the AP, a small shoulder departs from the baseline; this is the SP.",
+     "ses": "Just before the A P, a small shoulder departs from the baseline; this is the S P."
+    },
+    {
+     "yazi": "Then comes a sharp, large peak; this is the N1 peak of the AP.",
+     "ses": "Then comes a sharp, large peak; this is the N one peak of the A P."
+    },
+    "Depending on the recording system, these peaks may be plotted up or down; what matters is using the same measurement rule.",
+    {
+     "yazi": "The SP and AP amplitudes are measured from the baseline to the relevant point.",
+     "ses": "The S P and A P amplitudes are measured from the baseline to the relevant point."
+    },
+    {
+     "yazi": "The SP amplitude is divided by the AP amplitude; the result is called the SP/AP ratio.",
+     "ses": "The S P amplitude is divided by the A P amplitude; the result is called the S P to A P ratio."
+    }
+   ]
+  },
+  {
+   "id": "elektrot",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Electrode and recording",
+   "baslik": "*Where* does the electrode go?",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "promontorium",
+     "metin": "Transtympanic: promontory",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Tympanic: eardrum surface",
+     "cumle": 4
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Extratympanic: ear canal",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "promontorium",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 4
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In ECochG, the location of the active electrode is the most important factor in the size and quality of the recording.",
+     "ses": "In E cock G, the location of the active electrode is the most important factor in the size and quality of the recording."
+    },
+    "In the transtympanic method, a fine needle electrode is passed through the eardrum and placed on the promontory.",
+    "The promontory is the bulge formed by the basal turn of the cochlea on the medial wall of the middle ear.",
+    "This is done by a physician under local anesthesia; the largest and clearest responses are obtained with this method.",
+    "In the tympanic method, a soft-tipped electrode is made to touch the surface of the eardrum; the eardrum is not pierced.",
+    "In the extratympanic method, the electrode sits in the ear canal; foam-tipped electrodes called tiptrodes are a common example.",
+    "The farther the electrode is from the cochlea, the smaller the response and the more averaging is needed.",
+    "The reference electrode is usually on the opposite ear or mastoid, and the ground electrode on the forehead."
+   ]
+  },
+  {
+   "id": "elektrot_secim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Electrode and recording",
+   "baslik": "Balancing the *three methods*",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Transtympanic",
+     "metin": "Largest response; invasive, done by a physician.",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tympanic",
+     "metin": "Medium response; eardrum not pierced.",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Extratympanic",
+     "metin": "Comfortable; small response, sensitive to noise.",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Transtympanic recording gives the largest response, but it is invasive and not offered in every center.",
+    "Tympanic recording gives a larger response than extratympanic recording without being invasive, but eardrum contact can be uncomfortable.",
+    "Extratympanic recording is the most comfortable method, but the responses are small and the recording is more sensitive to noise.",
+    "Whichever method is chosen, normal values are specific to that method and that laboratory.",
+    "So a ratio obtained in one center is not compared with the cutoff values of another method."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Electrode and recording",
+   "baslik": "Stimulus and *recording*",
+   "maddeler": [
+    {
+     "metin": "High-level _click_ or tone burst",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Alternating_ polarity for SP and AP",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "For CM, _each polarity_ recorded separately",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "High-pass filter set _very low_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Short time window, _two replications_",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "Wave I = AP",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "ECochG usually uses a high-level click or tone burst, at about ninety decibels.",
+     "ses": "E cock G usually uses a high-level click or tone burst, at about ninety decibels."
+    },
+    {
+     "yazi": "Alternating polarity is preferred for measuring the SP and AP, so the CM and stimulus artifact cancel out in the average.",
+     "ses": "Alternating polarity is preferred for measuring the S P and A P, so the C M and stimulus artifact cancel out in the average."
+    },
+    {
+     "yazi": "If the CM is to be studied, rarefaction and condensation polarities are recorded separately and the two recordings are compared.",
+     "ses": "If the C M is to be studied, rarefaction and condensation polarities are recorded separately and the two recordings are compared."
+    },
+    {
+     "yazi": "Because the SP is a slow, direct current like potential, the high-pass filter is set very low.",
+     "ses": "Because the S P is a slow, direct current like potential, the high-pass filter is set very low."
+    },
+    {
+     "yazi": "The SP can be seen more clearly with a tone burst, so some centers also record with a tone burst.",
+     "ses": "The S P can be seen more clearly with a tone burst, so some centers also record with a tone burst."
+    },
+    "The time window is short, and each recording is obtained at least twice to confirm repeatability."
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The SP/AP ratio",
+   "baslik": "The SP *grows* in hydrops",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 0.3,
+     "adim": 0.5,
+     "ad": "Amplitude (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.6,
+        0
+       ],
+       [
+        0.75,
+        -0.05
+       ],
+       [
+        0.9,
+        -0.2
+       ],
+       [
+        1.05,
+        -0.25
+       ],
+       [
+        1.22,
+        -0.2625
+       ],
+       [
+        1.38,
+        -0.75
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.62,
+        -0.7
+       ],
+       [
+        1.8,
+        -0.35
+       ],
+       [
+        2.1,
+        -0.18
+       ],
+       [
+        2.6,
+        -0.08
+       ],
+       [
+        3.2,
+        0
+       ],
+       [
+        5,
+        0
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "example normal",
+      "cumle": 1
+     },
+     {
+      "ad": "hidrops",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.6,
+        0
+       ],
+       [
+        0.75,
+        -0.05
+       ],
+       [
+        0.9,
+        -0.48
+       ],
+       [
+        1.05,
+        -0.6
+       ],
+       [
+        1.22,
+        -0.63
+       ],
+       [
+        1.38,
+        -0.75
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.62,
+        -0.7
+       ],
+       [
+        1.8,
+        -0.35
+       ],
+       [
+        2.1,
+        -0.18
+       ],
+       [
+        2.6,
+        -0.08
+       ],
+       [
+        3.2,
+        0
+       ],
+       [
+        5,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "example hydrops",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "buyuk_sp",
+      "y": [
+       -0.6,
+       0
+      ],
+      "xk": 0.95,
+      "etiket": "large SP",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Hydrops: SP _grows_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cutoff is _laboratory_-specific",
+     "cumle": 6,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The best-known use of ECochG is to look for endolymphatic hydrops, that is, excess fluid in the scala media.",
+     "ses": "The best-known use of E cock G is to look for endolymphatic hydrops, that is, excess fluid in the scala media."
+    },
+    "The gray dashed line shows an example normal recording, and the blue line an example recording from an ear with hydrops.",
+    "In hydrops, the extra endolymph pushes the basilar membrane in one direction and disturbs the symmetry of its motion.",
+    {
+     "yazi": "As a result, the direct current response of the hair cells, the SP, grows, while the AP does not grow to the same degree.",
+     "ses": "As a result, the direct current response of the hair cells, the S P, grows, while the A P does not grow to the same degree."
+    },
+    {
+     "yazi": "So the SP/AP ratio rises, and the shoulder before the AP becomes clearly wider in the recording.",
+     "ses": "So the S P to A P ratio rises, and the shoulder before the A P becomes clearly wider in the recording."
+    },
+    {
+     "yazi": "With extratympanic and tympanic recording, an SP larger than about half the AP is considered increased in most laboratories.",
+     "ses": "With extratympanic and tympanic recording, an S P larger than about half the A P is considered increased in most laboratories."
+    },
+    "With transtympanic recording the cutoff may be lower; the exact value is always set by the laboratory's own norms."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The SP/AP ratio",
+   "baslik": "An example *interpretation*",
+   "sutunlar": [
+    "Ear",
+    "SP (µV)",
+    "AP (µV)",
+    "SP/AP"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Right",
+      "0.3",
+      "1.0",
+      "0.30"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Left",
+      "0.6",
+      "1.0",
+      "0.60"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Example cutoff",
+      "-",
+      "-",
+      "0.50"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Now let us interpret an ECochG result obtained with extratympanic recording, using purely example values.",
+     "ses": "Now let us interpret an E cock G result obtained with extratympanic recording, using purely example values."
+    },
+    {
+     "yazi": "In the right ear the SP is zero point three and the AP is one microvolt; the ratio is zero point three zero.",
+     "ses": "In the right ear the S P is zero point three and the A P is one microvolt; the ratio is zero point three zero."
+    },
+    {
+     "yazi": "In the left ear the SP is zero point six and the AP is again one microvolt; the ratio is zero point six zero.",
+     "ses": "In the left ear the S P is zero point six and the A P is again one microvolt; the ratio is zero point six zero."
+    },
+    "In this example, let the laboratory's upper limit of normal be zero point five zero.",
+    "In that case the ratio in the left ear is considered increased, and the finding may be consistent with endolymphatic hydrops.",
+    "This result alone does not make a diagnosis; it is passed to the physician together with the history, serial audiograms and other tests.",
+    "The report gives the values for both ears, the electrode used and the laboratory cutoff together."
+   ]
+  },
+  {
+   "id": "deger",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The SP/AP ratio",
+   "baslik": "Its *diagnostic* value",
+   "maddeler": [
+    {
+     "metin": "A raised ratio _supports_ hydrops",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "A normal ratio _does not exclude_ it",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "_Moderate_ sensitivity, higher specificity",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "May _vary_ with attacks",
+     "cumle": 5,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Diagnosis rests on _clinical criteria_",
+     "cumle": 6,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CAUTION",
+    "metin": "A normal ratio *does not exclude* hydrops",
+    "cumle": 1
+   },
+   "cumleler": [
+    {
+     "yazi": "An increased SP/AP ratio, together with a fitting history and audiogram, supports the suspicion of endolymphatic hydrops.",
+     "ses": "An increased S P to A P ratio, together with a fitting history and audiogram, supports the suspicion of endolymphatic hydrops."
+    },
+    "But a normal ratio does not exclude hydrops; many people with Meniere's disease have a normal ratio.",
+    "A meta-analysis of studies using extratympanic recording found a sensitivity of about fifty percent.",
+    "The same analysis reported a higher specificity, of about eighty four percent.",
+    "Some studies report higher sensitivity with transtympanic recording and tone burst stimuli; results vary between centers.",
+    "Findings may also vary with the stage of the disease and how close the recording is to an attack.",
+    {
+     "yazi": "As we saw in the lesson on Meniere's disease, diagnosis rests on clinical criteria; ECochG is a supporting test.",
+     "ses": "As we saw in the lesson on Meniere's disease, diagnosis rests on clinical criteria; E cock G is a supporting test."
+    },
+    {
+     "yazi": "Besides the amplitude ratio, some centers also use the ratio of the areas under the SP and AP curves.",
+     "ses": "Besides the amplitude ratio, some centers also use the ratio of the areas under the S P and A P curves."
+    }
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "*Where else* is it used?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Third window",
+     "metin": "Raised ratio in superior canal dehiscence.",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Auditory neuropathy",
+     "metin": "CM present, AP absent.",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Enhancing wave I",
+     "metin": "Ear canal electrode in unclear ABR.",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Operating room",
+     "metin": "Monitoring in ear and brainstem surgery.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "An increased SP/AP ratio has also been reported in third window disorders such as superior canal dehiscence.",
+     "ses": "An increased S P to A P ratio has also been reported in third window disorders such as superior canal dehiscence."
+    },
+    {
+     "yazi": "In auditory neuropathy, ECochG may show a large cochlear microphonic with an abnormal or absent AP.",
+     "ses": "In auditory neuropathy, E cock G may show a large cochlear microphonic with an abnormal or absent A P."
+    },
+    "This finding suggests that the hair cells work but neural synchrony is disrupted.",
+    {
+     "yazi": "If wave I is unclear on the ABR, an ear canal electrode enlarges wave I and helps measure the interpeak latencies.",
+     "ses": "If wave one is unclear on the ABR, an ear canal electrode enlarges wave one and helps measure the interpeak latencies."
+    },
+    "It is also used to monitor hearing during ear and brainstem surgery; we will cover this in a later lesson."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "Test *steps*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopy",
+     "metin": "Is the canal clear?",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Electrode",
+     "metin": "Placement and contact",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Impedance",
+     "metin": "Low and balanced",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Recording",
+     "metin": "At least two replications",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Measurement",
+     "metin": "SP, AP, ratio",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Otoscopy comes before recording; wax or discharge in the ear canal affects both electrode contact and patient safety.",
+    "The electrode is placed according to the chosen method, and the patient is asked whether they are comfortable.",
+    "Electrode impedance is checked; high or unbalanced impedance leads to a noisy recording.",
+    "The recording is taken at a high level and repeated at least once under the same conditions.",
+    {
+     "yazi": "The baseline, SP and AP points are marked, the amplitudes are measured, and the ratio is calculated.",
+     "ses": "The baseline, S P and A P points are marked, the amplitudes are measured, and the ratio is calculated."
+    },
+    "The report must state the electrode method, stimulus, level, polarity and the laboratory's normal limit."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Decide where to measure the baseline before you record; if the SP and AP are not measured by the same rule, the ratio will mislead.",
+   "cumle": 0,
+   "cumleler": [
+    {
+     "yazi": "A tip from the field: the SP/AP ratio is very sensitive to where the baseline is placed.",
+     "ses": "A tip from the field: the S P to A P ratio is very sensitive to where the baseline is placed."
+    },
+    {
+     "yazi": "Mark the baseline and the SP point by the same rule in every recording; a small shift can change the ratio markedly.",
+     "ses": "Mark the baseline and the S P point by the same rule in every recording; a small shift can change the ratio markedly."
+    },
+    {
+     "yazi": "Overlay the repeated recordings; a shoulder that does not appear in the same place in both should not be read as an SP.",
+     "ses": "Overlay the repeated recordings; a shoulder that does not appear in the same place in both should not be read as an S P."
+    },
+    "In doubtful results, repeating the recording with a different stimulus, such as a tone burst, strengthens the interpretation."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Three components: _CM, SP, AP_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Electrode near the cochlea, _larger response_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "In hydrops the _SP/AP ratio_ rises",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "A normal ratio _does not exclude_ hydrops",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "ECochG records the cochlear microphonic, summating potential and action potential; the AP is the same response as ABR wave I.",
+     "ses": "E cock G records the cochlear microphonic, summating potential and action potential; the A P is the same response as ABR wave one."
+    },
+    "There are transtympanic, tympanic and extratympanic electrodes; the closer the electrode to the cochlea, the larger the response.",
+    {
+     "yazi": "In endolymphatic hydrops the SP grows, and the SP/AP ratio rises.",
+     "ses": "In endolymphatic hydrops the S P grows, and the S P to A P ratio rises."
+    },
+    "The ratio has moderate sensitivity; a normal result does not exclude hydrops, and diagnosis rests on clinical criteria."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What is expected on ECochG in hydrops?",
+   "secenekler": [
+    "A raised SP/AP ratio",
+    "Complete loss of the AP",
+    "Loss of the CM",
+    "Shorter AP latency"
+   ],
+   "dogru": 0,
+   "aciklama": "In hydrops the _SP grows_, and the SP/AP ratio rises.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in endolymphatic hydrops, which finding is expected on the ECochG recording?",
+     "ses": "Test yourself: in endolymphatic hydrops, which finding is expected on the E cock G recording?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is A: a raised SP/AP ratio.",
+     "ses": "The correct answer is A: a raised S P to A P ratio."
+    },
+    {
+     "yazi": "Extra endolymph disturbs the symmetric motion of the basilar membrane, and the summating potential grows; the AP does not grow as much.",
+     "ses": "Extra endolymph disturbs the symmetric motion of the basilar membrane, and the summating potential grows; the A P does not grow as much."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Middle Latency *Response* (MLR)",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move beyond the brainstem and learn about the middle latency response, or MLR.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

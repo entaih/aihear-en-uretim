@@ -1,0 +1,776 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D232_Aging_Auditory_System_EN",
+ "kapak": {
+  "ust": "LESSON 232",
+  "baslik": "The aging<br>*auditory system*",
+  "alt": "Peripheral and central changes",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "The Aging Auditory System: Peripheral and Central | Lesson 232 | AIHEAR Audiology Academy",
+  "aciklama": "Does aging affect hearing only in the cochlea? In this lesson we learn about loss of the stria vascularis and synapses, central presbycusis, the decline in temporal processing, changes in dichotic listening and why older adults struggle to understand speech in noise.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gates and Mills (2005), Presbycusis, The Lancet; Dubno et al. (2013), Classifying human audiometric phenotypes of age-related hearing loss from animal models, JARO; Committee on Hearing, Bioacoustics and Biomechanics (CHABA, 1988), Speech understanding and aging, JASA; Gordon-Salant et al. (ed.), The Aging Auditory System, Springer; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "presbycusis",
+   "auditoryaging"
+  ],
+  "etiketler": [
+   "auditory aging",
+   "presbycusis",
+   "central presbycusis",
+   "temporal processing",
+   "cochlear synaptopathy",
+   "stria vascularis",
+   "speech in noise",
+   "dichotic listening",
+   "gap detection",
+   "older adults",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 232",
+   "baslik": "The aging *auditory system*",
+   "alt": "Peripheral and central changes",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how aging affects the auditory system, from the cochlea to the brain.",
+    "We will look at the decline in temporal processing and why older adults find it hard to understand speech in noise."
+   ]
+  },
+  {
+   "id": "sistem",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The whole system ages",
+   "baslik": "Aging *at every level*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Outer, middle ear",
+     "cumle": 1,
+     "metin": "Wax, canal collapse"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Cochlea",
+     "cumle": 2,
+     "metin": "Hair cells, stria"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nerve",
+     "cumle": 3,
+     "metin": "Synapses, ganglion"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Central pathways",
+     "cumle": 4,
+     "metin": "Timing, inhibition"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Cognition",
+     "cumle": 5,
+     "metin": "Memory, processing speed"
+    }
+   ],
+   "cumleler": [
+    "We met presbycusis earlier from the point of view of the cochlea; in this lesson we look at auditory aging as a whole system.",
+    "In the outer ear, impacted wax and collapsing canals become more common; they do not cause the loss, but they can distort test results.",
+    "The cochlea is the best-known target of aging: hair cells and the stria vascularis are affected.",
+    "The synapses between hair cells and nerve fibers, and the spiral ganglion neurons, also decline with age.",
+    "In the central pathways from the brainstem to the cortex, timing precision and inhibitory balance change.",
+    "Finally, cognitive functions such as working memory and processing speed affect how we make sense of what we hear."
+   ]
+  },
+  {
+   "id": "stria",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Peripheral changes",
+   "baslik": "The aging *battery*: stria vascularis",
+   "cizim": "koklea_kesit",
+   "ayar": {
+    "potasyum": true,
+    "potasyum_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "stria vascularis",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenf",
+     "metin": "endolymph",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endocochlear potential falls",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Amplification weakens",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Seen even without noise",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "The stria vascularis is the tissue that produces the high potassium in the endolymph and the endocochlear potential.",
+    "The arrows on screen show the cycle of potassium inside the cochlea; the stria is the pump of this cycle.",
+    "In animals aged in quiet, the vessels and cells of the stria decline and the endocochlear potential falls.",
+    "When the potential falls, outer hair cell amplification weakens over a wide frequency range.",
+    "Because this can occur without any noise damage, it is considered a component specific to aging.",
+    {
+     "yazi": "The 2005 review by Gates and Mills highlights this metabolic component as an important cause of age-related hearing loss.",
+     "ses": "The two thousand five review by Gates and Mills highlights this metabolic component as an important cause of age-related hearing loss."
+    }
+   ]
+  },
+  {
+   "id": "sinaps",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Peripheral changes",
+   "baslik": "The *synapses* go first",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "inner hair cell",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "synapses and nerve fibers",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "outer hair cells",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Synapse loss starts early",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Audiogram may not change",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Understanding in noise gets harder",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "For a long time, hair cell loss was thought to be the earliest sign of aging.",
+    "Animal studies and human temporal bone studies, however, showed that inner hair cell synapses can decline before the hair cells.",
+    "This loss is called age-related cochlear synaptopathy; spiral ganglion neurons then decline as well.",
+    "Synapse loss alone hardly changes the audiogram, because the fibers that set the threshold are largely preserved.",
+    "But because fibers that encode sound in noise and at high levels are lost, understanding speech can become harder.",
+    "These findings help explain why two older people with similar audiograms struggle so differently in daily life."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Peripheral changes",
+   "baslik": "A *trace* in electrophysiology",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "wave I: auditory nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "wave V",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Wave I amplitude may drop",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Large individual variability",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "A research marker for now",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "The neural component of aging can also be tracked with electrophysiological tests.",
+    "Wave I of the auditory brainstem response, or ABR, comes from the auditory nerve.",
+    "In animals and in some human studies, the amplitude of this wave at high levels declines with age.",
+    "A smaller amplitude, even with similar thresholds, suggests a weaker synchronous response reaching the nerve.",
+    "However, amplitude varies a lot between people and is also affected by factors such as the ear canal and sex.",
+    "So today this finding is a marker used more in research than in individual diagnosis."
+   ]
+  },
+  {
+   "id": "fenotip",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Peripheral changes",
+   "baslik": "*Traces* on the audiogram",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Metabolic",
+     "cumle": 1,
+     "metin": "Flat, gently sloping loss"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Sensory",
+     "cumle": 2,
+     "metin": "Steep high-frequency drop"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Mixed",
+     "cumle": 3,
+     "metin": "Both together"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Older but normal",
+     "cumle": 4,
+     "metin": "Thresholds preserved"
+    }
+   ],
+   "cumleler": [
+    "Starting from animal models, researchers have tried to sort human audiograms into similar groups.",
+    {
+     "yazi": "In the 2013 study by Dubno and colleagues, the metabolic pattern was a mild low-frequency loss that rises slowly toward high frequencies.",
+     "ses": "In the twenty thirteen study by Dubno and colleagues, the metabolic pattern was a mild low-frequency loss that rises slowly toward high frequencies."
+    },
+    "In the sensory pattern, low frequencies are preserved with a steep drop at high frequencies; this pattern is linked to a noise history.",
+    "Many people show both patterns together.",
+    "There are also older people whose thresholds are largely preserved; age alone does not decide one's fate.",
+    "This approach is a current view that tries to link the Schuknecht types we saw earlier to the human audiogram."
+   ]
+  },
+  {
+   "id": "santral",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Central changes",
+   "baslik": "*Central* presbycusis",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior colliculus",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "auditory cortex",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "metin": "cochlea",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Inhibitory transmission declines",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Synchrony is disrupted",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "The audiogram does not explain it",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Aging affects not only the cochlea but also the central auditory pathways from the cochlea to the cortex.",
+    "Animal studies have shown that inhibitory, or suppressive, transmission declines with age in the inferior colliculus and auditory cortex.",
+    "Reduced inhibition disrupts the timing of neurons and the sharpness of their responses.",
+    "The synchrony of neural responses over time also declines, making it harder to encode the fast-changing features of sound.",
+    "Central presbycusis is used to describe auditory processing difficulty that the person's audiogram cannot explain.",
+    "However, peripheral loss, central changes and cognitive aging are intertwined in most people, and they are not easy to separate."
+   ]
+  },
+  {
+   "id": "zamansal",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Central changes",
+   "baslik": "*Temporal* processing",
+   "cizim": "atim_dizisi",
+   "ayar": {
+    "frekans_hz": 500,
+    "periyot": 6,
+    "ates": [
+     1,
+     0,
+     1,
+     1,
+     0,
+     1
+    ],
+    "cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "atimlar",
+     "metin": "nerve spikes",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga",
+     "metin": "sound wave",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "evre",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Temporal processing is the ability to detect and use changes in sound over time.",
+    "For low-frequency sounds, nerve fibers fire locked to a particular phase of the wave; this is called phase locking.",
+    "This locking carries the temporal fine structure of sound, which matters for pitch perception and for separating speech from noise.",
+    "With age, the precision of this locking declines; spikes are tied more loosely to the phase of the wave.",
+    "Studies have shown that sensitivity to temporal fine structure can decline even in older adults with normal audiograms.",
+    "So part of aging takes place in a dimension the audiogram does not measure at all."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Central changes",
+   "baslik": "*Hearing* the gap",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Young",
+      "2": "Older, normal thresholds",
+      "3": "Older, with loss"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Gap threshold (illustrative, ms)"
+    },
+    "seriler": [
+     {
+      "ad": "genc",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        1,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "short",
+      "etiket_konum": [
+       1,
+       3
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "yasli_normal",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        2,
+        5.5
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "longer",
+      "etiket_konum": [
+       2,
+       5.5
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "yasli_kayip",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        3,
+        6.5
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "longer",
+      "etiket_konum": [
+       3,
+       6.5
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The classic measure of temporal resolution is gap detection: noticing a very short silence within a noise.",
+    "The bars on the graph are illustrative values showing the shortest gap a person can notice, that is, the gap threshold.",
+    "In young people, this threshold is usually a few milliseconds.",
+    "In older listeners, the threshold is longer on average, even when their audiograms are similar.",
+    "A similar decline is seen in duration discrimination and in understanding time-compressed speech and speech in reverberant rooms.",
+    "Telling consonants apart, for example by the brief silence in a stop consonant, depends on these temporal cues."
+   ]
+  },
+  {
+   "id": "dikotik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Central changes",
+   "baslik": "Two ears, *one brain*",
+   "cizim": "beyin_ustten",
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "seven",
+     "four"
+    ],
+    "yol_cumleleri": {
+     "capraz_yol_sag": 1,
+     "capraz_yol_sol": 2,
+     "kallozal_yol": 2
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "corpus_callosum",
+     "metin": "corpus callosum",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "corpus_callosum",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In dichotic listening, different words are presented to the two ears at the same time.",
+    "A word from the right ear reaches the left hemisphere, where language processing dominates, directly through the crossed pathway.",
+    "A word from the left ear first goes to the right hemisphere and must cross the corpus callosum to reach the left hemisphere.",
+    "With age-related changes in the corpus callosum, left ear performance drops more and the right ear advantage grows.",
+    "This finding shows that aging affects not only the ear but also communication between the two hemispheres.",
+    "That is why dichotic tests are among the tools used to assess central processing in older adults."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Speech in noise",
+   "baslik": "Why is noise *so hard?*",
+   "maddeler": [
+    {
+     "metin": "Audibility: high consonants are lost",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Temporal cues become blurred",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Separating sound sources gets harder",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Cognitive resources are strained",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Listening effort and fatigue",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 2,
+    "ayar": {
+     "mod": "golge",
+     "gurultu_yonu": "sol"
+    }
+   },
+   "cumleler": [
+    "The first reason for difficulty understanding speech in noise is that high-frequency consonants are not heard well enough.",
+    "The second is that temporal cues and fine structure are encoded less precisely.",
+    "These cues are needed to separate the voices of two people talking at the same time.",
+    "The third is a greater need for cognitive resources, such as working memory and processing speed, to fill in what was missed from context.",
+    "All this increases listening effort; that is why an older person is exhausted after a crowded dinner.",
+    "So even if two people have the same audiogram, their performance in noise can be very different."
+   ]
+  },
+  {
+   "id": "bilis",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Speech in noise",
+   "baslik": "The *role* of cognition",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Working memory",
+     "cumle": 0,
+     "metin": "Holding what was heard"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Processing speed",
+     "cumle": 1,
+     "metin": "Following fast speech"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Attention and inhibition",
+     "cumle": 2,
+     "metin": "Suppressing background"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Language knowledge",
+     "cumle": 3,
+     "metin": "Using context"
+    }
+   ],
+   "cumleler": [
+    "Working memory keeps a heard sentence in mind until its meaning forms, and it usually declines with age.",
+    "When processing speed slows, following fast speech becomes harder.",
+    "Attention and inhibition let us suppress background talk and focus on the target speaker.",
+    "On the other hand, vocabulary and the ability to use context are often preserved with age, or even grow stronger.",
+    "That is why older listeners benefit clearly more from meaningful, predictable sentences.",
+    "This close link between hearing and cognition is also the basis of the dementia debate, the topic of the next lesson."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "In the clinic",
+   "baslik": "What to *include* in assessment?",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Pure tone",
+     "cumle": 0,
+     "metin": "Including high frequencies"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech in quiet",
+     "cumle": 1,
+     "metin": "Word recognition"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Speech in noise",
+     "cumle": 2,
+     "metin": "Closest to daily difficulty"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Central tests",
+     "cumle": 3,
+     "metin": "Dichotic, temporal"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Questionnaire",
+     "cumle": 4,
+     "metin": "The person's own view"
+    }
+   ],
+   "cumleler": [
+    "Assessment starts with pure tone audiometry, including frequencies above 8000 Hz if possible.",
+    "The word recognition score in quiet shows understanding capacity under the best conditions.",
+    "Speech in noise tests reflect the older person's daily difficulties much better.",
+    "For those who need it, dichotic tests and temporal tests such as gap detection can be added.",
+    "The difficulties the person reports are recorded with standard questionnaires, because tests cannot capture every situation.",
+    "This information helps plan not only hearing aids but also support such as communication strategies and remote microphones."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "When talking with an older person, speak more slowly and clearly, not louder; pause briefly between sentences. Teach this to the family too.",
+   "cumleler": [
+    "A tip from the field: when talking with an older person, speak more slowly and clearly instead of raising your voice.",
+    "Brief pauses between sentences give time to temporal processing and working memory.",
+    "Shouting distorts sound and causes discomfort, while slow, clear speech often improves understanding markedly.",
+    "Show this strategy to family members in practice during the session; it gives the fastest gain for communication at home."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Aging reaches from cochlea to cortex",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Stria and synapse loss matter",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Temporal processing declines with age",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Noise difficulty: hearing and cognition",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Auditory aging involves not only the cochlea but also nerve fibers, central pathways and cognitive functions.",
+    "Weakening of the stria vascularis and loss of synapses are important parts of aging alongside hair cell loss.",
+    "Temporal and central skills such as phase locking, gap detection and dichotic listening decline with age.",
+    "Difficulty understanding speech in noise comes from audibility, temporal processing and cognitive resources acting together."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What best explains speech-in-noise difficulty in an older adult with a normal audiogram?",
+   "secenekler": [
+    "Middle ear stiffness",
+    "Synapse loss, temporal decline",
+    "Earwax",
+    "Outer ear resonance"
+   ],
+   "dogru": 1,
+   "aciklama": "Synapse loss and temporal processing decline _may not show on the audiogram_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what can best explain difficulty understanding speech in noise in an older person with a normal audiogram?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: synapse loss and decline in temporal processing.",
+    "These changes can disrupt the encoding of speech in noise without clearly affecting thresholds."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Hearing Loss and *Dementia*: What Does the Evidence Say?",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will read the evidence on the link between hearing loss and dementia together.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

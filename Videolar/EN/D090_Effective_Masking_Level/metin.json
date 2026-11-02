@@ -1,0 +1,742 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D090_Effective_Masking_Level_EN",
+ "kapak": {
+  "ust": "LESSON 90",
+  "baslik": "Effective<br>*masking*",
+  "alt": "The least and the most noise",
+  "cizim": "maskeleme",
+  "ayar": {
+   "ia_db": 40
+  }
+ },
+ "youtube": {
+  "baslik": "Effective Masking Level: Minimum and Maximum | Lesson 90 | AIHEAR Audiology Academy",
+  "aciklama": "How much noise should we give to the opposite ear? In this lesson we work through effective masking (dB EM) calibration, how to calculate minimum and maximum masking, undermasking and overmasking, central masking and the masking window, with sample calculations.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ANSI/ASA S3.6, Specification for Audiometers; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "masking",
+   "audiometry"
+  ],
+  "etiketler": [
+   "effective masking",
+   "dB EM",
+   "minimum masking",
+   "maximum masking",
+   "undermasking",
+   "overmasking",
+   "central masking",
+   "masking window",
+   "clinical masking",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 90",
+   "baslik": "Effective *Masking* Level: Minimum and Maximum",
+   "alt": "dB EM, overmasking and central masking",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn how to calculate the least and the most noise we can give to the opposite ear.",
+    "With examples, we will look at effective masking, undermasking and overmasking, and central masking."
+   ]
+  },
+  {
+   "id": "birim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Effective masking",
+   "baslik": "*Which* unit do we use for noise?",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "dB SPL",
+     "metin": "Physical level",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Raw noise level",
+     "metin": "Does not show its effect",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "dB EM",
+     "metin": "How far does it shift threshold?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "We need to express the level of the masking noise in a meaningful unit.",
+    "Decibels SPL tell us the physical level of the noise, but not directly how much it will mask a tone.",
+    "The masking power of noise at the same physical level changes with its bandwidth and frequency.",
+    {
+     "yazi": "So in the clinic, noise is set in effective masking, or dB EM.",
+     "ses": "So in the clinic, noise is set in effective masking, or decibels E.M."
+    },
+    {
+     "yazi": "dB EM does not describe how much sound the noise makes, but how far it shifts the threshold.",
+     "ses": "Decibels E.M. does not describe how much sound the noise makes, but how far it shifts the threshold."
+    },
+    {
+     "yazi": "On a correctly calibrated audiometer, the value read on the noise channel is the dB EM value directly.",
+     "ses": "On a correctly calibrated audiometer, the value read on the noise channel is the decibels E.M. value directly."
+    }
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Effective masking",
+   "baslik": "*How* is dB EM defined?",
+   "maddeler": [
+    {
+     "metin": "X dB EM: threshold _to X dB HL_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "In a normal ear, masking _half the time_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hence a _10 dB safety factor_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Audiometer calibrated _in dB EM_",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EXAMPLE",
+    "metin": "30 dB EM noise moves a normal threshold *to 30 dB HL*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "The effective masking level is defined by the hearing level of the tone that the noise can mask.",
+    {
+     "yazi": "For example, thirty dB EM of narrowband noise shifts a normal threshold at its center frequency to about thirty decibels HL.",
+     "ses": "For example, thirty decibels E.M. of narrowband noise shifts a normal threshold at its center frequency to about thirty decibels HL."
+    },
+    "In standard calibration, this is the level at which the tone is masked in about half of the trials in normal-hearing listeners.",
+    "So some people may still hear the tone; this is why a safety factor of ten decibels is usually added to the calculations.",
+    {
+     "yazi": "In clinical audiometers, the level of narrowband noise is calibrated in dB EM for each frequency.",
+     "ses": "In clinical audiometers, the level of narrowband noise is calibrated in decibels E.M. for each frequency."
+    },
+    "If the calibration is in doubt, a simple check can be done with a few normal-hearing listeners."
+   ]
+  },
+  {
+   "id": "min_mantik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Minimum masking",
+   "baslik": "The least noise: covering the *crossed tone*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: 50 dB tone",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: 40 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "NTE cochlea: 10 dB",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "At least 10 dB EM",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "For minimum masking, the first question is: at what level does the tone we give the test ear, or TE, reach the opposite cochlea?",
+    "Imagine we present a fifty decibel tone to the TE, and interaural attenuation, or IA, is forty decibels.",
+    "The tone reaches the cochlea of the opposite ear, the non-test ear or NTE, at about ten decibels.",
+    {
+     "yazi": "To cover this tone, there must be at least ten dB EM of effective noise in the NTE cochlea.",
+     "ses": "To cover this tone, there must be at least ten decibels E.M. of effective noise in the N.T.E cochlea."
+    },
+    "If the NTE has a conductive loss, the noise delivered by the earphone is weakened by that loss on its way to the cochlea.",
+    "In that case, we need to raise the noise by the size of the air-bone gap in the NTE."
+   ]
+  },
+  {
+   "id": "min_formul",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "Minimum masking",
+   "baslik": "The minimum masking *formula*",
+   "sol": {
+    "ust": "Calculation method",
+    "maddeler": [
+     {
+      "metin": "TE tone level _minus IA_",
+      "cumle": 0
+     },
+     {
+      "metin": "Plus the _NTE air-bone gap_",
+      "cumle": 1
+     },
+     {
+      "metin": "Plus a _10 dB_ safety factor",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Plateau starting level",
+    "maddeler": [
+     {
+      "metin": "NTE _air conduction threshold_",
+      "cumle": 4
+     },
+     {
+      "metin": "Plus a _10 dB_ safety factor",
+      "cumle": 4
+     },
+     {
+      "metin": "For bone conduction, plus _occlusion_",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "In the calculation method, minimum masking starts with the tone level in the TE minus IA.",
+    "The air-bone gap of the NTE is added, because the noise has to overcome this block to reach the NTE cochlea.",
+    "Finally, a safety factor of ten decibels is added to cover individual differences.",
+    "The formula clearly shows that as the tone in the TE rises, the noise needed also rises.",
+    "In the plateau method, which is used more often in the clinic, the initial level is ten decibels above the NTE air conduction threshold.",
+    "In bone conduction masking, an occlusion correction is added to this value at low frequencies."
+   ]
+  },
+  {
+   "id": "min_ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Minimum masking",
+   "baslik": "Minimum masking: *a worked example*",
+   "sutunlar": [
+    "Step",
+    "Value",
+    "Running result"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "TE tone level",
+      "50 dB HL",
+      "50"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Minus IA",
+      "40 dB",
+      "10"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Plus NTE gap",
+      "0 dB",
+      "10"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Plus safety factor",
+      "10 dB",
+      "20 dB EM"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Let us work an example: in the TE, the tone is presented at fifty decibels HL at one thousand hertz.",
+    "For supra-aural earphones, IA is forty decibels; fifty minus forty is ten decibels.",
+    "The NTE is normal, with air and bone conduction at ten decibels; the air-bone gap is zero, so the result stays ten.",
+    {
+     "yazi": "Adding the ten decibel safety factor, minimum masking is twenty dB EM.",
+     "ses": "Adding the ten decibel safety factor, minimum masking is twenty decibels E.M."
+    },
+    "This also matches the plateau starting level, which is ten decibels above the NTE air conduction threshold.",
+    {
+     "yazi": "If the tone in the TE rises to sixty, the minimum noise rises to thirty dB EM; this is the logic of the plateau method.",
+     "ses": "If the tone in the T.E rises to sixty, the minimum noise rises to thirty decibels E.M.; this is the logic of the plateau method."
+    }
+   ]
+  },
+  {
+   "id": "max_mantik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Maximum masking",
+   "baslik": "The most noise: noise that *crosses back*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "Noise to the NTE",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "Weakened by IA",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "metin": "TE bone conduction threshold",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Upper limit: TE bone + IA _minus 5_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TE bone unknown: _use unmasked bone_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "There is also a limit to raising the noise, because noise given to the NTE can also cross the skull to the TE.",
+    "As it crosses, the noise is weakened by about IA, just like the test sound.",
+    "If the noise reaching the TE cochlea reaches the TE bone conduction threshold, it masks the TE too; this is called overmasking.",
+    "So maximum masking is taken as five decibels less than the sum of the TE bone conduction threshold and IA.",
+    "When masking air conduction, the true TE bone conduction is often unknown; to be cautious, the unmasked bone threshold is used.",
+    "Since unmasked bone conduction shows the better of the two cochleae, this choice keeps the upper limit on the safe side."
+   ]
+  },
+  {
+   "id": "max_ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Maximum masking",
+   "baslik": "The window: from least to *most*",
+   "sutunlar": [
+    "Case (1000 Hz)",
+    "Least",
+    "Most"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "NTE normal, supra-aural",
+      "20 dB EM",
+      "45 dB EM"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "NTE normal, insert",
+      "20 dB EM",
+      "60 dB EM"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "NTE conductive 50 dB",
+      "70 dB EM",
+      "45 dB EM"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Now let us consider the least and the most noise together; we can call the range between them the masking window.",
+    {
+     "yazi": "In the previous example, unmasked bone is ten; with supra-aural earphones, the most noise is ten plus forty minus five, or forty five dB EM.",
+     "ses": "In the previous example, unmasked bone is ten; with supra-aural earphones, the most noise is ten plus forty minus five, or forty five decibels E.M."
+    },
+    {
+     "yazi": "If IA is taken as fifty five with insert earphones, the most noise rises to sixty dB EM; the window becomes clearly wider.",
+     "ses": "If I.A is taken as fifty five with insert earphones, the most noise rises to sixty decibels E.M.; the window becomes clearly wider."
+    },
+    "The wider the window, the more room there is to raise the noise and see the plateau.",
+    {
+     "yazi": "But if the NTE had a fifty decibel conductive loss, its air conduction would be sixty and the least noise would rise to seventy dB EM.",
+     "ses": "But if the N.T.E had a fifty decibel conductive loss, its air conduction would be sixty and the least noise would rise to seventy decibels E.M."
+    },
+    "When the least noise exceeds the most, the window closes; this is the masking dilemma, which we will cover in a separate lesson."
+   ]
+  },
+  {
+   "id": "plato_ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Maximum masking",
+   "baslik": "Example: from plateau to *overmasking*",
+   "sutunlar": [
+    "Noise (dB EM)",
+    "TE threshold (dB HL)",
+    "Interpretation"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20",
+      "50",
+      "Start"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "30",
+      "50",
+      "Plateau"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "45",
+      "50",
+      "End of plateau"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "50",
+      "55",
+      "Overmasking"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "55",
+      "60",
+      "Overmasking"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "An example: the left ear is the TE, with air conduction at fifty and bone at ten decibels, a conductive loss; the right ear is normal.",
+    {
+     "yazi": "With supra-aural earphones, the least noise is twenty, and the most is ten plus forty minus five, or forty five dB EM.",
+     "ses": "With supra-aural earphones, the least noise is twenty, and the most is ten plus forty minus five, or forty five decibels E.M."
+    },
+    "When we raise the noise from twenty to thirty, the threshold stays at fifty decibels.",
+    {
+     "yazi": "Up to forty five dB EM the threshold does not change; this plateau shows that the true threshold is fifty decibels.",
+     "ses": "Up to forty five decibels E.M. the threshold does not change; this plateau shows that the true threshold is fifty decibels."
+    },
+    {
+     "yazi": "At fifty and fifty five dB EM, however, the threshold rises with the noise, because the noise now reaches the TE cochlea.",
+     "ses": "At fifty and fifty five decibels E.M., however, the threshold rises with the noise, because the noise now reaches the T.E cochlea."
+    },
+    "If we had kept raising the noise instead of stopping here, we would have wrongly recorded the conductive loss as a greater loss."
+   ]
+  },
+  {
+   "id": "yetersiz_asiri",
+   "tur": "karsilastir",
+   "bolum_no": "PART 3",
+   "bolum": "Maximum masking",
+   "baslik": "Too little or *too much?*",
+   "sol": {
+    "ust": "Undermasking",
+    "maddeler": [
+     {
+      "metin": "NTE _keeps hearing_ the tone",
+      "cumle": 0
+     },
+     {
+      "metin": "Threshold looks _better_ than it is",
+      "cumle": 1
+     },
+     {
+      "metin": "Threshold _rises_ with the noise",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Overmasking",
+    "maddeler": [
+     {
+      "metin": "Noise also covers _the TE_",
+      "cumle": 3
+     },
+     {
+      "metin": "Threshold looks _worse_ than it is",
+      "cumle": 4
+     },
+     {
+      "metin": "Threshold rises _again_ after the plateau",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "If the noise stays below the minimum, the NTE keeps hearing the tone; this is called undermasking.",
+    "In this case, the recorded threshold still belongs to the opposite ear, and TE hearing looks better than it is.",
+    "The sign of undermasking is that the threshold rises together with the noise.",
+    "If the noise exceeds the maximum, the TE is masked too; this is overmasking.",
+    "This time the threshold looks worse than it is; even a conductive loss may be recorded as sensorineural or mixed.",
+    "The sign of overmasking is that the threshold stays stable for a while and then rises again with the noise."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Maximum masking",
+   "baslik": "*Limits* in bone conduction",
+   "maddeler": [
+    {
+     "metin": "Least: TE bone + _NTE gap_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Plus _occlusion_ at low frequencies",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Most: TE bone + _earphone IA_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 0
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kafatasi",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "In bone conduction, IA for the tone is about zero, so the tone reaches both cochleae at the same level.",
+    "So minimum masking is found by adding the NTE air-bone gap to the bone conduction tone level in the TE.",
+    "A safety factor is added, and at low frequencies an occlusion correction too, because the NTE is covered by an earphone.",
+    "The noise, however, goes to the NTE through an earphone, so it loses the earphone's IA as it crosses; the maximum is as in air conduction.",
+    {
+     "yazi": "For example, if TE bone conduction is ten and insert earphone IA is fifty five, the most noise is sixty dB EM.",
+     "ses": "For example, if T.E bone conduction is ten and insert earphone I.A is fifty five, the most noise is sixty decibels E.M."
+    },
+    "If the TE has a conductive loss, meaning TE bone conduction is good, the maximum stays low and the window narrows."
+   ]
+  },
+  {
+   "id": "merkezi",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Central masking",
+   "baslik": "*Central* masking",
+   "maddeler": [
+    {
+     "metin": "Threshold shift _without_ crossover",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "On average _about 5 dB_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Source: _central_ and efferent effects",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "5 dB shift: count as _unchanged_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "The two ears meet here",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Even when the noise given to the NTE is not loud enough to cross over, the TE threshold may shift a little.",
+    "This is called central masking.",
+    "This shift is about five decibels on average, but it varies from person to person.",
+    "Central masking is explained by the two ears' information meeting in the brainstem and by efferent fibers descending to the cochlea.",
+    {
+     "yazi": "Although it was first described in 1924, its mechanism is still debated today.",
+     "ses": "Although it was first described in nineteen twenty four, its mechanism is still debated today."
+    },
+    "In the clinic, if a shift of up to five decibels appears during masking, the threshold is usually treated as unchanged.",
+    "Mistaking this small shift for undermasking and raising the noise without need increases the risk of overmasking."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Before masking, write the least and the most noise for each frequency on the form. As you raise the noise, check how close you are to the maximum.",
+   "cumleler": [
+    "A tip from the clinic: before you start masking, write two numbers on paper or on the form.",
+    "The first is the least noise at that frequency, and the second is the most noise, where overmasking begins.",
+    "As you raise the noise, see at every step how close you are getting to this upper limit.",
+    "If the two numbers are very close, switching to insert earphones is the most practical way to widen the window."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "dB EM: the noise's _threshold shifting_ power",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Least: tone minus IA _plus gap_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Most: TE bone + IA _minus 5_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Central masking: _about 5 dB_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Effective masking is defined by how many decibels HL the noise shifts the threshold to; a ten decibel safety factor is added.",
+    "Minimum masking is the tone level in the TE minus IA, plus the air-bone gap of the NTE.",
+    "Maximum masking is five decibels less than TE bone conduction plus IA; beyond it, overmasking occurs.",
+    "Even if the noise does not cross over, the threshold may shift by about five decibels; this is called central masking."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "TE bone conduction 10 dB, IA 40 dB. What is the most noise?",
+   "secenekler": [
+    "40 dB EM",
+    "45 dB EM",
+    "50 dB EM",
+    "60 dB EM"
+   ],
+   "dogru": 1,
+   "aciklama": "Most = TE bone conduction + IA minus 5: _10 + 40 - 5 = 45 dB EM_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: TE bone conduction is ten decibels and IA is forty decibels. What is the most noise before overmasking?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: forty five dB EM.",
+     "ses": "The correct answer is B: forty five decibels E.M."
+    },
+    "The most noise is five less than the sum of TE bone conduction and IA: ten plus forty minus five, forty five."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "The *Plateau* Masking Method Step by Step",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will study the plateau method, where we raise the noise step by step within these limits to find the true threshold.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

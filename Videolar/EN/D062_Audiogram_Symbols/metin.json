@@ -1,0 +1,794 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D062_Audiogram_Symbols_EN",
+ "kapak": {
+  "ust": "LESSON 62",
+  "baslik": "Audiogram<br>*symbols*",
+  "alt": "Masked, unmasked and no response",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      40,
+      40,
+      45,
+      50
+     ],
+     "cumle": 0
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      15
+     ],
+     "cumle": 0,
+     "cizgi": false
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      60,
+      65,
+      70,
+      70,
+      75,
+      80
+     ],
+     "cumle": 0
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  }
+ },
+ "youtube": {
+  "baslik": "Audiogram Symbols and Recording Standards | Lesson 62 | AIHEAR Audiology Academy",
+  "aciklama": "In this lesson we learn the ASHA audiometric symbols: unmasked and masked air-conduction and bone-conduction symbols, the no-response mark, and the rules for color and lines. With sample audiograms, we also look at the transducer, masking and reliability information that should be added to the audiogram.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: ASHA (1990), Guidelines for Audiometric Symbols; BSA, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking (2018); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "puretoneaudiometry"
+  ],
+  "etiketler": [
+   "audiogram symbols",
+   "audiometric symbols",
+   "ASHA symbols",
+   "masked threshold",
+   "unmasked threshold",
+   "no response",
+   "bone conduction",
+   "air conduction",
+   "audiogram recording",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 62",
+   "baslik": "Audiogram *symbols*",
+   "alt": "Unmasked and masked thresholds, no response, recording standards",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the standard symbols used on the audiogram and how results should be recorded.",
+    "We will look at the rules for unmasked and masked thresholds, the no-response mark, and the use of color and lines."
+   ]
+  },
+  {
+   "id": "form",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The audiogram form",
+   "baslik": "A standard *form*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "Hearing level (dB HL)",
+     "ters": true
+    },
+    "seriler": [],
+    "araliklar": [
+     {
+      "ad": "oktav",
+      "x": [
+       1000,
+       2000
+      ],
+      "y": 30,
+      "etiket": "1 octave",
+      "cumle": 4
+     },
+     {
+      "ad": "yirmi",
+      "y": [
+       40,
+       60
+      ],
+      "xk": 2000,
+      "etiket": "20 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Frequency axis is _logarithmic_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "dB HL _increases_ downward",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1 octave = _20 dB_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "The audiogram is a standard graph that shows thresholds by frequency and hearing level.",
+    "Frequency is on the horizontal axis, and the axis is logarithmic; each octave is drawn with equal spacing.",
+    "Hearing level in decibels HL is on the vertical axis; values increase downward, so hearing gets worse further down.",
+    "The American Speech-Language-Hearing Association, or ASHA, published guidelines for audiometric symbols in nineteen ninety.",
+    "According to these guidelines and the British Society of Audiology, or BSA, one octave in width should equal twenty decibels in height.",
+    "If this ratio stays fixed, the same loss looks equally steep on every form, and audiograms can be compared with each other."
+   ]
+  },
+  {
+   "id": "hava_sembol",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Air conduction",
+   "baslik": "Air-conduction *symbols*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "O: right",
+     "cumle": 1,
+     "metin": "Unmasked air conduction"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "X: left",
+     "cumle": 2,
+     "metin": "Unmasked air conduction"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Triangle: right",
+     "cumle": 3,
+     "metin": "Masked air conduction"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Square: left",
+     "cumle": 4,
+     "metin": "Masked air conduction"
+    }
+   ],
+   "cumleler": [
+    "There are four basic symbols for air-conduction thresholds: two ears and two conditions, unmasked and masked.",
+    "The unmasked air-conduction threshold of the right ear is shown with a circle, the letter O.",
+    "The unmasked air-conduction threshold of the left ear is shown with an X.",
+    "A right-ear threshold measured with the opposite ear masked is shown with a triangle.",
+    "A left-ear threshold measured with the opposite ear masked is shown with a square.",
+    "An unmasked threshold is found without noise in the opposite ear, and a masked threshold is found with noise."
+   ]
+  },
+  {
+   "id": "hava_ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Air conduction",
+   "baslik": "Example: *masked* air conduction",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: unmasked air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Left_: masked air conduction",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       70,
+       70,
+       75,
+       80
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this sample audiogram, the air-conduction thresholds of the right ear are within normal limits and marked with circles.",
+    "In the left ear, there is a loss between sixty and eighty decibels HL.",
+    "The left-ear thresholds were measured with the opposite ear masked, so they are recorded with squares.",
+    "When masking is needed, it is accepted to record only the masked threshold on the audiogram; the ASHA guidelines clearly allow this.",
+    "Thresholds found before masking are sometimes kept on a separate worksheet, but the two values must not be mixed on the final audiogram."
+   ]
+  },
+  {
+   "id": "kemik_sembol",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Bone conduction",
+   "baslik": "Bone-conduction *symbols*",
+   "ogeler": [
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "&lt; right mastoid",
+     "cumle": 1,
+     "metin": "Unmasked bone conduction"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "&gt; left mastoid",
+     "cumle": 1,
+     "metin": "Unmasked bone conduction"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "[ right",
+     "cumle": 3,
+     "metin": "Masked bone conduction"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "] left",
+     "cumle": 3,
+     "metin": "Masked bone conduction"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Inverted V",
+     "cumle": 4,
+     "metin": "Bone conduction, ear unspecified"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "V: forehead",
+     "cumle": 5,
+     "metin": "Bone conduction from forehead"
+    }
+   ],
+   "cumleler": [
+    "Bone-conduction symbols show where the vibrator was placed and whether masking was used.",
+    "Unmasked bone conduction from the right mastoid is shown with a less-than sign, and from the left mastoid with a greater-than sign.",
+    "These signs only describe where the vibrator was placed; in unmasked bone conduction, the response may have come from the better cochlea.",
+    "Bone conduction measured with the opposite ear masked is shown with square brackets: an opening bracket for right, a closing one for left.",
+    {
+     "yazi": "The ASHA guidelines also offer an inverted V as an option for unmasked bone conduction when the responding ear is not known."
+    },
+    {
+     "yazi": "When the vibrator is placed on the forehead, the unmasked threshold is shown with the letter V."
+    }
+   ]
+  },
+  {
+   "id": "kemik_ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Bone conduction",
+   "baslik": "Example: *masked* bone conduction",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Right_: masked bone conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       40,
+       40,
+       45,
+       50
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 1,
+      "cizgi": false
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    },
+    "aralik": {
+     "konum": [
+      2,
+      5,
+      40
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "In this example, the air-conduction thresholds of the right ear are between forty and fifty decibels HL.",
+    "The right bone-conduction thresholds, measured with the left ear masked, are within normal limits and marked with square brackets.",
+    "The air-conduction thresholds of the left ear are within normal limits.",
+    "In the right ear there is an air-bone gap of about thirty five decibels; this picture is consistent with a conductive loss.",
+    "The bracket does not touch the frequency line; it sits to the left of the line for the right ear and to the right for the left ear.",
+    "One way to remember this is to look at the audiogram as if you were facing the patient: the patient's right is on your left."
+   ]
+  },
+  {
+   "id": "yanit_yok",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "No response",
+   "baslik": "The *no response* mark",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Air conduction_: no response at limit",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Bone conduction_: no response at limit",
+     "cumle": 3
+    },
+    {
+     "isaret": "↙",
+     "renk": "sag",
+     "metin": "Arrow: _right ear_ down-left",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       70,
+       75,
+       85,
+       100,
+       120,
+       110
+      ],
+      "cumle": 1,
+      "yanitsiz": [
+       4,
+       5
+      ]
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       45,
+       65,
+       70,
+       70,
+       70
+      ],
+      "cumle": 3,
+      "yanitsiz": true,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    }
+   },
+   "cumleler": [
+    "If there is no response even at the maximum output of the audiometer, this is recorded as no response, or NR.",
+    "In this example, the right ear gave no response at the limit of the device at four thousand and eight thousand hertz.",
+    "The symbol is placed at the device limit for that frequency, with an arrow angled outward: down-left for right, down-right for left.",
+    "In bone conduction, the no-response mark is also used when there is no response at the vibrator limit, which is much lower than for air.",
+    "No-response symbols are not connected by lines to each other or to measured thresholds.",
+    "No response does not mean there is no hearing at all; it only shows that the threshold is worse than the device can measure."
+   ]
+  },
+  {
+   "id": "renk_cizgi",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Color and lines",
+   "baslik": "Rules for color and *lines*",
+   "maddeler": [
+    {
+     "metin": "Air conduction: joined by _solid lines_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Bone conduction: _not joined_ in ASHA",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "BSA: bone conduction with _dashed lines_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Lines do _not cross_ symbols",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Color helps; the _symbol_ decides",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        40,
+        45,
+        40,
+        45,
+        50,
+        55
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        15,
+        15,
+        10,
+        15,
+        20
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "The air-conduction thresholds of the same ear are joined with a solid line.",
+    "In the ASHA guidelines, bone-conduction thresholds are usually not joined; a dashed line may be used if there is an air-bone gap.",
+    "The BSA recommends joining bone-conduction symbols with a dashed line; both approaches are common, and consistency on the form matters.",
+    "Lines come close to the symbols but do not pass through them, so the symbol stays easy to read.",
+    "Red for the right ear and blue for the left ear is a common habit, but ASHA does not require the use of color.",
+    "This is because color is lost in a photocopy or a black and white printout; the symbol itself should always show the ear."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Recording",
+   "baslik": "What to *add* to the audiogram",
+   "ogeler": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Transducer",
+     "cumle": 0,
+     "metin": "Supra-aural, insert or vibrator"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Masking level",
+     "cumle": 1,
+     "metin": "Noise given to the opposite ear"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sound field",
+     "cumle": 2,
+     "metin": "Letter S, no ear specified"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Vibrotactile note",
+     "cumle": 3,
+     "metin": "Possible vibrotactile responses"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Reliability",
+     "cumle": 4,
+     "metin": "Response consistency and method"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Equipment",
+     "cumle": 5,
+     "metin": "Audiometer and calibration date"
+    }
+   ],
+   "cumleler": [
+    "Symbols alone are not enough; some information is also added to the audiogram.",
+    "The transducer used is written down; results found with insert and supra-aural earphones may be interpreted differently.",
+    {
+     "yazi": "If masking was used, the highest effective masking level given to the opposite ear can be written in the table below the audiogram."
+    },
+    {
+     "yazi": "Sound-field thresholds, where the ears cannot be separated, are marked with the letter S on the frequency line."
+    },
+    "Responses thought to be felt rather than heard, called vibrotactile responses, are noted separately; the BSA clearly requires this.",
+    "The reliability of the responses, the method used, the audiometer and the last calibration date are also part of the record."
+   ]
+  },
+  {
+   "id": "ust_uste",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Recording",
+   "baslik": "When symbols *overlap*",
+   "maddeler": [
+    {
+     "metin": "O and X _overlap_ at same threshold",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Masked bone: _beside_ air conduction",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Unspecified bone: _slightly above_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Every form has a _legend_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        20,
+        25,
+        30,
+        40,
+        45
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        20,
+        25,
+        30,
+        40,
+        45
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "If the air-conduction thresholds of the two ears are the same, ASHA says the symbols are drawn on top of each other.",
+    "The masked bone-conduction symbol is placed beside the air-conduction symbol at the same level, without touching it.",
+    "The unspecified bone-conduction symbol is placed slightly above the air-conduction symbol at the same level.",
+    "Software may use different symbols, so every audiogram should include an explanation of the symbols, called a legend.",
+    "The BSA also accepts different symbols in software, as long as the result is clear and unambiguous."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "An unmasked bone-conduction symbol shows which mastoid the vibrator was on. It does not prove the response came from that cochlea; ear-specific thresholds need masking.",
+   "cumleler": [
+    "A tip from the clinic: when you see a less-than or greater-than sign in unmasked bone conduction, do not read it as that ear's cochlea.",
+    "The sign only shows where the vibrator was placed; in bone conduction, the two cochleae are stimulated at almost the same level.",
+    "In an ear with an air-bone gap, only a masked measurement shows that the bone-conduction threshold is ear-specific.",
+    "Before signing the audiogram, check that the symbol, the ear and the masking status agree with each other at every frequency."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "O, X: _unmasked_ air conduction",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Triangle, square: _masked_ air conduction",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Square brackets: _masked_ bone conduction",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "No response: at limit, _angled arrow_, unconnected",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "In air conduction, O and the triangle are used for the right ear, X and the square for the left; the triangle and square mean masked.",
+    "In bone conduction, less-than and greater-than signs show unmasked thresholds, and square brackets show masked thresholds.",
+    "The no-response mark is placed at the device limit, gets an outward angled arrow and is not connected with lines.",
+    "One octave is drawn equal to twenty decibels; color helps, but the symbol decides the ear."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which symbol shows a masked left air-conduction threshold?",
+   "secenekler": [
+    "X",
+    "Triangle",
+    "Square",
+    "Square bracket"
+   ],
+   "dogru": 2,
+   "aciklama": "In ASHA, unmasked left air conduction is _X_ and masked left air conduction is a _square_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which symbol shows the masked air-conduction threshold of the left ear?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is C: a square."
+    },
+    "In the left ear, unmasked air conduction is shown with an X and masked with a square; in the right ear, these are O and a triangle."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Audiogram *Configurations* and What They Suggest",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look at the shape of the audiogram: flat, sloping, notched and cookie-bite configurations.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

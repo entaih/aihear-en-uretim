@@ -1,0 +1,135 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R064_Fluctuating_Hearing_EN",
+ "kapak": {
+  "ust": "QUICK FACT #64",
+  "baslik": "Fluctuating *hearing*",
+  "alt": "The value of serial audiograms in Meniere's",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      40,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can hearing be good one day and poor the next? #shorts",
+  "aciklama": "In Meniere's disease, low-frequency hearing fluctuates over time. In an example case, thresholds were 40 to 50 dB during symptoms, recovered two weeks later and worsened again six months later; this is why serial audiograms are valuable.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "hearing"
+  ],
+  "etiketler": [
+   "Meniere's disease",
+   "fluctuating hearing loss",
+   "low-frequency hearing loss",
+   "serial audiograms",
+   "endolymphatic hydrops",
+   "audiogram",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can hearing be good one day and poor the next?",
+  "bilgiler": [
+   "In Meniere's disease, low-frequency hearing fluctuates.",
+   "In the example, thresholds recovered in two weeks, then worsened in six months.",
+   "A single audiogram cannot show this fluctuation."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #64",
+   "metin": "Good hearing one day, *poor the next?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can hearing be good one day and poor the next?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "*Fluctuating* hearing in Meniere's",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Attack",
+     "cumle": 1,
+     "tr": "40 to 50 dB"
+    },
+    {
+     "ad": "2 weeks",
+     "cumle": 2,
+     "tr": "recovery"
+    },
+    {
+     "ad": "6 months",
+     "cumle": 2,
+     "gecikme": 1.6,
+     "tr": "worse again"
+    }
+   ],
+   "alt": "One audiogram is not enough: _serial audiograms_ matter.",
+   "alt_cumle": 3,
+   "cumleler": [
+    "In Meniere's disease, low-frequency hearing fluctuates over time.",
+    "Here, low-frequency thresholds were forty to fifty decibels during symptoms.",
+    "Two weeks later they recovered; six months later they worsened again.",
+    "A single audiogram cannot show this fluctuation."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D142",
+ "kaynak_baslik": "Meniere's Disease and Endolymphatic Hydrops"
+}

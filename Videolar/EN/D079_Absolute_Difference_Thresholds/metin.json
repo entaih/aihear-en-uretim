@@ -1,0 +1,1258 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D079_Absolute_Difference_Thresholds_EN",
+ "kapak": {
+  "ust": "LESSON 79",
+  "baslik": "Absolute and<br>*difference thresholds*",
+  "alt": "An introduction to psychoacoustics",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Psychoacoustics: Absolute and Difference Thresholds | Lesson 79 | AIHEAR Audiology Academy",
+  "aciklama": "When do we hear a sound, and when do we notice the difference between two sounds? In this lesson we cover the basis of psychoacoustics: the psychometric function and how threshold is defined, psychophysical methods, the minimum audible field and pressure curves, the just noticeable difference, Weber's law and what these concepts mean in the clinic.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Fechner (1860), Elemente der Psychophysik; Jesteadt, Wier and Green (1977), Intensity discrimination as a function of frequency and sensation level, Journal of the Acoustical Society of America; ISO 389-7, Reference threshold of hearing under free-field and diffuse-field listening conditions.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "psychoacoustics",
+   "hearing"
+  ],
+  "etiketler": [
+   "psychoacoustics",
+   "absolute threshold",
+   "difference threshold",
+   "just noticeable difference",
+   "JND",
+   "Weber fraction",
+   "Weber's law",
+   "minimum audible field",
+   "MAF",
+   "psychometric function",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 79",
+   "baslik": "Absolute and *difference thresholds*",
+   "alt": "An introduction to psychoacoustics",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we step into psychoacoustics and learn two basic concepts: the absolute threshold and the difference threshold.",
+    "We will see how threshold is defined, how it is measured, how it changes with frequency, and what Weber's law says."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What is psychoacoustics?",
+   "baslik": "From physics to *perception*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Physical stimulus",
+     "metin": "Frequency, intensity, duration",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Perception",
+     "metin": "Pitch, loudness",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Psychophysics",
+     "metin": "The link between them",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Audiometry",
+     "metin": "A psychophysical measurement",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Psychoacoustics is the science that studies the relationship between the physical properties of sound and the perception they create.",
+    "Frequency, intensity and duration are physical quantities; they are measured with an instrument.",
+    "Pitch, loudness and perceived duration are the listener's experience; they can only be measured by asking the listener.",
+    {
+     "yazi": "Methods that measure the link between stimulus and sensation are called psychophysics; Gustav Fechner laid their foundations in 1860.",
+     "ses": "Methods that measure the link between stimulus and sensation are called psychophysics; Gustav Fechner laid their foundations in eighteen sixty."
+    },
+    "Many tests in audiology, pure tone audiometry for example, are in fact psychophysical measurements.",
+    "In this lesson we address two basic questions: when do we hear a sound, and when do we notice a difference between two sounds?"
+   ]
+  },
+  {
+   "id": "mutlak",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "What is psychoacoustics?",
+   "baslik": "Threshold is a *probability*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 20,
+     "adim": 5,
+     "ad": "Stimulus level (dB, relative)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Proportion heard (%)"
+    },
+    "seriler": [
+     {
+      "ad": "psikometrik",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.25,
+        0.1
+       ],
+       [
+        0.5,
+        0.1
+       ],
+       [
+        0.75,
+        0.1
+       ],
+       [
+        1.0,
+        0.1
+       ],
+       [
+        1.25,
+        0.1
+       ],
+       [
+        1.5,
+        0.1
+       ],
+       [
+        1.75,
+        0.2
+       ],
+       [
+        2.0,
+        0.2
+       ],
+       [
+        2.25,
+        0.3
+       ],
+       [
+        2.5,
+        0.3
+       ],
+       [
+        2.75,
+        0.4
+       ],
+       [
+        3.0,
+        0.5
+       ],
+       [
+        3.25,
+        0.6
+       ],
+       [
+        3.5,
+        0.7
+       ],
+       [
+        3.75,
+        0.8
+       ],
+       [
+        4.0,
+        1.0
+       ],
+       [
+        4.25,
+        1.2
+       ],
+       [
+        4.5,
+        1.4
+       ],
+       [
+        4.75,
+        1.7
+       ],
+       [
+        5.0,
+        2.1
+       ],
+       [
+        5.25,
+        2.5
+       ],
+       [
+        5.5,
+        3.0
+       ],
+       [
+        5.75,
+        3.7
+       ],
+       [
+        6.0,
+        4.4
+       ],
+       [
+        6.25,
+        5.3
+       ],
+       [
+        6.5,
+        6.3
+       ],
+       [
+        6.75,
+        7.6
+       ],
+       [
+        7.0,
+        9.0
+       ],
+       [
+        7.25,
+        10.8
+       ],
+       [
+        7.5,
+        12.8
+       ],
+       [
+        7.75,
+        15.0
+       ],
+       [
+        8.0,
+        17.7
+       ],
+       [
+        8.25,
+        20.6
+       ],
+       [
+        8.5,
+        24.0
+       ],
+       [
+        8.75,
+        27.7
+       ],
+       [
+        9.0,
+        31.7
+       ],
+       [
+        9.25,
+        36.0
+       ],
+       [
+        9.5,
+        40.5
+       ],
+       [
+        9.75,
+        45.2
+       ],
+       [
+        10.0,
+        50.0
+       ],
+       [
+        10.25,
+        54.8
+       ],
+       [
+        10.5,
+        59.5
+       ],
+       [
+        10.75,
+        64.0
+       ],
+       [
+        11.0,
+        68.3
+       ],
+       [
+        11.25,
+        72.3
+       ],
+       [
+        11.5,
+        76.0
+       ],
+       [
+        11.75,
+        79.4
+       ],
+       [
+        12.0,
+        82.3
+       ],
+       [
+        12.25,
+        85.0
+       ],
+       [
+        12.5,
+        87.2
+       ],
+       [
+        12.75,
+        89.2
+       ],
+       [
+        13.0,
+        91.0
+       ],
+       [
+        13.25,
+        92.4
+       ],
+       [
+        13.5,
+        93.7
+       ],
+       [
+        13.75,
+        94.7
+       ],
+       [
+        14.0,
+        95.6
+       ],
+       [
+        14.25,
+        96.3
+       ],
+       [
+        14.5,
+        97.0
+       ],
+       [
+        14.75,
+        97.5
+       ],
+       [
+        15.0,
+        97.9
+       ],
+       [
+        15.25,
+        98.3
+       ],
+       [
+        15.5,
+        98.6
+       ],
+       [
+        15.75,
+        98.8
+       ],
+       [
+        16.0,
+        99.0
+       ],
+       [
+        16.25,
+        99.2
+       ],
+       [
+        16.5,
+        99.3
+       ],
+       [
+        16.75,
+        99.4
+       ],
+       [
+        17.0,
+        99.5
+       ],
+       [
+        17.25,
+        99.6
+       ],
+       [
+        17.5,
+        99.7
+       ],
+       [
+        17.75,
+        99.7
+       ],
+       [
+        18.0,
+        99.8
+       ],
+       [
+        18.25,
+        99.8
+       ],
+       [
+        18.5,
+        99.9
+       ],
+       [
+        18.75,
+        99.9
+       ],
+       [
+        19.0,
+        99.9
+       ],
+       [
+        19.25,
+        99.9
+       ],
+       [
+        19.5,
+        99.9
+       ],
+       [
+        19.75,
+        99.9
+       ],
+       [
+        20.0,
+        100.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 10,
+      "y": 50,
+      "dus": "xy",
+      "dolu": true,
+      "etiket": "threshold: 50%",
+      "dx": 80,
+      "dy": 6,
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "belirsiz",
+      "x": [
+       7,
+       13
+      ],
+      "renk": "sari",
+      "etiket": "sometimes heard",
+      "cumle": 1,
+      "opak": 0.15
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "belirsiz",
+     "cumle": 1
+    },
+    {
+     "parca": "esik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The absolute threshold is the lowest level at which a sound can be detected in a quiet environment.",
+    "Threshold is not a sharp boundary; around threshold, a sound is sometimes heard and sometimes not.",
+    "The curve showing the proportion of correct detections as a function of level is called the psychometric function.",
+    "The curve is near zero at very low levels and near one hundred percent at high levels; in between, it rises in an S shape.",
+    "Threshold is usually defined as the fifty percent point of this curve.",
+    "In clinical audiometry, too, threshold is taken as the lowest level at which the sound is heard on at least half of the trials.",
+    "The listener's attention, the instructions and the response tendency also affect threshold, so the method matters."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What is psychoacoustics?",
+   "baslik": "*How* is threshold measured?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Method of limits",
+     "metin": "Step up, step down",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Method of adjustment",
+     "metin": "The listener adjusts",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Constant stimuli",
+     "metin": "Random order, many trials",
+     "cumle": 4
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Adaptive",
+     "metin": "Level follows responses",
+     "cumle": 5
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Forced choice",
+     "metin": "Which interval?",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Three classic psychophysical methods are used to measure threshold.",
+    "In the method of limits, the sound is raised or lowered step by step and the level where the response changes is recorded.",
+    "The Hughson-Westlake method used in the clinic is a modified form of the method of limits.",
+    "In the method of adjustment, the listener sets the sound to a just audible level; Békésy audiometry is based on this idea.",
+    "In the method of constant stimuli, a few levels are presented many times in random order; it is the most precise but the slowest.",
+    "Research today mostly uses adaptive methods, in which the level is raised or lowered automatically after each response.",
+    "In the forced choice technique, the listener chooses the interval that held the sound, which reduces the effect of response bias."
+   ]
+  },
+  {
+   "id": "maf_map",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The threshold curve",
+   "baslik": "Earphones or *sound field*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 50,
+     "adim": 10,
+     "ad": "Threshold (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "maf",
+      "noktalar": [
+       [
+        125,
+        22
+       ],
+       [
+        250,
+        11
+       ],
+       [
+        500,
+        4
+       ],
+       [
+        1000,
+        2
+       ],
+       [
+        2000,
+        -1
+       ],
+       [
+        3000,
+        -6
+       ],
+       [
+        4000,
+        -5
+       ],
+       [
+        6000,
+        4
+       ],
+       [
+        8000,
+        13
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 1,
+      "etiket": "MAF: sound field",
+      "etiket_konum": [
+       250,
+       11
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 26
+     },
+     {
+      "ad": "map",
+      "noktalar": [
+       [
+        125,
+        45
+       ],
+       [
+        250,
+        25.5
+       ],
+       [
+        500,
+        11.5
+       ],
+       [
+        1000,
+        7
+       ],
+       [
+        2000,
+        9
+       ],
+       [
+        3000,
+        10
+       ],
+       [
+        4000,
+        9.5
+       ],
+       [
+        6000,
+        15.5
+       ],
+       [
+        8000,
+        13
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 3,
+      "etiket": "MAP: earphones",
+      "etiket_konum": [
+       250,
+       25.5
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": -12
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "duyarli",
+      "x": [
+       2000,
+       5000
+      ],
+      "renk": "sari",
+      "etiket": "most sensitive region",
+      "cumle": 4,
+      "opak": 0.18
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "maf",
+     "cumle": 1
+    },
+    {
+     "parca": "map",
+     "cumle": 3
+    },
+    {
+     "parca": "duyarli",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The absolute threshold changes with frequency and is measured in two different ways; the values on the graph are approximate.",
+    "The minimum audible field, or MAF, is the threshold measured with both ears listening to a sound coming from the front.",
+    "The sound level is measured, with the listener absent, at the point corresponding to the center of the head.",
+    "The minimum audible pressure, or MAP, is measured in one ear with earphones and is given as the pressure in a coupler or the ear canal.",
+    "The two curves have a similar shape, but the MAF curve usually lies lower, and the difference varies with frequency.",
+    "Part of the difference comes from listening with two ears, and part from the head and outer ear boosting sound in the sound field.",
+    "The zero decibel HL line on the audiometer is based on average thresholds of this kind, specific to each earphone."
+   ]
+  },
+  {
+   "id": "egri_ders",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "The threshold curve",
+   "baslik": "*Lessons* from the threshold curve",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Most sensitive",
+     "metin": "About 2 to 5 kHz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Low frequencies",
+     "metin": "Threshold rises quickly",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Range of hearing",
+     "metin": "20 Hz to 20 kHz",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Upper limit",
+     "metin": "A range of about 120 dB",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The threshold curve teaches us several important lessons.",
+    "The ear is most sensitive between about two and five kilohertz; ear canal resonance contributes to this.",
+    "At low frequencies threshold rises quickly; below one hundred hertz, a much higher level is needed for a sound to be heard.",
+    "The lower limit of hearing is about twenty hertz, and the upper limit about twenty kilohertz in young people; it falls with age.",
+    "Above threshold, perception spans a range of about one hundred twenty decibels up to the threshold of pain.",
+    "This threshold curve is the lowest of the equal loudness contours that we will see in the next lesson."
+   ]
+  },
+  {
+   "id": "jnd",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The difference threshold",
+   "baslik": "The *just noticeable* difference",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Standard sound",
+     "metin": "Reference stimulus",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Comparison",
+     "metin": "A slightly different sound",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Decision",
+     "metin": "Different or not?",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Difference threshold",
+     "metin": "Difference at criterion accuracy",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The second basic question is this: when do we notice a difference between two sounds?",
+    "The smallest detectable difference between two stimuli is called the just noticeable difference, or JND.",
+    "It is also called the difference threshold and is measured separately for each dimension: intensity, frequency and duration.",
+    "In the measurement, the listener hears a standard sound and a comparison sound that differs from it slightly.",
+    "The difference the listener detects with a set accuracy, for example seventy five percent in a two choice task, is taken as threshold.",
+    "The smaller the difference threshold, the better the discrimination ability."
+   ]
+  },
+  {
+   "id": "tipik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The difference threshold",
+   "baslik": "Typical *difference thresholds*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Intensity",
+     "metin": "About 0.5 to 1 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frequency",
+     "metin": "A few Hz at 1 kHz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Duration",
+     "metin": "Grows with duration",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Practice",
+     "metin": "Makes thresholds smaller",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Some typical difference thresholds are known for young adults with normal hearing.",
+    "For intensity, the difference threshold at moderate levels is about half a decibel to one decibel.",
+    "For frequency, it is very small at mid frequencies: only a few hertz at one kilohertz, about two to three parts per thousand.",
+    "For duration, the difference threshold depends on the duration of the sound; the longer the sound, the larger the threshold.",
+    "These values also vary with the listener's experience; with practice, difference thresholds can become clearly smaller.",
+    "We will look at frequency discrimination in detail in the coming lessons, together with pitch perception."
+   ]
+  },
+  {
+   "id": "weber",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The difference threshold",
+   "baslik": "*Weber's* law",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Standard stimulus (relative)"
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "adim": 1,
+     "ad": "Difference threshold (relative)"
+    },
+    "seriler": [
+     {
+      "ad": "dogru",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        10,
+        2.5
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 1,
+      "etiket": "constant ratio: 0.25",
+      "etiket_konum": [
+       8,
+       2
+      ],
+      "etiket_dx": -20,
+      "etiket_dy": -20,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kucuk",
+      "x": 2,
+      "y": 0.5,
+      "dus": "xy",
+      "dolu": true,
+      "cumle": 3
+     },
+     {
+      "ad": "buyuk",
+      "x": 8,
+      "y": 2,
+      "dus": "xy",
+      "dolu": true,
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "dogru",
+     "cumle": 2
+    },
+    {
+     "parca": "buyuk",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In 1834, Ernst Heinrich Weber showed that the difference threshold is proportional to the size of the standard stimulus.",
+     "ses": "In eighteen thirty four, Ernst Heinrich Weber showed that the difference threshold is proportional to the size of the standard stimulus."
+    },
+    "This principle is called Weber's law: the ratio of the difference threshold to the standard stimulus is constant.",
+    "This constant ratio is called the Weber fraction.",
+    "For example, if adding fifty grams to a one kilogram weight is noticed, about one hundred grams are needed for a two kilogram weight.",
+    "If the Weber fraction for sound intensity is about zero point two five, an increase of twenty five percent in intensity is noticed.",
+    "This increase corresponds to about one decibel, because ten times the logarithm of one point two five is about one.",
+    "That is why we usually express the intensity difference threshold directly in decibels."
+   ]
+  },
+  {
+   "id": "yakin_iska",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The difference threshold",
+   "baslik": "The *near miss* to Weber's law",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 90,
+     "adim": 10,
+     "ad": "Sensation level (dB SL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 2,
+     "isaretler": [
+      0,
+      0.5,
+      1,
+      1.5,
+      2
+     ],
+     "ond": 1,
+     "ad": "Intensity difference threshold (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        20,
+        0.75
+       ],
+       [
+        30,
+        0.65
+       ],
+       [
+        40,
+        0.6
+       ],
+       [
+        50,
+        0.6
+       ],
+       [
+        60,
+        0.6
+       ],
+       [
+        70,
+        0.6
+       ],
+       [
+        80,
+        0.6
+       ],
+       [
+        90,
+        0.6
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "kalin": 4,
+      "cumle": 1,
+      "etiket": "broadband noise",
+      "etiket_konum": [
+       90,
+       0.6
+      ],
+      "etiket_dx": -6,
+      "etiket_dy": 26,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "ton",
+      "noktalar": [
+       [
+        10,
+        1.6
+       ],
+       [
+        20,
+        1.25
+       ],
+       [
+        30,
+        1.05
+       ],
+       [
+        40,
+        0.9
+       ],
+       [
+        50,
+        0.8
+       ],
+       [
+        60,
+        0.7
+       ],
+       [
+        70,
+        0.6
+       ],
+       [
+        80,
+        0.5
+       ],
+       [
+        90,
+        0.45
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 2,
+      "etiket": "pure tone",
+      "etiket_konum": [
+       10,
+       1.6
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": -8
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    },
+    {
+     "parca": "ton",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Weber's law does not always hold exactly for sound.",
+    "For broadband noise, the intensity difference threshold is nearly constant at moderate and high levels, so Weber's law works well.",
+    "For pure tones, it gets somewhat smaller as level rises: larger near threshold, smaller at high levels.",
+    "This small deviation is called the near miss to Weber's law.",
+    "The curves on the graph are representative; the values vary with the method and the listener.",
+    "In practice, a normal ear can detect an intensity difference of about one decibel at moderate levels."
+   ]
+  },
+  {
+   "id": "sisi",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "In the clinic",
+   "baslik": "Difference threshold in the clinic: *SISI*",
+   "maddeler": [
+    {
+     "metin": "_1 dB_ increments in a steady tone",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_20 dB_ above threshold",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_High_ scores in cochlear loss",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Not used _on its own_ today",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "giris_cikis",
+    "cumle": 4,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "saglikli",
+       "cumle": 4
+      },
+      {
+       "tip": "hasarli",
+       "cumle": 4
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "The concept of the difference threshold also appears in the clinic.",
+    "The short increment sensitivity index, or SISI test, relies on detecting brief one decibel increments added to a steady tone.",
+    "The test is usually done twenty decibels above threshold; in a normal ear, these small increments are mostly not noticed.",
+    "In ears with cochlear loss, the increments are noticed more often at the same sensation level, and high scores can be obtained.",
+    "This finding is linked to the rapid growth of loudness above threshold, known as recruitment.",
+    "Today SISI is not used on its own for site of lesion testing, but it is one of the first clinical uses of psychophysical principles."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "In the clinic",
+   "baslik": "Reading the audiogram through *psychophysics*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Test-retest difference",
+     "metin": "About 5 dB is common",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "5 dB steps",
+     "metin": "Speed and precision",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "2 dB steps",
+     "metin": "When finer measurement is needed",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Response tendency",
+     "metin": "Cautious or hasty",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Basic conditions",
+     "metin": "Instructions, quiet, presentation",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Knowing psychophysics also helps us interpret the audiogram correctly.",
+    "Because threshold is not a sharp line, a difference of about five decibels between repeated measurements in the same person is common.",
+    "Audiometry uses five decibel steps; this is a compromise between speed and precision.",
+    "In tests that need finer measurement, such as the dead region test, two decibel steps are preferred.",
+    "The patient's response tendency can shift threshold; a cautious patient may respond late, and a hasty one early.",
+    "So clear instructions, a quiet room and a suitable presentation pattern are the basis of a reliable threshold."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If a patient responds when there is no tone, add silent trials and do not present tones in a regular rhythm. Retest borderline thresholds.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from the clinic: remember that threshold is a point on a probability curve.",
+    "If the patient responds even when there is no sound, check the response tendency by inserting silent trials.",
+    "Do not present tones in a regular rhythm; this keeps the patient from guessing based on the rhythm.",
+    "For borderline thresholds, repeating the measurement is more reliable than relying on a single response."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Threshold: the _50%_ point of the curve",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "MAF in sound field, MAP with _earphones_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "JND: the _smallest_ detectable difference",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Weber: threshold grows _proportionally_",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "The absolute threshold is not a sharp boundary; it is usually the fifty percent point of the psychometric function.",
+    "MAF is measured in the sound field with both ears and MAP with earphones; the ear is most sensitive from two to five kilohertz.",
+    "The just noticeable difference is the smallest detectable difference between two stimuli and is measured for each dimension.",
+    "According to Weber's law, the difference threshold is proportional to the standard; for intensity, it is about one decibel."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "If the Weber fraction is 0.25, what is the threshold in dB?",
+   "secenekler": [
+    "0.25 dB",
+    "About 1 dB",
+    "2.5 dB",
+    "25 dB"
+   ],
+   "dogru": 1,
+   "aciklama": "10 x log(1.25) is _about 1 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: if the Weber fraction for intensity is zero point two five, what is the difference threshold in decibels?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: about one decibel.",
+    "A twenty five percent increase in intensity equals ten times the logarithm of one point two five, an increase of about one decibel."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Loudness Perception: *Phons* and Sones",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move above threshold and learn about loudness perception and the units phon and sone.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,756 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D110_Acoustic_Reflex_Decay_EN",
+ "kapak": {
+  "ust": "LESSON 110",
+  "baslik": "Reflex<br>*decay*",
+  "alt": "The decay test: what happens in ten seconds?",
+  "cizim": "akustik_refleks_arki"
+ },
+ "youtube": {
+  "baslik": "The Acoustic Reflex Decay Test | Lesson 110 | AIHEAR Audiology Academy",
+  "aciklama": "The acoustic reflex decay test measures whether the reflex is maintained during a 10 second continuous tone presented 10 dB above the reflex threshold. In this lesson we use an example to look at how the test is done, the half-life, what a positive result means and how it relates to retrocochlear pathology.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Anderson H, Barr B, Wedenberg E (1970), Early diagnosis of VIIIth-nerve tumours by acoustic reflex tests, Acta Oto-Laryngologica; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hunter LL, Shahnaz N, Acoustic Immittance Measures: Basic and Advanced Practice; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acousticreflex",
+   "immittance"
+  ],
+  "etiketler": [
+   "acoustic reflex decay",
+   "reflex decay test",
+   "acoustic reflex",
+   "half-life",
+   "retrocochlear pathology",
+   "vestibular schwannoma",
+   "immittance audiometry",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 110",
+   "baslik": "The Acoustic Reflex *Decay* Test",
+   "alt": "The decay test: what happens in ten seconds?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we will learn the reflex decay test, which measures how well the acoustic reflex is maintained during a sustained stimulus.",
+    "We will talk about how the test is done, how the result is read, and how it relates to retrocochlear pathology."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Basics",
+   "baslik": "What is reflex *decay?*",
+   "maddeler": [
+    {
+     "metin": "Does the reflex fade with _sustained_ sound?",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Normal: _maintained_ for 10 seconds",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Nerve problem: _fades quickly_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Aimed at _retrocochlear_ pathology",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "DECAY",
+    "metin": "The reflex fading *over time* with sustained sound",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Acoustic reflex decay is the decrease in reflex amplitude over time while a sustained stimulus is presented.",
+    "In a normal ear, with a sustained tone a little above the reflex threshold, stapedius contraction is largely maintained for ten seconds.",
+    "If there is a problem in the auditory nerve, its fibers cannot keep responding to the sustained stimulus, and the reflex fades quickly.",
+    "The test measures this difference; in other words, it tests how well the auditory nerve withstands sustained stimulation.",
+    "Together with reflex thresholds and patterns, it is a test in the immittance battery aimed at retrocochlear pathology.",
+    {
+     "yazi": "The test became widely used in the clinic through the work of the Swedish researchers Anderson, Barr and Wedenberg."
+    }
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Procedure",
+   "baslik": "Test *steps*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Reflex threshold",
+     "metin": "Found first",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Threshold plus 10",
+     "metin": "Continuous pure tone",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "10 seconds",
+     "metin": "Without interruption",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Amplitude tracked",
+     "metin": "Against the start",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Record",
+     "metin": "Percent and time",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "First, the acoustic reflex threshold is found at the test frequency.",
+    "The test is usually done at five hundred and one thousand hertz.",
+    "The stimulus is a continuous pure tone presented ten decibels above the reflex threshold.",
+    "The tone lasts ten seconds without interruption, and the change in admittance is recorded during this time.",
+    "The largest initial reflex amplitude is taken as the reference, and its change over the ten seconds is followed.",
+    "The stimulus is often presented contralaterally, that is, to the ear opposite the probe.",
+    "The result is recorded as the percentage drop in amplitude and, if needed, the time taken to fall to half."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Procedure",
+   "baslik": "Why *500 and 1000 Hz?*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "500, 1000 Hz",
+     "metin": "Reflex normally maintained",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "2000, 4000 Hz",
+     "metin": "Fades even in normal ears",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Discomfort",
+     "metin": "Long, loud stimulus",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Safety",
+     "metin": "Do not exceed the level limit",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "At low frequencies, the reflex in a normal ear is clearly maintained for ten seconds.",
+    "At two thousand and four thousand hertz, however, the reflex can fade quickly even in people with normal hearing.",
+    "This is why decay at high frequencies is not considered meaningful, and the test is limited to low frequencies.",
+    "Because the test needs a loud tone lasting ten seconds, it can be uncomfortable for the patient.",
+    "If the reflex threshold is already high, threshold plus ten decibels may exceed the safe limit; in that case, the test may not be done.",
+    "In patients with tinnitus or sound sensitivity, the need for the test is considered beforehand."
+   ]
+  },
+  {
+   "id": "egri",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation",
+   "baslik": "Normal and *positive* results",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Time (seconds)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Reflex amplitude (percent)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.3,
+        100
+       ],
+       [
+        1,
+        99
+       ],
+       [
+        2,
+        98
+       ],
+       [
+        4,
+        96
+       ],
+       [
+        6,
+        94
+       ],
+       [
+        8,
+        92
+       ],
+       [
+        10,
+        90
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "etiket": "normal",
+      "etiket_konum": [
+       7,
+       97
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "pozitif",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.3,
+        100
+       ],
+       [
+        1,
+        90
+       ],
+       [
+        2,
+        75
+       ],
+       [
+        3,
+        61
+       ],
+       [
+        4,
+        50
+       ],
+       [
+        5,
+        42
+       ],
+       [
+        6,
+        35
+       ],
+       [
+        8,
+        25
+       ],
+       [
+        10,
+        18
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "positive decay",
+      "etiket_konum": [
+       6.5,
+       28
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yari_alti",
+      "y": [
+       0,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "below half",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yari",
+      "x": 4,
+      "y": 50,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "about 4 s",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: amplitude maintained",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Positive: below half within 10 s",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Half-life",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "On the screen, we see reflex amplitude over time; the largest initial amplitude is taken as one hundred percent.",
+    "The blue curve shows a normal ear; the amplitude stays high for ten seconds.",
+    "By the common criterion, the test is positive if the amplitude falls below half of its initial value within ten seconds.",
+    "On the red curve, however, the amplitude drops quickly within a few seconds.",
+    "The time it takes for the amplitude to fall to half is called the half-life; in this example, it is about four seconds.",
+    "Some sources also treat a half-life shorter than five seconds as a more marked finding.",
+    "Because criteria differ slightly between sources, state your clinic's criterion in the report."
+   ]
+  },
+  {
+   "id": "retro",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Interpretation",
+   "baslik": "Link to retrocochlear *pathology*",
+   "maddeler": [
+    {
+     "metin": "Positive: _nerve or brainstem_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Example: _vestibular schwannoma_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Cochlear loss: _usually absent_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "A negative result _does not rule out_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "isitme_siniri",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 0
+     },
+     {
+      "parca": "ic_kulak_yolu",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "isitme_siniri",
+      "metin": "CN VIII",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Positive reflex decay suggests retrocochlear pathology, that is, a problem of the auditory nerve or the brainstem.",
+    "The classic example is a vestibular schwannoma pressing on the auditory nerve in the internal auditory canal.",
+    "In cochlear hearing losses, clear decay is usually not seen at five hundred and one thousand hertz.",
+    "This is why a decay finding helps to tell cochlear and retrocochlear problems apart.",
+    "Later studies, however, showed that in ears with tumors the reflex is often completely absent, rather than showing decay.",
+    "So the decay test can only be done if the reflex can be measured; without a reflex, decay cannot be assessed.",
+    "A positive result calls for further assessment, while a negative result does not rule out a retrocochlear problem."
+   ]
+  },
+  {
+   "id": "taraf",
+   "tur": "karsilastir",
+   "bolum_no": "PART 4",
+   "bolum": "Practical points",
+   "baslik": "*Stimulus* ear, probe ear",
+   "sol": {
+    "ust": "Stimulus ear",
+    "maddeler": [
+     {
+      "metin": "The tested nerve is here",
+      "cumle": 0
+     },
+     {
+      "metin": "Decay belongs to this side",
+      "cumle": 1
+     },
+     {
+      "metin": "State it clearly in the report",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Probe ear",
+    "maddeler": [
+     {
+      "metin": "The middle ear must be intact",
+      "cumle": 3
+     },
+     {
+      "metin": "Set to peak pressure",
+      "cumle": 4
+     },
+     {
+      "metin": "A leak causes a false drop",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "In the decay test, the auditory nerve being assessed is the nerve of the ear that receives the stimulus.",
+    "Even though the contralateral reflex is measured in the opposite ear, the decay finding belongs to the stimulus ear.",
+    "The report should clearly state which ear received the stimulus and which ear held the probe.",
+    "The middle ear of the probe ear must allow the measurement; if there is a conductive problem there, the reflex is absent anyway.",
+    "Ear canal pressure is set to the tympanometric peak pressure of the probe ear.",
+    "A probe leak or patient movement can cause an amplitude drop that is not real."
+   ]
+  },
+  {
+   "id": "yaniltici",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Practical points",
+   "baslik": "Misleading *situations*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Movement, swallowing",
+     "metin": "Irregular deflections",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Probe leak",
+     "metin": "Baseline drifts",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Short stimulus",
+     "metin": "Must complete 10 seconds",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Low level",
+     "metin": "Too close to threshold",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Patient movement, swallowing or talking create irregular deflections in the recording and can change the amplitude.",
+    "If the probe leaks slowly, the baseline drifts and the reflex seems to be fading.",
+    "If the tone stops before the full ten seconds, the result cannot be interpreted.",
+    "If the stimulus is too close to the reflex threshold, amplitude can fluctuate even in a normal ear; so threshold plus ten decibels is used.",
+    "With a doubtful result, the probe is reinserted and the test is repeated once more.",
+    "True decay is seen in a similar way on the repeat measurement."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "odyogram",
+   "bolum_no": "PART 5",
+   "bolum": "Example",
+   "baslik": "Example: *asymmetric* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: normal hearing",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: mild to moderate, sloping",
+     "cumle": 0
+    },
+    {
+     "isaret": "A",
+     "renk": "yesil",
+     "metin": "Tympanogram: _type A in both ears_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       20,
+       25,
+       35,
+       45,
+       50
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Let us look at an example: the left ear has a mild to moderate sensorineural hearing loss, more marked at high frequencies.",
+    "Both tympanograms are type A, and reflex thresholds can be measured.",
+    "A continuous tone is presented to the left ear at one thousand hertz, ten decibels above the reflex threshold.",
+    "The reflex amplitude falls below half within four seconds; the decay test is positive.",
+    "With the stimulus in the right ear, however, the amplitude is maintained for ten seconds.",
+    "Together with the asymmetric loss, this finding calls for referral for further assessment; the example is for teaching."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "tablo",
+   "bolum_no": "PART 5",
+   "bolum": "Example",
+   "baslik": "Sample *record*",
+   "sutunlar": [
+    "Frequency",
+    "Stimulus ear",
+    "Reflex threshold",
+    "Decay"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "Right",
+      "85 dB HL",
+      "Negative"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "Right",
+      "90 dB HL",
+      "Negative"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "Left",
+      "90 dB HL",
+      "Negative"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "Left",
+      "95 dB HL",
+      "Positive, 4 s"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "The results of the sample case can be shown in the report with a table like this.",
+    "With the stimulus in the right ear, no decay was seen at either frequency.",
+    "In the left ear, there is no decay at five hundred hertz either.",
+    "At one thousand hertz, however, the amplitude fell to half in four seconds, so the half-life was also written down.",
+    "The stimulus level, the probe ear and the criterion used are also noted below the table."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Interpret decay only at 500 and 1000 Hz. At high frequencies the reflex can fade in normal ears too; keep the stimulus level within the safe limit.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: interpret decay only at five hundred and one thousand hertz.",
+    "At two thousand and four thousand hertz, the reflex can fade in normal ears too; such a finding would be a false alarm.",
+    "Keep the stimulus level within the safe limit, and tell the patient beforehand that they will hear a ten second sound.",
+    "A prepared patient moves less, which improves the quality of the recording."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Example",
+   "baslik": "Its place in the *battery*",
+   "maddeler": [
+    {
+     "metin": "Asymmetry and a _low speech score_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Rollover_ on the PI function",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Definitive assessment: _imaging_",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "The task: _correct referral_",
+     "cumle": 5,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "BATTERY",
+    "metin": "Not one test, but a *combination* of findings",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Reflex decay is not a diagnostic test on its own; it is part of the battery.",
+    "It is read together with findings such as asymmetric hearing loss, a disproportionately low word score and unilateral tinnitus.",
+    "Rollover on the performance intensity function can also support a similar retrocochlear suspicion.",
+    "When a retrocochlear problem is suspected, the main investigation today is magnetic resonance imaging.",
+    "The auditory brainstem response also gives added information about neural conduction; we will see this in later lessons.",
+    "The task of audiological tests is to help select correctly the patients who need further investigation."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Threshold _plus 10 dB_, 10 seconds",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Only _500 and 1000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Below half_ within 10 s: positive",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Positive: _retrocochlear_ suspicion",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "The test uses a ten second continuous tone presented ten decibels above the reflex threshold.",
+    "Only five hundred and one thousand hertz are interpreted; at high frequencies, decay can occur in normal ears too.",
+    "A drop in amplitude below half of its initial value within ten seconds is a positive result.",
+    "A positive result suggests retrocochlear pathology; a negative result does not rule it out."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "At 1000 Hz, with a threshold plus 10 dB tone, amplitude halved in 3 seconds. Result?",
+   "secenekler": [
+    "Normal",
+    "Positive decay",
+    "Invalid test",
+    "Evidence of cochlear loss"
+   ],
+   "dogru": 1,
+   "aciklama": "The test is positive because the amplitude fell _below half_ within ten seconds.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: At one thousand hertz, with a tone ten decibels above the reflex threshold, amplitude halved in three seconds. The result?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: positive reflex decay.",
+    "The amplitude fell below half of its initial value within ten seconds, so the test is positive and calls for retrocochlear attention."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Multifrequency* Tympanometry and Resonant Frequency",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will look at multifrequency tympanometry and the resonant frequency of the middle ear.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R127_Formants_Separate_Vowels_EN",
+ "kapak": {
+  "ust": "QUICK FACT #127",
+  "baslik": "Formants *separate vowels*",
+  "alt": "High-frequency loss can blur front vowels",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why can someone who hears vowels still confuse them? #shorts",
+  "aciklama": "Most vowel energy lies below 1000 Hz, so even people with high-frequency hearing loss usually hear vowels well. But telling vowels apart also needs the second formant, which rises above 2000 Hz in front vowels such as ee.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "speech",
+   "hearing"
+  ],
+  "etiketler": [
+   "formant",
+   "vowels",
+   "spectrogram",
+   "high-frequency hearing loss",
+   "speech acoustics",
+   "speech understanding",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why can someone who hears vowels still confuse them?",
+  "bilgiler": [
+   "Most vowel energy lies below 1000 Hz.",
+   "Telling vowels apart also needs the second formant.",
+   "With mid and high-frequency loss, similar front vowels can be confused."
+  ],
+  "hashtag": [
+   "audiology",
+   "speech",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #127",
+   "metin": "Hearing vowels, yet *confusing them?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why can someone who hears vowels still confuse them?"
+   ]
+  },
+  {
+   "id": "formant",
+   "tur": "zincir",
+   "baslik": "The *formant* behind each vowel",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Vowels",
+     "tr": "energy below 1000 Hz",
+     "cumle": 0
+    },
+    {
+     "ad": "2nd formant",
+     "tr": "above 2000 Hz in ee",
+     "cumle": 3
+    },
+    {
+     "ad": "Front vowels",
+     "tr": "may be confused",
+     "cumle": 4
+    }
+   ],
+   "alt": "Telling vowels apart needs the _second formant_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Most vowel energy lies below one thousand hertz.",
+    "So even people with high-frequency loss usually hear vowels well.",
+    "But telling vowels apart also needs the second formant.",
+    "In front vowels such as ee, it rises above two thousand hertz.",
+    "With mid and high-frequency loss, similar front vowels may be confused."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D042",
+ "kaynak_baslik": "How to Read a Spectrogram: Acoustics of Speech"
+}

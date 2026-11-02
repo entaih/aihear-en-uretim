@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R107_Reflex_Too_Slow_EN",
+ "kapak": {
+  "ust": "QUICK FACT #107",
+  "baslik": "The reflex *lags behind*",
+  "alt": "The acoustic reflex and sudden blasts",
+  "cizim": "orta_kulak",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can your ear's protective reflex beat a gunshot? #shorts",
+  "aciklama": "A loud sound makes the stapedius muscle contract in both ears, giving the inner ear some protection against strong, long-lasting low-frequency sounds. But the reflex works with a delay, so it cannot catch the first instant of a sudden blast like a gunshot.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ear",
+   "hearinghealth"
+  ],
+  "etiketler": [
+   "acoustic reflex",
+   "stapedius",
+   "middle ear muscles",
+   "noise",
+   "gunshot",
+   "inner ear",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can your ear's protective reflex beat a gunshot?",
+  "bilgiler": [
+   "A loud sound contracts the stapedius muscle in both ears.",
+   "This partly protects the inner ear from strong, long low-frequency sounds.",
+   "The reflex has a delay; it misses the first instant of a blast."
+  ],
+  "hashtag": [
+   "audiology",
+   "ear",
+   "hearinghealth"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #107",
+   "metin": "Can the reflex *beat a gunshot?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can your ear's protective reflex beat a gunshot?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "The *acoustic reflex*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Sound",
+     "tr": "high level",
+     "cumle": 0
+    },
+    {
+     "ad": "Stapedius",
+     "tr": "contracts",
+     "cumle": 0,
+     "gecikme": 1.4
+    },
+    {
+     "ad": "Low tones",
+     "tr": "reduced",
+     "cumle": 1
+    }
+   ],
+   "alt": "It misses the _first instant_ of a blast.",
+   "alt_cumle": 3,
+   "cumleler": [
+    "A loud sound makes the stapedius muscle contract in both ears.",
+    "This partly protects the inner ear from strong, long low-frequency sounds.",
+    "But the reflex works with a delay.",
+    "It cannot catch the first instant of a sudden blast like gunfire."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D021",
+ "kaynak_baslik": "Middle Ear Muscles: Stapedius and Tensor Tympani"
+}

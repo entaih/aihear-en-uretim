@@ -1,0 +1,134 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R002_Three_Questions_Audiogram_EN",
+ "kapak": {
+  "ust": "QUICK FACT #2",
+  "baslik": "An audiogram's *three questions*",
+  "alt": "Degree, type and configuration",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      50,
+      55
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Which three questions does an audiogram answer? #shorts",
+  "aciklama": "When reading an audiogram, we ask three questions for each ear: the degree, type and configuration of the loss. Then the two ears are compared.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "hearing"
+  ],
+  "etiketler": [
+   "audiogram",
+   "how to read an audiogram",
+   "degree of hearing loss",
+   "type of hearing loss",
+   "configuration",
+   "audiology",
+   "hearing test",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Which three questions do we ask when reading an audiogram?",
+  "bilgiler": [
+   "Degree: how large is the loss?",
+   "Type: which part of the ear causes the loss?",
+   "Configuration: what shape does the loss draw across frequencies?"
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #2",
+   "metin": "Reading an audiogram: which *three questions?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Which three questions do we ask when reading an audiogram?"
+   ]
+  },
+  {
+   "id": "sorular",
+   "tur": "zincir",
+   "baslik": "*Three questions* for each ear",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Degree",
+     "cumle": 0,
+     "tr": "how much?"
+    },
+    {
+     "ad": "Type",
+     "cumle": 1,
+     "tr": "where?"
+    },
+    {
+     "ad": "Shape",
+     "cumle": 2,
+     "tr": "configuration"
+    }
+   ],
+   "alt": "Each ear first, then _both ears_ together",
+   "alt_cumle": 3,
+   "cumleler": [
+    "First, degree: how large is the loss?",
+    "Second, type: which part of the ear causes it?",
+    "Third, configuration: what shape does it draw across frequencies?",
+    "Each ear is answered separately, then the two are compared."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D001",
+ "kaynak_baslik": "What Is an Audiogram and How Do You Read It?"
+}

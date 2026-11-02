@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R178_False_Air_Bone_Gap_EN",
+ "kapak": {
+  "ust": "QUICK FACT #178",
+  "baslik": "A false *air-bone gap*",
+  "alt": "Masking for bone conduction",
+  "cizim": "maskeleme",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Is the air-bone gap on an audiogram always real? #shorts",
+  "aciklama": "For bone conduction, interaural attenuation is about zero, so an unmasked bone threshold may come from the better cochlea. A sensorineural loss can then look like a conductive loss with a false air-bone gap; bone conduction is masked when the test ear shows a gap larger than 10 dB.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "masking"
+  ],
+  "etiketler": [
+   "bone conduction masking",
+   "air-bone gap",
+   "clinical masking",
+   "bone conduction",
+   "audiogram",
+   "sensorineural hearing loss",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Is the air-bone gap on an audiogram always real?",
+  "bilgiler": [
+   "An unmasked bone threshold may come from the better cochlea.",
+   "A sensorineural loss can then look like a conductive loss.",
+   "Bone conduction is masked when the test ear gap exceeds 10 dB."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "masking"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #178",
+   "metin": "Is an air-bone gap always *real?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Is the air-bone gap on an audiogram always real?"
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "zincir",
+   "baslik": "Unmasked bone can *mislead*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Vibrator",
+     "tr": "both cochleae",
+     "cumle": 0
+    },
+    {
+     "ad": "Unmasked",
+     "tr": "better cochlea",
+     "cumle": 1
+    },
+    {
+     "ad": "Masked",
+     "tr": "true threshold",
+     "cumle": 3
+    }
+   ],
+   "alt": "Rule: gap _larger than 10 dB_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "A bone vibrator stimulates both cochleae almost equally.",
+    "An unmasked threshold may come from the better cochlea.",
+    "A sensorineural loss can then look like a conductive one.",
+    "Mask the other ear, and bone thresholds may rise; the gap closes.",
+    "So the test ear needs masking when the gap exceeds ten decibels."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D089",
+ "kaynak_baslik": "When Is Bone-Conduction Masking Needed?"
+}

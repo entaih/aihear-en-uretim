@@ -1,0 +1,103 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R208_Early_Warning_EN",
+ "kapak": {
+  "ust": "QUICK FACT #208",
+  "baslik": "A warning *before symptoms*",
+  "alt": "DPOAE in ototoxicity monitoring",
+  "cizim": "corti",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can a drug's harm to the ear show before the patient notices? #shorts",
+  "aciklama": "Some chemotherapy drugs such as cisplatin and aminoglycoside antibiotics can harm the ear, usually affecting high frequencies first. A baseline measurement is taken before treatment; a drop in DPOAE can appear before the patient reports a complaint and sometimes before the audiogram changes.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "OAE",
+   "ototoxicity"
+  ],
+  "etiketler": [
+   "ototoxicity",
+   "DPOAE",
+   "otoacoustic emissions",
+   "cisplatin",
+   "aminoglycosides",
+   "DP-gram",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can a drug's harm to the ear show before the patient notices?",
+  "bilgiler": [
+   "Some drugs can harm the ear, high frequencies first.",
+   "A baseline is measured before treatment begins.",
+   "A DPOAE drop can appear before the audiogram changes."
+  ],
+  "hashtag": [
+   "audiology",
+   "OAE",
+   "ototoxicity"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #208",
+   "metin": "Can drug harm show *early?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can a drug's harm to the ear show before the patient notices?"
+   ]
+  },
+  {
+   "id": "ototoks",
+   "tur": "zincir",
+   "baslik": "Ototoxicity *monitoring*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Baseline",
+     "tr": "before treatment",
+     "cumle": 1
+    },
+    {
+     "ad": "Follow-up",
+     "tr": "high-pitch drop",
+     "cumle": 2
+    },
+    {
+     "ad": "Warning",
+     "tr": "before symptoms",
+     "cumle": 3
+    }
+   ],
+   "alt": "Change can show _before the audiogram_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Some chemotherapy drugs and aminoglycoside antibiotics can harm the ear.",
+    "A baseline measurement is taken before treatment begins.",
+    "In distortion product otoacoustic emissions, or DPOAE, high-frequency responses may drop.",
+    "This can appear before complaints, sometimes before the audiogram changes."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D124",
+ "kaynak_baslik": "OAE in the Clinic: Uses and Pitfalls"
+}

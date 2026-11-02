@@ -1,0 +1,868 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D137_Asymmetric_Loss_Vestibular_Schwannoma_EN",
+ "kapak": {
+  "ust": "LESSON 137",
+  "baslik": "Asymmetry and<br>*schwannoma*",
+  "alt": "Referral in asymmetric loss",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      20,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      30,
+      45,
+      55,
+      60
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Asymmetric Hearing Loss and Vestibular Schwannoma | Lesson 137 | AIHEAR Audiology Academy",
+  "aciklama": "We explain the criteria for asymmetric sensorineural hearing loss, the symptoms and audiological profile of vestibular schwannoma, and how the audiologist confirms findings and refers to a physician. With examples, we cover the balance between sensitivity and specificity in asymmetry criteria, the roles of MRI and ABR, and counseling language.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Saliba et al. (2009), Rule 3000 study in asymmetric sensorineural hearing loss; AAO-HNSF, Clinical Practice Guideline: Sudden Hearing Loss (Update), 2019.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "schwannoma",
+   "hearing"
+  ],
+  "etiketler": [
+   "asymmetric hearing loss",
+   "asymmetric sensorineural hearing loss",
+   "vestibular schwannoma",
+   "acoustic neuroma",
+   "cerebellopontine angle",
+   "Rule 3000",
+   "MRI",
+   "retrocochlear",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 137",
+   "baslik": "Asymmetry and *schwannoma*",
+   "alt": "The audiologist's approach to asymmetric loss",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    {
+     "yazi": "In this lesson we will learn about asymmetric sensorineural loss and the audiologist's approach when vestibular schwannoma is suspected."
+    },
+    "Step by step, we will look at asymmetry criteria, accompanying red flags and the referral process."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "odyogram",
+   "bolum_no": "PART 1",
+   "bolum": "Asymmetry",
+   "baslik": "Asymmetric *sensorineural* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Right air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Left air conduction",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "Left bone, masked",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_30 dB_ difference at 4000 Hz",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       20,
+       25,
+       30
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       15,
+       20,
+       30,
+       45,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "aralik": {
+     "konum": [
+      4,
+      25,
+      55
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Asymmetric sensorineural hearing loss is a loss with a clear threshold difference between the two ears."
+    },
+    "In this example, the right ear shows a mild high-frequency drop that could be considered consistent with age.",
+    {
+     "yazi": "In the left ear, there is a loss that increases clearly above 1000 Hz; bone conduction overlaps with air conduction.",
+     "ses": "In the left ear, there is a loss that increases clearly above one thousand hertz; bone conduction overlaps with air conduction."
+    },
+    {
+     "yazi": "At 4000 Hz, the difference between the ears is 30 decibels; at 2000 and 8000 Hz, it is also 20 decibels or more.",
+     "ses": "At four thousand hertz, the difference between the ears is thirty decibels; at two thousand and eight thousand hertz, it is also twenty decibels or more."
+    },
+    "Age-related loss and most noise-induced loss are usually similar in both ears, that is, symmetric.",
+    "So an unexplained asymmetry is a finding whose cause needs to be investigated.",
+    "When asymmetry is found, the first question is whether a known cause can explain the difference."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "PART 1",
+   "bolum": "Asymmetry",
+   "baslik": "Asymmetry *criteria*",
+   "sutunlar": [
+    "Example criterion",
+    "Threshold difference",
+    "Note"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Two adjacent frequencies",
+      "15 dB or more",
+      "Widely used"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Rule 3000",
+      "15 dB, 3000 Hz",
+      "Saliba, 2009"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Single frequency",
+      "20 dB or more",
+      "Some protocols"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "There is no single universal criterion for how large an asymmetry must be to count as significant.",
+    {
+     "yazi": "One widely used approach treats a difference of 15 decibels or more at two adjacent frequencies as significant.",
+     "ses": "One widely used approach treats a difference of fifteen decibels or more at two adjacent frequencies as significant."
+    },
+    {
+     "yazi": "The criterion known as Rule 3000 looks only at a difference of 15 decibels or more at 3000 Hz.",
+     "ses": "The criterion known as Rule three thousand looks only at a difference of fifteen decibels or more at three thousand hertz."
+    },
+    {
+     "yazi": "Some protocols consider a difference of 20 decibels or more at a single frequency to be enough.",
+     "ses": "Some protocols consider a difference of twenty decibels or more at a single frequency to be enough."
+    },
+    "Because the criteria differ, the same audiogram may count as significant in one protocol and borderline in another.",
+    "Each institution sets its own protocol; the audiologist should know the center's criterion and state in the report which one was used."
+   ]
+  },
+  {
+   "id": "denge",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Asymmetry",
+   "baslik": "Sensitivity and *specificity*",
+   "maddeler": [
+    {
+     "metin": "Loose criterion: _more_ MRI scans",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Strict criterion: tumors _may be missed_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tumor in _a small share_ of scans",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tinnitus or imbalance _raises the odds_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "BALANCE",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "tarama",
+      "baslik": "Sensitivity",
+      "metin": "Not missing a tumor",
+      "cumle": 0
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Specificity",
+      "metin": "Avoiding needless tests",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "With a loose criterion, most tumors are caught, but many people are sent for imaging unnecessarily.",
+    "With a strict criterion, needless testing decreases, but the chance of missing some tumors increases.",
+    "Magnetic resonance imaging, or MRI, is the most common imaging method.",
+    {
+     "yazi": "In most studies, only a small share of people scanned for asymmetric loss, about 1 to 3 percent, have a tumor.",
+     "ses": "In most studies, only a small share of people scanned for asymmetric loss, about one to three percent, have a tumor."
+    },
+    "This low rate explains why the criteria are debated; but the cost of missing a tumor is also high.",
+    "The chance of a significant finding has been reported to rise when the asymmetry comes with unilateral tinnitus or dizziness."
+   ]
+  },
+  {
+   "id": "konusma_asim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Asymmetry",
+   "baslik": "Asymmetry in *speech*",
+   "maddeler": [
+    {
+     "metin": "Word scores compared _between ears_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Test_ at similar sensation levels",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Clear score difference: _extra red flag_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Caution if score gap _exceeds_ threshold gap",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 2,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 2.6,
+      "ad": "Ear",
+      "isaretler": [
+       1,
+       2
+      ],
+      "yazilar": {
+       "1": "Right",
+       "2": "Left"
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 100,
+      "adim": 20,
+      "ad": "Word score (%)"
+     },
+     "seriler": [
+      {
+       "ad": "skor",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         92
+        ],
+        [
+         2,
+         60
+        ]
+       ],
+       "renk": "mavi",
+       "genislik": 0.5,
+       "cumle": 2
+      }
+     ],
+     "araliklar": [
+      {
+       "ad": "skor_farki",
+       "y": [
+        60,
+        92
+       ],
+       "xk": 2.35,
+       "etiket": "32 points",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Asymmetry is looked for not only in thresholds but also in speech scores.",
+    "The word recognition scores of the two ears are compared, measured at similar sensation levels and preferably with recorded material.",
+    "In this example, the score is ninety two percent in the right ear and sixty percent in the left ear.",
+    "A score difference clearly larger than the threshold difference can explain is an additional red flag for a retrocochlear site.",
+    "Some protocols also add a clear score difference between the ears to their referral criteria."
+   ]
+  },
+  {
+   "id": "schwannom",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Vestibular schwannoma",
+   "baslik": "What is vestibular *schwannoma?*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Vestibular nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Cochlear nerve",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "Internal auditory canal",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Benign, _grows slowly_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "May _extend_ into the cerebellopontine angle",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Vestibular schwannoma is a tumor arising from the Schwann cells that sheath the balance portion of the eighth cranial nerve."
+    },
+    "It usually starts on the vestibular nerve in the internal auditory canal; its older name is acoustic neuroma.",
+    "It is benign and usually grows slowly; some stay the same size for years.",
+    "As it grows, it affects hearing by compressing the neighboring cochlear nerve and the blood supply to the cochlea.",
+    {
+     "yazi": "Larger tumors can extend from the internal auditory canal toward the brainstem, into the cerebellopontine angle."
+    },
+    "It is usually unilateral; bilateral tumors suggest a separate genetic condition, which will be covered in a later lesson."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Vestibular schwannoma",
+   "baslik": "Common *symptoms*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Unilateral loss",
+     "metin": "Usually slowly progressive",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "metin": "In the same ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Imbalance",
+     "metin": "Vertigo is less common",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sudden loss",
+     "metin": "First sign in some",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Fullness",
+     "metin": "Pressure in the ear",
+     "cumle": 4
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Facial signs",
+     "metin": "In large tumors",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The most common symptom is a one-sided, often slowly progressive loss; people may notice it when switching the phone to the other ear.",
+    "Tinnitus in the same ear is common and is sometimes the first complaint.",
+    "Because the balance nerve is affected slowly, the brain adapts; so mild imbalance is more common than marked vertigo.",
+    "In some people, the first symptom is sudden hearing loss; this is why retrocochlear assessment is also recommended in sudden loss.",
+    "A feeling of fullness or pressure in the ear may also be described.",
+    "Facial numbness or weakness is usually seen with large tumors and should be reported to a physician without delay.",
+    "Because symptoms progress slowly, people may not seek care for years, and the loss may be found on an incidental audiogram."
+   ]
+  },
+  {
+   "id": "profil",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Vestibular schwannoma",
+   "baslik": "Audiological *profile*",
+   "maddeler": [
+    {
+     "metin": "Often a _high-frequency_ asymmetry",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "But _any configuration_ is possible",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Speech score may be _disproportionately low_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reflexes and ABR point _retrocochlear_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 3,
+    "ayar": {
+     "i_v_uzama": 0.7
+    },
+    "vurgula": [
+     {
+      "parca": "latans_I_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The most common audiogram finding is a unilateral sensorineural loss that is more marked in the high frequencies.",
+    "But flat, low-frequency or notched losses can also occur; even a normal audiogram does not rule out a tumor.",
+    "The word recognition score may be lower than expected for the degree of loss, but in many people it fits the loss.",
+    {
+     "yazi": "Acoustic reflexes may be absent or elevated; in the auditory brainstem response, or ABR, the I-V interval may be prolonged.",
+     "ses": "Acoustic reflexes may be absent or elevated; in the auditory brainstem response, or ABR, the one to five interval may be prolonged."
+    },
+    "None of these findings is present in everyone; the profile strengthens a possibility but does not settle anything on its own."
+   ]
+  },
+  {
+   "id": "aciklama",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Vestibular schwannoma",
+   "baslik": "*Other* causes of asymmetry",
+   "maddeler": [
+    {
+     "metin": "One-sided noise, e.g. _shooting sports_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Past ear disease or _surgery_",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Meniere's disease, _sudden loss_ history",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "No explanation: _refer_",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "HISTORY",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Ask",
+      "metin": "Since when?",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Record",
+      "metin": "Noise, surgery, attacks",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Asymmetry also has known causes: for example, in someone who shoots rifles, the ear closer to the muzzle may be more affected.",
+    "Past chronic ear disease and ear surgery can also lead to more loss in one ear.",
+    "Meniere's disease or a previous sudden hearing loss can also leave a one-sided sensorineural loss.",
+    "So the history records in detail which side noise exposure was concentrated on, past diseases and any attacks.",
+    "Still, finding a known cause does not always change the decision; if the explanation is insufficient, referral is still made."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Referral",
+   "baslik": "The referral *process*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Confirm",
+     "metin": "Masking, retesting",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Complete the battery",
+     "metin": "Speech, reflexes, ABR if needed",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Report",
+     "metin": "Criterion and findings",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Refer to a physician",
+     "metin": "ENT assessment",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "The physician decides",
+     "metin": "Imaging or monitoring",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The first step is to confirm the asymmetry: was masking done correctly, and are thresholds the same on retesting?",
+    "Then speech tests and acoustic reflexes are completed; ABR may be added according to the center's protocol.",
+    "The report clearly includes the asymmetry criterion used, the accompanying symptoms and the test findings.",
+    "The patient is referred, with the findings, to an ear, nose and throat, or ENT, physician.",
+    "The physician decides whether imaging is done and which method is chosen.",
+    "The audiologist's responsibility is to notice the finding, confirm it and pass it on to the right person without delay."
+   ]
+  },
+  {
+   "id": "mr",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Referral",
+   "baslik": "MRI and *ABR*",
+   "maddeler": [
+    {
+     "metin": "Gold standard: _MRI_",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "_Shows_ tumors of a few millimeters",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "If MRI is not possible: _ABR_ option",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal ABR _does not rule out_ small tumors",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "ic_kulak_yolu_dibi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ust_vestibuler_sinir",
+      "cumle": 1
+     },
+     {
+      "parca": "alt_vestibuler_sinir",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The gold standard for showing vestibular schwannoma is MRI with contrast or with special sequences."
+    },
+    "MRI can show even tumors of a few millimeters in the internal auditory canal.",
+    "For people who cannot have an MRI, for reasons such as a pacemaker, ABR can be used as a functional screening option.",
+    "As we saw in earlier lessons, ABR may be normal with small tumors; this limit should be made clear to the patient and the physician.",
+    "The choice of method always depends on the physician's assessment."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not mention the possibility of a tumor in a frightening way. Calmly and clearly explain why the finding needs further assessment; remember that most of these tumors are benign.",
+   "cumleler": [
+    "A clinical tip: when referring, speak without frightening the person, but without downplaying the importance of the finding.",
+    "For example, you might say the gap between their ears is larger than expected, and a doctor's assessment will help explain why.",
+    "Making a diagnosis or giving percentages of likelihood is not the audiologist's role.",
+    "Following up on whether the person saw the physician and planning a review appointment are also part of the process."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Referral",
+   "baslik": "The *audiologist* afterward",
+   "maddeler": [
+    {
+     "metin": "If MRI is normal: _monitoring_ audiograms",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "If a tumor: decisions by _the medical team_",
+     "cumle": 1,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Serial audiograms and _speech scores_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Hearing support and _counseling_",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "MONITORING",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "odyogram",
+      "baslik": "Serial testing",
+      "metin": "Documents change",
+      "cumle": 2
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Rehabilitation",
+      "metin": "Hearing aids, CROS options",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "If the MRI is normal, the person may still be followed audiologically at set intervals to see whether the loss progresses.",
+    "If a tumor is found, options such as observation, surgery or radiotherapy are considered by the medical team.",
+    "During this process, the audiologist documents the course of hearing with serial audiograms and speech scores.",
+    "These measurements help the team make decisions and help the person understand their hearing status.",
+    "Depending on remaining hearing, options such as hearing aids or CROS systems, which route sound to the other side, can be discussed.",
+    "Complaints of unilateral tinnitus and imbalance are also asked about at follow-up, with referral for related assessments if needed."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Asymmetry criteria vary _by institution_",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Schwannoma: _benign_, one-sided symptoms",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal ABR or audiogram _does not rule out_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Audiologist confirms, _refers to a physician_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "There is no single universal criterion for asymmetric sensorineural loss; 15 decibels at two adjacent frequencies is a common example.",
+     "ses": "There is no single universal criterion for asymmetric sensorineural loss; fifteen decibels at two adjacent frequencies is a common example."
+    },
+    {
+     "yazi": "Vestibular schwannoma is a benign tumor that most often presents with one-sided hearing loss, tinnitus and imbalance."
+    },
+    "A normal audiogram or a normal ABR does not rule out a small tumor; the gold standard is MRI.",
+    "The audiologist's role is to confirm the asymmetry, report the findings and refer the person to a physician."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In asymmetric loss, who decides on imaging?",
+   "secenekler": [
+    "The audiologist",
+    "The physician",
+    "A family member"
+   ],
+   "dogru": 1,
+   "aciklama": "The audiologist _confirms and reports_ the findings; the decision on imaging and treatment belongs to the physician.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in asymmetric sensorineural loss, who decides whether an MRI is done?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the physician.",
+    "The audiologist's role is to confirm the asymmetry, report the findings and refer the person to a physician without delay."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "How to Write a Clear *Audiology* Report",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn how to turn our findings into a clear and understandable audiology report.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

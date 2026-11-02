@@ -1,0 +1,220 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D005_Degrees_Of_Hearing_Loss_EN",
+  "kapak": {
+    "ust": "LESSON 5",
+    "baslik": "Degrees of<br>*hearing loss*",
+    "alt": "PTA, WHO 2021 and the Clark scale",
+    "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [
+      {"kulak": "sag", "tip": "hava", "degerler": [20, 30, 40, 50, 60, 65]}]}
+  },
+  "youtube": {
+    "baslik": "Degrees of Hearing Loss: How Severity Is Classified | Lesson 05 | AIHEAR Audiology Academy",
+    "aciklama": "We calculate the pure tone average (PTA) step by step. Using sample audiograms, we compare the 2021 World Health Organization grades of hearing loss with the Clark and ASHA scale.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: WHO, World Report on Hearing (2021); Clark JG, Uses and abuses of hearing loss classification, ASHA (1981); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "hearingloss", "audiogram"],
+    "etiketler": ["degrees of hearing loss", "pure tone average", "PTA", "WHO grades of hearing loss", "Clark classification", "profound hearing loss", "hearing loss severity", "audiogram", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 5", "baslik": "Degrees of Hearing Loss: How *Severity* Is Classified",
+     "alt": "Classification from mild to total loss",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn how we determine the degree of a hearing loss.",
+       {"yazi": "We will calculate the pure tone average and compare the 2021 World Health Organization grades with the Clark scale.", "ses": "We will calculate the pure tone average and compare the twenty twenty one World Health Organization grades with the Clark scale."}]},
+
+    {"id": "neden", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Why does degree matter?",
+     "baslik": "Why does degree *matter?*",
+     "maddeler": [
+       {"metin": "Tells us _how much_ loss there is", "cumle": 0, "ikon": "grafik"},
+       {"metin": "Provides a shared _language_", "cumle": 1, "ikon": "konusma"},
+       {"metin": "Guides the rehabilitation _plan_", "cumle": 2, "ikon": "isitme_cihazi"},
+       {"metin": "Basis for monitoring and _statistics_", "cumle": 3, "ikon": "tablo"}],
+     "cumleler": [
+       "The degree describes in a single expression how large a hearing loss is.",
+       "Terms such as mild, moderate or severe give us a shared language with colleagues and with the patient.",
+       "The degree also guides us when we consider options such as hearing aids or implants.",
+       "Monitoring change over time and building national hearing loss statistics also rely on degree classification.",
+       "But degree is only a starting point; without type and configuration, the picture is incomplete."]},
+
+    {"id": "pta", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Pure tone average",
+     "baslik": "Pure tone average: *PTA*",
+     "maddeler": [
+       {"metin": "_Pure tone average_", "cumle": 0, "ikon": "kulaklik"},
+       {"metin": "Three frequencies: _500, 1000, 2000 Hz_", "cumle": 1, "ikon": "odyogram"},
+       {"metin": "Four frequencies: _4000 Hz_ is added", "cumle": 3, "ikon": "grafik"},
+       {"metin": "Calculated _separately_ for each ear", "cumle": 5, "ikon": "kulak"}],
+     "cumleler": [
+       "The basis of the degree is the pure tone average, written PTA for short.",
+       "In the classic method, we average the air conduction thresholds at five hundred, one thousand and two thousand hertz.",
+       "These three frequencies were chosen because they represent an important region for understanding speech.",
+       "The World Health Organization and many current sources add four thousand hertz and use a four-frequency average.",
+       "Adding four thousand hertz lets high-frequency losses be better reflected in the degree.",
+       "The average is calculated separately for each ear, and each ear is graded on its own."],
+     "yan": {"tur": "ikonlar", "ust": "AVERAGE", "cumle": 1, "ogeler": [{"ikon": "odyogram", "baslik": "Three frequencies", "metin": "500, 1000, 2000 Hz", "cumle": 1}, {"ikon": "grafik", "baslik": "Four frequencies", "metin": "4000 Hz is added", "cumle": 3}]}},
+
+    {"id": "hesap", "tur": "odyogram", "bolum_no": "PART 2", "bolum": "Pure tone average", "baslik": "A sample *calculation*",
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Right ear_: air conduction", "cumle": 0},
+       {"isaret": "O", "renk": "sag", "metin": "_PTA, 3 frequencies_: 40 dB HL", "cumle": 2},
+       {"isaret": "O", "renk": "sag", "metin": "_PTA, 4 frequencies_: 45 dB HL", "cumle": 4}],
+     "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [20, 30, 40, 50, 60, 65], "cumle": 0}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "In this sample audiogram, we see the air conduction thresholds of the right ear.",
+       "Thirty decibels at five hundred hertz, forty at one thousand hertz and fifty at two thousand hertz.",
+       "These three values add up to one hundred twenty; divided by three, the pure tone average is forty decibels.",
+       "If we also add the sixty decibels at four thousand hertz, the total becomes one hundred eighty.",
+       "Divided by four, the four-frequency average comes out at forty five decibels.",
+       "As you can see, in losses that slope toward the high frequencies, the four-frequency average gives a higher value."]},
+
+    {"id": "olcekler", "tur": "ikonlar", "bolum_no": "PART 3", "bolum": "WHO 2021 grades",
+     "baslik": "Why *more than one* scale?",
+     "ogeler": [
+       {"ikon": "soru", "baslik": "Not universal", "metin": "Organizations use different scales", "cumle": 0},
+       {"ikon": "kalabalik", "baslik": "Public health", "metin": "WHO 2021", "cumle": 2},
+       {"ikon": "hastane", "baslik": "Clinic", "metin": "Clark and ASHA", "cumle": 3}],
+     "cumleler": [
+       "The cut-offs for degree are not universal; different organizations use different scales.",
+       "This is because the scales were designed for different purposes.",
+       "For public health and comparisons between countries, the World Health Organization, or WHO, scale is used most often.",
+       "In the clinic, the Clark scale and the classification in sources from the American Speech-Language-Hearing Association, or ASHA, are common.",
+       "Now let us look at these two scales, which you will meet most often, one at a time."]},
+
+    {"id": "dso", "tur": "tablo", "bolum_no": "PART 3", "bolum": "WHO 2021 grades",
+     "baslik": "WHO 2021: *grade cut-offs*", "sutunlar": ["Grade", "Better ear PTA"],
+     "satirlar": [
+       {"hucreler": ["Normal", "&lt;20 dB HL"], "cumle": 1},
+       {"hucreler": ["Mild", "20 to &lt;35"], "cumle": 2},
+       {"hucreler": ["Moderate", "35 to &lt;50"], "cumle": 2},
+       {"hucreler": ["Moderately severe", "50 to &lt;65"], "cumle": 3},
+       {"hucreler": ["Severe", "65 to &lt;80"], "cumle": 3},
+       {"hucreler": ["Profound", "80 to &lt;95"], "cumle": 4},
+       {"hucreler": ["Complete or total", "95 and above"], "cumle": 4}],
+     "cumleler": [
+       {"yazi": "In its 2021 World Report on Hearing, the World Health Organization published a new grading system.", "ses": "In its twenty twenty one World Report on Hearing, the World Health Organization published a new grading system."},
+       "This system uses the four-frequency average, and values below twenty decibels are considered normal.",
+       "From twenty to below thirty five is mild, and from thirty five to below fifty is a moderate loss.",
+       "From fifty to below sixty five is moderately severe, and from sixty five to below eighty is severe.",
+       "From eighty to below ninety five is a profound loss, and ninety five and above is complete, or total, hearing loss.",
+       "Because the cut-offs move in steps of fifteen decibels, this scale is easy to remember."]},
+
+    {"id": "dso_ayrinti", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "WHO 2021 grades",
+     "baslik": "*Details* of the WHO scale",
+     "maddeler": [
+       {"metin": "Grade: based on the _better ear_", "cumle": 0, "ikon": "kulak"},
+       {"metin": "_Unilateral_ loss is defined separately", "cumle": 1, "ikon": "kulak_tikali"},
+       {"metin": "Above 35 dB: _disabling_ loss", "cumle": 3, "ikon": "uyari"}],
+     "cumleler": [
+       "The WHO grade is based on the average of the better-hearing ear.",
+       "If the better ear is below twenty and the other ear is thirty five or more, it is defined separately as unilateral hearing loss.",
+       "That is why it is still important to write the degree of each ear separately in a clinical report.",
+       "The WHO considers a loss greater than thirty five decibels in the better ear to be a disabling hearing loss.",
+       "This definition is used mainly in public health planning and in statistics."],
+     "yan": {"tur": "ikonlar", "ust": "WHO", "cumle": 0, "ogeler": [{"ikon": "kulak", "baslik": "Better ear", "metin": "Grade is based on it", "cumle": 0}, {"ikon": "rapor", "baslik": "Clinical report", "metin": "Each ear written separately", "cumle": 2}, {"ikon": "kalabalik", "baslik": "Public health", "metin": "Planning and statistics", "cumle": 4}]}},
+
+    {"id": "clark", "tur": "tablo", "bolum_no": "PART 4", "bolum": "Clark and comparison",
+     "baslik": "Clark and ASHA: *clinical scale*", "sutunlar": ["Degree", "PTA (dB HL)"],
+     "satirlar": [
+       {"hucreler": ["Normal", "-10 to 15"], "cumle": 2},
+       {"hucreler": ["Slight", "16 to 25"], "cumle": 3, "vurgu": true},
+       {"hucreler": ["Mild", "26 to 40"], "cumle": 4},
+       {"hucreler": ["Moderate", "41 to 55"], "cumle": 4},
+       {"hucreler": ["Moderately severe", "56 to 70"], "cumle": 5},
+       {"hucreler": ["Severe", "71 to 90"], "cumle": 5},
+       {"hucreler": ["Profound", "91 and above"], "cumle": 5}],
+     "cumleler": [
+       {"yazi": "The other scale that is very widely used in the clinic was proposed by Clark in 1981.", "ses": "The other scale that is very widely used in the clinic was proposed by Clark in nineteen eighty one."},
+       "The same steps are also used in ASHA sources.",
+       "Here, the normal limit is stricter: minus ten to fifteen decibels.",
+       "Sixteen to twenty five decibels forms a separate step called slight hearing loss.",
+       "Twenty six to forty is mild, and forty one to fifty five is moderate.",
+       "Fifty six to seventy is moderately severe, seventy one to ninety is severe, and ninety one and above is profound.",
+       "The Clark scale is usually used with the three-frequency average."]},
+
+    {"id": "karsilastir", "tur": "karsilastir", "bolum_no": "PART 4", "bolum": "Clark and comparison",
+     "baslik": "Same ear, *two scales*",
+     "sol": {"ust": "WHO 2021", "maddeler": [{"metin": "Four-frequency average", "cumle": 1}, {"metin": "Normal: below 20 dB", "cumle": 1}, {"metin": "Average 18 dB: normal", "cumle": 2}, {"metin": "Public health focus", "cumle": 4}]},
+     "sag": {"ust": "Clark and ASHA", "maddeler": [{"metin": "Three-frequency average", "cumle": 1}, {"metin": "Normal: 15 dB or less", "cumle": 1}, {"metin": "Average 18 dB: slight", "cumle": 3}, {"metin": "Clinical and pediatric focus", "cumle": 4}]},
+     "cumleler": [
+       "Let us compare the two scales on the same example.",
+       "The WHO uses a four-frequency average and a twenty decibel limit; Clark uses a three-frequency average and a fifteen decibel limit.",
+       "An ear with an average of eighteen decibels is considered normal on the WHO scale.",
+       "The same ear is classified as a slight loss on the Clark scale.",
+       "Clark's stricter limit is especially meaningful for children, in whom even small losses can affect language development."]},
+
+    {"id": "asimetrik", "tur": "odyogram", "bolum_no": "PART 4", "bolum": "Clark and comparison",
+     "baslik": "Example: *asymmetric* loss",
+     "lejant": [
+       {"isaret": "O", "renk": "sag", "metin": "_Right_: PTA 15 dB HL", "cumle": 0},
+       {"isaret": "X", "renk": "sol", "metin": "_Left_: PTA about 59 dB HL", "cumle": 1}],
+     "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [10, 10, 15, 15, 20, 25], "cumle": 0}, {"kulak": "sol", "tip": "hava", "degerler": [40, 50, 55, 60, 70, 75], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "Now let us look at an example with two different ears; the right ear has a four-frequency average of fifteen decibels, which is normal.",
+       "The left ear has a four-frequency average of about fifty nine decibels; on the WHO scale, this is moderately severe.",
+       "The three-frequency average of the same ear is fifty five decibels, at the upper limit of moderate on the Clark scale.",
+       "Since the better ear is normal and the other ear is above thirty five, the WHO defines this as unilateral hearing loss.",
+       "This example shows why it matters to state in the report which average and which scale were used."]},
+
+    {"id": "fletcher", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Limits of the average",
+     "baslik": "Is the average always *enough?*",
+     "maddeler": [
+       {"metin": "Can be _misleading_ in sloping loss", "cumle": 0, "ikon": "uyari"},
+       {"metin": "_Fletcher average_: the best two frequencies", "cumle": 2, "ikon": "grafik"},
+       {"metin": "Report degree with the _frequency range_", "cumle": 4, "ikon": "rapor"}],
+     "cumleler": [
+       "In losses with large differences between frequencies, the average may not reflect the full picture.",
+       "For example, an ear with normal low frequencies and severe high-frequency loss may average as mild, yet the person misses consonants.",
+       "For such sloping losses, some clinics average the best two of the three frequencies; this is called the Fletcher average.",
+       "In these losses, the Fletcher average often agrees better with the speech recognition threshold.",
+       "So it is more accurate to describe the degree together with the frequency range, for example, severe loss above two thousand hertz."],
+     "yan": {"tur": "odyogram", "cumle": 1, "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [10, 15, 25, 60, 75, 80], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}}}},
+
+    {"id": "gunluk", "tur": "ikonlar", "bolum_no": "PART 5", "bolum": "Limits of the average",
+     "baslik": "Degree and *daily life*",
+     "ogeler": [
+       {"ikon": "kalabalik", "baslik": "Mild", "metin": "Hard to follow speech in noise", "cumle": 1},
+       {"ikon": "konusma", "baslik": "Moderate", "metin": "Difficulty even in quiet", "cumle": 2},
+       {"ikon": "kulak_tikali", "baslik": "Severe", "metin": "Most speech is not heard", "cumle": 3},
+       {"ikon": "hoparlor", "baslik": "Profound", "metin": "Even loud voices are hard", "cumle": 4}],
+     "cumleler": [
+       "The WHO report also describes what the grades may mean in daily life.",
+       "With a mild loss, there is often no problem in quiet, but following speech in noise can become hard.",
+       "With a moderate loss, hearing normal speech can be difficult even in quiet places.",
+       "With a severe loss, most speech is not heard, and there may be difficulty even with a raised voice.",
+       "With a profound loss, hearing and understanding even a raised voice is very difficult.",
+       "These descriptions are a general guide; two people with the same grade may have very different difficulties."]},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical tip",
+     "metin": "The PTA and the speech recognition threshold (SRT) usually agree within 10 dB. If the difference is larger, reassess the reliability of the test.",
+     "cumleler": [
+       "There is a useful cross-check when you calculate the degree.",
+       "The pure tone average and the speech recognition threshold, or SRT, usually agree within ten decibels.",
+       "If the difference is larger, recheck whether the instructions were understood, the earphone placement and how consistent the responses were.",
+       "This simple comparison keeps you from reporting the wrong degree."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [
+       {"metin": "PTA: average of *500, 1000, 2000* Hz", "cumle": 0, "ikon": "odyogram"},
+       {"metin": "WHO 2021: *four frequencies*, 20 dB limit", "cumle": 1, "ikon": "kalabalik"},
+       {"metin": "Clark and ASHA: *15 dB* normal limit", "cumle": 2, "ikon": "hastane"},
+       {"metin": "Degree and *configuration* together", "cumle": 3, "ikon": "grafik"}],
+     "cumleler": [
+       "The classic pure tone average is the average of the air conduction thresholds at five hundred, one thousand and two thousand hertz.",
+       {"yazi": "The WHO 2021 scale uses the four-frequency average and treats values below twenty decibels as normal.", "ses": "The WHO twenty twenty one scale uses the four-frequency average and treats values below twenty decibels as normal."},
+       "On the Clark and ASHA scale, the normal limit is fifteen decibels, and slight loss is a separate step.",
+       "Degree alone is not enough; it should be described together with the shape of the loss across frequencies."]},
+
+    {"id": "test", "tur": "test", "soru": "Thresholds are 25, 35, 45, 55 dB HL. What is the four-frequency PTA?",
+     "secenekler": ["35 dB HL", "40 dB HL", "45 dB HL", "55 dB HL"], "dogru": 1,
+     "aciklama": "The total is 160; divided by four, it is _40 dB HL_, a moderate grade on the WHO scale.",
+     "cumleler": [
+       {"yazi": "Test yourself: If the thresholds are 25, 35, 45 and 55 dB HL, what is the four-frequency average?", "ses": "Test yourself: If the thresholds are twenty five, thirty five, forty five and fifty five dB HL, what is the four-frequency average?", "sonra_bekle": 5},
+       "The correct answer is B, forty decibels. The total is one hundred sixty, and divided by four it is forty, a moderate grade on the WHO scale."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "How Common Is Hearing Loss? Global Facts and *Figures*", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will look at the numbers on how common hearing loss is worldwide and in Türkiye.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

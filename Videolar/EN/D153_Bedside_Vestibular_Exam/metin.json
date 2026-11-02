@@ -1,0 +1,678 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D153_Bedside_Vestibular_Exam_EN",
+ "kapak": {
+  "ust": "LESSON 153",
+  "baslik": "Bedside<br>*vestibular* exam",
+  "alt": "Romberg, Fukuda, head-shake",
+  "cizim": "denge_durus"
+ },
+ "youtube": {
+  "baslik": "Bedside Vestibular Exam: Romberg, Fukuda, Head-Shake | Lesson 153 | AIHEAR Audiology Academy",
+  "aciklama": "We explain the core steps of the bedside vestibular exam: observing spontaneous and gaze-evoked nystagmus, the Romberg and tandem Romberg tests, the Fukuda stepping test and the head-shaking test. We cover how each test is done and interpreted, its limits, and the findings that suggest a central cause.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology; Fukuda, The stepping test, Acta Oto-Laryngologica (1959); Honaker et al., Fukuda stepping test: sensitivity and specificity, Journal of the American Academy of Audiology (2009).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "nystagmus"
+  ],
+  "etiketler": [
+   "bedside vestibular exam",
+   "Romberg test",
+   "Fukuda stepping test",
+   "head-shaking nystagmus",
+   "spontaneous nystagmus",
+   "gaze-evoked nystagmus",
+   "Frenzel goggles",
+   "central signs",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 153",
+   "baslik": "Bedside *vestibular* exam",
+   "alt": "Nystagmus, Romberg, Fukuda and head-shake",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn the bedside vestibular exam, which needs no special equipment.",
+    "We will cover how to perform and interpret nystagmus observation, the Romberg and Fukuda tests, and the head-shaking test."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Preparation and the eyes",
+   "baslik": "Why *at the bedside?*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Quick",
+     "metin": "Takes a few minutes",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "No equipment",
+     "metin": "Can be done anywhere",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Completes the history",
+     "metin": "Guides test selection",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Limited sensitivity",
+     "metin": "Normal does not exclude",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "After the history, the bedside exam is the first physical assessment.",
+    "This exam is quick, and most of its steps can be done anywhere without special equipment.",
+    "The findings complete the history and guide which laboratory tests are chosen.",
+    "In the acute phase, it also gives valuable information when laboratory tests cannot be done.",
+    "However, its sensitivity is limited; a normal bedside exam does not exclude a vestibular problem."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Preparation and the eyes",
+   "baslik": "Preparing for the *exam*",
+   "maddeler": [
+    {
+     "metin": "Neck, back, _fall_ history",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Stand close_ during standing tests",
+     "cumle": 1,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "_Frenzel_ or video goggles",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Eyes first, then _standing balance_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Nauseating tests _last_",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "In every standing test, stay beside the patient, ready to prevent a fall.",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Before the exam, ask about neck and back problems, recent surgery and any history of falls.",
+    "During standing tests, stay right beside the patient and be ready to prevent a fall.",
+    "If possible, have Frenzel goggles or video goggles ready.",
+    "The exam usually starts with the eyes while seated and continues with standing balance tests.",
+    "Tests that may worsen nausea can be left until the end of the exam."
+   ]
+  },
+  {
+   "id": "spontan",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Preparation and the eyes",
+   "baslik": "Spontaneous *nystagmus*",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "yavas_cumle": 4,
+    "hizli_cumle": 4
+   },
+   "etiketler": [
+    {
+     "parca": "yavas_faz",
+     "metin": "Slow phase: toward the lesion",
+     "cumle": 4
+    },
+    {
+     "parca": "hizli_faz",
+     "metin": "Fast phase: toward the healthy side",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "iz",
+     "cumle": 0
+    },
+    {
+     "parca": "yon",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "First _with fixation_, then without",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Peripheral: _reduced_ by fixation",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Record direction, intensity, _fixation effect_",
+     "cumle": 5,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "The first step is to check for spontaneous nystagmus while the patient looks straight ahead.",
+    "First, the eyes are watched with fixation, that is, while the patient looks at a target.",
+    "Then fixation is removed with Frenzel or video goggles; peripheral nystagmus becomes more obvious this way.",
+    "Without goggles, covering one eye and viewing the fundus of the other with an ophthalmoscope also reduces fixation.",
+    "This example trace shows right-beating nystagmus; in acute unilateral peripheral loss, nystagmus usually beats toward the healthy ear.",
+    "The direction and intensity of the nystagmus, and how it changes with fixation, are recorded."
+   ]
+  },
+  {
+   "id": "bakis",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Preparation and the eyes",
+   "baslik": "Gaze-evoked *nystagmus*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Four directions",
+     "metin": "Right, left, up, down",
+     "cumle": 0
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "About 30 degrees",
+     "metin": "End-point may be normal",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Alexander's law",
+     "metin": "Increases toward fast phase",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Direction-changing",
+     "metin": "A central sign",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pure vertical",
+     "metin": "A central sign",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In gaze testing, the patient looks right, left, up and down without moving the head.",
+    "Gaze is held at about thirty degrees; a few beats of nystagmus at extreme gaze can be normal.",
+    "Peripheral nystagmus increases when looking in the direction of the fast phase; we called this Alexander's law.",
+    "Nystagmus that changes direction with the direction of gaze, however, is important for central causes.",
+    "Pure vertical or pure torsional nystagmus is also a central sign and is reported to the physician.",
+    "The finding in each direction is noted separately; this record is valuable for comparison with later exams."
+   ]
+  },
+  {
+   "id": "romberg",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Stance tests",
+   "baslik": "The *Romberg* test",
+   "cizim": "denge_durus",
+   "etiketler": [
+    {
+     "parca": "destek_yuzeyi",
+     "metin": "Feet together",
+     "cumle": 1
+    },
+    {
+     "parca": "salinim",
+     "metin": "Eyes closed: sway?",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "destek_yuzeyi",
+     "cumle": 1
+    },
+    {
+     "parca": "salinim",
+     "cumle": 2
+    },
+    {
+     "parca": "agirlik_merkezi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Eyes open, then _closed_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Classic: loss of _position sense_",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "A normal result _does not exclude_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "We briefly saw the Romberg test in the lesson on the balance systems; now let us look at how it is done.",
+    "The patient stands with the feet together and the arms crossed over the chest or held at the sides.",
+    "Sway is watched first with the eyes open, then with the eyes closed, usually for thirty seconds.",
+    "Marked sway or a tendency to fall when the eyes close is recorded as a positive Romberg.",
+    "Classically, it suggests loss of position sense; in acute unilateral vestibular loss, the patient may sway toward the affected side.",
+    "In compensated chronic vestibular loss, the test is often normal, so a normal result does not exclude vestibular loss."
+   ]
+  },
+  {
+   "id": "zor_durus",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Stance tests",
+   "baslik": "Making the test *harder*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Tandem Romberg",
+     "metin": "Heel to toe",
+     "cumle": 0
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Effect of age",
+     "metin": "Interpret carefully in older adults",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Foam surface",
+     "metin": "Vestibular input stands out",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Single leg",
+     "metin": "For fall risk",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "To make the test harder, the patient stands in a line with one heel touching the toes of the other foot; this is the tandem Romberg.",
+    "Tandem stance gets harder with age, so the result is interpreted carefully in older adults.",
+    "Standing on foam with the eyes closed tests the vestibular input more clearly; we saw this in the four-condition sensory balance test.",
+    "Standing on one leg is another simple test used to assess fall risk.",
+    "In all these tests, the duration, the direction of sway and any tendency to fall are recorded."
+   ]
+  },
+  {
+   "id": "fukuda",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Stance tests",
+   "baslik": "The *Fukuda* stepping test",
+   "cumleler": [
+    "The Fukuda stepping test is also known as the Unterberger test.",
+    "The patient stretches the arms forward, closes the eyes and takes fifty steps in place, raising the knees.",
+    "During the test, sound and light cues that could help the patient orient are kept to a minimum.",
+    "At the end of the test, we look at how far the body has rotated and how far it has moved from the starting point.",
+    "Rotation of more than forty five degrees in fifty steps is generally considered abnormal.",
+    "The rotation is often toward the affected side."
+   ],
+   "cizim": "fukuda",
+   "ayar": {
+    "aci": 60,
+    "yon": "sag",
+    "adim_cumle": 1,
+    "donme_cumle": 3,
+    "esik_cumle": 4,
+    "taraf_cumle": 5
+   },
+   "notlar": [
+    {
+     "metin": "Setup: _Arms forward, eyes closed_",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "No cues: _Sound and light reduced_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Interpretation: _Rotation over 45 degrees_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ]
+  },
+  {
+   "id": "fukuda_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Stance tests",
+   "baslik": "*Interpreting* the Fukuda",
+   "maddeler": [
+    {
+     "metin": "Sensitivity and specificity _are limited_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Results _can change_ on retest",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Not used _alone_ for lateralizing",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Can _help_ in monitoring",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CAUTION",
+    "metin": "Interpret the Fukuda *with other findings*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "The Fukuda test needs to be interpreted with care.",
+    "Studies have shown that the test has limited sensitivity and specificity for detecting unilateral vestibular loss.",
+    "In repeated tests on the same person, the rotation angle and direction can change.",
+    "So the Fukuda is not used alone to decide the side; it is interpreted together with other findings.",
+    "Even so, some clinicians find the test useful for following the process of compensation."
+   ]
+  },
+  {
+   "id": "bas_sallama",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The head-shaking test",
+   "baslik": "The head-shaking *test*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Goggles",
+     "metin": "Fixation removed",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Head forward",
+     "metin": "About 30 degrees",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Shaking",
+     "metin": "10 to 20 seconds",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Sudden stop",
+     "metin": "Eyes watched at once",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The head-shaking test aims to reveal a hidden imbalance between the two sides.",
+    "The patient wears Frenzel or video goggles, and the head is tilted forward about thirty degrees.",
+    "The examiner shakes the head side to side for about ten to twenty seconds, at about two times per second.",
+    "The shaking is stopped suddenly, and the eyes are watched right away.",
+    "In a healthy person, there is no clear nystagmus, or only a few beats.",
+    "In patients with neck problems, this test is not done or is done with great care."
+   ]
+  },
+  {
+   "id": "bas_sallama_yorum",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The head-shaking test",
+   "baslik": "Nystagmus *after* shaking",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "yavas_cumle": 1,
+    "hizli_cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "iz",
+     "cumle": 0
+    },
+    {
+     "parca": "hizli_faz",
+     "cumle": 1
+    },
+    {
+     "parca": "yon",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Usually beats _toward the healthy ear_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Why: _velocity storage_ asymmetry",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Vertical nystagmus: a _central_ sign",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "In unilateral vestibular loss, a horizontal nystagmus can appear after shaking.",
+    "This nystagmus usually beats toward the healthy ear; in the example trace, right-beating nystagmus fits a left-sided loss.",
+    "During shaking, the two sides send unequal signals, and the velocity storage mechanism in the brainstem accumulates this difference.",
+    "Sometimes a weaker second phase in the opposite direction can be seen shortly afterward.",
+    "Vertical nystagmus after horizontal shaking, however, is a central sign and should be reported to the physician."
+   ]
+  },
+  {
+   "id": "periferik_merkezi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and recording",
+   "baslik": "Signs that suggest a *central* cause",
+   "cumleler": [
+    "Let us look at the bedside findings together, in terms of peripheral and central patterns.",
+    "Peripheral spontaneous nystagmus is horizontal-torsional; pure vertical or pure torsional nystagmus is a central pattern.",
+    "Peripheral nystagmus is reduced by fixation; central nystagmus may not be.",
+    "Peripheral nystagmus does not change direction with gaze; direction-changing gaze-evoked nystagmus matters for central causes.",
+    "After head-shaking, horizontal nystagmus is a peripheral sign, and vertical nystagmus is a central sign.",
+    "In acute peripheral loss, the patient can walk with help; severe stance and gait problems suggest central causes."
+   ],
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Pure vertical",
+     "metin": "Or pure torsional",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Fixation has no effect",
+     "metin": "Nystagmus not reduced",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Direction-changing",
+     "metin": "Direction changes with gaze",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vertical head-shake nystagmus",
+     "metin": "After horizontal shaking",
+     "cumle": 4
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Severe stance problem",
+     "metin": "Cannot walk even with help",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "diger_testler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation and recording",
+   "baslik": "*Other* parts of the exam",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Head impulse test",
+     "metin": "The next lesson",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Dynamic visual acuity",
+     "metin": "Reading during head movement",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Eye movements",
+     "metin": "Pursuit and saccades",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Positional tests",
+     "metin": "A separate lesson",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The bedside exam has other important parts as well.",
+    "The head impulse test assesses the vestibulo-ocular reflex, or VOR, for each side separately; we will see it in the next lesson.",
+    "In dynamic visual acuity testing, the line read while the head is shaken is compared with the line read with the head still.",
+    "Eye movements such as pursuit and saccades are also observed for central findings.",
+    "We will cover positional tests in detail in a later lesson."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do the exam in the same order for every patient and record findings on a standard form. If possible, record eye findings with video goggles.",
+   "cumleler": [
+    "A clinical tip: do the bedside exam in the same order for every patient.",
+    "A standard order ensures that no step is skipped and that results can be compared over time.",
+    "Record the findings on a standard form; also note any test that could not be done, and why.",
+    "If possible, record eye findings with video goggles; the recording is very valuable for the physician and later assessments."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Nystagmus: look _with and without fixation_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Normal Romberg: does _not exclude_ loss",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Fukuda: _45 degrees in 50 steps_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Vertical after head-shake: _central_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Spontaneous and gaze-evoked nystagmus are assessed both with fixation and with fixation removed.",
+    "The Romberg test can show loss of position sense and acute vestibular loss, but a normal result does not exclude loss.",
+    "In the Fukuda test, rotation of more than forty five degrees in fifty steps is abnormal; the test is not interpreted alone.",
+    "Horizontal nystagmus after head-shaking suggests unilateral loss, and vertical nystagmus suggests a central cause."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which Fukuda result is generally abnormal?",
+   "secenekler": [
+    "10 degrees of rotation",
+    "30 degrees of rotation",
+    "Rotation over 45 degrees"
+   ],
+   "dogru": 2,
+   "aciklama": "Rotation of _more than 45 degrees_ in fifty steps is generally considered abnormal.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: In a fifty-step Fukuda test, which result is generally considered abnormal?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: rotation of more than forty five degrees.",
+    "Still, the test has limited sensitivity; the result is interpreted together with other findings."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Head Impulse Test and the *HINTS* Exam",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn the head impulse test and the HINTS exam, which combines it with nystagmus and the test of skew.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

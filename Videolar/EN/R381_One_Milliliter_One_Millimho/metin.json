@@ -1,0 +1,106 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R381_One_Milliliter_One_Millimho_EN",
+ "kapak": {
+  "ust": "QUICK FACT #381",
+  "baslik": "One milliliter, *one millimho*",
+  "alt": "Tympanometry calibration cavities",
+  "cizim": "timpanogram",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How do you know a tympanometer measures correctly? #shorts",
+  "aciklama": "Immittance devices usually come with hard-walled calibration cavities of 0.5, 2 and 5 milliliters. At 226 Hz, one milliliter of air equals one millimho, so the device should read the cavity volume directly. A hard-walled cavity has no eardrum, so the tympanogram should be flat; a peak suggests a leak or a fault.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "tympanometry",
+   "calibration"
+  ],
+  "etiketler": [
+   "immittance calibration",
+   "calibration cavity",
+   "tympanometry",
+   "admittance",
+   "daily check",
+   "immittance",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How do you know a tympanometer measures correctly?",
+  "bilgiler": [
+   "Cavities are 0.5, 2 and 5 milliliters.",
+   "At 226 Hz, 1 mL of air equals 1 mmho.",
+   "In a cavity, the tympanogram should be flat."
+  ],
+  "hashtag": [
+   "audiology",
+   "tympanometry",
+   "calibration"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #381",
+   "metin": "Is the device *right?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How do you know a tympanometer measures correctly?"
+   ]
+  },
+  {
+   "id": "kavite",
+   "tur": "zincir",
+   "baslik": "Calibration *cavities*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "0.5 mL",
+     "tr": "infant",
+     "cumle": 0
+    },
+    {
+     "ad": "2 mL",
+     "tr": "adult",
+     "cumle": 0,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "5 mL",
+     "tr": "large volume",
+     "cumle": 0,
+     "gecikme": 1.2
+    }
+   ],
+   "alt": "In a cavity, the tympanogram is _flat_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Usually, cavities of zero point five, two and five milliliters are supplied.",
+    "At two twenty six hertz, one milliliter of air equals one millimho.",
+    "So the device should read the cavity volume directly.",
+    "A hard-walled cavity has no eardrum, so the tympanogram should be flat.",
+    "A peak suggests a leak or a fault."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D116",
+ "kaynak_baslik": "Calibrating Immittance, OAE and ABR Equipment"
+}

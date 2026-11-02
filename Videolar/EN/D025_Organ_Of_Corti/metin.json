@@ -1,0 +1,161 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D025_Organ_Of_Corti_EN",
+  "kapak": {
+    "ust": "LESSON 25",
+    "baslik": "The organ<br>of *Corti*",
+    "alt": "Inner and outer hair cells",
+    "cizim": "corti"
+  },
+  "youtube": {
+    "baslik": "The Organ of Corti: Inner and Outer Hair Cells | Lesson 25 | AIHEAR Audiology Academy",
+    "aciklama": "We take a close look at the organ of Corti, the sensory organ of the cochlea. We cover the number, structure and roles of inner and outer hair cells, stereocilia, the tectorial membrane, supporting cells and the differences in innervation, and link them to OAE and ABR testing.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Hall, Handbook of Otoacoustic Emissions; Joint Committee on Infant Hearing, Year 2019 Position Statement.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "cochlea", "anatomy"],
+    "etiketler": ["organ of Corti", "inner hair cells", "outer hair cells", "tectorial membrane", "stereocilia", "prestin", "cochlear amplifier", "otoacoustic emissions", "auditory neuropathy", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 25", "baslik": "The Organ of Corti: Inner and Outer *Hair Cells*", "alt": "Inner and outer hair cells",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we examine the organ of Corti, the true sensory organ of the cochlea.",
+       "We will learn about inner and outer hair cells, the tectorial membrane, supporting cells and how their nerve connections differ."]},
+
+    {"id": "yer", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Introducing the organ of Corti", "baslik": "Where is the organ of *Corti?*", "cizim": "koklea_kesit", "vurgula": [{"parca": "scala_media", "cumle": 0}, {"parca": "corti_organi", "cumle": 2}], "etiketler": [{"parca": "baziler_membran", "metin": "Basilar membrane", "cumle": 1}, {"parca": "corti_organi", "metin": "Organ of Corti", "cumle": 2}], "notlar": [{"metin": "1851: Alfonso Corti", "cumle": 3, "ikon": "kitap"}], "yakinlastir": [{"parca": "corti_organi", "cumle": 2, "olcek": 2.0}, {"parca": "genel", "cumle": 5}],
+     "cumleler": [
+       "In the previous lesson, we met the scala media, the middle chamber of the cochlea.",
+       "On the basilar membrane, which forms the floor of the scala media, lies a strip of cells that runs along the cochlea.",
+       "This structure is called the organ of Corti.",
+       {"yazi": "It is named after the Italian anatomist Alfonso Corti, who described it in detail in 1851.", "ses": "It is named after the Italian anatomist Alfonso Corti, who described it in detail in eighteen fifty one."},
+       "The organ of Corti is the sensory organ that turns the mechanical vibration of the basilar membrane into nerve signals.",
+       "It runs without a break along the whole cochlea, from the base to the apex."]},
+
+    {"id": "bilesenler", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Introducing the organ of Corti", "baslik": "Parts of the *organ of Corti*", "cizim": "corti", "etiketler": [{"parca": "baziler_membran", "metin": "Basilar membrane", "cumle": 0}, {"parca": "ic_tuy_hucresi", "metin": "Inner hair cell", "cumle": 1}, {"parca": "dis_tuy_hucreleri", "metin": "Outer hair cells", "cumle": 2}, {"parca": "tektoryal_membran", "metin": "Tectorial membrane", "cumle": 3}, {"parca": "destek_hucreleri", "metin": "Supporting cells", "cumle": 4}, {"parca": "sinir_lifleri", "metin": "Nerve fibers", "cumle": 5}],
+     "cumleler": [
+       "Let us look at the organ of Corti in cross-section; the basilar membrane lies at the bottom.",
+       "On the inner side, close to the modiolus, the inner hair cells sit in a single row.",
+       "On the outer side, the outer hair cells are usually arranged in three rows.",
+       "The hair cells are covered by the tectorial membrane, also called the membrana tectoria.",
+       "The hair cells are surrounded by various supporting cells that hold them and keep their shape.",
+       "Fibers of the auditory nerve reach the base of the hair cells."]},
+
+    {"id": "karsilastirma", "tur": "tablo", "bolum_no": "PART 2", "bolum": "Inner and outer hair cells", "baslik": "Inner and outer *hair cells*", "sutunlar": ["Feature", "Inner hair cell", "Outer hair cell"], "satirlar": [{"hucreler": ["Rows", "1 row", "Usually 3 rows"], "cumle": 1}, {"hucreler": ["Number (approx.)", "3,500", "12,000"], "cumle": 2}, {"hucreler": ["Shape", "Pear-shaped", "Cylindrical"], "cumle": 3}, {"hucreler": ["Share of afferents", "About 95%", "About 5%"], "cumle": 4, "vurgu": true}, {"hucreler": ["Main role", "Sensory transduction", "Amplification, tuning"], "cumle": 5}],
+     "cumleler": [
+       "Let us compare the two types of hair cells in a table.",
+       "Inner hair cells form a single row, while outer hair cells are usually arranged in three rows.",
+       "Each cochlea has about three thousand five hundred inner and about twelve thousand outer hair cells.",
+       "Inner hair cells are pear- or flask-shaped, while outer hair cells are long and cylindrical.",
+       "About ninety five percent of the auditory nerve fibers that carry information to the brain connect to inner hair cells.",
+       "So inner hair cells are seen as the true sensory cells, and outer hair cells as amplifier and tuning cells.",
+       "In other words, the fewer inner hair cells carry almost all of the information sent to the brain."]},
+
+    {"id": "ic_tuy", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Inner and outer hair cells", "baslik": "Inner hair cells: the *sensory cells*", "maddeler": [{"metin": "_Inner hair cells_", "cumle": 0, "ikon": "kulak"}, {"metin": "_Several_ type I fibers per cell", "cumle": 2, "ikon": "noron"}, {"metin": "Stereocilia: _nearly straight_ rows", "cumle": 4, "ikon": "grafik"}, {"metin": "_Not embedded_ in tectorial membrane", "cumle": 5, "ikon": "dokunma"}], "yan": {"tur": "cizim", "cizim": "corti", "cumle": 0, "vurgula": [{"parca": "ic_tuy_hucresi", "cumle": 0}, {"parca": "sinir_lifleri", "cumle": 2}], "etiketler": [{"parca": "ic_tuy_hucresi", "metin": "Inner hair cell", "cumle": 0}, {"parca": "tektoryal_membran", "metin": "Tectorial membrane", "cumle": 5}]},
+     "cumleler": [
+       "Inner hair cells are the true receptors of hearing.",
+       "They are the main cells that turn basilar membrane vibration into a neural signal and pass it on to the brain.",
+       {"yazi": "Several type I nerve fibers connect to each inner hair cell; in humans, the average is about ten.", "ses": "Several type one nerve fibers connect to each inner hair cell; in humans, the average is about ten."},
+       "These fibers have different thresholds, which helps to code a wide range of intensities.",
+       "The stereocilia on top of the cell are arranged in gently curved, nearly straight rows.",
+       "Inner hair cell stereocilia are not firmly embedded in the tectorial membrane; they are bent by the movement of the surrounding fluid."]},
+
+    {"id": "dis_tuy", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Inner and outer hair cells", "baslik": "Outer hair cells: the *amplifiers*", "maddeler": [{"metin": "_Outer hair cells_", "cumle": 0, "ikon": "hoparlor"}, {"metin": "_Electromotility_: changing length", "cumle": 1, "ikon": "ses_dalgasi"}, {"metin": "Motor protein: _prestin_", "cumle": 2, "ikon": "gen_dna"}, {"metin": "Gain: about _40 to 50 dB_", "cumle": 4, "ikon": "grafik"}], "yan": {"tur": "cizim", "cizim": "corti", "cumle": 0, "vurgula": [{"parca": "dis_tuy_hucreleri", "cumle": 0}, {"parca": "tektoryal_membran", "cumle": 5}], "etiketler": [{"parca": "dis_tuy_hucreleri", "metin": "Outer hair cells", "cumle": 0}, {"parca": "tektoryal_membran", "metin": "Tectorial membrane", "cumle": 5}]},
+     "cumleler": [
+       "Outer hair cells are more numerous but carry very little information to the brain; their main role is different.",
+       "When stimulated, these cells can rapidly shorten and lengthen; this property is called electromotility.",
+       "This movement is driven by a motor protein in the cell membrane called prestin.",
+       "The movement boosts basilar membrane vibration for soft sounds and sharpens frequency tuning.",
+       "This mechanism is called the cochlear amplifier, and it provides a gain of about forty to fifty decibels.",
+       "The tallest stereocilia of outer hair cells are embedded in the tectorial membrane; this link is important for amplification.",
+       "Their stereocilia are arranged in rows shaped like the letter V or W."]},
+
+    {"id": "stereosil", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "Stereocilia and the tectorial membrane", "baslik": "Stereocilia: a *staircase* pattern", "maddeler": [{"metin": "Ordered heights: _short to tall_", "cumle": 0, "ikon": "grafik"}, {"metin": "_Tip links_", "cumle": 1, "ikon": "dokunma"}, {"metin": "Bending toward tallest: _excitation_", "cumle": 3, "ikon": "noron"}, {"metin": "Opposite direction: _inhibition_", "cumle": 4, "ikon": "sessizlik"}], "yan": {"tur": "cizim", "cizim": "corti", "cumle": 0, "yakinlastir": {"parca": "stereosil", "cumle": 0, "olcek": 1.8}, "vurgula": [{"parca": "stereosil", "cumle": 0}], "etiketler": [{"parca": "stereosil", "metin": "Stereocilia", "cumle": 0}]},
+     "cumleler": [
+       "On top of each hair cell is a bundle of stereocilia arranged like a staircase, from short to tall.",
+       "The tips of neighboring stereocilia are linked by fine filaments called tip links.",
+       "These links act like springs that open and close ion channels near the tips of the stereocilia.",
+       "When the bundle bends toward the tallest stereocilium, the channels open, potassium enters and the cell is excited.",
+       "When it bends the opposite way, the channels close and the cell is inhibited.",
+       "The high potassium level of the endolymph and the endocochlear potential drive this flow of ions."]},
+
+    {"id": "tektoryal", "tur": "gorsel", "bolum_no": "PART 3", "bolum": "Stereocilia and the tectorial membrane", "baslik": "The tectorial membrane and *shearing*", "cizim": "corti", "etiketler": [{"parca": "tektoryal_membran", "metin": "Membrana tectoria", "cumle": 0}, {"parca": "baziler_membran", "metin": "Basilar membrane", "cumle": 1}], "vurgula": [{"parca": "tektoryal_membran", "cumle": 0}, {"parca": "dis_tuy_hucreleri", "cumle": 3}], "notlar": [{"metin": "Attached to the spiral limbus", "cumle": 0, "ikon": "dokunma"}, {"metin": "Shearing bends the stereocilia", "cumle": 2, "ikon": "ses_dalgasi"}, {"metin": "Nanometer-scale movement at threshold", "cumle": 4, "ikon": "grafik"}],
+     "cumleler": [
+       "The tectorial membrane is a gel-like, collagen-rich membrane attached along its inner edge to the spiral limbus.",
+       "When the basilar membrane moves up and down, the two membranes pivot around different axes.",
+       "This difference creates a shearing motion between the tops of the hair cells and the tectorial membrane.",
+       "Shearing bends the stereocilia, and transduction begins.",
+       "The movement is tiny; for sounds at threshold, the tips of the stereocilia move only on the nanometer scale.",
+       "The tectorial membrane is thought to contribute to cochlear tuning and to the amplifying effect of outer hair cells."]},
+
+    {"id": "degisim", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "Stereocilia and the tectorial membrane", "baslik": "Changes from base to *apex*", "maddeler": [{"metin": "Outer hair cells get _longer_ toward apex", "cumle": 1, "ikon": "grafik"}, {"metin": "Stereocilia get _longer_ toward apex", "cumle": 1, "ikon": "ses_dalgasi"}, {"metin": "Near the apex, sometimes _4 to 5 rows_", "cumle": 3, "ikon": "tablo"}], "yan": {"tur": "ikonlar", "ust": "ALONG THE COCHLEA", "cumle": 0, "ogeler": [{"ikon": "ses_dalgasi", "baslik": "Base", "metin": "High pitches, short cells", "cumle": 0}, {"ikon": "grafik", "baslik": "Apex", "metin": "Low pitches, long cells", "cumle": 1}, {"ikon": "tablo", "baslik": "Near the apex", "metin": "Sometimes 4 to 5 rows", "cumle": 3}]},
+     "cumleler": [
+       "The organ of Corti also changes gradually along the cochlea, from the base to the apex.",
+       "Toward the apex, the outer hair cells and their stereocilia become longer.",
+       "Together with the basilar membrane becoming wider and more flexible, this change supports tuning to low frequencies.",
+       "Near the apex of the cochlea, outer hair cells can sometimes be seen in four or five rows."]},
+
+    {"id": "destek", "tur": "gorsel", "bolum_no": "PART 4", "bolum": "Supporting cells and innervation", "baslik": "Supporting *cells*", "cizim": "corti", "vurgula": [{"parca": "destek_hucreleri", "cumle": 0}, {"parca": "corti_tuneli", "cumle": 1}, {"parca": "retikuler_lamina", "cumle": 6}], "etiketler": [{"parca": "sutun_hucreleri", "metin": "Pillar cells", "cumle": 1}, {"parca": "deiters_hucreleri", "metin": "Deiters cells", "cumle": 3}, {"parca": "hensen_hucreleri", "metin": "Hensen and Claudius", "cumle": 5}, {"parca": "retikuler_lamina", "metin": "Reticular lamina", "cumle": 6}], "notlar": [{"metin": "Tunnel of Corti holds _cortilymph_", "cumle": 2, "ikon": "laboratuvar"}, {"metin": "Inner phalangeal cells _surround inner hair cells_", "cumle": 4, "ikon": "dokunma"}, {"metin": "Only the top touches _endolymph_", "cumle": 7, "ikon": "dikkat"}],
+     "cumleler": [
+       "Hair cells do not stand alone; supporting cells carry them and hold them in place.",
+       "The inner and outer pillar cells leave a triangular space between them, forming the tunnel of Corti.",
+       "The tunnel of Corti is filled with a perilymph-like fluid called cortilymph.",
+       "Deiters cells hold the base of the outer hair cells like a cup and send processes up to the surface.",
+       "Inner phalangeal cells surround the inner hair cells.",
+       "Hensen and Claudius cells form the outer edge of the organ of Corti.",
+       "The tops of the hair cells and the processes of the supporting cells together form a tight surface called the reticular lamina.",
+       "The reticular lamina separates the endolymph from the cells below, so only the top of each hair cell touches endolymph."]},
+
+    {"id": "innervasyon", "tur": "karsilastir", "bolum_no": "PART 4", "bolum": "Supporting cells and innervation", "baslik": "Differences in *innervation*", "sol": {"ust": "Inner hair cells", "maddeler": [{"metin": "Type I afferent, myelinated", "cumle": 1}, {"metin": "About 95% of afferent fibers", "cumle": 1}, {"metin": "Lateral olivocochlear efferent", "cumle": 3}]}, "sag": {"ust": "Outer hair cells", "maddeler": [{"metin": "Type II afferent, unmyelinated", "cumle": 2}, {"metin": "About 5% of afferent fibers", "cumle": 2}, {"metin": "Medial olivocochlear efferent", "cumle": 4}]},
+     "cumleler": [
+       "The nerve connections of the two cell types are also very different.",
+       {"yazi": "Inner hair cells receive thick, myelinated type I afferent fibers that carry information to the brain.", "ses": "Inner hair cells receive thick, myelinated type one afferent fibers that carry information to the brain."},
+       {"yazi": "Outer hair cells receive thin, unmyelinated type II fibers; each fiber branches to many outer hair cells.", "ses": "Outer hair cells receive thin, unmyelinated type two fibers; each fiber branches to many outer hair cells."},
+       "Among the efferent fibers descending from the brainstem, lateral olivocochlear fibers reach the afferent fibers below the inner hair cells.",
+       "Medial olivocochlear fibers reach the outer hair cells directly and adjust their amplifying effect.",
+       "This efferent system is thought to help with listening in noise and with protecting the ear."]},
+
+    {"id": "oae", "tur": "gorsel", "bolum_no": "PART 5", "bolum": "Clinical link", "baslik": "Outer hair cells and *OAEs*", "cizim": "oae", "ayar": {"tur": "TEOAE"}, "etiketler": [{"parca": "uyaran", "metin": "Stimulus", "cumle": 1}, {"parca": "yanit", "metin": "Response from the ear", "cumle": 2}, {"parca": "gurultu", "metin": "Noise floor", "cumle": 2}],
+     "cumleler": [
+       "The movement of outer hair cells produces very faint sounds that can be measured in the ear canal.",
+       "These sounds are called otoacoustic emissions, or OAEs; they are measured with a probe placed in the ear canal.",
+       "If the response returning from the ear is clearly above the noise floor, an emission is considered present.",
+       "When outer hair cells are damaged, emissions are reduced or absent.",
+       "The middle ear must also be healthy for emissions to be measured.",
+       "So OAE testing is a quick, objective test of outer hair cell function and is widely used in newborn screening."]},
+
+    {"id": "hasar", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Clinical link", "baslik": "Effects of *hair cell loss*", "maddeler": [{"metin": "Outer hair cell loss: _40 to 50 dB_", "cumle": 0, "ikon": "odyogram"}, {"metin": "Frequency selectivity _degrades_", "cumle": 1, "ikon": "kalabalik"}, {"metin": "Inner hair cell loss: _signal not transmitted_", "cumle": 3, "ikon": "noron"}, {"metin": "_No regeneration_ in mammals", "cumle": 4, "ikon": "uyari"}], "yan": {"tur": "cizim", "cizim": "corti", "cumle": 0, "vurgula": [{"parca": "dis_tuy_hucreleri", "cumle": 0}, {"parca": "ic_tuy_hucresi", "cumle": 3}, {"parca": "sinir_lifleri", "cumle": 3}], "etiketler": [{"parca": "dis_tuy_hucreleri", "metin": "Outer hair cells", "cumle": 0}, {"parca": "ic_tuy_hucresi", "metin": "Inner hair cell", "cumle": 3}]},
+     "cumleler": [
+       "When outer hair cells are lost, the cochlear amplifier stops working and thresholds can rise by about forty to fifty decibels.",
+       "Frequency tuning also becomes blurred, which makes it harder to understand speech in noise.",
+       "Noise and ototoxic drugs often affect the outer hair cells first.",
+       "If inner hair cells or their nerve fibers are damaged, information cannot reach the brain properly, even when the sound is loud enough.",
+       "In humans and other mammals, lost cochlear hair cells do not regenerate on their own, so these losses are permanent.",
+       "Hair cell regeneration is an active area of research today."]},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical note", "metin": "If OAEs are present but the ABR is absent or very abnormal, consider auditory neuropathy spectrum disorder. Screening with OAEs alone can miss this picture.",
+     "cumleler": [
+       "This anatomy has a very important clinical consequence.",
+       "Inner hair cells, their synapses or the auditory nerve can be affected while the outer hair cells remain healthy.",
+       "In this case, OAEs can be normal while the auditory brainstem response, or ABR, is absent or very abnormal.",
+       "This picture is called auditory neuropathy spectrum disorder.",
+       "Because OAE screening alone can miss these babies, ABR screening is recommended for babies in intensive care for more than five days.",
+       "Regular follow-up with behavioral tests and ABR is very important for these babies."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*", "maddeler": [{"metin": "One row inner, *three rows* outer", "cumle": 0, "ikon": "tablo"}, {"metin": "Inner: sensory, outer: *amplifier*", "cumle": 1, "ikon": "hoparlor"}, {"metin": "Bending stereocilia opens *ion channels*", "cumle": 2, "ikon": "noron"}, {"metin": "OAEs *reflect* outer hair cells", "cumle": 3, "ikon": "kulak"}],
+     "cumleler": [
+       "The organ of Corti has about three thousand five hundred inner and twelve thousand outer hair cells.",
+       "Most afferent fibers connect to inner hair cells, while outer hair cells amplify sound with prestin.",
+       "Bending of the stereocilia opens ion channels through the tip links, and the signal begins.",
+       "Otoacoustic emissions reflect outer hair cell function and should be interpreted together with the ABR."]},
+
+    {"id": "test", "tur": "test", "soru": "Most afferent fibers connect to which cells?", "secenekler": ["Inner hair cells", "Outer hair cells", "Deiters cells", "Hensen cells"], "dogru": 0, "aciklama": "About _95 percent_ of afferent fibers connect to inner hair cells.",
+     "cumleler": [
+       {"yazi": "Test yourself: Most afferent fibers of the auditory nerve connect to which cells?", "sonra_bekle": 5},
+       "The correct answer is A, inner hair cells. About ninety five percent of afferent fibers connect to these cells."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "The *Vestibular* Labyrinth: Otoliths and Canals", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will examine the balance part of the inner ear: the utricle, the saccule and the semicircular canals.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

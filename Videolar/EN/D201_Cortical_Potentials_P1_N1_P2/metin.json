@@ -1,0 +1,1086 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D201_Cortical_Potentials_P1_N1_P2_EN",
+ "kapak": {
+  "ust": "LESSON 201",
+  "baslik": "*Cortical*<br>potentials",
+  "alt": "P1, N1, P2 and aided cortical testing",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -50,
+    "max": 400,
+    "ad": "Time (ms)",
+    "isaretler": [
+     0,
+     100,
+     200,
+     300,
+     400
+    ]
+   },
+   "y": {
+    "min": -6,
+    "max": 6,
+    "adim": 2,
+    "ad": "Amplitude (µV)"
+   },
+   "seriler": [
+    {
+     "ad": "yetiskin",
+     "noktalar": [
+      [
+       -50,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       25,
+       0.3
+      ],
+      [
+       50,
+       1.6
+      ],
+      [
+       70,
+       0.4
+      ],
+      [
+       100,
+       -4.2
+      ],
+      [
+       130,
+       -1.5
+      ],
+      [
+       160,
+       2.2
+      ],
+      [
+       185,
+       3.4
+      ],
+      [
+       220,
+       1.5
+      ],
+      [
+       270,
+       0
+      ],
+      [
+       400,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 0
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "uyaran",
+     "x": 0,
+     "y": 0,
+     "cizgi": "dikey",
+     "etiket": "stimulus",
+     "cumle": 0
+    },
+    {
+     "ad": "p1",
+     "x": 50,
+     "y": 1.6,
+     "etiket": "P1",
+     "cumle": 2
+    },
+    {
+     "ad": "n1",
+     "x": 100,
+     "y": -4.2,
+     "etiket": "N1",
+     "cumle": 3
+    },
+    {
+     "ad": "p2",
+     "x": 185,
+     "y": 3.4,
+     "etiket": "P2",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Cortical Auditory Evoked Potentials: P1-N1-P2 | Lesson 201 | AIHEAR Audiology Academy",
+  "aciklama": "What are cortical auditory evoked potentials, and what does P1 latency show? In this lesson we cover the P1-N1-P2 complex, how P1 latency shortens with age and relates to central auditory development, aided cortical testing with speech stimuli, and the limitations of cortical responses.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Sharma, Dorman and Spahr, A sensitive period for the development of the central auditory system in children with cochlear implants, Ear and Hearing (2002); British Society of Audiology, Cortical Auditory Evoked Potential (CAEP) Testing (2022).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "CAEP",
+   "electrophysiology"
+  ],
+  "etiketler": [
+   "cortical auditory evoked potentials",
+   "CAEP",
+   "P1 latency",
+   "P1-N1-P2",
+   "aided cortical testing",
+   "cochlear implant",
+   "auditory neuropathy",
+   "central auditory development",
+   "sensitive period",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 201",
+   "baslik": "Cortical potentials: *P1-N1-P2*",
+   "alt": "The electrical trace of sound reaching the cortex",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    {
+     "yazi": "In this lesson we will learn about cortical auditory evoked potentials, the P1, N1 and P2 waves.",
+     "ses": "In this lesson we will learn about cortical auditory evoked potentials, the P one, N one and P two waves."
+    },
+    {
+     "yazi": "We will cover the role of P1 latency in central auditory development and its use in showing hearing aid and implant benefit.",
+     "ses": "We will cover the role of P one latency in central auditory development and its use in showing hearing aid and implant benefit."
+    }
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The cortical response",
+   "baslik": "P1, N1 and *P2*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -50,
+     "max": 400,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -6,
+     "max": 6,
+     "adim": 2,
+     "ad": "Amplitude (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "yetiskin",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        25,
+        0.3
+       ],
+       [
+        50,
+        1.6
+       ],
+       [
+        70,
+        0.4
+       ],
+       [
+        100,
+        -4.2
+       ],
+       [
+        130,
+        -1.5
+       ],
+       [
+        160,
+        2.2
+       ],
+       [
+        185,
+        3.4
+       ],
+       [
+        220,
+        1.5
+       ],
+       [
+        270,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "uyaran",
+      "x": 0,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "stimulus",
+      "cumle": 0
+     },
+     {
+      "ad": "p1",
+      "x": 50,
+      "y": 1.6,
+      "etiket": "P1",
+      "cumle": 2
+     },
+     {
+      "ad": "n1",
+      "x": 100,
+      "y": -4.2,
+      "etiket": "N1",
+      "cumle": 3
+     },
+     {
+      "ad": "p2",
+      "x": 185,
+      "y": 3.4,
+      "etiket": "P2",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Latency: _50 to 300_ ms",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Amplitude: a few _microvolts_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Cortical auditory evoked potentials, or CAEPs, are late responses generated in the auditory cortex.",
+    "They appear much later than the auditory brainstem response, or ABR, between fifty and three hundred milliseconds after the stimulus.",
+    {
+     "yazi": "In adults, the first positive peak is P1, seen at about fifty milliseconds.",
+     "ses": "In adults, the first positive peak is P one, seen at about fifty milliseconds."
+    },
+    {
+     "yazi": "It is followed by a large negative peak at about one hundred milliseconds, called N1.",
+     "ses": "It is followed by a large negative peak at about one hundred milliseconds, called N one."
+    },
+    {
+     "yazi": "The positive peak at around one hundred eighty milliseconds is P2.",
+     "ses": "The positive peak at around one hundred eighty milliseconds is P two."
+    },
+    "These responses are a few microvolts in amplitude, which is much larger than the ABR.",
+    {
+     "yazi": "In adults, the three waves are assessed together as the P1-N1-P2 complex.",
+     "ses": "In adults, the three waves are assessed together as the P one-N one-P two complex."
+    }
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The cortical response",
+   "baslik": "*Where* are they generated?",
+   "cizim": "beyin_yan",
+   "ayar": {
+    "loblar": true
+   },
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "Temporal lobe",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "Heschl's gyrus",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_temporal_girus",
+     "metin": "Superior temporal gyrus",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cortical responses arise from the primary and secondary auditory cortex areas in the temporal lobe.",
+    "Heschl's gyrus and the surrounding superior temporal region contribute most to these responses.",
+    "Recording a cortical response shows that sound has passed through the auditory pathway and reached the cortex.",
+    "These are obligatory, or exogenous, responses to sound; the person does not need to do a task.",
+    "Even so, attention, alertness and sleep state affect the size and shape of the response.",
+    "So cortical responses are usually recorded in a person who is awake and calm."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The cortical response",
+   "baslik": "Recording *conditions*",
+   "adimlar": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Awake, calm",
+     "metin": "Silent video",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrodes",
+     "metin": "Vertex and mastoid",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Stimulus",
+     "metin": "Tone or speech",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Slow rate",
+     "metin": "About one per second",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Averaging",
+     "metin": "Look for a response",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The person is awake and calm; young children are distracted with a silent video or quiet toys.",
+    "The active electrode is placed on the top of the head, the reference on the mastoid or earlobe, and the ground on the forehead.",
+    {
+     "yazi": "The stimulus can be brief tones or short speech sounds such as m, g and t, presented through a loudspeaker or earphones.",
+     "ses": "The stimulus can be brief tones or short speech sounds such as mm, guh and tuh, presented through a loudspeaker or earphones."
+    },
+    "Because cortical responses adapt to rapid repetition, stimuli are presented slowly, about once per second.",
+    "A filter of about one to thirty hertz is used to record these slow waves.",
+    "Fewer sweeps are needed than for ABR; an experienced eye or a statistical test decides whether a response is present."
+   ]
+  },
+  {
+   "id": "uyaran",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The cortical response",
+   "baslik": "Tones or *speech?*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tone",
+     "metin": "For frequency-specific threshold estimation.",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech sound",
+     "metin": "Does speech reach the cortex?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Two kinds of stimuli are used for cortical responses, and each has its own advantage.",
+    "A tone stimulus excites a particular frequency region, so it allows frequency-specific threshold estimation.",
+    "That is why tone stimuli are preferred for cortical threshold measurement, especially in adults.",
+    "Short speech sounds, on the other hand, are closer to the sounds heard in daily life.",
+    "Speech stimuli are used especially in infants with hearing aids or implants, to show whether speech reaches the cortex."
+   ]
+  },
+  {
+   "id": "p1",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "P1 and development",
+   "baslik": "P1 latency *shortens*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 20,
+     "ad": "Age (years)",
+     "isaretler": [
+      0,
+      5,
+      10,
+      15,
+      20
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 350,
+     "adim": 50,
+     "ad": "P1 latency (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "olgunlasma",
+      "noktalar": [
+       [
+        0,
+        300
+       ],
+       [
+        1,
+        230
+       ],
+       [
+        2,
+        190
+       ],
+       [
+        4,
+        150
+       ],
+       [
+        7,
+        120
+       ],
+       [
+        10,
+        100
+       ],
+       [
+        14,
+        82
+       ],
+       [
+        20,
+        62
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "schematic developmental curve",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yenidogan",
+      "x": 0,
+      "y": 300,
+      "etiket": "about 300 ms",
+      "cumle": 2
+     },
+     {
+      "ad": "yetiskin",
+      "x": 20,
+      "y": 62,
+      "etiket": "adult: about 60 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Newborn: about _300 ms_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Adult: about _60 ms_",
+     "cumle": 3,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "P1: a measure of _maturation_",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In children the cortical response looks different from adults; in young children the most prominent wave is a broad P1.",
+     "ses": "In children the cortical response looks different from adults; in young children the most prominent wave is a broad P one."
+    },
+    {
+     "yazi": "This schematic curve shows how P1 latency changes with age.",
+     "ses": "This schematic curve shows how P one latency changes with age."
+    },
+    {
+     "yazi": "In newborns and young infants, P1 latency is long, around three hundred milliseconds.",
+     "ses": "In newborns and young infants, P one latency is long, around three hundred milliseconds."
+    },
+    "Latency shortens quickly in the first years, then more slowly, reaching the adult value of about sixty milliseconds by around age twenty.",
+    {
+     "yazi": "The N1 wave becomes clear later in childhood, and the adult complex is completed only in the teenage years.",
+     "ses": "The N one wave becomes clear later in childhood, and the adult complex is completed only in the teenage years."
+    },
+    {
+     "yazi": "So P1 latency is used as a measure of the maturity of the central auditory pathways.",
+     "ses": "So P one latency is used as a measure of the maturity of the central auditory pathways."
+    },
+    {
+     "yazi": "Comparing a child's P1 latency with the range expected for age gives information about auditory development.",
+     "ses": "Comparing a child's P one latency with the range expected for age gives information about auditory development."
+    }
+   ]
+  },
+  {
+   "id": "duyarli",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "P1 and development",
+   "baslik": "The *trace* of the sensitive period",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Early stimulation",
+     "metin": "P1 soon approaches normal.",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Middle period",
+     "metin": "Responses are variable.",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Late stimulation",
+     "metin": "P1 often stays long.",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In the lesson on the critical period, we mentioned studies of P1 latency in children with cochlear implants.",
+     "ses": "In the lesson on the critical period, we mentioned studies of P one latency in children with cochlear implants."
+    },
+    {
+     "yazi": "In children implanted early, P1 latency can reach the age-appropriate range within a few months after stimulation begins.",
+     "ses": "In children implanted early, P one latency can reach the age-appropriate range within a few months after stimulation begins."
+    },
+    "In children implanted in the middle period, responses are more variable.",
+    {
+     "yazi": "In most children deprived of sound for a long time, P1 latency may not reach age-appropriate values even long after stimulation.",
+     "ses": "In most children deprived of sound for a long time, P one latency may not reach age-appropriate values even long after stimulation."
+    },
+    {
+     "yazi": "These findings show that P1 can be used to monitor how well a child is responding to auditory input.",
+     "ses": "These findings show that P one can be used to monitor how well a child is responding to auditory input."
+    }
+   ]
+  },
+  {
+   "id": "cihazli",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Aided cortical testing",
+   "baslik": "Aided cortical *testing*",
+   "adimlar": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Device on",
+     "metin": "At everyday settings",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Speech sound",
+     "metin": "From a loudspeaker",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Different levels",
+     "metin": "Soft, medium, loud",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Response present?",
+     "metin": "Reached the cortex?",
+     "cumle": 5
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Decision",
+     "metin": "Settings reviewed",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "In aided cortical testing, an infant or child is assessed while wearing their hearing aid or implant.",
+    "Short speech sounds are presented from a loudspeaker at levels that represent everyday speech.",
+    {
+     "yazi": "For example, m represents the low, g the mid, and t the high frequency region.",
+     "ses": "For example, mm represents the low, guh the mid, and tuh the high frequency region."
+    },
+    "The National Acoustic Laboratories of Australia, or NAL, developed a test system for this purpose.",
+    "In this system, sounds are presented at about fifty five, sixty five and seventy five decibels SPL, that is, soft, medium and loud speech.",
+    "A cortical response shows that the speech sound reached the cortex through the device.",
+    "No response at a soft speech level suggests that audibility in that frequency region may be insufficient.",
+    "Together with real-ear measurements, this information helps review the device settings."
+   ]
+  },
+  {
+   "id": "ne_soyler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Aided cortical testing",
+   "baslik": "What it shows, and *what it does not*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Response present",
+     "metin": "Sound reaches the cortex",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "No response",
+     "metin": "Not conclusive proof",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Discrimination",
+     "metin": "Not measured directly",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Combined interpretation",
+     "metin": "Real-ear, behavior",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A response is strong evidence that the sound is audible and has reached the cortex.",
+    "But an absent response does not prove the sound was not heard; even some infants with normal hearing may show no response to soft sounds.",
+    "Alertness, attention and residual noise also affect whether a response is seen.",
+    "A cortical response shows that sound was detected, but it does not directly show that speech was discriminated or understood.",
+    "So results are interpreted together with real-ear measurements, developmental follow-up and family observations."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "Clinical *uses*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Auditory neuropathy",
+     "metin": "Showing hearing aid benefit",
+     "cumle": 0
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implant follow-up",
+     "metin": "P1 maturation",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Device verification",
+     "metin": "Speech audibility",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Adult thresholds",
+     "metin": "Tone cortical thresholds",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Central questions",
+     "metin": "Cortical processing",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cortical responses are especially valuable when the ABR does not show the level of hearing.",
+    "In auditory neuropathy, cortical responses can be recorded even when the ABR is absent or abnormal, and can help show hearing aid benefit.",
+    {
+     "yazi": "In children with cochlear implants, the shortening of P1 latency over time is used to monitor central auditory development.",
+     "ses": "In children with cochlear implants, the shortening of P one latency over time is used to monitor central auditory development."
+    },
+    "In infants who use hearing aids, the audibility of speech sounds can be verified.",
+    "In adults, tone-evoked cortical thresholds are usually close to behavioral thresholds and can be used when functional loss is suspected.",
+    "In research, cortical responses are used to study changes linked to auditory processing and learning."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "Example: *OAE present, ABR absent*",
+   "maddeler": [
+    {
+     "metin": "OAE present, _ABR absent_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ABR _cannot estimate_ thresholds",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Aided _cortical testing_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "_Responses_ at medium, loud levels",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "None at soft: _team_ reviews",
+     "cumle": 4,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "OAE",
+      "metin": "Present",
+      "cumle": 0
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "ABR",
+      "metin": "Absent",
+      "cumle": 0
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "Cortical",
+      "metin": "Present, aided",
+      "cumle": 3
+     }
+    ],
+    "ust": "EXAMPLE"
+   },
+   "cumleler": [
+    "A purely example case: a six month old infant has otoacoustic emissions, or OAEs, but no ABR can be recorded.",
+    "This picture is consistent with auditory neuropathy, and in this infant the ABR does not let us estimate the hearing level.",
+    "While the infant is followed with hearing aids, aided cortical testing is done.",
+    "Responses to speech sounds at medium and loud levels show that these sounds reach the cortex through the hearing aid.",
+    "No response to soft sounds helps the team reconsider the settings and the communication plan.",
+    "These results are always interpreted together with family observations and developmental follow-up."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "*Limitations*",
+   "maddeler": [
+    {
+     "metin": "_Varies_ with alertness and attention",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "In children, shape changes _with age_",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Muscle and eye _artifacts_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Long, patient _recording_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Norms specific to _age and stimulus_",
+     "cumle": 4,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": -50,
+      "max": 400,
+      "ad": "Time (ms)",
+      "isaretler": [
+       0,
+       100,
+       200,
+       300,
+       400
+      ]
+     },
+     "y": {
+      "min": -6,
+      "max": 6,
+      "adim": 2,
+      "ad": "Amplitude (µV)"
+     },
+     "seriler": [
+      {
+       "ad": "yetiskin",
+       "noktalar": [
+        [
+         -50,
+         0
+        ],
+        [
+         0,
+         0
+        ],
+        [
+         25,
+         0.3
+        ],
+        [
+         50,
+         1.6
+        ],
+        [
+         70,
+         0.4
+        ],
+        [
+         100,
+         -4.2
+        ],
+        [
+         130,
+         -1.5
+        ],
+        [
+         160,
+         2.2
+        ],
+        [
+         185,
+         3.4
+        ],
+        [
+         220,
+         1.5
+        ],
+        [
+         270,
+         0
+        ],
+        [
+         400,
+         0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kalin": true,
+       "cumle": 0
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "uyaran",
+       "x": 0,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "stimulus",
+       "cumle": 0
+      },
+      {
+       "ad": "p1",
+       "x": 50,
+       "y": 1.6,
+       "etiket": "P1",
+       "cumle": 2
+      },
+      {
+       "ad": "n1",
+       "x": 100,
+       "y": -4.2,
+       "etiket": "N1",
+       "cumle": 3
+      },
+      {
+       "ad": "p2",
+       "x": 185,
+       "y": 3.4,
+       "etiket": "P2",
+       "cumle": 4
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Cortical responses are affected by sleep, attention and fatigue much more than the ABR.",
+    "Because the waveform changes markedly with age in children, interpretation requires age-appropriate experience.",
+    "Blinks, eye movements and muscle activity can contaminate these slow waves, so watching the child during recording matters.",
+    "The slow stimulus rate makes recording longer; with a restless child, the test may be spread over several sessions.",
+    "Latency and amplitude norms are specific to age, stimulus and recording method.",
+    "Because of these limitations, cortical testing does not replace the test battery but is a part that complements it."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In aided cortical testing, the infant should be awake but calm. Do not force the test when they are unsettled; repeating after a short break is more reliable.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the field: in cortical testing, the biggest enemies are drowsiness and restlessness.",
+    "Plan the test around feeding and nap times to keep the infant awake but calm.",
+    "Watch the child during recording; note restless periods and, if needed, leave those periods out of the analysis.",
+    "Do not write up a result as soon as no response is obtained; repeat the test when conditions improve."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "P1, N1, P2: a late _cortical_ response",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "P1 latency shortens _with age_",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Aided testing: does sound reach the _cortex?_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "No response is not _conclusive_ proof",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Cortical responses consist of the P1, N1 and P2 waves and show that sound has reached the auditory cortex.",
+     "ses": "Cortical responses consist of the P one, N one and P two waves and show that sound has reached the auditory cortex."
+    },
+    {
+     "yazi": "P1 latency is about three hundred milliseconds in newborns and shortens with age to about sixty milliseconds in adults.",
+     "ses": "P one latency is about three hundred milliseconds in newborns and shortens with age to about sixty milliseconds in adults."
+    },
+    "Aided cortical testing shows whether speech sounds reach the cortex through a hearing aid or implant.",
+    "A response is strong evidence, but its absence alone does not prove the sound was not heard."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "What does P1 latency reflect?",
+   "secenekler": [
+    "Middle ear pressure",
+    "Central auditory maturation",
+    "Outer hair cell function",
+    "Vestibular function"
+   ],
+   "dogru": 1,
+   "aciklama": "P1 latency shortens with age and reflects the maturity of _the central auditory pathways_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in cortical responses, what does P1 latency mainly reflect?",
+     "ses": "Test yourself: in cortical responses, what does P one latency mainly reflect?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: central auditory maturation.",
+    {
+     "yazi": "P1 latency shortens with age; in children with implants, its change after stimulation is used to monitor central development.",
+     "ses": "P one latency shortens with age; in children with implants, its change after stimulation is used to monitor central development."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "P300 and MMN: *Cognitive* Auditory Potentials",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "In the next lesson we will learn about cognitive responses linked to attention and discrimination: the P300 and the mismatch negativity.",
+     "ses": "In the next lesson we will learn about cognitive responses linked to attention and discrimination: the P three hundred and the mismatch negativity."
+    },
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

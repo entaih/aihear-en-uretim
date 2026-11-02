@@ -1,0 +1,135 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R289_CROS_Moves_Sound_EN",
+ "kapak": {
+  "ust": "QUICK FACT #289",
+  "baslik": "CROS moves *sound*",
+  "alt": "Single-sided deafness and CROS",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      90,
+      95,
+      100,
+      105,
+      110,
+      115
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does a CROS system make the deaf ear hear? #shorts",
+  "aciklama": "With CROS, the poor ear wears a device with only a microphone and transmitter, and sound is sent wirelessly to the receiving aid on the better ear. CROS does not fix the poor ear; it only carries sound from that side to the better ear, localization does not return, and noise on that side is carried too.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "CROS"
+  ],
+  "etiketler": [
+   "CROS",
+   "BiCROS",
+   "single-sided deafness",
+   "head shadow effect",
+   "localization",
+   "hearing aid",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does a CROS system make the deaf ear hear?",
+  "bilgiler": [
+   "The poor-side device has only a microphone and transmitter.",
+   "CROS does not fix the poor ear; it reroutes its sound.",
+   "Localization does not return; a trial period guides the decision."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "CROS"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #289",
+   "metin": "Will the poor ear *hear?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does a CROS system make the deaf ear hear?"
+   ]
+  },
+  {
+   "id": "cros",
+   "tur": "zincir",
+   "baslik": "How *CROS* works",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Poor side",
+     "tr": "mic, transmitter",
+     "cumle": 0
+    },
+    {
+     "ad": "Wireless",
+     "tr": "carries sound",
+     "cumle": 1
+    },
+    {
+     "ad": "Better ear",
+     "tr": "hears it",
+     "cumle": 2
+    }
+   ],
+   "alt": "Localization _does not return_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The poor ear wears a device with only a microphone and transmitter.",
+    "It sends sound wirelessly to the receiving aid on the better ear.",
+    "CROS does not fix the poor ear; it only reroutes its sound.",
+    "It helps most when, say, a passenger speaks from that side.",
+    "Localization does not return, and noise on that side is carried too."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D194",
+ "kaynak_baslik": "Bilateral Fitting, CROS and BiCROS"
+}

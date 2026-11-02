@@ -1,0 +1,85 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R050_Word_Score_EN",
+ "kapak": {
+  "ust": "QUICK FACT #50",
+  "baslik": "One word: *how many points?*",
+  "alt": "In a 25-word list, each word is 4 percent",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How many points is one word worth in a word recognition test? #shorts",
+  "aciklama": "In a 25-word list, each word is worth 4 percent; in a 50-word list, 2 percent. The shorter the list, the greater the random variability of the score.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "speech",
+   "hearing"
+  ],
+  "etiketler": [
+   "word recognition score",
+   "WRS",
+   "speech discrimination",
+   "speech audiometry",
+   "PB word list",
+   "audiology",
+   "hearing test",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How many points is one word worth in a word recognition test?",
+  "bilgiler": [
+   "In a 25-word list, each word is worth 4 percent.",
+   "In a 50-word list, each word is worth 2 percent.",
+   "The shorter the list, the greater the random variability of the score."
+  ],
+  "hashtag": [
+   "audiology",
+   "speech",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #50",
+   "metin": "In a word test, how much is *one word worth?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "In a word recognition test, how much is one word worth?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "In a *25-word* list",
+   "sayi": "4",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "In a twenty five word list, each word is worth four percent.",
+    "In a fifty word list, each word is worth two percent.",
+    "The shorter the list, the greater the random variability of the score."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D096",
+ "kaynak_baslik": "Word recognition score"
+}

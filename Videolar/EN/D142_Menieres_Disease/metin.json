@@ -1,0 +1,273 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D142_Menieres_Disease_EN",
+ "kapak": {
+  "ust": "LESSON 142",
+  "baslik": "*Meniere's*<br>disease",
+  "alt": "Hydrops, attacks and fluctuating loss",
+  "grafik": {
+   "bolge": {"ust": -10, "alt": 25},
+   "seriler": [
+    {"kulak": "sag", "tip": "hava", "degerler": [50, 50, 40, 25, 25, 30]},
+    {"kulak": "sol", "tip": "hava", "degerler": [10, 10, 10, 15, 15, 20]}
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Meniere's Disease and Endolymphatic Hydrops | Lesson 142 | AIHEAR Audiology Academy",
+  "aciklama": "We explain Meniere's disease and the endolymphatic hydrops that underlies it. With examples, we cover vertigo attacks lasting 20 minutes to 12 hours, fluctuating low-frequency sensorineural loss, tinnitus and aural fullness, and the Barany Society diagnostic criteria.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Lopez-Escamez et al., Diagnostic Criteria for Menière's Disease, Journal of Vestibular Research (2015); Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": ["audiology", "meniere", "vertigo"],
+  "etiketler": ["Meniere's disease", "endolymphatic hydrops", "vertigo", "fluctuating hearing loss", "aural fullness", "tinnitus", "low-frequency hearing loss", "Barany diagnostic criteria", "audiology lessons", "AIHEAR"]
+ },
+ "sahneler": [
+  {"id": "acilis", "tur": "acilis", "ust": "LESSON 142", "baslik": "*Meniere's* Disease and Endolymphatic Hydrops", "alt": "Attacks, fluctuating loss and diagnostic criteria",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn about Meniere's disease and the endolymphatic hydrops that underlies it.",
+    "We will cover vertigo attacks, fluctuating hearing loss and the Barany Society diagnostic criteria."]},
+
+  {"id": "tanim", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "The disease and hydrops", "baslik": "*Meniere's* disease",
+   "maddeler": [
+    {"metin": "Recurrent _vertigo_ attacks", "cumle": 1, "ikon": "bas_donmesi"},
+    {"metin": "Fluctuating _low-frequency_ loss", "cumle": 2, "ikon": "odyogram"},
+    {"metin": "_Tinnitus_ and aural fullness", "cumle": 3, "ikon": "kulak"}],
+   "yan": {"tur": "kart", "ust": "KEY FINDING", "metin": "*Endolymphatic hydrops* in the inner ear", "cumle": 5},
+   "cumleler": [
+    "Meniere's disease is a chronic disorder of the inner ear that comes in attacks.",
+    "Its main symptom is attacks of vertigo, a spinning sensation, that start spontaneously and last minutes to hours.",
+    "The attacks come with a fluctuating sensorineural hearing loss in the same ear that affects the low frequencies.",
+    "Tinnitus and a feeling of fullness in the ear complete the picture; these symptoms can increase before or during an attack.",
+    "The disease is named after Prosper Meniere, the French physician who linked these symptoms to the inner ear.",
+    "Endolymphatic hydrops is considered the key underlying finding."]},
+
+  {"id": "hidrops", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "The disease and hydrops", "baslik": "Endolymphatic *hydrops*",
+   "cizim": "koklea_kesit",
+   "vurgula": [{"parca": "scala_media", "cumle": 1}],
+   "etiketler": [
+    {"parca": "scala_media", "metin": "Scala media: endolymph", "cumle": 0},
+    {"parca": "reissner_membrani", "metin": "Reissner's membrane: pushed outward", "cumle": 2},
+    {"parca": "scala_vestibuli", "metin": "Scala vestibuli", "cumle": 2}],
+   "notlar": [
+    {"metin": "Hydrops: increased endolymph volume", "cumle": 1, "ikon": "kulak"},
+    {"metin": "Apex first: the low-frequency region", "cumle": 3, "ikon": "grafik"},
+    {"metin": "Hydrops can be symptom-free", "cumle": 4, "ikon": "dikkat"}],
+   "yakinlastir": [
+    {"parca": "scala_media", "cumle": 1, "olcek": 1.7},
+    {"parca": "genel", "cumle": 4}],
+   "cumleler": [
+    "The scala media, in the middle of the cochlear duct, is filled with endolymph, a fluid rich in potassium.",
+    "Endolymphatic hydrops is an increase in endolymph volume in this compartment, which then expands.",
+    "The expanding scala media pushes Reissner's membrane toward the scala vestibuli.",
+    "Hydrops usually affects the region near the cochlear apex first, the low-frequency region, which explains the low-frequency loss.",
+    "However, hydrops can be present without symptoms, so hydrops and Meniere's disease are not the same thing.",
+    "Why hydrops develops is not fully known; genetic, autoimmune and anatomical factors have been proposed."]},
+
+  {"id": "labirent", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "The disease and hydrops", "baslik": "Hydrops and the *balance* organ",
+   "cizim": "vestibuler",
+   "vurgula": [{"parca": "sakkul", "cumle": 1}],
+   "etiketler": [
+    {"parca": "sakkul", "metin": "Saccule: often affected", "cumle": 1},
+    {"parca": "utrikul", "metin": "Utricle", "cumle": 2},
+    {"parca": "yarim_daire_kanallari", "metin": "Semicircular canals", "cumle": 2}],
+   "cumleler": [
+    "Endolymph is found not only in the cochlea but also in the vestibular labyrinth.",
+    "After the cochlea, hydrops most often affects the saccule.",
+    "The utricle and the semicircular canals are affected less often and later.",
+    "How the spinning arises during an attack is not fully known; pressure and ion changes in the membranous labyrinth have been proposed.",
+    "That is why the severity of the attacks does not always parallel the degree of hydrops."]},
+
+  {"id": "seyir", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "The disease and hydrops", "baslik": "Who gets it, and how does it *progress?*",
+   "maddeler": [
+    {"metin": "Usually starts in _middle age_", "cumle": 0, "ikon": "takvim"},
+    {"metin": "Mostly _one ear_ at first", "cumle": 1, "ikon": "kulak"},
+    {"metin": "The _second ear_ may be affected later", "cumle": 2, "ikon": "uyari"},
+    {"metin": "Attack frequency is _unpredictable_", "cumle": 3, "ikon": "soru"},
+    {"metin": "Hearing may worsen _permanently_ over time", "cumle": 4, "ikon": "grafik"}],
+   "cumleler": [
+    "The disease most often begins between the ages of forty and sixty, but it can occur at any age.",
+    "At first, usually only one ear is affected.",
+    "Over the years, the second ear is also affected in some patients, and the disease becomes bilateral.",
+    "Attacks can come in clusters or be absent for months or years; the course varies greatly between people.",
+    "Hearing that recovers between attacks in the early stage may worsen permanently in later years.",
+    "In the late stage, the loss often becomes moderate to severe, with a flatter curve."]},
+
+  {"id": "atak", "tur": "akis", "bolum_no": "PART 2", "bolum": "Attacks and symptoms", "baslik": "How does an *attack* unfold?",
+   "adimlar": [
+    {"ikon": "kulak_tikali", "baslik": "Before", "metin": "Fullness, more tinnitus", "cumle": 0},
+    {"ikon": "bas_donmesi", "baslik": "Spinning", "metin": "20 minutes to 12 hours", "cumle": 1},
+    {"ikon": "denge", "baslik": "Nausea, vomiting", "metin": "Unable to stand", "cumle": 2},
+    {"ikon": "goz", "baslik": "Nystagmus", "metin": "Horizontal and torsional", "cumle": 3},
+    {"ikon": "hasta", "baslik": "Afterward", "metin": "Fatigue and imbalance", "cumle": 4}],
+   "cumleler": [
+    "Before an attack, many patients feel fullness in the ear, louder tinnitus or reduced hearing.",
+    "The spinning sensation that follows lasts between twenty minutes and twelve hours, according to the Barany criteria.",
+    "Nausea, vomiting and being unable to stand are common during the attack.",
+    "On examination, a nystagmus with horizontal and torsional components is often seen; its direction can change during the attack.",
+    "After the attack, fatigue and a sense of imbalance can remain for hours or days.",
+    "Spinning that lasts a few seconds, or dizziness that continues without a break for days, is not a typical Meniere's attack."]},
+
+  {"id": "kulak", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Attacks and symptoms", "baslik": "Ear *symptoms*",
+   "maddeler": [
+    {"metin": "_Tinnitus_: often a low roar", "cumle": 0, "ikon": "kulak"},
+    {"metin": "_Fullness_: a blocked, pressured feeling", "cumle": 1, "ikon": "kulak_tikali"},
+    {"metin": "Day-to-day _fluctuation_ in hearing", "cumle": 2, "ikon": "grafik"},
+    {"metin": "Symptoms rise _in the same ear_", "cumle": 3, "ikon": "dikkat"}],
+   "cumleler": [
+    "The tinnitus of Meniere's disease is often described as a low-pitched hum or roaring sound.",
+    "Aural fullness is the feeling that the ear is blocked or under pressure, and it may become prominent before an attack.",
+    "Patients notice that their hearing is better on some days and worse on others.",
+    "When these ear symptoms rise in the same ear and at the same time as the vertigo, it is valuable for the assessment.",
+    "A diary that records the timing of symptoms helps both the physician and the audiologist."]},
+
+  {"id": "gec_donem", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Attacks and symptoms", "baslik": "*Late-stage* features",
+   "maddeler": [
+    {"metin": "_Tumarkin_ drop attacks", "cumle": 0, "ikon": "denge"},
+    {"metin": "Distorted pitch: _diplacusis_", "cumle": 2, "ikon": "ses_dalgasi"},
+    {"metin": "_Recruitment_ and sound discomfort", "cumle": 3, "ikon": "hoparlor"},
+    {"metin": "_Reduced_ speech discrimination", "cumle": 4, "ikon": "konusma"}],
+   "cumleler": [
+    "In advanced disease, some people have sudden drop attacks, falling to the ground without losing consciousness.",
+    "These are called Tumarkin's otolithic crises and are explained by sudden stimulation of the otolith organs.",
+    "In the affected ear, sounds may be heard at a different pitch or distorted; this is called diplacusis.",
+    "Because of recruitment, an abnormally rapid growth of loudness, loud sounds can become uncomfortable.",
+    "As the disease progresses, speech discrimination scores may also fall."]},
+
+  {"id": "odyogram", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Audiological findings", "baslik": "A typical *low-frequency* loss",
+   "lejant": [
+    {"isaret": "O", "renk": "sag", "metin": "_Right ear_: air conduction", "cumle": 0},
+    {"isaret": "&lt;", "renk": "sag", "metin": "_Bone conduction_: right ear", "cumle": 1},
+    {"isaret": "X", "renk": "sol", "metin": "_Left ear_: air conduction", "cumle": 2},
+    {"isaret": "&gt;", "renk": "sol", "metin": "_Bone conduction_: left ear", "cumle": 3},
+    {"isaret": "✓", "renk": "yesil", "metin": "_Normal_: up to 25 dB HL", "cumle": 0}],
+   "grafik": {
+    "seriler": [
+     {"kulak": "sag", "tip": "hava", "degerler": [50, 50, 40, 25, 25, 30], "cumle": 0},
+     {"kulak": "sag", "tip": "kemik", "degerler": [45, 45, 40, 25, 20], "cumle": 1},
+     {"kulak": "sol", "tip": "hava", "degerler": [10, 10, 10, 15, 15, 20], "cumle": 2},
+     {"kulak": "sol", "tip": "kemik", "degerler": [10, 10, 10, 15, 15], "cumle": 3}],
+    "bolge": {"ust": -10, "alt": 25, "etiket": "Normal", "cumle": 0}},
+   "cumleler": [
+    "In this example, the right ear shows a loss that is clear at the low frequencies and improves toward the highs.",
+    "Bone conduction thresholds overlap with air conduction, so the loss is sensorineural.",
+    "The left ear is within normal limits; this one-sided picture may be consistent with early Meniere's disease.",
+    "Barany wants bone conduction at two adjacent frequencies below two thousand hertz to be at least thirty decibels worse than the other ear.",
+    "Here, the bone conduction difference is thirty five decibels at two hundred fifty and five hundred hertz, so this criterion is met.",
+    "Some patients show a curve where low and high frequencies are both affected, peaking around two thousand hertz."]},
+
+  {"id": "dalgalanma", "tur": "tablo", "bolum_no": "PART 3", "bolum": "Audiological findings", "baslik": "Fluctuating *thresholds*",
+   "sutunlar": ["Time", "250 Hz", "500 Hz", "1000 Hz"],
+   "satirlar": [
+    {"hucreler": ["Symptomatic period", "50 dB HL", "50 dB HL", "40 dB HL"], "cumle": 1},
+    {"hucreler": ["Two weeks later", "25 dB HL", "25 dB HL", "20 dB HL"], "cumle": 2},
+    {"hucreler": ["Six months later", "40 dB HL", "45 dB HL", "35 dB HL"], "cumle": 3, "vurgu": true}],
+   "cumleler": [
+    "One of the most distinctive features of Meniere's disease is that hearing fluctuates over time.",
+    "In this sample table, the low-frequency thresholds of one ear during a symptomatic period are between forty and fifty decibels.",
+    "At the check two weeks later, the thresholds have clearly improved.",
+    "At the measurement six months later, the thresholds have worsened again.",
+    "A single audiogram cannot show this fluctuation, which is why serial audiograms are so valuable.",
+    "Doing serial measurements with the same equipment and the same method makes the comparison reliable."]},
+
+  {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical tip",
+   "metin": "With aural fullness, do not stop at tympanometry; measure low-frequency bone conduction and plan a retest during a symptomatic period.",
+   "cumleler": [
+    "A clinical tip: a complaint of aural fullness is often taken for a middle ear problem.",
+    "If the tympanogram is normal, do not stop there; always measure air and bone conduction thresholds at the low frequencies.",
+    "A low-frequency sensorineural loss with a normal tympanogram is an important finding that calls for referral to a physician.",
+    "Also tell the patient they can come to the clinic when symptoms increase; an audiogram taken then is very informative."]},
+
+  {"id": "testler", "tur": "ikonlar", "bolum_no": "PART 3", "bolum": "Audiological findings", "baslik": "Supporting *tests*",
+   "ogeler": [
+    {"ikon": "grafik", "baslik": "ECochG", "metin": "Increased SP/AP ratio", "cumle": 0},
+    {"ikon": "denge", "baslik": "Caloric", "metin": "Weakness on the affected side", "cumle": 1},
+    {"ikon": "goz", "baslik": "vHIT", "metin": "Often normal", "cumle": 2},
+    {"ikon": "noron", "baslik": "VEMP", "metin": "Variable findings", "cumle": 3},
+    {"ikon": "hastane", "baslik": "MRI", "metin": "Rule out retrocochlear causes, image hydrops", "cumle": 4}],
+   "cumleler": [
+    {"yazi": "Electrocochleography, or ECochG, may show an increased ratio of summating potential to action potential in the affected ear.", "ses": "Electrocochleography, or E cock G, may show an increased ratio of summating potential to action potential in the affected ear."},
+    "On caloric testing, a weak response on the affected side is common.",
+    "In contrast, the video head impulse test often stays normal; we will discuss this dissociation in later lessons.",
+    "VEMP responses can also be affected, but the findings vary.",
+    "Magnetic resonance imaging is used to rule out retrocochlear causes; with special techniques, hydrops can also be shown.",
+    "None of these tests establishes the diagnosis on its own; diagnosis rests on clinical criteria."]},
+
+  {"id": "olcutler", "tur": "karsilastir", "bolum_no": "PART 4", "bolum": "Diagnostic criteria", "baslik": "Barany criteria: *definite* and probable",
+   "sol": {"ust": "Definite Meniere's",
+    "maddeler": [
+     {"metin": "At least two vertigo attacks", "cumle": 1},
+     {"metin": "Each 20 min to 12 hours", "cumle": 1},
+     {"metin": "Audiometric low- and mid-frequency loss", "cumle": 2},
+     {"metin": "Fluctuating ear symptoms", "cumle": 3}]},
+   "sag": {"ust": "Probable Meniere's",
+    "maddeler": [
+     {"metin": "At least two vertigo or dizziness episodes", "cumle": 4},
+     {"metin": "Each 20 min to 24 hours", "cumle": 4},
+     {"metin": "Fluctuating ear symptoms", "cumle": 4},
+     {"metin": "No audiometric evidence required", "cumle": 4}]},
+   "cumleler": [
+    {"yazi": "In 2015, the Barany Society and related international societies published joint diagnostic criteria.", "ses": "In twenty fifteen, the Barany Society and related international societies published joint diagnostic criteria."},
+    "Definite Meniere's disease requires at least two spontaneous vertigo attacks, each lasting twenty minutes to twelve hours.",
+    "In addition, the affected ear must have an audiometrically documented low- to mid-frequency sensorineural loss.",
+    "Fluctuating ear symptoms in the same ear, such as changes in hearing, tinnitus or fullness, are also required.",
+    "In probable Meniere's disease, attacks last twenty minutes to twenty four hours, and no audiometric evidence is required.",
+    "In both cases, the picture must not be better explained by another vestibular diagnosis."]},
+
+  {"id": "ayirici", "tur": "ikonlar", "bolum_no": "PART 4", "bolum": "Diagnostic criteria", "baslik": "What is in the *differential* diagnosis?",
+   "ogeler": [
+    {"ikon": "agri", "baslik": "Vestibular migraine", "metin": "The closest mimic", "cumle": 0},
+    {"ikon": "noron", "baslik": "Vestibular schwannoma", "metin": "Retrocochlear cause", "cumle": 2},
+    {"ikon": "laboratuvar", "baslik": "Autoimmune inner ear", "metin": "Bilateral, rapidly progressive", "cumle": 3},
+    {"ikon": "uyari", "baslik": "Sudden loss, labyrinthitis", "metin": "Usually a single episode", "cumle": 4}],
+   "cumleler": [
+    "The condition that most resembles Meniere's disease is vestibular migraine, and the two can also occur in the same person.",
+    "Vestibular migraine can also bring attacks and ear symptoms, but a clear and permanent hearing loss is not expected.",
+    "One-sided hearing loss and tinnitus should also bring to mind retrocochlear causes such as vestibular schwannoma.",
+    "Autoimmune inner ear disease is considered especially in bilateral, rapidly progressive losses.",
+    "Sudden hearing loss and labyrinthitis are usually single, non-recurring events.",
+    "Making this distinction is the physician's task; audiological findings make an important contribution to the process."]},
+
+  {"id": "rol", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "The audiologist's role", "baslik": "The *audiologist's* role",
+   "maddeler": [
+    {"metin": "An _audiogram_ during symptoms", "cumle": 0, "ikon": "odyogram"},
+    {"metin": "Document _fluctuation_ with serial tests", "cumle": 1, "ikon": "grafik"},
+    {"metin": "Vestibular test _battery_", "cumle": 2, "ikon": "denge"},
+    {"metin": "Hearing and tinnitus _rehabilitation_", "cumle": 3, "ikon": "isitme_cihazi"},
+    {"metin": "_Collaboration_ with the physician", "cumle": 5, "ikon": "hekim"}],
+   "cumleler": [
+    "The audiologist's first task is to document hearing accurately, especially during symptomatic periods.",
+    "Serial audiograms show the fluctuation and help in assessing the diagnostic criteria.",
+    "Vestibular tests reveal the affected side and the state of vestibular function.",
+    "For permanent hearing loss and tinnitus, rehabilitation options such as hearing aids and counseling can be planned.",
+    "Treatment is planned by the physician, and it ranges widely, from lifestyle changes to medication and interventional procedures.",
+    "That is why the audiologist works in constant contact with the ENT physician."]},
+
+  {"id": "ozet", "tur": "ozet", "bolum_ad": "Summary and test", "baslik": "What we *learned*",
+   "maddeler": [
+    {"metin": "Hydrops: expansion of the _scala media_", "cumle": 0, "ikon": "kulak"},
+    {"metin": "Attacks: _20 minutes to 12 hours_", "cumle": 1, "ikon": "bas_donmesi"},
+    {"metin": "Fluctuating _low-frequency_ sensorineural loss", "cumle": 2, "ikon": "odyogram"},
+    {"metin": "Barany: attacks, audiogram, _ear symptoms_", "cumle": 3, "ikon": "kontrol_listesi"}],
+   "cumleler": [
+    "Meniere's disease is based on endolymphatic hydrops, an expansion of the scala media.",
+    "Vertigo attacks last twenty minutes to twelve hours.",
+    "The hearing loss begins at the low frequencies and fluctuates, which is why serial audiograms matter.",
+    "The Barany criteria look for attacks, audiometric loss and fluctuating ear symptoms together."]},
+
+  {"id": "test", "tur": "test", "bolum_ad": "Summary and test",
+   "soru": "In definite Meniere's disease, how long does a vertigo attack last?",
+   "secenekler": ["A few seconds", "20 minutes to 12 hours", "Days without a break"],
+   "dogru": 1,
+   "aciklama": "Barany criteria: at least two attacks lasting _20 minutes to 12 hours_.",
+   "cumleler": [
+    {"yazi": "Test yourself: According to the Barany criteria, how long does a vertigo attack last in definite Meniere's disease?", "sonra_bekle": 5},
+    "The correct answer is B: twenty minutes to twelve hours.",
+    "Positional spinning that lasts seconds, or dizziness that continues for days without a break, suggests other conditions."]},
+
+  {"id": "kapanis", "tur": "kapanis", "sonraki": "Vestibular *Schwannoma* and CPA Tumors", "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will examine vestibular schwannoma and cerebellopontine angle tumors, together with their audiological findings.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+ ]
+}

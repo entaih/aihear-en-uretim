@@ -1,0 +1,768 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D081_Pitch_Perception_EN",
+ "kapak": {
+  "ust": "LESSON 81",
+  "baslik": "*Pitch*<br>perception",
+  "alt": "Place, timing and the missing fundamental",
+  "cizim": "atim_dizisi",
+  "ayar": {
+   "frekans_hz": 250
+  }
+ },
+ "youtube": {
+  "baslik": "Pitch Perception and Frequency Discrimination | Lesson 81 | AIHEAR Audiology Academy",
+  "aciklama": "How does the ear perceive the pitch of a sound? In this lesson we cover the concept of pitch and the mel scale, place and temporal theories, the frequency difference limen, the missing fundamental, the pitch of complex sounds, and why pitch perception matters in hearing loss, cochlear implants and the clinic.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Plack, The Sense of Hearing; Stevens, Volkmann and Newman (1937), A scale for the measurement of the psychological magnitude pitch, Journal of the Acoustical Society of America; Wier, Jesteadt and Green (1977), Frequency discrimination as a function of frequency and sensation level, Journal of the Acoustical Society of America; Schouten (1940), The residue and the mechanism of hearing, Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "psychoacoustics",
+   "pitch"
+  ],
+  "etiketler": [
+   "pitch perception",
+   "pitch",
+   "place theory",
+   "temporal theory",
+   "missing fundamental",
+   "residue pitch",
+   "frequency discrimination",
+   "frequency difference limen",
+   "mel scale",
+   "psychoacoustics",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 81",
+   "baslik": "Pitch perception and *frequency* discrimination",
+   "alt": "Place, timing and the missing fundamental",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we move from loudness to pitch and learn how the ear perceives frequency.",
+    "We will look in turn at place and temporal theories, the frequency difference limen and the missing fundamental."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What is pitch?",
+   "baslik": "Pitch: a *perceptual* attribute",
+   "ogeler": [
+    {
+     "ikon": "muzik",
+     "baslik": "Pitch",
+     "metin": "Ordering from low to high",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frequency",
+     "metin": "Main physical correlate",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Mel scale",
+     "metin": "1000 Hz = 1000 mels",
+     "cumle": 4
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Octave",
+     "metin": "Twice the frequency",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Pitch is the perceptual attribute that lets us order sounds from low to high.",
+    "The physical correlate of pitch is largely frequency, but unlike frequency, pitch cannot be measured directly with an instrument.",
+    "For pure tones, pitch rises with frequency; for complex periodic sounds, it usually corresponds to the fundamental frequency.",
+    "Pitch is also slightly affected by sound level, but this effect is small and varies from person to person.",
+    {
+     "yazi": "Stevens and colleagues proposed the mel scale in 1937; a one kilohertz tone at forty decibels sensation level is set at one thousand mels.",
+     "ses": "Stevens and colleagues proposed the mel scale in nineteen thirty seven; a one kilohertz tone at forty decibels sensation level is set at one thousand mels."
+    },
+    "On the mel scale, pitch does not grow linearly with frequency; at high frequencies, the same frequency step gives a smaller pitch step.",
+    "In music, pitch is heard in ratios; doubling the frequency gives the same note one octave higher."
+   ]
+  },
+  {
+   "id": "muzik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "What is pitch?",
+   "baslik": "Pitch in music and *speech*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Pitch height",
+     "metin": "Rises continuously",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Pitch chroma",
+     "metin": "Repeats every octave",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Intonation",
+     "metin": "Rises at a question's end",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Tonal languages",
+     "metin": "Pitch changes meaning",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Pitch has two dimensions: pitch height and pitch chroma.",
+    "Pitch height rises continuously from low to high, while chroma repeats every octave, so a C and the next C up sound similar.",
+    "Very few people can name a note without a reference; this ability is called absolute pitch.",
+    "In speech, pitch carries intonation; the rise in fundamental frequency at the end of a question is an example.",
+    "In tonal languages such as Mandarin Chinese, a change in pitch changes the meaning of a word.",
+    "Fundamental frequency is also an important cue for recognizing a speaker's sex, age and emotion."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Place and timing",
+   "baslik": "*Place* theory",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    },
+    {
+     "parca": "tepe",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Base: high",
+     "cumle": 3
+    },
+    {
+     "parca": "tepe",
+     "metin": "Apex: low",
+     "cumle": 3
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Point of maximum vibration",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Pitch = _point of maximum vibration_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Strong_ explanation for high tones",
+     "cumle": 5,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Broad_ peak for low tones",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "How does the ear turn frequency into pitch? Two classic theories answer this question: place theory and temporal theory.",
+    "According to place theory, pitch depends on the point of maximum vibration on the basilar membrane.",
+    "This idea, with roots going back to Helmholtz, gained strong support when Békésy demonstrated the traveling wave.",
+    "High sounds stimulate the base of the cochlea most strongly and low sounds the apex; this arrangement is called tonotopy.",
+    "Which nerve fibers fire most tells the brain where the vibration is, and therefore what the frequency is.",
+    "Place theory explains pitch especially well at high frequencies.",
+    "But for low sounds the peak of the traveling wave is broad, and fine pitch differences are hard to explain by place alone."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Place and timing",
+   "baslik": "*Temporal* theory",
+   "cizim": "atim_dizisi",
+   "ayar": {
+    "frekans_hz": 250,
+    "periyot": 6,
+    "ates": [
+     1,
+     0,
+     1,
+     1,
+     0,
+     1
+    ],
+    "cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "evre",
+     "cumle": 1
+    },
+    {
+     "parca": "aralik",
+     "cumle": 2
+    },
+    {
+     "parca": "atimlar",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "aralik",
+     "metin": "Intervals are multiples of the period",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Spikes at _the same phase_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Volley: fibers fire _together_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Absent above about _4 to 5 kHz_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "According to temporal theory, pitch is coded by the timing of nerve impulses.",
+    "Auditory nerve fibers fire at a particular phase of the wave; this is called phase locking.",
+    "The intervals between spikes are multiples of the period, and the brain can extract frequency from this pattern.",
+    "A single fiber cannot fire on every cycle, but by Wever's volley principle, groups of fibers together mark every cycle.",
+    "Phase locking fades above about four to five kilohertz, so the temporal code does not work at high frequencies.",
+    "We saw this mechanism in the lesson on auditory nerve coding; here we look at its consequences for perception.",
+    "The current view is that both codes work together: timing and place at low and mid frequencies, mostly place at high frequencies."
+   ]
+  },
+  {
+   "id": "kanit",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Place and timing",
+   "baslik": "*Clues* from perception",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Difference limen",
+     "metin": "Grows above 4 to 5 kHz",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Melody",
+     "metin": "Hard above about 5 kHz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Finer than the filter",
+     "metin": "A difference of a few Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Missing fundamental",
+     "metin": "Place alone is not enough",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Important clues about the role of the two codes come from perception experiments.",
+    "The frequency difference limen grows clearly above about four to five kilohertz, where phase locking also fades.",
+    "Likewise, melodies played with tones above about five kilohertz are hard to recognize; the sense of musical pitch weakens.",
+    "At one kilohertz the auditory filter is about one hundred thirty hertz wide, yet the difference limen is only a few hertz.",
+    "These findings suggest that timing information is important for fine pitch perception.",
+    "The missing fundamental shows that pitch cannot be explained by the place of maximum vibration alone; we will look at it shortly."
+   ]
+  },
+  {
+   "id": "dlf",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Frequency discrimination",
+   "baslik": "The frequency *difference limen*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Difference limen (% of frequency)"
+    },
+    "seriler": [
+     {
+      "ad": "dlf",
+      "noktalar": [
+       [
+        125,
+        0.8
+       ],
+       [
+        250,
+        0.45
+       ],
+       [
+        500,
+        0.3
+       ],
+       [
+        1000,
+        0.22
+       ],
+       [
+        2000,
+        0.2
+       ],
+       [
+        4000,
+        0.3
+       ],
+       [
+        6000,
+        0.6
+       ],
+       [
+        8000,
+        1.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bin",
+      "x": 1000,
+      "y": 0.22,
+      "etiket": "1 kHz: a few Hz",
+      "dy": -24,
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "tiz",
+      "x": [
+       4000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "weak phase locking",
+      "cumle": 4,
+      "opak": 0.2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "bin",
+     "cumle": 2
+    },
+    {
+     "parca": "tiz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The frequency difference limen is the smallest detectable difference in frequency between two tones.",
+    "In the measurement, the listener hears two tones in a row and is asked which one is higher.",
+    "In young adults with normal hearing, the limen at one kilohertz is only a few hertz, about two to three parts per thousand.",
+    "On the graph you can see that, relative to frequency, the limen is smallest at mid frequencies; the values are representative.",
+    "Above four to five kilohertz, this ratio grows clearly larger.",
+    "The limen also grows at low levels and for very short tones; for a clear pitch, a sound should last at least a few tens of milliseconds.",
+    "Practice improves this skill; trained musicians often have smaller difference limens."
+   ]
+  },
+  {
+   "id": "eksik_temel",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "The pitch of complex sounds",
+   "baslik": "The *missing* fundamental",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1400,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      0,
+      200,
+      400,
+      600,
+      800,
+      1000,
+      1200
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": "Amplitude"
+    },
+    "seriler": [
+     {
+      "ad": "harmonikler",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        600,
+        1
+       ],
+       [
+        800,
+        0.9
+       ],
+       [
+        1000,
+        0.8
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "eksik",
+      "x": 200,
+      "y": 1,
+      "cizgi": "dikey",
+      "renk": "kirmizi",
+      "nokta": false,
+      "etiket": "pitch heard: 200 Hz",
+      "dx": 20,
+      "dy": -6,
+      "hiza": "start",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "aralik",
+      "x": [
+       600,
+       800
+      ],
+      "y": 1.1,
+      "etiket": "200 Hz spacing",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "eksik",
+     "cumle": 3
+    },
+    {
+     "parca": "aralik",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Imagine a sound with a fundamental frequency of two hundred hertz from which we remove the fundamental completely.",
+    "Only the harmonics at six hundred, eight hundred and one thousand hertz remain.",
+    "The listener still hears a pitch of two hundred hertz; that is, the pitch of a fundamental that is not there.",
+    "This is called the missing fundamental, and the pitch heard is called the residue pitch.",
+    {
+     "yazi": "It was observed in Seebeck's experiments in the nineteenth century and studied systematically by Schouten in 1940.",
+     "ses": "It was observed in Seebeck's experiments in the nineteenth century and studied systematically by Schouten in nineteen forty."
+    },
+    "The harmonics are spaced two hundred hertz apart and the wave repeats every five milliseconds; the brain hears this regularity as pitch.",
+    "A telephone line cuts sound below about three hundred hertz, yet a male voice keeps its pitch, because the harmonics carry it."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "The pitch of complex sounds",
+   "baslik": "*Where* does residue pitch come from?",
+   "maddeler": [
+    {
+     "metin": "Pitch _persists_ with low noise",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Harmonics processed _together_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Resolved _low-numbered_ harmonics are strongest",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Place and timing _combine_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "dalga_bicimi",
+    "cumle": 2,
+    "ayar": {
+     "seriler": [
+      "karmasik"
+     ],
+     "frekans_hz": 200
+    }
+   },
+   "cumleler": [
+    "Does this pitch come from a distortion product created in the ear? Experiments show this is not the main explanation.",
+    "Even when low noise is added in the region of the fundamental, the residue pitch is still heard.",
+    "So pitch arises not from the cochlear region tuned to the fundamental, but from processing the harmonics together.",
+    "Low-numbered harmonics, which the cochlea can resolve individually, give the strongest cue for pitch.",
+    "High-numbered harmonics fall into the same auditory filter and interact; they give a weaker pitch.",
+    "Current models explain pitch as a central pattern recognition process that combines place and timing information."
+   ]
+  },
+  {
+   "id": "konusmaci",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "The pitch of complex sounds",
+   "baslik": "Separating *talkers* by pitch",
+   "maddeler": [
+    {
+     "metin": "Different F0: _easier_ to follow a talker",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Difference limens may _grow_ with age",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Timing precision _declines_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Understanding in crowds gets _harder_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TWO TALKERS",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Talker A",
+      "metin": "Low fundamental frequency",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Talker B",
+      "metin": "High fundamental frequency",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Pitch is also an important cue for separating two talkers.",
+    "If two people speaking at the same time have different fundamental frequencies, the listener follows the target talker more easily.",
+    "Older adults have been reported to have larger frequency difference limens, even with similar audiograms.",
+    "This is thought to be related to reduced timing precision in nerve fibers.",
+    "This partly explains why understanding becomes harder in settings with several talkers."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Pitch in the clinic",
+   "baslik": "Pitch and *hearing loss*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Cochlear loss",
+     "metin": "Difference limens grow",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Diplacusis",
+     "metin": "Different pitch in each ear",
+     "cumle": 2
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Cochlear implant",
+     "metin": "Music and pitch limited",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Frequency lowering",
+     "metin": "Perceived pitch changes",
+     "cumle": 4
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tinnitus matching",
+     "metin": "Octave confusion",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Pitch perception also matters in the clinic.",
+    "In cochlear loss, auditory filters broaden and timing information may be disrupted; frequency difference limens grow.",
+    "Some patients report hearing the same tone at a different pitch in each ear; this is called diplacusis.",
+    "Cochlear implant users get frequency mainly from electrode place, so music and voice pitch perception may stay limited.",
+    "In hearing aids with frequency lowering, high sounds are moved to a lower region, so the perceived pitch also changes.",
+    "In tinnitus pitch matching, patients often make octave errors up or down, so an octave check is recommended.",
+    "So pitch complaints may reflect a hearing ability that the audiogram does not show."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Record a new complaint of distorted pitch in one ear in the history and assess it with the audiogram; do not delay medical evaluation.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from the clinic: take seriously a patient's complaint that sounds seem to have a different or distorted pitch.",
+    "Newly distorted pitch in one ear may be reported in conditions such as sudden hearing loss or Meniere's disease.",
+    "Record this complaint in detail in the history and assess it together with any change on the audiogram.",
+    "A new one-sided complaint can be a warning sign not to delay medical evaluation."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Pitch: the _perceptual_ side of frequency",
+     "cumle": 0,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Place and _timing_ codes together",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Limen at 1 kHz: _a few Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Missing fundamental: _harmonic spacing_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Pitch is the perceptual attribute that orders sounds from low to high, and it depends largely on frequency.",
+    "The place code contributes to pitch at all frequencies, and the timing code below about four to five kilohertz.",
+    "At one kilohertz the frequency difference limen is only a few hertz; at high frequencies it grows clearly larger.",
+    "The pitch of complex sounds is perceived from the regularity of the harmonics, even without the fundamental."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Harmonics at 900, 1200, 1500 Hz: pitch?",
+   "secenekler": [
+    "300 Hz",
+    "900 Hz",
+    "1200 Hz",
+    "1500 Hz"
+   ],
+   "dogru": 0,
+   "aciklama": "The harmonics are _300 Hz_ apart; this is the pitch of the missing fundamental.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: a sound has only harmonics at nine hundred, twelve hundred and fifteen hundred hertz. What pitch is heard?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: three hundred hertz.",
+    "The spacing between the harmonics is three hundred hertz; the listener hears the pitch of this missing fundamental."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Masking and the *Critical Band*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn how one sound covers another, that is, masking, and the critical band.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

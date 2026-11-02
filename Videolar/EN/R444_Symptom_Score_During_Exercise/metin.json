@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R444_Symptom_Score_During_Exercise_EN",
+ "kapak": {
+  "ust": "QUICK FACT #444",
+  "baslik": "From zero *to ten*",
+  "alt": "Symptom score during exercise",
+  "cizim": "denge_durus",
+  "vurgula": [
+   "salinim"
+  ],
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Is it a bad sign if dizziness increases during exercise? #shorts",
+  "aciklama": "In vestibular rehabilitation, a practical way to monitor symptoms during exercise is a symptom score from zero to ten; in the example, the score is two before exercise, rises to five during it, and soon falls back to baseline after it ends, which shows a suitable intensity. If the score rises very high and stays up for a long time, the intensity is reduced; a new symptom, a fall or a decline in general condition is reported to the clinician right away.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "balance",
+   "rehabilitation"
+  ],
+  "etiketler": [
+   "vestibular rehabilitation",
+   "symptom score",
+   "home exercise program",
+   "exercise intensity",
+   "dizziness",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Is it a bad sign if dizziness increases during exercise?",
+  "bilgiler": [
+   "Symptoms are scored from zero to ten.",
+   "A rise that soon returns to baseline shows a suitable intensity.",
+   "If the score stays up long, intensity is reduced."
+  ],
+  "hashtag": [
+   "audiology",
+   "balance",
+   "rehabilitation"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #444",
+   "metin": "A bad *sign?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Is it a bad sign if dizziness increases during exercise?"
+   ]
+  },
+  {
+   "id": "puan",
+   "tur": "zincir",
+   "baslik": "Symptom *score*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Before",
+     "tr": "score 2",
+     "cumle": 1
+    },
+    {
+     "ad": "During",
+     "tr": "score 5",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "After",
+     "tr": "back to baseline",
+     "cumle": 2
+    }
+   ],
+   "alt": "Intensity _suitable_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "A score from zero to ten is used to track symptoms.",
+    "In the example, the score is two before exercise, five during it.",
+    "After exercise, the score soon falls back to baseline.",
+    "This picture shows a suitable intensity.",
+    "If the score rises very high and stays up, intensity is reduced."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D260",
+ "kaynak_baslik": "Planning a Vestibular Rehab Program and Tracking Progress"
+}

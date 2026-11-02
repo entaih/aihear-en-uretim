@@ -1,0 +1,804 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D239_Electrode_Arrays_and_Surgery_EN",
+ "kapak": {
+  "ust": "LESSON 239",
+  "baslik": "Electrode<br>*arrays*",
+  "alt": "Surgery through an audiologist's eyes",
+  "cizim": "koklear_implant",
+  "vurgula": [
+   "elektrot_dizisi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Electrode Arrays and Surgery from an Audiologist's View | Lesson 239 | AIHEAR Audiology Academy",
+  "aciklama": "How are cochlear implant electrodes placed in the cochlea, and why does this matter to the audiologist? In this lesson we cover perimodiolar and lateral wall electrode arrays, insertion depth, the posterior tympanotomy, round window and cochleostomy approaches, soft surgery and preservation of residual hearing, and how the surgical report shapes programming.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Niparko (ed.), Cochlear Implants: Principles and Practices; Dhanasingh and Jolly, An overview of cochlear implant electrode array designs, Hearing Research (2017).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "surgery"
+  ],
+  "etiketler": [
+   "cochlear implant",
+   "electrode array",
+   "perimodiolar electrode",
+   "lateral wall electrode",
+   "round window insertion",
+   "cochleostomy",
+   "insertion depth",
+   "residual hearing",
+   "soft surgery",
+   "electric-acoustic stimulation",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 239",
+   "baslik": "Electrode arrays and *surgery*",
+   "alt": "Implant surgery through an audiologist's eyes",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will look at cochlear implant electrode arrays and implant surgery from an audiologist's point of view.",
+    "We will cover perimodiolar and lateral wall electrodes, the round window and cochleostomy approaches, and preserving residual hearing."
+   ]
+  },
+  {
+   "id": "dizi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Electrode arrays",
+   "baslik": "*Where* is the electrode array?",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "alici_uyarici",
+     "metin": "receiver-stimulator",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "metin": "electrode array",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "alici_uyarici",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the cochlear implant lesson we saw the external and internal parts of the implant.",
+    "The receiver-stimulator is placed behind the ear, on the bone of the skull.",
+    "The electrode array that leaves it is advanced through the middle ear into the cochlea.",
+    "The array is placed in the scala tympani, the lower chamber of the cochlea.",
+    "The electrode contacts on the array stimulate the spiral ganglion, where the cell bodies of the auditory nerve lie.",
+    "The shape, length and position of the array in the cochlea affect both the surgery and later programming."
+   ]
+  },
+  {
+   "id": "kesit",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Electrode arrays",
+   "baslik": "The target: the *spiral ganglion*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_tympani",
+     "metin": "scala tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "spiral ganglion",
+     "cumle": 2
+    },
+    {
+     "parca": "lamina_spiralis_ossea",
+     "metin": "osseous spiral lamina",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 2
+    },
+    {
+     "parca": "lamina_spiralis_ossea",
+     "cumle": 3
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Let us see where the array sits in a cross-section of a single turn of the cochlea.",
+    "The scala tympani is the chamber below the basilar membrane; the electrode array is placed in this chamber.",
+    "The nerve cells to be stimulated are in the spiral ganglion, inside the modiolus, the central axis of the cochlea.",
+    "The nerve fibers pass through the osseous spiral lamina to reach the organ of Corti.",
+    "The closer an electrode contact is to the spiral ganglion, the less current is needed for stimulation and the less the current spreads.",
+    "Electrode designs try to balance this distance against protecting the tissues of the inner ear."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Electrode arrays",
+   "baslik": "Two basic *designs*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Perimodiolar",
+     "metin": "Precurved; close to the modiolus",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Lateral wall",
+     "metin": "Straight, flexible; along the outer wall",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Mid-scala",
+     "metin": "A position in between",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Electrode arrays come in two main designs.",
+    "A perimodiolar electrode is precurved; after insertion it curls into a position that hugs the modiolus.",
+    "This keeps the contacts closer to the spiral ganglion.",
+    "A lateral wall electrode, by contrast, is straight, thin and flexible; it runs along the outer wall of the scala tympani.",
+    "This array is designed to put less pressure on cochlear tissues, but its contacts are farther from the modiolus.",
+    "Some manufacturers have also developed arrays that sit between the two, in the middle of the chamber."
+   ]
+  },
+  {
+   "id": "arti_eksi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Electrode arrays",
+   "baslik": "The *strengths* of each design",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Perimodiolar",
+     "metin": "Lower thresholds, focused stimulation",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Perimodiolar risk",
+     "metin": "Tip fold-over",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Lateral wall",
+     "metin": "Less trauma, deeper",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Lateral wall",
+     "metin": "Higher current",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "With perimodiolar arrays, stimulation may need less current and the spread of current may be more limited.",
+    "This may help neighboring electrodes interfere less with each other and help the battery last longer.",
+    "On the other hand, the tip of the array can fold back or cross the basilar membrane into the upper chamber; these risks vary by design.",
+    "Lateral wall arrays can be made to do less damage to cochlear structures, and long enough to be inserted more deeply.",
+    "So they are often chosen when the aim is to preserve residual hearing.",
+    "With contacts farther away, higher stimulation levels may be needed; speech outcomes of the two designs are similar in many studies."
+   ]
+  },
+  {
+   "id": "derinlik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Insertion depth",
+   "baslik": "How *deep?*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: high frequency",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "metin": "apex: low frequency",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "round window",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Full turn: 360 degrees",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Cochlear size varies by person",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Let us picture the cochlea as an unrolled tube: the base responds to high frequencies, the apex to low frequencies.",
+    "The electrode array enters near the round window and moves from the base toward the apex.",
+    "Insertion depth is often expressed as an angle; one full turn is three hundred sixty degrees.",
+    "Depending on their length, arrays can reach depths from about one turn to more than one and a half turns.",
+    "Deep insertion may stimulate closer to the low-frequency region, but advancing toward the apex may increase the risk of trauma.",
+    "Because cochlear size varies from person to person, an array of the same length reaches different depths in different people."
+   ]
+  },
+  {
+   "id": "uyumsuz",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Insertion depth",
+   "baslik": "Matching place and *frequency*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frequency allocation",
+     "metin": "Range in the program",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Natural place",
+     "metin": "The cochlear map",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Adaptation",
+     "metin": "Getting used to it over time",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In programming, each electrode is assigned a frequency range.",
+    "However, the real position of an electrode in the cochlea may not exactly match the region that normally perceives that frequency.",
+    "Especially with shallow insertion, low frequencies may be delivered to more basal, that is, higher-pitched regions of the cochlea.",
+    "At first, this may contribute to sounds being perceived as thin or mechanical.",
+    "The brain largely adapts to this mismatch over time; this topic is still debated in research.",
+    "Imaging after surgery can give the audiologist valuable information about where the electrodes are."
+   ]
+  },
+  {
+   "id": "cerrahi",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The surgical route",
+   "baslik": "*Steps* of the operation",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Mastoidectomy",
+     "metin": "From behind the ear",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Posterior tympanotomy",
+     "metin": "A window to the middle ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Entering the cochlea",
+     "metin": "Round window",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Insertion",
+     "metin": "Slow and gentle",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Check",
+     "metin": "Measurements, imaging",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In the classic approach, the surgeon enters behind the ear and opens part of the mastoid bone; this is called a mastoidectomy.",
+    "Then a small window into the middle ear is opened between the facial nerve and the chorda tympani, the facial nerve's taste branch.",
+    "This opening is called a posterior tympanotomy; the round window niche is seen through it.",
+    "The surgeon enters the cochlea through the round window, or through a small hole made near it.",
+    "The electrode array is advanced slowly and gently into the scala tympani, and the receiver-stimulator is placed in its bed on the bone.",
+    "At the end of surgery, electrode measurements are made and, if needed, the position of the array is checked with imaging."
+   ]
+  },
+  {
+   "id": "ic_duvar",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The surgical route",
+   "baslik": "What the surgeon *sees*",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "promontorium",
+     "metin": "promontory",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "round window",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "facial nerve",
+     "cumle": 3
+    },
+    {
+     "parca": "chorda_tympani",
+     "metin": "chorda tympani",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "promontorium",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "chorda_tympani",
+     "cumle": 4
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "This drawing shows the medial wall of the middle ear; the surgeon looks at this area through the posterior tympanotomy.",
+    "The bulge in the middle is the promontory, formed by the basal turn of the cochlea.",
+    "The round window niche lies below and behind the promontory.",
+    "The facial nerve runs very close to this area; it is one of the surgeon's most important concerns.",
+    "The chorda tympani also passes through this area, which is why temporary taste changes can occur after surgery.",
+    "The oval window and the stapes lie higher up; these structures are not touched in implant surgery."
+   ]
+  },
+  {
+   "id": "giris",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The surgical route",
+   "baslik": "The *route* into the cochlea",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Round window",
+     "metin": "Directly through the membrane",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Cochleostomy",
+     "metin": "A small hole in bone",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Extended round window",
+     "metin": "In between the two",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In round window insertion, the array passes directly through the round window membrane without drilling the bone.",
+    "This route is thought to cause less trauma to the cochlea and may help preserve residual hearing.",
+    "In a cochleostomy, the surgeon drills a small hole in the promontory, in front of and below the round window.",
+    "This route may be preferred if the round window niche is narrow or hard to see, or if there is ossification in the cochlea.",
+    "Some surgeons slightly enlarge the edge of the round window, using a route in between the two methods.",
+    "Which route is chosen depends on the surgeon's assessment, the anatomy of the cochlea and the array selected."
+   ]
+  },
+  {
+   "id": "yumusak",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Residual hearing",
+   "baslik": "*Soft* surgery",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Slow insertion",
+     "metin": "Reduces pressure",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Protecting the fluid",
+     "metin": "No perilymph loss",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Suitable array",
+     "metin": "Thin, flexible",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Real-time monitoring",
+     "metin": "Cochlear response",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In people with residual hearing, the aim is to protect the inner structures of the cochlea as much as possible; this is called soft surgery.",
+    "Advancing the array slowly and at a steady speed reduces pressure changes in the cochlea.",
+    "Suctioning of perilymph and bone dust entering the cochlea are avoided.",
+    "Choosing a thin, flexible array and planning the insertion depth also help with preservation.",
+    "Some centers monitor electrocochleography responses from the array during insertion; a drop in the response warns the surgeon.",
+    "Additional measures, such as the use of medication, are entirely the decision of the surgeon and the team."
+   ]
+  },
+  {
+   "id": "eas",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Residual hearing",
+   "baslik": "Example: *low-frequency* residual hearing",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 20,
+     "ad": "Threshold (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "noktalar": [
+       [
+        125,
+        25
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        100
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "before surgery",
+      "cumle": 1
+     },
+     {
+      "ad": "sonra",
+      "noktalar": [
+       [
+        125,
+        35
+       ],
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        55
+       ],
+       [
+        1000,
+        90
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "after surgery",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "akustik",
+      "x": [
+       125,
+       750
+      ],
+      "renk": "yesil",
+      "etiket": "acoustic",
+      "cumle": 4
+     },
+     {
+      "ad": "elektrik",
+      "x": [
+       750,
+       8000
+      ],
+      "renk": "mavi",
+      "etiket": "electric",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Low frequencies: own ear",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "High frequencies: implant",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "cumleler": [
+    "In a purely illustrative audiogram, we see an implant candidate with residual hearing in the low frequencies.",
+    "Before surgery, thresholds from 125 to 500 hertz are mild to moderate; above one thousand hertz the loss is profound.",
+    "In this person, the implant can carry high frequencies electrically, while the person's own ear carries low frequencies acoustically.",
+    "One month after surgery, low-frequency thresholds are about ten decibels worse, but preserved at a usable level.",
+    "In this case, electric and acoustic stimulation can be used together in the same ear; this is called electric-acoustic stimulation.",
+    "Residual hearing can also decline in the months and years after surgery, so it is monitored regularly."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "The audiologist's view",
+   "baslik": "What do we look for in the *surgical report?*",
+   "maddeler": [
+    {
+     "metin": "Array type and length",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Route of entry",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Full insertion, extracochlear electrodes",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Intraoperative measurements",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Imaging result",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Before the first programming, the audiologist reads the surgical report; first, the type and length of the array are noted.",
+    "The round window or cochleostomy route, and whether insertion was difficult, are recorded.",
+    "It matters whether the array was fully inserted and whether any electrodes remain outside the cochlea.",
+    "Electrodes outside the cochlea are usually switched off in programming; otherwise they can cause unpleasant or facial nerve stimulation.",
+    "The results of electrode measurements made during surgery become the starting point for the first programming.",
+    "If imaging was done, the report is checked for findings such as tip fold-over or the array crossing into the wrong chamber."
+   ]
+  },
+  {
+   "id": "programlama",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "The audiologist's view",
+   "baslik": "*Effects* on programming",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Stimulation levels",
+     "metin": "Depend on array type",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Facial nerve stimulation",
+     "metin": "Electrode may be switched off",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Acoustic component",
+     "metin": "Based on residual hearing",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Follow-up",
+     "metin": "Residual hearing is measured",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Stimulation levels can vary with the array type, the distance of the contacts from the modiolus and the state of the person's nerve.",
+    "In some people, especially if the bone between the cochlea and the facial nerve canal is thin, stimulation can cause facial twitching.",
+    "Then the levels of the electrodes involved are lowered or the electrode may be switched off, and the finding is shared with the team.",
+    "In a person with preserved residual hearing, the acoustic component of the processor is set from the postoperative audiogram.",
+    "Residual hearing in the implanted ear is measured at regular intervals, and changes are reflected in programming."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Before the first programming, read the surgical report and any imaging. Note extracochlear electrodes and intraoperative measurements.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: do not start the first programming without reading the surgical report.",
+    "The array type, insertion depth and any electrodes outside the cochlea directly affect the first minutes of programming.",
+    "If something in the report is unclear, a short talk with the surgeon prevents many questions in the months that follow.",
+    "For a person with residual hearing, scheduling the postoperative audiogram on the first programming day is also a good habit."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Perimodiolar: precurved, near the modiolus",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Lateral wall: straight, flexible, less trauma",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Entry: round window or cochleostomy",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Soft surgery preserves residual hearing",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Perimodiolar arrays are precurved, and their contacts sit close to the spiral ganglion.",
+    "Lateral wall arrays are straight and flexible; they can be inserted more deeply with less trauma to the cochlea.",
+    "The cochlea is entered through the round window or a cochleostomy; the choice depends on the surgeon's assessment and the anatomy.",
+    "Soft surgery principles aim to preserve residual hearing; the audiologist carries the surgical report into programming."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which electrode design sits closer to the modiolus?",
+   "secenekler": [
+    "Lateral wall",
+    "Perimodiolar",
+    "Bone conduction",
+    "Surface electrode"
+   ],
+   "dogru": 1,
+   "aciklama": "A perimodiolar array is precurved and wraps around the modiolus after insertion.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which electrode array design sits closer to the modiolus, and so to the spiral ganglion?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: the perimodiolar array.",
+    "A perimodiolar array is precurved and settles around the modiolus, while a lateral wall array runs along the outer wall."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Intraoperative Measures: *Impedance*, ECAP and ESRT",
+   "cikis": 2.5,
+   "cumleler": [
+    "Next, we will learn about measurements during surgery: impedance, the nerve's electrical response and the electrical stapedial reflex.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

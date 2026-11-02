@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R100_Noisy_Room_EN",
+ "kapak": {
+  "ust": "QUICK FACT #100",
+  "baslik": "A noisy room *misleads*",
+  "alt": "Ambient noise raises low-frequency thresholds",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can a noisy room skew a hearing test? #shorts",
+  "aciklama": "Most of the energy in ambient noise lies in the low frequencies; it masks the test tones and makes thresholds look worse than they are. Retested in a proper booth, the same person may have thresholds within normal limits.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiometry",
+   "hearingtest"
+  ],
+  "etiketler": [
+   "sound-treated booth",
+   "ambient noise",
+   "audiometry",
+   "hearing test",
+   "threshold",
+   "audiology clinic",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can a noisy room skew a hearing test?",
+  "bilgiler": [
+   "Most ambient noise energy lies in the low frequencies.",
+   "Noise masks the test tones; thresholds look worse than they are.",
+   "In a proper booth, the same person may test within normal limits."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "hearingtest"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #100",
+   "metin": "Can a noisy room *skew a hearing test?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can a noisy room skew a hearing test?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Ambient *noise*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Noise",
+     "tr": "low-frequency energy",
+     "cumle": 0
+    },
+    {
+     "ad": "Masks",
+     "tr": "test tones",
+     "cumle": 1
+    },
+    {
+     "ad": "Threshold",
+     "tr": "measured worse",
+     "cumle": 1,
+     "gecikme": 1.4
+    }
+   ],
+   "alt": "In a proper booth, the same person may test _normal_.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Most of the energy in ambient noise lies in the low frequencies.",
+    "This noise masks test tones, so thresholds look worse than they are.",
+    "In a proper booth, the same person may test within normal limits.",
+    "The heart of audiological assessment is the sound-treated booth."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D007",
+ "kaynak_baslik": "Inside an Audiology Clinic: Booth and Core Equipment"
+}

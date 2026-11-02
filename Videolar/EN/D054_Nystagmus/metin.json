@@ -1,0 +1,702 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D054_Nystagmus_EN",
+ "kapak": {
+  "ust": "LESSON 54",
+  "baslik": "What is<br>*nystagmus?*",
+  "alt": "Slow phase, fast phase, Alexander's law",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "What Is Nystagmus? Slow and Fast Phases | Lesson 54 | AIHEAR Audiology Academy",
+  "aciklama": "Nystagmus is an involuntary, rhythmic movement of the eyes; in vestibular nystagmus the slow phase shows the vestibular drift and the fast phase the corrective jump. In this lesson we look at how direction is named, Alexander's law, slow phase velocity (SPV), peripheral and central patterns, types of nystagmus and recording methods.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Leigh and Zee, The Neurology of Eye Movements; Jacobson and Shepard, Balance Function Assessment and Management; McCaslin, Electronystagmography/Videonystagmography; Herdman and Clendaniel, Vestibular Rehabilitation.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "nystagmus"
+  ],
+  "etiketler": [
+   "nystagmus",
+   "slow phase",
+   "fast phase",
+   "slow phase velocity",
+   "Alexander's law",
+   "spontaneous nystagmus",
+   "VNG",
+   "Frenzel goggles",
+   "fixation suppression",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 54",
+   "baslik": "What is *nystagmus?*",
+   "alt": "Slow phase, fast phase and Alexander's law",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about nystagmus, the most important finding in vestibular assessment.",
+    {
+     "yazi": "We will go step by step through the slow and fast phases, how direction is named, Alexander's law and slow phase velocity."
+    }
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The structure of nystagmus",
+   "baslik": "What is *nystagmus*?",
+   "maddeler": [
+    {
+     "metin": "Involuntary, _rhythmic_ eye movement",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Slow phase: the eye _drifts_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fast phase: the _jump back_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pendular: both phases _equal_",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 0,
+    "ayar": {
+     "yon": "sag",
+     "yavas_cumle": 2,
+     "hizli_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "iz",
+      "cumle": 1
+     },
+     {
+      "parca": "yavas_faz",
+      "cumle": 2
+     },
+     {
+      "parca": "hizli_faz",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Nystagmus is an involuntary, rhythmic back-and-forth movement of the eyes.",
+    "In nystagmus of vestibular origin, each beat has two parts.",
+    "First the eye drifts slowly in one direction; this is called the slow phase.",
+    "Then the eye returns with a quick jump; this is called the fast phase.",
+    "This two-phase nystagmus is also called jerk nystagmus.",
+    {
+     "yazi": "If both phases have equal speed and the eye swings like a pendulum, it is called pendular nystagmus; this type is usually not vestibular."
+    }
+   ]
+  },
+  {
+   "id": "fazlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The structure of nystagmus",
+   "baslik": "*Where* does each phase come from?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Slow phase",
+     "metin": "From vestibular imbalance",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "VOR pathway",
+     "metin": "Drives the eyes the opposite way",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Measurement",
+     "metin": "Done on this phase",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Fast phase",
+     "metin": "Brainstem saccade centers",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Correction",
+     "metin": "Brings the eye back to center",
+     "cumle": 4
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Naming",
+     "metin": "Direction by the fast phase",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The slow phase comes from an imbalance between the two labyrinths or from a vestibular stimulus.",
+    "The brain reads this imbalance as head turning, and the vestibulo-ocular reflex, or VOR, pathway drives the eyes the opposite way.",
+    "So the slow phase is the vestibular component of nystagmus, and measurements are made on this phase.",
+    "The fast phase is a corrective jump generated by the saccade centers in the brainstem.",
+    "Its job is to bring the drifting eye back to the center, so the eye does not get stuck at the edge.",
+    "Because the fast phase is easier to see, the direction of nystagmus is named after the fast phase."
+   ]
+  },
+  {
+   "id": "yon",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The structure of nystagmus",
+   "baslik": "*How* is direction named?",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Right-beating",
+     "metin": "Fast phase to the right",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Upbeating",
+     "metin": "Fast phase upward",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Downbeating",
+     "metin": "Fast phase downward",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Torsional",
+     "metin": "Around the eye's axis",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Direction-changing",
+     "metin": "Changes with gaze or position",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The direction of nystagmus is always given by the direction of the fast phase.",
+    "For example, if the slow phase is to the left and the fast phase to the right, it is called right-beating nystagmus.",
+    "In the vertical plane, if the fast phase is up or down, it is called upbeating or downbeating nystagmus.",
+    "If the eye rotates around its own axis, we speak of torsional nystagmus; its direction is given by where the upper pole of the eye turns.",
+    "Many nystagmus patterns are mixed; for example, in peripheral loss, horizontal and torsional components are seen together.",
+    "Nystagmus whose direction changes with gaze or head position is called direction-changing nystagmus."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The structure of nystagmus",
+   "baslik": "Example: *acute* one-sided loss",
+   "adimlar": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Left labyrinth",
+     "metin": "Function drops suddenly",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Brain's reading",
+     "metin": "Thinks the head turns right",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Slow phase",
+     "metin": "Eyes left, to the affected side",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Fast phase",
+     "metin": "Right-beating nystagmus",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Now let us take an example: the function of the left labyrinth drops suddenly.",
+    "Because the right side stays more active, the brain perceives this as if the head were turning right.",
+    "The VOR drives the eyes slowly to the left, towards the affected side.",
+    "The fast phase brings the eye back to the right; the result is nystagmus beating to the right, towards the healthy ear.",
+    "In acute, destructive one-sided peripheral loss, nystagmus usually beats towards the healthy side.",
+    "In irritative states, such as the onset of a Meniere's attack, nystagmus beating towards the affected side may be seen briefly."
+   ]
+  },
+  {
+   "id": "alexander",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Alexander's law and velocity",
+   "baslik": "*Alexander's* law",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "First degree",
+     "metin": "Mildest; on gaze towards fast phase",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Second degree",
+     "metin": "Moderate; also in center gaze",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Third degree",
+     "metin": "Most severe; in every gaze direction",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "According to Alexander's law, peripheral vestibular nystagmus increases when looking in the direction of the fast phase."
+    },
+    "When looking the other way, in the direction of the slow phase, it decreases or disappears.",
+    "If nystagmus is seen only on gaze towards the fast phase, it is called first-degree nystagmus.",
+    "If it is also seen in center gaze, it is second degree; if it persists even on gaze towards the slow phase, it is third degree.",
+    "Nystagmus that is third degree in the acute stage may fall back to first degree over time with compensation.",
+    "This gaze-related change is one of the typical features of peripheral nystagmus."
+   ]
+  },
+  {
+   "id": "spv",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Alexander's law and velocity",
+   "baslik": "*Slow phase* velocity",
+   "maddeler": [
+    {
+     "metin": "Measure: the _slope_ of the slow phase",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Unit: _degrees per second_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_Used_ in caloric and positional tests",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Normal limit depends on the _laboratory_",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SPV",
+    "metin": "Eye speed in the slow phase, in *degrees per second*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "The strength of nystagmus is measured by slow phase velocity, or SPV.",
+    "We calculate how many degrees per second the eye drifts during the slow phase; the unit is degrees per second.",
+    "In video recording, the software measures the slow phase slope of each beat automatically.",
+    "The unilateral weakness calculation in the caloric test, and the size of the response in positional tests, are based on this value.",
+    "Without fixation, spontaneous nystagmus below a few degrees per second may be considered insignificant in many laboratories.",
+    "Because the cut-off differs between laboratories, interpretation uses local norms."
+   ]
+  },
+  {
+   "id": "periferik_santral",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Alexander's law and velocity",
+   "baslik": "Peripheral or *central*?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Direction",
+     "metin": "Pure vertical, pure torsional: central",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Fixation",
+     "metin": "Peripheral falls, central may not",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Gaze direction",
+     "metin": "If direction changes, think central",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Alexander's law",
+     "metin": "Peripheral obeys, central may not",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The features of nystagmus help us tell peripheral patterns from central ones.",
+    "Peripheral nystagmus is mostly horizontal and torsional; pure vertical or pure torsional nystagmus suggests central causes.",
+    "Peripheral nystagmus decreases clearly with visual fixation; central nystagmus may not.",
+    "The direction of peripheral nystagmus does not change with gaze; nystagmus that changes direction with gaze matters centrally.",
+    {
+     "yazi": "Peripheral nystagmus obeys Alexander's law; central nystagmus may not follow this pattern."
+    },
+    "These patterns are only guides; findings that suggest a central pattern are passed on to the physician without delay."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Types and recording",
+   "baslik": "Types of *nystagmus*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Spontaneous",
+     "metin": "No stimulus, sitting upright",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Gaze-evoked",
+     "metin": "On side, up or down gaze",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Positional",
+     "metin": "When head position changes",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Caloric",
+     "metin": "With a thermal stimulus to the ear",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Optokinetic",
+     "metin": "While following a moving scene",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "End-point",
+     "metin": "On extreme side gaze",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Nystagmus is named by the condition in which it appears.",
+    "Spontaneous nystagmus is seen while the person sits upright, without any stimulus.",
+    "Gaze-evoked nystagmus appears only on looking to the side, up or down.",
+    "Positional nystagmus appears when head position changes, and caloric nystagmus when a warm or cool stimulus is given to the ear.",
+    "Optokinetic nystagmus, for example when looking out of a train window, is a normal, physiological response.",
+    "A few symmetric beats of end-point nystagmus on extreme side gaze are also usually considered normal."
+   ]
+  },
+  {
+   "id": "infantil",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Types and recording",
+   "baslik": "Congenital *nystagmus*",
+   "maddeler": [
+    {
+     "metin": "_Begins_ in infancy",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Often no _oscillopsia_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Less in one gaze: the _null point_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "It is _not_ vestibular",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NULL POINT",
+    "metin": "The gaze direction where nystagmus is *least*",
+    "cumle": 2
+   },
+   "cumleler": [
+    "In some people, nystagmus begins in infancy; this is called congenital or infantile nystagmus.",
+    "These people often do not describe the image swaying, that is, oscillopsia.",
+    {
+     "yazi": "There may be a gaze direction where the nystagmus is least, called the null point; the person may turn their head to use it."
+    },
+    "Nystagmus may decrease as the eyes converge when looking at something near.",
+    "This nystagmus is not vestibular; noticing and noting it in the recording prevents misinterpretation."
+   ]
+  },
+  {
+   "id": "fiksasyon",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Types and recording",
+   "baslik": "Why does fixation *matter?*",
+   "maddeler": [
+    {
+     "metin": "Fixation _suppresses_ peripheral nystagmus",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Mild nystagmus may _hide_ in light",
+     "cumle": 2,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Video goggles _remove_ fixation",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Reduction with fixation is _noted_",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FIXATION",
+    "metin": "Fixing the gaze can *hide* peripheral nystagmus",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Peripheral vestibular nystagmus is suppressed when the eye fixes on a point, that is, by visual fixation.",
+    "This suppression is largely provided by the cerebellum.",
+    "That is why a mild peripheral nystagmus may not be visible to the naked eye in a lit room.",
+    "Frenzel glasses, or video goggles recording in the dark, remove fixation and reveal this nystagmus.",
+    "How much the nystagmus decreases with fixation is also noted; no decrease at all is important from a central point of view."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Types and recording",
+   "baslik": "How is nystagmus *observed?*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Frenzel glasses",
+     "metin": "Cheap, quick, bedside; no recording",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "VNG",
+     "metin": "Recording, automatic SPV; eyes open",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "ENG",
+     "metin": "Records eyes closed; no torsion",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Nystagmus can be observed with different methods, and each has its own advantages.",
+    "Frenzel glasses, with magnifying, lit lenses, reduce fixation and enlarge the eye; they are a quick bedside method.",
+    "However, Frenzel glasses cannot record or measure numerically.",
+    "Videonystagmography, or VNG, records the eye in the dark with infrared cameras and measures slow phase velocity automatically.",
+    "Electronystagmography, or ENG, measures with electrodes; it records even with the eyes closed but cannot show torsional movement.",
+    "Today VNG is common in vestibular laboratories, and ENG has largely been replaced by VNG."
+   ]
+  },
+  {
+   "id": "iz",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Types and recording",
+   "baslik": "The *nystagmus* trace",
+   "maddeler": [
+    {
+     "metin": "Right and up movement: trace goes _up_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A _sawtooth_ pattern",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Sloped segment: _slow phase_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Steep segment: _fast phase_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 0,
+    "ayar": {
+     "yon": "sag",
+     "baslik": "VNG horizontal trace",
+     "yavas_cumle": 3,
+     "hizli_cumle": 3
+    },
+    "etiketler": [
+     {
+      "parca": "yavas_faz",
+      "metin": "Sloped: slow phase",
+      "cumle": 3
+     },
+     {
+      "parca": "hizli_faz",
+      "metin": "Steep: fast phase",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "iz",
+      "cumle": 2
+     },
+     {
+      "parca": "yon",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "On the VNG screen, horizontal and vertical eye movements are drawn as separate traces against time.",
+    "By convention, rightward and upward eye movements are drawn upward on the trace, and leftward and downward movements downward.",
+    "Nystagmus creates a pattern resembling the teeth of a saw on these traces.",
+    "The sloped, longer segment shows the slow phase, and the steep, short segment shows the fast phase.",
+    "On the horizontal trace, if the steep segments point upward, this means right-beating nystagmus."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 3",
+   "bolum": "Types and recording",
+   "baslik": "Clinical tip",
+   "metin": "Always record spontaneous nystagmus with and without fixation before positional and caloric tests. This baseline lets you interpret later responses correctly.",
+   "cumleler": [
+    "A clinical tip: always start the vestibular test battery by recording spontaneous nystagmus.",
+    "Record first with fixation, then with fixation removed, and note the slow phase velocity.",
+    "If there is spontaneous nystagmus, positional and caloric responses are interpreted against this baseline.",
+    "If this step is skipped, an existing nystagmus may be mistaken for a positional or caloric response."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Slow phase _vestibular_, fast phase corrective",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Direction named by the _fast phase_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Alexander_: grows on gaze towards fast phase",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Strength: _slow phase velocity_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "In vestibular nystagmus, the slow phase shows the vestibular drift and the fast phase the corrective jump from the brainstem.",
+    "The direction of nystagmus is named by the fast phase; in acute one-sided loss it usually beats towards the healthy side.",
+    {
+     "yazi": "According to Alexander's law, peripheral nystagmus increases on gaze towards the fast phase."
+    },
+    "The strength of nystagmus is measured by slow phase velocity, in degrees per second."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "There is an acute loss in the left labyrinth. Which way does nystagmus usually beat?",
+   "secenekler": [
+    "To the left",
+    "To the right",
+    "Upward",
+    "Downward"
+   ],
+   "dogru": 1,
+   "aciklama": "The slow phase is towards the affected side; the _fast phase_ beats towards the healthy side.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: there is an acute loss in the left labyrinth. Which way does nystagmus usually beat?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: to the right, towards the healthy ear."
+    },
+    "The slow phase is towards the affected side; the corrective fast phase beats towards the healthy side and names the direction."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Otoscopy* Basics: How to Look Inside the Ear",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move into clinical practice and learn how otoscopy is done.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

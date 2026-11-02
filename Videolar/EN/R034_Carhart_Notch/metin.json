@@ -1,0 +1,116 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R034_Carhart_Notch_EN",
+ "kapak": {
+  "ust": "QUICK FACT #34",
+  "baslik": "The *Carhart* notch",
+  "alt": "A mechanical bone-conduction dip at 2000 Hz",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      45,
+      45,
+      40,
+      45
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Does a bone-conduction dip always come from the inner ear? #shorts",
+  "aciklama": "In otosclerosis, bone conduction can drop around 2000 Hz, usually by about 15 dB; this is called the Carhart notch. It is not a true cochlear loss but a mechanical middle ear effect, and it often improves after successful stapes surgery.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiogram",
+   "hearing"
+  ],
+  "etiketler": [
+   "Carhart notch",
+   "otosclerosis",
+   "bone conduction",
+   "stapes",
+   "conductive hearing loss",
+   "audiology",
+   "audiogram",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Does a bone-conduction dip always come from the inner ear?",
+  "bilgiler": [
+   "In otosclerosis, bone conduction can drop about 15 dB around 2000 Hz.",
+   "This is the Carhart notch, a mechanical effect.",
+   "It often improves after successful stapes surgery."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiogram",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #34",
+   "metin": "Does a bone-conduction dip *always* mean inner ear?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Does a bone-conduction dip always come from the inner ear?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Bone-conduction dip around *2000 Hz*",
+   "sayi": "15",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "In otosclerosis, bone conduction can drop around two thousand hertz.",
+    "The dip is usually about fifteen decibels: the Carhart notch.",
+    "This is not a true cochlear loss, but a mechanical effect.",
+    "It often improves after successful stapes surgery."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D070",
+ "kaynak_baslik": "Otosclerosis: Stapes Fixation and the Carhart Notch"
+}

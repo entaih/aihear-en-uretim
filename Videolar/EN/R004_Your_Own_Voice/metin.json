@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R004_Your_Own_Voice_EN",
+ "kapak": {
+  "ust": "QUICK FACT #4",
+  "baslik": "Your voice *sounds different?*",
+  "alt": "We also hear ourselves by bone conduction",
+  "cizim": "isitme_yolu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does your voice sound different on a recording? #shorts",
+  "aciklama": "Sound reaches the cochlea not only through the air but also through vibration of the skull bones, called bone conduction. One reason our recorded voice sounds different is that we also hear ourselves by bone conduction while speaking.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ear",
+   "facts"
+  ],
+  "etiketler": [
+   "bone conduction",
+   "own voice",
+   "voice recording",
+   "cochlea",
+   "hearing",
+   "audiology",
+   "ear",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does your voice sound different on a recording?",
+  "bilgiler": [
+   "Sound can reach the cochlea through skull vibration: bone conduction.",
+   "This route largely bypasses the outer and middle ear.",
+   "While speaking, we also hear ourselves by bone conduction."
+  ],
+  "hashtag": [
+   "audiology",
+   "ear",
+   "facts"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #4",
+   "metin": "Why does your recorded voice sound *different?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does your own voice sound different on a recording?"
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "zincir",
+   "baslik": "Sound's *second route*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Vibration",
+     "cumle": 0
+    },
+    {
+     "ad": "Skull",
+     "cumle": 0,
+     "gecikme": 0.9,
+     "tr": "bones"
+    },
+    {
+     "ad": "Cochlea",
+     "cumle": 0,
+     "gecikme": 1.8
+    }
+   ],
+   "alt": "While speaking, we also hear ourselves by _bone conduction_.",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Sound can also reach the cochlea through vibration of the skull.",
+    "This is called bone conduction.",
+    "This route largely bypasses the outer and middle ear.",
+    "While speaking, we also hear ourselves by bone conduction.",
+    "That is one reason our recorded voice sounds different."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D003",
+ "kaynak_baslik": "How Sound Travels from the Ear to the Brain"
+}

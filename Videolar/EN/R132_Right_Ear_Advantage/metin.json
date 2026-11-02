@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R132_Right_Ear_Advantage_EN",
+ "kapak": {
+  "ust": "QUICK FACT #132",
+  "baslik": "The *right ear* advantage",
+  "alt": "Verbal stimuli in dichotic listening",
+  "cizim": "isitme_yolu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "If each ear hears a different word at once, which one wins? #shorts",
+  "aciklama": "In dichotic listening, a word in the right ear reaches the language-dominant left hemisphere directly through the crossed pathway, while a word in the left ear must cross the corpus callosum. So the right ear is usually slightly better for verbal stimuli; Kimura first described this in 1961.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "brain",
+   "language"
+  ],
+  "etiketler": [
+   "right ear advantage",
+   "dichotic listening",
+   "corpus callosum",
+   "hemispheric specialization",
+   "Kimura",
+   "auditory cortex",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "If each ear hears a different word at once, which one wins?",
+  "bilgiler": [
+   "A word in the right ear reaches the left hemisphere via the crossed pathway.",
+   "A word in the left ear reaches the right hemisphere, then crosses over.",
+   "So the right ear is usually slightly better for verbal stimuli."
+  ],
+  "hashtag": [
+   "audiology",
+   "brain",
+   "language"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #132",
+   "metin": "Two ears, two words: *which wins?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "If each ear hears a different word at once, which wins?"
+   ]
+  },
+  {
+   "id": "dikotik",
+   "tur": "zincir",
+   "baslik": "The *right ear* advantage",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Right ear",
+     "tr": "crossed path to left",
+     "cumle": 0
+    },
+    {
+     "ad": "Left ear",
+     "tr": "right hemisphere first",
+     "cumle": 1
+    },
+    {
+     "ad": "Corpus callosum",
+     "tr": "crossing to the left",
+     "cumle": 2
+    }
+   ],
+   "alt": "_Right ear advantage_, Kimura 1961",
+   "alt_cumle": 4,
+   "cumleler": [
+    "A right-ear word reaches the language-dominant left hemisphere via the crossed path.",
+    "A word in the left ear first reaches the right hemisphere.",
+    "It then crosses to the left through the corpus callosum.",
+    "So for verbal stimuli, the right ear is usually slightly better.",
+    {
+     "yazi": "Kimura first described this right ear advantage in 1961.",
+     "ses": "Kimura first described this right ear advantage in nineteen sixty one."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D046",
+ "kaynak_baslik": "The Auditory Cortex and Language Areas"
+}

@@ -1,0 +1,819 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D158_Caloric_Testing_EN",
+ "kapak": {
+  "ust": "LESSON 158",
+  "baslik": "The *caloric* test",
+  "alt": "Bithermal procedure, UW and DP calculation",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Caloric Testing: Bithermal Procedure and Interpretation | Lesson 158 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson explains the principle of caloric testing, the bithermal procedure at 30 and 44 °C, and the COWS rule. We calculate unilateral weakness (UW) with the Jongkees formula and directional preponderance (DP) step by step with example values, then review response patterns and the limitations of the test.\\n\\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\\n\\nSources: Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology; ANSI/ASA S3.45, Procedures for Testing Basic Vestibular Function.\\n\\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "caloric",
+   "vestibular"
+  ],
+  "etiketler": [
+   "caloric test",
+   "caloric testing",
+   "bithermal caloric",
+   "COWS rule",
+   "Jongkees formula",
+   "unilateral weakness",
+   "canal paresis",
+   "directional preponderance",
+   "vestibular assessment",
+   "VNG",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 158",
+   "baslik": "The *caloric* test",
+   "alt": "Bithermal procedure and interpretation",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the caloric test, the bithermal procedure that assesses each ear's lateral canal separately.",
+    {
+     "yazi": "We will work through the COWS rule and the unilateral weakness and directional preponderance calculations with example values.",
+     "ses": "We will work through the cows rule and the unilateral weakness and directional preponderance calculations with example values."
+    }
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Principle of the caloric test",
+   "baslik": "*What* does the caloric test measure?",
+   "maddeler": [
+    {
+     "metin": "Stimulates each ear _separately_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Lateral canal and _superior_ vestibular nerve",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "A very _low-frequency_ stimulus",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Measure: _slow-phase velocity_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "lateral canal",
+      "cumle": 1
+     },
+     {
+      "parca": "vestibuler_sinir",
+      "metin": "vestibular nerve",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The caloric test is a classic test that can compare the vestibular response of the two ears independently.",
+    "It mainly assesses the lateral semicircular canal and the superior vestibular nerve pathway that serves it.",
+    "The stimulus is very slow compared with everyday head movements, in other words a low-frequency stimulus.",
+    "So the caloric test examines a different frequency range from the video head impulse test, which we will see later.",
+    "The size of the response is measured by the slow-phase velocity of the nystagmus, in degrees per second.",
+    "Because it needs no head movement, it can also be used in some patients with neck problems."
+   ]
+  },
+  {
+   "id": "isi",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Principle of the caloric test",
+   "baslik": "How does temperature cause *nystagmus?*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Water or air is delivered",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Endolymph flow in the lateral canal",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Supine, head flexed 30 degrees",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Warm excites, cold inhibits",
+     "cumle": 5,
+     "ikon": "denge"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 2,
+     "olcek": 2.2
+    }
+   ],
+   "cumleler": [
+    "Water or air that is warmer or cooler than body temperature is delivered into the ear canal.",
+    "The patient lies supine with the head raised about thirty degrees, bringing the lateral canal into the vertical plane.",
+    "The temperature change reaches the lateral canal through the temporal bone and changes endolymph density in part of the canal.",
+    "Warmed endolymph rises and cooled endolymph sinks, setting up a flow inside the canal.",
+    "This flow deflects the cupula, and nystagmus appears through the vestibulo-ocular reflex.",
+    "A warm stimulus pushes the cupula toward the ampulla and excites it, while a cold stimulus pushes it the other way and inhibits it."
+   ]
+  },
+  {
+   "id": "cows",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Principle of the caloric test",
+   "baslik": "The *COWS* rule",
+   "maddeler": [
+    {
+     "metin": "Direction: the nystagmus _fast phase_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Cold opposite_: beats away when cold",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Warm same_: beats toward when warm",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Valid: _supine_, head flexed",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Nystagmus is named by the direction of its fast phase, which is easy to remember with the COWS rule.",
+     "ses": "Nystagmus is named by the direction of its fast phase, which is easy to remember with the cows rule."
+    },
+    "Cold opposite: with a cold stimulus, nystagmus beats toward the opposite ear.",
+    "Warm same: with a warm stimulus, nystagmus beats toward the stimulated ear.",
+    "For example, warm water in the right ear gives right-beating nystagmus, and cold water gives left-beating nystagmus.",
+    "This relationship holds when the patient is supine with the head flexed thirty degrees; in the prone position it reverses."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The bithermal procedure",
+   "baslik": "*Preparing* for the test",
+   "maddeler": [
+    {
+     "metin": "_Otoscopy_: wax and eardrum status",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Ask about suppressant _medications_ and alcohol",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Inform the patient _beforehand_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Mental_ alerting tasks",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Before starting, perform otoscopy on both ears.",
+    "Earwax can block the stimulus; if the eardrum is perforated, water is not used and the method is chosen with the physician.",
+    "Vestibular suppressant drugs and alcohol can reduce responses, so ask about them per lab protocol and physician advice.",
+    "Explain that brief spinning and nausea may occur and that this is an expected response.",
+    "During the test, give tasks such as mental arithmetic or naming items; this prevents mental suppression of the response."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The bithermal procedure",
+   "baslik": "The *bithermal* procedure",
+   "maddeler": [
+    {
+     "metin": "Water: _30 and 44 °C_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Water irrigation: usually _30 seconds_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Four irrigations: _right and left_, warm and cold",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Wait for the response _to fade_",
+     "cumle": 4,
+     "ikon": "saat"
+    },
+    {
+     "metin": "The _same_ stimulus in both ears",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "In the bithermal procedure, each ear receives two stimuli, one warm and one cold.",
+    "With water, the temperatures are usually thirty and forty four degrees, that is, seven degrees below and above body temperature.",
+    "A water irrigation usually lasts about thirty seconds.",
+    "Four irrigations are given: right warm, left warm, right cold and left cold; the order may vary between labs.",
+    "After each irrigation, wait until the nystagmus has fully faded, often for a few minutes.",
+    "Giving both ears a stimulus of the same temperature, duration and volume is the basic condition for comparison."
+   ]
+  },
+  {
+   "id": "su_hava",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "The bithermal procedure",
+   "baslik": "Water or *air?*",
+   "sol": {
+    "ust": "Water",
+    "maddeler": [
+     {
+      "metin": "Stronger, more consistent stimulus",
+      "cumle": 1
+     },
+     {
+      "metin": "Not used with a perforation",
+      "cumle": 1
+     },
+     {
+      "metin": "Wetness and discomfort",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Air",
+    "maddeler": [
+     {
+      "metin": "Usually about 24 and 50 °C",
+      "cumle": 2
+     },
+     {
+      "metin": "Longer irrigation time",
+      "cumle": 2
+     },
+     {
+      "metin": "More variable stimulus strength",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "The caloric stimulus can be delivered with water or air.",
+    "Water transfers heat more effectively, so it usually produces a stronger and more consistent response.",
+    "With air, the temperatures are usually about twenty four and fifty degrees, and the irrigation lasts longer.",
+    "Air can give more variable results depending on the shape of the ear canal and any moisture left in it.",
+    "Whichever method is chosen, normative values must be specific to that method and that laboratory."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The bithermal procedure",
+   "baslik": "*Measuring* the response",
+   "maddeler": [
+    {
+     "metin": "Measure: peak _slow-phase velocity_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Peak: about _1 minute_ later",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Recorded without _visual fixation_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Then _suppression_ with fixation",
+     "cumle": 3,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    "Each irrigation result is expressed as the average of a few seconds around the peak slow-phase velocity of the nystagmus.",
+    "The response usually peaks about one minute after the start of the irrigation.",
+    "During this time the eyes are recorded without visual fixation, with the video goggles closed.",
+    "After the peak, the patient is asked to look at a light, and the reduction in nystagmus is measured.",
+    "Normally fixation reduces nystagmus clearly, usually by more than half; failure to reduce suggests central causes.",
+    "If there is spontaneous nystagmus, this baseline is taken into account when interpreting the caloric responses."
+   ]
+  },
+  {
+   "id": "jongkees",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Calculation",
+   "baslik": "Unilateral weakness: *Jongkees*",
+   "maddeler": [
+    {
+     "metin": "Right total: _right warm + right cold_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Left total: _left warm + left cold_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Difference divided by _all four responses_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cutoff: usually _20 to 25_ percent",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "UW FORMULA",
+    "metin": "(Right total minus left total) / *sum of all four responses* x 100",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Unilateral weakness, or UW, is calculated with the Jongkees formula.",
+    "First, the warm and cold responses of each ear are added, giving one total for the right ear and one for the left.",
+    "The difference between the two totals is divided by the sum of all four responses and converted to a percentage.",
+    "The sign of the result shows which ear is weaker.",
+    "For example, if the right total is larger than the left, the result is positive and shows that the left ear is weaker.",
+    "A difference above twenty to twenty five percent is usually considered significant; the exact cutoff varies by laboratory."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Calculation",
+   "baslik": "A worked *example*",
+   "sutunlar": [
+    "Irrigation",
+    "Slow-phase velocity",
+    "Nystagmus direction"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Right warm",
+      "30 degrees/s",
+      "Right"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Right cold",
+      "28 degrees/s",
+      "Left"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Left warm",
+      "12 degrees/s",
+      "Left"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Left cold",
+      "10 degrees/s",
+      "Right"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Result",
+      "UW 45 percent",
+      "Left weak"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Let us calculate with purely example values: right warm is thirty and right cold twenty eight degrees per second.",
+    "Left warm is twelve and left cold ten degrees per second.",
+    "The right total is fifty eight, the left total twenty two, and the sum of all four responses is eighty.",
+    "The difference is thirty six; thirty six divided by eighty is forty five percent.",
+    "In this example the left ear is weaker, with a left unilateral weakness of forty five percent.",
+    "This shows a reduced response in the left lateral canal or nerve pathway; finding the cause needs medical assessment."
+   ]
+  },
+  {
+   "id": "dp",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Calculation",
+   "baslik": "Directional *preponderance*",
+   "maddeler": [
+    {
+     "metin": "Right-beating: _right warm + left cold_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Left-beating: _left warm + right cold_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Again divided by _all four responses_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cutoff: usually _25 to 30_ percent",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Directional preponderance, or DP, shows whether nystagmus is stronger in one direction than the other.",
+    "Right-beating nystagmus comes from the right warm and left cold irrigations; these two are added.",
+    "Left-beating nystagmus comes from the left warm and right cold irrigations.",
+    "The difference between the two directions is again divided by the sum of all four responses and converted to a percentage.",
+    "In our example, right-beating responses total forty and left-beating responses also total forty, so there is no preponderance.",
+    "Values above twenty five to thirty percent are usually significant; DP alone does not show the side of the lesion."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Before calling a weakness, check the irrigation: canal, temperature, duration and patient alertness. Repeat any doubtful irrigation.",
+   "cumleler": [
+    "A clinical tip: before reporting a unilateral weakness, make sure the weak-looking irrigation was done correctly.",
+    "If the water or air did not reach deep into the canal, or the temperature or duration differed, the response may be falsely small.",
+    "If the patient is distracted or drowsy, nystagmus can be suppressed; keep up the mental tasks.",
+    "Repeating a doubtful irrigation after enough rest prevents a false result."
+   ]
+  },
+  {
+   "id": "monotermal",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Calculation",
+   "baslik": "*Screening* with one temperature",
+   "maddeler": [
+    {
+     "metin": "_Warm_ irrigations only",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "If symmetric and adequate, _may shorten_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "If in doubt, complete _bithermal_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Directional preponderance _cannot be calculated_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Some laboratories start the test with warm irrigations only, that is, monothermally.",
+    "If the two warm responses are large enough and symmetric, the cold irrigations may be skipped, depending on protocol.",
+    "If there is asymmetry, a weak response or a doubtful finding, the test is completed bithermally.",
+    "With a monothermal procedure, directional preponderance cannot be calculated and some findings may be missed.",
+    "So monothermal screening is used only with well-defined criteria and in line with the laboratory protocol."
+   ]
+  },
+  {
+   "id": "kelebek",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "*Displaying* the results",
+   "maddeler": [
+    {
+     "metin": "The _butterfly_ chart",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Four irrigations, _four quadrants_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Shaded area: _normal_ limits",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Asymmetry_ at a glance",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "On most systems, caloric results are shown in a figure called the butterfly chart.",
+    "The chart shows the slow-phase velocity and nystagmus direction of each irrigation in four separate quadrants.",
+    "The shaded area marks the laboratory's normal limits.",
+    "This display makes it easy to see unilateral weakness and directional preponderance at a glance.",
+    "However, decisions are always based on the numerical values and the technical quality of the irrigations."
+   ]
+  },
+  {
+   "id": "oruntuler",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "Response *patterns*",
+   "sutunlar": [
+    "Finding",
+    "What does it suggest?"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Unilateral weakness",
+      "Same-side peripheral reduction"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Bilateral weakness",
+      "Bilateral vestibular loss"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Directional preponderance",
+      "Does not lateralize"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "No fixation suppression",
+      "Central causes"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Very strong responses",
+      "Consider central causes"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Unilateral weakness usually suggests a problem in the lateral canal or superior vestibular nerve pathway on that side.",
+    "Very small responses on all four irrigations suggest bilateral weakness.",
+    "In this case some laboratories confirm the true absence of a response with an additional ice water irrigation.",
+    "Directional preponderance can occur with both peripheral and central causes and does not by itself show the side of the lesion.",
+    "Failure of fixation to reduce nystagmus is an important central finding.",
+    "Very strong caloric responses can also occur in some cerebellar disorders; such findings are passed on to the physician."
+   ]
+  },
+  {
+   "id": "iki_tarafli",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "Bilateral *weakness*",
+   "maddeler": [
+    {
+     "metin": "All responses _very small_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Confirm: _ice water_ or rotary chair",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Complaints: _oscillopsia_ and unsteadiness",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "One known cause: _ototoxic_ drugs",
+     "cumle": 3,
+     "ikon": "ilac"
+    }
+   ],
+   "cumleler": [
+    "In bilateral weakness, the warm and cold responses of both ears are clearly below the laboratory norms.",
+    "This finding can be confirmed with ice water irrigation, rotary chair testing or the video head impulse test.",
+    "These patients may describe the visual world bouncing while walking, called oscillopsia, and unsteadiness, especially in the dark.",
+    "Ototoxic drugs, such as some aminoglycoside antibiotics, are among the known causes.",
+    "This finding must be passed on to the physician, because the cause needs investigation and rehabilitation needs planning."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Interpretation",
+   "baslik": "*Limitations* of the test",
+   "maddeler": [
+    {
+     "metin": "_Lateral canal_ only",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Low frequency_ only",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Sensitive_ to anatomy and technique",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Nausea and _discomfort_",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "lateral canal only",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "The caloric test assesses only the lateral canal; the anterior and posterior canals and the otolith organs are not examined.",
+    "Because it uses a low-frequency stimulus, it does not directly reflect high-frequency function during everyday head movement.",
+    "The shape of the ear canal and the structure of the middle ear and temporal bone affect heat transfer and can change the result.",
+    "Some patients feel marked nausea and discomfort during the test.",
+    {
+     "yazi": "So the caloric test is interpreted as part of a battery, with tests such as the video head impulse test, or vHIT, and VEMP."
+    },
+    {
+     "yazi": "We will look at why the caloric test and vHIT can give different results in a later lesson."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "COWS: cold _opposite_, warm same",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "30 and 44 °C, _four_ irrigations",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "UW: _Jongkees_, cutoff about 20 to 25 percent",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "DP: _does not lateralize_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "With a cold stimulus nystagmus beats toward the opposite ear, and with a warm stimulus toward the same ear.",
+    "In the bithermal test each ear receives water at thirty and forty four degrees, and the four responses are compared.",
+    "Unilateral weakness is calculated with the Jongkees formula; above about twenty to twenty five percent is usually significant.",
+    "Directional preponderance shows nystagmus dominant in one direction, but alone it does not identify the side of the lesion."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Cold water in the left ear. Which way does nystagmus beat?",
+   "secenekler": [
+    "To the left",
+    "To the right",
+    "Upward"
+   ],
+   "dogru": 1,
+   "aciklama": "Cold opposite: with cold, nystagmus beats toward the _opposite_ ear.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: a supine patient, head flexed thirty degrees, gets cold water in the left ear. Which way does nystagmus beat?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: to the right.",
+    {
+     "yazi": "By the COWS rule, with a cold stimulus nystagmus beats toward the opposite ear, that is, to the right.",
+     "ses": "By the cows rule, with a cold stimulus nystagmus beats toward the opposite ear, that is, to the right."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Video Head Impulse Test (*vHIT*): Gain and Saccades",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "In the next lesson we will learn the video head impulse test, or vHIT, its gain value and saccades."
+    },
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

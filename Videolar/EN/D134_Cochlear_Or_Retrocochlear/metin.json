@@ -1,0 +1,923 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D134_Cochlear_Or_Retrocochlear_EN",
+ "kapak": {
+  "ust": "LESSON 134",
+  "baslik": "Cochlear or<br>*retrocochlear?*",
+  "alt": "The logic of differential diagnosis",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "isitme_siniri"
+  ]
+ },
+ "youtube": {
+  "baslik": "Cochlear or Retrocochlear? Differential Diagnosis | Lesson 134 | AIHEAR Audiology Academy",
+  "aciklama": "We explain how to think about whether a sensorineural hearing loss comes from the cochlea or from the auditory nerve and brainstem. Using an example case, we cover red flags, interpreting speech, acoustic reflex, OAE and ABR results together with the cross-check principle, and criteria for referral to a physician.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Jerger and Hayes (1976), The cross-check principle in pediatric audiometry; Hall, New Handbook of Auditory Evoked Responses.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "retrocochlear",
+   "hearing"
+  ],
+  "etiketler": [
+   "retrocochlear",
+   "retrocochlear pathology",
+   "site of lesion",
+   "red flags",
+   "asymmetric hearing loss",
+   "cross-check principle",
+   "test battery",
+   "rollover",
+   "acoustic reflex",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 134",
+   "baslik": "Cochlear or *retrocochlear?*",
+   "alt": "Differential diagnosis logic and red flags",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn to think about whether a sensorineural loss comes from the cochlea or from the pathways beyond it.",
+    "We will cover red flags, interpreting the test battery as a whole, and criteria for referral to a physician."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Site of lesion",
+   "baslik": "*Where* is the problem?",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "koklea",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Cochlear",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "Retrocochlear",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Site of lesion",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "The audiogram _cannot separate_ the two",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "One of the core questions of audiological assessment is the site of lesion: where along the auditory pathway is the problem?"
+    },
+    "Problems in the outer and middle ear cause conductive loss and are easily recognized by an air-bone gap.",
+    "Most sensorineural losses are cochlear; that is, the problem usually lies in the hair cells or the inner structures of the cochlea.",
+    {
+     "yazi": "Less often, the problem lies in the auditory nerve or the brainstem; this is called retrocochlear pathology."
+    },
+    "The pure-tone audiogram cannot tell these two sites apart, because both affect bone conduction in the same way.",
+    "So the distinction is made by interpreting the case history and the test battery together."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Site of lesion",
+   "baslik": "*Why* does it matter?",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Do not miss it",
+     "metin": "Causes such as tumors",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Right referral",
+     "metin": "Imaging is the physician's call",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Expectations",
+     "metin": "Hearing aid benefit may differ",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Follow-up",
+     "metin": "Monitoring intervals change",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Retrocochlear causes are rare, but they include conditions that must not be missed, such as vestibular schwannoma."
+    },
+    "The audiologist does not diagnose, but is responsible for interpreting findings correctly and referring the patient to a physician in time.",
+    "The site of lesion can also affect the expected benefit from hearing aids and the content of counseling.",
+    "Follow-up frequency and which tests to repeat are also planned according to this assessment.",
+    "The aim is not to miss an important finding without creating needless worry."
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Red flags",
+   "baslik": "*Red* flags",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Asymmetry",
+     "metin": "Unexplained one-sided loss",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Unilateral tinnitus",
+     "metin": "Especially new onset",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Disproportionate score",
+     "metin": "Speech worse than expected",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sudden loss",
+     "metin": "Urgent referral",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Imbalance",
+     "metin": "Vertigo or unsteadiness",
+     "cumle": 4
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Facial sign",
+     "metin": "Numbness or weakness",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "First among the red flags is an asymmetric sensorineural loss that noise or age cannot explain."
+    },
+    "Unilateral tinnitus, especially if new or worsening, also calls for attention.",
+    "A speech discrimination score clearly worse than the audiogram predicts is an important clue.",
+    "Sudden sensorineural loss is a separate emergency and will be covered in its own lesson.",
+    "Imbalance or vertigo together with the loss may also need further assessment.",
+    "Other cranial nerve signs, such as facial numbness or weakness, should be passed on to a physician without delay.",
+    "None of these findings alone proves a disease; but each says the assessment should go deeper."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The test battery",
+   "baslik": "*Typical* patterns in the battery",
+   "sutunlar": [
+    "Test",
+    "Cochlear",
+    "Retrocochlear"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Speech score",
+      "Consistent with loss",
+      "Disproportionately low"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Rollover",
+      "None or mild",
+      "May be marked"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Acoustic reflex",
+      "At low sensation level",
+      "Absent, elevated, decay"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "OAE",
+      "Reduced with loss",
+      "Sometimes preserved"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "ABR",
+      "Latency fits loss",
+      "Long I-V, IT5"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Recruitment",
+      "Usually present",
+      "Usually absent"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In cochlear loss, the speech discrimination score usually fits the degree of loss; in retrocochlear pathology it may be much lower.",
+    "Marked rollover on the performance-intensity function, a drop in score at high intensity, is a clue toward a retrocochlear site.",
+    "In cochlear loss, reflexes may appear at a low sensation level; in retrocochlear pathology they may be absent, elevated or decay fast.",
+    "Otoacoustic emissions, or OAEs, decrease with cochlear loss; in retrocochlear pathology they are sometimes preserved despite the loss.",
+    {
+     "yazi": "In the auditory brainstem response, or ABR, retrocochlear pathology prolongs the I-V interval and the interaural wave V difference.",
+     "ses": "In the auditory brainstem response, or ABR, retrocochlear pathology prolongs the one to five interval and the interaural wave five difference."
+    },
+    "Recruitment, an abnormally rapid growth of loudness, is a typical sign of cochlear loss; it is usually not seen in retrocochlear pathology.",
+    "The patterns in the table are tendencies; no single test result makes a definite distinction."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The test battery",
+   "baslik": "The reflex pathway gives a *clue*",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 2,
+    "kontra_cumle": 2
+   },
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "ipsilateral_yol",
+     "cumle": 2
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Auditory nerve (VIII)",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "No reflex with mild loss: _caution_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Metz: reflex minus threshold _60 dB or less_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "The acoustic reflex arc includes the auditory nerve of the stimulated ear.",
+    "A lesion of the auditory nerve disrupts the transmission of the signal to the brainstem.",
+    "So when the affected ear is stimulated, both ipsilateral and contralateral reflexes may be absent or elevated.",
+    "A complete absence of the reflex in an ear with only a mild or moderate loss is not easily explained by a cochlear loss.",
+    {
+     "yazi": "In cochlear loss, the gap between reflex threshold and pure-tone threshold is often 60 dB or less; this is called the Metz test.",
+     "ses": "In cochlear loss, the gap between reflex threshold and pure-tone threshold is often sixty decibels or less; this is called the Metz test."
+    },
+    "Reflex patterns and the reflex decay test are covered in detail in separate lessons."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The test battery",
+   "baslik": "Speech *clues*",
+   "maddeler": [
+    {
+     "metin": "Consider the _expected_ score from the audiogram",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "A clearly low score: _red flag_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Rollover_ at high intensity",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Scores of both ears are _compared_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 2,
+    "ayar": {
+     "x": {
+      "min": 30,
+      "max": 100,
+      "adim": 10,
+      "ad": "Intensity (dB HL)"
+     },
+     "y": {
+      "min": 0,
+      "max": 100,
+      "adim": 20,
+      "ad": "Score (%)"
+     },
+     "seriler": [
+      {
+       "ad": "koklear_pi",
+       "noktalar": [
+        [
+         40,
+         40
+        ],
+        [
+         50,
+         70
+        ],
+        [
+         60,
+         84
+        ],
+        [
+         70,
+         88
+        ],
+        [
+         80,
+         88
+        ],
+        [
+         90,
+         86
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "isaretli": true,
+       "etiket": "example cochlear",
+       "cumle": 2,
+       "etiket_konum": [
+        90,
+        86
+       ],
+       "etiket_dy": -14,
+       "etiket_dx": -10,
+       "etiket_hiza": "end"
+      },
+      {
+       "ad": "retro_pi",
+       "noktalar": [
+        [
+         40,
+         30
+        ],
+        [
+         50,
+         52
+        ],
+        [
+         60,
+         64
+        ],
+        [
+         70,
+         60
+        ],
+        [
+         80,
+         44
+        ],
+        [
+         90,
+         32
+        ]
+       ],
+       "renk": "kirmizi",
+       "kesik": true,
+       "yumusak": true,
+       "isaretli": true,
+       "etiket": "example retrocochlear",
+       "cumle": 3,
+       "etiket_konum": [
+        90,
+        32
+       ],
+       "etiket_dy": 26,
+       "etiket_dx": -10,
+       "etiket_hiza": "end"
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "When interpreting speech results, first think about which score can be expected for the loss on the audiogram.",
+    "A score clearly lower than expected, especially in one ear, is an important clue toward a retrocochlear site.",
+    "On the blue example curve, the score rises with intensity and holds at high levels.",
+    "On the red example curve, the score drops clearly after a peak; this is called rollover.",
+    "The scores of the two ears are compared at similar sensation levels to look for asymmetry."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The test battery",
+   "baslik": "OAEs and the *cochlea*",
+   "maddeler": [
+    {
+     "metin": "OAEs reflect _outer hair cells_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Marked loss with OAEs: _beyond the cochlea_?",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "A tumor can _affect_ the cochlea too",
+     "cumle": 3,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Absent OAEs _do not rule out_ retrocochlear",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "oae",
+    "cumle": 0,
+    "ayar": {
+     "tur": "DPOAE"
+    },
+    "vurgula": [
+     {
+      "parca": "yanit",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Otoacoustic emissions reflect the function of the outer hair cells.",
+    "Normal or near-normal OAEs despite a moderate or severe loss suggest the problem may lie beyond the cochlea.",
+    "This pattern also appears in auditory neuropathy spectrum disorder, which we will see in a later lesson.",
+    "However, a tumor can also cause cochlear damage by affecting the blood supply or fluids of the cochlea.",
+    "So absent OAEs do not rule out a retrocochlear problem; OAEs are only one part of the battery."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Putting it together",
+   "baslik": "The cross-check *principle*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Case history",
+     "metin": "Onset, side, symptoms",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiogram",
+     "metin": "Type, degree, symmetry",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Speech",
+     "metin": "Score fits the loss?",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Immittance",
+     "metin": "Reflexes and decay",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "OAE and ABR",
+     "metin": "Cochlea or nerve?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Assessment begins with the history: when did the loss start, is it one-sided, and is there tinnitus or dizziness?",
+    "Then the type and degree of loss on the audiogram and the symmetry between the two ears are assessed.",
+    "Speech tests show whether the score fits the audiogram.",
+    "In immittance testing, acoustic reflexes and, if needed, reflex decay are examined.",
+    "OAEs and ABR help assess the cochlea and nerve conduction separately.",
+    {
+     "yazi": "Each test confirms or questions the previous one; this is the cross-check principle."
+    }
+   ]
+  },
+  {
+   "id": "ornek_odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Putting it together",
+   "baslik": "Example: an *asymmetric* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Right air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Left air conduction",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "Left bone, masked",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       20,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       40,
+       50,
+       55
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       15,
+       20,
+       30,
+       40,
+       50
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Now let us think through a purely example adult who describes ringing in the left ear that has increased over a year.",
+    "In this example, the right ear thresholds are within normal limits.",
+    "In the left ear, there is a mild to moderate loss that increases toward the high frequencies.",
+    "Masked bone-conduction thresholds overlap with air conduction, so the loss is sensorineural.",
+    {
+     "yazi": "There is a difference of 15 decibels or more between the ears at several adjacent frequencies; this is an asymmetric loss.",
+     "ses": "There is a difference of fifteen decibels or more between the ears at several adjacent frequencies; this is an asymmetric loss."
+    },
+    "If there is no noise history or other explanation, this picture calls for an expanded test battery."
+   ]
+  },
+  {
+   "id": "ornek_batarya",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Putting it together",
+   "baslik": "Example *battery* results",
+   "sutunlar": [
+    "Test",
+    "Left ear finding",
+    "Interpretation"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Word score",
+      "56 percent",
+      "Lower than expected"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Acoustic reflex",
+      "Absent, left stimulation",
+      "Not explained by loss"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "OAE",
+      "Reduced at high frequencies",
+      "Not decisive alone"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "ABR, IT5",
+      "0.6 ms",
+      "Above the limit"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Conclusion",
+      "Red flags",
+      "Refer to physician"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "In the same example, the left ear word recognition score is fifty six percent, lower than expected for this degree of loss.",
+    "With left ear stimulation, acoustic reflexes are absent in a way a mild to moderate loss cannot explain.",
+    "OAEs are reduced at high frequencies; this finding alone is not enough to make the distinction.",
+    {
+     "yazi": "On ABR, the interaural wave V difference is 0.6 milliseconds, above the accepted limit.",
+     "ses": "On ABR, the interaural wave five difference is zero point six milliseconds, above the accepted limit."
+    },
+    "These mutually supporting findings are red flags for a retrocochlear site, and the patient is referred to a physician.",
+    "The report states not a diagnosis but the findings, and that they may be consistent with a retrocochlear process."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "When you see asymmetry, first test the reliability of the thresholds: is masking adequate, is the earphone placed correctly, is the ear canal open?",
+   "cumleler": [
+    "A clinical tip: before interpreting an asymmetric result, make sure the thresholds are reliable.",
+    "Earwax, a collapsing ear canal or a poorly placed earphone can create a false asymmetry.",
+    "Inadequate masking for the poorer ear's thresholds can make a real asymmetry look smaller than it is.",
+    "Only after a technical error is ruled out should the clinical meaning of the finding be discussed."
+   ]
+  },
+  {
+   "id": "esik_ustu",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "Classic *suprathreshold* tests",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "ABLB",
+     "metin": "Demonstrates recruitment",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "SISI",
+     "metin": "Small intensity increments",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tone decay",
+     "metin": "The tone fades away",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "In the past, suprathreshold tests such as the alternate binaural loudness balance, or ABLB, were widely used to find the site of lesion.",
+    {
+     "yazi": "The short increment sensitivity index, or SISI, looks at the ability to detect brief 1 dB increases in intensity.",
+     "ses": "The short increment sensitivity index, or SISI, looks at the ability to detect brief one decibel increases in intensity."
+    },
+    "The tone decay test, which checks whether a continuous tone becomes inaudible over time, is another classic method.",
+    "Today these tests have largely been replaced by ABR and imaging, but knowing their logic strengthens interpretation.",
+    "We will examine these tests in detail in our next lesson."
+   ]
+  },
+  {
+   "id": "yonlendirme",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Referral",
+   "baslik": "When to *refer?*",
+   "maddeler": [
+    {
+     "metin": "Unexplained _asymmetric_ sensorineural loss",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Unilateral tinnitus, _disproportionate_ score",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Abnormal reflex or _ABR_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sudden loss: physician _the same day_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PATHWAY",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "odyolog",
+      "baslik": "Audiologist",
+      "metin": "Reports the findings",
+      "cumle": 4
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Physician",
+      "metin": "Examination, imaging decision",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "An asymmetric sensorineural loss that noise, age or a known cause cannot explain calls for referral to a physician.",
+    "Unilateral tinnitus and a speech score disproportionately low for the loss are also reasons for referral.",
+    "Acoustic reflex or ABR findings that are abnormal in a retrocochlear direction strengthen this decision.",
+    "Sudden sensorineural loss carries its own urgency, and the patient is referred to a physician without delay.",
+    "The audiologist passes on the findings in a clear report and states the reason for referral.",
+    "The physician decides whether further tests such as magnetic resonance imaging are needed."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "The audiogram _cannot separate_ cochlea and nerve",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Red flags: _asymmetry_, tinnitus, low score",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "The battery is interpreted _as a whole_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Audiologist _refers_, physician decides",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "The pure-tone audiogram alone cannot tell whether a sensorineural loss is cochlear or retrocochlear.",
+    "Asymmetric loss, unilateral tinnitus and a disproportionately low speech score are the main red flags.",
+    "Speech, reflex, OAE and ABR findings are interpreted together using the cross-check principle.",
+    "With red flags, the audiologist's role is to report the findings and refer; the decision on further tests belongs to the physician."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is a clue toward a retrocochlear site?",
+   "secenekler": [
+    "Speech score fits the loss",
+    "Marked rollover",
+    "Reflex at low sensation level",
+    "Symmetric high-frequency loss"
+   ],
+   "dogru": 1,
+   "aciklama": "A marked drop in score at high intensity, called _rollover_, is a clue toward a retrocochlear site.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which of the following is a clue toward a retrocochlear site?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: marked rollover.",
+    "The other options fit cochlear loss better; still, no single finding makes the distinction on its own."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Classic Suprathreshold Tests: ABLB, *SISI*, Tone Decay",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn the classic suprathreshold tests: ABLB, SISI and the tone decay test.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

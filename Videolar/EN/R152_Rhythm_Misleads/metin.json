@@ -1,0 +1,103 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R152_Rhythm_Misleads_EN",
+ "kapak": {
+  "ust": "QUICK FACT #152",
+  "baslik": "Rhythm *misleads*",
+  "alt": "Regular tones lead to false positive responses",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why is presenting tones in a steady rhythm a mistake? #shorts",
+  "aciklama": "Presenting tones in a regular rhythm lets the patient predict the next tone, which leads to false positive responses. False positives make the threshold look better than it really is, so the silent intervals between tones are kept irregular.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiometry",
+   "hearing"
+  ],
+  "etiketler": [
+   "false positive response",
+   "pure-tone audiometry",
+   "threshold",
+   "audiometry mistakes",
+   "hearing test",
+   "test technique",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why is presenting tones in a steady rhythm a mistake?",
+  "bilgiler": [
+   "A response when no tone was presented is a false positive.",
+   "A steady rhythm lets the patient predict the next tone.",
+   "So the silent intervals between tones are kept irregular."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #152",
+   "metin": "Why is a steady *rhythm* a mistake?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why is presenting tones in a steady rhythm a mistake?"
+   ]
+  },
+  {
+   "id": "ritim",
+   "tur": "zincir",
+   "baslik": "*Rhythm* misleads",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Steady rhythm",
+     "tr": "easy to predict",
+     "cumle": 0
+    },
+    {
+     "ad": "False positive",
+     "tr": "response without a tone",
+     "cumle": 1
+    },
+    {
+     "ad": "Threshold",
+     "tr": "looks better",
+     "cumle": 2
+    }
+   ],
+   "alt": "Silent intervals: _irregular_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "A regular rhythm lets the patient predict the next tone.",
+    "A response when no tone was given is a false positive.",
+    "False positives make the threshold look better than it is.",
+    "So the silent intervals between tones are kept irregular."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D064",
+ "kaynak_baslik": "Common Mistakes in Pure-Tone Audiometry"
+}

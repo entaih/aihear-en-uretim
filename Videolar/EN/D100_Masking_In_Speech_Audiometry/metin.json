@@ -1,0 +1,818 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D100_Masking_In_Speech_Audiometry_EN",
+ "kapak": {
+  "ust": "LESSON 100",
+  "baslik": "Masking<br>*speech*",
+  "alt": "For SRT and SDS: when, and how much?",
+  "cizim": "maskeleme",
+  "ayar": {
+   "ia_db": 40,
+   "test_kulak": "sag"
+  }
+ },
+ "youtube": {
+  "baslik": "Masking in Speech Audiometry | Lesson 100 | AIHEAR Audiology Academy",
+  "aciklama": "In speech tests, especially word recognition testing at high levels, the opposite ear can hear the speech. In this lesson we work through the masking rule for SRT and SDS, speech noise, how to calculate the minimum and maximum effective masking levels, and the practical rule of presentation level minus twenty decibels, using a sample audiogram.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Yacullo (1999), Clinical masking in speech audiometry: a simplified approach, American Journal of Audiology; Martin and Clark, Introduction to Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "masking",
+   "speechaudiometry"
+  ],
+  "etiketler": [
+   "masking in speech audiometry",
+   "speech noise",
+   "effective masking",
+   "presentation level",
+   "SRT masking",
+   "SDS masking",
+   "interaural attenuation",
+   "clinical masking",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 100",
+   "baslik": "*Masking* in Speech Audiometry",
+   "alt": "For SRT and SDS: when, and how much?",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn when the opposite ear needs to be masked in speech tests.",
+    "Then we will work through two ways of calculating the speech noise level on a sample audiogram."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "When?",
+   "baslik": "Speech *crosses over* too",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40,
+    "test_kulak": "sag"
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: words at 90 dB HL",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: about 40 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "NTE cochlea: about 50 dB",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "Speech noise to the NTE",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Word recognition is _at high levels_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "The better ear _inflates_ the score",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "As with pure tones, speech can cross from the test ear, or TE, to the other side through the skull.",
+    "For supra-aural earphones, the conservative interaural attenuation, or IA, for speech is taken as about forty decibels.",
+    "Words presented at ninety decibels HL can reach the cochlea of the non-test ear, or NTE, at about fifty decibels.",
+    "This risk is especially large because word recognition is tested at a comfortably audible, that is, high level.",
+    "If the NTE hears well, it recognizes the words, and the poorer ear's score looks much better than it really is.",
+    "To prevent this, speech noise is delivered to the NTE."
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "When?",
+   "baslik": "The masking *rule* for speech",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Presentation level",
+     "metin": "Level given to TE",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "NTE bone conduction",
+     "metin": "Best threshold",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Take the difference",
+     "metin": "Presentation minus bone",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Compare with IA",
+     "metin": "40 or 55",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Mask",
+     "metin": "If difference reaches IA",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The rule starts with the presentation level of the speech given to the test ear.",
+    "From this level, we subtract the best NTE bone conduction threshold in the speech frequencies, usually five hundred to four thousand hertz.",
+    "We use the best bone conduction because crossed speech can be picked up in the most sensitive region of the NTE cochlea.",
+    "The difference is compared with an IA of forty decibels for supra-aural earphones or about fifty five for insert earphones.",
+    "If the difference is equal to or greater than IA, the test is done with the opposite ear masked.",
+    "The rule is the same for the speech recognition threshold, SRT, and the speech discrimination score, SDS; only presentation level differs."
+   ]
+  },
+  {
+   "id": "srt_sds",
+   "tur": "karsilastir",
+   "bolum_no": "PART 1",
+   "bolum": "When?",
+   "baslik": "SRT and SDS: *which* is riskier?",
+   "sol": {
+    "ust": "SRT",
+    "maddeler": [
+     {
+      "metin": "Presentation level _near threshold_",
+      "cumle": 0
+     },
+     {
+      "metin": "Masking needed _less often_",
+      "cumle": 1
+     },
+     {
+      "metin": "Needed with large asymmetry",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "SDS",
+    "maddeler": [
+     {
+      "metin": "Presentation _30 to 40 dB_ above SRT",
+      "cumle": 3
+     },
+     {
+      "metin": "Masking needed _very often_",
+      "cumle": 4
+     },
+     {
+      "metin": "May be needed even when symmetric",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "When measuring the SRT, speech is presented near the threshold of the test ear.",
+    "At this low level, crossed speech often does not reach the NTE threshold; masking is needed less often.",
+    "But if there is a large difference between the two ears, masking is needed for the SRT as well.",
+    "Word recognition, however, is usually tested thirty to forty decibels above the SRT.",
+    "At this high level, the difference easily exceeds IA, so masking is needed very often for the SDS.",
+    "Because word recognition is done at a high level, masking may be needed even in losses where the two ears are symmetric."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Noise",
+   "baslik": "*Speech* noise",
+   "maddeler": [
+    {
+     "metin": "_Broadband_ noise shaped like speech",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Same effect at _lower_ loudness",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Level: _effective masking_, dB EM",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "_Know_ how your audiometer is calibrated",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CHOICE",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Speech noise",
+      "metin": "Preferred",
+      "cumle": 0
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "White noise",
+      "metin": "Less efficient",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Speech noise is used for masking in speech tests; its spectrum is similar to the long-term speech spectrum.",
+    "Its energy is concentrated in the frequencies where speech energy lies, so it masks just as well at a lower loudness.",
+    "White noise can also be used, but it carries unnecessary high-frequency energy and is more annoying for the patient.",
+    {
+     "yazi": "The noise level is expressed in effective masking, or dB EM.",
+     "ses": "The noise level is expressed in effective masking, or decibels E.M."
+    },
+    "Some audiometers may show speech noise in other units; know how the audiometer you use is calibrated.",
+    "The patient is told they will hear a rushing sound in one ear and should only repeat the words."
+   ]
+  },
+  {
+   "id": "min_max",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "How much?",
+   "baslik": "The least and the *most* noise",
+   "maddeler": [
+    {
+     "metin": "Least: presentation minus IA plus _NTE gap_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Too little noise: _undermasking_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Most: TE bone plus IA _minus 5_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Chosen level: _between the two_",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FORMULA",
+    "metin": "Least EM = presentation level minus IA plus *NTE air-bone gap*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "One way to set the noise level is to find the least and the most effective masking levels and choose a value in between.",
+    "Least level: subtract IA from the presentation level in the TE and add the largest NTE air-bone gap.",
+    "Noise below this level cannot cover the crossed speech; this is called undermasking.",
+    "The NTE air-bone gap is added because the noise reaches the NTE by air conduction and must also overcome the conductive block.",
+    "Most level: add IA to the best TE bone conduction threshold and subtract five decibels for safety.",
+    "Noise above this level crosses the skull to the TE and makes the score look worse than it is; this is called overmasking.",
+    "The chosen noise level must stay between these two limits."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "How much?",
+   "baslik": "The safe *range*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "adim": 10,
+     "ad": "Noise to NTE (dB EM)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": " "
+    },
+    "bolgeler": [
+     {
+      "ad": "yetersiz",
+      "x": [
+       0,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "under",
+      "cumle": 1
+     },
+     {
+      "ad": "guvenli",
+      "x": [
+       50,
+       90
+      ],
+      "renk": "yesil",
+      "etiket": "safe range",
+      "cumle": 2
+     },
+     {
+      "ad": "asiri",
+      "x": [
+       90,
+       110
+      ],
+      "renk": "kirmizi",
+      "etiket": "over",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "en_az",
+      "x": 50,
+      "y": 5,
+      "cizgi": "dikey",
+      "nokta": false,
+      "renk": "sari",
+      "etiket": "least 50",
+      "cumle": 1
+     },
+     {
+      "ad": "en_cok",
+      "x": 90,
+      "y": 5,
+      "cizgi": "dikey",
+      "nokta": false,
+      "renk": "kirmizi",
+      "etiket": "most 90",
+      "cumle": 3
+     },
+     {
+      "ad": "secilen",
+      "x": 70,
+      "y": 5,
+      "dolu": true,
+      "renk": "mavi",
+      "etiket": "chosen 70",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Least: 90 minus 40 plus 0",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Most: 55 plus 40 minus 5",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Chosen: middle of the range",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "In the example we will see shortly, words are presented to the right ear at ninety decibels HL.",
+    {
+     "yazi": "The left ear has no air-bone gap; the least level is ninety minus forty plus zero, or fifty dB EM.",
+     "ses": "The left ear has no air-bone gap; the least level is ninety minus forty plus zero, or fifty decibels E.M."
+    },
+    "The region between fifty and ninety is the safe range.",
+    {
+     "yazi": "The best bone conduction of the right ear is fifty five; the most is fifty five plus forty minus five, or ninety dB EM.",
+     "ses": "The best bone conduction of the right ear is fifty five; the most is fifty five plus forty minus five, or ninety decibels E.M."
+    },
+    {
+     "yazi": "Seventy dB EM, in the middle of this range, is a safe choice twenty decibels away from both limits.",
+     "ses": "Seventy decibels E.M., in the middle of this range, is a safe choice twenty decibels away from both limits."
+    },
+    "One reason to avoid needlessly high noise is central masking, which can raise the threshold by about five decibels."
+   ]
+  },
+  {
+   "id": "yacullo",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "How much?",
+   "baslik": "A practical rule: *minus 20*",
+   "maddeler": [
+    {
+     "metin": "EM = presentation level _minus 20_",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Plus the largest NTE _air-bone gap_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_Safe_ when IA is at least 40 dB",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "TE conductive loss: _check the upper limit_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EXAMPLE",
+    "metin": "90 minus 20 plus 0 = *70 dB EM*",
+    "cumle": 3
+   },
+   "cumleler": [
+    {
+     "yazi": "A quicker way is the practical rule proposed by Yacullo: the effective masking level is twenty decibels below the presentation level.",
+     "ses": "A quicker way is the practical rule proposed by Yakullo: the effective masking level is twenty decibels below the presentation level."
+    },
+    "If the NTE has an air-bone gap, the largest gap is added to this value.",
+    "Since IA is at least forty decibels, this level stays about twenty decibels above the minimum level needed.",
+    {
+     "yazi": "In our example, ninety minus twenty plus zero gives seventy dB EM, the same as the safe choice we just found.",
+     "ses": "In our example, ninety minus twenty plus zero gives seventy decibels E.M., the same as the safe choice we just found."
+    },
+    "But if the TE has a large conductive loss, its bone conduction is good and the upper limit drops; then it must be calculated separately.",
+    "Both methods share the same goal: the noise must be enough, but must not reach the test ear."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Example",
+   "baslik": "Example: a *unilateral* loss",
+   "lejant": [
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Right_ (TE): SRT 60 dB HL",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Right_: best bone conduction 55",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_ (NTE): normal, bone 10",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       50,
+       55,
+       60,
+       65,
+       70,
+       75
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       45,
+       55,
+       60,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "In this example, the right ear has a moderately severe sensorineural loss; the SRT was found at sixty decibels HL.",
+    "The best bone conduction threshold of the right ear in the speech frequencies is fifty five decibels.",
+    "The left ear is normal; its air and bone conduction thresholds are around ten decibels, with no air-bone gap.",
+    "Word recognition will be tested in the right ear thirty decibels above the SRT, that is, at ninety decibels HL.",
+    "First the rule for the SRT: sixty minus ten is fifty decibels, above forty for supra-aural earphones, so masking is needed.",
+    "For word recognition: ninety minus ten is eighty decibels, which also clearly exceeds IA.",
+    "With insert earphones, the SRT difference of fifty stays below fifty five, but masking is still needed for word recognition."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Example",
+   "baslik": "The example *calculation table*",
+   "sutunlar": [
+    "Test",
+    "Presentation (dB HL)",
+    "Difference (dB)",
+    "Noise (dB EM)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "SRT",
+      "About 60",
+      "50",
+      "40"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "SDS",
+      "90",
+      "80",
+      "70"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Let us put the results in a table.",
+    {
+     "yazi": "The SRT is measured around sixty decibels; by the practical rule, the noise is sixty minus twenty, or forty dB EM.",
+     "ses": "The S.R.T is measured around sixty decibels; by the practical rule, the noise is sixty minus twenty, or forty decibels E.M."
+    },
+    "As the level changes while searching for the SRT, some clinicians set the noise once from the expected SRT and keep it fixed.",
+    {
+     "yazi": "Word recognition is tested at ninety decibels HL with seventy dB EM of speech noise in the left ear.",
+     "ses": "Word recognition is tested at ninety decibels HL with seventy decibels E.M. of speech noise in the left ear."
+    },
+    "Both values stay between the least and the most limits.",
+    "The masked SRT and score are recorded together with the noise level used."
+   ]
+  },
+  {
+   "id": "nte_iletim",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Example",
+   "baslik": "If the NTE has a *conductive* loss",
+   "maddeler": [
+    {
+     "metin": "Noise must first _overcome the block_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Least level rises _by the gap_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "The safe range _narrows_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Insert earphones _widen the range_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        40,
+        40,
+        35,
+        35,
+        40,
+        45
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        15
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Now imagine the NTE, the left ear, has a conductive loss; in this example the air-bone gap is thirty decibels.",
+    "The noise reaches the left ear by air conduction, so it must first overcome this block; the least level rises by thirty decibels.",
+    {
+     "yazi": "In the same example, the least level for word recognition becomes eighty instead of fifty dB EM; the practical rule gives one hundred dB EM.",
+     "ses": "In the same example, the least level for word recognition becomes eighty instead of fifty decibels E.M.; the practical rule gives one hundred decibels E.M."
+    },
+    "One hundred exceeds the upper limit of ninety for the right ear; the safe range has narrowed, and the practical rule cannot be used here.",
+    "Insert earphones raise IA, so they widen the safe range in situations like this.",
+    "In bilateral conductive loss, this range can disappear completely; this is the speech version of the masking dilemma we saw with pure tones."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "If the unmasked word score of the poorer ear is better than expected, suspect cross-hearing; repeat the test with speech noise.",
+   "cumleler": [
+    "Here is a check that works well in the clinic.",
+    "If the unmasked word recognition score of the poorer ear looks better than expected from its pure tone thresholds, stop.",
+    "This may mean the better ear is actually recognizing the words.",
+    "Repeat the test with speech noise at a suitable level in the opposite ear, and compare the two scores."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Example",
+   "baslik": "*Masking* in the report",
+   "maddeler": [
+    {
+     "metin": "Was masking used: _yes or no_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Noise type and _dB EM_ level",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Earphone type: _supra-aural or insert_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Borderline cases _are noted_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RECORD",
+    "metin": "SDS: 72 percent, 90 dB HL, left 70 dB EM *speech noise*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "The report first states whether masking was used for the SRT and for word recognition.",
+    "If it was, the noise type and the effective masking level are written.",
+    "The earphone type is also written, because IA, and so the decision, depends on it.",
+    "Cases where the safe range was narrow or masking may have been insufficient are noted separately.",
+    {
+     "yazi": "For example, a record might read: word recognition seventy two percent, ninety decibels HL, seventy dB EM speech noise to the left ear.",
+     "ses": "For example, a record might read: word recognition seventy two percent, ninety decibels HL, seventy decibels E.M. speech noise to the left ear."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Rule: presentation minus NTE bone _reaches IA_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "SDS needs masking _very often_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Least: presentation minus IA _plus NTE gap_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Practical rule: _presentation minus 20_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "If the difference between the presentation level and the best NTE bone conduction reaches IA, the opposite ear is masked in speech tests.",
+    "Because word recognition is tested at a high level, it needs masking far more often than the SRT.",
+    "The least level is presentation minus IA plus the NTE air-bone gap; the most is TE bone conduction plus IA minus five.",
+    "As a practical rule, twenty decibels below the presentation level can be used, adding the NTE gap if needed."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "SDS at 80 dB HL, NTE normal, no gap. Noise by the practical rule?",
+   "secenekler": [
+    "40 dB EM",
+    "60 dB EM",
+    "80 dB EM",
+    "100 dB EM"
+   ],
+   "dogru": 1,
+   "aciklama": "Presentation level minus 20: _80 minus 20 = 60 dB EM_; the NTE has no gap, so nothing is added.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: Word recognition is at eighty decibels HL; the opposite ear is normal, with no gap. What noise does the practical rule give?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: sixty dB EM.",
+     "ses": "The correct answer is B: sixty decibels E.M."
+    },
+    "Twenty is subtracted from the presentation level; the opposite ear has no air-bone gap, so nothing else is added."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Most Comfortable* and Uncomfortable Loudness Levels",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn how to measure the most comfortable listening level and the uncomfortable loudness level.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

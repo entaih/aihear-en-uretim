@@ -1,0 +1,890 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D049_Auditory_Nerve_Coding_EN",
+ "kapak": {
+  "ust": "LESSON 49",
+  "baslik": "Auditory nerve<br>*coding*",
+  "alt": "Place, timing and intensity coding",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  }
+ },
+ "youtube": {
+  "baslik": "How the Auditory Nerve Codes Frequency and Intensity | Lesson 49 | AIHEAR Audiology Academy",
+  "aciklama": "Auditory nerve fibers code the frequency of a sound by which fiber fires (place coding) and by the timing of spikes (phase locking), and its intensity by firing rate and the number of active fibers. In this lesson we look at tuning curves, the rate-level function, the three fiber groups by spontaneous rate, and what these principles mean in the clinic.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Moore, An Introduction to the Psychology of Hearing; Liberman (1978), Auditory-nerve response from cats raised in a low-noise chamber, Journal of the Acoustical Society of America; Kujawa and Liberman (2009), Adding insult to injury: cochlear nerve degeneration after temporary noise-induced hearing loss, Journal of Neuroscience.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "physiology"
+  ],
+  "etiketler": [
+   "auditory nerve",
+   "place coding",
+   "phase locking",
+   "spontaneous rate",
+   "rate-level function",
+   "tuning curve",
+   "volley principle",
+   "cochlear synaptopathy",
+   "hearing physiology",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 49",
+   "baslik": "How the auditory nerve *codes sound*",
+   "alt": "The neural code for frequency and intensity",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how auditory nerve fibers send the frequency and intensity of a sound to the brain.",
+    "We will look in turn at place coding, phase locking, firing rate and the different fiber groups."
+   ]
+  },
+  {
+   "id": "lifler",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The language of the nerve",
+   "baslik": "Auditory nerve *fibers*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "sinir_lifleri",
+     "metin": "nerve fibers",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "inner hair cell",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "outer hair cells",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "About 30,000 fibers",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Type I: inner hair cell",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Type II: outer hair cells",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The signal produced by the hair cells in the cochlea is carried to the brainstem by auditory nerve fibers.",
+    "In humans, the auditory nerve contains about thirty thousand afferent fibers.",
+    "About ninety to ninety five percent of these are type one fibers, which connect to the inner hair cells.",
+    "Each type one fiber receives input from only one inner hair cell, while each inner hair cell connects to several fibers.",
+    "The remaining thin type two fibers connect to many outer hair cells; their role is not yet fully understood.",
+    "So the detailed information about sound is carried mostly by the type one fibers linked to the inner hair cells."
+   ]
+  },
+  {
+   "id": "aksiyon",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The language of the nerve",
+   "baslik": "*How* is information carried?",
+   "maddeler": [
+    {
+     "metin": "Action potential: _all or none_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Cue 1: _firing rate_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cue 2: _spike timing_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Cue 3: _which fibre_ fires",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "THREE SOURCES OF INFORMATION",
+    "metin": "Spike *count*, spike timing and where the fiber lies",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Nerve fibers carry information as short electrical pulses called action potentials.",
+    "Each spike follows the all-or-none principle; the size of a spike does not change with the intensity of the sound.",
+    "So information is stored first in the number of spikes per unit time, that is, the firing rate.",
+    "The second source is spike timing: whether spikes fall at particular moments of the sound wave.",
+    "The third source is which fibers fire, because each fiber comes from a particular place in the cochlea.",
+    "Now let us see how these three sources represent frequency and intensity."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Frequency coding",
+   "baslik": "*Place* coding",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "largest vibration",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "metin": "base: high",
+     "cumle": 2
+    },
+    {
+     "parca": "tepe",
+     "metin": "apex: low",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Which fiber, which frequency",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tonotopy up to the cortex",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Example: 4000 Hz near the base",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "The first way to code frequency is place coding.",
+    "For each frequency, the traveling wave reaches its largest amplitude at a particular place on the basilar membrane.",
+    "High-frequency sounds create the strongest vibration at the base of the cochlea, low-frequency sounds at the apex.",
+    "Fibers linked to the inner hair cells in that region fire the most, so which fiber is active signals the frequency.",
+    "This frequency map is called tonotopy, and it is preserved from the cochlear nucleus up to the cortex.",
+    "In this example, a four thousand hertz sound creates the largest vibration near the base of the cochlea."
+   ]
+  },
+  {
+   "id": "ayar_egrisi",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Frequency coding",
+   "baslik": "Characteristic frequency and the *tuning curve*",
+   "maddeler": [
+    {
+     "metin": "_Characteristic frequency_: lowest threshold",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "V-shaped _tuning curve_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Sharp tip: _outer hair cells_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "With damage the tip is lost, curve _broadens_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ayar_egrisi",
+    "cumle": 0,
+    "ayar": {
+     "cf": 2000,
+     "egriler": [
+      {
+       "tip": "saglikli",
+       "cumle": 2
+      },
+      {
+       "tip": "hasarli",
+       "cumle": 4
+      }
+     ],
+     "cf_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "karakteristik_frekans",
+      "metin": "characteristic frequency",
+      "cumle": 1
+     },
+     {
+      "parca": "hasarli",
+      "metin": "outer hair cell loss",
+      "cumle": 4,
+      "yer": "ust"
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "uc",
+      "cumle": 3
+     },
+     {
+      "parca": "hasarli",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "A fiber does not respond to every frequency with the same sensitivity.",
+    "The frequency at which a fiber responds at the lowest intensity is called its characteristic frequency.",
+    "If we plot its thresholds at different frequencies, we get a tuning curve shaped like the letter V.",
+    "The sharp tip of the curve comes from the outer hair cells, which work as the cochlear amplifier.",
+    "When the outer hair cells are damaged, the tip is lost; the fiber's threshold rises and its tuning curve broadens.",
+    "This partly explains why people with sensorineural loss struggle to separate sounds and to understand in noise."
+   ]
+  },
+  {
+   "id": "faz",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Frequency coding",
+   "baslik": "*Phase* locking",
+   "cizim": "atim_dizisi",
+   "ayar": {
+    "frekans_hz": 250,
+    "periyot": 6,
+    "ates": [
+     1,
+     0,
+     1,
+     1,
+     0,
+     1
+    ],
+    "cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "atimlar",
+     "metin": "Fiber spikes",
+     "cumle": 3
+    },
+    {
+     "parca": "periyot",
+     "metin": "Period: 4 ms",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "evre",
+     "cumle": 2
+    },
+    {
+     "parca": "atimlar",
+     "cumle": 3
+    },
+    {
+     "parca": "aralik",
+     "cumle": 4
+    },
+    {
+     "parca": "periyot",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Spikes at the same phase",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Not in every period",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Intervals are multiples of the period",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "The second way to code frequency is timing.",
+    "In each period, a low-frequency sound wave reaches the phase that stimulates the hair cell most, once.",
+    "Auditory nerve fibers tend to fire at exactly this phase; this is called phase locking.",
+    "A fiber does not have to fire in every period, but when it does fire, it does so at the same phase of the wave.",
+    "So the intervals between spikes are multiples of the period, and the brain can extract frequency from this pattern.",
+    "In this example, the period of a two hundred fifty hertz tone is four milliseconds."
+   ]
+  },
+  {
+   "id": "salvo",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Frequency coding",
+   "baslik": "The volley principle and the *upper limit*",
+   "maddeler": [
+    {
+     "metin": "One fiber: _a few hundred_ spikes a second",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Fibers together: the _volley principle_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Weakens_ above 1000 Hz",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Disappears_ at about 4 to 5 kHz",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "etiketler": [
+     {
+      "parca": "isitme_siniri",
+      "metin": "auditory nerve",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "A single fiber can fire at most a few hundred spikes a second, which alone is not enough to follow a one thousand hertz wave.",
+    {
+     "yazi": "According to Wever's volley principle, different fibers fire in different periods and as a group mark every period."
+    },
+    "In this way the fiber population can carry the timing of the wave even at frequencies a single fiber cannot follow.",
+    "However, phase locking gradually weakens above about one thousand hertz.",
+    "In mammals, no clear phase locking is seen above about four to five kilohertz.",
+    "The exact upper limit in humans is debated, but it is accepted that timing information decreases at high frequencies."
+   ]
+  },
+  {
+   "id": "yer_zaman",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Frequency coding",
+   "baslik": "Place or *timing*?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Place code",
+     "metin": "Works across the whole frequency range",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "High frequencies",
+     "metin": "Information mostly from the place code",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sharpness",
+     "metin": "Depends on outer hair cells",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Timing code",
+     "metin": "At low and mid frequencies",
+     "cumle": 3
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Pitch discrimination",
+     "metin": "Timing adds fine resolution",
+     "cumle": 4
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Cochlear implant",
+     "metin": "Mainly place code, limited timing",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Place coding gives information across the whole frequency range.",
+    "Because phase locking is lost, frequency information at high frequencies relies largely on place coding.",
+    "The sharpness of the place code depends on healthy outer hair cells.",
+    "At low and mid frequencies, place and timing information are used together.",
+    "The finer pitch discrimination at these frequencies is partly attributed to timing information.",
+    "Cochlear implants convey frequency mainly by electrode position, that is, by the place code; fine timing information remains limited."
+   ]
+  },
+  {
+   "id": "hiz_seviye",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Intensity coding",
+   "baslik": "The rate-level *function*",
+   "maddeler": [
+    {
+     "metin": "Louder sound, higher _firing rate_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Threshold, rise and _saturation_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "One fiber: about _20 to 40 dB_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "The ear: about a _120 dB_ range",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 4
+     },
+     {
+      "parca": "agri_esigi",
+      "cumle": 4
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "The basic way to code intensity is firing rate: as the sound gets louder, the fiber fires more spikes per second.",
+    "The curve showing how firing rate changes with sound level is called the rate-level function.",
+    "The curve starts to rise at threshold, increases over a certain range and then saturates; the rate stops rising even if the sound does.",
+    "The dynamic range of a single fiber is usually only about twenty to forty decibels.",
+    "Yet the human ear can handle an intensity range of about one hundred twenty decibels.",
+    "To see how this gap is closed, we need to look at the spontaneous rate of the fibers."
+   ]
+  },
+  {
+   "id": "spontan",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Intensity coding",
+   "baslik": "*Three groups* by spontaneous rate",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "High spontaneous rate",
+     "metin": "Above 18: low threshold, narrow range",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Medium spontaneous rate",
+     "metin": "0.5 to 18: medium threshold, range",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Low spontaneous rate",
+     "metin": "Below 0.5: high threshold, wide range",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Fibers fire on their own even without sound; this rate is called the spontaneous rate.",
+    "In Liberman's classic study in cats, fibers were divided into three groups by their spontaneous rate.",
+    "High spontaneous rate fibers, firing more than eighteen spikes a second, make up about sixty percent of fibers.",
+    "These fibers respond to very low intensities but saturate quickly after a narrow range.",
+    "Medium spontaneous rate fibers make up about a quarter, and low spontaneous rate fibers about fifteen percent.",
+    "Low spontaneous rate fibers have higher thresholds, but keep working at high intensities without saturating.",
+    "The proportions vary by species and study, but the principle is the same: different fibers cover different intensity ranges."
+   ]
+  },
+  {
+   "id": "genis_aralik",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Intensity coding",
+   "baslik": "How is a wide range *covered?*",
+   "maddeler": [
+    {
+     "metin": "Fibers with different thresholds join _in turn_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Loud sound: vibration _spreads_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "More fibers _fire_",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "The brain _combines_ rate and fiber count",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 1000
+    },
+    "vurgula": [
+     {
+      "parca": "baziler_membran",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "The wide intensity range is covered by fibers with different thresholds joining in turn.",
+    "Also, as the sound gets louder, basilar membrane vibration spreads from the characteristic place to neighbouring regions.",
+    "Because of this spread, fibers over a wider region, and so more fibers in total, fire.",
+    "The brain perceives intensity by weighing the firing rates together with how many fibers are active.",
+    "At high intensities, this spread also reduces frequency selectivity somewhat."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Intensity coding",
+   "baslik": "Onset response and *adaptation*",
+   "maddeler": [
+    {
+     "metin": "_Very high_ firing at sound onset",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Then the rate falls: _adaptation_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Changing sounds _stand out_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Synchronous onset: _ABR wave I_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "wave I: auditory nerve",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "When a sound begins, fibers fire at a very high rate for the first few milliseconds.",
+    "As the sound continues, the firing rate falls and settles at a lower level; this is called adaptation.",
+    "Adaptation emphasises the onset of a sound and helps changing sounds to be noticed more easily.",
+    "When a brief stimulus makes many fibers fire at once, it creates the first wave of the auditory brainstem response, or ABR.",
+    "That is why wave one of the ABR reflects the synchronous activity of the auditory nerve."
+   ]
+  },
+  {
+   "id": "sinaptopati",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical links",
+   "baslik": "Normal audiogram, difficulty in *noise*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: normal thresholds",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: normal thresholds",
+     "cumle": 0
+    },
+    {
+     "isaret": "?",
+     "renk": "yesil",
+     "metin": "Complaint: understanding _in noise_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       10,
+       10,
+       15,
+       20
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "In this example, the air-conduction thresholds of both ears are within normal limits.",
+    "But the person says they struggle to understand speech in crowded, noisy places.",
+    "Animal studies showed that noise can reduce the synapses between hair cells and nerve fibers without permanently changing thresholds.",
+    "This is called cochlear synaptopathy, a loss of the connections between hair cells and nerve fibers.",
+    "The loss is thought to hit mainly low spontaneous rate fibers; the fibers that set threshold are spared, so the audiogram can stay normal.",
+    "In humans, how common this is and how to measure it are still debated; this example only illustrates the concept."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical links",
+   "baslik": "Coding and the *clinic*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Hair cell loss",
+     "metin": "Outer hair cells: tuning curve broadens",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Recruitment",
+     "metin": "Loudness grows quickly",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Ageing",
+     "metin": "Timing information may weaken",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Cochlear implant",
+     "metin": "Mainly the place code",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Cochlear synaptopathy",
+     "metin": "Normal thresholds, difficulty in noise",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "These coding principles help us understand many complaints we see in the clinic.",
+    "With outer hair cell loss, tuning curves broaden and sounds become harder to separate.",
+    {
+     "yazi": "The same loss also reduces cochlear compression; loudness grows abnormally fast above threshold, which is called recruitment."
+    },
+    "With ageing, the timing precision of nerve fibers has been reported to decline, which can make understanding in noise harder.",
+    "In cochlear implant users, frequency information is conveyed mainly by electrode position, that is, by the place code.",
+    "In cochlear synaptopathy, difficulty understanding in noise can come to the fore while thresholds stay normal."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical links",
+   "baslik": "Clinical caution",
+   "metin": "A normal audiogram does not rule out a complaint of understanding in noise. Take the complaint seriously, extend the assessment with speech-in-noise tests and report the results together.",
+   "cumleler": [
+    "A clinical tip: a normal audiogram does not guarantee that every part of the hearing system is healthy.",
+    "The audiogram mainly measures threshold, that is, the response of the most sensitive fibers.",
+    "For someone who complains of understanding in noise, extend the assessment with additional tests such as speech-in-noise tests.",
+    "Stating the complaint and the test results together in the report gives a valuable record for later assessments."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_Place code_: which fiber fires",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Phase locking_: low and mid frequencies",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Intensity: _firing rate_ and fiber count",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Three_ fiber groups by spontaneous rate",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Frequency is represented by which fibers fire, that is, by place coding.",
+    "At low and mid frequencies, phase locking adds timing information; above about four to five kilohertz this information is lost.",
+    "Intensity is coded by the increase in firing rate and by the number of active fibers.",
+    "High, medium and low spontaneous rate fibers together cover a wide intensity range."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Above roughly which frequency is phase locking lost?",
+   "secenekler": [
+    "250 Hz",
+    "500 Hz",
+    "4 to 5 kHz",
+    "It is never lost"
+   ],
+   "dogru": 2,
+   "aciklama": "Phase locking weakens above 1000 Hz; at _high frequencies_ frequency information relies on the place code.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: above roughly which frequency is phase locking lost?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is C: about four to five kilohertz."
+    },
+    "Phase locking starts to weaken above one thousand hertz; at higher frequencies, frequency information relies on the place code."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Binaural Hearing: Why Two Ears *Beat One*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn the advantages of hearing with two ears, that is, binaural hearing.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

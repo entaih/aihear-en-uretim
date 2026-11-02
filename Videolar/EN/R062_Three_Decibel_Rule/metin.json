@@ -1,0 +1,131 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R062_Three_Decibel_Rule_EN",
+ "kapak": {
+  "ust": "QUICK FACT #62",
+  "baslik": "3 dB: *half the time*",
+  "alt": "The equal energy principle and noise dose",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "What changes when noise rises by just three decibels? #shorts",
+  "aciklama": "For an eight-hour workday, 85 dB(A) is an important reference level. Under the equal energy principle, every 3 dB increase halves the time that gives the same dose: about 4 hours at 88 dB(A) and about 2 hours at 91 dB(A).",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "noise",
+   "hearing"
+  ],
+  "etiketler": [
+   "noise dose",
+   "equal energy principle",
+   "85 dBA",
+   "3 dB exchange rate",
+   "occupational health",
+   "noise-induced hearing loss",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "What changes when noise rises by just three decibels?",
+  "bilgiler": [
+   "For an 8-hour workday, 85 dB(A) is an important reference.",
+   "Every 3 dB increase halves the time that gives the same dose.",
+   "About 4 hours at 88 dB(A), about 2 hours at 91 dB(A)."
+  ],
+  "hashtag": [
+   "audiology",
+   "noise",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #62",
+   "metin": "What if noise rises by just *three decibels?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "What changes when noise rises by just three decibels?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Every *3 dB* halves the time",
+   "sayi": "3",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "For an eight-hour workday, eighty five decibels A is a key reference.",
+    "Under the equal energy principle, every three decibels halves the time.",
+    "At eighty eight decibels A, the time falls to about four hours.",
+    "At ninety one decibels A, to about two hours."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D140",
+ "kaynak_baslik": "Noise-Induced Hearing Loss and the 4 kHz Notch"
+}

@@ -1,0 +1,876 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D023_Inner_Ear_Labyrinth_EN",
+ "kapak": {
+  "ust": "LESSON 23",
+  "baslik": "Bony and<br>*membranous labyrinth*",
+  "alt": "Structure and fluids of the inner ear",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "The Inner Ear: Bony and Membranous Labyrinth | Lesson 23 | AIHEAR Audiology Academy",
+  "aciklama": "The inner ear is made of two labyrinths, one inside the other. In this lesson we cover the parts of the bony labyrinth, the two windows, and the sacs and ducts of the membranous labyrinth. We also look at the difference between perilymph and endolymph and how endolymphatic hydrops appears on the audiogram.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gray's Anatomy; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Zemlin, Speech and Hearing Science: Anatomy and Physiology; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "anatomy",
+   "innerear"
+  ],
+  "etiketler": [
+   "inner ear",
+   "bony labyrinth",
+   "membranous labyrinth",
+   "labyrinthus osseus",
+   "endolymph",
+   "perilymph",
+   "endolymphatic hydrops",
+   "vestibular aqueduct",
+   "third window",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 23",
+   "baslik": "The inner ear: the *labyrinth*",
+   "alt": "Bony labyrinth, membranous labyrinth and two fluids",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will examine the basic structure of the inner ear: two labyrinths, one inside the other.",
+    "We will learn the parts of the bony labyrinth, the membranous labyrinth and the two different fluids inside them."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Overview",
+   "baslik": "Where is the *inner ear?*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Cochlea",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibul",
+     "metin": "Vestibule",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Semicircular canals",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "Cranial nerve VIII",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Petrous_ part of the temporal bone",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Adult size_ at birth",
+     "cumle": 5,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "The inner ear lies deep in the petrous part, the hardest part of the temporal bone.",
+    "Because of its complex, winding structure, it is called the labyrinth.",
+    "The cochlea lies in front, the vestibule in the middle, and the three semicircular canals behind.",
+    "The cochlea is responsible for hearing, while the vestibule and canals are responsible for balance.",
+    "The cochlea is about the size of a chickpea; the whole labyrinth is small enough to fit on a fingertip.",
+    "The inner ear has reached adult size at birth; the labyrinth does not change size as the skull grows.",
+    "The nerve fibers leaving the labyrinth form the eighth cranial nerve, which runs to the brainstem."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ]
+  },
+  {
+   "id": "iki_labirent",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Overview",
+   "baslik": "Two labyrinths, *one inside the other*",
+   "maddeler": [
+    {
+     "metin": "Outside: the _bony labyrinth_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Inside: the _membranous labyrinth_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Between them: _perilymph_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Inside the membranous labyrinth: _endolymph_",
+     "cumle": 3,
+     "ikon": "akinti"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "scala_media",
+      "metin": "Membranous labyrinth: endolymph",
+      "cumle": 1
+     },
+     {
+      "parca": "perilenf",
+      "metin": "Perilymph",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "perilenf",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenf",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "The inner ear has two layers; the outer bony shell is called the labyrinthus osseus, the bony labyrinth."
+    },
+    {
+     "yazi": "Inside the bony labyrinth, following its shape, lies the labyrinthus membranaceus, the membranous labyrinth."
+    },
+    "The space between the bony and membranous labyrinths contains a fluid called perilymph.",
+    "The inside of the membranous labyrinth is filled with another fluid, called endolymph.",
+    "The membranous labyrinth seems to float in the perilymph and is anchored to the bony wall by fine connective tissue fibers.",
+    "As an analogy, the bony labyrinth is a casing, and the membranous labyrinth is a fluid-filled hose inside it."
+   ]
+  },
+  {
+   "id": "kemik_bolumler",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The bony labyrinth",
+   "baslik": "Parts of the *bony labyrinth*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "vestibul",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibul",
+     "metin": "Vestibule",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "Stapes footplate: oval window",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Three semicircular canals",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "metin": "Cochlea",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The bony labyrinth has three parts: the vestibule, the semicircular canals and the cochlea.",
+    "The vestibule is the small chamber in the middle of the labyrinth; the oval window lies in its lateral wall.",
+    "Because the stapes footplate sits in this window, sound vibrations enter the inner ear first through the vestibule.",
+    "Behind the vestibule lie the three semicircular canals, set roughly at right angles to one another.",
+    "In front of the vestibule is the cochlea, coiled like a snail shell; it makes about two and a half to two and three quarter turns.",
+    "The canals open into the vestibule through five openings, because the anterior and posterior canals share one end in a common crus.",
+    "The otic capsule, which forms the wall of the bony labyrinth, is one of the densest and hardest bone tissues in the body."
+   ],
+   "notlar": [
+    {
+     "metin": "Canals open through _five openings_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Otic capsule: among the _hardest_ bones",
+     "cumle": 6,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2,
+     "olcek": 2.6
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 3,
+     "olcek": 2.0
+    }
+   ]
+  },
+  {
+   "id": "pencereler",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The bony labyrinth",
+   "baslik": "Two *windows*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Oval window: stapes footplate",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Round window: thin membrane",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Fluid is _incompressible_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Third window: _energy escapes_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The bony labyrinth has two openings facing the middle ear: the oval window and the round window.",
+    "The stapes footplate closes the oval window, while the round window is covered by a thin, flexible membrane.",
+    "Fluids cannot be compressed, so when the stapes pushes the oval window in, the round window membrane bulges out.",
+    "This reciprocal movement of the two windows lets the inner ear fluids and the basilar membrane vibrate.",
+    "If a third opening forms in the bony labyrinth, part of the sound energy escapes through it; this is the third window effect.",
+    "An opening in the bone over the superior semicircular canal is one example; it can produce conductive-looking findings on the audiogram."
+   ]
+  },
+  {
+   "id": "akuadukt",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "The bony labyrinth",
+   "baslik": "Two channels to the *cranial cavity*",
+   "maddeler": [
+    {
+     "metin": "_Cochlear aqueduct_: perilymph and CSF",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Vestibular aqueduct_: endolymphatic duct",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "At its end: the _endolymphatic sac_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Enlarged aqueduct: _childhood hearing loss_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "ayar": {
+     "akuadukt": true,
+     "akuadukt_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "koklear_akuadukt",
+      "metin": "Cochlear aqueduct",
+      "cumle": 1
+     },
+     {
+      "parca": "endolenfatik_kanal",
+      "metin": "Endolymphatic duct",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenfatik_kese",
+      "metin": "Endolymphatic sac",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "koklear_akuadukt",
+      "cumle": 1
+     },
+     {
+      "parca": "vestibuler_akuadukt",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenfatik_kanal",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenfatik_kese",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Two thin channels run from the bony labyrinth into the cranial cavity.",
+    "The cochlear aqueduct connects the perilymph near the scala tympani with the cerebrospinal fluid inside the skull.",
+    "The vestibular aqueduct carries the endolymphatic duct, an extension of the membranous labyrinth.",
+    "This duct leads to the endolymphatic sac, which lies between the layers of the dura on the back of the temporal bone.",
+    "An enlarged vestibular aqueduct is a common inner ear structural difference linked to sensorineural hearing loss in childhood.",
+    "In these children the loss may fluctuate and can worsen after head trauma."
+   ]
+  },
+  {
+   "id": "zar_bolumler",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "The membranous labyrinth",
+   "baslik": "Parts of the *membranous labyrinth*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utricle",
+     "cumle": 1
+    },
+    {
+     "parca": "sakkul",
+     "metin": "Saccule",
+     "cumle": 1
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Membranous semicircular ducts",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampulla",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 1
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "In the cochlea: the _cochlear duct_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "A single, _closed_ system",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "The membranous labyrinth is made of connected sacs and ducts inside the bony labyrinth.",
+    "Inside the vestibule are two sacs: the utricle and the saccule.",
+    "Inside the bony canals run the thinner membranous semicircular ducts.",
+    "Each duct has a widened part at one end, the ampulla, where the balance sensors are found.",
+    "Inside the cochlea lies the hearing part of the membranous labyrinth, the cochlear duct, or scala media.",
+    "The saccule is linked to the cochlear duct by a thin channel, so the whole membranous labyrinth forms one closed system.",
+    "We will look at the utricle, saccule and canals in detail in the lesson on the vestibular labyrinth."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ampulla",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "endolenf_yolu",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The membranous labyrinth",
+   "baslik": "How endolymph is *made*",
+   "maddeler": [
+    {
+     "metin": "Made in the cochlea: _stria vascularis_",
+     "cumle": 0,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "In the vestibule: _dark cells_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Absorption: _endolymphatic sac_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "If volume rises: _hydrops_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Most often dilated: _cochlear duct_, saccule",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "stria_vaskularis",
+      "metin": "Stria vascularis",
+      "cumle": 0
+     },
+     {
+      "parca": "reissner_membrani",
+      "metin": "Reissner's membrane",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 0
+     },
+     {
+      "parca": "scala_media",
+      "cumle": 3
+     }
+    ],
+    "yakinlastir": [
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 0,
+      "olcek": 1.8
+     },
+     {
+      "parca": "genel",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Endolymph in the cochlea is produced by the stria vascularis on the outer wall of the scala media.",
+    "In the vestibular part, special cells called dark cells do a similar job.",
+    "Part of the endolymph is thought to be absorbed in the endolymphatic sac.",
+    {
+     "yazi": "If the balance between production and absorption is lost and endolymph increases, the membranous labyrinth swells: endolymphatic hydrops."
+    },
+    "Meniere's disease is an inner ear disease associated with endolymphatic hydrops.",
+    "In hydrops, the parts of the membranous labyrinth that most often dilate are the cochlear duct and the saccule."
+   ]
+  },
+  {
+   "id": "sivilar",
+   "bolum_no": "PART 4",
+   "bolum": "Two fluids",
+   "baslik": "Perilymph and *endolymph*",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Perilymph _between_, endolymph _inside_",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Perilymph _sodium_, endolymph _potassium_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Like extracellular and _intracellular_ fluid",
+     "cumle": 3,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Blood, CSF; _specialized cells_",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Potential: about _+80 mV_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "perilenf",
+      "cumle": 1
+     },
+     {
+      "parca": "endolenf",
+      "cumle": 1
+     },
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "perilenf",
+      "metin": "Perilymph",
+      "cumle": 1
+     },
+     {
+      "parca": "endolenf",
+      "metin": "Endolymph",
+      "cumle": 1
+     },
+     {
+      "parca": "stria_vaskularis",
+      "metin": "Stria vascularis",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The two fluids of the inner ear have very different compositions.",
+    "Perilymph lies between the bony and membranous labyrinths, while endolymph lies inside the membranous labyrinth.",
+    "Perilymph is rich in sodium and poor in potassium; endolymph, the other way round, is very rich in potassium.",
+    "So perilymph resembles the body's extracellular fluid, while endolymph resembles intracellular fluid.",
+    "Perilymph is thought to come from blood and cerebrospinal fluid, while endolymph is produced by specialized cells.",
+    "Endolymph in the cochlea carries a potential of about plus eighty millivolts, called the endocochlear potential."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Two fluids",
+   "baslik": "Why *two different* fluids?",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Inner hair cell",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Outer hair cells",
+     "cumle": 1
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Tectorial membrane",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Top: _endolymph_, potassium",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Body: perilymph-like fluid",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Potassium entry: _excitation_",
+     "cumle": 2,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "The two fluids differ because of the way hair cells work.",
+    "The stereocilia at the top of the hair cells face endolymph, while the cell bodies face a perilymph-like fluid.",
+    "When sound vibration bends the stereocilia, channels at the top open and potassium flows into the cell.",
+    "The high potassium and positive potential of endolymph act like a battery that drives this flow.",
+    "This lets hair cells respond to even very tiny vibrations.",
+    "Mixing of the two fluids disrupts this system, so the integrity of the membranous labyrinth is vital for hearing and balance."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stereosil",
+     "cumle": 2,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Two fluids",
+   "baslik": "Example: *hydrops* and the audiogram",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Air conduction_: low-frequency loss",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Masked bone conduction_: close to air",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "High frequencies: _near normal_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       40,
+       30,
+       20,
+       15,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       40,
+       40,
+       30,
+       20,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Let us look at an example of how endolymphatic hydrops can appear on the audiogram.",
+    "In this example the right ear shows a clear loss at low frequencies, with near-normal thresholds at mid and high frequencies.",
+    "Masked bone conduction thresholds are very close to air conduction, so the loss is sensorineural.",
+    "In early hydrops the loss is often in the low frequencies and may fluctuate over time.",
+    "This is why repeating the audiogram over time is important for these patients.",
+    "This example only shows the link between fluid balance and the audiogram; the evaluation is made by a physician."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Two fluids",
+   "baslik": "Clinical tip",
+   "metin": "With a fluctuating low-frequency loss, always compare with earlier audiograms. Also note whether the test was done during a period of worse symptoms.",
+   "cumleler": [
+    "A tip from practice: in a patient with low-frequency loss, always look at earlier audiograms.",
+    "Losses related to inner ear fluid balance can fluctuate; a single measurement does not show the full picture.",
+    "Note in the report whether the test was done during a period of worse symptoms or a quiet period.",
+    "Recording accompanying complaints, such as aural fullness and tinnitus, also helps the physician's evaluation."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "_Bony labyrinth_: vestibule, canals, cochlea",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Membranous labyrinth_: sacs, ducts, cochlear duct",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Perilymph _sodium_, endolymph potassium",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Excess endolymph: _hydrops_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The bony labyrinth is made of the vestibule, the three semicircular canals and the cochlea.",
+    "The membranous labyrinth runs inside them; it is a closed system of the utricle, saccule, membranous ducts and cochlear duct.",
+    "Sodium-rich perilymph lies between the bony and membranous labyrinths, and potassium-rich endolymph lies inside the membranous one.",
+    "An increase in endolymph volume is called endolymphatic hydrops; it is linked to fluctuating low-frequency losses."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which fluid is rich in potassium, and where is it?",
+   "secenekler": [
+    "Perilymph, inside the membranous labyrinth",
+    "Endolymph, inside the membranous labyrinth",
+    "Perilymph, between bone and membrane",
+    "Endolymph, between bone and membrane"
+   ],
+   "dogru": 1,
+   "aciklama": "_Endolymph_ is inside the membranous labyrinth and is rich in potassium; perilymph is rich in sodium.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: Which inner ear fluid is rich in potassium, and where is it found?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: endolymph, inside the membranous labyrinth."
+    },
+    "Perilymph lies in the space between the bony and membranous labyrinths and is rich in sodium."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cochlear Anatomy: The Three *Scalae*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will take a close look at the cochlea, the hearing part of the inner ear, and examine its three scalae.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

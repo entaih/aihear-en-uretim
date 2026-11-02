@@ -1,0 +1,981 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D252_APD_Test_Battery_EN",
+ "kapak": {
+  "ust": "LESSON 252",
+  "baslik": "The APD test<br>*battery*",
+  "alt": "Dichotic, temporal, low-redundancy",
+  "cizim": "beyin_ustten",
+  "ayar": {
+   "mod": "dikotik",
+   "sozcukler": [
+    "seven",
+    "four"
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "APD Test Battery: Dichotic, Temporal, Low-Redundancy | Lesson 252 | AIHEAR Audiology Academy",
+  "aciklama": "Auditory processing disorder is assessed not with a single test but with a battery that measures different processes. In this lesson we cover dichotic listening tests (digits, syllables, competing sentences, SSW), frequency and duration pattern tests, filtered and compressed speech tests, and how the results are interpreted as a whole.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); Musiek and Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology; Musiek, Assessment of central auditory dysfunction: the dichotic digit test revisited, Ear and Hearing (1983); Musiek and Pinheiro, Frequency patterns in cochlear, brainstem, and cerebral lesions, Audiology (1987).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "APD",
+   "auditoryprocessing"
+  ],
+  "etiketler": [
+   "APD test battery",
+   "auditory processing disorder",
+   "dichotic listening",
+   "dichotic digits test",
+   "frequency pattern test",
+   "duration pattern test",
+   "low-redundancy speech",
+   "filtered speech",
+   "compressed speech",
+   "SSW test",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 252",
+   "baslik": "The APD *test battery*",
+   "alt": "Dichotic, temporal and low-redundancy tests",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the test battery used to assess auditory processing disorder, or APD.",
+    "We will look in turn at dichotic listening tests, temporal pattern tests and low-redundancy speech tests."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The logic of a battery",
+   "baslik": "Why a *battery?*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Peripheral testing",
+     "cumle": 0,
+     "metin": "Full hearing evaluation first"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Prerequisites",
+     "cumle": 1,
+     "metin": "Age, attention, language"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Test selection",
+     "cumle": 2,
+     "metin": "Different processes"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Interpretation",
+     "cumle": 4,
+     "metin": "Age-based norms"
+    }
+   ],
+   "cumleler": [
+    "Before central tests, peripheral hearing must be assessed with pure tone, speech and immittance testing.",
+    "The child's age, attention, language level and cognitive status are noted at the start, since they will affect results.",
+    "No single test can measure all auditory processes; so several tests sensitive to different processes are chosen together.",
+    "It also matters that the battery is not longer than needed; fatigue and loss of attention distort results.",
+    "Results are compared with norms derived for the person's age and for the test version used.",
+    {
+     "yazi": "The 2010 guideline of the American Academy of Audiology contains a frequently cited criterion.",
+     "ses": "The twenty ten guideline of the American Academy of Audiology contains a frequently cited criterion."
+    },
+    "By this rule, scores two or more standard deviations below the norm, in at least one ear on at least two tests, support the diagnosis."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The logic of a battery",
+   "baslik": "Test *conditions*",
+   "maddeler": [
+    {
+     "metin": "Calibrated _recorded_ stimuli",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Comfortable listening level",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Practice items first",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ear and response recorded separately",
+     "cumle": 4,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Note on observed behavior",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Central tests use calibrated recorded stimuli, not live voice, so that every administration is the same.",
+    "Stimuli are usually given through earphones at a comfortable level, clearly above the person's threshold.",
+    "The level used is defined in the test version's instructions, and the norms were derived at this level.",
+    "Before each test, a few practice items are used to check that the task is understood.",
+    "Responses are recorded ear by ear and item by item; not only the total score but also the interaural difference is calculated.",
+    "Observations of attention, fatigue and motivation during testing are also noted in the report."
+   ]
+  },
+  {
+   "id": "kategoriler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "The logic of a battery",
+   "baslik": "Test *categories*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dichotic",
+     "cumle": 1,
+     "metin": "Different stimulus to each ear"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Temporal",
+     "cumle": 2,
+     "metin": "Patterns and gaps"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Low-redundancy",
+     "cumle": 3,
+     "metin": "Degraded speech"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Binaural interaction",
+     "cumle": 4,
+     "metin": "Two ears working together"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Discrimination",
+     "cumle": 5,
+     "metin": "Telling similar sounds apart"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Electrophysiological",
+     "cumle": 6,
+     "metin": "Responses along the pathways"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The 2005 report of the American Speech-Language-Hearing Association, ASHA, groups central tests by the process they measure.",
+     "ses": "The two thousand five report of the American Speech-Language-Hearing Association, ASHA, groups central tests by the process they measure."
+    },
+    "Dichotic tests present different stimuli to the two ears at the same time.",
+    "Temporal tests measure the perception of sound order or of short gaps.",
+    "Low-redundancy speech tests present degraded speech to one ear.",
+    "Binaural interaction tests assess how the brainstem combines information from the two ears; we will see them in a separate lesson.",
+    "Discrimination tests measure the ability to tell apart sounds that are very close in frequency, intensity or duration.",
+    "Electrophysiological measures show neural responses along the pathways without needing a behavioral response."
+   ]
+  },
+  {
+   "id": "dikotik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Dichotic tests",
+   "baslik": "Integration and *separation*",
+   "cizim": "beyin_ustten",
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "seven",
+     "four"
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "sag_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "capraz_yol_sag",
+     "cumle": 1
+    },
+    {
+     "parca": "capraz_yol_sol",
+     "cumle": 1
+    },
+    {
+     "parca": "kallozal_yol",
+     "cumle": 4
+    },
+    {
+     "parca": "corpus_callosum",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_kulak",
+     "metin": "One number to the right ear",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "metin": "Another number to the left ear",
+     "cumle": 0
+    },
+    {
+     "parca": "corpus_callosum",
+     "metin": "Corpus callosum",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Integration: repeat _both_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Separation: attend to _one ear_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Sensitive to interhemispheric transfer",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Dichotic tests are based on presenting different words, numbers or sentences to the two ears at the same time.",
+    "When information from the two ears competes, the crossed pathways dominate; we saw this in the auditory cortex lesson.",
+    "In a binaural integration task, the person repeats everything heard in both ears.",
+    "In a binaural separation task, the person attends to one ear only and ignores the other.",
+    "Verbal information given to the left ear must cross the corpus callosum to reach the left hemisphere, which is dominant for language.",
+    "So dichotic tests are sensitive both to hemispheric function and to transfer between the two hemispheres."
+   ]
+  },
+  {
+   "id": "dikotik_testler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Dichotic tests",
+   "baslik": "Common *dichotic tests*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Dichotic digits",
+     "cumle": 0,
+     "metin": "Two digits to each ear"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dichotic syllables",
+     "cumle": 2,
+     "metin": "Consonant-vowel syllables"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Competing sentences",
+     "cumle": 3,
+     "metin": "Repeat one ear"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "SSW",
+     "cumle": 4,
+     "metin": "Staggered spondaic words"
+    }
+   ],
+   "cumleler": [
+    "In the dichotic digits test, two digits are given to each ear at the same time and the person reports the four digits heard.",
+    {
+     "yazi": "In 1983, Musiek showed that this test is quick to give and sensitive to central lesions.",
+     "ses": "In nineteen eighty three, Musiek showed that this test is quick to give and sensitive to central lesions."
+    },
+    "In dichotic syllable tests, different consonant-vowel syllables, such as ba and ga, are given to the two ears at the same time.",
+    "In the competing sentences test, different sentences reach the two ears, and the person repeats only the sentence in one ear.",
+    {
+     "yazi": "The staggered spondaic word test, or SSW, was developed by Katz and partly overlaps the words.",
+     "ses": "The staggered spondaic word test, or S S W, was developed by Katz and partly overlaps the words."
+    },
+    "Language-based tests need versions prepared and normed in the language being used.",
+    "Because digits are the least language-loaded items, the dichotic digits test is relatively easy to adapt to other languages."
+   ]
+  },
+  {
+   "id": "kulak_farki",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Dichotic tests",
+   "baslik": "Example: an *ear* difference",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 2.6,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Right ear",
+      "2": "Left ear"
+     },
+     "ad": "Example child"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Percent correct"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        92
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "92 percent",
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        58
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "58 percent",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "norm",
+      "x": 0.5,
+      "y": 75,
+      "cizgi": "yatay",
+      "etiket": "example norm cutoff",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Values are _examples_; norms vary by test",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Low left ear: a _transfer_ question",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Both ears low: attention and language",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "This graph shows example dichotic digits results in a ten-year-old child.",
+    "The right ear score is within the age norm, while the left ear score is clearly low.",
+    "A right ear advantage is normal, but the difference in this example is larger than the age norm allows.",
+    "A low left ear score may suggest inefficiency in interhemispheric transfer or in the right hemisphere.",
+    "With a lesion affecting the left hemisphere, it is usually the right ear score that drops.",
+    "Low scores in both ears can also occur; this picture calls for attention and language factors to be examined too."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Temporal patterns",
+   "baslik": "Frequency and *duration* patterns",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "tone 1",
+      "2": "tone 2",
+      "3": "tone 3"
+     },
+     "ad": "Time"
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "low",
+      "2": "high"
+     },
+     "ad": "Pitch"
+    },
+    "seriler": [
+     {
+      "ad": "dizi",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        2
+       ],
+       [
+        2,
+        1
+       ],
+       [
+        3,
+        2
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "high, low, high",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Frequency pattern: _high_ and _low_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Duration pattern: _long_ and _short_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Each ear tested separately",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Temporal pattern tests measure recognition of the order of sounds that follow one another.",
+    "The frequency pattern test uses two tones, one high and one low, arranged into sequences of three.",
+    "In this example the sequence is high, low, high; the person says it in words.",
+    "In the duration pattern test, the tones have the same frequency but are ordered as long and short.",
+    "The tests are usually given to each ear separately, at a level the person hears comfortably.",
+    {
+     "yazi": "The frequency pattern test was described by Musiek and Pinheiro in 1987 and found sensitive to cortical lesions.",
+     "ses": "The frequency pattern test was described by Musiek and Pinheiro in nineteen eighty seven and found sensitive to cortical lesions."
+    }
+   ]
+  },
+  {
+   "id": "oruntu_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Temporal patterns",
+   "baslik": "*Interpreting* pattern tests",
+   "maddeler": [
+    {
+     "metin": "Labeling: _both hemispheres_ together",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Unilateral cortical lesion: _both ears_ drop",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Humming the pattern: extra information",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Relatively preserved in brainstem lesions",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Little affected by peripheral loss",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kallozal"
+    },
+    "vurgula": [
+     {
+      "parca": "sag_yarikure",
+      "cumle": 0
+     },
+     {
+      "parca": "corpus_callosum",
+      "cumle": 0
+     },
+     {
+      "parca": "sol_yarikure",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Labeling a pattern in words requires the right hemisphere to perceive it and the left hemisphere to put it into language.",
+    "So even with a cortical lesion in one hemisphere, scores often drop in both ears.",
+    "This finding is an important difference from dichotic tests, where an ear difference is expected.",
+    "If the person cannot label the pattern but can hum it back correctly, the problem points more to interhemispheric transfer.",
+    "In brainstem lesions, performance on pattern tests is usually relatively well preserved.",
+    "As long as stimuli are heard comfortably, a mild peripheral loss affects these tests very little; this helps interpretation."
+   ]
+  },
+  {
+   "id": "fazlalik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Low-redundancy speech",
+   "baslik": "What is *redundancy?*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Extrinsic redundancy",
+     "cumle": 0,
+     "metin": "Extra cues in speech"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Intrinsic redundancy",
+     "cumle": 2,
+     "metin": "Many connections in the pathways"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "When both fall",
+     "cumle": 4,
+     "metin": "Difficulty appears"
+    }
+   ],
+   "cumleler": [
+    "The speech signal carries more information than is needed to understand it; this is called extrinsic redundancy.",
+    "So even if part of the signal is lost, a person with normal hearing still understands most of the speech.",
+    "The auditory pathways also contain many parallel and crossed connections; this is called intrinsic redundancy.",
+    "A mild central problem can stay hidden thanks to this intrinsic redundancy when the signal is rich.",
+    "Low-redundancy speech tests deliberately reduce the extrinsic redundancy of the signal to reveal a hidden problem."
+   ]
+  },
+  {
+   "id": "dusuk_testler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Low-redundancy speech",
+   "baslik": "Degraded *speech* tests",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Filtered",
+     "cumle": 0,
+     "metin": "High frequencies removed"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Compressed",
+     "cumle": 3,
+     "metin": "Speech is sped up"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "In noise",
+     "cumle": 5,
+     "metin": "Speech given with noise"
+    }
+   ],
+   "cumleler": [
+    "In the filtered speech test, words are passed through a low-pass filter that removes the high frequencies.",
+    {
+     "yazi": "In 1954, Bocca and colleagues showed that people with temporal lobe tumors had trouble understanding such speech in the opposite ear.",
+     "ses": "In nineteen fifty four, Bocca and colleagues showed that people with temporal lobe tumors had trouble understanding such speech in the opposite ear."
+    },
+    "This study is considered the beginning of central auditory testing.",
+    "In the compressed speech test, speech is shortened in time, that is, sped up, without changing its pitch.",
+    "For example, compression rates of forty five or sixty five percent are used; some versions also add reverberation.",
+    "Speech in noise tests present words or sentences together with noise in the same ear.",
+    "Because these tests are also affected by peripheral loss, results must be interpreted together with pure tone thresholds."
+   ]
+  },
+  {
+   "id": "filtre",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Low-redundancy speech",
+   "baslik": "The low-pass *filter*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -40,
+     "max": 5,
+     "adim": 10,
+     "ad": "Passed level (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "filtre",
+      "noktalar": [
+       [
+        250,
+        0
+       ],
+       [
+        700,
+        0
+       ],
+       [
+        1000,
+        -3
+       ],
+       [
+        1400,
+        -12
+       ],
+       [
+        2000,
+        -25
+       ],
+       [
+        2800,
+        -38
+       ],
+       [
+        8000,
+        -40
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "low-pass filter",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "suzulen",
+      "x": [
+       1000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "removed high region",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesim",
+      "x": 1000,
+      "y": -3,
+      "dus": "x",
+      "etiket": "cutoff frequency",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "High-frequency cues _reduced_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Intact pathways _fill in_ the gaps",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "This graph shows an example of a low-pass filter used in the filtered speech test.",
+    "Components below a set cutoff frequency pass through, and those above it are sharply attenuated.",
+    "The cutoff frequency varies by test version; often one thousand hertz or lower is used.",
+    "Because the high-frequency cues that distinguish consonants are reduced, the word sounds muffled and unclear.",
+    "If the central auditory pathways are intact, the brain fills in the missing information; if not, scores drop."
+   ]
+  },
+  {
+   "id": "elektro",
+   "tur": "gorsel",
+   "bolum_no": "PART 5",
+   "bolum": "Interpreting results",
+   "baslik": "Electrophysiological *support*",
+   "cizim": "isitme_yolu",
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "mgb",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "ABR: brainstem",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "metin": "Middle latency: thalamus, cortex",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "P300: cortex",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Because behavioral tests are affected by attention and language, electrophysiological measures can add objective information to the battery.",
+    "The auditory brainstem response, or ABR, shows the integrity of the pathway up to the brainstem.",
+    "The middle latency response reflects thalamic and auditory cortex activity; electrode placement lets the two hemispheres be compared.",
+    {
+     "yazi": "Late responses such as the P300 relate to higher-level processes such as attention and stimulus discrimination.",
+     "ses": "Late responses such as the P three hundred relate to higher-level processes such as attention and stimulus discrimination."
+    },
+    "The role of these measures in APD diagnosis is debated; on their own, they do not make the diagnosis.",
+    "They are most valuable when behavioral results remain unclear or when a neurological cause is suspected."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Interpreting results",
+   "baslik": "Reading the battery *as a whole*",
+   "maddeler": [
+    {
+     "metin": "One low score is not a _diagnosis_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Which test, which ear: a _profile_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Separate language and attention effects",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Electrophysiology _supports_",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Check the Turkish norms",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 4,
+    "vurgula": [
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 4
+     },
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "A low score on a single test is not enough for a diagnosis; repetition, fatigue or distraction can easily distort one result.",
+    "Looking at which tests and which ear are affected helps build a profile.",
+    "For example, low scores on both dichotic and pattern tests strengthen the question of interhemispheric transfer.",
+    "Low scores on language-based tests with normal scores on low-language tests suggest language and attention factors.",
+    "Electrophysiological findings are judged by whether they fit the behavioral profile.",
+    "For use in Türkiye, the Turkish version of each test and its age norms should be checked separately before use."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Teach the task with practice items before each test. In dichotic tests, check the response format; in pattern tests, check that high and low are used correctly.",
+   "cumleler": [
+    "A tip from the clinic: before each test, always check with practice items that the task is understood.",
+    "In pattern tests, make sure the child really uses high and low for pitch; some children confuse them with loudness.",
+    "In dichotic tests, give the instructions clearly, stating whether to repeat both ears or only one ear.",
+    "Completing the battery at the time of day when attention is best, and in two sessions if needed, makes results more reliable."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Battery: _different processes_, age-based norms",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Dichotic: integration and separation",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Pattern tests: _both hemispheres_ together",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Low-redundancy: filtered, compressed",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "APD assessment, after peripheral testing, uses a battery of several tests that measure different processes.",
+    "Dichotic tests give different stimuli to the two ears at once; they are used as integration and separation tasks.",
+    "Frequency and duration pattern tests need both hemispheres, and the transfer between them, to work together.",
+    "Filtered, compressed and in-noise speech aim to reveal a hidden central problem by reducing the signal's redundancy."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In a unilateral cortical lesion, what is usually seen on the frequency pattern test?",
+   "secenekler": [
+    "Drop in the opposite ear only",
+    "Drop in both ears",
+    "Drop in the same ear only",
+    "No change"
+   ],
+   "dogru": 1,
+   "aciklama": "Labeling needs both hemispheres and _transfer_; so both ears are affected together.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a unilateral cortical lesion, what is usually seen on the frequency pattern test?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a drop in both ears.",
+    "Labeling the pattern requires both hemispheres, and the transfer between them, to work together."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Temporal Processing Tests: *GIN* and RGDT",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will look in detail at two tests of temporal resolution, the gaps-in-noise test and the random gap detection test.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

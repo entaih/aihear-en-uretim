@@ -1,0 +1,262 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D003_From_Ear_To_Brain_EN",
+  "kapak": {
+    "ust": "LESSON 3",
+    "baslik": "From ear<br>to *brain*",
+    "alt": "A first look at the auditory pathway",
+    "cizim": "isitme_yolu"
+  },
+  "youtube": {
+    "baslik": "How Sound Travels from the Ear to the Brain | Lesson 03 | AIHEAR Audiology Academy",
+    "aciklama": "We follow a sound step by step, from the auricle to the auditory cortex. We explain the roles of the outer, middle and inner ear, how vibration becomes a neural signal, and what the brainstem and the cortex do.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Gelfand, Essentials of Audiology; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "hearing", "ear"],
+    "etiketler": ["auditory pathway", "hearing physiology", "outer ear", "middle ear", "inner ear", "cochlea", "auditory nerve", "auditory cortex", "how we hear", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 3", "baslik": "How Sound Travels from the Ear to the *Brain*",
+     "alt": "Outer, middle and inner ear, brainstem and cortex",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we follow the path of a sound from start to finish, from the auricle to the brain.",
+       "We will see the roles of the outer, middle and inner ear, how vibration becomes a neural signal, and how the brain processes it."]},
+
+    {"id": "genel", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Overview", "baslik": "The *three parts* of the ear",
+     "cizim": "kulak_kesit",
+     "etiketler": [
+       {"parca": "dis_kulak", "metin": "Outer ear (auris externa)", "cumle": 1},
+       {"parca": "orta_kulak", "metin": "Middle ear (auris media)", "cumle": 2},
+       {"parca": "ic_kulak", "metin": "Inner ear (auris interna)", "cumle": 3}],
+     "vurgula": [
+       {"parca": "dis_kulak", "cumle": 1},
+       {"parca": "orta_kulak", "cumle": 2},
+       {"parca": "ic_kulak", "cumle": 3}],
+     "notlar": [
+       {"metin": "Air, vibration, fluid, electricity", "cumle": 5, "ikon": "ses_dalgasi"}],
+     "cumleler": [
+       "Anatomically, the ear is divided into three parts.",
+       "The first is the auris externa, or outer ear, made up of the auricle and the external auditory canal.",
+       "The second is the auris media, or middle ear, the air-filled space behind the tympanic membrane.",
+       "The third is the auris interna, or inner ear, a fluid-filled structure deep inside the temporal bone.",
+       "The inner ear contains both the cochlea, the organ of hearing, and the vestibular system, the organ of balance.",
+       "On this journey, sound is first a vibration in air, then a mechanical vibration, then a fluid wave and finally a neural signal."]},
+
+    {"id": "dis_kulak", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Outer ear",
+     "baslik": "Outer ear: *collecting and directing*",
+     "maddeler": [
+       {"metin": "Auricle: _collects_ sound", "cumle": 0, "ikon": "kulak"},
+       {"metin": "Ear canal: about _2.5 cm_", "cumle": 1, "ikon": "otoskop"},
+       {"metin": "Resonance: gain at _2000 to 4000 Hz_", "cumle": 2, "ikon": "ses_dalgasi"},
+       {"metin": "Helps with _localization_", "cumle": 4, "ikon": "hoparlor"},
+       {"metin": "Protection: _earwax_", "cumle": 5, "ikon": "enfeksiyon"}],
+     "cumleler": [
+       "The sound wave first reaches the auricle, which collects the sound and directs it into the ear canal.",
+       "The external auditory canal is a slightly S-shaped channel about two point five centimeters long.",
+       "This canal acts like a tube closed at one end and boosts sounds between about two thousand and four thousand hertz.",
+       "Together, the auricle and the canal provide a gain of about ten to twenty decibels in this region.",
+       "The folds of the auricle create cues that help us tell whether a sound comes from the front or from behind.",
+       "Earwax and the structure of the canal protect the ear from foreign bodies and infection.",
+       "Many consonants that are important for understanding speech also lie in this boosted frequency region."],
+     "yan": {"tur": "cizim", "cizim": "kulak_kesit", "cumle": 0, "vurgula": [{"parca": "kulak_kepcesi", "cumle": 0}, {"parca": "dis_kulak_yolu", "cumle": 1}], "etiketler": [{"parca": "kulak_kepcesi", "metin": "Auricle (auricula)", "cumle": 0}, {"parca": "dis_kulak_yolu", "metin": "External auditory canal", "cumle": 1}]}},
+
+    {"id": "orta_kulak", "tur": "gorsel", "bolum_no": "PART 3", "bolum": "Middle ear",
+     "baslik": "Middle ear: *mechanical transmission*", "cizim": "kulak_kesit",
+     "etiketler": [
+       {"parca": "timpanik_membran", "metin": "Tympanic membrane", "cumle": 0},
+       {"parca": "malleus", "metin": "Malleus", "cumle": 2},
+       {"parca": "incus", "metin": "Incus", "cumle": 2},
+       {"parca": "stapes", "metin": "Stapes", "cumle": 3},
+       {"parca": "oval_pencere", "metin": "Oval window", "cumle": 4},
+       {"parca": "ostaki_borusu", "metin": "Eustachian tube", "cumle": 5}],
+     "cumleler": [
+       "At the end of the ear canal lies the tympanic membrane, or eardrum.",
+       "When the sound wave strikes it, the tympanic membrane vibrates in step with the frequency of the sound.",
+       "This vibration is carried by the ossicles, the tiny bones of the ear: first the malleus, then the incus.",
+       "The last link in the chain is the stapes, the smallest bone in the human body.",
+       "The footplate of the stapes sits in the oval window, the entrance to the inner ear, and passes the vibration into the inner ear fluid.",
+       "The middle ear is filled with air and connects to the back of the nose, the nasopharynx, through the Eustachian tube.",
+       "The Eustachian tube equalizes the air pressure in the middle ear with the outside environment."],
+     "yakinlastir": [
+       {"parca": "orta_kulak", "cumle": 0, "olcek": 2.3},
+       {"parca": "oval_pencere", "cumle": 4, "olcek": 3.2},
+       {"parca": "genel", "cumle": 5}],
+     "vurgula": [
+       {"parca": "kemikcikler", "cumle": 2},
+       {"parca": "oval_pencere", "cumle": 4},
+       {"parca": "ostaki_borusu", "cumle": 5}]},
+
+    {"id": "empedans", "tur": "maddeler", "bolum_no": "PART 3", "bolum": "Middle ear", "baslik": "Why do we *need* a middle ear?",
+     "maddeler": [
+       {"metin": "_Impedance mismatch_ between air and fluid", "cumle": 0, "ikon": "ses_dalgasi"},
+       {"metin": "Area ratio: about _17 to 1_", "cumle": 2, "ikon": "kulak"},
+       {"metin": "Lever: about _1.3 to 1_", "cumle": 3, "ikon": "dokunma"},
+       {"metin": "Gain: about _25 to 30 dB_", "cumle": 4, "ikon": "grafik"}],
+     "cumleler": [
+       "The inner ear is filled with fluid, and when sound passes from air into fluid, most of its energy is reflected back.",
+       "Without the middle ear, this reflection would cause a loss of about thirty decibels.",
+       "The middle ear solves this in two ways; first, the tympanic membrane is about seventeen times larger than the stapes footplate.",
+       "Second, the ossicular chain works like a small lever and increases the force by about one point three times.",
+       "Together, these mechanisms provide a gain of about twenty five to thirty decibels; this is called impedance matching.",
+       "We will cover this topic in detail in the physiology lessons."],
+     "yan": {"tur": "cizim", "cizim": "orta_kulak", "cumle": 0, "vurgula": [{"parca": "timpanik_membran", "cumle": 2}, {"parca": "stapes", "cumle": 2}, {"parca": "kemikcikler", "cumle": 3}], "etiketler": [{"parca": "timpanik_membran", "metin": "Tympanic membrane", "cumle": 2}, {"parca": "stapes", "metin": "Stapes footplate", "cumle": 2}]}},
+
+    {"id": "koklea", "tur": "gorsel", "bolum_no": "PART 4", "bolum": "Inner ear", "baslik": "Cochlea: the *fluid wave*",
+     "cizim": "koklea_acik", "ayar": {"frekans": 1000},
+     "etiketler": [
+       {"parca": "oval_pencere", "metin": "Oval window", "cumle": 0},
+       {"parca": "yuvarlak_pencere", "metin": "Round window", "cumle": 1},
+       {"parca": "baziler_membran", "metin": "Basilar membrane", "cumle": 2},
+       {"parca": "taban", "metin": "Base: high pitches", "cumle": 4},
+       {"parca": "tepe", "metin": "Apex: low pitches", "cumle": 5}],
+     "vurgula": [
+       {"parca": "yuruyen_dalga", "cumle": 3}],
+     "cumleler": [
+       "As the stapes pushes the oval window in and pulls it back, pressure waves form in the fluid of the cochlea.",
+       "Because fluid cannot be compressed, this movement is balanced by the round window at the base bulging the opposite way.",
+       "The basilar membrane, which runs along the cochlea, starts to vibrate with this fluid movement.",
+       "The vibration forms a traveling wave that moves from the base toward the apex.",
+       "High-pitched sounds produce their largest vibration near the base of the cochlea.",
+       "Low-pitched sounds travel all the way toward the apex; this frequency map is called tonotopy.",
+       "In this way, the cochlea splits incoming sound into its components, like a frequency analyzer."]},
+
+    {"id": "tuy_hucre", "tur": "gorsel", "bolum_no": "PART 4", "bolum": "Inner ear", "baslik": "From vibration to a *neural signal*",
+     "cizim": "corti",
+     "etiketler": [
+       {"parca": "baziler_membran", "metin": "Basilar membrane", "cumle": 0},
+       {"parca": "ic_tuy_hucresi", "metin": "Inner hair cell", "cumle": 1},
+       {"parca": "dis_tuy_hucreleri", "metin": "Outer hair cells", "cumle": 4},
+       {"parca": "sinir_lifleri", "metin": "Nerve fibers", "cumle": 5}],
+     "cumleler": [
+       "The organ of Corti sits on the basilar membrane, and this is where the actual conversion takes place.",
+       "The inner hair cells in the organ of Corti are the true sensory cells that pass auditory information to the nerve.",
+       "When the membrane vibrates, the fine projections on top of the hair cells, the stereocilia, bend.",
+       "This bending opens ion channels in the cell, and mechanical energy is turned into an electrical signal.",
+       "The outer hair cells lengthen and shorten, which amplifies soft sounds and sharpens frequency selectivity.",
+       "The nerve fibers stimulated by the inner hair cells carry this signal to the auditory nerve."]},
+
+    {"id": "kodlama", "tur": "ikonlar", "bolum_no": "PART 4", "bolum": "Inner ear", "baslik": "How does the nerve *code* sound?",
+     "ogeler": [
+       {"ikon": "noron", "baslik": "Place code", "metin": "Which fiber was stimulated?", "cumle": 0},
+       {"ikon": "saat", "baslik": "Timing code", "metin": "Locking to the wave", "cumle": 2},
+       {"ikon": "grafik", "baslik": "Intensity", "metin": "Firing rate and number of fibers", "cumle": 3}],
+     "cumleler": [
+       "The auditory nerve carries frequency mainly by a place code; each fiber brings information from a specific region of the cochlea.",
+       "In this way, each of the roughly thirty thousand fibers is tuned to its own frequency.",
+       "For low-pitched sounds, fibers also fire at particular phases of the sound wave; this is called phase locking.",
+       "As a sound gets louder, the firing rate of the fibers rises and more fibers are recruited.",
+       "From these codes, the brain decodes both the pitch and the loudness of a sound."]},
+
+    {"id": "kemik_yolu", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Inner ear", "baslik": "A shortcut: *bone conduction*",
+     "maddeler": [
+       {"metin": "Skull vibration reaches the _cochlea_", "cumle": 0, "ikon": "kemik_vibratoru"},
+       {"metin": "Outer and middle ear _largely bypassed_", "cumle": 1, "ikon": "kulak"},
+       {"metin": "On the audiogram: _inner ear_ information", "cumle": 3, "ikon": "odyogram"}],
+     "cumleler": [
+       "Sound can reach the cochlea not only through the air but also through vibration of the skull bones.",
+       "This is called bone conduction; on this route, the outer and middle ear are largely bypassed.",
+       "One reason our recorded voice sounds different is that, when we speak, we also hear ourselves by bone conduction.",
+       "In the clinic, bone conduction testing lets us see the state of the cochlea and beyond, separately from air conduction.",
+       "This difference is the basis for telling apart the types of hearing loss, the topic of the next lesson."],
+     "yan": {"tur": "cizim", "cizim": "kulak_kesit", "cumle": 0, "vurgula": [{"parca": "temporal_kemik", "cumle": 0}, {"parca": "koklea", "cumle": 1}], "etiketler": [{"parca": "temporal_kemik", "metin": "Temporal bone", "cumle": 0}, {"parca": "koklea", "metin": "Cochlea", "cumle": 1}]}},
+
+    {"id": "yol", "tur": "gorsel", "bolum_no": "PART 5", "bolum": "The path to the brain", "baslik": "The central *auditory pathway*",
+     "cizim": "isitme_yolu",
+     "etiketler": [
+       {"parca": "isitme_siniri", "metin": "Auditory nerve (VIII)", "cumle": 0},
+       {"parca": "koklear_nukleus", "metin": "Cochlear nucleus", "cumle": 1},
+       {"parca": "superior_oliver", "metin": "Superior olivary complex", "cumle": 2},
+       {"parca": "lateral_lemniskus", "metin": "Lateral lemniscus", "cumle": 3},
+       {"parca": "inferior_kollikulus", "metin": "Inferior colliculus", "cumle": 3},
+       {"parca": "mgb", "metin": "Medial geniculate body", "cumle": 4},
+       {"parca": "isitme_korteksi", "metin": "Auditory cortex", "cumle": 5}],
+     "cumleler": [
+       "The signal reaches the brainstem through the auditory nerve, the eighth cranial nerve.",
+       "The first stop is the cochlear nucleus; the fibers arriving here come only from the ear on the same side.",
+       "Next comes the superior olivary complex, where information from the two ears is compared for the first time.",
+       "The signal rises along the lateral lemniscus and reaches the inferior colliculus in the midbrain.",
+       "The medial geniculate body in the thalamus is the last relay station that passes the signal on to the cortex.",
+       "Finally, the signal reaches the primary auditory cortex in the temporal lobe.",
+       "Along the way, most fibers cross to the opposite side, so each ear is represented in both halves of the brain."]},
+
+    {"id": "beyin_sapi", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "The path to the brain",
+     "baslik": "What does the brainstem *do?*",
+     "maddeler": [
+       {"metin": "Interaural _time and intensity_ differences", "cumle": 1, "ikon": "saat"},
+       {"metin": "Finding the _direction_ of sound", "cumle": 2, "ikon": "hoparlor"},
+       {"metin": "_Reflexes_: the acoustic reflex", "cumle": 3, "ikon": "timpanometre_prob"},
+       {"metin": "Helps _selective listening_ in noise", "cumle": 4, "ikon": "kalabalik"}],
+     "cumleler": [
+       "The brainstem does not only relay the signal; it also processes it.",
+       "In the superior olivary complex, the time and intensity differences of sound reaching the two ears are compared.",
+       "This is how we can work out which direction a sound comes from.",
+       "The acoustic reflex, which contracts the stapedius muscle in the middle ear for loud sounds, also works at the brainstem level.",
+       "Fibers running down from the brain to the ear act on the outer hair cells and help with listening in noise.",
+       "The auditory brainstem response, or ABR, which we will see later, measures electrical activity in the early parts of this pathway."],
+     "yan": {"tur": "cizim", "cizim": "isitme_yolu", "cumle": 0, "vurgula": [{"parca": "superior_oliver", "cumle": 1}], "etiketler": [{"parca": "superior_oliver", "metin": "Superior olivary complex", "cumle": 1}]}},
+
+    {"id": "korteks", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "The path to the brain",
+     "baslik": "The primary *auditory cortex*",
+     "maddeler": [
+       {"metin": "_Primary auditory cortex_", "cumle": 0, "ikon": "beyin"},
+       {"metin": "Location: temporal lobe, _Heschl's gyrus_", "cumle": 1, "ikon": "noron"},
+       {"metin": "_Tonotopic_ order is preserved", "cumle": 2, "ikon": "ses_dalgasi"},
+       {"metin": "Meaning: with _association areas_", "cumle": 3, "ikon": "konusma"}],
+     "cumleler": [
+       "The last stop on the pathway is the primary auditory cortex.",
+       "This area lies on the upper surface of the temporal lobe, in a region called Heschl's gyrus.",
+       "The frequency map that began in the cochlea is preserved here; different frequencies are represented in different areas of the cortex.",
+       "Recognizing whether a sound is a word or music happens together with the surrounding auditory association areas.",
+       "For understanding speech, Wernicke's area in the left hemisphere plays an important role in most people.",
+       "In short, the ear receives and codes the sound, but it is the brain that understands what we hear."],
+     "yan": {"tur": "cizim", "cizim": "isitme_yolu", "cumle": 0, "vurgula": [{"parca": "isitme_korteksi", "cumle": 0}], "etiketler": [{"parca": "isitme_korteksi", "metin": "Primary auditory cortex", "cumle": 0}]}},
+
+    {"id": "tablo", "tur": "akis", "bolum_no": "PART 5", "bolum": "The path to the brain", "baslik": "The journey in *summary*",
+     "adimlar": [
+       {"ikon": "kulak", "baslik": "Outer ear", "metin": "Acoustic: collection, resonance", "cumle": 1},
+       {"ikon": "ses_dalgasi", "baslik": "Middle ear", "metin": "Mechanical: impedance matching", "cumle": 2},
+       {"ikon": "noron", "baslik": "Inner ear", "metin": "Fluid and electric: frequency analysis", "cumle": 3},
+       {"ikon": "beyin", "baslik": "Nerve and brain", "metin": "Transmission, interpretation", "cumle": 4}],
+     "cumleler": [
+       "Now let us bring the whole journey together in one picture.",
+       "In the outer ear, sound is still an acoustic wave in the air; the auricle and canal collect and boost it.",
+       "In the middle ear, the energy becomes mechanical vibration and is matched for transfer into fluid.",
+       "In the inner ear, the fluid wave vibrates the basilar membrane, and the hair cells turn this into an electrical signal.",
+       "The neural pathways and the cortex then transmit, process and make sense of this signal."]},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical tip",
+     "metin": "Think about which part of the pathway each test measures: tympanometry shows the middle ear, OAE the outer hair cells, ABR the auditory nerve and brainstem.",
+     "cumleler": [
+       "This road map is very useful in the clinic.",
+       "When you interpret a test result, think about which part of the pathway the test measures.",
+       "Tympanometry assesses the middle ear, and otoacoustic emissions, or OAE, assess the outer hair cells.",
+       "The ABR assesses the auditory nerve and the brainstem pathways.",
+       "Interpreting these tests together is the most reliable way to locate the problem."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*",
+     "maddeler": [
+       {"metin": "The outer ear collects and *boosts*", "cumle": 0, "ikon": "kulak"},
+       {"metin": "The middle ear provides *impedance matching*", "cumle": 1, "ikon": "ses_dalgasi"},
+       {"metin": "The cochlea *separates* and converts frequencies", "cumle": 2, "ikon": "noron"},
+       {"metin": "Brainstem and cortex *interpret*", "cumle": 3, "ikon": "beyin"}],
+     "cumleler": [
+       "The outer ear collects and directs sound and boosts the frequencies that matter for speech.",
+       "The middle ear transfers sound in air efficiently into the fluid-filled inner ear.",
+       "The cochlea splits sound into its frequencies, and the hair cells turn vibration into a neural signal.",
+       "The brainstem processes sound and finds its direction, and the cortex makes sense of what we hear."]},
+
+    {"id": "test", "tur": "test", "soru": "Where is information from the two ears first compared?",
+     "secenekler": ["Cochlear nucleus", "Superior olivary complex", "Inferior colliculus", "Auditory cortex"], "dogru": 1,
+     "aciklama": "The _superior olivary complex_ is the first stop where input from both ears comes together; it is key for localization.",
+     "cumleler": [
+       {"yazi": "Test yourself: Where in the auditory pathway is information from the two ears first compared?", "sonra_bekle": 5},
+       "The correct answer is B, the superior olivary complex. The cochlear nucleus receives input only from the ear on the same side.",
+       "Information from the two ears first meets in the superior olivary complex and is used to localize sound."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "Conductive, Sensorineural and *Mixed* Hearing Loss", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will learn the types of hearing loss, based on which part of this pathway is affected.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

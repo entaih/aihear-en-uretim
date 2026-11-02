@@ -1,0 +1,686 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D297_Gene_Therapy_Regeneration_EN",
+ "kapak": {
+  "ust": "LESSON 297",
+  "baslik": "Gene therapy and<br>*regeneration*",
+  "alt": "OTOF trials and realistic expectations",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Gene Therapy and Hair Cell Regeneration Research | Lesson 297 | AIHEAR Audiology Academy",
+  "aciklama": "Where does gene therapy for hearing loss stand? In this lesson we learn about AAV vectors, the first clinical results of OTOF gene therapy published from 2024 onward, how to read these results, approaches to hair cell regeneration, and the audiologist's role. The first OTOF gene therapy received accelerated approval in the United States in 2026; long-term outcomes are still being studied.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Lv J et al. AAV1-hOTOF gene therapy for autosomal recessive deafness 9: a single-arm trial. Lancet (2024); Wang H et al. Bilateral gene therapy in children with autosomal recessive deafness 9: single-arm trial results. Nature Medicine (2024); Qi J et al. AAV-mediated gene therapy restores hearing in patients with DFNB9 deafness. Advanced Science (2024); Valayannopoulos V et al. DB-OTO gene therapy for inherited deafness. New England Journal of Medicine (2025); U.S. Food and Drug Administration, Otarmeni (lunsotogene parvec-cwha) approval announcement (April 23, 2026).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "genetherapy",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "gene therapy",
+   "OTOF",
+   "otoferlin",
+   "DFNB9",
+   "adeno-associated virus",
+   "AAV",
+   "hair cell regeneration",
+   "accelerated approval",
+   "genetic hearing loss",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 297",
+   "baslik": "Gene therapy and *regeneration*",
+   "alt": "OTOF trials, hair cells, realistic expectations",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    {
+     "yazi": "In this lesson we will examine gene therapy for hearing loss and the results of the first OTOF clinical trials, published in 2024.",
+     "ses": "In this lesson we will examine gene therapy for hearing loss and the results of the first O T O F clinical trials, published in twenty twenty four."
+    },
+    "We will also cover approaches to hair cell regeneration, realistic expectations and the audiologist's role."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Basics",
+   "baslik": "What is *gene therapy?*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Gene addition",
+     "metin": "A working copy of the gene",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Gene silencing",
+     "metin": "Reducing a harmful product",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Gene editing",
+     "metin": "Repairing the sequence",
+     "cumle": 4
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Vector",
+     "metin": "Carries the gene into cells",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Gene therapy aims to correct the genetic cause of a disease by delivering genetic material into cells.",
+    "The simplest approach is gene addition: a working copy of a nonfunctional gene is delivered to the cell.",
+    "This approach suits recessive losses, in which both copies have lost their function.",
+    "For some dominant losses, silencing methods that reduce the harmful gene product are being studied.",
+    "Gene editing methods aim to repair the faulty sequence directly; in hearing, this is still at the experimental stage.",
+    "Whatever the method, a carrier that takes the genetic material to the right cell, called a vector, is needed."
+   ]
+  },
+  {
+   "id": "aav",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Basics",
+   "baslik": "The vector: *AAV*",
+   "ogeler": [
+    {
+     "ikon": "virus",
+     "baslik": "AAV",
+     "metin": "A virus that causes no disease",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Target",
+     "metin": "Inner ear cells",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Capacity",
+     "metin": "Limited gene size",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Dual vector",
+     "metin": "Gene in two parts",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The vector most used in inner ear gene therapy is the adeno-associated virus, or AAV.",
+     "ses": "The vector most used in inner ear gene therapy is the adeno-associated virus, or A A V."
+    },
+    {
+     "yazi": "AAV is a small virus that does not cause disease in humans; in the lab it is prepared so that it cannot replicate.",
+     "ses": "A A V is a small virus that does not cause disease in humans; in the lab it is prepared so that it cannot replicate."
+    },
+    {
+     "yazi": "Different AAV types target different cells; for the inner ear, types that can reach the hair cells are chosen.",
+     "ses": "Different A A V types target different cells; for the inner ear, types that can reach the hair cells are chosen."
+    },
+    {
+     "yazi": "The amount of genetic material AAV can carry is limited, and the coding sequence of the otoferlin gene is larger than this limit.",
+     "ses": "The amount of genetic material A A V can carry is limited, and the coding sequence of the otoferlin gene is larger than this limit."
+    },
+    {
+     "yazi": "So in OTOF trials the gene is split into two parts given with two separate AAVs; inside the cell, they join to form the full protein.",
+     "ses": "So in O T O F trials the gene is split into two parts given with two separate A A V's; inside the cell, they join to form the full protein."
+    },
+    "Preexisting antibodies against the vector are an important factor that can reduce the effect of treatment."
+   ]
+  },
+  {
+   "id": "otof",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Basics",
+   "baslik": "Why *OTOF?*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "inner hair cell: otoferlin",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "outer hair cells: OAE",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Otoferlin is a protein needed for neurotransmitter release at the inner hair cell synapse.",
+    {
+     "yazi": "Variants in both copies of the otoferlin gene, or OTOF gene, cause congenital severe to profound hearing loss.",
+     "ses": "Variants in both copies of the otoferlin gene, or O T O F gene, cause congenital severe to profound hearing loss."
+    },
+    {
+     "yazi": "This type is called DFNB9, and it is an example of the presynaptic form we saw in the lesson on the auditory neuropathy spectrum.",
+     "ses": "This type is called D F N B nine, and it is an example of the presynaptic form we saw in the lesson on the auditory neuropathy spectrum."
+    },
+    "Because the outer hair cells work early on, otoacoustic emissions can be present, while the auditory brainstem response, or ABR, is absent.",
+    "Because the cochlea and nerve are largely preserved, replacing the missing protein can restore function.",
+    {
+     "yazi": "A single gene, a specific cell and a preserved structure: this is why OTOF became one of the first targets of gene therapy in hearing.",
+     "ses": "A single gene, a specific cell and a preserved structure: this is why O T O F became one of the first targets of gene therapy in hearing."
+    }
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Basics",
+   "baslik": "Route of *delivery*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "round window",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "metin": "cochlea",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1,
+     "olcek": 2.3
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In OTOF trials, the vector is delivered directly into the cochlea through ear surgery.",
+     "ses": "In O T O F trials, the vector is delivered directly into the cochlea through ear surgery."
+    },
+    "Under general anesthesia, the middle ear is reached, and the drug is usually injected into the cochlear fluids through the round window.",
+    "Because the cochlea is fluid-filled and relatively closed, much of the dose stays at the target.",
+    "In the trials, sometimes one ear and sometimes both ears were treated in the same session.",
+    "Because the procedure is surgical, middle ear and inner ear risks are also monitored carefully.",
+    "Follow-up after treatment uses ABR, the auditory steady-state response, behavioral audiometry and speech perception tests."
+   ]
+  },
+  {
+   "id": "ilk",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Clinical trials",
+   "baslik": "2024: *first results*",
+   "adimlar": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Participants",
+     "metin": "Six children, one ear",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Delivery",
+     "metin": "AAV into the cochlea",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Follow-up",
+     "metin": "Twenty-six weeks",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Outcome",
+     "metin": "Improvement in five children",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Safety",
+     "metin": "No serious adverse events",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In early 2024, Lv and colleagues published in the Lancet the first results of a single-arm trial conducted in China.",
+     "ses": "In early twenty twenty four, Lv and colleagues published in the Lancet the first results of a single-arm trial conducted in China."
+    },
+    {
+     "yazi": "Six children with OTOF-related hearing loss received the otoferlin gene with AAV in one ear.",
+     "ses": "Six children with O T O F-related hearing loss received the otoferlin gene with A A V in one ear."
+    },
+    "The children were followed for twenty six weeks.",
+    "Baseline ABR thresholds exceeded ninety five decibels; in five children, mean thresholds reportedly fell by forty to fifty seven decibels.",
+    "No serious adverse events or dose-limiting toxicity were seen; in one non-responder, a role for antibodies to the vector was discussed.",
+    "These are among the first reports to show hearing improved with gene therapy in humans with a congenital genetic hearing loss."
+   ]
+  },
+  {
+   "id": "yeni",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Clinical trials",
+   "baslik": "Both ears and *newer trials*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Both ears",
+     "metin": "Five children, 2024",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Speech and direction",
+     "metin": "Improvement reported",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Other groups",
+     "metin": "Similar results",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Multicenter",
+     "metin": "Twelve children, 2025",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "U.S. approval",
+     "metin": "Accelerated, April 2026",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In 2024, Wang and colleagues published in Nature Medicine a trial in which the same approach was given to both ears of five children.",
+     "ses": "In twenty twenty four, Wang and colleagues published in Nature Medicine a trial in which the same approach was given to both ears of five children."
+    },
+    "Hearing improved in both ears in all children; improvements in speech perception and sound localization were reported.",
+    "The same year, Qi and colleagues also reported similar hearing gains in children treated with otoferlin gene therapy.",
+    {
+     "yazi": "In 2025, a multicenter trial based in the U.S. and Europe reported meaningful hearing improvement in most of twelve children.",
+     "ses": "In twenty twenty five, a multicenter trial based in the U.S. and Europe reported meaningful hearing improvement in most of twelve children."
+    },
+    "All of these are early-phase, open-label trials without a control group.",
+    {
+     "yazi": "In April 2026, one of these therapies received accelerated FDA approval; its durability and effect on language are still being monitored.",
+     "ses": "In April twenty twenty six, one of these therapies received accelerated F D A approval; its durability and effect on language are still being monitored."
+    }
+   ]
+  },
+  {
+   "id": "okuma",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Clinical trials",
+   "baslik": "*How should we read* the results?",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Small sample",
+     "metin": "Few children",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "No control",
+     "metin": "Single-arm design",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Short follow-up",
+     "metin": "Durability unknown",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Variable response",
+     "metin": "Not everyone responds",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Safety",
+     "metin": "Long term uncertain",
+     "cumle": 4
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Age",
+     "metin": "Early treatment may matter",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "We must ask the questions from the lessons on evidence-based reading here too: first, the samples are very small.",
+    "The trials are single-arm, meaning there is no untreated comparison group.",
+    "Follow-up lasts months or a few years; whether the effect will last a lifetime is unknown.",
+    "Not every child responded to the same degree, and in some children hearing did not reach normal levels.",
+    "Long-term safety data on the surgical procedure and the vector are still limited.",
+    "It is also thought that the age at treatment may affect the outcome for language development."
+   ]
+  },
+  {
+   "id": "rejenerasyon",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Regeneration",
+   "baslik": "Hair cell *regeneration*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "destek_hucreleri",
+     "metin": "supporting cells",
+     "cumle": 1
+    },
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "hair cells",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "stereosil",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Hair cells lost to noise, aging or ototoxic drugs do not regrow on their own in mammals.",
+    "In birds and fish, however, when hair cells are lost, nearby supporting cells can turn into new hair cells.",
+    "This observation led researchers to look for ways to turn supporting cells in the mammalian cochlea back into hair cells.",
+    "Hair cell regeneration is different from gene therapy.",
+    "Here the goal is not to fix a gene, but to rebuild a lost cell.",
+    "For a new hair cell to be useful, it must be in the right place, form its stereocilia and connect to the nerve.",
+    "This is why regeneration is a far more complex goal than gene therapy."
+   ]
+  },
+  {
+   "id": "yaklasim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Regeneration",
+   "baslik": "Regeneration *approaches*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Gene transfer",
+     "metin": "Hair cell program",
+     "cumle": 0
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Drug stimulation",
+     "metin": "Converting supporting cells",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Stem cells",
+     "metin": "Lab-grown cells",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Synapse repair",
+     "metin": "Growth factors",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "One approach delivers a gene with a key role in hair cell development to supporting cells, turning them into hair cells.",
+    "Another tries to achieve the same conversion by acting on signaling pathways in supporting cells with drugs.",
+    "Producing hair cell-like cells from stem cells in the lab is also being studied; this field is at an even earlier stage.",
+    "Repairing the synapse loss we saw in the synaptopathy lesson with growth factors is also being tried in animal studies.",
+    "The first human studies of these approaches have not shown an established hearing benefit.",
+    "For example, one approach aiming to stimulate supporting cells with a drug did not outperform placebo in a phase two trial."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Regeneration",
+   "baslik": "Realistic *expectations*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Specific genes",
+     "metin": "Not for every loss",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Time",
+     "metin": "Years of research ahead",
+     "cumle": 1
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Today's option",
+     "metin": "Hearing aids and implants",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "False promises",
+     "metin": "Beware of fake treatments",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Evidence",
+     "metin": "Peer-reviewed publications",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Today, gene therapy is available only for specific single-gene losses such as OTOF, and most of it is still in clinical trials.",
+     "ses": "Today, gene therapy is available only for specific single-gene losses such as O T O F, and most of it is still in clinical trials."
+    },
+    "There is no clinical treatment yet for other genetic types or for noise or age-related loss; this research may take years.",
+    "Proven options for a child's access to language today are hearing aids and cochlear implants; they are not delayed for a future treatment.",
+    "Families should be warned about paid, unproven treatments offered under the name of stem cell or gene therapy.",
+    "Reliable information comes from registered clinical trials published in peer-reviewed journals.",
+    "Headlines saying deafness has been cured usually describe small, early-stage studies."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Regeneration",
+   "baslik": "The audiologist's *role*",
+   "adimlar": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetic diagnosis",
+     "metin": "Refer for genetic counseling",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Accurate information",
+     "metin": "Balance hope and reality",
+     "cumle": 2
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "No delay",
+     "metin": "Today's intervention",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Measurement",
+     "metin": "Assessment in research",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Follow-up",
+     "metin": "Long-term outcomes",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The audiologist's first role is to refer the family for genetic evaluation and counseling when a permanent loss has no known cause.",
+    "A genetic diagnosis is also the key to options that may appear in the future.",
+    "When a family asks about gene therapy, they receive clear, accurate information that balances hope and reality.",
+    "No research should be a reason to delay a proven hearing aid or implant fitting today.",
+    "In clinical trials, hearing and speech perception are often measured by audiologists; careful, standard measurement makes results reliable.",
+    "Long-term follow-up of treated children will also be an important part of audiological care."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical alert",
+   "metin": "When a family brings news of a gene therapy, do not dismiss it; review the publication together and explain why today's intervention should not be delayed.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: when a family brings you news about a gene therapy, do not dismiss it.",
+    "Review together the publication behind the news and the genetic type it was done for.",
+    "If the child's genetic diagnosis is known, say clearly whether this type is being studied.",
+    "Finally, explain through language development why today's hearing aid or implant plan should not be postponed."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Gene addition with AAV: OTOF first",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "2024 trials: most children improved",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Small, uncontrolled, early-phase evidence",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Regeneration is at an earlier stage",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In OTOF-related loss, the otoferlin gene is delivered in two parts with an AAV vector, directly into the cochlea.",
+     "ses": "In O T O F-related loss, the otoferlin gene is delivered in two parts with an A A V vector, directly into the cochlea."
+    },
+    {
+     "yazi": "Trials published since 2024 have reported improved hearing and speech perception in most treated children.",
+     "ses": "Trials published since twenty twenty four have reported improved hearing and speech perception in most treated children."
+    },
+    "The trials are small, early-phase, without a control group and with short follow-up; the first approval also depends on long-term follow-up.",
+    "Hair cell regeneration has not yet shown a proven benefit in humans; today's options are not delayed."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Why two AAVs?",
+   "secenekler": [
+    "To double the effect",
+    "The gene is too big for one AAV",
+    "One for each ear",
+    "To reduce immunity"
+   ],
+   "dogru": 1,
+   "aciklama": "The otoferlin coding sequence is _larger than AAV can carry_, so it is split into two parts.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in OTOF gene therapy, why is the gene delivered with two separate AAV vectors?",
+     "sonra_bekle": 5,
+     "ses": "Test yourself: in O T O F gene therapy, why is the gene delivered with two separate A A V vectors?"
+    },
+    {
+     "yazi": "The correct answer is B: the gene is larger than a single AAV can carry.",
+     "ses": "The correct answer is B: the gene is larger than a single A A V can carry."
+    },
+    "Inside the cell, the parts join to form the full otoferlin protein."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Deaf Culture and *Linguistic Diversity*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will look at Deaf culture, the medical and cultural models, and linguistic diversity.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

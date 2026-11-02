@@ -1,0 +1,873 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D222_Noise_Exposure_Limits_EN",
+ "kapak": {
+  "ust": "LESSON 222",
+  "baslik": "*80, 85, 87*<br>dB(A)",
+  "alt": "Noise exposure limits",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Noise Exposure Limits: 80, 85 and 87 dB(A) | Lesson 222 | AIHEAR Audiology Academy",
+  "aciklama": "At what level does workplace noise require action? In this lesson we compare the action and limit values of European Union Directive 2003/10/EC and the 2013 noise regulation in Türkiye, the peak values (135, 137 and 140 dB(C)), weekly exposure, the difference between the 3 dB and 5 dB exchange rates, and the NIOSH and OSHA criteria.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: European Parliament and Council, Directive 2003/10/EC on noise; Regulation on the Protection of Employees from Noise-Related Risks, Türkiye, Official Gazette 28.07.2013, No. 28721; NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998); OSHA, 29 CFR 1910.95; ISO 1999, Acoustics: Estimation of noise-induced hearing loss.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "occupationalhealth",
+   "noise"
+  ],
+  "etiketler": [
+   "noise exposure limits",
+   "lower exposure action value",
+   "upper exposure action value",
+   "exposure limit value",
+   "exchange rate",
+   "equal energy principle",
+   "peak sound pressure",
+   "NIOSH",
+   "OSHA",
+   "noise regulation",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 222",
+   "baslik": "Exposure limits: *80, 85 and 87* dB(A)",
+   "alt": "Action values, peak values and exchange rate",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the action and limit values that set the noise levels at which action is required at work.",
+    "We will also compare peak values, weekly exposure and the difference between the 3 decibel and 5 decibel exchange rates."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Action and limit values",
+   "baslik": "Why a *limit value?*",
+   "maddeler": [
+    {
+     "metin": "Sets the action level in numbers",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Long-term exposure studies",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ISO 1999: predicting expected loss",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Does not remove all risk",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "trafik",
+      "cumle": 0
+     },
+     {
+      "parca": "konser",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Limit values set in numbers when noise at a workplace requires action.",
+    "These values are based on studies of hearing loss risk in workers exposed to noise over many years.",
+    {
+     "yazi": "The international standard ISO 1999 offers a method to predict expected hearing loss from the level and duration of exposure.",
+     "ses": "The international standard ISO nineteen ninety nine offers a method to predict expected hearing loss from the level and duration of exposure."
+    },
+    "No limit value reduces risk to zero; it only brings it down to an acceptable level.",
+    "So staying below the limit does not make protective measures unnecessary.",
+    "In this lesson we first compare the European and Türkiye values, then two different approaches in the United States."
+   ]
+  },
+  {
+   "id": "uc_esik",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Action and limit values",
+   "baslik": "Three *thresholds*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1,
+     "yazilar": {
+      "0.5": "daily level"
+     },
+     "isaretler": [
+      0.5
+     ],
+     "ad": "LEX,8h"
+    },
+    "y": {
+     "min": 75,
+     "max": 90,
+     "adim": 5,
+     "ad": "dB(A)"
+    },
+    "bolgeler": [
+     {
+      "ad": "alt_eylem",
+      "y": [
+       80,
+       85
+      ],
+      "renk": "sari",
+      "etiket": "lower action value: 80",
+      "cumle": 2
+     },
+     {
+      "ad": "ust_eylem",
+      "y": [
+       85,
+       87
+      ],
+      "renk": "turuncu",
+      "etiket": "upper action value: 85",
+      "cumle": 3
+     },
+     {
+      "ad": "sinir",
+      "y": [
+       87,
+       90
+      ],
+      "renk": "kirmizi",
+      "etiket": "limit value: 87",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "cizgi80",
+      "x": 0,
+      "y": 80,
+      "cizgi": "yatay",
+      "etiket": "80",
+      "cumle": 2
+     },
+     {
+      "ad": "cizgi85",
+      "x": 0,
+      "y": 85,
+      "cizgi": "yatay",
+      "etiket": "85",
+      "cumle": 3
+     },
+     {
+      "ad": "cizgi87",
+      "x": 0,
+      "y": 87,
+      "cizgi": "yatay",
+      "etiket": "87",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "EU directive and Türkiye: same values",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Level over an eight-hour day",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Limit value counts the protector",
+     "cumle": 6,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The 2003 noise directive of the European Union and the 2013 regulation in Türkiye use the same three values.",
+     "ses": "The two thousand three noise directive of the European Union and the twenty thirteen regulation in Türkiye use the same three values."
+    },
+    "The values are expressed as the daily noise exposure level, the average level normalized to an eight-hour working day.",
+    {
+     "yazi": "The lower exposure action value is 80 dB(A).",
+     "ses": "The lower exposure action value is eighty decibels A."
+    },
+    {
+     "yazi": "The upper exposure action value is 85 dB(A).",
+     "ses": "The upper exposure action value is eighty five decibels A."
+    },
+    {
+     "yazi": "The exposure limit value is 87 dB(A), and it must not be exceeded.",
+     "ses": "The exposure limit value is eighty seven decibels A, and it must not be exceeded."
+    },
+    "In the regulation, these are named the lower exposure action value, the upper exposure action value and the exposure limit value.",
+    "The limit value has one important difference: it is assessed taking into account the protection given by the hearing protector."
+   ]
+  },
+  {
+   "id": "yukumluluk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Action and limit values",
+   "baslik": "What happens *at each threshold?*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "80 dB(A)",
+     "metin": "Protectors available, training",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "85 dB(A)",
+     "metin": "Mandatory use, signs, tests",
+     "cumle": 3
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "87 dB(A)",
+     "metin": "Never exceeded, even with protectors",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Each threshold places different duties on the employer.",
+    {
+     "yazi": "Above 80 dB(A), hearing protectors are made available and workers receive information and training.",
+     "ses": "Above eighty decibels A, hearing protectors are made available and workers receive information and training."
+    },
+    "At this level, hearing tests may also be provided if the risk assessment shows a health risk.",
+    {
+     "yazi": "At 85 dB(A) and above, the use of hearing protectors is ensured and enforced.",
+     "ses": "At eighty five decibels A and above, the use of hearing protectors is ensured and enforced."
+    },
+    "At this level, work areas are marked, measures to reduce noise are put in place and the employer arranges hearing tests.",
+    {
+     "yazi": "And 87 dB(A) is the upper limit that exposure at the ear must not exceed, even with protectors worn.",
+     "ses": "And eighty seven decibels A is the upper limit that exposure at the ear must not exceed, even with protectors worn."
+    },
+    "If this limit is exceeded, the employer acts at once, identifies the cause and makes changes to prevent it happening again."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Action and limit values",
+   "baslik": "Example: protectors and the *limit value*",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "Workplace",
+     "metin": "Daily level 95 dB(A)",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protector",
+     "metin": "Real attenuation 12 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "At the ear",
+     "metin": "About 83 dB(A)",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Action value",
+     "metin": "Duties still apply",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Let us look at an example of how the limit value is assessed together with the protector.",
+    {
+     "yazi": "Suppose a worker's daily exposure level is 95 dB(A).",
+     "ses": "Suppose a worker's daily exposure level is ninety five decibels A."
+    },
+    "Assume the protector gives this worker about 12 decibels of attenuation in real use.",
+    {
+     "yazi": "The effective level at the ear is then about 83 dB(A), which stays below the 87 dB(A) limit value.",
+     "ses": "The effective level at the ear is then about eighty three decibels A, which stays below the eighty seven decibels A limit value."
+    },
+    {
+     "yazi": "However, action values are assessed without the protector, so the 85 dB(A) duties still apply to this worker.",
+     "ses": "However, action values are assessed without the protector, so the eighty five decibels A duties still apply to this worker."
+    },
+    "In other words, wearing protectors is mandatory, hearing tests are done and noise reduction work continues."
+   ]
+  },
+  {
+   "id": "tepe",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Peak and weekly values",
+   "baslik": "*Peak values* for impulse noise",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "135 dB(C)",
+     "metin": "Lower action value",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "137 dB(C)",
+     "metin": "Upper action value",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "140 dB(C)",
+     "metin": "Limit value",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "For impulse noise, the average level is not enough; the very brief peak sound pressure is also limited separately.",
+    "Peak values are measured with C weighting, because C weighting suppresses low frequencies much less than A weighting.",
+    {
+     "yazi": "The peak limit is 135 dB(C) for the lower action value and 137 dB(C) for the upper action value.",
+     "ses": "The peak limit is one hundred thirty five decibels C for the lower action value and one hundred thirty seven decibels C for the upper action value."
+    },
+    {
+     "yazi": "The peak limit for the exposure limit value is 140 dB(C).",
+     "ses": "The peak limit for the exposure limit value is one hundred forty decibels C."
+    },
+    "In work such as presses, riveting, blasting and shooting, peak values can come close to these limits.",
+    "Peak values matter in their own right, because even a single very loud impulse can cause acoustic trauma."
+   ]
+  },
+  {
+   "id": "haftalik",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Peak and weekly values",
+   "baslik": "Daily or *weekly?*",
+   "maddeler": [
+    {
+     "metin": "When exposure varies day to day",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Weekly exposure level can be used",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Five days of eight hours",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "87 dB(A) still cannot be exceeded",
+     "cumle": 3,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EXAMPLE WEEK",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "fabrika",
+      "baslik": "Busy day",
+      "metin": "High exposure",
+      "cumle": 4
+     },
+     {
+      "ikon": "is_yeri",
+      "baslik": "Quiet days",
+      "metin": "Low exposure",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "In some jobs, noise exposure varies markedly from one day to the next.",
+    "In this case, the regulation allows the weekly noise exposure level to be used instead of the daily level.",
+    "The weekly level is an average based on a working week of five days with eight hours a day.",
+    {
+     "yazi": "However, the weekly level also cannot exceed the 87 dB(A) limit value, and measures to reduce risk are taken.",
+     "ses": "However, the weekly level also cannot exceed the eighty seven decibels A limit value, and measures to reduce risk are taken."
+    },
+    "In this way, the load of a busy day is balanced by the other days of the week, but the limit is kept.",
+    "If the weekly level is used, measurements must be planned so that they represent the whole week."
+   ]
+  },
+  {
+   "id": "degisim",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Exchange rate",
+   "baslik": "3 dB or *5 dB?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 84,
+     "max": 106,
+     "adim": 2,
+     "ad": "Level (dB(A))"
+    },
+    "y": {
+     "min": 0,
+     "max": 9,
+     "adim": 1,
+     "ad": "Allowed time (hours)"
+    },
+    "seriler": [
+     {
+      "ad": "uc_db",
+      "noktalar": [
+       [
+        85,
+        8
+       ],
+       [
+        88,
+        4
+       ],
+       [
+        91,
+        2
+       ],
+       [
+        94,
+        1
+       ],
+       [
+        97,
+        0.5
+       ],
+       [
+        100,
+        0.25
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "3 dB rule",
+      "cumle": 3
+     },
+     {
+      "ad": "bes_db",
+      "noktalar": [
+       [
+        90,
+        8
+       ],
+       [
+        95,
+        4
+       ],
+       [
+        100,
+        2
+       ],
+       [
+        105,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "5 dB rule (OSHA)",
+      "cumle": 5
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark_100",
+      "y": [
+       0.25,
+       2
+      ],
+      "xk": 100,
+      "etiket": "100 dB(A): 15 min vs 2 hours",
+      "cumle": 6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "EU, Türkiye, ISO, NIOSH: 3 dB",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "OSHA: 5 dB, 90 dB(A)",
+     "cumle": 4,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "The 5 dB rule protects less",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "The exchange rate shows by how many decibels the level must rise for the allowed time to be cut in half.",
+    {
+     "yazi": "Europe, Türkiye, ISO 1999 and NIOSH, the US occupational health research institute, use a 3 decibel exchange rate.",
+     "ses": "Europe, Türkiye, ISO nineteen ninety nine and NIOSH, the US occupational health research institute, use a three decibel exchange rate."
+    },
+    "This rate is based on the equal energy principle: when sound rises by 3 decibels, its energy doubles.",
+    {
+     "yazi": "On the blue curve, 85 dB(A) allows 8 hours, 88 allows 4 hours, 91 allows 2 hours and 94 allows 1 hour.",
+     "ses": "On the blue curve, eighty five decibels A allows eight hours, eighty eight allows four hours, ninety one allows two hours and ninety four allows one hour."
+    },
+    {
+     "yazi": "OSHA, the US regulatory agency, uses a 5 decibel exchange rate and a permissible limit of 90 dB(A).",
+     "ses": "OSHA, the US regulatory agency, uses a five decibel exchange rate and a permissible limit of ninety decibels A."
+    },
+    {
+     "yazi": "On the dashed line, 90 dB(A) allows 8 hours, 95 allows 4 hours and 100 allows 2 hours.",
+     "ses": "On the dashed line, ninety decibels A allows eight hours, ninety five allows four hours and one hundred allows two hours."
+    },
+    {
+     "yazi": "For example, at 100 dB(A) the 3 decibel rule allows only 15 minutes, while the 5 decibel rule allows 2 hours.",
+     "ses": "For example, at one hundred decibels A the three decibel rule allows only fifteen minutes, while the five decibel rule allows two hours."
+    }
+   ]
+  },
+  {
+   "id": "neden_3db",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Exchange rate",
+   "baslik": "Why *3 dB?*",
+   "maddeler": [
+    {
+     "metin": "5 dB: assumes recovery during breaks",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Evidence supports equal energy",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "NIOSH 1998: 85 dB(A), 3 dB",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "About 8 percent risk at 85 dB(A)",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "NIOSH: EXCESS RISK",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "85 dB(A)",
+      "metin": "About 8 percent",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "90 dB(A)",
+      "metin": "About 25 percent",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The 5 decibel rule assumes that the ear partly recovers during quiet breaks in the working day.",
+    "However, this assumption does not hold in every workplace, and the scientific evidence mostly supports the equal energy principle.",
+    {
+     "yazi": "In its 1998 criteria document, NIOSH adopted a recommended limit of 85 dB(A) and a 3 decibel exchange rate.",
+     "ses": "In its nineteen ninety eight criteria document, NIOSH adopted a recommended limit of eighty five decibels A and a three decibel exchange rate."
+    },
+    {
+     "yazi": "According to NIOSH, even workers exposed to 85 dB(A) over a 40-year working life have an excess risk of hearing loss of about 8 percent.",
+     "ses": "According to NIOSH, even workers exposed to eighty five decibels A over a forty year working life have an excess risk of hearing loss of about eight percent."
+    },
+    {
+     "yazi": "According to the same document, this risk rises to about 25 percent at 90 dB(A).",
+     "ses": "According to the same document, this risk rises to about twenty five percent at ninety decibels A."
+    },
+    "These numbers clearly show that staying below the limit value does not remove the risk."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Comparison",
+   "baslik": "Regulations *side by side*",
+   "sutunlar": [
+    "Source",
+    "8-hour criterion",
+    "Exchange rate",
+    "Peak limit"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "EU and Türkiye",
+      "80, 85, 87 dB(A)",
+      "3 dB",
+      "140 dB(C)"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "NIOSH (recommendation)",
+      "85 dB(A)",
+      "3 dB",
+      "140 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "OSHA (legal)",
+      "85 action, 90 limit",
+      "5 dB",
+      "140 dB"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "This table shows the main regulations side by side.",
+    {
+     "yazi": "Europe and Türkiye use thresholds of 80, 85 and 87 dB(A) and a 3 decibel exchange rate.",
+     "ses": "Europe and Türkiye use thresholds of eighty, eighty five and eighty seven decibels A and a three decibel exchange rate."
+    },
+    {
+     "yazi": "NIOSH recommends 85 dB(A) and 3 decibels; this is a scientific recommendation, not a law.",
+     "ses": "NIOSH recommends eighty five decibels A and three decibels; this is a scientific recommendation, not a law."
+    },
+    {
+     "yazi": "Under OSHA, 85 dB(A) is the action level that starts a hearing conservation program, and 90 dB(A) is the legal limit.",
+     "ses": "Under OSHA, eighty five decibels A is the action level that starts a hearing conservation program, and ninety decibels A is the legal limit."
+    },
+    "For impulse noise, all three sources use a peak value of 140 decibels as the upper limit."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Comparison",
+   "baslik": "How are the values *applied?*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Measure",
+     "metin": "Daily level and peak",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Compare",
+     "metin": "80, 85, 87",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Act",
+     "metin": "By threshold",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Monitor",
+     "metin": "Audiometry and remeasurement",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Let us summarize in a flow how the values are used at work.",
+    "First, noise is measured, and the daily exposure level and peak value are found for each worker.",
+    "The results are compared with the action and limit values.",
+    "Depending on which threshold is exceeded, protectors, signs, training and noise reduction measures are applied.",
+    "Finally, audiometric monitoring is carried out, and measurements are repeated as the work environment changes.",
+    "We will cover measurement methods and dosimetry in detail in the next lesson."
+   ]
+  },
+  {
+   "id": "sinir_alti",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Comparison",
+   "baslik": "Risk *below* the limit",
+   "maddeler": [
+    {
+     "metin": "Noise outside work adds up",
+     "cumle": 0,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Concerts, music players, hobby tools",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Individual susceptibility varies",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Monitoring and training still matter",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "konser",
+      "metin": "concert",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "konser",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Limit values are designed for exposure at work; noise in daily life also adds to the total risk.",
+    "Concerts, personal music players and hobby tools are important sources of noise outside work.",
+    "Some people are more susceptible to noise than others; the same exposure can cause different degrees of loss.",
+    "That is why audiometric monitoring and training are valuable even below the action values.",
+    "If monitoring shows a meaningful threshold change, measures are reviewed even when exposure is below the limits.",
+    "We will cover safe listening advice in the lesson on recreational noise."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "When assessing the limit value, do not trust the protector's packaging value; attenuation in real use is often lower.",
+   "cumleler": [
+    {
+     "yazi": "A clinical tip: when assessing the 87 dB(A) limit value, do not rely on the value printed on the protector's packaging.",
+     "ses": "A clinical tip: when assessing the eighty seven decibels A limit value, do not rely on the value printed on the protector's packaging."
+    },
+    "In real use, the attenuation that protectors give is often lower than the label states.",
+    "If possible, carry out an individual fit test for the worker, or use a realistic correction.",
+    "We will cover protector selection and fit testing in detail in a later lesson."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Action: 80 and 85, limit: 87 dB(A)",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Peak: 135, 137, 140 dB(C)",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "The limit counts the protector",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "The 3 dB rule protects more",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In Türkiye and Europe, the action values are 80 and 85, and the exposure limit value is 87 dB(A).",
+     "ses": "In Türkiye and Europe, the action values are eighty and eighty five, and the exposure limit value is eighty seven decibels A."
+    },
+    {
+     "yazi": "For impulse noise, the peak values are 135, 137 and 140 dB(C).",
+     "ses": "For impulse noise, the peak values are one hundred thirty five, one hundred thirty seven and one hundred forty decibels C."
+    },
+    "The limit value is assessed taking into account the protection given by the hearing protector.",
+    "The 3 decibel rule, based on the equal energy principle, is more protective than the 5 decibel rule of OSHA."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is the daily exposure limit value in Türkiye?",
+   "secenekler": [
+    "80 dB(A)",
+    "85 dB(A)",
+    "87 dB(A)",
+    "90 dB(A)"
+   ],
+   "dogru": 2,
+   "aciklama": "87 dB(A) is assessed _with the protector_ counted.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: under the noise regulation in Türkiye, which is the daily exposure limit value?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is C: 87 dB(A).",
+     "ses": "The correct answer is C: eighty seven decibels A."
+    },
+    {
+     "yazi": "80 and 85 dB(A) are action values; 87 dB(A) is the limit that must not be exceeded even with protectors worn.",
+     "ses": "Eighty and eighty five decibels A are action values; eighty seven decibels A is the limit that must not be exceeded even with protectors worn."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Noise Measurement and *Dosimetry*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will learn how noise is measured, about frequency weighting and about personal dosimetry.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R204_Five_Minutes_Every_Morning_EN",
+ "kapak": {
+  "ust": "QUICK FACT #204",
+  "baslik": "*Five minutes* every morning",
+  "alt": "The daily biological check of the audiometer",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How is an audiometer checked each morning before the first patient? #shorts",
+  "aciklama": "The biological check takes about five minutes at the start of each test day: cables and earphones are checked first by eye, then by listening. In common practice, a 10 dB or greater change in a normal-hearing tester's own thresholds calls for an acoustic calibration check.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiometry",
+   "calibration"
+  ],
+  "etiketler": [
+   "biological check",
+   "listening check",
+   "crosstalk",
+   "audiometer",
+   "calibration",
+   "clinical quality",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How is an audiometer checked each morning before the first patient?",
+  "bilgiler": [
+   "The check takes about five minutes at the start of each test day.",
+   "Cables, earphones and the bone vibrator are checked by eye and ear.",
+   "A 10 dB or greater change in your own thresholds needs a measured check."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "calibration"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #204",
+   "metin": "How is an audiometer *checked daily?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How is an audiometer checked each morning before the first patient?"
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "zincir",
+   "baslik": "The daily *listening* check",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "By eye",
+     "tr": "cables, earphones",
+     "cumle": 1
+    },
+    {
+     "ad": "By ear",
+     "tr": "tones, crackle",
+     "cumle": 2
+    },
+    {
+     "ad": "Self test",
+     "tr": "vs baseline",
+     "cumle": 3
+    }
+   ],
+   "alt": "If it persists, _the device is not used_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The biological check takes about five minutes before the first patient.",
+    "First, cables, plugs and earphone cushions are inspected by eye.",
+    "Then each tone is heard as clean and from the right channel.",
+    "A normal-hearing tester measures their own thresholds against a stored baseline.",
+    "Commonly, a change of ten decibels or more needs an acoustic check."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D114",
+ "kaynak_baslik": "The Daily Biological Listening Check"
+}

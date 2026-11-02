@@ -1,0 +1,927 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D229_Ototoxic_Drugs_EN",
+ "kapak": {
+  "ust": "LESSON 229",
+  "baslik": "Ototoxic<br>*drugs*",
+  "alt": "Cisplatin, aminoglycosides and others",
+  "cizim": "koklea_kesit",
+  "vurgula": [
+   "dis_tuy_hucreleri",
+   "stria_vaskularis"
+  ]
+ },
+ "youtube": {
+  "baslik": "Ototoxic Drugs: Aminoglycosides, Cisplatin, Others | Lesson 229 | AIHEAR Audiology Academy",
+  "aciklama": "Which drugs can harm the ear, and how? In this lesson we learn about permanent hearing loss from cisplatin and aminoglycosides, the effect of aminoglycosides on the balance organ, hypersensitivity with MT-RNR1 variants, and the mostly reversible effects of loop diuretics and salicylates.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Campbell, Pharmacology and Ototoxicity for Audiologists; American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring; McDermott et al. (2022), CPIC Guideline for the Use of Aminoglycosides Based on MT-RNR1 Genotype, Clinical Pharmacology and Therapeutics; Brock et al. (2018), Sodium thiosulfate for protection from cisplatin-induced hearing loss, New England Journal of Medicine.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ototoxicity",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "ototoxicity",
+   "ototoxic drugs",
+   "cisplatin",
+   "aminoglycosides",
+   "MT-RNR1",
+   "sodium thiosulfate",
+   "loop diuretics",
+   "salicylates",
+   "vestibulotoxicity",
+   "ototoxicity monitoring",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 229",
+   "baslik": "Ototoxic *drugs*",
+   "alt": "Cisplatin, aminoglycosides and others",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the main drugs that can harm the ear: cisplatin, aminoglycosides and drugs with reversible effects.",
+    "We will cover which structures are affected, the risk factors and the role of the audiologist in this process."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Ototoxicity",
+   "baslik": "What is *ototoxicity?*",
+   "maddeler": [
+    {
+     "metin": "Drug-induced inner ear damage",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Cochlea: _cochleotoxicity_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Balance organ: _vestibulotoxicity_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Usually bilateral, starts high",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Permanent or reversible",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OTOTOXICITY",
+    "metin": "Drug-induced *inner ear* damage: cochlea, balance organ or both",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Ototoxicity is damage to the inner ear caused by a drug or chemical.",
+    "If the damage affects the cochlea, it is called cochleotoxicity; the result is hearing loss and tinnitus.",
+    "If it affects the balance organ, it is called vestibulotoxicity; the result is imbalance and blurred vision.",
+    "Because the drug reaches both ears through the blood, the loss is usually bilateral and symmetric, typically starting at high frequencies.",
+    "The first complaint is often tinnitus; the loss may go unnoticed until it reaches the speech frequencies.",
+    "The effect of some drugs is permanent; that of others largely reverses when the drug is stopped.",
+    "Most of these drugs are lifesaving; every decision about treatment belongs to the physician and the treatment team."
+   ]
+  },
+  {
+   "id": "taban",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Ototoxicity",
+   "baslik": "Why *high* frequencies first?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 8000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: high frequencies",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "apex: low frequencies",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Basal cells more vulnerable",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Damage spreads from base to apex",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "First sign: above 8000 Hz",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Let us look at why ototoxic damage appears first at high frequencies.",
+    "The base of the cochlea responds to high frequencies, and the apex to low frequencies.",
+    "The outer hair cells at the base are more vulnerable to the oxidative stress these drugs create.",
+    "So the damage usually starts at the base and moves over time toward the apex, that is, toward lower frequencies.",
+    "The first changes are often seen above the standard audiogram, at extended high frequencies beyond 8000 Hz.",
+    "That is why monitoring pays special attention to high frequencies; we will see this in detail in the next lesson."
+   ]
+  },
+  {
+   "id": "sisplatin",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Cisplatin",
+   "baslik": "Cisplatin",
+   "maddeler": [
+    {
+     "metin": "Platinum-based chemotherapy drug",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "In child and adult cancers",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Bilateral, starts high, _permanent_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Can progress after treatment ends",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CISPLATIN",
+    "metin": "Its effect *accumulates* with dose and can continue after treatment",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Cisplatin is a platinum-based chemotherapy drug used to treat many solid tumors.",
+    "Examples include testicular, head and neck, lung and ovarian cancers and some childhood tumors.",
+    "In children, it is often used to treat hepatoblastoma, neuroblastoma, osteosarcoma and medulloblastoma.",
+    "Cisplatin-induced hearing loss is usually bilateral, starts at high frequencies and is permanent.",
+    "Its frequency varies with the study and the criteria used; in children it has been reported in about half or more of those treated.",
+    "Cisplatin can remain in cochlear tissue for months or even years, so the loss can progress after treatment ends.",
+    "Carboplatin, a similar drug, is usually less ototoxic, but at very high doses it can also cause hearing loss."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Cisplatin",
+   "baslik": "*Where* does cisplatin cause damage?",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "outer hair cells",
+     "cumle": 1
+    },
+    {
+     "parca": "stria_vaskularis",
+     "metin": "stria vascularis",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "spiral ganglion",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Rise in free radicals",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Outer hair cells first",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "OAEs may drop early",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Cisplatin leads to a rise in reactive oxygen species, that is, free radicals, inside the cochlea.",
+    "The cells most affected are the outer hair cells, especially in the basal turn.",
+    "The stria vascularis is also affected, and it is thought to play a role in the drug's entry into the cochlea and its retention.",
+    "As damage progresses, inner hair cells and spiral ganglion neurons can also be affected.",
+    "Because outer hair cells do not regenerate in humans, this loss is permanent.",
+    "Outer hair cell damage can also show up early as reduced otoacoustic emissions."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Cisplatin",
+   "baslik": "*Risk factors* with cisplatin",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Total dose",
+     "cumle": 0,
+     "metin": "Rising cumulative dose"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Young age",
+     "cumle": 1,
+     "metin": "Especially under five"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cranial radiation",
+     "cumle": 2,
+     "metin": "Field including the cochlea"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kidney function",
+     "cumle": 3,
+     "metin": "Slower drug clearance"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Other drugs",
+     "cumle": 4,
+     "metin": "Other ototoxic drugs"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetic susceptibility",
+     "cumle": 5,
+     "metin": "Some gene variants"
+    }
+   ],
+   "cumleler": [
+    "The most important risk factor is the total, or cumulative, dose received over the course of treatment.",
+    "Young age, especially under five, is linked to higher risk; this age is also the most critical period for language development.",
+    "Radiation therapy to the head with the cochlea in the radiation field increases the effect of cisplatin.",
+    "If kidney function is reduced, the drug is cleared more slowly and acts on the inner ear for longer.",
+    "Using other ototoxic drugs at the same time, such as aminoglycosides or loop diuretics, increases the risk.",
+    "Some genetic variants have also been shown to increase susceptibility, but this is not yet fully understood."
+   ]
+  },
+  {
+   "id": "koruma",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Cisplatin",
+   "baslik": "Can the ear be *protected?*",
+   "maddeler": [
+    {
+     "metin": "Sodium thiosulfate: approved for children",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Limited scope of use",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Timing matters for tumor effect",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "The oncology team decides",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "THE AUDIOLOGIST'S ROLE",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "odyogram",
+      "baslik": "Monitoring",
+      "cumle": 4,
+      "metin": "Baseline and serial tests"
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Reporting",
+      "cumle": 4,
+      "metin": "Fast team communication"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In 2022, sodium thiosulfate was approved in the United States to reduce the risk of hearing loss in some children receiving cisplatin.",
+     "ses": "In twenty twenty two, sodium thiosulfate was approved in the United States to reduce the risk of hearing loss in some children receiving cisplatin."
+    },
+    "The approval covers children one month of age and older with localized, non-metastatic solid tumors.",
+    "The drug is given a set time after cisplatin; the aim is to protect the ear without reducing the effect against the tumor.",
+    "In studies, hearing loss became less common but was not fully prevented; use in adults is still being researched.",
+    "The oncology team decides which patients receive it; the audiologist's task is to monitor hearing regularly and reliably."
+   ]
+  },
+  {
+   "id": "aminoglikozid",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Aminoglycosides",
+   "baslik": "Aminoglycoside *antibiotics*",
+   "maddeler": [
+    {
+     "metin": "For severe bacterial infections",
+     "cumle": 0,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Gentamicin, tobramycin, amikacin...",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Some mainly affect the _balance organ_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Some mainly affect the _cochlea_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Effects can begin after stopping",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "ampulla",
+      "cumle": 2
+     },
+     {
+      "parca": "koklea",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Aminoglycosides are antibiotics used for severe bacterial infections, newborn sepsis and cystic fibrosis.",
+    "Gentamicin, tobramycin, amikacin, streptomycin, neomycin and kanamycin belong to this group.",
+    "Gentamicin and streptomycin tend to damage mainly the balance organ.",
+    "Amikacin, neomycin and kanamycin tend to damage mainly the cochlea, although any of these drugs can affect both structures.",
+    "Risk increases with treatment length, total dose, kidney function, previous use and combined use with loop diuretics.",
+    "An important feature: damage can begin or progress days or weeks after the drug is stopped.",
+    "So monitoring does not end when treatment ends."
+   ]
+  },
+  {
+   "id": "giris",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Aminoglycosides",
+   "baslik": "*How* does the drug enter the hair cell?",
+   "cizim": "stereosil_demeti",
+   "ayar": {
+    "iyon": true,
+    "egilme": 0.6,
+    "egilme_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "iyon_kanali",
+     "metin": "transduction channel: the entry gate",
+     "cumle": 1
+    },
+    {
+     "parca": "stereosil",
+     "metin": "stereocilia",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "iyon_kanali",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Entry through the channel",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Free radicals and mitochondria",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Result: hair cell death",
+     "cumle": 3,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Let us look at how aminoglycosides enter the hair cell, using a bundle of stereocilia.",
+    "At the tips of the stereocilia are mechanoelectrical transduction channels that open with sound vibration.",
+    "Aminoglycoside molecules from the endolymph enter the cell largely through these channels.",
+    "Inside the cell, a rise in free radicals and damage to the mitochondria lead to the death of the hair cell.",
+    "The role of mitochondria in this process also explains the genetic susceptibility we will see shortly."
+   ]
+  },
+  {
+   "id": "vestibulo",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Aminoglycosides",
+   "baslik": "Silent *loss of balance*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "ampulla",
+     "metin": "ampulla: crista",
+     "cumle": 0
+    },
+    {
+     "parca": "makula",
+     "metin": "macula",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ampulla",
+     "cumle": 0
+    },
+    {
+     "parca": "makula",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bilateral: may cause no attacks",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Imbalance in the dark",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Oscillopsia: the image jumps",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "In vestibulotoxicity, hair cells in the ampullae and maculae are damaged.",
+    "Because the damage is similar on both sides, there is often no clear attack of vertigo.",
+    "The person mainly complains of imbalance that gets worse in the dark and on uneven ground.",
+    "A typical complaint is that the image jumps or blurs during head movement; this is called oscillopsia.",
+    "In bedridden patients, this picture may go unnoticed until discharge.",
+    "Assessment uses tests such as the video head impulse test and caloric testing; we will cover monitoring in a separate lesson."
+   ]
+  },
+  {
+   "id": "mtrnr1",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Aminoglycosides",
+   "baslik": "Genetic *hypersensitivity*",
+   "maddeler": [
+    {
+     "metin": "Mitochondrial _MT-RNR1_ gene",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Example: the _m.1555A&gt;G_ variant",
+     "cumle": 1,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Even one dose can cause severe loss",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Passed on by the mother",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Guideline: avoid in carriers",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FAMILY HISTORY",
+    "metin": "Hearing loss *after antibiotics* on the mother's side?",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "In some people, hypersensitivity to aminoglycosides comes from variants in the mitochondrial MT-RNR1 gene.",
+     "ses": "In some people, hypersensitivity to aminoglycosides comes from variants in the mitochondrial M T R N R one gene."
+    },
+    {
+     "yazi": "The best-known example is the variant at position 1555 of this gene, which we also saw in the genetics lesson.",
+     "ses": "The best-known example is the variant at position fifteen fifty five of this gene, which we also saw in the genetics lesson."
+    },
+    "This variant makes the mitochondrial ribosome resemble a bacterial ribosome, so the drug also binds in human cells.",
+    "As a result, usual doses, even a single dose, can cause severe and permanent hearing loss.",
+    "Through mitochondrial inheritance, the variant passes from mother to children; some populations report it in about one in 500 people.",
+    "An international pharmacogenetic guideline recommends avoiding these drugs in carriers.",
+    "The exception is a very severe infection with no safe alternative; this decision belongs to the physician.",
+    "In some countries, genetic tests that detect this variant rapidly are being tried in newborn intensive care."
+   ]
+  },
+  {
+   "id": "donuslu",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Other drugs",
+   "baslik": "Mostly *reversible* effects",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Loop diuretics",
+     "cumle": 0,
+     "metin": "High dose, rapid intravenous"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Salicylates",
+     "cumle": 2,
+     "metin": "High-dose aspirin"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Quinine",
+     "cumle": 4,
+     "metin": "Antimalarial drug"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Some macrolides",
+     "cumle": 5,
+     "metin": "High-dose intravenous"
+    }
+   ],
+   "cumleler": [
+    "Loop diuretics, water pills such as furosemide, can temporarily disrupt the function of the stria vascularis.",
+    "Risk rises with high doses, rapid intravenous delivery and kidney failure; with aminoglycosides, they can greatly increase damage.",
+    "Salicylates, that is, high-dose aspirin, can cause tinnitus and a flat loss, usually mild to moderate.",
+    "This effect usually resolves within a few days after the drug is stopped.",
+    "Quinine, used to treat malaria, can also cause tinnitus and hearing loss; the effect is usually reversible.",
+    "Some macrolide antibiotics, such as erythromycin, can rarely cause temporary hearing loss at high intravenous doses.",
+    "Calling these effects reversible does not mean they are unimportant; complaints are always reported to the physician."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Other drugs",
+   "baslik": "Example: an *ototoxic* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ range",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       25,
+       40,
+       55,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       30,
+       45,
+       55,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "In this example, we see the audiogram of a child after cisplatin treatment.",
+    "In both ears, thresholds are normal up to 2000 Hz and get progressively worse from 3000 Hz toward the high frequencies.",
+    "The loss is bilateral and symmetric, a typical picture showing that the damage began at the base of the cochlea.",
+    "Even this loss makes high-pitched consonants such as s, sh and f harder to hear and can affect a child's language and school success.",
+    "Unlike noise-induced loss, there is no recovery at 8000 Hz here.",
+    "The values are examples; grading and monitoring the loss are the topics of the next two lessons."
+   ]
+  },
+  {
+   "id": "ozet_tablo",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Other drugs",
+   "baslik": "Drug groups: *summary*",
+   "sutunlar": [
+    "Drug group",
+    "Main target",
+    "Permanence"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Cisplatin",
+      "Outer hair cells, stria",
+      "Usually permanent"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Aminoglycosides",
+      "Hair cells, vestibule",
+      "Usually permanent"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Loop diuretics",
+      "Stria vascularis",
+      "Mostly reversible"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Salicylates",
+      "Outer hair cell function",
+      "Reversible"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Quinine",
+      "Cochlea",
+      "Mostly reversible"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Let us summarize the drug groups in the table: cisplatin affects outer hair cells and the stria, and the loss is usually permanent.",
+    "Aminoglycosides affect hair cells in the cochlea and the balance organ; the loss is usually permanent.",
+    "Loop diuretics act mainly on the stria vascularis, and their effect is mostly reversible.",
+    "Salicylates temporarily disrupt outer hair cell function; the effect resolves when the drug is stopped.",
+    "The effect of quinine is also mostly reversible.",
+    "This list is not complete; other drugs and some chemicals can also be ototoxic, so a medication history is always taken."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "ikonlar",
+   "bolum_no": "PART 5",
+   "bolum": "The audiologist's role",
+   "baslik": "The audiologist's *role*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "History",
+     "cumle": 0,
+     "metin": "Medication and family history"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Baseline test",
+     "cumle": 1,
+     "metin": "Before treatment starts"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Serial monitoring",
+     "cumle": 2,
+     "metin": "During and after treatment"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Team communication",
+     "cumle": 3,
+     "metin": "Report changes quickly"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Rehabilitation",
+     "cumle": 5,
+     "metin": "Devices and counseling"
+    }
+   ],
+   "cumleler": [
+    "The audiologist's first task is to take a detailed medication and family history.",
+    "A baseline hearing assessment is done before ototoxic treatment starts.",
+    "Hearing is monitored with serial tests during and after treatment.",
+    "If a significant change is found, it is reported to the treatment team quickly and in clear language.",
+    "The decision to change the drug, adjust the dose or continue belongs only to the physician; the audiologist makes no recommendation on this.",
+    "If loss develops, rehabilitation is planned with hearing aids and communication counseling."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Advise patients on ototoxic treatment to avoid loud sound during treatment and in the months after. Noise and these drugs can add to each other's inner ear damage.",
+   "cumleler": [
+    "A tip from the field: advise patients on ototoxic treatment to avoid loud sound during treatment and in the months after.",
+    "Animal studies have shown that noise and cisplatin or aminoglycosides can add to each other's damage in the inner ear.",
+    "Give this information clearly, especially to young people who work in noisy jobs or listen to loud music.",
+    "This advice does not interfere with drug treatment; it is purely a safe lifestyle recommendation that protects the ear."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Damage starts at base, high frequencies",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cisplatin: cumulative, permanent loss",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Aminoglycosides: cochlea, balance, genetic risk",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Diuretics and salicylates: mostly reversible",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Ototoxic damage is usually bilateral and starts at the base of the cochlea, that is, at high frequencies.",
+    "Cisplatin causes permanent loss that builds with dose; young age, cranial radiation and kidney function increase the risk.",
+    "Aminoglycosides can damage the cochlea and the balance organ; in carriers of the mitochondrial variant, even one dose is dangerous.",
+    "Loop diuretics, salicylates and quinine mostly have reversible effects; treatment decisions always belong to the physician."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "How is the variant causing aminoglycoside susceptibility inherited?",
+   "secenekler": [
+    "Autosomal dominant",
+    "Autosomal recessive",
+    "X-linked",
+    "Maternal, mitochondrial"
+   ],
+   "dogru": 3,
+   "aciklama": "MT-RNR1 is a mitochondrial gene; the variant passes _from the mother_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: how is the genetic variant that predisposes to severe aminoglycoside-induced hearing loss inherited?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is D: from the mother, through mitochondrial inheritance.",
+    "The variant is in a mitochondrial gene, so a history of hearing loss after these drugs in maternal relatives is especially important."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ototoxicity Monitoring Protocol and *ASHA Criteria*",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "In the next lesson, we will look at the monitoring plan, the ASHA criteria and extended high-frequency audiometry.",
+     "ses": "In the next lesson, we will look at the monitoring plan, the Asha criteria and extended high-frequency audiometry."
+    },
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

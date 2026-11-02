@@ -1,0 +1,150 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D088_Air_Conduction_Masking_EN",
+  "kapak": {
+    "ust": "LESSON 88",
+    "baslik": "Air conduction<br>*masking*",
+    "alt": "When is it needed? Deciding with examples",
+    "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [
+      {"kulak": "sag", "tip": "hava", "degerler": [10, 10, 10, 15, 15, 20]},
+      {"kulak": "sol", "tip": "hava", "degerler": [50, 55, 60, 65, 70, 70]}]}
+  },
+  "youtube": {
+    "baslik": "When Is Air-Conduction Masking Needed? | Lesson 88 | AIHEAR Audiology Academy",
+    "aciklama": "In air conduction testing, masking is needed when the difference between the air conduction threshold of the test ear and the bone conduction threshold of the non-test ear reaches interaural attenuation. In this lesson, we use sample audiograms to work through the test ear (TE) and non-test ear (NTE), the masking rule and the difference between supra-aural and insert earphones.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "masking", "audiometry"],
+    "etiketler": ["clinical masking", "air conduction masking", "masking rule", "test ear", "non-test ear", "interaural attenuation", "insert earphones", "supra-aural earphones", "pure tone audiometry", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 88", "baslik": "When Is Air-Conduction *Masking* Needed?", "alt": "Test ear, non-test ear and the masking rule",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we learn how we decide when masking is needed in air conduction testing.",
+       "We will apply the rule step by step to sample audiograms."]},
+
+    {"id": "kavramlar", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Key terms", "baslik": "Test ear and *non-test ear*", "maddeler": [{"metin": "_Test ear_: TE", "cumle": 0, "ikon": "kulaklik"}, {"metin": "_Non-test ear_: NTE", "cumle": 1, "ikon": "kulak"}, {"metin": "Tone to TE, noise to _NTE_", "cumle": 2, "ikon": "gurultu"}, {"metin": "Decided _for each frequency_", "cumle": 4, "ikon": "odyogram"}], "yan": {"tur": "cizim", "cizim": "maskeleme", "ayar": {"ia_db": 40}, "cumle": 0, "vurgula": [{"parca": "test_kulagi", "cumle": 0}, {"parca": "karsi_kulak", "cumle": 1}, {"parca": "maskeleme_gurultusu", "cumle": 2}], "etiketler": [{"parca": "test_kulagi", "metin": "TE: test ear", "cumle": 0}, {"parca": "karsi_kulak", "metin": "NTE: non-test ear", "cumle": 1}]},
+     "cumleler": [
+       "First, let us define two key terms: the ear whose threshold we are measuring is called the test ear, or TE.",
+       {"yazi": "The other ear is called the non-test ear, or NTE.", "ses": "The other ear is called the non-test ear, or N.T.E."},
+       {"yazi": "In masking, the tone goes to the TE, and the masking noise goes to the NTE.", "ses": "In masking, the tone goes to the T.E, and the masking noise goes to the N.T.E."},
+       {"yazi": "When testing the right ear, the right ear is the TE and the left ear is the NTE; for the left ear, the roles switch.", "ses": "When testing the right ear, the right ear is the T.E and the left ear is the N.T.E; for the left ear, the roles switch."},
+       "Whether masking is needed is decided separately for each frequency.",
+       "Masking may be needed at one frequency but not at the neighboring one."]},
+
+    {"id": "kural", "tur": "akis", "bolum_no": "PART 1", "bolum": "Key terms", "baslik": "The masking *rule*", "adimlar": [{"ikon": "kulaklik", "baslik": "TE air conduction", "metin": "Start with this threshold", "cumle": 0}, {"ikon": "kemik_vibratoru", "baslik": "NTE bone conduction", "metin": "Subtract this threshold", "cumle": 1}, {"ikon": "soru", "baslik": "Compare with IA", "metin": "If equal or greater", "cumle": 2}, {"ikon": "gurultu", "baslik": "Mask", "metin": "Retest TE air conduction", "cumle": 3}],
+     "cumleler": [
+       "The masking rule for air conduction starts with the air conduction threshold of the test ear.",
+       {"yazi": "From this threshold, we subtract the bone conduction threshold of the NTE.", "ses": "From this threshold, we subtract the bone conduction threshold of the N.T.E."},
+       "If the difference is equal to or greater than the interaural attenuation, or IA, cross-hearing is possible.",
+       {"yazi": "In that case, the TE air conduction threshold is measured again with the NTE masked.", "ses": "In that case, the T.E air conduction threshold is measured again with the N.T.E masked."},
+       {"yazi": "Why the bone conduction of the NTE? Because the crossed sound reaches the opposite cochlea by bone conduction and stimulates it directly.", "ses": "Why the bone conduction of the N.T.E? Because the crossed sound reaches the opposite cochlea by bone conduction and stimulates it directly."},
+       {"yazi": "So even if the NTE has a conductive loss, its bone conduction threshold decides whether it picks up the crossed sound.", "ses": "So even if the N.T.E has a conductive loss, its bone conduction threshold decides whether it picks up the crossed sound."}]},
+
+    {"id": "yol", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Key terms", "baslik": "Sound crosses by *bone conduction*", "cizim": "maskeleme", "ayar": {"ia_db": 40}, "vurgula": [{"parca": "test_kulagi", "cumle": 0}, {"parca": "karsi_kulak", "cumle": 2}, {"parca": "maskeleme_gurultusu", "cumle": 4}], "etiketler": [{"parca": "test_kulagi", "metin": "TE: 70 dB tone", "cumle": 0}, {"parca": "kulaklar_arasi_zayiflama", "metin": "IA: 40 dB", "cumle": 1}, {"parca": "karsi_kulak", "metin": "NTE cochlea: about 30 dB", "cumle": 2}, {"parca": "maskeleme_gurultusu", "metin": "Noise to the NTE", "cumle": 4}], "notlar": [{"metin": "A conductive block does not stop this path", "cumle": 3, "ikon": "kulak_tikali"}, {"metin": "Noise keeps the NTE cochlea busy", "cumle": 4, "ikon": "gurultu"}],
+     "cumleler": [
+       {"yazi": "In the diagram, imagine we deliver a seventy decibel tone to the TE.", "ses": "In the diagram, imagine we deliver a seventy decibel tone to the T.E."},
+       "As the sound crosses the skull, it is weakened by about forty decibels in this example.",
+       {"yazi": "About thirty decibels reach the NTE cochlea; if the NTE bone conduction threshold is thirty or better, the tone is heard there.", "ses": "About thirty decibels reach the N.T.E cochlea; if the N.T.E bone conduction threshold is thirty or better, the tone is heard there."},
+       {"yazi": "A conductive block in the outer or middle ear of the NTE does not stop this path, because sound reaches the cochlea through the skull.", "ses": "A conductive block in the outer or middle ear of the N.T.E does not stop this path, because sound reaches the cochlea through the skull."},
+       {"yazi": "In this case, we deliver noise to the NTE to keep its cochlea busy and prevent cross-hearing.", "ses": "In this case, we deliver noise to the N.T.E to keep its cochlea busy and prevent cross-hearing."}]},
+
+    {"id": "ia", "tur": "ikonlar", "bolum_no": "PART 1", "bolum": "Key terms", "baslik": "Which IA *value?*", "ogeler": [{"ikon": "kulaklik", "baslik": "Supra-aural", "metin": "IA _40 dB_; conservative value", "cumle": 1}, {"ikon": "insert_kulaklik", "baslik": "Insert", "metin": "IA _about 55 dB_; frequency dependent", "cumle": 2}, {"ikon": "kemik_vibratoru", "baslik": "Bone vibrator", "metin": "IA _0 dB_; a separate rule", "cumle": 4}],
+     "cumleler": [
+       "The IA value used in the rule is chosen according to the earphone used.",
+       "For supra-aural earphones, the conservative value is forty decibels; if the difference is forty or more, we mask.",
+       "IA is higher with insert earphones; guidelines usually use fifty five decibels as the conservative value.",
+       "In this lesson, we will use fifty five decibels for inserts; some protocols use separate values for each frequency.",
+       "Because IA for bone conduction is taken as zero, its rule is different and is the topic of the next lesson."]},
+
+    {"id": "ornek1", "tur": "odyogram", "bolum_no": "PART 2", "bolum": "Sample audiograms", "baslik": "Example 1: *one-sided* loss", "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Right_ (NTE): air conduction", "cumle": 0}, {"isaret": "&lt;", "renk": "sag", "metin": "_Right_ (NTE): bone conduction", "cumle": 0}, {"isaret": "X", "renk": "sol", "metin": "_Left_ (TE): unmasked air conduction", "cumle": 1}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [10, 10, 10, 15, 15, 20], "cumle": 0}, {"kulak": "sag", "tip": "kemik", "degerler": [5, 10, 10, 10, 15], "cumle": 0}, {"kulak": "sol", "tip": "hava", "degerler": [50, 55, 60, 65, 70, 70], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}, "aralik": {"konum": [2, 10, 60], "etiket": "50 dB", "cumle": 3}},
+     "cumleler": [
+       "In the first example, the right ear is normal; its air and bone conduction thresholds are in the normal range.",
+       "The unmasked air conduction thresholds of the left ear are between fifty and seventy decibels.",
+       {"yazi": "When testing the left ear, the left ear is the TE and the right ear is the NTE.", "ses": "When testing the left ear, the left ear is the T.E and the right ear is the N.T.E."},
+       "At one thousand hertz, left air conduction is sixty and right bone conduction is ten decibels; the difference is fifty.",
+       "Fifty is greater than forty, so with supra-aural earphones, masking is needed at this frequency.",
+       "When we do the same calculation at the other frequencies, the difference is above forty at every one.",
+       "So with supra-aural earphones, all left air conduction thresholds must be measured again with the right ear masked."]},
+
+    {"id": "ornek1_insert", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Sample audiograms", "baslik": "The same example, with *inserts*", "maddeler": [{"metin": "250 and 500 Hz: difference _45 dB_", "cumle": 1, "ikon": "grafik"}, {"metin": "1000 Hz: difference _50 dB_", "cumle": 2, "ikon": "grafik"}, {"metin": "2000 and 4000 Hz: difference _55 dB_", "cumle": 3, "ikon": "uyari"}, {"metin": "8000 Hz: NTE _air conduction_, 50 dB", "cumle": 4, "ikon": "kulak"}], "yan": {"tur": "kart", "ust": "RESULT", "metin": "With inserts, masking only at *2000 and 4000 Hz*", "cumle": 5},
+     "cumleler": [
+       "Now imagine testing the same patient with insert earphones and using an IA value of fifty five decibels.",
+       "At two hundred fifty and five hundred hertz, the difference is forty five decibels, which is below fifty five.",
+       "At one thousand hertz, the difference is fifty decibels, which is also below fifty five.",
+       "At two thousand and four thousand hertz, the difference is fifty five decibels; it reaches the limit, so masking is needed.",
+       {"yazi": "At eight thousand hertz, bone conduction is not measured, so NTE air conduction is used; the difference is fifty, so no masking.", "ses": "At eight thousand hertz, bone conduction is not measured, so N.T.E air conduction is used; the difference is fifty, so no masking."},
+       "As you can see, insert earphones clearly reduce the number of frequencies that need masking."]},
+
+    {"id": "ornek2", "tur": "odyogram", "bolum_no": "PART 2", "bolum": "Sample audiograms", "baslik": "Example 2: a *hidden* trap", "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Right_ (TE): air conduction", "cumle": 0}, {"isaret": "X", "renk": "sol", "metin": "_Left_ (NTE): air conduction", "cumle": 1}, {"isaret": "&gt;", "renk": "sol", "metin": "_Left_ (NTE): bone conduction", "cumle": 2}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [65, 70, 70, 75, 75, 80], "cumle": 0}, {"kulak": "sol", "tip": "hava", "degerler": [35, 35, 35, 40, 40, 45], "cumle": 1}, {"kulak": "sol", "tip": "kemik", "degerler": [5, 5, 10, 10, 15], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}, "aralik": {"konum": [2, 10, 70], "etiket": "60 dB", "cumle": 4}},
+     "cumleler": [
+       "In the second example, the right ear has a sensorineural loss of around seventy decibels, and the right ear is the TE.",
+       {"yazi": "The air conduction thresholds of the left ear, the NTE, are between thirty five and forty five decibels.", "ses": "The air conduction thresholds of the left ear, the N.T.E, are between thirty five and forty five decibels."},
+       "But left bone conduction is normal, so the left ear has a conductive loss.",
+       "Comparing the air conduction thresholds of the two ears at one thousand hertz, the difference is only thirty five; masking seems unneeded.",
+       {"yazi": "But by the rule, the correct comparison is with NTE bone conduction: seventy minus ten, which is sixty decibels.", "ses": "But by the rule, the correct comparison is with N.T.E bone conduction: seventy minus ten, which is sixty decibels."},
+       "Sixty is well above forty, so the air conduction thresholds of the right ear must be measured with masking.",
+       "The crossed sound bypasses the conductive block in the left ear and reaches the left cochlea directly.",
+       "This example clearly shows why the comparison is made with bone conduction, not air conduction."]},
+
+    {"id": "akis", "tur": "akis", "bolum_no": "PART 3", "bolum": "Clinical workflow", "baslik": "The *decision flow* in practice", "adimlar": [{"ikon": "kulaklik", "baslik": "Air conduction", "metin": "Thresholds of both ears", "cumle": 0}, {"ikon": "soru", "baslik": "Provisional decision", "metin": "Based on air conduction difference", "cumle": 1}, {"ikon": "kemik_vibratoru", "baslik": "Bone conduction", "metin": "The rule is checked again", "cumle": 2}, {"ikon": "gurultu", "baslik": "New masking", "metin": "More frequencies may need it", "cumle": 3}],
+     "cumleler": [
+       "In the clinic, the air conduction thresholds of both ears are usually measured first, followed by bone conduction.",
+       "So at first, a provisional decision is made from the difference between the air conduction thresholds of the two ears.",
+       {"yazi": "After bone conduction is measured, the rule is checked again using the NTE bone conduction threshold.", "ses": "After bone conduction is measured, the rule is checked again using the N.T.E bone conduction threshold."},
+       "This check may reveal new frequencies that need masking, as in the second example.",
+       "Because unmasked bone conduction reflects the better of the two cochleae, using this value in the comparison is a conservative approach.",
+       "Some guidelines also use the air conduction difference between the ears as a separate rule when bone conduction is not known."]},
+
+    {"id": "ornek3", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Clinical workflow", "baslik": "Example 3: *no masking* needed", "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Right_: air conduction", "cumle": 0}, {"isaret": "X", "renk": "sol", "metin": "_Left_: air conduction", "cumle": 0}, {"isaret": "&lt;", "renk": "sag", "metin": "_Bone conduction_: matches air conduction", "cumle": 1}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [40, 45, 50, 55, 60, 65], "cumle": 0}, {"kulak": "sol", "tip": "hava", "degerler": [45, 45, 55, 55, 65, 65], "cumle": 0}, {"kulak": "sag", "tip": "kemik", "degerler": [35, 40, 45, 50, 55], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "In the third example, both ears have a sensorineural loss of similar degree.",
+       "The right and left air conduction thresholds are very close, and bone conduction thresholds match air conduction.",
+       {"yazi": "At no frequency does the difference between TE air conduction and NTE bone conduction exceed fifteen decibels.", "ses": "At no frequency does the difference between T.E air conduction and N.T.E bone conduction exceed fifteen decibels."},
+       "This difference is far below forty, so no masking is needed for air conduction.",
+       "In symmetrical losses with no air-bone gap, the need for masking is usually small."]},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical note", "metin": "If the opposite ear has a conductive loss, the air conduction difference can mislead. After measuring bone conduction, always recheck the masking decision.",
+     "cumleler": [
+       "Let us recall a common mistake.",
+       "If the opposite ear has a conductive loss, the air conduction thresholds of the two ears may look close to each other.",
+       "In that case, deciding that masking is not needed by looking only at the air conduction difference is misleading.",
+       "After measuring bone conduction thresholds, recheck the decision at every frequency.",
+       "This quick check lets you catch a faulty audiogram before it goes into the report."]},
+
+    {"id": "karar", "tur": "tablo", "bolum_no": "PART 4", "bolum": "Decision and recording", "baslik": "*Decision table* for 1000 Hz", "sutunlar": ["Example", "TE air", "NTE bone", "Decision"], "satirlar": [{"hucreler": ["1, supra-aural", "60", "10", "Mask"], "cumle": 0}, {"hucreler": ["1, insert", "60", "10", "Not needed"], "cumle": 1}, {"hucreler": ["2, supra-aural", "70", "10", "Mask"], "cumle": 2, "vurgu": true}, {"hucreler": ["3, supra-aural", "55", "45", "Not needed"], "cumle": 3}],
+     "cumleler": [
+       "Let us tabulate the decisions at one thousand hertz: in the first example, with supra-aural earphones, the difference is fifty, so we mask.",
+       "In the same example with insert earphones, the difference is still fifty, but it is below fifty five, so no masking is needed here.",
+       "In the second example, the difference is sixty decibels; even though the air conduction thresholds look close, masking is essential.",
+       "In the third example, the difference is ten decibels; no masking is needed.",
+       {"yazi": "In every case, the question is the same: after losing IA, can the sound given to the TE be heard in the NTE cochlea?", "ses": "In every case, the question is the same: after losing I.A, can the sound given to the T.E be heard in the N.T.E cochlea?"}]},
+
+    {"id": "kayit", "tur": "maddeler", "bolum_no": "PART 4", "bolum": "Decision and recording", "baslik": "Recording after *masking*", "maddeler": [{"metin": "Masked threshold: right _triangle_, left square", "cumle": 0, "ikon": "odyogram"}, {"metin": "_Note_ the noise level", "cumle": 2, "ikon": "rapor"}, {"metin": "_Masked symbol_ even if unchanged", "cumle": 3, "ikon": "dikkat"}, {"metin": "Noise level: the _plateau method_", "cumle": 4, "ikon": "kitap"}],
+     "cumleler": [
+       "Air conduction thresholds found with masking are marked with a red triangle on the right and a blue square on the left.",
+       "This way, anyone reading the audiogram knows the threshold was confirmed under masking.",
+       "The level of the masking noise used is also written on the form or below the audiogram.",
+       "Even if the threshold did not change after masking, the symbol showing a masked measurement is used.",
+       "We will see what level of noise to use in the lessons on effective masking and the plateau method."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*", "maddeler": [{"metin": "TE is the test ear, _NTE_ the other", "cumle": 0, "ikon": "kulaklik"}, {"metin": "Rule: TE air minus _NTE bone_", "cumle": 1, "ikon": "kemik_vibratoru"}, {"metin": "Mask if the difference is _IA or more_", "cumle": 2, "ikon": "gurultu"}, {"metin": "_Recheck_ after bone conduction", "cumle": 3, "ikon": "kontrol_listesi"}],
+     "cumleler": [
+       {"yazi": "The ear whose threshold we measure is the TE, and the opposite ear that receives the noise is the NTE.", "ses": "The ear whose threshold we measure is the T.E, and the opposite ear that receives the noise is the N.T.E."},
+       {"yazi": "In the air conduction rule, the NTE bone conduction threshold is subtracted from the TE air conduction threshold.", "ses": "In the air conduction rule, the N.T.E bone conduction threshold is subtracted from the T.E air conduction threshold."},
+       "If the difference reaches forty for supra-aural earphones or about fifty five for insert earphones, masking is needed.",
+       "After bone conduction is measured, the decision is checked again at every frequency."]},
+
+    {"id": "test", "tur": "test", "soru": "Right air conduction 70, left bone conduction 15 dB. With supra-aural earphones?", "secenekler": ["No masking needed", "Mask left while testing right", "Mask right while testing left"], "dogru": 1, "aciklama": "The difference is 55 dB, above 40 dB; right air conduction is retested _with the left ear masked_.",
+     "cumleler": [
+       {"yazi": "Test yourself: Right air conduction is seventy and left bone conduction is fifteen decibels. With supra-aural earphones, what should we do?", "sonra_bekle": 5},
+       "The correct answer is B: the left ear is masked while the right ear is tested.",
+       "The difference is fifty five decibels, above forty, so the right air conduction threshold is measured again with noise in the left ear."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "When Is Bone-Conduction *Masking* Needed?", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will talk about when masking is needed in bone conduction testing, and about the occlusion effect.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

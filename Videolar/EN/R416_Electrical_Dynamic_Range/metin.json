@@ -1,0 +1,86 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R416_Electrical_Dynamic_Range_EN",
+ "kapak": {
+  "ust": "QUICK FACT #416",
+  "baslik": "A narrow *range*",
+  "alt": "Between T and C/M levels",
+  "cizim": "koklear_implant",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "With an implant, how many decibels separate the softest and loudest sound? #shorts",
+  "aciklama": "In a cochlear implant, the threshold (T) level is the lowest level at which the stimulus is barely detected, and the comfort (C or M) level is the upper level at which sound is loud but still comfortable; the electrical dynamic range between them is often only about 10 to 20 decibels. Compared with the natural ear's range of about 120 decibels, it is clear why the implant has to compress.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "cochlearimplant",
+   "programming"
+  ],
+  "etiketler": [
+   "electrical dynamic range",
+   "threshold level",
+   "comfort level",
+   "cochlear implant programming",
+   "compression",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "With an implant, how many decibels separate the softest and loudest sound?",
+  "bilgiler": [
+   "The electrical dynamic range is often only 10 to 20 dB.",
+   "The natural ear's range is about 120 dB.",
+   "So the implant has to compress sound."
+  ],
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "programming"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #416",
+   "metin": "How *narrow?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "With an implant, how many decibels separate the softest and loudest sound?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "In the natural *ear*",
+   "sayi": "120",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The threshold level is the lowest current that is barely detected.",
+    "The comfort level is the upper level: loud but still comfortable.",
+    "The range between them is often only ten to twenty decibels.",
+    "The natural ear's range is about one hundred twenty decibels.",
+    "So the implant has to compress the wide range of sound."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D242",
+ "kaynak_baslik": "Switch-On and Mapping: T and C/M Levels"
+}

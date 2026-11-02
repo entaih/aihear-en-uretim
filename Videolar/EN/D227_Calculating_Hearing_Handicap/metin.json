@@ -1,0 +1,910 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D227_Calculating_Hearing_Handicap_EN",
+ "kapak": {
+  "ust": "LESSON 227",
+  "baslik": "Hearing loss<br>*percentage*",
+  "alt": "Medicolegal assessment",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 110,
+    "ad": "Four-frequency average (dB HL)",
+    "isaretler": [
+     0,
+     25,
+     45,
+     65,
+     92,
+     110
+    ]
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 20,
+    "ad": "Monaural percentage"
+   },
+   "seriler": [
+    {
+     "ad": "yuzde",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       25,
+       0
+      ],
+      [
+       45,
+       30
+      ],
+      [
+       65,
+       60
+      ],
+      [
+       91.7,
+       100
+      ],
+      [
+       110,
+       100
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "alt_sinir",
+     "x": 25,
+     "y": 0,
+     "cizgi": "dikey",
+     "etiket": "low fence: 25 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "ornek",
+     "x": 45,
+     "y": 30,
+     "dus": "xy",
+     "etiket": "45 dB: 30 percent",
+     "cumle": 3
+    },
+    {
+     "ad": "ust_sinir",
+     "x": 91.7,
+     "y": 100,
+     "cizgi": "dikey",
+     "etiket": "high fence: about 92 dB",
+     "cumle": 4
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "kayip_yok",
+     "x": [
+      0,
+      25
+     ],
+     "renk": "gri",
+     "etiket": "0 percent",
+     "cumle": 1
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Medicolegal Basics: Calculating Hearing Handicap | Lesson 227 | AIHEAR Audiology Academy",
+  "aciklama": "How is a hearing loss turned into a single percentage? In this lesson we cover the AAO-1979 method, the 25 dB low fence and the 1.5 percent per decibel rule, the binaural formula, worked examples and the reliability of thresholds in medicolegal testing. The calculations are examples; official ratings are set by the regulations in force.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: American Academy of Otolaryngology, Guide for the Evaluation of Hearing Handicap, JAMA (1979); American Medical Association, Guides to the Evaluation of Permanent Impairment; Dobie, Medical-Legal Evaluation of Hearing Loss; Katz, Handbook of Clinical Audiology; World Health Organization, International Classification of Impairments, Disabilities, and Handicaps (1980).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "medicolegal",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "hearing handicap",
+   "percentage hearing loss",
+   "medicolegal evaluation",
+   "AAO-1979",
+   "low fence",
+   "binaural impairment",
+   "monaural impairment",
+   "pseudohypacusis",
+   "noise-induced hearing loss",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 227",
+   "baslik": "Calculating hearing loss *percentage*",
+   "alt": "The basics of medicolegal assessment",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn how a hearing loss is turned into a numerical percentage, the basis of medicolegal assessment.",
+    "We will cover the American Academy of Otolaryngology method, the low fence, the binaural calculation and key points in medicolegal testing."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Concepts",
+   "baslik": "Why a *percentage?*",
+   "ogeler": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "Occupational disease",
+     "metin": "Compensation and insurance",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Disability report",
+     "metin": "Rights and support",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Courts and experts",
+     "metin": "Legal proceedings",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "When the hearing loss of someone working in a noisy workplace is assessed as an occupational disease, its size is stated as a number.",
+    "Disability reports, insurance and social support also require hearing loss to be converted into a rating.",
+    "Courts and expert witnesses ask the same question: by what percentage does this loss affect the person's life?",
+    "An audiogram contains many values in decibels, while the law needs a single number.",
+    "Calculating a hearing loss percentage is the method that converts the audiogram into a single rating with set rules.",
+    "This conversion uses a standard formula, so that everyone reaches the same result from the same audiogram."
+   ]
+  },
+  {
+   "id": "terim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Concepts",
+   "baslik": "Impairment, disability, *handicap*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Impairment",
+     "metin": "Loss of organ function",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Disability",
+     "metin": "Difficulty in activities",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Handicap",
+     "metin": "Disadvantage in life",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In the World Health Organization's 1980 classification, impairment is a loss in the structure or function of an organ.",
+     "ses": "In the World Health Organization's nineteen eighty classification, impairment is a loss in the structure or function of an organ."
+    },
+    "In hearing, the impairment is the threshold elevation on the audiogram.",
+    "Disability is the difficulty this loss causes in daily activities, such as understanding speech.",
+    "Handicap is the resulting disadvantage the person experiences in work and social life.",
+    {
+     "yazi": "In the American Academy of Otolaryngology's 1979 method, the result was given as hearing handicap.",
+     "ses": "In the American Academy of Otolaryngology's nineteen seventy nine method, the result was given as hearing handicap."
+    },
+    {
+     "yazi": "The evaluation guides of the American Medical Association, or AMA, use the same calculation under the name hearing impairment.",
+     "ses": "The evaluation guides of the American Medical Association, or A M A, use the same calculation under the name hearing impairment."
+    },
+    "The terms differ but the numerical method is the same; the formula tries to estimate the effect on daily life from the thresholds."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Concepts",
+   "baslik": "A *history* of the formula",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "1959",
+     "metin": "500, 1000, 2000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "1979",
+     "metin": "3000 Hz added",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Why?",
+     "metin": "Speech in noise",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The older method of 1959 used only the average of five hundred, one thousand and two thousand hertz.",
+     "ses": "The older method of nineteen fifty nine used only the average of five hundred, one thousand and two thousand hertz."
+    },
+    {
+     "yazi": "In 1979 the American Academy of Otolaryngology, or AAO, added three thousand hertz to the average.",
+     "ses": "In nineteen seventy nine the American Academy of Otolaryngology, or A A O, added three thousand hertz to the average."
+    },
+    "In noise-induced loss, thresholds rise most between three thousand and six thousand hertz.",
+    "Adding three thousand hertz recognized that these losses make it harder to understand speech, especially in noise.",
+    {
+     "yazi": "The method has been used largely unchanged since 1979, and the AMA guides also adopt it.",
+     "ses": "The method has been used largely unchanged since nineteen seventy nine, and the A M A guides also adopt it."
+    }
+   ]
+  },
+  {
+   "id": "adim",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "The AAO-1979 method",
+   "baslik": "*Four steps* of the calculation",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Average",
+     "metin": "500, 1000, 2000, 3000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Subtract 25",
+     "metin": "Low fence",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Multiply by 1.5",
+     "metin": "Monaural percentage",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Both ears",
+     "metin": "Better ear 5 times",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In step one, the average of the air conduction thresholds at 500, 1000, 2000 and 3000 Hz is taken for each ear.",
+     "ses": "In step one, the average of the air conduction thresholds at five hundred, one thousand, two thousand and three thousand hertz is taken for each ear."
+    },
+    "This is a four-frequency average, different from the three-frequency pure tone average we saw earlier.",
+    "In step two, twenty five decibels is subtracted from the average; this value is called the low fence.",
+    "In step three, the remainder is multiplied by one and a half; the result is the percentage loss for that ear.",
+    "If the average is twenty five decibels or better, the percentage for that ear is taken as zero.",
+    "In step four, the percentages of the two ears are combined with a formula that gives more weight to the better ear."
+   ]
+  },
+  {
+   "id": "grafik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The AAO-1979 method",
+   "baslik": "From decibels to *percent*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "ad": "Four-frequency average (dB HL)",
+     "isaretler": [
+      0,
+      25,
+      45,
+      65,
+      92,
+      110
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Monaural percentage"
+    },
+    "seriler": [
+     {
+      "ad": "yuzde",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        25,
+        0
+       ],
+       [
+        45,
+        30
+       ],
+       [
+        65,
+        60
+       ],
+       [
+        91.7,
+        100
+       ],
+       [
+        110,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "alt_sinir",
+      "x": 25,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "low fence: 25 dB",
+      "cumle": 1
+     },
+     {
+      "ad": "ornek",
+      "x": 45,
+      "y": 30,
+      "dus": "xy",
+      "etiket": "45 dB: 30 percent",
+      "cumle": 3
+     },
+     {
+      "ad": "ust_sinir",
+      "x": 91.7,
+      "y": 100,
+      "cizgi": "dikey",
+      "etiket": "high fence: about 92 dB",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kayip_yok",
+      "x": [
+       0,
+       25
+      ],
+      "renk": "gri",
+      "etiket": "0 percent",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "1.5 percent per dB",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "92 dB: 100 percent",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "This graph shows the relationship between the four-frequency average and the monaural percentage.",
+    "Averages up to twenty five decibels count as zero percent; at this level the formula predicts no clear difficulty with everyday speech.",
+    "Each decibel above twenty five adds one and a half percent.",
+    "For example, an average of forty five decibels is twenty decibels above twenty five; twenty times one and a half makes thirty percent.",
+    "One hundred percent is reached when the average reaches about ninety two decibels; this is called the high fence.",
+    "Why the low fence is twenty five decibels has been debated; some experts have proposed a higher fence, others a lower one."
+   ]
+  },
+  {
+   "id": "iki_kulak",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "The AAO-1979 method",
+   "baslik": "The binaural *formula*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "ad": "",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "better ear",
+      "2": "poorer ear"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 6,
+     "adim": 1,
+     "ad": "Weight"
+    },
+    "seriler": [
+     {
+      "ad": "iyi",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "5 times",
+      "cumle": 1
+     },
+     {
+      "ad": "kotu",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        1
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "1 time",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "iyi",
+     "cumle": 2
+    },
+    {
+     "parca": "kotu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "(5 x better + poorer) / 6",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "People rely on the better ear",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Binaural impairment is the weighted average of the percentages of the two ears.",
+    "The better ear percentage is multiplied by five, the poorer ear percentage is added, and the total is divided by six.",
+    "The logic of the formula is this: in daily life, a person relies more on the better-hearing ear.",
+    "So even a small loss in the better ear changes the result clearly.",
+    "A loss in the poorer ear, on the other hand, is reflected less in the result.",
+    "One consequence of this formula appears in total unilateral loss, which we will see shortly."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Worked examples",
+   "baslik": "Example: *noise-induced* loss",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: average 35 dB",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: average 45 dB",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       55,
+       65,
+       60,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       30,
+       35,
+       50,
+       65,
+       70,
+       65,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Low fence",
+     "cumle": 4
+    }
+   },
+   "cumleler": [
+    "Now let us do the calculation on a purely illustrative audiogram; imagine a person who worked for many years in a noisy job.",
+    "Both ears have a high-frequency sensorineural loss, most marked around four thousand hertz; bone conduction matches air conduction.",
+    {
+     "yazi": "In the right ear, thresholds at 500, 1000, 2000 and 3000 Hz are 20, 25, 40 and 55 decibels; the average is 35 decibels.",
+     "ses": "In the right ear, thresholds at five hundred, one thousand, two thousand and three thousand hertz are twenty, twenty five, forty and fifty five decibels; the average is thirty five decibels."
+    },
+    {
+     "yazi": "In the left ear, 30, 35, 50 and 65 decibels were measured at the same frequencies; the average is 45 decibels.",
+     "ses": "In the left ear, thirty, thirty five, fifty and sixty five decibels were measured at the same frequencies; the average is forty five decibels."
+    },
+    "The shaded area shows thresholds up to the low fence of twenty five decibels.",
+    "The loss at four thousand and six thousand hertz does not enter the calculation; this is one of the known limitations of the method."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Worked examples",
+   "baslik": "A worked *calculation*",
+   "sutunlar": [
+    "Step",
+    "Right",
+    "Left"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Four-frequency average",
+      "35 dB",
+      "45 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Subtract 25",
+      "10",
+      "20"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Multiply by 1.5",
+      "15 percent",
+      "30 percent"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Both ears",
+      "17.5 percent",
+      ""
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Let us go step by step: the average of the right ear is thirty five decibels, and of the left ear forty five.",
+    "Subtracting twenty five from each leaves ten decibels on the right and twenty on the left.",
+    "Multiplying by one and a half gives fifteen percent for the right ear and thirty percent for the left ear.",
+    "For both ears, the better ear is the right: fifteen times five is seventy five; plus the left ear's thirty makes one hundred five.",
+    "Dividing one hundred five by six gives a binaural impairment of seventeen and a half percent.",
+    "How this result affects a person's legal situation depends on the relevant legislation and the authorized boards."
+   ]
+  },
+  {
+   "id": "tek_taraf",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Worked examples",
+   "baslik": "Total *unilateral* loss",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Better ear",
+     "metin": "0 percent",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Poorer ear",
+     "metin": "100 percent",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Result",
+     "metin": "About 16.7 percent",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In the second example, let one ear be completely normal and the other have a profound loss.",
+    "The normal ear is calculated as zero percent, and the ear with the loss as one hundred percent.",
+    "By the formula, zero times five is zero; one hundred is added, and the total is divided by six.",
+    "The result is about sixteen point seven percent.",
+    "So by this method, total loss of hearing in one ear equals only about one sixth in the binaural rating.",
+    "The difficulties people with unilateral loss have in noise and in locating sounds are not fully reflected in this number."
+   ]
+  },
+  {
+   "id": "tutarlilik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Medicolegal care",
+   "baslik": "*Reliable* thresholds first",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "SRT and PTA agreement",
+     "metin": "Within about 10 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Test-retest",
+     "metin": "Consistent thresholds",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Objective tests",
+     "metin": "ABR, ASSR, reflexes",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Inconsistency",
+     "metin": "Suspected pseudohypacusis",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In medicolegal assessment, a loss may appear greater than it really is; we covered this in the pseudohypacusis lesson.",
+    "So threshold reliability is checked first: the speech recognition threshold and pure tone average usually agree within ten decibels.",
+    "Thresholds repeated in the same session or on different days should be close to each other.",
+    "Thresholds can be confirmed objectively with acoustic reflexes, otoacoustic emissions and, if needed, brainstem or steady-state responses.",
+    "If there is inconsistency, no calculation is made; first the true thresholds are sought.",
+    "A finding of inconsistency is used not to blame the person but to reach the correct result, and it is reported in neutral language."
+   ]
+  },
+  {
+   "id": "kosul",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Medicolegal care",
+   "baslik": "Test *conditions*",
+   "maddeler": [
+    {
+     "metin": "Rest from noise beforehand",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Calibration certificate up to date",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Unaided, masking by the rules",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Detailed, neutral report",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "odyometre",
+      "baslik": "Calibration",
+      "metin": "Date and certificate",
+      "cumle": 1
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Report",
+      "metin": "Raw values and calculation",
+      "cumle": 4
+     }
+    ],
+    "ust": "DOCUMENTATION"
+   },
+   "cumleler": [
+    "To avoid a noise-induced temporary threshold shift, the person must stay away from noise for long enough before the test.",
+    "Audiometer calibration must be current and documented; in a medicolegal report, this certificate may be questioned.",
+    "Thresholds are measured without hearing aids, with masking applied by the rules whenever needed.",
+    "Bone conduction thresholds are also measured, because a conductive loss has a different cause and interpretation.",
+    "The report clearly states the test conditions, the method used, the raw thresholds and the steps of the calculation."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Medicolegal care",
+   "baslik": "*Limits* of the method",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "No 4000 Hz",
+     "metin": "High-frequency loss underrepresented",
+     "cumle": 0
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Age correction",
+     "metin": "Differs by country",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Unilateral loss",
+     "metin": "Impact looks small",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Legislation",
+     "metin": "Varies by country",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Because the method ignores four thousand hertz and above, it often rates early noise-induced loss as zero percent.",
+    "The formula is based on thresholds; it does not directly measure complaints such as understanding speech in noise or tinnitus.",
+    "Whether an allowance for age-related loss is deducted differs between countries and systems.",
+    "As we saw, the real impact of unilateral losses looks small in the formula.",
+    "Countries use different methods; in Türkiye, official ratings follow the regulations in force, and current legislation should be checked.",
+    "In this lesson we used the method most cited in the international literature as an example, to learn the logic of the calculation."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "In a medicolegal report, write not only the result but the raw thresholds, test conditions and every step of the calculation. If thresholds are inconsistent, do not calculate.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the clinic: medicolegal reports may be reviewed again by other experts years later.",
+    "So write not only the final percentage, but also the raw thresholds, the formula used and every step of the calculation.",
+    "Also record the test conditions, the person's cooperation and the results of consistency checks.",
+    "If thresholds are inconsistent, do not calculate a percentage; first plan further tests to reach reliable thresholds."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Average: 500, 1000, 2000, 3000 Hz",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "25 dB low fence, 1.5 percent per dB",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Both ears: better ear five times",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Threshold reliability comes first",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In the AAO-1979 method, the average of thresholds at 500, 1000, 2000 and 3000 Hz is taken for each ear.",
+     "ses": "In the A A O nineteen seventy nine method, the average of thresholds at five hundred, one thousand, two thousand and three thousand hertz is taken for each ear."
+    },
+    "Twenty five decibels is subtracted and the rest multiplied by one and a half; one hundred percent is reached at about ninety two decibels.",
+    "For the binaural rating, the better ear percentage is multiplied by five, added to the poorer ear, and divided by six.",
+    "In medicolegal assessment, threshold reliability is confirmed first; official ratings are set by the regulations in force."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "If the right ear is 10 percent and the left 40 percent, what is the binaural rating?",
+   "secenekler": [
+    "15 percent",
+    "25 percent",
+    "10 percent",
+    "40 percent"
+   ],
+   "dogru": 0,
+   "aciklama": "The better ear is multiplied by five: 10 x 5 = 50; 50 + 40 = 90; 90 / 6 = 15 percent.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: if a person's right ear is ten percent and left ear forty percent, what is the binaural impairment?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is A: fifteen percent.",
+    "The better ear percentage times five is fifty; adding forty makes ninety, and dividing by six gives fifteen percent."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Pharmacology* Basics for Audiologists",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we begin the ototoxicity section and learn the basics of pharmacology for audiologists.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

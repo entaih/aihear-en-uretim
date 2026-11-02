@@ -1,0 +1,87 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R209_Needle_in_a_Haystack_EN",
+ "kapak": {
+  "ust": "QUICK FACT #209",
+  "baslik": "Needle in a *haystack*",
+  "alt": "Signal averaging in ABR recording",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How is the brain's tiny response to sound pulled out of noise? #shorts",
+  "aciklama": "The auditory brainstem response, or ABR, is usually under one microvolt, while background EEG and muscle activity are tens of microvolts. In signal averaging, the same stimulus is given thousands of times: the response is kept and random noise cancels out. With 2000 repetitions, noise shrinks roughly 45 times.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "ABR",
+   "brain"
+  ],
+  "etiketler": [
+   "auditory evoked potentials",
+   "signal averaging",
+   "ABR",
+   "EEG",
+   "electrophysiology",
+   "artifact rejection",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How is the brain's tiny response to sound pulled out of noise?",
+  "bilgiler": [
+   "The ABR is usually under one microvolt.",
+   "The same stimulus is given thousands of times and averaged.",
+   "With 2000 repetitions, noise shrinks roughly 45 times."
+  ],
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "brain"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #209",
+   "metin": "How is a tiny response *found?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How is the brain's tiny response to sound pulled out of noise?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Noise *shrinks* with 2000 sweeps",
+   "sayi": "45",
+   "birim": "x",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The auditory brainstem response, or ABR, is usually under one microvolt.",
+    "Background brain and muscle activity is tens of microvolts.",
+    "The fix: repeat the stimulus thousands of times and average.",
+    "The response stays in place and is kept; random noise cancels out.",
+    "With two thousand sweeps, noise shrinks roughly forty-five times."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D125",
+ "kaynak_baslik": "Introduction to Auditory Evoked Potentials"
+}

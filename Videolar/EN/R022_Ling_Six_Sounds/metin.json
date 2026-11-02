@@ -1,0 +1,127 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R022_Ling_Six_Sounds_EN",
+ "kapak": {
+  "ust": "QUICK FACT #22",
+  "baslik": "The Ling *six sound* test",
+  "alt": "m, oo, ah, ee, sh, s",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How can six sounds check the whole speech range? #shorts",
+  "aciklama": "The Ling six sound test sweeps the speech range from low to high with the sounds m, oo, ah, ee, sh and s. If a child cannot detect the s sound, their access to speech at high frequencies may be limited.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "speech"
+  ],
+  "etiketler": [
+   "Ling six sound test",
+   "Ling 6 sounds",
+   "speech banana",
+   "pediatric audiology",
+   "hearing aid check",
+   "audiology",
+   "hearing",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How can six sounds check the whole speech range?",
+  "bilgiler": [
+   "The Ling six sound test sweeps the speech range from low to high.",
+   "The sounds: m, oo, ah, ee, sh and s.",
+   "If a child misses the s sound, high-frequency access may be limited."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "speech"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #22",
+   "metin": "How can six sounds *check the speech range?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How can six sounds check the whole speech range?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "The Ling *six sound* test",
+   "sayi": "6",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The Ling six sound test sweeps speech from low to high.",
+    {
+     "yazi": "The sounds are m, oo, ah, ee, sh and s.",
+     "ses": "The sounds are mm, oo, ah, ee, shh and sss."
+    }
+   ]
+  },
+  {
+   "id": "bolge",
+   "tur": "zincir",
+   "baslik": "From low to *high*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "M, oo",
+     "cumle": 0,
+     "tr": "low"
+    },
+    {
+     "ad": "Ah",
+     "cumle": 0,
+     "gecikme": 1.0,
+     "tr": "mid"
+    },
+    {
+     "ad": "Sh, s",
+     "cumle": 1,
+     "tr": "high"
+    }
+   ],
+   "alt": "The _s sound_ probes the high region",
+   "alt_cumle": 2,
+   "cumleler": [
+    {
+     "yazi": "M and oo represent the low region, ah the middle.",
+     "ses": "Mm and oo represent the low region, ah the middle."
+    },
+    {
+     "yazi": "Sh and s represent the high region.",
+     "ses": "Shh and sss represent the high region."
+    },
+    {
+     "yazi": "If a child cannot detect s, high-frequency access may be limited.",
+     "ses": "If a child cannot detect sss, high-frequency access may be limited."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D043",
+ "kaynak_baslik": "The Speech Banana: Speech Sounds on the Audiogram"
+}

@@ -1,0 +1,797 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D136_Pseudohypacusis_EN",
+ "kapak": {
+  "ust": "LESSON 136",
+  "baslik": "*Pseudohypacusis*",
+  "alt": "Nonorganic hearing loss",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Recognizing Pseudohypacusis (Nonorganic Loss) | Lesson 136 | AIHEAR Audiology Academy",
+  "aciklama": "We explain pseudohypacusis, or nonorganic hearing loss, where measured thresholds do not reflect true hearing. With examples, we cover a mismatch between the SRT and the pure-tone average, the absence of a shadow curve, the Stenger test, and confirmation with OAEs, acoustic reflexes and ABR.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "pseudohypacusis",
+   "hearing"
+  ],
+  "etiketler": [
+   "pseudohypacusis",
+   "nonorganic hearing loss",
+   "functional hearing loss",
+   "Stenger test",
+   "SRT",
+   "shadow curve",
+   "cross-check principle",
+   "objective audiometry",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 136",
+   "baslik": "*Pseudohypacusis*",
+   "alt": "Recognizing nonorganic hearing loss",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn to recognize cases where measured thresholds do not reflect true hearing, that is, nonorganic hearing loss.",
+    "Step by step, we will look at warning signs, the Stenger test and confirmation with objective tests."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Definition",
+   "baslik": "When the reported is not the *real*",
+   "maddeler": [
+    {
+     "metin": "Thresholds _worse_ than true hearing",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_No cause_ in the ear explains it",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "May sit _on top of_ a real loss",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "The audiologist does not _judge intent_",
+     "cumle": 5,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "NAMES",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kitap",
+      "baslik": "Pseudohypacusis",
+      "metin": "Also pseudohypoacusis",
+      "cumle": 0
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Functional loss",
+      "metin": "Nonorganic loss",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Pseudohypacusis is when a person's test responses show a worse loss than their true hearing level."
+    },
+    "There is no outer, middle or inner ear problem to explain the measured loss, or the problem cannot explain a loss this large.",
+    {
+     "yazi": "The terms nonorganic hearing loss and functional hearing loss are also used for the same picture."
+    },
+    "It is often seen as an exaggeration added on top of a real, organic loss.",
+    "The cause may be a conscious expectation of gain, or psychological factors the person is not aware of.",
+    "The audiologist's task is not to judge intent but to determine the true hearing level as accurately as possible."
+   ]
+  },
+  {
+   "id": "kimde",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Definition",
+   "baslik": "When does it *come to mind?*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Official reports",
+     "metin": "Medical boards, insurance",
+     "cumle": 0
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Compensation",
+     "metin": "For example, workplace noise",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "School age",
+     "metin": "Stress, need for attention",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Psychological factor",
+     "metin": "May be outside awareness",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Pseudohypacusis most often comes to mind in assessments where the result will support a report or an official decision.",
+    "Compensation claims for workplace noise or insurance processes are typical examples of these situations.",
+    "It can also be seen in school-age children; here factors such as stress or a need for attention often play a role.",
+    "In some people, the loss is not conscious and appears as a sign of psychological distress.",
+    "None of these contexts alone means pseudohypacusis; they only call for extra care."
+   ]
+  },
+  {
+   "id": "davranis",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Warning signs",
+   "baslik": "*Clues* in behavior",
+   "maddeler": [
+    {
+     "metin": "Follows conversation easily, audiogram _severe loss_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Exaggerated_ listening behavior",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Delayed, _hesitant_ responses",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_Half-word_ responses to spondees",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "OBSERVATION",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "goz",
+      "baslik": "Waiting room",
+      "metin": "Turns when called from behind?",
+      "cumle": 0
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Interview",
+      "metin": "Understands without lipreading?",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "The first clue often comes before testing: the person follows the conversation easily, yet the audiogram shows a severe loss.",
+    "Showy listening behaviors, such as cupping a hand to the ear or leaning in exaggeratedly, may also stand out.",
+    "During testing, responses may be delayed, hesitant, and present one time and absent the next at the same level.",
+    "Repeating only half of two-syllable words in speech testing is another commonly reported clue.",
+    "These observations do not settle anything alone, but they are weighed together with the test findings."
+   ]
+  },
+  {
+   "id": "test_ipucu",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Warning signs",
+   "baslik": "*Clues* in the tests",
+   "maddeler": [
+    {
+     "metin": "Retest thresholds shift _more than 10 dB_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SRT _much better_ than pure-tone average",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Unilateral loss with _no shadow curve_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Reflex threshold _better_ than reported threshold",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CROSS-CHECK",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Consistent",
+      "metin": "Tests confirm each other",
+      "cumle": 4
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Inconsistent",
+      "metin": "Tests contradict each other",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "In an organic loss, thresholds usually stay within five decibels on repeat testing; much larger swings are a warning.",
+    "A speech recognition threshold, or SRT, clearly better than the pure-tone average is a strong clue.",
+    "In a severe unilateral loss, the absence of the expected cross-hearing in unmasked testing, the shadow curve, is also important.",
+    "An acoustic reflex threshold equal to or better than the pure-tone threshold the person reports also shows inconsistency.",
+    "What these clues share is that the tests do not confirm each other.",
+    "According to the cross-check principle, contradictory results call for further assessment."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Warning signs",
+   "baslik": "*Where* is the shadow curve?",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Right air conduction",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Left, unmasked: _no response_",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Expected shadow: by about 90 dB",
+     "cumle": 5
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       105,
+       120,
+       120,
+       120,
+       115,
+       105
+      ],
+      "yanitsiz": true,
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Let us look at a purely example audiogram; the person reports no hearing at all in the left ear, and testing uses supra-aural earphones.",
+    "In this example, the right ear thresholds are normal.",
+    "In the left ear, in unmasked testing, there is no response even at the maximum output of the device.",
+    "Yet even if the left ear heard nothing, a loud enough sound would reach the right cochlea through the skull and the person would respond.",
+    {
+     "yazi": "With supra-aural earphones, interaural attenuation is about 40 to 80 decibels, depending on the person and the frequency.",
+     "ses": "With supra-aural earphones, interaural attenuation is about forty to eighty decibels, depending on the person and the frequency."
+    },
+    {
+     "yazi": "So the normal right ear should have heard sound presented to the left ear by about 90 dB HL at the latest.",
+     "ses": "So the normal right ear should have heard sound presented to the left ear by about ninety decibels HL at the latest."
+    },
+    "The absence of the expected shadow curve is a strong warning that the reported loss is not real."
+   ]
+  },
+  {
+   "id": "srt",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Warning signs",
+   "baslik": "SRT and pure-tone *agreement*",
+   "maddeler": [
+    {
+     "metin": "Normally within about _10 dB_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "SRT much better: _warning_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Example: pure-tone average 60, _SRT 30_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Speech makes a false threshold _harder_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EXAMPLE",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "odyogram",
+      "baslik": "Pure-tone average",
+      "metin": "60 dB HL",
+      "cumle": 2
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "SRT",
+      "metin": "30 dB HL",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "In organic losses, the SRT and the pure-tone average usually agree within about ten decibels.",
+    "An SRT clearly better than the pure-tone average suggests a nonorganic component.",
+    {
+     "yazi": "In this example, the pure-tone average was measured at 60 dB HL.",
+     "ses": "In this example, the pure-tone average was measured at sixty decibels HL."
+    },
+    {
+     "yazi": "The SRT, however, is 30 dB HL; the person can repeat words far below the level at which they say they hear pure tones.",
+     "ses": "The SRT, however, is thirty decibels HL; the person can repeat words far below the level at which they say they hear pure tones."
+    },
+    "One reason is that holding a consistent false threshold is harder for speech than for pure tones."
+   ]
+  },
+  {
+   "id": "stenger_ilke",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The Stenger test",
+   "baslik": "The Stenger *principle*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Two ears",
+     "metin": "Same tone, same time",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "The louder one",
+     "metin": "Determines perception",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Heard in one ear",
+     "metin": "The other goes unnoticed",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The Stenger test relies on a simple perceptual principle: a tone of the same frequency is presented to both ears at once."
+    },
+    "In this case, the person hears the sound only in the ear where it seems louder.",
+    "The sound in the other ear goes unnoticed, even if it is at an audible level.",
+    "The test takes advantage of the person responding without knowing in which ear they perceive the sound.",
+    "That is why it is useful when a unilateral or clearly asymmetric loss is reported."
+   ]
+  },
+  {
+   "id": "stenger_adim",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "The Stenger test",
+   "baslik": "The Stenger test *step by step*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Thresholds",
+     "metin": "Both ears, same frequency",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Better ear",
+     "metin": "10 dB above threshold",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Poorer ear",
+     "metin": "10 dB below reported",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Response?",
+     "metin": "Present or absent?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Interpretation",
+     "metin": "Negative or positive",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "First, both ears' thresholds at the same frequency must be known; for the test to work, they usually differ by at least 20 decibels.",
+     "ses": "First, both ears' thresholds at the same frequency must be known; for the test to work, they usually differ by at least twenty decibels."
+    },
+    {
+     "yazi": "A tone about 10 decibels above threshold is presented to the better ear; the person hears it easily and responds.",
+     "ses": "A tone about ten decibels above threshold is presented to the better ear; the person hears it easily and responds."
+    },
+    {
+     "yazi": "At the same time, the same tone is added to the poorer ear about 10 decibels below the reported threshold.",
+     "ses": "At the same time, the same tone is added to the poorer ear about ten decibels below the reported threshold."
+    },
+    "We watch whether the person responds.",
+    "If the loss is real, the sound in the poorer ear is not heard, the sound in the better ear is perceived, and the person keeps responding.",
+    "If the true loss is smaller than reported, the poorer-ear tone seems louder; the person hears it only in that ear and does not respond."
+   ]
+  },
+  {
+   "id": "stenger_sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The Stenger test",
+   "baslik": "Negative and *positive* Stenger",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Negative Stenger",
+     "metin": "Responses continue: loss may be real",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Positive Stenger",
+     "metin": "Responses stop: nonorganic",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "If the person keeps responding, the result is called a negative Stenger, and the reported asymmetry may be real.",
+    "If the person stops responding, the result is called a positive Stenger, and it shows a nonorganic component.",
+    "A positive result means the poorer ear hears a sound below its reported threshold.",
+    "Then, by gradually changing the tone in the poorer ear, the lowest level at which the person stops responding can be found.",
+    {
+     "yazi": "This level is called the minimum contralateral interference level, and it gives an approximate estimate of the true threshold."
+    }
+   ]
+  },
+  {
+   "id": "stenger_not",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The Stenger test",
+   "baslik": "Notes on the *Stenger*",
+   "maddeler": [
+    {
+     "metin": "Asymmetry of at least about _20 dB_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Two-channel audiometer, _simultaneous_ tones",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Can also be done with speech",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Quick, easy, not enough _on its own_",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 1
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "The Stenger test is most sensitive when a clear difference between the ears is reported; with small asymmetries, it is less reliable.",
+    "The test requires an audiometer that can present the same tone on two channels at the same time.",
+    "The person is told, as usual, to respond whenever they hear the sound; no extra explanation is given.",
+    "The same principle can also be applied with speech; this is called the speech Stenger test.",
+    "The Stenger test is quick and easy, but its result is always interpreted together with other tests."
+   ]
+  },
+  {
+   "id": "objektif",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Objective confirmation",
+   "baslik": "Confirming with *objective* tests",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "OAE",
+     "metin": "Are outer hair cells working?",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Acoustic reflex",
+     "metin": "Is the reflex threshold consistent?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "ABR and ASSR",
+     "metin": "Threshold estimation",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Normal otoacoustic emissions, or OAEs, show that the outer hair cells are working.",
+    "In someone reporting a severe cochlear loss, normal OAEs do not fit the report; but they do not rule out neural losses.",
+    "Acoustic reflex thresholds are compared with the reported thresholds to check for consistency.",
+    "The auditory brainstem response, or ABR, and the auditory steady-state response, or ASSR, estimate thresholds without cooperation.",
+    "Especially when a report is required, behavioral thresholds should be supported by an objective method.",
+    "Objective tests show an upper limit of true hearing; the true threshold is often close to this estimate or better."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Objective confirmation",
+   "baslik": "What does the reflex *tell us?*",
+   "maddeler": [
+    {
+     "metin": "Normally reflex threshold is _well above threshold_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Reflex at or below reported threshold: _inconsistent_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal reflexes contradict a _severe loss_ report",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Absent reflexes alone are _not proof_",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "akustik_refleks_arki",
+    "cumle": 0,
+    "ayar": {
+     "uyarilan": "sol"
+    },
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 0
+     },
+     {
+      "parca": "stapedius",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The acoustic reflex appears when sound reaches a level well above the hearing threshold.",
+    {
+     "yazi": "In people with normal hearing, reflex thresholds are usually between 70 and 100 dB HL.",
+     "ses": "In people with normal hearing, reflex thresholds are usually between seventy and one hundred decibels HL."
+    },
+    "If the reflex appears at or below a level where the person says they hear nothing, the reported threshold cannot be real.",
+    "Obtaining reflexes at normal levels in an ear reported to have a severe loss also contradicts the report.",
+    "However, absent reflexes can also come from middle ear or nerve problems, so they are not proof on their own."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not be accusatory. Repeat the instructions, use an ascending approach and retest in a calm tone; document the inconsistencies.",
+   "cumleler": [
+    "A clinical tip: do not take an accusatory attitude when responses are inconsistent.",
+    "Give the instructions again, simply; remind the person to respond whenever they hear even the softest sounds.",
+    "Finding the threshold with an ascending approach, starting from silence, can make it harder to hold a false response level.",
+    "Repeat the test in a calm tone and clearly document the inconsistencies in the report."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Objective confirmation",
+   "baslik": "Reporting and *approach*",
+   "maddeler": [
+    {
+     "metin": "State test _reliability_ clearly",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Describe findings, do not interpret _intent_",
+     "cumle": 1,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "_Recommend_ objective testing",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "With children, a _supportive_ talk with family",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "REPORT WORDING",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Appropriate",
+      "metin": "Findings suggest a nonorganic component",
+      "cumle": 1
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Not appropriate",
+      "metin": "The patient is lying",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The report states the reliability of behavioral thresholds clearly; inconsistent results are not presented as true thresholds.",
+    "Findings are described; for example, inconsistencies suggesting a nonorganic component are noted, with no comment on the person's intent.",
+    "Objective tests such as ABR or ASSR are recommended to determine the true threshold.",
+    "With children, a supportive talk is held with the family; if needed, referral for medical and mental health support is considered.",
+    "Remember: a nonorganic component does not rule out a real hearing loss in the same person."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Measured threshold worse than _true hearing_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Clues: SRT mismatch, _no shadow curve_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Positive Stenger: _nonorganic_ component",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Confirm_ with OAE, reflexes and ABR",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "In pseudohypacusis, measured thresholds are worse than the true hearing level.",
+    "Inconsistent retest thresholds, an SRT that does not match the pure-tone average, and an absent shadow curve are the main clues.",
+    "In the Stenger test, the person stopping their responses, a positive Stenger, shows a nonorganic component.",
+    "The true hearing level is confirmed with objective tests such as OAEs, acoustic reflexes and ABR."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In the Stenger test, the person stops responding. Result?",
+   "secenekler": [
+    "Negative Stenger",
+    "Positive Stenger",
+    "Invalid test"
+   ],
+   "dogru": 1,
+   "aciklama": "The person perceives the sound only in the _poorer ear_ and does not respond; the reported threshold is not real.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in the Stenger test, when a tone is added to the poorer ear, the person stops responding. What is the result?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: a positive Stenger.",
+    "The person perceives the sound in the poorer ear below their reported threshold; this shows a nonorganic component."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Asymmetric Hearing Loss and Vestibular *Schwannoma*",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "In the next lesson, we will learn about real asymmetric hearing loss and the audiologist's approach when vestibular schwannoma is suspected."
+    },
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

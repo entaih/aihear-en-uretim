@@ -1,0 +1,926 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D145_Superior_Canal_Dehiscence_EN",
+ "kapak": {
+  "ust": "LESSON 145",
+  "baslik": "The third<br>*window*",
+  "alt": "Superior canal dehiscence",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      25,
+      20,
+      15,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      -10,
+      -10,
+      0,
+      5,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Third Window Syndromes: Superior Canal Dehiscence | Lesson 145 | AIHEAR Audiology Academy",
+  "aciklama": "We explain the sound- and pressure-induced vertigo, autophony and third window effect of superior semicircular canal dehiscence. We cover the low-frequency air-bone gap, bone-conduction thresholds below zero, preserved acoustic reflexes and VEMP findings, and compare them with otosclerosis.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Ward et al., Superior semicircular canal dehiscence syndrome: Diagnostic criteria consensus document of the Bárány Society, Journal of Vestibular Research (2021); Minor et al., Archives of Otolaryngology Head and Neck Surgery (1998); Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "thirdwindow",
+   "VEMP"
+  ],
+  "etiketler": [
+   "superior canal dehiscence",
+   "superior semicircular canal dehiscence",
+   "third window syndrome",
+   "Tullio phenomenon",
+   "Hennebert sign",
+   "autophony",
+   "air-bone gap",
+   "VEMP",
+   "otosclerosis differential",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 145",
+   "baslik": "The third window: *superior canal*",
+   "alt": "Superior canal dehiscence and audiological findings",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn about third window syndromes and their best-known example, superior canal dehiscence.",
+    "We will look at vertigo triggered by sound and pressure, the air-bone gap, and vestibular evoked myogenic potential, or VEMP, findings."
+   ]
+  },
+  {
+   "id": "iki_pencere",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The third window",
+   "baslik": "Two windows, *one* balance",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Oval window",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Round window",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "Basilar membrane",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Energy goes to the _basilar membrane_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "A third opening: _energy escapes_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "We know that the inner ear has two windows opening into the middle ear: the oval window and the round window.",
+    "When the stapes pushes the oval window, a pressure wave passes through the cochlea and the round window membrane bulges outward.",
+    "In this arrangement, most of the energy is used to vibrate the basilar membrane.",
+    "If a third opening forms in the bony labyrinth, part of the energy escapes through this new path.",
+    "These conditions are known together as third window syndromes."
+   ]
+  },
+  {
+   "id": "dehisans",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The third window",
+   "baslik": "Superior canal *dehiscence*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "superior_kanal",
+     "metin": "Superior canal",
+     "cumle": 1
+    },
+    {
+     "parca": "dehisans",
+     "metin": "bony gap",
+     "cumle": 1
+    },
+    {
+     "parca": "dura",
+     "metin": "dura",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_kanal",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dehisans",
+     "cumle": 1,
+     "olcek": 1.6
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "A _bony gap_ at the canal's top",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "First described: _1998_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "In about _5 per 1,000_ bones",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "The best-known third window is superior semicircular canal dehiscence.",
+    "In this condition, the bone covering the top of the superior semicircular canal becomes thin and opens.",
+    "The gap lies between the canal and the middle cranial fossa; there, the canal is covered only by the dura.",
+    {
+     "yazi": "The condition was first described in 1998 by Lloyd Minor and colleagues.",
+     "ses": "The condition was first described in nineteen ninety eight by Lloyd Minor and colleagues."
+    },
+    "In cadaver studies, a gap was found in about five per thousand temporal bones, and very thin bone in more.",
+    "The bone is thought to be thin from birth and to open later with trauma or pressure changes."
+   ],
+   "ayar": {
+    "dehisans": true,
+    "dehisans_cumle": 1,
+    "fossa_cumle": 2
+   }
+  },
+  {
+   "id": "mekanizma",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The third window",
+   "baslik": "Why does sound cause *dizziness?*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sound, pressure",
+     "metin": "Reaches the inner ear",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Open canal",
+     "metin": "Energy heads to the gap",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Cupula deflects",
+     "metin": "Endolymph moves",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vertigo",
+     "metin": "Eye movements begin",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The gap makes the superior canal sensitive to sound and pressure.",
+    "A loud sound or a pressure change is transmitted to the inner ear through the stapes.",
+    "Part of the energy flows not to the cochlea but through the superior canal, toward the low-resistance gap.",
+    "This flow deflects the cupula in the canal's ampulla, and a false rotation signal goes to the brain.",
+    "The result is vertigo and eye movements triggered by sound or pressure."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Symptoms",
+   "baslik": "Typical *symptoms*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Tullio phenomenon",
+     "metin": "Vertigo from sound",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Hennebert sign",
+     "metin": "Vertigo from pressure",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Autophony",
+     "metin": "Own voice echoes",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Internal sounds",
+     "metin": "Pulse, footsteps, eyes",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Fullness",
+     "metin": "Mistaken for middle ear",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Vertigo or oscillopsia brought on by sound is called the Tullio phenomenon.",
+    "A symptom brought on by coughing, straining, nose-pinched blowing or ear canal pressure is called the Hennebert sign.",
+    "Hearing one's own voice as echoing and loud is called autophony; it is a very common complaint.",
+    "Some patients say they hear their own pulse, their footsteps, or even their eye movements in the ear.",
+    "Aural fullness is also common and can easily be mistaken for a middle ear problem.",
+    "Symptoms can be unilateral or bilateral; some people with a gap have no symptoms at all."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Symptoms",
+   "baslik": "*Clues* in the history",
+   "maddeler": [
+    {
+     "metin": "Usually begins in _adulthood_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Onset after trauma or _straining_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "A gap in one or _both ears_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Can stay _undiagnosed_ for years",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_Ask_ about sound and pressure",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ASK",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Loud sounds?",
+      "metin": "Spinning or shifting",
+      "cumle": 4
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Coughing, straining?",
+      "metin": "Do symptoms increase",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Symptoms usually begin in adulthood, sometimes after a pressure event such as head trauma or heavy lifting.",
+    "Some patients have a gap in one ear, others in both ears.",
+    "Complaints can go undiagnosed for years; patients have often visited several clinics.",
+    "Constant autophony and dizziness from sound can markedly affect daily life.",
+    "So asking specifically how symptoms relate to sound and pressure is the most important first step toward diagnosis."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "Bone conduction *below zero*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Masked bone conduction_: below zero",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_: normal",
+     "cumle": 5
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: up to 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       20,
+       15,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       -10,
+       -10,
+       0,
+       5,
+       10
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 5
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "aralik": {
+     "konum": [
+      0,
+      -10,
+      25
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "In this example, air-conduction thresholds in the right ear are slightly raised at the low frequencies.",
+    "The striking finding, however, is bone conduction.",
+    "Masked bone-conduction thresholds fall below zero, to minus ten decibels, at two fifty and five hundred hertz.",
+    "The result is a clear low-frequency air-bone gap; this is called an inner-ear or pseudoconductive gap.",
+    "The third window lets part of the air-conducted energy escape, while it increases bone-conduction sensitivity.",
+    "The left ear is within normal limits in this example; tympanograms and acoustic reflexes are normal in both ears."
+   ]
+  },
+  {
+   "id": "neden_aralik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "*How* does the gap form?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Vestibular side",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Round window",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bone conduction: _stronger_ stimulation",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Air conduction: _energy escapes_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Together: a _gap_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Let us look more closely at why bone conduction is heard better than normal.",
+    "Bone-conducted vibration moves the basilar membrane by creating a pressure difference between the two sides of the cochlea.",
+    "Normally, the vestibular side has high impedance; the third window lowers the impedance on this side.",
+    "So in bone conduction, the pressure difference between the two sides grows, and the cochlea is stimulated more strongly.",
+    "In air conduction, part of the energy escapes through the gap; together, the two effects create the air-bone gap."
+   ]
+  },
+  {
+   "id": "vemp",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "VEMP: *enlarged* responses",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "cVEMP",
+     "metin": "Threshold drops",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "oVEMP",
+     "metin": "Amplitude grows",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "High frequency",
+     "metin": "A response at high pitch stands out",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Local norms",
+     "metin": "Limits depend on the lab",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The vestibular evoked myogenic potential, or VEMP, is one of the most valuable physiological tests for dehiscence.",
+    {
+     "yazi": "The cervical VEMP, or cVEMP, is obtained at a clearly lower intensity than normal in the dehiscent ear.",
+     "ses": "The cervical VEMP is obtained at a clearly lower intensity than normal in the dehiscent ear."
+    },
+    {
+     "yazi": "The amplitude of the ocular VEMP, or oVEMP, grows markedly; in many studies, this is the most distinctive finding.",
+     "ses": "The amplitude of the ocular VEMP grows markedly; in many studies, this is the most distinctive finding."
+    },
+    {
+     "yazi": "A clear oVEMP to a four thousand hertz stimulus, which normally gives a weak response, can also suggest dehiscence.",
+     "ses": "A clear ocular VEMP to a four thousand hertz stimulus, which normally gives a weak response, can also suggest dehiscence."
+    },
+    "In otosclerosis, by contrast, an air-conducted stimulus usually gives no VEMP; this difference is very valuable in diagnosis.",
+    "Because cutoff values vary with device, stimulus and laboratory, interpretation uses local norms."
+   ]
+  },
+  {
+   "id": "otoskleroz",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "Otosclerosis or *dehiscence?*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Acoustic reflex",
+     "metin": "Otosclerosis: _absent_. Dehiscence: _present_.",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Bone conduction",
+     "metin": "Otosclerosis: not below zero, Carhart notch. Dehiscence: _negative values_.",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Sound and pressure",
+     "metin": "Dehiscence: _vertigo_ is triggered; not expected in otosclerosis.",
+     "cumle": 4
+    },
+    {
+     "ikon": "noron",
+     "baslik": "VEMP",
+     "metin": "Otosclerosis: usually _absent_. Dehiscence: _enlarged_.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A low-frequency air-bone gap first brings otosclerosis to mind, so telling the two apart is very important.",
+    "In otosclerosis, the stapes footplate is fixed, so the acoustic reflex is usually absent.",
+    "In superior canal dehiscence, the middle ear is intact, and the acoustic reflex is usually present.",
+    "In otosclerosis, bone conduction does not fall below zero; a Carhart notch is often seen around two thousand hertz.",
+    "In dehiscence, symptoms from sound and pressure and enlarged VEMP responses complete the picture.",
+    "Stapes surgery done on a wrong diagnosis does not relieve the symptoms, so reflex testing should not be skipped."
+   ]
+  },
+  {
+   "id": "diger_bulgular",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "Other *clues*",
+   "maddeler": [
+    {
+     "metin": "Weber may lateralize _to the dehiscent ear_",
+     "cumle": 0,
+     "ikon": "diyapazon"
+    },
+    {
+     "metin": "_Hearing_ a tuning fork at the ankle",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "_Bone-conduction hyperacusis_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "ECochG: _SP/AP_ may rise",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "ayar": {
+     "test": "weber"
+    },
+    "vurgula": [
+     {
+      "parca": "alin",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "On tuning fork tests, the Weber may lateralize toward the dehiscent ear.",
+    "Some patients even hear, in that ear, a tuning fork placed on the bony prominence of the ankle.",
+    "These findings point to oversensitivity to bone-conducted sound, called bone-conduction hyperacusis.",
+    {
+     "yazi": "Electrocochleography, or ECochG, may show a raised ratio of summating potential to action potential in the dehiscent ear.",
+     "ses": "Electrocochleography, or E cock G, may show a raised ratio of summating potential to action potential in the dehiscent ear."
+    },
+    "Because this rise is also seen in Meniere's disease, it is not distinctive on its own."
+   ]
+  },
+  {
+   "id": "goz",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Audiological findings",
+   "baslik": "*Eye movements* from sound",
+   "maddeler": [
+    {
+     "metin": "Sound or pressure _is applied_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Movement _in the superior canal plane_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Reversed pressure, _reversed_ direction",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Recorded with _video goggles_",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kanal_duzlemleri",
+    "ayar": {
+     "goster": [
+      "larp",
+      "ralp"
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "sag_on_kanal",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Symptoms can also be shown during the examination.",
+    "The eyes are watched carefully while pressure is applied to the ear canal or a loud sound is presented.",
+    "In dehiscence, a vertical and torsional eye movement can appear in the plane of the open superior canal.",
+    "When the direction of pressure changes, the direction of the eye movement also reverses.",
+    "If this examination is done with video goggles, even small movements can be recorded and reviewed later."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not stop bone conduction at zero decibels; test negative values too. Normal tympanogram, low-frequency gap and present reflexes: think of a third window.",
+   "cumleler": [
+    "A clinical tip: do not stop searching once you find a bone-conduction threshold at zero decibels.",
+    "Also test whether the patient responds at minus five or minus ten decibels, and record the result.",
+    "When a normal tympanogram, a low-frequency air-bone gap and present acoustic reflexes occur together, think of a third window.",
+    "Stating this pattern clearly in the report helps the physician request the right imaging."
+   ]
+  },
+  {
+   "id": "tani",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Diagnosis and role",
+   "baslik": "Diagnosis: *three* pillars",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Symptom",
+     "metin": "Sound, pressure, autophony",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Physiological test",
+     "metin": "Bone conduction, VEMP, eyes",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "CT",
+     "metin": "Slices in the canal plane",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Physician's decision",
+     "metin": "Based on symptom severity",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "In 2021, the Barany Society published diagnostic criteria for superior canal dehiscence syndrome.",
+     "ses": "In twenty twenty one, the Barany Society published diagnostic criteria for superior canal dehiscence syndrome."
+    },
+    "These criteria require a symptom consistent with a third window together with at least one physiological test finding.",
+    "In addition, high-resolution CT must show the gap on images reconstructed in the plane of the canal.",
+    "Because CT can make thin bone look like a gap, the imaging finding alone is not enough.",
+    "The physician weighs treatment options based on symptom severity; with severe symptoms, surgical repair may be considered."
+   ]
+  },
+  {
+   "id": "diger_pencereler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Diagnosis and role",
+   "baslik": "Other *third windows*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Enlarged aqueduct",
+     "metin": "The next lesson",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Other dehiscences",
+     "metin": "Posterior canal, nearby vessels",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "X-linked",
+     "metin": "Inner ear malformation",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The third window effect is not seen only in the superior canal.",
+    "An enlarged vestibular aqueduct can also give a similar low-frequency gap and large VEMP responses.",
+    "Posterior canal dehiscence and gaps where the canal lies next to a large blood vessel have also been described.",
+    "In an X-linked inner ear malformation, a wide connection between the internal auditory canal and the cochlea has a similar effect.",
+    "What these conditions share is an air-bone gap despite a normal middle ear."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Diagnosis and role",
+   "baslik": "The *audiologist's* role",
+   "maddeler": [
+    {
+     "metin": "May be the _first to notice_ it",
+     "cumle": 0,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Negative bone conduction, reflexes, _VEMP_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "A _history_ of sound and pressure",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Comparison _before and after_ surgery",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A clear, _criteria-based_ report",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "akustik_refleks_arki",
+    "ayar": {
+     "uyarilan": "sag",
+     "ipsi_cumle": 1
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "The audiologist may be the first to notice findings that suggest a third window.",
+    "Measuring bone conduction down to negative values, testing reflexes and running VEMPs are key contributions here.",
+    "Asking in the history how symptoms relate to sound and pressure also guides the diagnosis.",
+    "In patients who have surgery, hearing and vestibular function are compared before and after.",
+    "Results are reported clearly to the ENT physician, in line with the diagnostic criteria."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "A third opening: _energy escapes_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Vertigo_ from sound and pressure, autophony",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Low-frequency gap, _negative bone conduction_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Reflexes present, _VEMP enlarged_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Superior canal dehiscence creates a third window in the inner ear, and part of the energy escapes through it.",
+    "Vertigo from sound and pressure, autophony and hearing internal body sounds are typical symptoms.",
+    "The audiogram can show a low-frequency air-bone gap and bone-conduction thresholds below zero.",
+    "Present acoustic reflexes and enlarged VEMP responses help distinguish it from otosclerosis."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which finding suggests dehiscence rather than otosclerosis?",
+   "secenekler": [
+    "Absent acoustic reflex",
+    "Carhart notch",
+    "Low cVEMP threshold",
+    "Flat tympanogram"
+   ],
+   "dogru": 2,
+   "aciklama": "In dehiscence, the _cVEMP threshold drops_ and oVEMP amplitude grows; in otosclerosis, VEMPs are usually absent.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: In a patient with a low-frequency gap, which finding suggests dehiscence rather than otosclerosis?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: a low cervical VEMP threshold.",
+    "An absent reflex and a Carhart notch fit otosclerosis better."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Enlarged Vestibular *Aqueduct* (EVA)",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we will examine another third window example, the enlarged vestibular aqueduct.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+  "dil": "en",
+  "bicim": "ders",
+  "dosya": "D070_Otosclerosis_EN",
+  "kapak": {
+    "ust": "LESSON 70",
+    "baslik": "*Otosclerosis*<br>and Carhart notch",
+    "alt": "Stapes fixation and audiogram findings",
+    "grafik": {"bolge": {"ust": -10, "alt": 25}, "seriler": [
+      {"kulak": "sag", "tip": "hava", "degerler": [50, 50, 45, 45, 40, 45]},
+      {"kulak": "sag", "tip": "kemik_maskeli", "degerler": [10, 10, 15, 30, 15]}]}
+  },
+  "youtube": {
+    "baslik": "Otosclerosis: Stapes Fixation and the Carhart Notch | Lesson 70 | AIHEAR Audiology Academy",
+    "aciklama": "Otosclerosis fixes the stapes footplate in the oval window and causes a progressive conductive hearing loss. In this lesson, we use sample data to look at the clinical picture of otosclerosis, its typical audiogram, the Carhart notch, tympanometry and acoustic reflex findings, and surgical and hearing aid options.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology; Cummings Otolaryngology: Head and Neck Surgery.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+    "kapanis_metni": "Subscribe so you never miss a new lesson.",
+    "hashtag": ["audiology", "otosclerosis", "hearing"],
+    "etiketler": ["otosclerosis", "Carhart notch", "stapes fixation", "stapedotomy", "stapes footplate", "conductive hearing loss", "air-bone gap", "acoustic reflex", "tympanogram", "audiology lessons", "AIHEAR"]
+  },
+  "sahneler": [
+    {"id": "acilis", "tur": "acilis", "ust": "LESSON 70", "baslik": "*Otosclerosis*: Stapes Fixation and the Carhart Notch", "alt": "Stapes fixation, audiogram findings and treatment options",
+     "cumleler": [
+       "Hello, and welcome to the AIHEAR Audiology Academy.",
+       "In this lesson, we examine otosclerosis, a disease in which the stapes loses its ability to move.",
+       "We will also talk about the Carhart notch on the audiogram, other test findings and treatment options."]},
+
+    {"id": "tanim", "tur": "maddeler", "bolum_no": "PART 1", "bolum": "Nature of the disease", "baslik": "What is *otosclerosis?*", "maddeler": [{"metin": "_Abnormal bone_ formation in the otic capsule", "cumle": 0, "ikon": "kulak"}, {"metin": "Most common site: in front of _oval window_", "cumle": 2, "ikon": "dikkat"}, {"metin": "The stapes footplate becomes _fixed_", "cumle": 3, "ikon": "kulak_tikali"}, {"metin": "Result: progressive _conductive_ loss", "cumle": 5, "ikon": "odyogram"}, {"metin": "Cochlear involvement: _mixed_ loss", "cumle": 6, "ikon": "grafik"}], "yan": {"tur": "cizim", "cizim": "orta_kulak", "cumle": 0, "vurgula": [{"parca": "oval_pencere", "cumle": 2}, {"parca": "stapes", "cumle": 3}, {"parca": "koklea", "cumle": 6}], "etiketler": [{"parca": "oval_pencere", "metin": "Oval window", "cumle": 2}, {"parca": "stapes", "metin": "Stapes footplate", "cumle": 3}, {"parca": "koklea", "metin": "Cochlea", "cumle": 6}]},
+     "cumleler": [
+       "Otosclerosis is a bone remodeling disease of the otic capsule, the bone that surrounds the inner ear.",
+       "In this hard bone, which normally renews itself very little, foci of spongy new bone develop.",
+       "The foci most often start just in front of the oval window, in a small area called the fissula ante fenestram.",
+       "This new bone fixes the base of the stapes, the part called the footplate, to the oval window.",
+       "Normally, the stapes moves in and out like a piston and passes vibration to the inner ear fluids.",
+       "A fixed stapes cannot make this movement, so a conductive hearing loss develops that progresses over time.",
+       "If the foci spread to the cochlea, a sensorineural component is added and the loss can become mixed."]},
+
+    {"id": "sema", "tur": "gorsel", "bolum_no": "PART 1", "bolum": "Nature of the disease", "baslik": "The stapes and the *oval window*", "cizim": "orta_kulak", "vurgula": [{"parca": "stapes", "cumle": 0}, {"parca": "oval_pencere", "cumle": 3}], "etiketler": [{"parca": "stapes", "metin": "stapes", "cumle": 0}, {"parca": "oval_pencere", "metin": "oval window", "cumle": 1}, {"parca": "malleus", "metin": "malleus", "cumle": 2}, {"parca": "incus", "metin": "incus", "cumle": 2}, {"parca": "stapedius", "metin": "stapedius muscle", "cumle": 4}], "notlar": [{"metin": "A fixed footplate weakens vibration", "cumle": 3, "ikon": "kulak_tikali"}, {"metin": "Tympanic membrane usually normal", "cumle": 5, "ikon": "otoskop"}], "yakinlastir": [{"parca": "oval_pencere", "cumle": 1, "olcek": 2.2}, {"parca": "genel", "cumle": 2}, {"parca": "stapes", "cumle": 3, "olcek": 2.0}, {"parca": "genel", "cumle": 5}],
+     "cumleler": [
+       "The diagram shows the middle ear; the highlighted ossicle is the stapes.",
+       "The footplate of the stapes sits in the oval window and is flexibly held by the annular ligament.",
+       "Sound reaches the stapes from the tympanic membrane through the malleus and the incus.",
+       "In otosclerosis, bone forms around this ligament, and the footplate gradually becomes immobile.",
+       "The stapedius muscle is also attached to the stapes, so the acoustic reflex is affected too; we will come back to this shortly.",
+       "The tympanic membrane, however, usually looks normal; otoscopy is often unremarkable."]},
+
+    {"id": "klinik", "tur": "maddeler", "bolum_no": "PART 2", "bolum": "Clinical picture", "baslik": "Who gets it, and *how?*", "maddeler": [{"metin": "Mostly between _20 and 40 years_", "cumle": 0, "ikon": "takvim"}, {"metin": "About _twice as common_ in women", "cumle": 1, "ikon": "grafik"}, {"metin": "_Both ears_ in most patients", "cumle": 2, "ikon": "kulak"}, {"metin": "Family history and _tinnitus_ common", "cumle": 3, "ikon": "gen_dna"}, {"metin": "Better understanding in noise", "cumle": 5, "ikon": "gurultu"}],
+     "cumleler": [
+       "Otosclerosis usually causes symptoms in young adulthood, between the ages of twenty and forty.",
+       "It is reported about twice as often in women as in men, and the loss may progress during pregnancy.",
+       "Both ears are affected in most patients, but the loss may not progress at the same rate on both sides.",
+       "A family history of similar hearing loss is common, and many patients have tinnitus, or ringing in the ears.",
+       "The disease is painless and there is no ear discharge; this helps to tell it apart from chronic middle ear disease.",
+       {"yazi": "Some patients say they understand speech better in noisy places; this is called paracusis Willisii.", "ses": "Some patients say they understand speech better in noisy places; this is called paracusis willissee eye."},
+       "This is because the other person raises their voice in noise, while the noise reaches the patient weakened by the conductive loss.",
+       {"yazi": "In the active phase, a pinkish blush is sometimes seen behind the eardrum; this is called the Schwartze sign.", "ses": "In the active phase, a pinkish blush is sometimes seen behind the eardrum; this is called the Shvartsa sign."}]},
+
+    {"id": "odyogram", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Audiogram findings", "baslik": "A typical *audiogram*", "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Air conduction_: right ear", "cumle": 0}, {"isaret": "[", "renk": "sag", "metin": "_Masked bone conduction_: right ear", "cumle": 1}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [50, 50, 45, 45, 40, 45], "cumle": 0}, {"kulak": "sag", "tip": "kemik_maskeli", "degerler": [10, 10, 15, 30, 15], "cumle": 1}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal", "cumle": 1}, "aralik": {"konum": [1, 10, 50], "etiket": "40 dB", "cumle": 2}},
+     "cumleler": [
+       "In this example, the air conduction thresholds of the right ear are between forty and fifty decibels.",
+       "The bone conduction thresholds, measured with the opposite ear masked, are largely in the normal range.",
+       "At low frequencies, the air-bone gap is about forty decibels; the loss is more marked here.",
+       "The reason is increased stiffness; stiffness reduces the transmission of low frequencies the most.",
+       "That is why early otosclerosis often shows a rising conductive loss that is more marked at low frequencies.",
+       "As the disease progresses, the loss flattens, and the air-bone gap can reach about sixty decibels at most."]},
+
+    {"id": "carhart", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Audiogram findings", "baslik": "The *Carhart* notch", "lejant": [{"isaret": "[", "renk": "sag", "metin": "_Bone conduction_: dip at 2000 Hz", "cumle": 0}, {"isaret": "O", "renk": "sag", "metin": "Air conduction: _conductive_ loss", "cumle": 0}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [50, 50, 45, 45, 40, 45], "cumle": 0}, {"kulak": "sag", "tip": "kemik_maskeli", "degerler": [10, 10, 15, 30, 15], "cumle": 0}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}},
+     "cumleler": [
+       "Now let us look more closely at the bone conduction thresholds; at two thousand hertz, the threshold drops to thirty decibels.",
+       "This dip is called the Carhart notch, after Raymond Carhart, who described it in nineteen fifty.",
+       "The notch is most marked around two thousand hertz, where bone conduction usually worsens by about fifteen decibels.",
+       "The key point is this: the dip is not a true cochlear loss but a mechanical effect.",
+       "Part of bone conduction hearing comes from a middle ear component that depends on the inertia of the ossicular chain.",
+       "When the chain is fixed, this component is lost, and the region around two thousand hertz, near the chain's resonance, is affected most.",
+       "The fact that bone conduction thresholds in this region often improve after successful stapes surgery supports this.",
+       "So the Carhart notch on its own should not be interpreted as a sensorineural loss."]},
+
+    {"id": "mikst", "tur": "odyogram", "bolum_no": "PART 3", "bolum": "Audiogram findings", "baslik": "Advanced stage: *mixed* loss", "lejant": [{"isaret": "O", "renk": "sag", "metin": "_Air conduction_: 60 to 70 dB HL", "cumle": 1}, {"isaret": "[", "renk": "sag", "metin": "_Bone conduction_: below normal", "cumle": 2}], "grafik": {"seriler": [{"kulak": "sag", "tip": "hava", "degerler": [65, 65, 60, 60, 65, 70], "cumle": 1}, {"kulak": "sag", "tip": "kemik_maskeli", "degerler": [30, 30, 35, 45, 40], "cumle": 2}], "bolge": {"ust": -10, "alt": 25, "etiket": "Normal"}, "aralik": {"konum": [1, 30, 65], "etiket": "35 dB", "cumle": 3}},
+     "cumleler": [
+       "When the disease progresses and also affects the cochlea, the picture can change.",
+       "In this example, the air conduction thresholds are between sixty and seventy decibels.",
+       "The masked bone conduction thresholds have also dropped below the normal range, to between thirty and forty five decibels.",
+       "The air-bone gap remains, so this is a mixed loss with both a conductive and a sensorineural component.",
+       "Such a picture can be seen in cochlear otosclerosis, where the foci also affect the cochlea.",
+       "If the drop in bone conduction is not limited to two thousand hertz, it cannot properly be explained by the Carhart notch."]},
+
+    {"id": "batarya", "tur": "ikonlar", "bolum_no": "PART 4", "bolum": "Test battery", "baslik": "Other test *findings*", "ogeler": [{"ikon": "otoskop", "baslik": "Otoscopy", "metin": "Usually normal", "cumle": 0}, {"ikon": "timpanometre_prob", "baslik": "Tympanogram", "metin": "A or As", "cumle": 1}, {"ikon": "uyari", "baslik": "Acoustic reflex", "metin": "Usually _absent_", "cumle": 3}, {"ikon": "diyapazon", "baslik": "Rinne (512 Hz)", "metin": "Negative", "cumle": 5}, {"ikon": "diyapazon", "baslik": "Weber", "metin": "To the poorer ear", "cumle": 6}, {"ikon": "konusma", "baslik": "Word recognition", "metin": "Usually good", "cumle": 7}],
+     "cumleler": [
+       "When otosclerosis is suspected, we look not at one test but at how the findings fit together.",
+       {"yazi": "The tympanogram is usually type A; if the peak stays low because of stiffness, a type As may be seen.", "ses": "The tympanogram is usually type A; if the peak stays low because of stiffness, a type A S may be seen."},
+       "So a normal-looking tympanogram does not rule out otosclerosis in a patient with an air-bone gap.",
+       "The acoustic reflex is usually absent in the affected ear: when the muscle contracts, the fixed chain gives no measurable admittance change.",
+       "Early in the disease, brief deflections in the opposite direction may be seen at the onset and offset of the reflex.",
+       "In tuning fork tests, if there is a clear air-bone gap, the Rinne test is negative.",
+       "In the Weber test, the sound lateralizes to the ear with the greater conductive loss.",
+       "As long as the cochlea is not affected, word recognition scores are usually good."]},
+
+    {"id": "ipucu", "tur": "ipucu", "baslik": "Clinical note", "metin": "If an air-bone gap comes with a type A tympanogram, always test the acoustic reflex. If the reflex is present, consider third window conditions too.",
+     "cumleler": [
+       "Here is a tip that is useful in the clinic.",
+       "In a patient with an air-bone gap but a type A tympanogram, always test the acoustic reflex.",
+       "In otosclerosis, the reflex measured in the affected ear is usually absent.",
+       "If a reflex is present, conditions that create a third window in the inner ear, such as superior canal dehiscence, should also come to mind.",
+       "This distinction is valuable information for the physician's decision on further investigation."]},
+
+    {"id": "tedavi", "tur": "karsilastir", "bolum_no": "PART 5", "bolum": "Treatment options", "baslik": "Surgery or *hearing aids?*", "sol": {"ust": "Stapes surgery", "maddeler": [{"metin": "Stapedotomy: a small hole in the footplate", "cumle": 1}, {"metin": "A piston prosthesis is placed", "cumle": 2}, {"metin": "The gap usually closes", "cumle": 4}, {"metin": "Rarely, sensorineural loss", "cumle": 5}]}, "sag": {"ust": "Device options", "maddeler": [{"metin": "No surgical risk", "cumle": 6}, {"metin": "Good benefit in conductive loss", "cumle": 6}, {"metin": "Cochlear implant in advanced loss", "cumle": 7}]},
+     "cumleler": [
+       "The treatment decision belongs to the physician; the audiologist provides the measurements needed for that decision.",
+       "In surgery, stapedotomy is the most common procedure today; a small hole is made in the stapes footplate.",
+       "A thin piston prosthesis hung from the incus is placed in this hole, and vibration reaches the inner ear again.",
+       "The older procedure, in which most of the footplate is removed, is called stapedectomy.",
+       "In experienced hands, the air-bone gap closes markedly in the great majority of patients.",
+       "But a small number of patients can develop a permanent sensorineural loss; this risk is discussed openly in counseling.",
+       "For patients who do not want or are not suited to surgery, a hearing aid is a good option, as gain is used well in conductive loss.",
+       "If the loss has become very severe, a cochlear implant may also be considered."]},
+
+    {"id": "rol", "tur": "maddeler", "bolum_no": "PART 5", "bolum": "Treatment options", "baslik": "The audiologist's *role*", "maddeler": [{"metin": "_Masked_ bone conduction is essential", "cumle": 0, "ikon": "kemik_vibratoru"}, {"metin": "Bilateral loss: the _masking dilemma_", "cumle": 2, "ikon": "gurultu"}, {"metin": "Preoperative _baseline record_", "cumle": 3, "ikon": "rapor"}, {"metin": "Afterward, monitor _bone conduction_", "cumle": 4, "ikon": "grafik"}], "yan": {"tur": "kart", "ust": "MEASURE OF SUCCESS", "metin": "Postoperative air-bone gap of *10 dB* or less", "cumle": 5},
+     "cumleler": [
+       "In otosclerosis, an accurate bone conduction threshold is very important, so bone conduction is measured with the opposite ear masked.",
+       "The size of the air-bone gap is the main indicator of the gain that can be expected from surgery.",
+       "If both ears have a large conductive loss, a masking dilemma can arise; we will cover this in the masking lessons.",
+       "The preoperative audiogram is the baseline record for comparison with postoperative results.",
+       "At postoperative checks, we look both at closure of the air-bone gap and at preservation of bone conduction.",
+       "An air-bone gap of ten decibels or less is a commonly used measure of success.",
+       "If the patient reports a sudden drop in hearing or dizziness after surgery, they are referred to the physician without delay."]},
+
+    {"id": "ozet", "tur": "ozet", "baslik": "What we *learned*", "maddeler": [{"metin": "Otosclerosis fixes the _stapes footplate_", "cumle": 0, "ikon": "kulak_tikali"}, {"metin": "Low-frequency weighted _conductive_ loss", "cumle": 1, "ikon": "odyogram"}, {"metin": "_Carhart notch_: mechanical bone conduction dip", "cumle": 2, "ikon": "grafik"}, {"metin": "Reflex absent, tympanogram _A or As_", "cumle": 3, "ikon": "timpanometre_prob"}],
+     "cumleler": [
+       "In otosclerosis, new bone in the otic capsule fixes the stapes footplate to the oval window.",
+       "The result is a progressive conductive loss that is more marked at low frequencies in the early stage.",
+       "The Carhart notch is a mechanical dip in bone conduction around two thousand hertz that often improves with surgery.",
+       {"yazi": "An absent acoustic reflex and a type A or As tympanogram complete the picture.", "ses": "An absent acoustic reflex and a type A or A S tympanogram complete the picture."}]},
+
+    {"id": "test", "tur": "test", "soru": "What does the Carhart notch reflect?", "secenekler": ["Hair cell loss", "A mechanical middle ear effect", "Auditory nerve damage", "Measurement error"], "dogru": 1, "aciklama": "When the chain is fixed, the _middle ear component_ of bone conduction is lost; the notch often improves after successful surgery.",
+     "cumleler": [
+       {"yazi": "Test yourself: What does the Carhart notch in otosclerosis reflect?", "sonra_bekle": 5},
+       "The correct answer is B: it reflects a mechanical middle ear effect.",
+       "When the chain is fixed, the middle ear component of bone conduction is lost, so the notch often improves after successful surgery."]},
+
+    {"id": "kapanis", "tur": "kapanis", "sonraki": "Ossicular *Discontinuity* and Middle Ear Trauma", "cikis": 2.5,
+     "cumleler": [
+       "In the next lesson, we will examine ossicular chain discontinuity and middle ear trauma.",
+       "Subscribe to the channel so you never miss a new lesson. See you soon!"]}
+  ]
+}

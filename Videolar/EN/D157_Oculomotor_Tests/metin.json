@@ -1,0 +1,1499 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D157_Oculomotor_Tests_EN",
+ "kapak": {
+  "ust": "LESSON 157",
+  "baslik": "*Oculomotor*<br>tests",
+  "alt": "Saccades, pursuit, OKN, gaze",
+  "cizim": "nistagmus_izi"
+ },
+ "youtube": {
+  "baslik": "Oculomotor Tests: Saccades, Pursuit, OKN, Gaze | Lesson 157 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson covers the oculomotor tests of the VNG battery: saccade latency, velocity and accuracy, smooth pursuit gain, optokinetic nystagmus, gaze nystagmus and fixation suppression. We explain which findings suggest a central problem and which factors can distort the results.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jacobson and Shepard, Balance Function Assessment and Management; Leigh and Zee, The Neurology of Eye Movements; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "VNG",
+   "vestibular"
+  ],
+  "etiketler": [
+   "oculomotor tests",
+   "saccade",
+   "smooth pursuit",
+   "optokinetic nystagmus",
+   "OKN",
+   "gaze-evoked nystagmus",
+   "fixation suppression",
+   "dysmetria",
+   "VNG",
+   "vestibular assessment",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 157",
+   "baslik": "*Oculomotor* tests",
+   "alt": "Saccades, pursuit, optokinetic and gaze",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will see the oculomotor part of the videonystagmography, or VNG, battery: saccade, pursuit, optokinetic and gaze tests.",
+    "For each test, we will cover what is measured and which findings suggest a central cause."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why oculomotor?",
+   "baslik": "Why *oculomotor* tests?",
+   "maddeler": [
+    {
+     "metin": "Tests the _central_ pathways",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Brainstem and _cerebellum_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Affects caloric _interpretation_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Done _first_ in the battery",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_sapi_vestibuler",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "beyincik",
+      "metin": "Cerebellum",
+      "cumle": 1
+     },
+     {
+      "parca": "mlf",
+      "metin": "MLF",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "beyincik",
+      "cumle": 1
+     },
+     {
+      "parca": "mlf",
+      "cumle": 2
+     },
+     {
+      "parca": "abdusens_cekirdek",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Oculomotor tests assess not the inner ear but the central pathways that control eye movements.",
+    "These pathways include nuclei in the brainstem, the cerebellum and some areas of the cerebral cortex.",
+    "An abnormality in these tests suggests that there may be a central cause behind the dizziness.",
+    "Also, if there is an oculomotor problem, the interpretation of nystagmus in caloric and positional tests changes.",
+    "That is why oculomotor tests are done before the vestibular tests.",
+    "The findings do not make a diagnosis; results that suggest a central pattern are passed on to the physician."
+   ]
+  },
+  {
+   "id": "sakkad",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Saccades",
+   "baslik": "The *saccade* test",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 600,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 30,
+     "adim": 10,
+     "ad": "Position (degrees)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        100,
+        0
+       ],
+       [
+        100,
+        20
+       ],
+       [
+        600,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "target",
+      "cumle": 1
+     },
+     {
+      "ad": "goz",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        300,
+        0
+       ],
+       [
+        315,
+        6
+       ],
+       [
+        330,
+        15
+       ],
+       [
+        345,
+        19.5
+       ],
+       [
+        360,
+        20
+       ],
+       [
+        600,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "yumusak": true,
+      "etiket": "eye",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "latans",
+      "x": [
+       100,
+       300
+      ],
+      "y": 25,
+      "etiket": "latency",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Measured: _latency_, velocity, accuracy",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Targets jump _randomly_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "A saccade is the eye movement that shifts gaze very quickly from one point to another.",
+    "In the test, the patient follows with the eyes a dot that jumps from one place to another on a screen or light bar.",
+    "In the graph, the gray dashed line shows the target and the blue line shows the eye movement.",
+    "The time between the target's jump and the start of the eye movement is called latency.",
+    "In adults, saccade latency is usually around two hundred milliseconds; normal limits vary with age and device.",
+    "The position and timing of the targets are randomized so the patient cannot predict the jump."
+   ]
+  },
+  {
+   "id": "sakkad_olcut",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Saccades",
+   "baslik": "*Three measures* of a saccade",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Latency",
+     "metin": "Prolonged: attention, age or cortical pathways.",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Velocity",
+     "metin": "Larger saccades are faster; slowing: brainstem or drugs.",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Accuracy",
+     "metin": "Missing the target: dysmetria, often cerebellar.",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The saccade test looks at three measures: latency, velocity and accuracy.",
+    "Prolonged latency may be linked to reduced attention, older age and problems affecting cortical pathways.",
+    "Peak saccade velocity rises with saccade size; this natural relationship is called the main sequence.",
+    "Marked slowing of saccades may suggest brainstem problems, or the effect of some drugs and fatigue.",
+    "Slowing in one eye or one direction may point in particular to an eye muscle or nerve pathway problem.",
+    "Accuracy shows how exactly the eye lands on the target; missing the target is called dysmetria."
+   ]
+  },
+  {
+   "id": "dismetri",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Saccades",
+   "baslik": "*Missing* the target",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 500,
+     "ad": "Time (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 30,
+     "adim": 10,
+     "ad": "Position (degrees)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        50,
+        0
+       ],
+       [
+        50,
+        20
+       ],
+       [
+        500,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "target",
+      "cumle": 0
+     },
+     {
+      "ad": "hipometrik",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        250,
+        0
+       ],
+       [
+        280,
+        12
+       ],
+       [
+        300,
+        16
+       ],
+       [
+        400,
+        16
+       ],
+       [
+        420,
+        19
+       ],
+       [
+        430,
+        20
+       ],
+       [
+        500,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "hypometric",
+      "cumle": 1
+     },
+     {
+      "ad": "hipermetrik",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        250,
+        0
+       ],
+       [
+        280,
+        18
+       ],
+       [
+        300,
+        25
+       ],
+       [
+        380,
+        25
+       ],
+       [
+        400,
+        21
+       ],
+       [
+        410,
+        20
+       ],
+       [
+        500,
+        20
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "etiket": "hypermetric",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Mild hypometria: _common and normal_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Marked hypermetria: _cerebellum_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "This graph shows two different saccades made to the same target.",
+    "On the blue line, the eye falls short of the target and reaches it with a small second saccade; this is called hypometria.",
+    "Mild hypometria is common in healthy people too and is not meaningful on its own.",
+    "On the red line, the eye overshoots the target and comes back; this is called hypermetria.",
+    "Marked, consistent hypermetria or severe hypometria are among the findings that suggest cerebellar problems.",
+    "A finding matters more if it is consistent in one direction over repeated trials; a single faulty saccade is not interpreted."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Pursuit and optokinetic",
+   "baslik": "*Smooth pursuit*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "ad": "Time (s)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 20,
+     "adim": 10,
+     "ad": "Position (degrees)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        3.73
+       ],
+       [
+        0.2,
+        7.23
+       ],
+       [
+        0.3,
+        10.27
+       ],
+       [
+        0.4,
+        12.66
+       ],
+       [
+        0.5,
+        14.27
+       ],
+       [
+        0.6,
+        14.97
+       ],
+       [
+        0.7,
+        14.73
+       ],
+       [
+        0.8,
+        13.57
+       ],
+       [
+        0.9,
+        11.56
+       ],
+       [
+        1.0,
+        8.82
+       ],
+       [
+        1.1,
+        5.52
+       ],
+       [
+        1.2,
+        1.88
+       ],
+       [
+        1.3,
+        -1.88
+       ],
+       [
+        1.4,
+        -5.52
+       ],
+       [
+        1.5,
+        -8.82
+       ],
+       [
+        1.6,
+        -11.56
+       ],
+       [
+        1.7,
+        -13.57
+       ],
+       [
+        1.8,
+        -14.73
+       ],
+       [
+        1.9,
+        -14.97
+       ],
+       [
+        2.0,
+        -14.27
+       ],
+       [
+        2.1,
+        -12.66
+       ],
+       [
+        2.2,
+        -10.27
+       ],
+       [
+        2.3,
+        -7.23
+       ],
+       [
+        2.4,
+        -3.73
+       ],
+       [
+        2.5,
+        -0.0
+       ],
+       [
+        2.6,
+        3.73
+       ],
+       [
+        2.7,
+        7.23
+       ],
+       [
+        2.8,
+        10.27
+       ],
+       [
+        2.9,
+        12.66
+       ],
+       [
+        3.0,
+        14.27
+       ],
+       [
+        3.1,
+        14.97
+       ],
+       [
+        3.2,
+        14.73
+       ],
+       [
+        3.3,
+        13.57
+       ],
+       [
+        3.4,
+        11.56
+       ],
+       [
+        3.5,
+        8.82
+       ],
+       [
+        3.6,
+        5.52
+       ],
+       [
+        3.7,
+        1.88
+       ],
+       [
+        3.8,
+        -1.88
+       ],
+       [
+        3.9,
+        -5.52
+       ],
+       [
+        4.0,
+        -8.82
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "target",
+      "cumle": 1
+     },
+     {
+      "ad": "goz",
+      "noktalar": [
+       [
+        0.001,
+        0.0
+       ],
+       [
+        0.051,
+        1.03
+       ],
+       [
+        0.101,
+        2.05
+       ],
+       [
+        0.151,
+        3.04
+       ],
+       [
+        0.201,
+        3.97
+       ],
+       [
+        0.251,
+        4.85
+       ],
+       [
+        0.3,
+        5.65
+       ],
+       [
+        0.301,
+        10.27
+       ],
+       [
+        0.351,
+        10.98
+       ],
+       [
+        0.401,
+        11.59
+       ],
+       [
+        0.451,
+        12.09
+       ],
+       [
+        0.501,
+        12.47
+       ],
+       [
+        0.551,
+        12.72
+       ],
+       [
+        0.601,
+        12.85
+       ],
+       [
+        0.651,
+        12.85
+       ],
+       [
+        0.701,
+        12.72
+       ],
+       [
+        0.751,
+        12.47
+       ],
+       [
+        0.801,
+        12.09
+       ],
+       [
+        0.851,
+        11.59
+       ],
+       [
+        0.901,
+        10.98
+       ],
+       [
+        0.951,
+        10.27
+       ],
+       [
+        1.001,
+        9.47
+       ],
+       [
+        1.051,
+        8.6
+       ],
+       [
+        1.101,
+        7.66
+       ],
+       [
+        1.151,
+        6.67
+       ],
+       [
+        1.201,
+        5.65
+       ],
+       [
+        1.25,
+        4.62
+       ],
+       [
+        1.251,
+        0.0
+       ],
+       [
+        1.301,
+        -1.03
+       ],
+       [
+        1.351,
+        -2.05
+       ],
+       [
+        1.401,
+        -3.04
+       ],
+       [
+        1.451,
+        -3.97
+       ],
+       [
+        1.501,
+        -4.85
+       ],
+       [
+        1.55,
+        -5.65
+       ],
+       [
+        1.551,
+        -10.27
+       ],
+       [
+        1.601,
+        -10.98
+       ],
+       [
+        1.651,
+        -11.59
+       ],
+       [
+        1.701,
+        -12.09
+       ],
+       [
+        1.751,
+        -12.47
+       ],
+       [
+        1.801,
+        -12.72
+       ],
+       [
+        1.851,
+        -12.85
+       ],
+       [
+        1.901,
+        -12.85
+       ],
+       [
+        1.951,
+        -12.72
+       ],
+       [
+        2.001,
+        -12.47
+       ],
+       [
+        2.051,
+        -12.09
+       ],
+       [
+        2.101,
+        -11.59
+       ],
+       [
+        2.151,
+        -10.98
+       ],
+       [
+        2.201,
+        -10.27
+       ],
+       [
+        2.251,
+        -9.47
+       ],
+       [
+        2.301,
+        -8.6
+       ],
+       [
+        2.351,
+        -7.66
+       ],
+       [
+        2.401,
+        -6.67
+       ],
+       [
+        2.451,
+        -5.65
+       ],
+       [
+        2.5,
+        -4.62
+       ],
+       [
+        2.501,
+        -0.0
+       ],
+       [
+        2.551,
+        1.03
+       ],
+       [
+        2.601,
+        2.05
+       ],
+       [
+        2.651,
+        3.04
+       ],
+       [
+        2.701,
+        3.97
+       ],
+       [
+        2.751,
+        4.85
+       ],
+       [
+        2.8,
+        5.65
+       ],
+       [
+        2.801,
+        10.27
+       ],
+       [
+        2.851,
+        10.98
+       ],
+       [
+        2.901,
+        11.59
+       ],
+       [
+        2.951,
+        12.09
+       ],
+       [
+        3.001,
+        12.47
+       ],
+       [
+        3.051,
+        12.72
+       ],
+       [
+        3.101,
+        12.85
+       ],
+       [
+        3.151,
+        12.85
+       ],
+       [
+        3.201,
+        12.72
+       ],
+       [
+        3.251,
+        12.47
+       ],
+       [
+        3.301,
+        12.09
+       ],
+       [
+        3.351,
+        11.59
+       ],
+       [
+        3.401,
+        10.98
+       ],
+       [
+        3.451,
+        10.27
+       ],
+       [
+        3.501,
+        9.47
+       ],
+       [
+        3.551,
+        8.6
+       ],
+       [
+        3.601,
+        7.66
+       ],
+       [
+        3.651,
+        6.67
+       ],
+       [
+        3.701,
+        5.65
+       ],
+       [
+        3.75,
+        4.62
+       ],
+       [
+        3.751,
+        0.0
+       ],
+       [
+        3.801,
+        -1.03
+       ],
+       [
+        3.851,
+        -2.05
+       ],
+       [
+        3.901,
+        -3.04
+       ],
+       [
+        3.951,
+        -3.97
+       ],
+       [
+        4.001,
+        -4.85
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "etiket": "eye: saccadic pursuit",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Gain = eye velocity / _target velocity_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Stepped trace: _saccadic pursuit_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Smooth pursuit lets us follow a small, slowly moving target with the eyes without interruption.",
+    "In the test, the patient follows a dot moving sinusoidally right and left on a screen, without moving the head.",
+    "The main value measured is pursuit gain, that is, the ratio of eye velocity to target velocity.",
+    {
+     "yazi": "For slow targets, gain in a healthy adult is close to one; many laboratories expect it to be above about 0.8.",
+     "ses": "For slow targets, gain in a healthy adult is close to one; many laboratories expect it to be above about zero point eight."
+    },
+    "When gain falls, the eye lags behind the target and makes small saccades to catch up; this stepped look is called saccadic pursuit.",
+    "The red trace in the graph shows low-gain, stepped pursuit in this example."
+   ]
+  },
+  {
+   "id": "takip_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Pursuit and optokinetic",
+   "baslik": "*Interpreting* pursuit",
+   "maddeler": [
+    {
+     "metin": "Gain decreases _with age_",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_Falls_ as the target speeds up",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Reduced both ways: _nonspecific_",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Impaired one way: _central_ suspicion",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "yasli",
+      "baslik": "Age",
+      "metin": "Gain decreases",
+      "cumle": 0
+     },
+     {
+      "ikon": "ilac",
+      "baslik": "Drugs, alcohol",
+      "metin": "Impair pursuit",
+      "cumle": 2
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Attention",
+      "metin": "Keep them alert",
+      "cumle": 2
+     }
+    ],
+    "ust": "CONFOUNDERS"
+   },
+   "cumleler": [
+    "Pursuit gain decreases with age, so age-appropriate norms are used.",
+    "As target frequency and velocity increase, gain falls in healthy people as well.",
+    "A mild reduction in both directions is often nonspecific; attention, fatigue, medications and alcohol also impair pursuit.",
+    "In an acute peripheral loss, strong spontaneous nystagmus can also distort the pursuit trace, so the spontaneous recording is checked first.",
+    "Marked, repeated impairment in one direction, however, is a more meaningful finding that suggests a central problem.",
+    "The pursuit result is always interpreted together with the saccade and gaze tests."
+   ]
+  },
+  {
+   "id": "okn",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Pursuit and optokinetic",
+   "baslik": "*Optokinetic* nystagmus",
+   "maddeler": [
+    {
+     "metin": "Moving _stripes_ are followed",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Slow phase _with the stripes_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Full-field stimulus _more valid_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Both directions should be _symmetric_",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Asymmetry: _centrally_ important",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 1,
+    "ayar": {
+     "yon": "sol",
+     "tur": "sicramali",
+     "yavas_cumle": 1,
+     "hizli_cumle": 1,
+     "baslik": "Stripes moving right"
+    },
+    "etiketler": [
+     {
+      "parca": "yavas_faz",
+      "metin": "Slow phase: with stripes",
+      "cumle": 1
+     },
+     {
+      "parca": "hizli_faz",
+      "metin": "Fast phase: back",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Optokinetic nystagmus, or OKN, is a normal nystagmus that occurs while watching stripes moving across the visual field.",
+    "As the stripes move right, the slow phase follows them to the right, and the fast phase brings the eyes back to the left.",
+    "The eye movement we make while looking out of a train window is an everyday example.",
+    "A true optokinetic stimulus fills the whole visual field; a small stimulus from a light bar largely tests the pursuit system.",
+    "Normally, responses to rightward and leftward movement are similar, that is, symmetric.",
+    "Marked asymmetry suggests a central problem; the finding is usually consistent with an abnormality on the pursuit test."
+   ]
+  },
+  {
+   "id": "bakis",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Gaze and interpretation",
+   "baslik": "The *gaze* test",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "tur": "sicramali",
+    "yavas_cumle": 2,
+    "hizli_cumle": 2,
+    "baslik": "Right-beating on right gaze"
+   },
+   "etiketler": [
+    {
+     "parca": "hizli_faz",
+     "metin": "Fast phase: toward gaze",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Direction-changing_ with gaze: caution",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Drugs and _alcohol_ also cause it",
+     "cumle": 3,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "End-point nystagmus: _normal_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "In the gaze test, the patient looks straight ahead, then right, left, up and down, and holds gaze there.",
+    "The gaze angle is usually about twenty to thirty degrees; in each direction, recordings are taken with and without fixation.",
+    "Nystagmus that beats in the direction of gaze and changes direction with gaze is called gaze-evoked nystagmus.",
+    "This finding may suggest cerebellar and brainstem problems; antiepileptics, sedatives and alcohol can produce the same picture.",
+    "End-point nystagmus, seen on extreme lateral gaze, lasting a few beats and symmetric on both sides, is usually normal.",
+    "Peripheral nystagmus, by contrast, does not change direction; following Alexander's law, it increases on gaze toward the fast phase."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Gaze and interpretation",
+   "baslik": "What should not be *missed*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Square wave",
+     "metin": "Small jump away and back; meaningful if frequent.",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Rebound",
+     "metin": "Reverse nystagmus on return to center.",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pure vertical",
+     "metin": "Vertical nystagmus on gaze: a central sign.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "There are other findings to watch for in gaze and saccade recordings.",
+    "Square wave jerks are small saccades that take the eye off the target, followed shortly by a return.",
+    "Occasional square wave jerks are considered normal, especially in older adults; very frequent, prominent ones are centrally meaningful.",
+    "If brief nystagmus in the opposite direction appears on returning to center after long lateral gaze, this is called rebound nystagmus.",
+    "Pure upbeating or downbeating nystagmus brought out by gaze is also a central sign.",
+    "These findings are marked on the recording and noted separately in the report.",
+    "Watching the video image during recording also makes it easier to tell these small movements from artifacts."
+   ]
+  },
+  {
+   "id": "fiksasyon",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Gaze and interpretation",
+   "baslik": "*Fixation* suppression",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "ad": "Condition",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Darkness",
+      "2": "Fixation"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 15,
+     "adim": 5,
+     "ad": "Slow-phase velocity (degrees/s)"
+    },
+    "seriler": [
+     {
+      "ad": "karanlik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        12
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "12",
+      "cumle": 1,
+      "genislik": 0.6
+     },
+     {
+      "ad": "fiksasyon",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        3
+       ]
+      ],
+      "renk": "yesil",
+      "etiket": "3",
+      "cumle": 2,
+      "genislik": 0.6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Peripheral: _decreases_ with fixation",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "If not: _central_ suspicion",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Fixation suppression is the reduction of nystagmus when the eyes fixate on a point.",
+    "In this example, slow-phase velocity in darkness was measured at twelve degrees per second.",
+    "When the patient looked at a light, velocity fell to three degrees per second, so the nystagmus was clearly suppressed.",
+    "Peripheral vestibular nystagmus usually falls by more than half with fixation; this suppression is largely provided by the cerebellum.",
+    "Nystagmus that does not decrease, or increases, with fixation is an important finding that suggests a central problem.",
+    "This measurement is made for spontaneous nystagmus and in the caloric test, by turning on a light at the response peak."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "PART 4",
+   "bolum": "Gaze and interpretation",
+   "baslik": "Peripheral and *central* patterns",
+   "sutunlar": [
+    "Test",
+    "Peripheral problem",
+    "Central suspicion"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Saccades",
+      "Normal",
+      "Slow or dysmetric"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Smooth pursuit",
+      "Usually normal",
+      "Impaired one way"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Optokinetic",
+      "Symmetric",
+      "Markedly asymmetric"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Gaze nystagmus",
+      "Unidirectional",
+      "Direction-changing"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Fixation",
+      "Suppresses nystagmus",
+      "Does not suppress"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Now let us gather the oculomotor findings in a single table.",
+    "In a peripheral vestibular problem, saccades are normal; slow or markedly dysmetric saccades raise central suspicion.",
+    "Smooth pursuit is usually preserved in peripheral problems; marked impairment in one direction is more centrally meaningful.",
+    "The optokinetic response stays symmetric in peripheral problems; marked asymmetry is a central sign.",
+    "Nystagmus that changes direction with gaze fits a central pattern, while unidirectional nystagmus fits a peripheral one.",
+    "Nystagmus that is not suppressed by fixation is a centrally important finding."
+   ]
+  },
+  {
+   "id": "karistirici",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Gaze and interpretation",
+   "baslik": "What can *distort* the result",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Age",
+     "metin": "Age-based norms",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Alertness",
+     "metin": "Keep the patient talking",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Vision",
+     "metin": "Must see the target clearly",
+     "cumle": 3
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Drugs and alcohol",
+     "metin": "Asked about in history",
+     "cumle": 4
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Calibration",
+     "metin": "Verified first",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Oculomotor findings are affected not only by disease but also by test conditions.",
+    "With age, saccade latency lengthens and pursuit gain decreases, so age-appropriate norms are used.",
+    "In a drowsy or distracted patient, saccades and pursuit may be impaired, so the patient is kept alert throughout.",
+    "The patient must be able to see the target clearly; severe vision problems and removing glasses can affect the result.",
+    "Sedatives, antiepileptics and alcohol impair pursuit and gaze tests in particular.",
+    "Finally, a faulty calibration can make every numerical measurement misleading."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If you see an oculomotor abnormality, first check calibration, attention and medications. Pass consistent central findings to the physician.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: when you see an abnormal oculomotor finding, first rule out technical and patient-related causes.",
+    "Check the calibration, make sure the patient is alert and focused on the target, and review their medications.",
+    "If the finding is consistent across repeated trials, for example pursuit always impaired one way, state this clearly in the report.",
+    "Consistent findings that suggest a central pattern are passed on to the physician, regardless of the caloric result."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Saccades: _latency_, velocity, accuracy",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pursuit gain: eye velocity / _target velocity_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Direction-changing gaze nystagmus: _central_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Not suppressed by fixation: _central_ suspicion",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "The saccade test measures latency, velocity and accuracy; slow or markedly dysmetric saccades raise central suspicion.",
+    "Pursuit gain is affected by age and attention; marked impairment in one direction is more meaningful.",
+    "Direction-changing gaze-evoked nystagmus and pure vertical nystagmus are central signs.",
+    "Peripheral nystagmus decreases with fixation; failure to decrease suggests a central problem."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which oculomotor finding raises central suspicion?",
+   "secenekler": [
+    "Mildly hypometric saccades",
+    "Symmetric end-point nystagmus",
+    "Nystagmus not reduced by fixation",
+    "Mild age-related pursuit decline"
+   ],
+   "dogru": 2,
+   "aciklama": "Peripheral nystagmus decreases with fixation; _failure to decrease_ suggests a central problem.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which of the following oculomotor findings suggests a central problem?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: nystagmus that does not decrease with fixation.",
+    "Mild hypometria, end-point nystagmus and a mild age-related drop in pursuit can also be seen in healthy people."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caloric Testing: *Bithermal* Procedure and Interpretation",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn the best-known part of the VNG battery, the caloric test, with its bithermal procedure and interpretation.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

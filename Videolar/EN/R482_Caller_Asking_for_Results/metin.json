@@ -1,0 +1,101 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R482_Caller_Asking_for_Results_EN",
+ "kapak": {
+  "ust": "QUICK FACT #482",
+  "baslik": "Who is *calling?*",
+  "alt": "Privacy when sharing results",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Should you give a patient's results to someone who phones? #shorts",
+  "aciklama": "In Türkiye, an audiogram kept with identity details is personal data and, as health data, is specially protected. A person who phones asking for a patient's result is not given information right away; verify, in the way the institution specifies, that the caller is the patient or is authorized. When sending a report, double-check the email address and recipient; when unsure, give the result to the patient in person or through the institution's secure channel. This is not legal advice; check the current legislation.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "privacy",
+   "dataprotection"
+  ],
+  "etiketler": [
+   "personal data protection",
+   "KVKK",
+   "patient privacy",
+   "health data",
+   "sharing results",
+   "audiology clinic",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Should you give a patient's results to someone who phones?",
+  "bilgiler": [
+   "The caller's identity is verified the institution's way.",
+   "The email recipient is checked twice.",
+   "When unsure, the result goes to the patient."
+  ],
+  "hashtag": [
+   "audiology",
+   "privacy",
+   "dataprotection"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #482",
+   "metin": "Do you *tell them?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Should you give a patient's results to someone who phones?"
+   ]
+  },
+  {
+   "id": "dogrula",
+   "tur": "zincir",
+   "baslik": "Verify *first*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Caller",
+     "tr": "identity verified",
+     "cumle": 1
+    },
+    {
+     "ad": "Email",
+     "tr": "recipient checked twice",
+     "cumle": 2
+    },
+    {
+     "ad": "If unsure",
+     "tr": "to the patient",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Do not give results right away to someone who phones asking.",
+    "Verify, the institution's way, that the caller is the patient or authorized.",
+    "Check the recipient twice; a report sent wrongly cannot be taken back.",
+    "If unsure, give the result to the patient, through a secure channel."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D283",
+ "kaynak_baslik": "Informed Consent and Patient Privacy in Türkiye"
+}

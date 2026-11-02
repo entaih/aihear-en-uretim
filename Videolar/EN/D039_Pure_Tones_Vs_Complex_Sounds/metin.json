@@ -1,0 +1,3682 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D039_Pure_Tones_Vs_Complex_Sounds_EN",
+ "kapak": {
+  "ust": "LESSON 39",
+  "baslik": "Pure tones,<br>*complex sounds*",
+  "alt": "Fourier basics",
+  "cizim": "dalga_bicimi",
+  "ayar": {
+   "seriler": [
+    "ton",
+    "karmasik"
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Pure Tones vs Complex Sounds: Fourier Basics | Lesson 39 | AIHEAR Audiology Academy",
+  "aciklama": "What is a pure tone, and how does it differ from complex sounds such as speech and music? In this lesson we learn frequency, period and wavelength, the fundamental frequency and harmonics, Fourier analysis, waveform and spectrum displays, and why short sounds spread over a wide spectrum.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Rosen and Howell, Signals and Systems for Speech and Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "fourier"
+  ],
+  "etiketler": [
+   "pure tone",
+   "complex sound",
+   "Fourier analysis",
+   "fundamental frequency",
+   "harmonics",
+   "spectrum",
+   "waveform",
+   "timbre",
+   "tone burst",
+   "hearing science",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 39",
+   "baslik": "Pure tones and *complex sounds*",
+   "alt": "Fourier basics",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will compare the simplest sound, the pure tone, with the complex sounds we hear in everyday life.",
+    "We will learn what Fourier analysis tells us, what harmonics are, and how a sound is shown as a waveform and as a spectrum."
+   ]
+  },
+  {
+   "id": "sinus",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "The pure tone",
+   "baslik": "The pure tone: a *sine* wave",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "periyot",
+     "cumle": 3
+    },
+    {
+     "parca": "genlik",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "periyot",
+     "metin": "Period: one cycle",
+     "cumle": 3
+    },
+    {
+     "parca": "genlik",
+     "metin": "Amplitude",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Frequency: perceived as _pitch_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Amplitude: perceived as _loudness_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Phase: _position_ in the cycle",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "A pure tone is the simplest sound, made of a single frequency.",
+    "Its waveform is a sine curve; pressure rises and falls regularly and repeats in the same way.",
+    "Three properties fully describe a pure tone: frequency, amplitude and phase.",
+    "Frequency is the number of vibrations per second, measured in hertz; its perceptual counterpart is pitch.",
+    "Amplitude is the size of the pressure change; it is expressed in decibels and is related to perceived loudness.",
+    "Phase describes, in degrees, where in its cycle the wave is at a given moment.",
+    "Pure tones are rare in nature; the tuning fork and the audiometer's test tone are the closest examples."
+   ]
+  },
+  {
+   "id": "periyot",
+   "tur": "tablo",
+   "bolum_no": "PART 1",
+   "bolum": "The pure tone",
+   "baslik": "Frequency, period and *wavelength*",
+   "sutunlar": [
+    "Frequency",
+    "Period",
+    "Wavelength (in air)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "4 ms",
+      "about 1.4 m"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "1 ms",
+      "about 34 cm"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "0.25 ms",
+      "about 8.6 cm"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "0.125 ms",
+      "about 4.3 cm"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Frequency and period are the inverse of each other; the period is the time one full cycle takes.",
+    "The period of a one thousand hertz tone is one millisecond, and that of a two hundred fifty hertz tone is four milliseconds.",
+    "Each time frequency doubles, the period is halved; at four thousand hertz the period is a quarter of a millisecond.",
+    "Wavelength is the distance one cycle covers in air; it is found by dividing the speed of sound by the frequency.",
+    {
+     "yazi": "At room temperature sound travels about 343 meters per second, so a 1000 hertz tone has a wavelength of about 34 centimeters.",
+     "ses": "At room temperature sound travels about three hundred forty three meters per second, so a one thousand hertz tone has a wavelength of about thirty four centimeters."
+    },
+    "Low sounds have wavelengths of meters and high sounds of a few centimeters; effects such as the head shadow come from this difference."
+   ]
+  },
+  {
+   "id": "karmasik",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Complex sounds",
+   "baslik": "Pure, complex and *noise*",
+   "cizim": "dalga_bicimi",
+   "ayar": {
+    "seriler": [
+     "ton",
+     "karmasik",
+     "gurultu"
+    ],
+    "cumleler": [
+     0,
+     1,
+     4
+    ],
+    "frekans_hz": 500
+   },
+   "vurgula": [
+    {
+     "parca": "ton",
+     "cumle": 0
+    },
+    {
+     "parca": "karmasik",
+     "cumle": 3
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Periodic: repeats _regularly_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Aperiodic: _no pattern_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Periodic sound carries _pitch_",
+     "cumle": 5,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "A pure tone is a single sine wave.",
+    "Speech, music and environmental sounds are complex sounds, in which several frequencies are present at once.",
+    "We divide complex sounds into two groups: periodic and aperiodic sounds.",
+    "The waveform of a periodic sound may be complex, but it repeats regularly; vowels and musical notes are examples.",
+    "Aperiodic sounds have no repeating pattern; noise and fricative consonants such as the s sound belong to this group.",
+    "Periodic sounds usually have a clear pitch, while aperiodic sounds are heard as a hiss.",
+    "So what is hidden inside these complex waves? The tool that reveals it is Fourier analysis."
+   ]
+  },
+  {
+   "id": "fourier",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Complex sounds",
+   "baslik": "*Fourier* analysis",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Complex wave",
+     "metin": "The sound reaching the ear",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sine components",
+     "metin": "Frequency, amplitude, phase",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Analysis",
+     "metin": "Splitting into components",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Spectrum",
+     "metin": "Amplitude by frequency",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The French mathematician Joseph Fourier showed how to analyze a complex sound in the early nineteenth century.",
+    "According to Fourier, every periodic wave can be written as a sum of sine waves with different frequencies, amplitudes and phases.",
+    "Splitting a sound into these sine components is called Fourier analysis.",
+    "Adding the components back together to build the sound is called Fourier synthesis.",
+    "Today, computers do this in a tiny fraction of a second with the fast Fourier transform, or FFT.",
+    "The frequency graphs we see in audiometer calibration, hearing aid analyzers and spectrograms are based on this calculation."
+   ]
+  },
+  {
+   "id": "harmonik",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Harmonics",
+   "baslik": "Fundamental frequency and *harmonics*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 2200,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      0,
+      400,
+      800,
+      1200,
+      1600,
+      2000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Relative amplitude"
+    },
+    "seriler": [
+     {
+      "ad": "harmonikler",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        200,
+        1
+       ],
+       [
+        400,
+        0.7
+       ],
+       [
+        600,
+        0.5
+       ],
+       [
+        800,
+        0.36
+       ],
+       [
+        1000,
+        0.28
+       ],
+       [
+        1200,
+        0.21
+       ],
+       [
+        1400,
+        0.16
+       ],
+       [
+        1600,
+        0.12
+       ],
+       [
+        1800,
+        0.1
+       ],
+       [
+        2000,
+        0.08
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2,
+      "sure": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "f0",
+      "x": 200,
+      "y": 1,
+      "etiket": "F0 = 200 Hz",
+      "dx": 70,
+      "dy": -14,
+      "cumle": 1
+     },
+     {
+      "ad": "ucuncu",
+      "x": 600,
+      "y": 0.5,
+      "etiket": "3rd harmonic",
+      "dy": -22,
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "aralik",
+      "x": [
+       400,
+       600
+      ],
+      "y": 0.85,
+      "etiket": "200 Hz",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "f0",
+     "cumle": 1
+    },
+    {
+     "parca": "harmonikler",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The components of a periodic sound are not at random frequencies; they are all whole-number multiples of the lowest frequency.",
+    "The lowest component is called the fundamental frequency, or F0; it sets how often the sound repeats.",
+    "The components at whole-number multiples of the fundamental frequency are called harmonics.",
+    "For example, in a sound with a fundamental of two hundred hertz, the second harmonic is at four hundred and the third at six hundred hertz.",
+    "The fundamental is also the first harmonic, and the spacing between harmonics always equals the fundamental frequency.",
+    "In the spectrum each harmonic appears as a separate line, so the spectrum of a periodic sound is called a line spectrum.",
+    "The period of the complex sound equals the period of the fundamental; for a two hundred hertz sound it is five milliseconds."
+   ]
+  },
+  {
+   "id": "tini",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Harmonics",
+   "baslik": "Same pitch, *different* timbre",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Same F0",
+     "metin": "Two notes at the same pitch",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Flute",
+     "metin": "Weak upper harmonics",
+     "cumle": 3
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Violin",
+     "metin": "Many strong harmonics",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Vowels",
+     "metin": "The vocal tract selects harmonics",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "We can still easily tell a flute note from a violin note played at the same pitch.",
+    "The two notes have the same fundamental frequency; the difference comes from the relative amplitudes of the harmonics.",
+    "The perceptual quality that depends on this distribution of harmonics is called timbre.",
+    "In a flute, the upper harmonics are weak and the sound is close to a pure tone; a violin has many strong harmonics.",
+    "The same principle applies to vowels: the difference between ah and ee depends on which harmonics the vocal tract strengthens.",
+    "We will cover this in detail with the source-filter model in the spectrogram lesson."
+   ]
+  },
+  {
+   "id": "kare",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Harmonics",
+   "baslik": "A *square wave* from harmonics",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 8,
+     "adim": 2,
+     "ad": "Time (ms)"
+    },
+    "y": {
+     "min": -1.5,
+     "max": 1.5,
+     "isaretler": [
+      -1,
+      0,
+      1
+     ],
+     "ad": "Amplitude"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        1
+       ],
+       [
+        2,
+        1
+       ],
+       [
+        2,
+        -1
+       ],
+       [
+        4,
+        -1
+       ],
+       [
+        4,
+        1
+       ],
+       [
+        6,
+        1
+       ],
+       [
+        6,
+        -1
+       ],
+       [
+        8,
+        -1
+       ]
+      ],
+      "renk": "sari",
+      "kesik": true,
+      "kalin": 3,
+      "cumle": 0,
+      "etiket": "target: square wave",
+      "etiket_konum": [
+       2,
+       1
+      ],
+      "etiket_dx": 8,
+      "etiket_dy": -16
+     },
+     {
+      "ad": "temel",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.1
+       ],
+       [
+        0.1,
+        0.199
+       ],
+       [
+        0.15,
+        0.297
+       ],
+       [
+        0.2,
+        0.393
+       ],
+       [
+        0.25,
+        0.487
+       ],
+       [
+        0.3,
+        0.578
+       ],
+       [
+        0.35,
+        0.665
+       ],
+       [
+        0.4,
+        0.748
+       ],
+       [
+        0.45,
+        0.827
+       ],
+       [
+        0.5,
+        0.9
+       ],
+       [
+        0.55,
+        0.968
+       ],
+       [
+        0.6,
+        1.03
+       ],
+       [
+        0.65,
+        1.086
+       ],
+       [
+        0.7,
+        1.134
+       ],
+       [
+        0.75,
+        1.176
+       ],
+       [
+        0.8,
+        1.211
+       ],
+       [
+        0.85,
+        1.238
+       ],
+       [
+        0.9,
+        1.258
+       ],
+       [
+        0.95,
+        1.269
+       ],
+       [
+        1.0,
+        1.273
+       ],
+       [
+        1.05,
+        1.269
+       ],
+       [
+        1.1,
+        1.258
+       ],
+       [
+        1.15,
+        1.238
+       ],
+       [
+        1.2,
+        1.211
+       ],
+       [
+        1.25,
+        1.176
+       ],
+       [
+        1.3,
+        1.134
+       ],
+       [
+        1.35,
+        1.086
+       ],
+       [
+        1.4,
+        1.03
+       ],
+       [
+        1.45,
+        0.968
+       ],
+       [
+        1.5,
+        0.9
+       ],
+       [
+        1.55,
+        0.827
+       ],
+       [
+        1.6,
+        0.748
+       ],
+       [
+        1.65,
+        0.665
+       ],
+       [
+        1.7,
+        0.578
+       ],
+       [
+        1.75,
+        0.487
+       ],
+       [
+        1.8,
+        0.393
+       ],
+       [
+        1.85,
+        0.297
+       ],
+       [
+        1.9,
+        0.199
+       ],
+       [
+        1.95,
+        0.1
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.05,
+        -0.1
+       ],
+       [
+        2.1,
+        -0.199
+       ],
+       [
+        2.15,
+        -0.297
+       ],
+       [
+        2.2,
+        -0.393
+       ],
+       [
+        2.25,
+        -0.487
+       ],
+       [
+        2.3,
+        -0.578
+       ],
+       [
+        2.35,
+        -0.665
+       ],
+       [
+        2.4,
+        -0.748
+       ],
+       [
+        2.45,
+        -0.827
+       ],
+       [
+        2.5,
+        -0.9
+       ],
+       [
+        2.55,
+        -0.968
+       ],
+       [
+        2.6,
+        -1.03
+       ],
+       [
+        2.65,
+        -1.086
+       ],
+       [
+        2.7,
+        -1.134
+       ],
+       [
+        2.75,
+        -1.176
+       ],
+       [
+        2.8,
+        -1.211
+       ],
+       [
+        2.85,
+        -1.238
+       ],
+       [
+        2.9,
+        -1.258
+       ],
+       [
+        2.95,
+        -1.269
+       ],
+       [
+        3.0,
+        -1.273
+       ],
+       [
+        3.05,
+        -1.269
+       ],
+       [
+        3.1,
+        -1.258
+       ],
+       [
+        3.15,
+        -1.238
+       ],
+       [
+        3.2,
+        -1.211
+       ],
+       [
+        3.25,
+        -1.176
+       ],
+       [
+        3.3,
+        -1.134
+       ],
+       [
+        3.35,
+        -1.086
+       ],
+       [
+        3.4,
+        -1.03
+       ],
+       [
+        3.45,
+        -0.968
+       ],
+       [
+        3.5,
+        -0.9
+       ],
+       [
+        3.55,
+        -0.827
+       ],
+       [
+        3.6,
+        -0.748
+       ],
+       [
+        3.65,
+        -0.665
+       ],
+       [
+        3.7,
+        -0.578
+       ],
+       [
+        3.75,
+        -0.487
+       ],
+       [
+        3.8,
+        -0.393
+       ],
+       [
+        3.85,
+        -0.297
+       ],
+       [
+        3.9,
+        -0.199
+       ],
+       [
+        3.95,
+        -0.1
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.1
+       ],
+       [
+        4.1,
+        0.199
+       ],
+       [
+        4.15,
+        0.297
+       ],
+       [
+        4.2,
+        0.393
+       ],
+       [
+        4.25,
+        0.487
+       ],
+       [
+        4.3,
+        0.578
+       ],
+       [
+        4.35,
+        0.665
+       ],
+       [
+        4.4,
+        0.748
+       ],
+       [
+        4.45,
+        0.827
+       ],
+       [
+        4.5,
+        0.9
+       ],
+       [
+        4.55,
+        0.968
+       ],
+       [
+        4.6,
+        1.03
+       ],
+       [
+        4.65,
+        1.086
+       ],
+       [
+        4.7,
+        1.134
+       ],
+       [
+        4.75,
+        1.176
+       ],
+       [
+        4.8,
+        1.211
+       ],
+       [
+        4.85,
+        1.238
+       ],
+       [
+        4.9,
+        1.258
+       ],
+       [
+        4.95,
+        1.269
+       ],
+       [
+        5.0,
+        1.273
+       ],
+       [
+        5.05,
+        1.269
+       ],
+       [
+        5.1,
+        1.258
+       ],
+       [
+        5.15,
+        1.238
+       ],
+       [
+        5.2,
+        1.211
+       ],
+       [
+        5.25,
+        1.176
+       ],
+       [
+        5.3,
+        1.134
+       ],
+       [
+        5.35,
+        1.086
+       ],
+       [
+        5.4,
+        1.03
+       ],
+       [
+        5.45,
+        0.968
+       ],
+       [
+        5.5,
+        0.9
+       ],
+       [
+        5.55,
+        0.827
+       ],
+       [
+        5.6,
+        0.748
+       ],
+       [
+        5.65,
+        0.665
+       ],
+       [
+        5.7,
+        0.578
+       ],
+       [
+        5.75,
+        0.487
+       ],
+       [
+        5.8,
+        0.393
+       ],
+       [
+        5.85,
+        0.297
+       ],
+       [
+        5.9,
+        0.199
+       ],
+       [
+        5.95,
+        0.1
+       ],
+       [
+        6.0,
+        0.0
+       ],
+       [
+        6.05,
+        -0.1
+       ],
+       [
+        6.1,
+        -0.199
+       ],
+       [
+        6.15,
+        -0.297
+       ],
+       [
+        6.2,
+        -0.393
+       ],
+       [
+        6.25,
+        -0.487
+       ],
+       [
+        6.3,
+        -0.578
+       ],
+       [
+        6.35,
+        -0.665
+       ],
+       [
+        6.4,
+        -0.748
+       ],
+       [
+        6.45,
+        -0.827
+       ],
+       [
+        6.5,
+        -0.9
+       ],
+       [
+        6.55,
+        -0.968
+       ],
+       [
+        6.6,
+        -1.03
+       ],
+       [
+        6.65,
+        -1.086
+       ],
+       [
+        6.7,
+        -1.134
+       ],
+       [
+        6.75,
+        -1.176
+       ],
+       [
+        6.8,
+        -1.211
+       ],
+       [
+        6.85,
+        -1.238
+       ],
+       [
+        6.9,
+        -1.258
+       ],
+       [
+        6.95,
+        -1.269
+       ],
+       [
+        7.0,
+        -1.273
+       ],
+       [
+        7.05,
+        -1.269
+       ],
+       [
+        7.1,
+        -1.258
+       ],
+       [
+        7.15,
+        -1.238
+       ],
+       [
+        7.2,
+        -1.211
+       ],
+       [
+        7.25,
+        -1.176
+       ],
+       [
+        7.3,
+        -1.134
+       ],
+       [
+        7.35,
+        -1.086
+       ],
+       [
+        7.4,
+        -1.03
+       ],
+       [
+        7.45,
+        -0.968
+       ],
+       [
+        7.5,
+        -0.9
+       ],
+       [
+        7.55,
+        -0.827
+       ],
+       [
+        7.6,
+        -0.748
+       ],
+       [
+        7.65,
+        -0.665
+       ],
+       [
+        7.7,
+        -0.578
+       ],
+       [
+        7.75,
+        -0.487
+       ],
+       [
+        7.8,
+        -0.393
+       ],
+       [
+        7.85,
+        -0.297
+       ],
+       [
+        7.9,
+        -0.199
+       ],
+       [
+        7.95,
+        -0.1
+       ],
+       [
+        8.0,
+        -0.0
+       ]
+      ],
+      "renk": "gri",
+      "kalin": 3,
+      "cumle": 1,
+      "yumusak": true
+     },
+     {
+      "ad": "uc",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.199
+       ],
+       [
+        0.1,
+        0.392
+       ],
+       [
+        0.15,
+        0.573
+       ],
+       [
+        0.2,
+        0.737
+       ],
+       [
+        0.25,
+        0.879
+       ],
+       [
+        0.3,
+        0.997
+       ],
+       [
+        0.35,
+        1.088
+       ],
+       [
+        0.4,
+        1.152
+       ],
+       [
+        0.45,
+        1.189
+       ],
+       [
+        0.5,
+        1.2
+       ],
+       [
+        0.55,
+        1.19
+       ],
+       [
+        0.6,
+        1.161
+       ],
+       [
+        0.65,
+        1.119
+       ],
+       [
+        0.7,
+        1.068
+       ],
+       [
+        0.75,
+        1.014
+       ],
+       [
+        0.8,
+        0.961
+       ],
+       [
+        0.85,
+        0.915
+       ],
+       [
+        0.9,
+        0.879
+       ],
+       [
+        0.95,
+        0.857
+       ],
+       [
+        1.0,
+        0.849
+       ],
+       [
+        1.05,
+        0.857
+       ],
+       [
+        1.1,
+        0.879
+       ],
+       [
+        1.15,
+        0.915
+       ],
+       [
+        1.2,
+        0.961
+       ],
+       [
+        1.25,
+        1.014
+       ],
+       [
+        1.3,
+        1.068
+       ],
+       [
+        1.35,
+        1.119
+       ],
+       [
+        1.4,
+        1.161
+       ],
+       [
+        1.45,
+        1.19
+       ],
+       [
+        1.5,
+        1.2
+       ],
+       [
+        1.55,
+        1.189
+       ],
+       [
+        1.6,
+        1.152
+       ],
+       [
+        1.65,
+        1.088
+       ],
+       [
+        1.7,
+        0.997
+       ],
+       [
+        1.75,
+        0.879
+       ],
+       [
+        1.8,
+        0.737
+       ],
+       [
+        1.85,
+        0.573
+       ],
+       [
+        1.9,
+        0.392
+       ],
+       [
+        1.95,
+        0.199
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.05,
+        -0.199
+       ],
+       [
+        2.1,
+        -0.392
+       ],
+       [
+        2.15,
+        -0.573
+       ],
+       [
+        2.2,
+        -0.737
+       ],
+       [
+        2.25,
+        -0.879
+       ],
+       [
+        2.3,
+        -0.997
+       ],
+       [
+        2.35,
+        -1.088
+       ],
+       [
+        2.4,
+        -1.152
+       ],
+       [
+        2.45,
+        -1.189
+       ],
+       [
+        2.5,
+        -1.2
+       ],
+       [
+        2.55,
+        -1.19
+       ],
+       [
+        2.6,
+        -1.161
+       ],
+       [
+        2.65,
+        -1.119
+       ],
+       [
+        2.7,
+        -1.068
+       ],
+       [
+        2.75,
+        -1.014
+       ],
+       [
+        2.8,
+        -0.961
+       ],
+       [
+        2.85,
+        -0.915
+       ],
+       [
+        2.9,
+        -0.879
+       ],
+       [
+        2.95,
+        -0.857
+       ],
+       [
+        3.0,
+        -0.849
+       ],
+       [
+        3.05,
+        -0.857
+       ],
+       [
+        3.1,
+        -0.879
+       ],
+       [
+        3.15,
+        -0.915
+       ],
+       [
+        3.2,
+        -0.961
+       ],
+       [
+        3.25,
+        -1.014
+       ],
+       [
+        3.3,
+        -1.068
+       ],
+       [
+        3.35,
+        -1.119
+       ],
+       [
+        3.4,
+        -1.161
+       ],
+       [
+        3.45,
+        -1.19
+       ],
+       [
+        3.5,
+        -1.2
+       ],
+       [
+        3.55,
+        -1.189
+       ],
+       [
+        3.6,
+        -1.152
+       ],
+       [
+        3.65,
+        -1.088
+       ],
+       [
+        3.7,
+        -0.997
+       ],
+       [
+        3.75,
+        -0.879
+       ],
+       [
+        3.8,
+        -0.737
+       ],
+       [
+        3.85,
+        -0.573
+       ],
+       [
+        3.9,
+        -0.392
+       ],
+       [
+        3.95,
+        -0.199
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.199
+       ],
+       [
+        4.1,
+        0.392
+       ],
+       [
+        4.15,
+        0.573
+       ],
+       [
+        4.2,
+        0.737
+       ],
+       [
+        4.25,
+        0.879
+       ],
+       [
+        4.3,
+        0.997
+       ],
+       [
+        4.35,
+        1.088
+       ],
+       [
+        4.4,
+        1.152
+       ],
+       [
+        4.45,
+        1.189
+       ],
+       [
+        4.5,
+        1.2
+       ],
+       [
+        4.55,
+        1.19
+       ],
+       [
+        4.6,
+        1.161
+       ],
+       [
+        4.65,
+        1.119
+       ],
+       [
+        4.7,
+        1.068
+       ],
+       [
+        4.75,
+        1.014
+       ],
+       [
+        4.8,
+        0.961
+       ],
+       [
+        4.85,
+        0.915
+       ],
+       [
+        4.9,
+        0.879
+       ],
+       [
+        4.95,
+        0.857
+       ],
+       [
+        5.0,
+        0.849
+       ],
+       [
+        5.05,
+        0.857
+       ],
+       [
+        5.1,
+        0.879
+       ],
+       [
+        5.15,
+        0.915
+       ],
+       [
+        5.2,
+        0.961
+       ],
+       [
+        5.25,
+        1.014
+       ],
+       [
+        5.3,
+        1.068
+       ],
+       [
+        5.35,
+        1.119
+       ],
+       [
+        5.4,
+        1.161
+       ],
+       [
+        5.45,
+        1.19
+       ],
+       [
+        5.5,
+        1.2
+       ],
+       [
+        5.55,
+        1.189
+       ],
+       [
+        5.6,
+        1.152
+       ],
+       [
+        5.65,
+        1.088
+       ],
+       [
+        5.7,
+        0.997
+       ],
+       [
+        5.75,
+        0.879
+       ],
+       [
+        5.8,
+        0.737
+       ],
+       [
+        5.85,
+        0.573
+       ],
+       [
+        5.9,
+        0.392
+       ],
+       [
+        5.95,
+        0.199
+       ],
+       [
+        6.0,
+        0.0
+       ],
+       [
+        6.05,
+        -0.199
+       ],
+       [
+        6.1,
+        -0.392
+       ],
+       [
+        6.15,
+        -0.573
+       ],
+       [
+        6.2,
+        -0.737
+       ],
+       [
+        6.25,
+        -0.879
+       ],
+       [
+        6.3,
+        -0.997
+       ],
+       [
+        6.35,
+        -1.088
+       ],
+       [
+        6.4,
+        -1.152
+       ],
+       [
+        6.45,
+        -1.189
+       ],
+       [
+        6.5,
+        -1.2
+       ],
+       [
+        6.55,
+        -1.19
+       ],
+       [
+        6.6,
+        -1.161
+       ],
+       [
+        6.65,
+        -1.119
+       ],
+       [
+        6.7,
+        -1.068
+       ],
+       [
+        6.75,
+        -1.014
+       ],
+       [
+        6.8,
+        -0.961
+       ],
+       [
+        6.85,
+        -0.915
+       ],
+       [
+        6.9,
+        -0.879
+       ],
+       [
+        6.95,
+        -0.857
+       ],
+       [
+        7.0,
+        -0.849
+       ],
+       [
+        7.05,
+        -0.857
+       ],
+       [
+        7.1,
+        -0.879
+       ],
+       [
+        7.15,
+        -0.915
+       ],
+       [
+        7.2,
+        -0.961
+       ],
+       [
+        7.25,
+        -1.014
+       ],
+       [
+        7.3,
+        -1.068
+       ],
+       [
+        7.35,
+        -1.119
+       ],
+       [
+        7.4,
+        -1.161
+       ],
+       [
+        7.45,
+        -1.19
+       ],
+       [
+        7.5,
+        -1.2
+       ],
+       [
+        7.55,
+        -1.189
+       ],
+       [
+        7.6,
+        -1.152
+       ],
+       [
+        7.65,
+        -1.088
+       ],
+       [
+        7.7,
+        -0.997
+       ],
+       [
+        7.75,
+        -0.879
+       ],
+       [
+        7.8,
+        -0.737
+       ],
+       [
+        7.85,
+        -0.573
+       ],
+       [
+        7.9,
+        -0.392
+       ],
+       [
+        7.95,
+        -0.199
+       ],
+       [
+        8.0,
+        -0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": 3.5,
+      "cumle": 2,
+      "yumusak": true
+     },
+     {
+      "ad": "yedi",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.391
+       ],
+       [
+        0.1,
+        0.734
+       ],
+       [
+        0.15,
+        0.989
+       ],
+       [
+        0.2,
+        1.139
+       ],
+       [
+        0.25,
+        1.184
+       ],
+       [
+        0.3,
+        1.149
+       ],
+       [
+        0.35,
+        1.068
+       ],
+       [
+        0.4,
+        0.979
+       ],
+       [
+        0.45,
+        0.914
+       ],
+       [
+        0.5,
+        0.892
+       ],
+       [
+        0.55,
+        0.912
+       ],
+       [
+        0.6,
+        0.963
+       ],
+       [
+        0.65,
+        1.022
+       ],
+       [
+        0.7,
+        1.068
+       ],
+       [
+        0.75,
+        1.085
+       ],
+       [
+        0.8,
+        1.068
+       ],
+       [
+        0.85,
+        1.027
+       ],
+       [
+        0.9,
+        0.977
+       ],
+       [
+        0.95,
+        0.937
+       ],
+       [
+        1.0,
+        0.922
+       ],
+       [
+        1.05,
+        0.937
+       ],
+       [
+        1.1,
+        0.977
+       ],
+       [
+        1.15,
+        1.027
+       ],
+       [
+        1.2,
+        1.068
+       ],
+       [
+        1.25,
+        1.085
+       ],
+       [
+        1.3,
+        1.068
+       ],
+       [
+        1.35,
+        1.022
+       ],
+       [
+        1.4,
+        0.963
+       ],
+       [
+        1.45,
+        0.912
+       ],
+       [
+        1.5,
+        0.892
+       ],
+       [
+        1.55,
+        0.914
+       ],
+       [
+        1.6,
+        0.979
+       ],
+       [
+        1.65,
+        1.068
+       ],
+       [
+        1.7,
+        1.149
+       ],
+       [
+        1.75,
+        1.184
+       ],
+       [
+        1.8,
+        1.139
+       ],
+       [
+        1.85,
+        0.989
+       ],
+       [
+        1.9,
+        0.734
+       ],
+       [
+        1.95,
+        0.391
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.05,
+        -0.391
+       ],
+       [
+        2.1,
+        -0.734
+       ],
+       [
+        2.15,
+        -0.989
+       ],
+       [
+        2.2,
+        -1.139
+       ],
+       [
+        2.25,
+        -1.184
+       ],
+       [
+        2.3,
+        -1.149
+       ],
+       [
+        2.35,
+        -1.068
+       ],
+       [
+        2.4,
+        -0.979
+       ],
+       [
+        2.45,
+        -0.914
+       ],
+       [
+        2.5,
+        -0.892
+       ],
+       [
+        2.55,
+        -0.912
+       ],
+       [
+        2.6,
+        -0.963
+       ],
+       [
+        2.65,
+        -1.022
+       ],
+       [
+        2.7,
+        -1.068
+       ],
+       [
+        2.75,
+        -1.085
+       ],
+       [
+        2.8,
+        -1.068
+       ],
+       [
+        2.85,
+        -1.027
+       ],
+       [
+        2.9,
+        -0.977
+       ],
+       [
+        2.95,
+        -0.937
+       ],
+       [
+        3.0,
+        -0.922
+       ],
+       [
+        3.05,
+        -0.937
+       ],
+       [
+        3.1,
+        -0.977
+       ],
+       [
+        3.15,
+        -1.027
+       ],
+       [
+        3.2,
+        -1.068
+       ],
+       [
+        3.25,
+        -1.085
+       ],
+       [
+        3.3,
+        -1.068
+       ],
+       [
+        3.35,
+        -1.022
+       ],
+       [
+        3.4,
+        -0.963
+       ],
+       [
+        3.45,
+        -0.912
+       ],
+       [
+        3.5,
+        -0.892
+       ],
+       [
+        3.55,
+        -0.914
+       ],
+       [
+        3.6,
+        -0.979
+       ],
+       [
+        3.65,
+        -1.068
+       ],
+       [
+        3.7,
+        -1.149
+       ],
+       [
+        3.75,
+        -1.184
+       ],
+       [
+        3.8,
+        -1.139
+       ],
+       [
+        3.85,
+        -0.989
+       ],
+       [
+        3.9,
+        -0.734
+       ],
+       [
+        3.95,
+        -0.391
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.391
+       ],
+       [
+        4.1,
+        0.734
+       ],
+       [
+        4.15,
+        0.989
+       ],
+       [
+        4.2,
+        1.139
+       ],
+       [
+        4.25,
+        1.184
+       ],
+       [
+        4.3,
+        1.149
+       ],
+       [
+        4.35,
+        1.068
+       ],
+       [
+        4.4,
+        0.979
+       ],
+       [
+        4.45,
+        0.914
+       ],
+       [
+        4.5,
+        0.892
+       ],
+       [
+        4.55,
+        0.912
+       ],
+       [
+        4.6,
+        0.963
+       ],
+       [
+        4.65,
+        1.022
+       ],
+       [
+        4.7,
+        1.068
+       ],
+       [
+        4.75,
+        1.085
+       ],
+       [
+        4.8,
+        1.068
+       ],
+       [
+        4.85,
+        1.027
+       ],
+       [
+        4.9,
+        0.977
+       ],
+       [
+        4.95,
+        0.937
+       ],
+       [
+        5.0,
+        0.922
+       ],
+       [
+        5.05,
+        0.937
+       ],
+       [
+        5.1,
+        0.977
+       ],
+       [
+        5.15,
+        1.027
+       ],
+       [
+        5.2,
+        1.068
+       ],
+       [
+        5.25,
+        1.085
+       ],
+       [
+        5.3,
+        1.068
+       ],
+       [
+        5.35,
+        1.022
+       ],
+       [
+        5.4,
+        0.963
+       ],
+       [
+        5.45,
+        0.912
+       ],
+       [
+        5.5,
+        0.892
+       ],
+       [
+        5.55,
+        0.914
+       ],
+       [
+        5.6,
+        0.979
+       ],
+       [
+        5.65,
+        1.068
+       ],
+       [
+        5.7,
+        1.149
+       ],
+       [
+        5.75,
+        1.184
+       ],
+       [
+        5.8,
+        1.139
+       ],
+       [
+        5.85,
+        0.989
+       ],
+       [
+        5.9,
+        0.734
+       ],
+       [
+        5.95,
+        0.391
+       ],
+       [
+        6.0,
+        0.0
+       ],
+       [
+        6.05,
+        -0.391
+       ],
+       [
+        6.1,
+        -0.734
+       ],
+       [
+        6.15,
+        -0.989
+       ],
+       [
+        6.2,
+        -1.139
+       ],
+       [
+        6.25,
+        -1.184
+       ],
+       [
+        6.3,
+        -1.149
+       ],
+       [
+        6.35,
+        -1.068
+       ],
+       [
+        6.4,
+        -0.979
+       ],
+       [
+        6.45,
+        -0.914
+       ],
+       [
+        6.5,
+        -0.892
+       ],
+       [
+        6.55,
+        -0.912
+       ],
+       [
+        6.6,
+        -0.963
+       ],
+       [
+        6.65,
+        -1.022
+       ],
+       [
+        6.7,
+        -1.068
+       ],
+       [
+        6.75,
+        -1.085
+       ],
+       [
+        6.8,
+        -1.068
+       ],
+       [
+        6.85,
+        -1.027
+       ],
+       [
+        6.9,
+        -0.977
+       ],
+       [
+        6.95,
+        -0.937
+       ],
+       [
+        7.0,
+        -0.922
+       ],
+       [
+        7.05,
+        -0.937
+       ],
+       [
+        7.1,
+        -0.977
+       ],
+       [
+        7.15,
+        -1.027
+       ],
+       [
+        7.2,
+        -1.068
+       ],
+       [
+        7.25,
+        -1.085
+       ],
+       [
+        7.3,
+        -1.068
+       ],
+       [
+        7.35,
+        -1.022
+       ],
+       [
+        7.4,
+        -0.963
+       ],
+       [
+        7.45,
+        -0.912
+       ],
+       [
+        7.5,
+        -0.892
+       ],
+       [
+        7.55,
+        -0.914
+       ],
+       [
+        7.6,
+        -0.979
+       ],
+       [
+        7.65,
+        -1.068
+       ],
+       [
+        7.7,
+        -1.149
+       ],
+       [
+        7.75,
+        -1.184
+       ],
+       [
+        7.8,
+        -1.139
+       ],
+       [
+        7.85,
+        -0.989
+       ],
+       [
+        7.9,
+        -0.734
+       ],
+       [
+        7.95,
+        -0.391
+       ],
+       [
+        8.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 3,
+      "yumusak": true
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "temel",
+     "metin": "fundamental only",
+     "cumle": 1
+    },
+    {
+     "parca": "uc",
+     "metin": "+ 3rd harmonic",
+     "cumle": 2
+    },
+    {
+     "parca": "yedi",
+     "metin": "+ 5th and 7th harmonics",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Let us see Fourier synthesis in an example: our target is an angular, square-shaped wave.",
+    "First we take only the fundamental; this is a smooth sine wave.",
+    "When we add the third harmonic at one third of the amplitude, the peaks of the wave begin to flatten.",
+    "As we also add the fifth and seventh harmonics, the wave gets closer and closer to a square shape.",
+    "A square wave contains only odd-numbered harmonics; the higher the harmonic number, the smaller its amplitude in the same proportion.",
+    "Sharp corners and sudden changes require high-frequency components; this principle will matter in the last part of the lesson."
+   ]
+  },
+  {
+   "id": "kulak_analiz",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Harmonics",
+   "baslik": "The ear is a *frequency analyzer*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Base: high",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "Apex: low",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Each region tuned to a _frequency_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ohm: the ear splits sound into _components_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Close components _cannot be separated_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Our ear also splits complex sounds into their components.",
+    "Each region of the basilar membrane responds best to a different frequency; the base is tuned to high and the apex to low frequencies.",
+    "So the harmonics of a sound excite different places in the cochlea; the cochlea works like a living frequency analyzer.",
+    {
+     "yazi": "Georg Ohm stated this idea in 1843; the view that the ear splits sound into sine components is called Ohm's acoustic law.",
+     "ses": "Georg Ohm stated this idea in eighteen forty three; the view that the ear splits sound into sine components is called Ohm's acoustic law."
+    },
+    "But the ear's analysis is limited; components very close together cannot be separated, and higher harmonics in particular blend together.",
+    "We will look at this frequency resolution of the ear in detail in the lessons on the critical band and auditory filters."
+   ]
+  },
+  {
+   "id": "iki_gosterim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Waveform and spectrum",
+   "baslik": "*Two* windows on the same sound",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Waveform",
+     "metin": "Pressure over time",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Spectrum",
+     "metin": "Amplitude by frequency",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Pure tone",
+     "metin": "A single line",
+     "cumle": 3
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Periodic sound",
+     "metin": "Harmonic lines",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise",
+     "metin": "Continuous spectrum",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "We can show a sound through two different windows.",
+    "The waveform shows time on the horizontal axis and pressure, or amplitude, on the vertical axis.",
+    "The spectrum shows frequency on the horizontal axis and the amplitude of each component on the vertical axis.",
+    "The spectrum of a pure tone is a single line; that of a periodic complex sound is a series of harmonic lines.",
+    "The spectrum of noise is not made of lines but of an unbroken area across frequency; this is called a continuous spectrum.",
+    "Both displays describe the same sound; one highlights time and the other frequency."
+   ]
+  },
+  {
+   "id": "takas",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Waveform and spectrum",
+   "baslik": "Short sound, *wide* spectrum",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 2000,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      0,
+      500,
+      1000,
+      1500,
+      2000
+     ]
+    },
+    "y": {
+     "min": -40,
+     "max": 5,
+     "isaretler": [
+      -40,
+      -20,
+      0
+     ],
+     "ad": "Relative level (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "uzun",
+      "noktalar": [
+       [
+        0,
+        -40
+       ],
+       [
+        985,
+        -40
+       ],
+       [
+        995,
+        -10
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        1005,
+        -10
+       ],
+       [
+        1015,
+        -40
+       ],
+       [
+        2000,
+        -40
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": 5,
+      "cumle": 1,
+      "etiket": "long tone",
+      "etiket_konum": [
+       1005,
+       0
+      ],
+      "etiket_dx": 14,
+      "etiket_dy": 4
+     },
+     {
+      "ad": "kisa",
+      "noktalar": [
+       [
+        0.0,
+        -40
+       ],
+       [
+        10.0,
+        -39.9
+       ],
+       [
+        20.0,
+        -33.8
+       ],
+       [
+        30.0,
+        -30.2
+       ],
+       [
+        40.0,
+        -27.7
+       ],
+       [
+        50.0,
+        -25.7
+       ],
+       [
+        60.0,
+        -24.1
+       ],
+       [
+        70.0,
+        -22.7
+       ],
+       [
+        80.0,
+        -21.6
+       ],
+       [
+        90.0,
+        -20.6
+       ],
+       [
+        100.0,
+        -19.7
+       ],
+       [
+        110.0,
+        -18.9
+       ],
+       [
+        120.0,
+        -18.1
+       ],
+       [
+        130.0,
+        -17.5
+       ],
+       [
+        140.0,
+        -16.9
+       ],
+       [
+        150.0,
+        -16.4
+       ],
+       [
+        160.0,
+        -15.9
+       ],
+       [
+        170.0,
+        -15.5
+       ],
+       [
+        180.0,
+        -15.1
+       ],
+       [
+        190.0,
+        -14.8
+       ],
+       [
+        200.0,
+        -14.5
+       ],
+       [
+        210.0,
+        -14.2
+       ],
+       [
+        220.0,
+        -14.0
+       ],
+       [
+        230.0,
+        -13.8
+       ],
+       [
+        240.0,
+        -13.6
+       ],
+       [
+        250.0,
+        -13.5
+       ],
+       [
+        260.0,
+        -13.4
+       ],
+       [
+        270.0,
+        -13.3
+       ],
+       [
+        280.0,
+        -13.3
+       ],
+       [
+        290.0,
+        -13.3
+       ],
+       [
+        300.0,
+        -13.3
+       ],
+       [
+        310.0,
+        -13.4
+       ],
+       [
+        320.0,
+        -13.5
+       ],
+       [
+        330.0,
+        -13.6
+       ],
+       [
+        340.0,
+        -13.8
+       ],
+       [
+        350.0,
+        -14.1
+       ],
+       [
+        360.0,
+        -14.4
+       ],
+       [
+        370.0,
+        -14.7
+       ],
+       [
+        380.0,
+        -15.1
+       ],
+       [
+        390.0,
+        -15.6
+       ],
+       [
+        400.0,
+        -16.1
+       ],
+       [
+        410.0,
+        -16.8
+       ],
+       [
+        420.0,
+        -17.6
+       ],
+       [
+        430.0,
+        -18.5
+       ],
+       [
+        440.0,
+        -19.6
+       ],
+       [
+        450.0,
+        -21.0
+       ],
+       [
+        460.0,
+        -22.7
+       ],
+       [
+        470.0,
+        -25.0
+       ],
+       [
+        480.0,
+        -28.3
+       ],
+       [
+        490.0,
+        -34.2
+       ],
+       [
+        500.0,
+        -40
+       ],
+       [
+        510.0,
+        -33.8
+       ],
+       [
+        520.0,
+        -27.6
+       ],
+       [
+        530.0,
+        -24.0
+       ],
+       [
+        540.0,
+        -21.3
+       ],
+       [
+        550.0,
+        -19.2
+       ],
+       [
+        560.0,
+        -17.5
+       ],
+       [
+        570.0,
+        -16.0
+       ],
+       [
+        580.0,
+        -14.8
+       ],
+       [
+        590.0,
+        -13.6
+       ],
+       [
+        600.0,
+        -12.6
+       ],
+       [
+        610.0,
+        -11.7
+       ],
+       [
+        620.0,
+        -10.9
+       ],
+       [
+        630.0,
+        -10.1
+       ],
+       [
+        640.0,
+        -9.4
+       ],
+       [
+        650.0,
+        -8.7
+       ],
+       [
+        660.0,
+        -8.1
+       ],
+       [
+        670.0,
+        -7.5
+       ],
+       [
+        680.0,
+        -6.9
+       ],
+       [
+        690.0,
+        -6.4
+       ],
+       [
+        700.0,
+        -5.9
+       ],
+       [
+        710.0,
+        -5.5
+       ],
+       [
+        720.0,
+        -5.1
+       ],
+       [
+        730.0,
+        -4.7
+       ],
+       [
+        740.0,
+        -4.3
+       ],
+       [
+        750.0,
+        -3.9
+       ],
+       [
+        760.0,
+        -3.6
+       ],
+       [
+        770.0,
+        -3.3
+       ],
+       [
+        780.0,
+        -3.0
+       ],
+       [
+        790.0,
+        -2.7
+       ],
+       [
+        800.0,
+        -2.4
+       ],
+       [
+        810.0,
+        -2.2
+       ],
+       [
+        820.0,
+        -1.9
+       ],
+       [
+        830.0,
+        -1.7
+       ],
+       [
+        840.0,
+        -1.5
+       ],
+       [
+        850.0,
+        -1.3
+       ],
+       [
+        860.0,
+        -1.2
+       ],
+       [
+        870.0,
+        -1.0
+       ],
+       [
+        880.0,
+        -0.8
+       ],
+       [
+        890.0,
+        -0.7
+       ],
+       [
+        900.0,
+        -0.6
+       ],
+       [
+        910.0,
+        -0.5
+       ],
+       [
+        920.0,
+        -0.4
+       ],
+       [
+        930.0,
+        -0.3
+       ],
+       [
+        940.0,
+        -0.2
+       ],
+       [
+        950.0,
+        -0.1
+       ],
+       [
+        960.0,
+        -0.1
+       ],
+       [
+        970.0,
+        -0.1
+       ],
+       [
+        980.0,
+        -0.0
+       ],
+       [
+        990.0,
+        -0.0
+       ],
+       [
+        1000.0,
+        0.0
+       ],
+       [
+        1010.0,
+        -0.0
+       ],
+       [
+        1020.0,
+        -0.0
+       ],
+       [
+        1030.0,
+        -0.1
+       ],
+       [
+        1040.0,
+        -0.1
+       ],
+       [
+        1050.0,
+        -0.1
+       ],
+       [
+        1060.0,
+        -0.2
+       ],
+       [
+        1070.0,
+        -0.3
+       ],
+       [
+        1080.0,
+        -0.4
+       ],
+       [
+        1090.0,
+        -0.5
+       ],
+       [
+        1100.0,
+        -0.6
+       ],
+       [
+        1110.0,
+        -0.7
+       ],
+       [
+        1120.0,
+        -0.8
+       ],
+       [
+        1130.0,
+        -1.0
+       ],
+       [
+        1140.0,
+        -1.2
+       ],
+       [
+        1150.0,
+        -1.3
+       ],
+       [
+        1160.0,
+        -1.5
+       ],
+       [
+        1170.0,
+        -1.7
+       ],
+       [
+        1180.0,
+        -1.9
+       ],
+       [
+        1190.0,
+        -2.2
+       ],
+       [
+        1200.0,
+        -2.4
+       ],
+       [
+        1210.0,
+        -2.7
+       ],
+       [
+        1220.0,
+        -3.0
+       ],
+       [
+        1230.0,
+        -3.3
+       ],
+       [
+        1240.0,
+        -3.6
+       ],
+       [
+        1250.0,
+        -3.9
+       ],
+       [
+        1260.0,
+        -4.3
+       ],
+       [
+        1270.0,
+        -4.7
+       ],
+       [
+        1280.0,
+        -5.1
+       ],
+       [
+        1290.0,
+        -5.5
+       ],
+       [
+        1300.0,
+        -5.9
+       ],
+       [
+        1310.0,
+        -6.4
+       ],
+       [
+        1320.0,
+        -6.9
+       ],
+       [
+        1330.0,
+        -7.5
+       ],
+       [
+        1340.0,
+        -8.1
+       ],
+       [
+        1350.0,
+        -8.7
+       ],
+       [
+        1360.0,
+        -9.4
+       ],
+       [
+        1370.0,
+        -10.1
+       ],
+       [
+        1380.0,
+        -10.9
+       ],
+       [
+        1390.0,
+        -11.7
+       ],
+       [
+        1400.0,
+        -12.6
+       ],
+       [
+        1410.0,
+        -13.6
+       ],
+       [
+        1420.0,
+        -14.8
+       ],
+       [
+        1430.0,
+        -16.0
+       ],
+       [
+        1440.0,
+        -17.5
+       ],
+       [
+        1450.0,
+        -19.2
+       ],
+       [
+        1460.0,
+        -21.3
+       ],
+       [
+        1470.0,
+        -24.0
+       ],
+       [
+        1480.0,
+        -27.6
+       ],
+       [
+        1490.0,
+        -33.8
+       ],
+       [
+        1500.0,
+        -40
+       ],
+       [
+        1510.0,
+        -34.2
+       ],
+       [
+        1520.0,
+        -28.3
+       ],
+       [
+        1530.0,
+        -25.0
+       ],
+       [
+        1540.0,
+        -22.7
+       ],
+       [
+        1550.0,
+        -21.0
+       ],
+       [
+        1560.0,
+        -19.6
+       ],
+       [
+        1570.0,
+        -18.5
+       ],
+       [
+        1580.0,
+        -17.6
+       ],
+       [
+        1590.0,
+        -16.8
+       ],
+       [
+        1600.0,
+        -16.1
+       ],
+       [
+        1610.0,
+        -15.6
+       ],
+       [
+        1620.0,
+        -15.1
+       ],
+       [
+        1630.0,
+        -14.7
+       ],
+       [
+        1640.0,
+        -14.4
+       ],
+       [
+        1650.0,
+        -14.1
+       ],
+       [
+        1660.0,
+        -13.8
+       ],
+       [
+        1670.0,
+        -13.6
+       ],
+       [
+        1680.0,
+        -13.5
+       ],
+       [
+        1690.0,
+        -13.4
+       ],
+       [
+        1700.0,
+        -13.3
+       ],
+       [
+        1710.0,
+        -13.3
+       ],
+       [
+        1720.0,
+        -13.3
+       ],
+       [
+        1730.0,
+        -13.3
+       ],
+       [
+        1740.0,
+        -13.4
+       ],
+       [
+        1750.0,
+        -13.5
+       ],
+       [
+        1760.0,
+        -13.6
+       ],
+       [
+        1770.0,
+        -13.8
+       ],
+       [
+        1780.0,
+        -14.0
+       ],
+       [
+        1790.0,
+        -14.2
+       ],
+       [
+        1800.0,
+        -14.5
+       ],
+       [
+        1810.0,
+        -14.8
+       ],
+       [
+        1820.0,
+        -15.1
+       ],
+       [
+        1830.0,
+        -15.5
+       ],
+       [
+        1840.0,
+        -15.9
+       ],
+       [
+        1850.0,
+        -16.4
+       ],
+       [
+        1860.0,
+        -16.9
+       ],
+       [
+        1870.0,
+        -17.5
+       ],
+       [
+        1880.0,
+        -18.1
+       ],
+       [
+        1890.0,
+        -18.9
+       ],
+       [
+        1900.0,
+        -19.7
+       ],
+       [
+        1910.0,
+        -20.6
+       ],
+       [
+        1920.0,
+        -21.6
+       ],
+       [
+        1930.0,
+        -22.7
+       ],
+       [
+        1940.0,
+        -24.1
+       ],
+       [
+        1950.0,
+        -25.7
+       ],
+       [
+        1960.0,
+        -27.7
+       ],
+       [
+        1970.0,
+        -30.2
+       ],
+       [
+        1980.0,
+        -33.8
+       ],
+       [
+        1990.0,
+        -39.9
+       ],
+       [
+        2000.0,
+        -40
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 4,
+      "cumle": 2,
+      "yumusak": true,
+      "etiket": "2 ms tone",
+      "etiket_konum": [
+       1400,
+       -8
+      ],
+      "etiket_dx": 10
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "genislik",
+      "x": [
+       500,
+       1500
+      ],
+      "y": -34,
+      "etiket": "about 1000 Hz",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "uzun",
+     "cumle": 1
+    },
+    {
+     "parca": "kisa",
+     "cumle": 2
+    },
+    {
+     "parca": "genislik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "There is an important trade-off between time and frequency: the shorter a sound, the wider its spectrum spreads.",
+    "A long one thousand hertz tone forms a narrow, sharp peak at one thousand hertz in the spectrum.",
+    "If the same tone lasts only two milliseconds, its energy spreads over a wide area around one thousand hertz.",
+    "Roughly, the width of the spectrum is inversely proportional to the duration; here the main peak covers about one thousand hertz.",
+    "A sound that starts or stops abruptly also spreads in the spectrum and creates unwanted components heard as a click.",
+    "This is why audiometer test tones are switched on and off with smooth rise and fall times.",
+    "A very short click stimulates a wide frequency range at once, so it is not frequency specific."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Waveform and spectrum",
+   "baslik": "The language of *Fourier* in the clinic",
+   "maddeler": [
+    {
+     "metin": "Pure tone: _frequency-specific_ threshold",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Speech is a _complex_ sound",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "ABR: click _broad_, tone burst _narrow_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Harmonic distortion_ in devices",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "konusma_muzu",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "unluler",
+      "cumle": 1
+     },
+     {
+      "parca": "unsuzler",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Pure tone audiometry tests the ear with one frequency at a time, so the threshold is measured frequency by frequency.",
+    "Everyday sounds are complex, so the audiogram alone does not fully predict the ability to understand speech.",
+    "In auditory brainstem response, or ABR, testing, short tone bursts are used alongside the broadband click.",
+    "The shorter the tone burst, the clearer the response but the lower its frequency specificity; this trade-off guides stimulus choice.",
+    "In hearing aid testing, total harmonic distortion shows how much the device adds harmonics that are not in the input.",
+    "In calibration, it is also checked that the harmonic components of the test tone are low enough, so the tone is truly pure."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Take care in the clinic",
+   "metin": "Listen to every tone in the daily check. A pure tone should sound clean, with one pitch; a click, crackle or second pitch suggests distortion.",
+   "cumle": 1,
+   "cumleler": [
+    "A tip from practice: you can also check the purity of a tone with your own ears.",
+    "In the daily listening check, make sure the tone sounds clean, with a single pitch, at every frequency.",
+    "A click as the tone turns on or off, a crackle behind it or a second pitch suggests distortion or a cable problem.",
+    "In that case, have the device checked, and recalibrated if needed, before testing patients."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Pure tone: frequency, amplitude and _phase_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Complex sound = _sum of sines_",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Harmonics: _whole multiples of F0_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Short sound: _wide_ spectrum",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "A pure tone is a single-frequency sine wave, fully described by frequency, amplitude and phase.",
+    "According to Fourier analysis, a complex sound can be shown as a sum of sine components.",
+    "The components of periodic sounds are whole multiples of the fundamental; they are called harmonics and they shape timbre.",
+    "As a sound gets shorter, or starts and stops abruptly, its spectrum widens; this matters in stimulus choice."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "If F0 is 150 Hz, what is the 3rd harmonic?",
+   "secenekler": [
+    "300 Hz",
+    "450 Hz",
+    "600 Hz",
+    "50 Hz"
+   ],
+   "dogru": 1,
+   "aciklama": "Harmonics are _whole multiples_ of F0: 3 x 150 = 450 Hz.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: a sound has a fundamental frequency of one hundred fifty hertz. At what frequency is its third harmonic?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: four hundred fifty hertz.",
+    "The first harmonic is the fundamental itself; the third harmonic is three times the fundamental."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Noise* Types: White, Pink and Narrowband Noise",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move on to aperiodic sounds: white, pink and narrowband noise.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

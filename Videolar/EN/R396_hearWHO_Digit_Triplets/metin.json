@@ -1,0 +1,251 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R396_hearWHO_Digit_Triplets_EN",
+ "kapak": {
+  "ust": "QUICK FACT #396",
+  "baslik": "The *hearWHO* app",
+  "alt": "Screening with digits in noise",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 24,
+    "ad": "Digit triplet number",
+    "isaretler": [
+     1,
+     5,
+     10,
+     15,
+     20,
+     23
+    ]
+   },
+   "y": {
+    "min": -14,
+    "max": 2,
+    "adim": 2,
+    "ad": "SNR (dB)"
+   },
+   "seriler": [
+    {
+     "ad": "iz",
+     "noktalar": [
+      [
+       1,
+       0
+      ],
+      [
+       2,
+       -2
+      ],
+      [
+       3,
+       -4
+      ],
+      [
+       4,
+       -6
+      ],
+      [
+       5,
+       -8
+      ],
+      [
+       6,
+       -10
+      ],
+      [
+       7,
+       -8
+      ],
+      [
+       8,
+       -10
+      ],
+      [
+       9,
+       -12
+      ],
+      [
+       10,
+       -10
+      ],
+      [
+       11,
+       -8
+      ],
+      [
+       12,
+       -10
+      ],
+      [
+       13,
+       -12
+      ],
+      [
+       14,
+       -10
+      ],
+      [
+       15,
+       -12
+      ],
+      [
+       16,
+       -10
+      ],
+      [
+       17,
+       -8
+      ],
+      [
+       18,
+       -10
+      ],
+      [
+       19,
+       -12
+      ],
+      [
+       20,
+       -10
+      ],
+      [
+       21,
+       -12
+      ],
+      [
+       22,
+       -10
+      ],
+      [
+       23,
+       -12
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "sure": 3,
+     "etiket": "adaptive track",
+     "cumle": 1
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "dalgalanma",
+     "y": [
+      -12,
+      -8
+     ],
+     "renk": "sari",
+     "etiket": "oscillation zone",
+     "cumle": 3
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "srt",
+     "x": 18,
+     "y": -10,
+     "cizgi": "yatay",
+     "etiket": "SRT about -10 dB",
+     "cumle": 4
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How does the World Health Organization's free hearing app work? #shorts",
+  "aciklama": "The World Health Organization's hearWHO app is a free screening tool that uses digits-in-noise technology. The person listens through headphones to 23 digit triplets in noise and gets a score from 0 to 100; below 50, the person is advised to see a professional, and a score above 75 shows good hearing. The app is designed for people aged 12 and over, and its result is not a diagnosis but a signal for referral.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "screening",
+   "hearWHO"
+  ],
+  "etiketler": [
+   "hearWHO",
+   "digits-in-noise test",
+   "adult hearing screening",
+   "World Health Organization",
+   "hearing screening",
+   "app",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How does the World Health Organization's free hearing app work?",
+  "bilgiler": [
+   "The person hears 23 digit triplets in noise.",
+   "Score 0 to 100; below 50, see a professional.",
+   "The result is a referral signal, not a diagnosis."
+  ],
+  "hashtag": [
+   "audiology",
+   "screening",
+   "hearWHO"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #396",
+   "metin": "Free *screening?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How does the World Health Organization's free hearing app work?"
+   ]
+  },
+  {
+   "id": "hearwho",
+   "tur": "zincir",
+   "baslik": "The *hearWHO* app",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "23 triplets",
+     "tr": "digits in noise",
+     "cumle": 0
+    },
+    {
+     "ad": "0-100",
+     "tr": "score",
+     "cumle": 1
+    },
+    {
+     "ad": "Below 50",
+     "tr": "see a professional",
+     "cumle": 2
+    }
+   ],
+   "alt": "Not a diagnosis: _a referral signal_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "The person hears twenty three digit triplets in noise through headphones.",
+    "The result is a score from zero to one hundred.",
+    "Below fifty, the person is advised to see a professional.",
+    "A score above seventy five shows good hearing.",
+    "The result is not a diagnosis but a signal for referral."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D177",
+ "kaynak_baslik": "Hearing Screening in Adults and Older Adults"
+}

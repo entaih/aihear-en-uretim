@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R206_The_Reversed_Click_EN",
+ "kapak": {
+  "ust": "QUICK FACT #206",
+  "baslik": "The *reversed* click",
+  "alt": "The nonlinear protocol in TEOAE",
+  "cizim": "oae",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How is a tiny ear sound separated from a huge echo? #shorts",
+  "aciklama": "In TEOAE recording, the stimulus echo in the ear canal is very large and the emission very small. In the nonlinear protocol, three clicks go one way and a fourth goes the opposite way at three times the strength; the linear echo largely cancels, while part of the cochlear emission, which does not grow linearly, remains.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "OAE",
+   "cochlea"
+  ],
+  "etiketler": [
+   "TEOAE",
+   "transient-evoked otoacoustic emission",
+   "nonlinear protocol",
+   "click",
+   "otoacoustic emissions",
+   "stimulus artifact",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How is a tiny ear sound separated from a huge echo?",
+  "bilgiler": [
+   "The ear canal echo is large; the emission is very small.",
+   "Three clicks go one way; a fourth is reversed and three times stronger.",
+   "The linear echo cancels, and part of the emission remains."
+  ],
+  "hashtag": [
+   "audiology",
+   "OAE",
+   "cochlea"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #206",
+   "metin": "How is the echo *canceled?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How is a tiny ear sound separated from a huge echo?"
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "zincir",
+   "baslik": "The nonlinear *protocol*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "3 clicks",
+     "tr": "same polarity",
+     "cumle": 1
+    },
+    {
+     "ad": "4th click",
+     "tr": "reversed, 3x",
+     "cumle": 2
+    },
+    {
+     "ad": "Sum",
+     "tr": "echo cancels",
+     "cumle": 3
+    }
+   ],
+   "alt": "The echo cancels; _the emission stays_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Transient-evoked otoacoustic emissions, or TEOAE, are recorded with clicks.",
+    "In this protocol, clicks come in groups of four; three match.",
+    "The fourth click is reversed and three times stronger.",
+    "Added together, the linear ear canal echo largely cancels out.",
+    "The cochlear emission does not grow linearly, so part of it remains."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D122",
+ "kaynak_baslik": "Transient-Evoked Otoacoustic Emissions (TEOAE)"
+}

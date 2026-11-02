@@ -1,0 +1,102 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R464_Audiograms_Are_Sensitive_Data_EN",
+ "kapak": {
+  "ust": "QUICK FACT #464",
+  "baslik": "Audiograms are *sensitive data*",
+  "alt": "KVKK Law No. 6698 and clinical placement",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why is photographing an audiogram with your phone wrong? #shorts",
+  "aciklama": "In Türkiye, the Personal Data Protection Law No. 6698, known as KVKK, treats health data as a special category of personal data; so an audiogram or report is information to be carefully protected. No photos of the patient file, screen or audiogram are taken with a personal phone or shared on social media; patients' names and findings are not discussed in hallways, and the screen is locked when you leave the computer. In case presentations, identifying details are removed, in other words the data are de-identified.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "clinicalplacement",
+   "ethics"
+  ],
+  "etiketler": [
+   "KVKK",
+   "health data",
+   "clinical placement",
+   "patient privacy",
+   "de-identification",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why is photographing an audiogram with your phone wrong?",
+  "bilgiler": [
+   "KVKK treats health data as a special category of personal data.",
+   "No photos of audiograms with a personal phone, no sharing.",
+   "In case presentations, data are de-identified."
+  ],
+  "hashtag": [
+   "audiology",
+   "clinicalplacement",
+   "ethics"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #464",
+   "metin": "Why is a photo *wrong?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why is photographing an audiogram with your phone wrong?"
+   ]
+  },
+  {
+   "id": "gizlilik",
+   "tur": "zincir",
+   "baslik": "Health *data*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Photo",
+     "tr": "not taken",
+     "cumle": 1
+    },
+    {
+     "ad": "Hallway",
+     "tr": "not discussed",
+     "cumle": 2
+    },
+    {
+     "ad": "Screen",
+     "tr": "locked",
+     "cumle": 3
+    }
+   ],
+   "alt": "De-identified _in presentations_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Türkiye's Personal Data Protection Law treats health data as a special category.",
+    "No photos of audiograms on a personal phone, no social media posts.",
+    "Patients' names and findings are not discussed in hallways or elevators.",
+    "Lock the screen when you leave; de-identify data in presentations."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D271",
+ "kaynak_baslik": "Clinical Placement Prep: Your Day-One Checklist"
+}

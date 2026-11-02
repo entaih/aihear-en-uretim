@@ -1,0 +1,89 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R171_A_Millisecond_Silence_EN",
+ "kapak": {
+  "ust": "QUICK FACT #171",
+  "baslik": "A millisecond *silence*",
+  "alt": "Gap detection and temporal resolution",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How short a silence can your ears detect? #shorts",
+  "aciklama": "Gap detection is the most common measure of temporal resolution: a very short silence is placed in a noise, and the shortest gap that is detected is found. In young adults with normal hearing, this threshold is about 2 to 3 milliseconds in broadband noise; in older adults it is usually longer, even with a normal audiogram.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearing",
+   "brain"
+  ],
+  "etiketler": [
+   "gap detection",
+   "temporal resolution",
+   "temporal processing",
+   "GIN test",
+   "psychoacoustics",
+   "aging",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How short a silence can your ears detect?",
+  "bilgiler": [
+   "A very short silence is placed in the middle of a noise.",
+   "In young adults, the gap detection threshold is about 2 to 3 ms.",
+   "In older adults, it is usually longer even with a normal audiogram."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearing",
+   "brain"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #171",
+   "metin": "How short a silence can you *detect?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How short a silence can your ears detect?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Young adult *gap detection* threshold",
+   "sayi": "2-3",
+   "birim": "ms",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "A listener hears a burst of noise with a short gap inside.",
+    "The shortest gap detected is the gap detection threshold.",
+    {
+     "yazi": "In young adults with broadband noise, it is about 2-3 ms.",
+     "ses": "In young adults with broadband noise, it is about two to three milliseconds."
+    },
+    "In older adults it is usually longer, even with a normal audiogram."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D083",
+ "kaynak_baslik": "Temporal Processing: Gap Detection and Integration"
+}

@@ -1,0 +1,102 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R118_Recruitment_EN",
+ "kapak": {
+  "ust": "QUICK FACT #118",
+  "baslik": "Abnormal *loudness growth*",
+  "alt": "Recruitment and outer hair cells",
+  "cizim": "corti",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How can an ear that misses soft sounds hear loud ones? #shorts",
+  "aciklama": "The cochlear amplifier gives most gain to soft sounds and little to loud ones, compressing a wide range of levels. When outer hair cells are lost, this compression is lost too: soft sounds are missed, but loud sounds quickly reach normal loudness. This abnormal growth of loudness is called recruitment.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "cochlea",
+   "hearingloss"
+  ],
+  "etiketler": [
+   "recruitment",
+   "loudness recruitment",
+   "cochlear amplifier",
+   "compression",
+   "outer hair cells",
+   "sensorineural hearing loss",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How can an ear that misses soft sounds hear loud ones?",
+  "bilgiler": [
+   "The cochlear amplifier gives much gain to soft sounds, little to loud.",
+   "When outer hair cells are lost, this compression is lost too.",
+   "Soft sounds are missed, loud sounds quickly seem normal: recruitment."
+  ],
+  "hashtag": [
+   "audiology",
+   "cochlea",
+   "hearingloss"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #118",
+   "metin": "Missing soft sounds, yet *hearing loud ones?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How can an ear that misses soft sounds hear loud ones?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Lost *compression*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Healthy",
+     "tr": "high gain for soft",
+     "cumle": 0
+    },
+    {
+     "ad": "Damage",
+     "tr": "outer hair cells",
+     "cumle": 2
+    },
+    {
+     "ad": "Growth",
+     "tr": "abnormal, fast",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The cochlear amplifier gives large gain to soft sounds, small to loud.",
+    "A wide range of levels is squeezed; this is called compression.",
+    "When outer hair cells are lost, compression is lost too.",
+    "Soft sounds are missed, but loud sounds quickly reach normal loudness.",
+    "This abnormal growth of loudness is called recruitment."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D032",
+ "kaynak_baslik": "The Cochlear Amplifier: Outer Hair Cells and Prestin"
+}

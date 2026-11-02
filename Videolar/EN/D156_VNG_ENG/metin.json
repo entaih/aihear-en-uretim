@@ -1,0 +1,771 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D156_VNG_ENG_EN",
+ "kapak": {
+  "ust": "LESSON 156",
+  "baslik": "*VNG* and ENG",
+  "alt": "Recording eye movements",
+  "cizim": "nistagmus_izi"
+ },
+ "youtube": {
+  "baslik": "VNG and ENG: How Eye Movements Are Recorded | Lesson 156 | AIHEAR Audiology Academy",
+  "aciklama": "This lesson explains the principles of videonystagmography (VNG) and electronystagmography (ENG), why calibration matters, the components of the vestibular test battery, and patient preparation. We also compare the advantages and limitations of the two methods.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology; Jacobson, Newman and Kartush, Handbook of Balance Function Testing.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "VNG",
+   "vestibular"
+  ],
+  "etiketler": [
+   "VNG",
+   "videonystagmography",
+   "ENG",
+   "electronystagmography",
+   "calibration",
+   "corneoretinal potential",
+   "vestibular test battery",
+   "nystagmus",
+   "eye movement recording",
+   "vestibular assessment",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 156",
+   "baslik": "*VNG* and ENG",
+   "alt": "Recording eye movements and calibration",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn two methods for recording eye movements: videonystagmography and electronystagmography.",
+    "We will cover why calibration matters, the components of the test battery, and patient preparation."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Why record?",
+   "baslik": "Why do we *record*?",
+   "maddeler": [
+    {
+     "metin": "Measure nystagmus _in numbers_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Remove_ visual fixation",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Capture_ what the eye misses",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "_Store_ and compare recordings",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 0,
+    "ayar": {
+     "yon": "sol",
+     "tur": "sicramali",
+     "yavas_cumle": 0,
+     "hizli_cumle": 0,
+     "baslik": "VNG horizontal trace"
+    },
+    "etiketler": [
+     {
+      "parca": "yavas_faz",
+      "metin": "Slow-phase velocity is measured",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Recording eye movements lets us not only see nystagmus but also measure it numerically, by its slow-phase velocity.",
+    "When recording is done in darkness or with covered goggles, visual fixation is removed and peripheral nystagmus becomes clearer.",
+    "Nystagmus too small to notice with the naked eye also becomes visible on the recording.",
+    "Measurements such as saccades, pursuit and the caloric response can only be made with a recording system.",
+    "The recording is stored, so the physician and the next examiner can review the same finding again."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Why record?",
+   "baslik": "*Three ways* to watch the eyes",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Frenzel goggles",
+     "metin": "Observation through magnifying lenses; no measurement",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ENG",
+     "metin": "Electrical recording with skin electrodes",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "VNG",
+     "metin": "Image recording with infrared cameras",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "As we saw in the nystagmus lesson, there are three basic ways to watch the eyes.",
+    "Frenzel goggles reduce fixation and magnify the eyes, but they do not record or measure anything.",
+    "Electronystagmography, or ENG, records eye movement with electrodes attached to the skin.",
+    "Videonystagmography, or VNG, records the eyes by imaging them with infrared cameras.",
+    "Today most vestibular laboratories use VNG.",
+    "Still, knowing the principle of ENG helps us understand older recordings and some limitations."
+   ]
+  },
+  {
+   "id": "eng",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "ENG and VNG",
+   "baslik": "*ENG*: the eye as a battery",
+   "maddeler": [
+    {
+     "metin": "Cornea _positive_ relative to retina",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Voltage_ changes as the eye turns",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Horizontal: _outer corners_ of both eyes",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Vertical: _above and below_ one eye",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Ground electrode: _forehead_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "elektrot_yerlesimi",
+    "cumle": 0,
+    "ayar": {
+     "mod": "eng",
+     "goster": {
+      "dipol": 0,
+      "yatay_elektrotlar": 3,
+      "dikey_elektrotlar": 4,
+      "toprak": 5
+     }
+    }
+   },
+   "cumleler": [
+    "ENG is based on the voltage difference between the front and back poles of the eye, called the corneoretinal potential.",
+    "The cornea is positive relative to the retina, so the eye acts like a small battery, and the voltage around it changes as it turns.",
+    "When the eye turns right, the positive pole moves closer to the right electrode, and the voltage difference between the electrodes grows.",
+    "To record horizontal movements, electrodes are placed at the outer corners of both eyes.",
+    "For vertical movements, one electrode is placed above one eye and one below it.",
+    "The ground electrode is usually placed on the forehead; for a good recording, the skin is cleaned and low impedance is achieved.",
+    "Because the recorded voltage changes roughly linearly with eye angle, calibration can convert it into degrees."
+   ]
+  },
+  {
+   "id": "eng_sinir",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "ENG and VNG",
+   "baslik": "ENG: *pros and cons*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Eyes closed",
+     "metin": "Can record even with eyes closed",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "No torsion",
+     "metin": "Cannot record rotational movement",
+     "cumle": 2
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Light sensitive",
+     "metin": "Potential changes with light; recalibrate",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Artifacts",
+     "metin": "Blinks, muscle and electrode noise",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "ENG has its own advantages and limitations.",
+    "Its main advantage is that it can record with the eyes closed, which helps in patients who cannot keep their eyes open.",
+    "But it cannot record torsional movement, that is, rotation of the eye around its own axis, a major gap in positional testing.",
+    "Because the corneoretinal potential changes with ambient light, calibration must be repeated during testing.",
+    "Blinking, tension in the facial muscles and poor electrode contact can also create artifacts in the recording.",
+    "Eyelid movements are a particular problem in vertical recording, so vertical ENG recordings are interpreted with care."
+   ]
+  },
+  {
+   "id": "vng",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "ENG and VNG",
+   "baslik": "*VNG*: recording with cameras",
+   "maddeler": [
+    {
+     "metin": "_Infrared_ cameras in goggles",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Software tracks the _pupil_",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Cover closed: _darkness_, no fixation",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Torsion visible _on video_",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Eyes must stay _open_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vng_gozlugu",
+    "cumle": 0,
+    "ayar": {
+     "izleme_cumle": 1,
+     "kapak_cumle": 2
+    },
+    "etiketler": [
+     {
+      "parca": "kamera",
+      "metin": "infrared camera",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "In VNG, the patient wears lightweight goggles containing an infrared light source and cameras.",
+    "In each frame, the software finds the center of the pupil and tracks its horizontal and vertical position over time.",
+    "When the front of the goggles is covered, the patient is in total darkness; infrared light is invisible, so fixation is removed.",
+    "Because the camera image is recorded, the examiner can follow the nystagmus both on the trace and on video.",
+    "Torsional nystagmus can be judged by eye on the video image, even in systems that do not measure it.",
+    "The main limitation of VNG is that the eyes must stay open; a closing or drooping eyelid spoils the recording."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "ENG and VNG",
+   "baslik": "ENG or *VNG*?",
+   "sutunlar": [
+    "Feature",
+    "ENG",
+    "VNG"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Detection",
+      "Skin electrodes",
+      "Infrared camera"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Eyes closed",
+      "Can record",
+      "Cannot record"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Torsion",
+      "Not recorded",
+      "Seen on video"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Calibration",
+      "Changes with light",
+      "More stable"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Common problem",
+      "Electrode artifact",
+      "Eyelids and makeup"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Now let us put the two methods side by side.",
+    "ENG measures eye movement electrically, while VNG measures it from the image.",
+    "ENG can record with the eyes closed; VNG needs the eyes to be open.",
+    "Torsional movement cannot be recorded with ENG, but in VNG it can be followed on the video image.",
+    "VNG calibration is not affected by ambient light, so it is usually more stable.",
+    "In ENG, electrode and muscle artifacts can spoil the recording; in VNG, eyelids, eyelashes and eye makeup can."
+   ]
+  },
+  {
+   "id": "kal_adim",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Calibration",
+   "baslik": "Calibration *steps*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Fit goggles",
+     "metin": "Snug and not slipping",
+     "cumle": 0
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Look at targets",
+     "metin": "Points at known angles",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Match",
+     "metin": "Signal converted to degrees",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Check",
+     "metin": "Symmetry and consistency",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Repeat",
+     "metin": "Again if goggles slip",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Before calibration, the goggles are fitted snugly on the head; slipping goggles spoil every measurement.",
+    "The patient looks in turn at points that appear at known angles on a screen or light bar.",
+    "The software matches the eye's displacement on the recording to these known angles, so the signal is converted into degrees.",
+    "The result is checked; consistent values are expected for right and left, up and down targets.",
+    "If the goggles slip during testing, or if ambient light changes in ENG, calibration is repeated."
+   ]
+  },
+  {
+   "id": "kal_neden",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Calibration",
+   "baslik": "*Why* does calibration matter?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Time (s)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": -15,
+     "max": 15,
+     "adim": 5,
+     "ad": "Eye position (degrees)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        2,
+        0
+       ],
+       [
+        2,
+        10
+       ],
+       [
+        4,
+        10
+       ],
+       [
+        4,
+        0
+       ],
+       [
+        6,
+        0
+       ],
+       [
+        6,
+        -10
+       ],
+       [
+        8,
+        -10
+       ],
+       [
+        8,
+        0
+       ],
+       [
+        10,
+        0
+       ],
+       [
+        10,
+        10
+       ],
+       [
+        12,
+        10
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "target",
+      "cumle": 1
+     },
+     {
+      "ad": "goz",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        2.2,
+        0
+       ],
+       [
+        2.3,
+        9.6
+       ],
+       [
+        2.4,
+        10
+       ],
+       [
+        4.2,
+        10
+       ],
+       [
+        4.3,
+        0.4
+       ],
+       [
+        4.4,
+        0
+       ],
+       [
+        6.2,
+        0
+       ],
+       [
+        6.3,
+        -9.5
+       ],
+       [
+        6.4,
+        -10
+       ],
+       [
+        8.2,
+        -10
+       ],
+       [
+        8.3,
+        -0.3
+       ],
+       [
+        8.4,
+        0
+       ],
+       [
+        10.2,
+        0
+       ],
+       [
+        10.3,
+        9.7
+       ],
+       [
+        10.4,
+        10
+       ],
+       [
+        12,
+        10
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "eye",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "on_derece",
+      "x": 3,
+      "y": 10,
+      "etiket": "10 degrees",
+      "cizgi": "yatay",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Signal converted to _degrees_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Error: _wrong_ velocity and asymmetry",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Calibration sets the unit of measurement of the recording; every angle and velocity value depends on it.",
+    "In the graph, the gray dashed line shows a target jumping from the center to the right and left by set angles.",
+    "The blue line shows the patient's eye following the target; with good calibration, the two lines overlap.",
+    "In this example, when the target moves ten degrees to the right, the eye should also stop at ten degrees on the recording.",
+    "If calibration is wrong, slow-phase velocities, saccade measurements and caloric comparisons are also calculated wrongly.",
+    "For example, a wrong calibration in one eye can look like a difference between the two ears that does not exist."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Battery and preparation",
+   "baslik": "The test *battery*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Spontaneous",
+     "metin": "Gaze and spontaneous",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Oculomotor",
+     "metin": "Saccades, pursuit, OKN",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Positional",
+     "metin": "Dix-Hallpike and supine roll",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Caloric",
+     "metin": "Both ears, last",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Report",
+     "metin": "Findings together",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Assessment with VNG or ENG is a battery made up of tests applied in a set order.",
+    "First, spontaneous nystagmus and gaze-evoked nystagmus are recorded with and without fixation.",
+    "Next come the oculomotor tests, that is, saccades, smooth pursuit and optokinetic tests; we will see them in the next lesson.",
+    "Then positional tests look for nystagmus that depends on head and body position.",
+    "Because it can cause nausea, the caloric test is usually left until the end of the battery.",
+    "All findings are reported together, because the interpretation of one test often depends on the results of the others."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Battery and preparation",
+   "baslik": "Patient *preparation*",
+   "maddeler": [
+    {
+     "metin": "Suppressant drugs: _with physician approval_",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "No _alcohol_ before the test",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Eye _makeup_ removed",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Light_ meal before the test",
+     "cumle": 4,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Ask about neck and back",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Never tell a patient to stop any medication yourself; medication decisions are always made by the physician.",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Some medications suppress vestibular responses, for example drugs for dizziness and nausea, and sedatives.",
+    "Following the laboratory protocol, these drugs are often stopped about forty eight hours before the test, only with physician approval.",
+    "Alcohol can also affect nystagmus and oculomotor findings, so patients are asked to avoid it in the days before the test.",
+    "Eye makeup, especially mascara, can be detected by the camera as the pupil, so it is removed before the test.",
+    "To reduce nausea, a light meal only, a few hours before the test, is recommended.",
+    "For positional tests, neck and back problems are asked about; vision problems and glasses are also noted."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not skip calibration, and check the goggles during testing. Slipping goggles or poor calibration produce false findings.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: check the calibration result on screen for every patient; do not continue the test with an inconsistent result.",
+    "After every change of position, always check that the goggles have not shifted.",
+    "If you see an unexpected asymmetry in the recording, question the goggles and calibration first, then the patient.",
+    "Note in the report anything that affects recording quality, such as a drooping eyelid."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "ENG: _corneoretinal potential_, electrodes",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "VNG: _infrared_ camera, pupil",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Calibration: signal converted to _degrees_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Battery: spontaneous, oculomotor, positional, _caloric_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "ENG records the corneoretinal potential of the eye with electrodes; it works with the eyes closed but cannot see torsion.",
+    "VNG tracks the pupil with an infrared camera; it removes fixation and stores the image.",
+    "Calibration converts the recording into degrees; poor calibration spoils all numerical results.",
+    "The battery covers spontaneous nystagmus, oculomotor, positional and caloric tests; patient preparation directly affects the results."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is a limitation of ENG?",
+   "secenekler": [
+    "Cannot record with eyes closed",
+    "Cannot record torsion",
+    "Needs no calibration"
+   ],
+   "dogru": 1,
+   "aciklama": "ENG records horizontal and vertical movement, but it cannot record _torsional_ movement.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: which of the following is a limitation of electronystagmography, or ENG?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: it cannot record torsional eye movement.",
+    "ENG can record with the eyes closed and needs frequent calibration; torsion can only be followed with the video method."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Oculomotor Tests: *Saccades*, Pursuit, OKN, Gaze",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn the oculomotor tests of the VNG battery: saccades, pursuit, optokinetic and gaze tests.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

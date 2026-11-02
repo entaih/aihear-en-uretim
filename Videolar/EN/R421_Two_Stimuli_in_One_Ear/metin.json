@@ -1,0 +1,126 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R421_Two_Stimuli_in_One_Ear_EN",
+ "kapak": {
+  "ust": "QUICK FACT #421",
+  "baslik": "Two stimuli, *one ear*",
+  "alt": "Electric-acoustic stimulation",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      30,
+      45,
+      70,
+      95,
+      105,
+      110
+     ],
+     "yanitsiz": [
+      5
+     ]
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can one ear hear with both an implant and acoustic sound? #shorts",
+  "aciklama": "In electric-acoustic stimulation (EAS), the high frequencies are stimulated electrically by the implant and the low frequencies acoustically with amplified sound; the candidate has usable low-frequency hearing but a severe to profound loss in the high frequencies. The point where the two regions meet is called the crossover frequency and is chosen from the person's audiogram; today, in many systems the same processor delivers both the implant stimulation and acoustic sound.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "cochlearimplant",
+   "hearing"
+  ],
+  "etiketler": [
+   "electric-acoustic stimulation",
+   "EAS",
+   "crossover frequency",
+   "residual hearing",
+   "cochlear implant",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can one ear hear with both an implant and acoustic sound?",
+  "bilgiler": [
+   "Highs are stimulated electrically, lows acoustically with sound.",
+   "The point where the two regions meet is the crossover frequency.",
+   "In many systems, one processor delivers both."
+  ],
+  "hashtag": [
+   "audiology",
+   "cochlearimplant",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #421",
+   "metin": "Both *at once?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can one ear hear with both an implant and acoustic sound?"
+   ]
+  },
+  {
+   "id": "eas",
+   "tur": "zincir",
+   "baslik": "Electric-acoustic *stimulation*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Highs",
+     "tr": "electric",
+     "cumle": 1
+    },
+    {
+     "ad": "Lows",
+     "tr": "acoustic sound",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Crossover",
+     "tr": "from the audiogram",
+     "cumle": 3
+    }
+   ],
+   "alt": "The same _processor_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Some people keep low-frequency hearing, with profound loss in the highs.",
+    "In electric-acoustic stimulation, the implant drives highs; amplified sound drives lows.",
+    "Low sounds still reach the apex through the traveling wave.",
+    "The point where the two regions meet is the crossover frequency.",
+    "Today, in many systems one processor delivers the two stimuli together."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D245",
+ "kaynak_baslik": "Electric-Acoustic Stimulation (EAS) and Hybrid Systems"
+}

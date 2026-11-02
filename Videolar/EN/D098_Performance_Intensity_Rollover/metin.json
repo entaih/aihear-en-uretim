@@ -1,0 +1,968 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D098_Performance_Intensity_Rollover_EN",
+ "kapak": {
+  "ust": "LESSON 98",
+  "baslik": "Performance curve<br>and *rollover*",
+  "alt": "PBmax and the rollover index",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 30,
+    "max": 100,
+    "adim": 10,
+    "ad": "Level (dB HL)"
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 25,
+    "ad": "Score (%)"
+   },
+   "seriler": [
+    {
+     "ad": "retro",
+     "noktalar": [
+      [
+       40,
+       2
+      ],
+      [
+       50,
+       22
+      ],
+      [
+       60,
+       55
+      ],
+      [
+       70,
+       80
+      ],
+      [
+       80,
+       60
+      ],
+      [
+       90,
+       36
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Performance-Intensity Function and Rollover | Lesson 98 | AIHEAR Audiology Academy",
+  "aciklama": "When we measure the word recognition score at several levels instead of one, we get the performance-intensity function. In this lesson we look at how the PI-PB curve is drawn, the normal, conductive, cochlear and retrocochlear curve shapes, how to calculate PBmax and the rollover index, and where these findings stand in the clinic today.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jerger J and Jerger S (1971), Diagnostic significance of PB word functions, Archives of Otolaryngology; Dubno et al. (1995), Confidence limits for maximum word-recognition scores, Journal of Speech and Hearing Research; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "speechaudiometry",
+   "rollover"
+  ],
+  "etiketler": [
+   "performance-intensity function",
+   "PI-PB",
+   "PBmax",
+   "rollover",
+   "rollover index",
+   "word recognition score",
+   "retrocochlear",
+   "speech audiometry",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 98",
+   "baslik": "*Performance-Intensity* Function and Rollover",
+   "alt": "The PI-PB curve, PBmax and the rollover index",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn to draw the performance-intensity function by measuring the word recognition score at several levels.",
+    "With examples, we will look at the highest score, the idea of rollover and how to calculate the rollover index."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The PI function",
+   "baslik": "The performance-intensity *function*",
+   "maddeler": [
+    {
+     "metin": "Score change with _presentation level_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "With PB words: the _PI-PB_ curve",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "One level may miss _the best score_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Highest score: _PBmax_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PI-PB",
+    "metin": "The word recognition score plotted *against level*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "The performance-intensity function is the curve that shows how the speech score changes with presentation level.",
+    {
+     "yazi": "When it is drawn with phonetically balanced, or PB, word lists, it is called the PI-PB curve.",
+     "ses": "When it is drawn with phonetically balanced, or P.B, word lists, it is called the P.I. P.B curve."
+    },
+    "In earlier lessons, we usually measured the word recognition score at a single level.",
+    "But a score taken at one level may not be the best score a person can reach, especially in sloping losses.",
+    {
+     "yazi": "The highest score on the curve is called PBmax; it is the best word recognition the person can reach with this list.",
+     "ses": "The highest score on the curve is called P.B max; it is the best word recognition the person can reach with this list."
+    },
+    "The shape of the curve shows whether the score holds up at high levels."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The PI function",
+   "baslik": "*How* is the curve drawn?",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Find the SRT",
+     "metin": "Starting point",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "First level",
+     "metin": "A comfortably audible level",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Raise the level",
+     "metin": "10 to 20 dB steps",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Top level",
+     "metin": "Stay below the UCL",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Mask",
+     "metin": "Speech noise to the opposite ear",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "First, the speech recognition threshold, or SRT, is found for each ear; the curve is drawn at levels above this threshold.",
+    "The first word list is presented at a comfortably audible level, for example thirty to forty decibels above the SRT.",
+    "The level is then raised in steps of ten to twenty decibels, with a new list at each level.",
+    "At each level, the percentage of words correct is recorded and the points are joined.",
+    "The highest level stays below the uncomfortable loudness level, or UCL; some studies suggest about five decibels below the UCL.",
+    "At high levels, masking the opposite ear with speech noise is almost always needed.",
+    "In practice, many clinics take a shortcut: they test first at a high level and add levels only if the score is low."
+   ]
+  },
+  {
+   "id": "normal_iletim",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Curve shapes",
+   "baslik": "Normal and *conductive* curves",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Presentation level (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Word recognition (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        10,
+        20
+       ],
+       [
+        15,
+        45
+       ],
+       [
+        20,
+        70
+       ],
+       [
+        25,
+        88
+       ],
+       [
+        30,
+        96
+       ],
+       [
+        40,
+        100
+       ],
+       [
+        100,
+        100
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "etiket": "normal",
+      "etiket_konum": [
+       40,
+       100
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "iletim",
+      "noktalar": [
+       [
+        40,
+        2
+       ],
+       [
+        50,
+        20
+       ],
+       [
+        55,
+        45
+       ],
+       [
+        60,
+        70
+       ],
+       [
+        65,
+        88
+       ],
+       [
+        70,
+        96
+       ],
+       [
+        80,
+        100
+       ],
+       [
+        100,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "conductive",
+      "etiket_konum": [
+       80,
+       100
+      ],
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayma",
+      "x": [
+       15,
+       55
+      ],
+      "y": 45,
+      "etiket": "about 40 dB shift",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: rises fast, reaches 100 percent",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Conductive: same shape, shifted right",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "At an adequate level, score still high",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "In a person with normal hearing, the curve rises quickly from just above the SRT.",
+    "The score usually reaches close to one hundred percent about thirty to forty decibels above the SRT.",
+    "At higher levels, the score stays at this peak and the curve forms a flat plateau.",
+    "In conductive loss, the shape of the curve does not change; it only shifts to the right, to higher levels, by the size of the loss.",
+    "In this example, a forty decibel conductive loss shifts the curve about forty decibels to the right.",
+    "When sound is made loud enough, the score again approaches one hundred percent, because the cochlea is intact."
+   ]
+  },
+  {
+   "id": "koklear_retro",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Curve shapes",
+   "baslik": "Cochlear and *retrocochlear* curves",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Presentation level (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Word recognition (%)"
+    },
+    "seriler": [
+     {
+      "ad": "koklear",
+      "noktalar": [
+       [
+        40,
+        2
+       ],
+       [
+        50,
+        20
+       ],
+       [
+        60,
+        50
+       ],
+       [
+        70,
+        74
+       ],
+       [
+        80,
+        80
+       ],
+       [
+        90,
+        78
+       ],
+       [
+        100,
+        76
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "cochlear",
+      "etiket_konum": [
+       100,
+       76
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "retrokoklear",
+      "noktalar": [
+       [
+        40,
+        2
+       ],
+       [
+        50,
+        22
+       ],
+       [
+        60,
+        55
+       ],
+       [
+        70,
+        80
+       ],
+       [
+        80,
+        60
+       ],
+       [
+        90,
+        36
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "retrocochlear",
+      "etiket_konum": [
+       90,
+       36
+      ],
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dusus",
+      "x": 90,
+      "y": 36,
+      "dus": "x",
+      "etiket": "rollover",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Cochlear: lower peak, plateau holds",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Retrocochlear: clear drop at high levels",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "This drop is called _rollover_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "In cochlear loss, the curve shifts to the right and often does not reach one hundred percent.",
+    "The peak score tends to fall as the degree of loss increases; after the peak, the score is usually more or less maintained.",
+    "In cochlear losses, a slight drop of a few points may also be seen at high levels.",
+    "In a retrocochlear problem, beyond the cochlea, the score may drop clearly after its peak as the level rises.",
+    "This drop in score at high levels is called rollover.",
+    "In this example, the score peaks at eighty percent at seventy decibels and falls to thirty six percent at ninety decibels.",
+    "A drop like this suggests that the auditory nerve cannot carry information consistently at high levels."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Curve shapes",
+   "baslik": "Four curves, *four clues*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal",
+     "metin": "Rises fast, 100 percent",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Conductive",
+     "metin": "Shifted right, high peak",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Cochlear",
+     "metin": "Peak may drop, plateau holds",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Retrocochlear",
+     "metin": "Clear rollover",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The normal curve rises quickly and reaches a plateau close to one hundred percent.",
+    "In conductive loss, the curve shifts to the right, but the peak is still high.",
+    "In cochlear loss, the curve shifts right, the peak may fall with the degree of loss, and it largely holds at high levels.",
+    "In retrocochlear pathology, a clear rollover may appear at high levels.",
+    "These shapes are clues; they do not give a diagnosis on their own and are assessed together with other tests."
+   ]
+  },
+  {
+   "id": "indeks",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "The rollover index",
+   "baslik": "The rollover *index*",
+   "maddeler": [
+    {
+     "metin": "_PBmax_: the highest score on the curve",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_PBmin_: lowest score above PBmax level",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Index: difference divided by _PBmax_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "A ratio separates _groups_ better",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FORMULA",
+    "metin": "Rollover index = (PBmax minus PBmin) / *PBmax*",
+    "cumle": 2
+   },
+   "cumleler": [
+    {
+     "yazi": "To calculate the rollover index, we first find the highest score on the curve, PBmax.",
+     "ses": "To calculate the rollover index, we first find the highest score on the curve, P.B max."
+    },
+    {
+     "yazi": "Then we find the lowest score at levels above the level where PBmax was reached; this is PBmin.",
+     "ses": "Then we find the lowest score at levels above the level where P.B max was reached; this is P.B min."
+    },
+    {
+     "yazi": "The rollover index is found by dividing the difference between the two scores by PBmax.",
+     "ses": "The rollover index is found by dividing the difference between the two scores by P.B max."
+    },
+    "The index is a value between zero and one; zero means no drop, and larger values show a clear drop.",
+    {
+     "yazi": "In 1971, Jerger and Jerger showed that expressing the difference as a ratio separates cochlear and retrocochlear groups better.",
+     "ses": "In nineteen seventy one, Jerger and Jerger showed that expressing the difference as a ratio separates cochlear and retrocochlear groups better."
+    },
+    "For example, a twenty point drop is small when it starts from one hundred percent, but very large when it starts from forty percent."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "The rollover index",
+   "baslik": "A worked *example*",
+   "sutunlar": [
+    "Level (dB HL)",
+    "Score (%)",
+    "Note"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "50",
+      "22",
+      "-"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "60",
+      "55",
+      "-"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "70",
+      "80",
+      "PBmax"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "80",
+      "60",
+      "-"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "90",
+      "36",
+      "PBmin"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Index",
+      "0.55",
+      "Above the criterion"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Let us work an example: here the score is twenty two percent at fifty decibels and fifty five percent at sixty decibels.",
+    {
+     "yazi": "At seventy decibels the score rises to eighty percent; this is the peak of the curve, PBmax.",
+     "ses": "At seventy decibels the score rises to eighty percent; this is the peak of the curve, P.B max."
+    },
+    {
+     "yazi": "At eighty decibels the score drops to sixty percent, and at ninety decibels to thirty six percent; PBmin is thirty six.",
+     "ses": "At eighty decibels the score drops to sixty percent, and at ninety decibels to thirty six percent; P.B min is thirty six."
+    },
+    "The calculation: eighty minus thirty six is forty four; forty four divided by eighty is zero point five five.",
+    "The rollover index is zero point five five.",
+    "This value is above the criterion of zero point four five proposed for the lists Jerger and Jerger used.",
+    "So this example is reported as a finding that may need further evaluation for retrocochlear pathology."
+   ]
+  },
+  {
+   "id": "karsi",
+   "tur": "karsilastir",
+   "bolum_no": "PART 3",
+   "bolum": "The rollover index",
+   "baslik": "Two examples *side by side*",
+   "sol": {
+    "ust": "Example 1",
+    "maddeler": [
+     {
+      "metin": "PBmax _80_, PBmin _36_",
+      "cumle": 0
+     },
+     {
+      "metin": "Index: _0.55_",
+      "cumle": 0
+     },
+     {
+      "metin": "_Above_ criterion: further evaluation",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Example 2",
+    "maddeler": [
+     {
+      "metin": "PBmax _80_, PBmin _72_",
+      "cumle": 2
+     },
+     {
+      "metin": "Index: _0.10_",
+      "cumle": 3
+     },
+     {
+      "metin": "Slight drop _consistent_ with cochlear loss",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "In the first example, PBmax is eighty, PBmin is thirty six and the index is zero point five five.",
+     "ses": "In the first example, P.B max is eighty, P.B min is thirty six and the index is zero point five five."
+    },
+    "Since this value is above the criterion, the finding needs attention.",
+    "In the second example, the peak is again eighty percent, but the score at the highest level is seventy two percent.",
+    "This time the difference is eight points; the index is zero point one zero.",
+    "A drop this small can also be seen in cochlear losses and is not considered significant on its own.",
+    "Even though the peak score is the same in both examples, the behavior at high levels is completely different."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "The rollover index",
+   "baslik": "Using the criterion *correctly*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "0.45 criterion",
+     "metin": "Jerger and Jerger, 1971",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "List dependent",
+     "metin": "Different lists, different criteria",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Short lists",
+     "metin": "More score variability",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Limited sensitivity",
+     "metin": "A normal index does not exclude",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The criterion of zero point four five was proposed for the word lists used in the Jerger and Jerger study.",
+    "Different, sometimes lower, criteria have been proposed for other lists, so the criterion should match the clinic's list.",
+    "With short lists of twenty five words, random score variability is large, and this affects the index.",
+    "Also, rollover does not appear in every retrocochlear pathology; a normal index does not rule this possibility out.",
+    "So the rollover index is interpreted not on its own but as part of the test battery."
+   ]
+  },
+  {
+   "id": "orantisiz",
+   "tur": "odyogram",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "A disproportionately *low* score",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: mild to moderate loss",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: normal hearing",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Right PBmax_: 40 percent",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       40,
+       45,
+       50,
+       55
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "The second important contribution of the PI curve is showing whether the highest score fits what is expected for the degree of loss.",
+    "In this example, the right ear has a mild to moderate loss, but the highest score measured at several levels is only forty percent.",
+    "With a cochlear loss of this degree, the highest score is usually expected to be much better.",
+    {
+     "yazi": "In 1995, Dubno and colleagues published confidence limits for the lowest expected PBmax based on the pure tone average.",
+     "ses": "In nineteen ninety five, Dubno and colleagues published confidence limits for the lowest expected P.B max based on the pure tone average."
+    },
+    "If the score is below these limits, it is considered disproportionately low.",
+    "A disproportionately low score, especially in one ear only, is a finding that should be passed on to the physician."
+   ]
+  },
+  {
+   "id": "bugun",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Clinical use",
+   "baslik": "*Where* does it stand today?",
+   "maddeler": [
+    {
+     "metin": "Site-of-lesion tests give _clues_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Imaging decision is _the physician's_",
+     "cumle": 1,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Interpreted _together_ with ABR and reflexes",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "PBmax valuable in _hearing aid counseling_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "BATTERY",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "PI-PB curve",
+      "metin": "Rollover, disproportionate score",
+      "cumle": 2
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Acoustic reflex",
+      "metin": "Threshold and decay",
+      "cumle": 2
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "ABR",
+      "metin": "Wave latencies",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Findings such as rollover and a disproportionately low score are part of the classic site-of-lesion tests and give clues.",
+    "Today, imaging is decisive in showing retrocochlear pathology; this decision belongs to the physician.",
+    "Speech findings are interpreted together with tests such as acoustic reflexes and the auditory brainstem response, or ABR.",
+    {
+     "yazi": "PBmax is also valuable beyond site of lesion; it helps discuss the expected benefit from hearing aids realistically.",
+     "ses": "P.B max is also valuable beyond site of lesion; it helps discuss the expected benefit from hearing aids realistically."
+    },
+    "In short, the curve shows at a glance both the ear's best performance and how it behaves at high levels."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "Always mask the opposite ear at high levels. An unmasked better ear can raise the high-level score and hide a true rollover.",
+   "cumleler": [
+    "The most common mistake with the PI curve is skipping masking at high levels.",
+    "As the presentation level rises, speech can cross to the opposite ear, and the better ear may recognize the words.",
+    "The high-level score of the test ear then looks better than it is, and a true rollover may be hidden.",
+    "So at every high level, give enough speech noise to the opposite ear and record the noise level."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "PI-PB: score plotted _against level_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Conductive shifts, cochlear has _lower peak_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Index: _(PBmax minus PBmin) / PBmax_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "_Masking_ is essential at high levels",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "The performance-intensity function shows how the word recognition score changes with presentation level.",
+    "In conductive loss the curve shifts right; in cochlear loss the peak may drop; in retrocochlear pathology clear rollover may occur.",
+    {
+     "yazi": "The rollover index is PBmax minus PBmin, divided by PBmax, and is interpreted with a criterion suited to the list.",
+     "ses": "The rollover index is P.B max minus P.B min, divided by P.B max, and is interpreted with a criterion suited to the list."
+    },
+    "Masking the opposite ear at high levels is essential for an accurate curve."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "PBmax 90 percent, PBmin 45 percent. What is the rollover index?",
+   "secenekler": [
+    "0.45",
+    "0.50",
+    "0.55",
+    "0.90"
+   ],
+   "dogru": 1,
+   "aciklama": "90 minus 45 is 45; 45 divided by 90 is _0.50_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: PBmax is ninety percent and PBmin is forty five percent. What is the rollover index?",
+     "ses": "Test yourself: P.B max is ninety percent and P.B min is forty five percent. What is the rollover index?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: zero point five zero.",
+    "Ninety minus forty five is forty five; forty five divided by ninety is zero point five zero."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Speech-in-Noise* Tests: QuickSIN, HINT, Matrix",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "In the next lesson, we will look at speech-in-noise tests such as QuickSIN, HINT and matrix tests.",
+     "ses": "In the next lesson, we will look at speech in noise tests such as Quick sin, hint and matrix tests."
+    },
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

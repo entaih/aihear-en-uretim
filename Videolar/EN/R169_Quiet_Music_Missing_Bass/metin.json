@@ -1,0 +1,110 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R169_Quiet_Music_Missing_Bass_EN",
+ "kapak": {
+  "ust": "QUICK FACT #169",
+  "baslik": "Quiet music, *missing* bass",
+  "alt": "Equal-loudness contours",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does the bass disappear when music is turned down? #shorts",
+  "aciklama": "Equal-loudness contours show that at low levels the ear is much less sensitive to low-pitched sounds: for 40 phons, about 64 dB SPL is needed at 100 Hz but only 40 dB SPL at 1000 Hz. As level rises, the contours flatten, so bass seems to vanish when music is quiet and returns when it is turned up.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "acoustics",
+   "music"
+  ],
+  "etiketler": [
+   "equal-loudness contours",
+   "phon",
+   "loudness",
+   "bass",
+   "ISO 226",
+   "psychoacoustics",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does the bass disappear when music is turned down?",
+  "bilgiler": [
+   "At low levels, the ear is much less sensitive to low sounds.",
+   "For 40 phons, 100 Hz needs about 64 dB SPL.",
+   "As level rises, the contours flatten and the bass returns."
+  ],
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "music"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #169",
+   "metin": "Why does quiet music lose its *bass?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does the bass disappear when music is turned down?"
+   ]
+  },
+  {
+   "id": "egri",
+   "tur": "zincir",
+   "baslik": "*Equal* loudness",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "100 Hz",
+     "tr": "about 64 dB SPL",
+     "cumle": 1
+    },
+    {
+     "ad": "1000 Hz",
+     "tr": "40 dB SPL",
+     "cumle": 2
+    },
+    {
+     "ad": "Higher levels",
+     "tr": "contours flatten",
+     "cumle": 3
+    }
+   ],
+   "alt": "The bass returns _when turned up_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "At low levels, the ear is much less sensitive to low sounds.",
+    {
+     "yazi": "For 40 phons, 100 Hz needs about 64 dB SPL.",
+     "ses": "For forty phons, one hundred hertz needs about sixty-four decibels S P L."
+    },
+    {
+     "yazi": "At 1000 Hz, 40 dB SPL is enough.",
+     "ses": "At one thousand hertz, forty decibels S P L is enough."
+    },
+    "As level rises, contours flatten, and low sounds grow louder faster.",
+    "So quiet music loses its bass, which returns when turned up."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D080",
+ "kaynak_baslik": "Loudness Perception: Phons and Sones"
+}

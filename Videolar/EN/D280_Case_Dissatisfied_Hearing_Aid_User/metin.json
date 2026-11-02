@@ -1,0 +1,938 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D280_Case_Dissatisfied_Hearing_Aid_User_EN",
+ "kapak": {
+  "ust": "LESSON 280",
+  "baslik": "The dissatisfied<br>*user*",
+  "alt": "Complaint, data logging and fine-tuning",
+  "cizim": "isitme_cihazi"
+ },
+ "youtube": {
+  "baslik": "Case: The Dissatisfied Hearing Aid User | Lesson 280 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional case, we analyze the complaint of a dissatisfied hearing aid user in a structured way: physical checks and the listening stethoscope, data logging, real-ear measurement at high input levels, fine-tuning from the user's words to settings, understanding in noise and the QuickSIN, realistic expectations counseling and follow-up.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Dillon, Hearing Aids; Killion et al., QuickSIN (2004); Katz, Handbook of Clinical Audiology; ASHA, Hearing Aids for Adults.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "casestudy"
+  ],
+  "etiketler": [
+   "hearing aid satisfaction",
+   "data logging",
+   "fine-tuning",
+   "expectations",
+   "real-ear measurement",
+   "QuickSIN",
+   "hearing aid troubleshooting",
+   "speech in noise",
+   "audiology case study",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 280",
+   "baslik": "Case: the *dissatisfied* user",
+   "alt": "A structured approach from complaint to solution",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we work step by step through the complaint of a dissatisfied user who leaves their hearing aids in a drawer.",
+    "We will cover structured analysis of the complaint, data logging, fine-tuning and realistic expectations counseling."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "The complaint",
+   "baslik": "Example case: the *complaint*",
+   "maddeler": [
+    {
+     "metin": "A sixty-six-year-old example user",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Bilateral hearing aids for four months",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "_Understands nothing_ in noise",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Sounds metallic, tinny",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hearing aids in a drawer most days",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Noise",
+      "metin": "Cannot understand",
+      "cumle": 2
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Sound quality",
+      "metin": "Metallic, tinny",
+      "cumle": 3
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Use",
+      "metin": "In a drawer",
+      "cumle": 4
+     }
+    ],
+    "ust": "COMPLAINTS"
+   },
+   "cumleler": [
+    "Our case is fictional: a sixty-six-year-old person got bilateral behind-the-ear hearing aids four months ago.",
+    "They missed the follow-up visit; now, at their spouse's insistence, they come in saying these hearing aids do not work.",
+    "The main complaint is not understanding conversation at all in crowded, noisy places.",
+    "They also say the sound of cutlery and some speakers' voices seems metallic and tinny.",
+    "So they do not wear the hearing aids most days and leave them in a drawer.",
+    "As we will soon see, the user's own words carry valuable clues to the source of the problem."
+   ]
+  },
+  {
+   "id": "yapi",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "The complaint",
+   "baslik": "*Structure* the complaint",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Listen",
+     "metin": "Their own words",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Where, when?",
+     "metin": "Setting and sound",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Measure",
+     "metin": "Logging, device, REM",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Adjust",
+     "metin": "One change",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Evaluate",
+     "metin": "Ask at follow-up",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A structured approach starts with listening; the complaint is recorded in the person's own words, just as it is said.",
+    "Then we ask in which settings, with which sounds and since when the complaint occurs.",
+    "Next comes measurement: the data log is read, the device is checked physically and real-ear measurement is repeated.",
+    "Adjustments follow the findings; when possible, one change is made at a time so its effect can be understood.",
+    "Finally, at the next visit, the person is asked whether the change helped.",
+    "This order gets results much faster than changing settings at random."
+   ]
+  },
+  {
+   "id": "fiziksel",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Measurement and checks",
+   "baslik": "A *physical* check first",
+   "maddeler": [
+    {
+     "metin": "Otoscopy: any earwax?",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Dome and receiver in place?",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Check with a listening stethoscope",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Left receiver: _wax filter blocked_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 3,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "alici",
+      "metin": "receiver: filter blocked",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "alici",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Every complaint visit starts with otoscopy; in this case the ear canals are clear, with no significant earwax.",
+    "Domes and receivers are in place; there is no redness or pressure mark in the ear canal.",
+    "Listening with a stethoscope, the right hearing aid sounds clear, while the left is clearly weak and muffled.",
+    "The left receiver's wax filter is blocked; when the filter is changed, the sound returns to normal.",
+    "A simple maintenance problem may have made the person hear weakly and unevenly between the two ears.",
+    "Charge status, clean microphone ports and correct program function are also reviewed in the same check."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Measurement and checks",
+   "baslik": "Current *audiogram*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: air conduction",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Bone conduction: _overlaps_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Unchanged_ from previous test",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       30,
+       40,
+       50,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       20,
+       25,
+       35,
+       45,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "The audiogram shows a symmetric sensorineural loss in both ears, sloping toward the high frequencies.",
+    "Bone conduction overlaps air conduction; tympanograms are type A in both ears.",
+    "Compared with the test before fitting, thresholds show no significant change.",
+    "So there is no new hearing loss to explain the complaint; we look for the problem in the device, settings and use.",
+    "If hearing had worsened suddenly or markedly, referral to a physician would be needed before any adjustment."
+   ]
+  },
+  {
+   "id": "logging",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Measurement and checks",
+   "baslik": "What does the data log *say?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Quiet",
+      "2": "Speech",
+      "3": "Speech in noise"
+     },
+     "ad": "Setting"
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 20,
+     "ad": "Percent of use time"
+    },
+    "seriler": [
+     {
+      "ad": "ortam",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        20
+       ],
+       [
+        2,
+        30
+       ],
+       [
+        3,
+        50
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "gurultu",
+      "x": 3,
+      "y": 50,
+      "etiket": "50%",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Only _1.5 hours_ a day",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Volume often turned down",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Look together, _no blame_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Data logging shows how many hours a day, and in which settings, the device was used.",
+    "For this person, average daily use is only an hour and a half; so the brain had no chance to get used to hearing with the devices.",
+    "About half of the use time was in noisy speech settings; so the device was used most in the hardest setting.",
+    "The log also shows the person often turned the volume down; this suggests loud sounds were uncomfortable.",
+    "The log is not a tool for blame; it is looked at together with the person, and they are asked why they used the devices so little.",
+    "The person says they wore the hearing aids only at crowded gatherings, and got the worst results there."
+   ]
+  },
+  {
+   "id": "rem",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Measurement and checks",
+   "baslik": "*High-frequency output* at high input",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 110,
+     "adim": 10,
+     "ad": "Ear canal level (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        80
+       ],
+       [
+        500,
+        82
+       ],
+       [
+        1000,
+        84
+       ],
+       [
+        2000,
+        86
+       ],
+       [
+        3000,
+        86
+       ],
+       [
+        4000,
+        85
+       ],
+       [
+        6000,
+        82
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "high-input target",
+      "cumle": 0
+     },
+     {
+      "ad": "olcum",
+      "noktalar": [
+       [
+        250,
+        80
+       ],
+       [
+        500,
+        82
+       ],
+       [
+        1000,
+        85
+       ],
+       [
+        2000,
+        93
+       ],
+       [
+        3000,
+        96
+       ],
+       [
+        4000,
+        95
+       ],
+       [
+        6000,
+        90
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "measured",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "fazla",
+      "x": [
+       2000,
+       6000
+      ],
+      "renk": "sari",
+      "etiket": "above target",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Average input: _near target_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "High input: _too much treble_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Reduce high input only",
+     "cumle": 5,
+     "ikon": "yazilim"
+    }
+   ],
+   "cumleler": [
+    "Real-ear measurement is repeated with speech-like signals at average and high levels.",
+    "For average speech, the measurement is near target; there seems to be no problem here.",
+    "But for high-level input, output above two thousand hertz is clearly above target.",
+    "A description of sound as metallic and tinny is often linked to too much high-frequency output at high input levels.",
+    "This finding also explains why the person often turned the volume down.",
+    "The adjustment goal is clear: reduce high-frequency gain only for high inputs, while keeping soft and average sounds."
+   ]
+  },
+  {
+   "id": "sozcuk",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Fine-tuning",
+   "baslik": "From words to *settings*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Metallic, tinny",
+     "metin": "Too much treble at high input",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Muffled, distant",
+     "metin": "Too little high-frequency gain",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "My voice sounds bad",
+     "metin": "Occlusion, too much low",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Can't understand in noise",
+     "metin": "Program, microphone, expectations",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The first step of fine-tuning is working out which acoustic problem the person's words point to.",
+    "A description of sound as muffled or far away often suggests too little high-frequency gain.",
+    "Hearing one's own voice as if talking inside a bucket suggests the occlusion effect or too much low-frequency gain.",
+    "Not understanding in noise is not always a settings problem; program, microphones and expectations are considered together.",
+    "These pairings are a starting point; decisions are made with measurement and with the person.",
+    "In our case, the description and the real-ear measurement point the same way: too much treble at high input levels."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Fine-tuning",
+   "baslik": "Changes *made*",
+   "maddeler": [
+    {
+     "metin": "Left filter replaced",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Treble gain reduced at high input",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Separate program for noise",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "All-day wearing plan",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 2,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "mikrofon",
+      "cumle": 2
+     },
+     {
+      "parca": "islemci",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The first change is already done: the blocked filter in the left device was replaced, and the person was shown how to change it.",
+    "High-frequency gain was reduced for high input levels; audibility for soft and average inputs was kept.",
+    "A separate program with directional microphones and noise reduction active was added for crowded places.",
+    "After the change, real-ear measurement was repeated, and a recorded everyday sound scene was played with the person.",
+    "An all-day wearing plan was made, starting at home and in quiet places; crowded gatherings will be the next step."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Fine-tuning",
+   "baslik": "Understanding *in noise*",
+   "maddeler": [
+    {
+     "metin": "QuickSIN: 9 dB SNR loss",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Turning up volume doesn't change SNR",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Directional and remote microphones",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Seating and strategies",
+     "cumle": 5,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 4,
+    "ayar": {
+     "mod": "golge",
+     "gurultu_yonu": "sol"
+    },
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 4
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "For understanding in noise, the Quick Speech-in-Noise test, or QuickSIN, is done; the signal-to-noise ratio, or SNR, loss is nine decibels.",
+    "According to the test manual, this is a moderate SNR loss.",
+    "So to understand in noise, the person needs a higher signal-to-noise ratio, or SNR, than people with normal hearing.",
+    "Raising both speech and noise together does not change the ratio; so turning up the volume is not a solution on its own.",
+    "Directional microphones, and a remote microphone placed on the table, can improve the ratio by separating the talker's voice from the noise.",
+    "Strategies such as sitting with one's back to the noise source and facing the talker are also explained."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Expectations and outcome",
+   "baslik": "Realistic *expectations*",
+   "maddeler": [
+    {
+     "metin": "Hearing aids _do not restore normal_ hearing",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Some difficulty in noise may remain",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Acclimatization takes _weeks_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Rewrite the goals",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Realistic",
+      "metin": "Better, not normal",
+      "cumle": 0
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Patience",
+      "metin": "Weeks",
+      "cumle": 2
+     }
+    ],
+    "ust": "EXPECTATIONS"
+   },
+   "cumleler": [
+    "Expectations are discussed openly: hearing aids do not restore normal hearing, but they improve audibility and understanding.",
+    "The person is told in advance that some difficulty in noisy places will remain; knowing this reduces disappointment.",
+    "We explain that the brain may take weeks to adjust to sounds, and that regular use speeds up the process.",
+    "Together we rewrite the Client Oriented Scale of Improvement, or COSI, goals concretely; for example, dinner talk with the spouse.",
+    "Expectations counseling is not a one-time talk, but a process continued at every follow-up."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Before adjusting, listen to the device, read the data log, and write down the complaint in the person's own words.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the field: before opening the software, listen to the device with a listening stethoscope and check the ear canal.",
+    "A blocked filter or a wrongly fitted dome can have a bigger effect than the most complex adjustment.",
+    "Write the complaint in the person's own words; \"plates in the kitchen are piercing\" tells you far more than \"sounds bother me.\"",
+    "Record every change and its reason in the file; only then can you know at the next visit what worked."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Expectations and outcome",
+   "baslik": "Six weeks *later*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Use",
+     "metin": "7 hours a day",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sound quality",
+     "metin": "Less metallic",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Dinner",
+     "metin": "Much better",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Crowded gathering",
+     "metin": "Slightly better",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "At the six-week follow-up, the data log shows an average of seven hours a day.",
+    "The person says the metallic sound has largely gone and they now rarely turn the volume down.",
+    "They rate the goal of talking with their spouse at dinner as much better.",
+    "At crowded gatherings it is slightly better; they decide to try the remote microphone option.",
+    "Most of the dissatisfaction came not from the device itself, but from maintenance, settings, use and expectations.",
+    "At the next follow-up, the effect of the noise program and the remote microphone will be reassessed."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Expectations and outcome",
+   "baslik": "*What* goes in the file?",
+   "maddeler": [
+    {
+     "metin": "Complaint: the person's own words",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Findings: data log, device, REM",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Changes and their reasons",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Counseling and plan",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        30,
+        40,
+        50,
+        65,
+        70
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "First, the complaint is written in the file in the person's own words.",
+    "Then the findings: the data log, the device's physical condition and the real-ear measurement results.",
+    "Every change and its rationale is written, including the reason for any deliberate departure from target.",
+    "What was discussed in expectations counseling, the rewritten goals and the plan for the next visit are added.",
+    "This record keeps the process continuous when another colleague sees the person."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Listen, structure, measure the complaint",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Device and ear first: filter, dome, wax",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Data log and REM guide adjustment",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Realistic expectations, planned follow-up",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "With dissatisfaction, the complaint is heard in the person's words, structured by setting and sound, and confirmed by measurement.",
+    "Before adjusting, the ear canal and device are checked; simple problems like a blocked filter are common.",
+    "The data log and real-ear measurement show which way fine-tuning should go.",
+    "Realistic expectations counseling and planned follow-up keep the user from giving up on the hearing aids."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Sounds seem metallic. Most likely cause?",
+   "secenekler": [
+    "Too much low-frequency gain",
+    "Too much treble at high input",
+    "Weak battery",
+    "Earwax plug"
+   ],
+   "dogru": 1,
+   "aciklama": "A metallic, tinny description is often linked to too much _high-frequency output at high input levels_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: the user hears cutlery as metallic and tinny. Which possibility comes to mind first?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: too much high-frequency output at high input levels.",
+    "This is confirmed by real-ear measurement; high-frequency gain is reduced only for high inputs, while soft sounds are kept."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Case: Tinnitus with a *Normal* Audiogram",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next case we will look at a person who complains of tinnitus even though their audiogram is normal.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

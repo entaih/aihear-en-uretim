@@ -1,0 +1,995 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D026_Vestibular_Labyrinth_EN",
+ "kapak": {
+  "ust": "LESSON 26",
+  "baslik": "The vestibular<br>*labyrinth*",
+  "alt": "Utricle, saccule and semicircular canals",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "The Vestibular Labyrinth: Otoliths and Canals | Lesson 26 | AIHEAR Audiology Academy",
+  "aciklama": "The balance part of the inner ear is made of five sensory organs. In this lesson we cover the maculae of the utricle and saccule, the crista and cupula in the semicircular canals, the canal planes and pairs, vestibular hair cells and nerve connections. We also link this anatomy to caloric testing, vHIT and VEMP.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jacobson and Shepard, Balance Function Assessment and Management; Baloh and Honrubia, Clinical Neurophysiology of the Vestibular System; Gray's Anatomy; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "balance"
+  ],
+  "etiketler": [
+   "vestibular labyrinth",
+   "utricle",
+   "saccule",
+   "semicircular canals",
+   "macula",
+   "crista ampullaris",
+   "cupula",
+   "otoconia",
+   "vHIT",
+   "caloric test",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 26",
+   "baslik": "The vestibular *labyrinth*",
+   "alt": "Utricle, saccule and semicircular canals",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will examine the balance part of the inner ear: the vestibular labyrinth.",
+    "We will learn how the utricle and saccule sense linear motion, and how the semicircular canals sense rotation."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "General structure",
+   "baslik": "Five *balance organs*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utricle (utriculus)",
+     "cumle": 2
+    },
+    {
+     "parca": "sakkul",
+     "metin": "Saccule (sacculus)",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Semicircular canals",
+     "cumle": 3
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampulla",
+     "cumle": 4
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Vestibular nerve",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 2
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 3
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 4
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Each inner ear's vestibular labyrinth contains five separate sensory organs.",
+    "Two of them are sacs in the vestibule, and three are the semicircular canals.",
+    {
+     "yazi": "The sacs are the utriculus, or utricle, and the sacculus, or saccule."
+    },
+    {
+     "yazi": "The three canals are together called the canales semicirculares, the semicircular canals."
+    },
+    "At one end of each canal, where it opens into the vestibule, there is a widened part called the ampulla.",
+    "All these organs are filled with endolymph and send information to the brainstem through the vestibular nerve.",
+    "The utricle and saccule sense linear motion and gravity, while the canals sense rotation of the head."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ampulla",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "iki_grup",
+   "bolum_no": "PART 1",
+   "bolum": "General structure",
+   "baslik": "Otolith organs and *canals*",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Utricle and saccule: the _macula_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Linear_ motion and head tilt",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Membrane made _heavy_ by otoconia",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Canals: the _crista_, rotation",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Cupula: _not affected_ by gravity",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "makula",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 1
+     },
+     {
+      "parca": "sakkul",
+      "cumle": 1
+     },
+     {
+      "parca": "krista",
+      "cumle": 4
+     },
+     {
+      "parca": "ampulla",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "makula",
+      "metin": "Macula",
+      "cumle": 1
+     },
+     {
+      "parca": "krista",
+      "metin": "Crista",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The vestibular organs fall into two groups, and each group has a different sensor.",
+    "The sensory area in the utricle and saccule is called the macula; these two organs are also called the otolith organs.",
+    "The maculae sense linear acceleration, such as the motion of an elevator, and the tilt of the head relative to gravity.",
+    "The gelatinous membrane over the macula is weighted with small crystals called otoconia, or ear stones.",
+    {
+     "yazi": "The sensor in the canals is the crista ampullaris, the crista inside the ampulla."
+    },
+    "The cristae sense rotational movements of the head, that is, angular acceleration.",
+    "The cupula over the crista contains no crystals and has the same density as endolymph, so it is not affected by gravity."
+   ]
+  },
+  {
+   "id": "makula",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Otolith organs",
+   "baslik": "The *macula*: its structure",
+   "cizim": "makula_kesit",
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "stereosiller",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "cumle": 2
+    },
+    {
+     "parca": "kayma",
+     "cumle": 3
+    },
+    {
+     "parca": "striola",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hair cells and _supporting cells_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Gelatinous membrane and _otoconia_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Striola: direction _reverses_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "The macula is a small sensory area made of hair cells and supporting cells.",
+    "The hair bundles on top of the hair cells are embedded in the gelatinous membrane above.",
+    "On top of this membrane are otoconia, crystals of calcium carbonate, which make the membrane heavier than its surroundings.",
+    "When the head tilts or accelerates in a straight line, the heavy membrane lags behind or slides and bends the hair bundles.",
+    "Along a line in the middle of the macula, the striola, the hair cells reverse direction, so motion in every direction can be sensed.",
+    "Loose otoconia that slip into a canal are the main cause of benign paroxysmal positional vertigo, or BPPV."
+   ],
+   "etiketler": [
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Hair cells",
+     "cumle": 0
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Supporting cells",
+     "cumle": 0
+    },
+    {
+     "parca": "jelatinimsi_tabaka",
+     "metin": "Gelatinous membrane",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "metin": "Otoconia",
+     "cumle": 2
+    },
+    {
+     "parca": "striola",
+     "metin": "Striola",
+     "cumle": 4
+    }
+   ],
+   "ayar": {
+    "egim": 0.8,
+    "egim_cumle": 3
+   }
+  },
+  {
+   "id": "utrikul_sakkul",
+   "bolum_no": "PART 2",
+   "bolum": "Otolith organs",
+   "baslik": "Utricle and *saccule*",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Utricular macula _horizontal_, saccular _vertical_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Utricle: front-back, sideways motion, _tilt_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Saccule: _up and down_ motion",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Nerve: utricle _superior_, saccule _inferior_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tests: utricle _oVEMP_, saccule _cVEMP_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "vestibul",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "utrikul",
+      "cumle": 1
+     },
+     {
+      "parca": "sakkul",
+      "cumle": 1
+     },
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "utrikul",
+      "metin": "Utricle",
+      "cumle": 1
+     },
+     {
+      "parca": "sakkul",
+      "metin": "Saccule",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The utricle and the saccule complement each other in the orientation of their maculae.",
+    "With the head upright, the utricular macula lies roughly horizontal and the saccular macula roughly vertical.",
+    "So the utricle mainly senses front-to-back and sideways motion and head tilt, while the saccule senses up-and-down motion.",
+    "The utricle connects with the superior vestibular nerve, and the saccule mostly with the inferior vestibular nerve.",
+    "In the clinic we use the vestibular evoked myogenic potential, or VEMP: cervical VEMP for the saccule, ocular VEMP for the utricle."
+   ]
+  },
+  {
+   "id": "krista",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Semicircular canals",
+   "baslik": "The *crista* and the cupula",
+   "cizim": "ampulla_kesit",
+   "etiketler": [
+    {
+     "parca": "krista",
+     "metin": "Crista ampullaris",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "metin": "Cupula",
+     "cumle": 1
+    },
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Hair cells",
+     "cumle": 1,
+     "yer": "alt"
+    },
+    {
+     "parca": "akim",
+     "metin": "Endolymph flow",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "krista",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "cumle": 1
+    },
+    {
+     "parca": "akim",
+     "cumle": 2
+    },
+    {
+     "parca": "stereosiller",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cupula: like a _door_",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Endolymph flow _bends_ the cupula",
+     "cumle": 3,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "_Adapts_ to steady rotation",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Inside each ampulla is a ridge set across the axis of the canal; it is called the crista.",
+    "The hair bundles of the crista's hair cells are embedded in the gelatinous cupula, which closes the ampulla like a door.",
+    "When the head turns, the bony canal moves with it, but the endolymph inside lags behind because of inertia.",
+    "This relative flow bends the cupula to one side and excites or inhibits the hair cells.",
+    "If rotation continues at a steady speed, the fluid starts to turn with the canal and the cupula returns to rest within seconds.",
+    "So the canals sense not steady speed but the start and end of rotation, that is, changes in velocity."
+   ],
+   "ayar": {
+    "sapma": 0.8,
+    "sapma_cumle": 3,
+    "geri_cumle": 4,
+    "akim": true
+   }
+  },
+  {
+   "id": "akis_yonu",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Semicircular canals",
+   "baslik": "Flow *direction* and excitation",
+   "maddeler": [
+    {
+     "metin": "Lateral canal: flow toward ampulla _excites_",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Vertical canals: flow away _excites_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Turn right: _right_ lateral canal excited",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Eyes turn the _opposite way_",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "ampulla",
+      "cumle": 1
+     },
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "superior_kanal",
+      "cumle": 2
+     },
+     {
+      "parca": "posterior_kanal",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "Lateral canal",
+      "cumle": 1,
+      "yer": "sol"
+     },
+     {
+      "parca": "superior_kanal",
+      "metin": "Anterior canal",
+      "cumle": 2
+     },
+     {
+      "parca": "posterior_kanal",
+      "metin": "Posterior canal",
+      "cumle": 2,
+      "yer": "sol"
+     }
+    ]
+   },
+   "cumleler": [
+    "The direction in which the cupula bends decides whether the hair cells are excited or not.",
+    "In the lateral canal, endolymph flowing toward the ampulla excites the hair cells.",
+    "In the anterior and posterior canals it is the reverse: flow away from the ampulla is excitatory.",
+    "For example, when the head turns to the right, the right lateral canal is excited and the left lateral canal is inhibited.",
+    "The brain uses this difference to turn the eyes opposite to the head and keep the gaze steady.",
+    "This reflex is called the vestibulo-ocular reflex, or VOR."
+   ]
+  },
+  {
+   "id": "duzlemler",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Semicircular canals",
+   "baslik": "The canal *planes*",
+   "cizim": "kanal_duzlemleri",
+   "vurgula": [
+    {
+     "parca": "bas",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_cift",
+     "cumle": 3
+    },
+    {
+     "parca": "larp",
+     "cumle": 4
+    },
+    {
+     "parca": "ralp",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lateral canal: front tilted up about _30 degrees_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pairs: lateral, _LARP_, RALP",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "A _push-pull_ arrangement",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "The three canals lie in three planes that are roughly at right angles to one another.",
+    "They are the anterior, posterior and lateral canals; the anterior is also called superior, and the lateral is also called horizontal.",
+    "With the head upright, the lateral canal is not quite horizontal; its front end is tilted up by about thirty degrees.",
+    "The canals of the two ears work in pairs; the two lateral canals lie in the same plane.",
+    {
+     "yazi": "The left anterior and right posterior canals form a pair called LARP; the right anterior and left posterior form the RALP pair.",
+     "ses": "The left anterior and right posterior canals form a pair called larp; the right anterior and left posterior form the ralp pair."
+    },
+    "When one canal in a pair is excited the other is inhibited; this push-pull arrangement lets the brain work out the direction of motion."
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_on_kanal",
+     "metin": "Anterior (superior) canal",
+     "cumle": 1
+    },
+    {
+     "parca": "sag_arka_kanal",
+     "metin": "Posterior canal",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_cift",
+     "metin": "Lateral pair",
+     "cumle": 3
+    },
+    {
+     "parca": "larp",
+     "metin": "LARP",
+     "cumle": 4
+    },
+    {
+     "parca": "ralp",
+     "metin": "RALP",
+     "cumle": 4
+    }
+   ],
+   "ayar": {
+    "cift_cumleleri": {
+     "lateral": 3,
+     "larp": 4,
+     "ralp": 4
+    }
+   }
+  },
+  {
+   "id": "testler",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Semicircular canals",
+   "baslik": "The canals and *clinical tests*",
+   "maddeler": [
+    {
+     "metin": "Caloric test: _lateral canal_, slow motion",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "vHIT: _all six canals_, fast motion",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "The two tests _complement_ each other",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "VEMP: _utricle and saccule_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 2
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 4
+     },
+     {
+      "parca": "sakkul",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "In the caloric test, a warm or cool stimulus in the ear canal moves the endolymph of the lateral canal by a temperature difference.",
+    "During the test the patient lies supine with the head raised about thirty degrees, which brings the lateral canal into a vertical position.",
+    "The video head impulse test, or vHIT, can assess each of the six canals separately with quick head movements.",
+    "The caloric test measures the response to slow motion and vHIT to fast motion, so the two tests do not replace each other.",
+    "The utricle and saccule are assessed with VEMP tests.",
+    "In Türkiye, caloric testing has long been common in vestibular laboratories, and the use of vHIT keeps growing."
+   ]
+  },
+  {
+   "id": "tuy_hucreleri",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Hair cells and nerve",
+   "baslik": "Vestibular *hair cells*",
+   "cizim": "vestibuler_tuy_hucresi",
+   "vurgula": [
+    {
+     "parca": "tuy_demeti",
+     "cumle": 1
+    },
+    {
+     "parca": "kinosilyum",
+     "cumle": 2
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    },
+    {
+     "parca": "tip_1",
+     "cumle": 4
+    },
+    {
+     "parca": "tip_2",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Stereocilia and a _single kinocilium_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Toward the kinocilium: _excitation_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Type I and type II cells",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "On top of each vestibular hair cell are stereocilia in rows of increasing height, with a single kinocilium on the tallest side.",
+    "This arrangement gives each cell a specific direction.",
+    "When the bundle bends toward the kinocilium the cell is excited; when it bends the other way the cell is inhibited.",
+    "Even at rest, the nerve fibers fire steadily at a certain rate; motion raises or lowers this rate.",
+    {
+     "yazi": "The vestibular epithelium has two kinds of hair cells: flask-shaped type I and cylinder-shaped type II.",
+     "ses": "The vestibular epithelium has two kinds of hair cells: flask-shaped type one and cylinder-shaped type two."
+    },
+    "Resting activity from the two sides is normally balanced; if one side suddenly weakens, dizziness and nystagmus appear."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "tuy_demeti",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "stereosiller",
+     "metin": "Stereocilia",
+     "cumle": 0
+    },
+    {
+     "parca": "kinosilyum",
+     "metin": "Kinocilium",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Nerve fibers",
+     "cumle": 3
+    },
+    {
+     "parca": "tip_1",
+     "metin": "Type I (flask)",
+     "cumle": 4
+    },
+    {
+     "parca": "tip_2",
+     "metin": "Type II (cylinder)",
+     "cumle": 4,
+     "yer": "sag"
+    }
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Hair cells and nerve",
+   "baslik": "*Vestibular nerve* connections",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Vestibular nerve",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Superior branch: anterior, lateral canal, _utricle_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Inferior branch: posterior canal, _saccule_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Cell bodies: _Scarpa's ganglion_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Fibers from the vestibular organs form the vestibular nerve.",
+    "The superior vestibular nerve carries fibers from the anterior and lateral canals and the utricle.",
+    "The inferior vestibular nerve carries fibers from the posterior canal and most of the saccule.",
+    {
+     "yazi": "The cell bodies lie in the vestibular ganglion in the internal auditory canal, also called Scarpa's ganglion."
+    },
+    "This division matters in the clinic, because some disorders affect only one branch of the nerve.",
+    "We will look at the detailed course of the nerve in the next lesson, together with the eighth cranial nerve."
+   ]
+  },
+  {
+   "id": "bppv",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Hair cells and nerve",
+   "baslik": "Clinical link: *BPPV*",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Otoconia detach _from the utricle_",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Mostly the _posterior canal_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Brief_ dizziness with head position",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "The most common clinical counterpart of vestibular anatomy is BPPV.",
+    "In this condition, otoconia that break loose from the utricle enter one of the semicircular canals.",
+    "The posterior canal is affected most often, because it is the lowest canal both when standing and when lying down.",
+    "When the head is moved into certain positions, the crystals move inside the canal and trigger brief dizziness.",
+    "We will look at positional tests in detail in the vestibular assessment lessons."
+   ],
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utricle",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "Posterior canal",
+     "cumle": 2,
+     "yer": "sol"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "utrikul",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 2
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 4",
+   "bolum": "Hair cells and nerve",
+   "baslik": "Clinical tip",
+   "metin": "In caloric testing, raise the head of the supine patient about 30 degrees so the lateral canal is vertical. A wrong head position can shrink the responses.",
+   "cumleler": [
+    "A tip from practice: in caloric testing, head position is directly tied to canal anatomy.",
+    "With the patient supine and the head raised about thirty degrees, the lateral canal comes into a vertical position.",
+    "In this position the temperature difference moves the endolymph most effectively.",
+    "If the head stays flat or turned to one side, the responses may shrink and the two sides may wrongly look different."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Five organs: _utricle_, saccule, three canals",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Macula: _linear_ motion and tilt",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Crista and cupula: _rotation_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "The canals work in _pairs_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Each vestibular labyrinth has five sensory organs: the utricle, the saccule and three semicircular canals.",
+    "With their otoconia-laden membranes, the maculae of the utricle and saccule sense linear motion and head tilt.",
+    "The crista and cupula in the canals sense rotational movements of the head.",
+    "The canals of the two ears work as coplanar pairs, in a push-pull arrangement."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Which sensory structure detects head tilt?",
+   "secenekler": [
+    "Cupula",
+    "Macula",
+    "Ampulla",
+    "Cochlear duct"
+   ],
+   "dogru": 1,
+   "aciklama": "The _macula_ carries a membrane weighted with otoconia, so it is sensitive to gravity and linear motion.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: Which sensory structure detects the tilt of the head relative to gravity?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is B: the macula."
+    },
+    "The cupula has the same density as endolymph, so gravity does not affect it; the macula, carrying otoconia, is affected."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cranial Nerve VIII: The *Vestibulocochlear* Nerve",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will examine the eighth cranial nerve, which carries the fibers from the cochlea and the vestibular organs.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

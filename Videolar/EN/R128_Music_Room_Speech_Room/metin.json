@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R128_Music_Room_Speech_Room_EN",
+ "kapak": {
+  "ust": "QUICK FACT #128",
+  "baslik": "*Reverberation* hides consonants",
+  "alt": "Good for music can be bad for speech",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Can a room that is great for music be bad for speech? #shorts",
+  "aciklama": "Reverberation time is how long it takes for the level to drop by 60 dB after a sound stops. About half a second is desirable in a treated classroom and about two seconds in a concert hall; with long reverberation, the tails of vowels mask weak consonants.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "acoustics",
+   "classroom"
+  ],
+  "etiketler": [
+   "reverberation time",
+   "RT60",
+   "room acoustics",
+   "classroom acoustics",
+   "concert hall",
+   "speech understanding",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Can a room that is great for music be bad for speech?",
+  "bilgiler": [
+   "In a treated classroom, reverberation time is about half a second.",
+   "Concert halls aim for about two seconds.",
+   "With long reverberation, strong vowel tails mask weak consonants."
+  ],
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "classroom"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #128",
+   "metin": "Great for music, *bad for speech?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Can a room that is great for music be bad for speech?"
+   ]
+  },
+  {
+   "id": "rt60",
+   "tur": "zincir",
+   "baslik": "*Reverberation* time",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "0.5 s",
+     "tr": "treated classroom",
+     "cumle": 1
+    },
+    {
+     "ad": "2 s",
+     "tr": "concert hall",
+     "cumle": 2
+    },
+    {
+     "ad": "Several s",
+     "tr": "large place of worship",
+     "cumle": 3
+    }
+   ],
+   "alt": "Great for music, _bad for speech_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Reverberation time: how long sound takes to drop sixty decibels after stopping.",
+    "In a treated classroom, it is about half a second.",
+    "Concert halls aim for about two seconds, so music sounds full.",
+    "In large places of worship, it can reach several seconds.",
+    "With long reverberation, strong vowel tails mask weak consonants."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D044",
+ "kaynak_baslik": "Room Acoustics: Reverberation and Signal-to-Noise"
+}

@@ -1,0 +1,899 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D281_Case_Tinnitus_Normal_Audiogram_EN",
+ "kapak": {
+  "ust": "LESSON 281",
+  "baslik": "Normal audiogram,<br>*tinnitus*",
+  "alt": "Extended high frequencies and the THI",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      5,
+      5,
+      10,
+      10,
+      15,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      5,
+      10,
+      10,
+      10,
+      15,
+      20
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Case: Tinnitus with a Normal Audiogram | Lesson 281 | AIHEAR Audiology Academy",
+  "aciklama": "In a fictional adult case, we assess tinnitus that comes with a normal audiogram: red flags, DPOAEs, extended high-frequency audiometry, the concept of hidden hearing loss, a speech-in-noise test, the THI and questions about hyperacusis, a counseling plan, and follow-up with the THI.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Tunkel et al., Clinical Practice Guideline: Tinnitus (2014); McCombe et al., Guidelines for the grading of tinnitus severity (2001); Newman et al., Development of the Tinnitus Handicap Inventory (1996); Jafari et al., A Systematic Review and Meta-Analysis of Extended High-Frequency Hearing Thresholds in Tinnitus With a Normal Audiogram, Ear and Hearing (2022).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "tinnitus",
+   "casestudy"
+  ],
+  "etiketler": [
+   "tinnitus",
+   "normal audiogram",
+   "extended high frequencies",
+   "THI",
+   "Tinnitus Handicap Inventory",
+   "hidden hearing loss",
+   "hyperacusis",
+   "DPOAE",
+   "tinnitus counseling",
+   "audiology case study",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 281",
+   "baslik": "Case: *normal* audiogram, tinnitus",
+   "alt": "Extended high frequencies, THI and counseling",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we work through an adult case with tinnitus complaints even though the audiogram is normal.",
+    "We will cover extended high-frequency audiometry, otoacoustic emissions, questions about tinnitus and hyperacusis, and a counseling plan."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "Example case: *history*",
+   "maddeler": [
+    {
+     "metin": "A thirty-four-year-old example person",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_High-pitched ringing_ in both ears, six months",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Marked at night and in quiet",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Concerts, loud headphone listening",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Trouble falling asleep, anxiety",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Tinnitus",
+      "metin": "Both ears, high-pitched",
+      "cumle": 1
+     },
+     {
+      "ikon": "muzik",
+      "baslik": "Exposure",
+      "metin": "Concerts, headphones",
+      "cumle": 3
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Impact",
+      "metin": "Sleep and anxiety",
+      "cumle": 4
+     }
+    ],
+    "ust": "HISTORY"
+   },
+   "cumleler": [
+    "Our case is fictional: a thirty-four-year-old person comes in complaining of ringing in both ears.",
+    "The tinnitus has been present for about six months; it is described as a high-pitched, constant sound in both ears.",
+    "At work during the day it is barely noticed, but it becomes very clear in bed at night and in quiet places.",
+    "The person says they have gone to concerts often for years and listened to loud music through headphones on public transport.",
+    "They have trouble falling asleep and fear that the ringing is a sign of permanent damage.",
+    "They add that they find it much harder than before to follow conversations in crowded restaurants."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "History",
+   "baslik": "*Red flags* first",
+   "ogeler": [
+    {
+     "ikon": "kalp",
+     "baslik": "In time with the pulse",
+     "metin": "Pulsatile tinnitus",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Unilateral",
+     "metin": "Especially with hearing loss",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sudden onset",
+     "metin": "With sudden hearing loss",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Associated",
+     "metin": "Vertigo, neurological signs",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "In every tinnitus visit, we first ask about conditions needing a physician: tinnitus in time with the pulse, or pulsatile tinnitus.",
+    "Unilateral tinnitus matters too, especially with hearing loss or asymmetry in the same ear.",
+    "When tinnitus starts together with sudden hearing loss, time matters; these people are referred without waiting.",
+    "Vertigo, facial weakness or other neurological signs also call for a physician's assessment.",
+    "In our case none of these are present; the tinnitus is bilateral, constant and came on slowly."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PART 2",
+   "bolum": "Standard tests",
+   "baslik": "Standard audiogram *normal*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Tympanogram and reflexes _normal_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15,
+       20
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Otoscopy is normal; thresholds from two hundred fifty to eight thousand hertz are within normal limits in both ears.",
+    "Word recognition scores are one hundred percent in both ears.",
+    "Tympanograms are type A, and acoustic reflexes are at expected levels.",
+    "From the standard audiogram's point of view, hearing is normal; but this does not mean the tinnitus is not real.",
+    "A normal audiogram shows only thresholds from two hundred fifty to eight thousand hertz; it does not show every function of the cochlea."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Standard tests",
+   "baslik": "DPOAE: low in the *highs*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "mid frequencies: response present",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "metin": "noise floor",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Mid frequencies: _response present_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "4 to 8 kHz: _low amplitude_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Interpret with the course over time",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "To assess outer hair cell function, distortion product otoacoustic emissions, or DPOAEs, were recorded.",
+    "In both ears, DPOAE responses are clearly above the noise floor in the mid frequencies.",
+    "But between four thousand and eight thousand hertz, response amplitudes are low and borderline at some frequencies.",
+    "Although thresholds are normal, this finding may suggest an early change in outer hair cell function in the high-frequency region.",
+    "OAE findings are not interpreted alone either; they are weighed with other tests and with the course over time."
+   ]
+  },
+  {
+   "id": "ehf",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Extended tests",
+   "baslik": "*Above* eight thousand hertz",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right_: drop after 10 kHz",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left_: similar drop",
+     "cumle": 1
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "16 kHz: _no response_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       25,
+       35,
+       50,
+       65
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       40,
+       55,
+       65
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "frekanslar": [
+     4000,
+     8000,
+     10000,
+     12500,
+     14000,
+     16000
+    ]
+   },
+   "cumleler": [
+    "Extended high-frequency audiometry measures thresholds above eight thousand hertz.",
+    "In this case thresholds rise clearly from ten thousand hertz; at fourteen thousand hertz they reach fifty to fifty-five decibels.",
+    "At sixteen thousand hertz there is no response at the audiometer's maximum output.",
+    "At these frequencies thresholds change markedly with age and norms are limited; still, this drop is marked for a thirty-four-year-old.",
+    "A meta-analysis showed that thresholds at these frequencies are worse in tinnitus patients with a normal audiogram.",
+    "This finding offers a clue to the source of the tinnitus and helps us give the person an explanation."
+   ]
+  },
+  {
+   "id": "gizli",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Extended tests",
+   "baslik": "*Hidden* hearing loss",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "inner hair cell",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "nerve fibers: synapse loss",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 0
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Thresholds may stay _normal_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Difficulty understanding in noise?",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "A research concept, _not a diagnosis_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Another possibility is loss of the connections between inner hair cells and auditory nerve fibers; this is called cochlear synaptopathy.",
+    "Because thresholds are not affected, the audiogram looks normal; so this condition is also called hidden hearing loss.",
+    "It has been proposed that it may be linked to difficulty understanding speech in noise and to tinnitus.",
+    "But there is not yet a standard clinical test that shows this condition directly in humans; the concept is still being researched.",
+    "So we explain it to the person not as a diagnosis, but as a possible mechanism under study.",
+    "The noise exposure history in our case is one of the reasons this possibility comes to mind."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Extended tests",
+   "baslik": "Speech *in noise*",
+   "maddeler": [
+    {
+     "metin": "QuickSIN: 4 dB SNR loss",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Mild SNR loss",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Fits the complaint",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Repeated at follow-up",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "golge"
+    },
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 0
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Because of difficulty in crowds, the QuickSIN test was done; the signal-to-noise ratio, or SNR, loss is four decibels.",
+    "According to the test manual, three to seven decibels is a mild SNR loss.",
+    "With a score of one hundred percent in quiet, a mild loss in noise fits the person's complaint about restaurants.",
+    "This measurement is recorded as a baseline for comparing change at follow-up.",
+    "Speech-in-noise tests are one way to put numbers on everyday complaints in people with normal audiograms."
+   ]
+  },
+  {
+   "id": "thi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Scales",
+   "baslik": "THI: *48 points*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "25 questions",
+     "metin": "Yes 4, sometimes 2, no 0",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "0 to 100",
+     "metin": "Higher score, greater handicap",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "This case: 48",
+     "metin": "Moderate",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "To measure the tinnitus's impact on the person, the Tinnitus Handicap Inventory, or THI, was used.",
+    "The THI has twenty-five questions; yes scores four, sometimes two, no zero, and the total ranges from zero to one hundred.",
+    "In the grading by McCombe and colleagues, thirty-eight to fifty-six points is a moderate handicap.",
+    "In our case the total score is forty-eight; so it is moderate.",
+    "The questions with high scores point to areas to address first in counseling, such as sleep and anxiety.",
+    "The scale does not make a diagnosis; it shows how much the tinnitus affects the person and how this changes over follow-up."
+   ]
+  },
+  {
+   "id": "hiperakuzi",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Scales",
+   "baslik": "Asking about *hyperacusis*",
+   "maddeler": [
+    {
+     "metin": "Do everyday sounds bother you?",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Plates, doors: _uncomfortable_",
+     "cumle": 1,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Discomfort levels: _confirmation_",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Constant earplug use _not advised_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Hyperacusis",
+      "metin": "Sensitivity to everyday sounds",
+      "cumle": 0
+     },
+     {
+      "ikon": "insert_kulaklik",
+      "baslik": "Caution",
+      "metin": "Unneeded earplugs",
+      "cumle": 4
+     }
+    ],
+    "ust": "QUESTIONS"
+   },
+   "cumleler": [
+    "Tinnitus often comes with oversensitivity to everyday sounds, or hyperacusis; so it is asked about separately.",
+    "The person says sounds such as clattering plates and slamming doors have become unpleasant in recent months.",
+    "This complaint can also be recorded as a number with a short hyperacusis questionnaire.",
+    "When loudness discomfort levels were measured, values were slightly below those commonly seen in people with normal hearing.",
+    "To avoid discomfort, the person has started wearing earplugs even in quiet places; we discuss this, as the habit can increase sensitivity."
+   ]
+  },
+  {
+   "id": "plan",
+   "tur": "akis",
+   "bolum_no": "PART 5",
+   "bolum": "Counseling plan",
+   "baslik": "The counseling *plan*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Inform",
+     "metin": "Mechanism, a common condition",
+     "cumle": 0
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Avoid silence",
+     "metin": "Sound enrichment",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Safe listening",
+     "metin": "Volume and duration",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Refer",
+     "metin": "ENT, therapy if needed",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Monitor",
+     "metin": "THI and tests",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Counseling starts with information: findings are explained clearly, and we explain that tinnitus is a condition many people have.",
+    "We discuss that ringing is usually not a sign of a dangerous disease, but may be a warning to protect the ears.",
+    "To avoid silence, sound enrichment such as a fan or nature sounds at night is suggested.",
+    "We explain using hearing protection at concerts, and limiting volume and duration when listening through headphones.",
+    "The person is referred for an ENT assessment.",
+    "If distress is marked, referral for cognitive behavioral therapy, or CBT, the approach with the strongest evidence, is discussed.",
+    "After a few months, the THI and measurements are repeated to track change."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "A normal audiogram does not show that tinnitus is not real. Show the findings, take the worry seriously, and refer without delay in severe distress.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: a sentence like \"your audiogram is normal, nothing is wrong\" raises the person's worry and shakes their trust.",
+    "Instead, show the extended high-frequency and OAE findings and explain that the tinnitus may have an explanation.",
+    "Take sleep problems and anxiety seriously.",
+    "With severe anxiety, signs of depression or thoughts of self-harm, refer the person to a physician and mental health support without delay.",
+    "The audiologist gives no advice on drugs or supplements suggested for tinnitus; these questions go to the physician."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "PART 5",
+   "bolum": "Counseling plan",
+   "baslik": "Follow-up with the *THI*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 7,
+     "isaretler": [
+      0,
+      3,
+      6
+     ],
+     "yazilar": {
+      "0": "Baseline",
+      "3": "Month 3",
+      "6": "Month 6"
+     },
+     "ad": "Time (months)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "THI score"
+    },
+    "seriler": [
+     {
+      "ad": "thi",
+      "noktalar": [
+       [
+        0,
+        48
+       ],
+       [
+        3,
+        28
+       ],
+       [
+        6,
+        22
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "THI",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "orta",
+      "y": [
+       38,
+       56
+      ],
+      "renk": "sari",
+      "etiket": "moderate",
+      "cumle": 0
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       48,
+       28
+      ],
+      "xk": 3.5,
+      "etiket": "20 points",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Baseline _48_, month 3 _28_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Meaningful change: _about 20 points_",
+     "cumle": 2,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "This chart shows how the THI score of the person in our case changes over time.",
+    "The score, forty-eight at baseline, falls to twenty-eight after three months of counseling and sound enrichment.",
+    "This twenty-point drop reaches the difference of about twenty points that test-retest studies consider meaningful.",
+    "The person now says they fall asleep more easily and notice the ringing less.",
+    "Extended high-frequency thresholds are also repeated at follow-up, since this region can be thought of as the cochlea's early warning zone."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PART 5",
+   "bolum": "Counseling plan",
+   "baslik": "Sample *report* wording",
+   "maddeler": [
+    {
+     "metin": "Standard audiogram normal in both ears",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Thresholds raised above 10 kHz",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "DPOAE low amplitude in the highs",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "THI 48: moderate",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Advice: ENT, counseling, follow-up",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        5,
+        5,
+        10,
+        10,
+        15,
+        15
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        5,
+        10,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Pure-tone: normal hearing thresholds in both ears from two hundred fifty to eight thousand hertz; speech scores one hundred percent.",
+    "Extended high frequencies: raised thresholds in both ears from ten thousand hertz up, no response at sixteen thousand hertz.",
+    "OAE: low DPOAE amplitudes from four to eight thousand hertz; a mild SNR loss on the QuickSIN.",
+    "Scales: THI forty-eight, moderate; hyperacusis complaint present.",
+    "Advice: ENT assessment, tinnitus counseling, safe listening and a check in three months."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "A normal audiogram may not explain tinnitus",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Above 8 kHz and OAEs add information",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "THI and hyperacusis questions guide the plan",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Information, sound, protection, follow-up",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "A normal audiogram does not mean the tinnitus is not real; it shows only two hundred fifty to eight thousand hertz.",
+    "Extended high-frequency audiometry and OAEs can show changes the standard audiogram cannot see.",
+    "The THI and hyperacusis questions put numbers on the impact of tinnitus and set the priorities for counseling.",
+    "The plan consists of information, sound enrichment, safe listening, referral if needed, and follow-up."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "A THI score of 48. What grade?",
+   "secenekler": [
+    "Mild",
+    "Moderate",
+    "Severe",
+    "Catastrophic"
+   ],
+   "dogru": 1,
+   "aciklama": "In the McCombe grading, _38 to 56_ points is moderate.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: what grade is a person who scores forty-eight points on the Tinnitus Handicap Inventory?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: moderate.",
+    "In the McCombe grading, scores from thirty-eight to fifty-six are read as a moderate handicap."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Professional *Ethics* in Audiology",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move on to the ethics and regulation section and look at the principles of professional ethics in audiology.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

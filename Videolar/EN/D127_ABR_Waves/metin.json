@@ -1,0 +1,919 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D127_ABR_Waves_EN",
+ "kapak": {
+  "ust": "LESSON 127",
+  "baslik": "*ABR* waves<br>and latencies",
+  "alt": "Waves I to V: generators and normal values",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "ABR Waves I to V: Generators and Normal Latencies | Lesson 127 | AIHEAR Audiology Academy",
+  "aciklama": "We explain where the peaks from wave I to wave V of the auditory brainstem response (ABR) come from, and the normal absolute and interpeak latencies in adults. We also cover wave marking, the V/I amplitude ratio and the factors that affect latency, with examples.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "ABR",
+   "hearing"
+  ],
+  "etiketler": [
+   "ABR",
+   "auditory brainstem response",
+   "ABR waves",
+   "wave V",
+   "interpeak latency",
+   "absolute latency",
+   "ABR generators",
+   "electrophysiology",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 127",
+   "baslik": "ABR waves I to V and *latencies*",
+   "alt": "Wave generators and normal latency values",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn the waves of the auditory brainstem response, where they come from, and their normal latency values.",
+    "In the previous lesson we placed the electrodes; now we learn to read the recording on the screen."
+   ]
+  },
+  {
+   "id": "abr_nedir",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "ABR basics",
+   "baslik": "What does the *ABR* record?",
+   "maddeler": [
+    {
+     "metin": "Electrical response _time-locked_ to sound",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "First _10 ms_ after the stimulus",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Very small: usually under _1 microvolt_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Average of hundreds, thousands of _sweeps_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "AVERAGING",
+    "metin": "The response is kept, random *noise* cancels out",
+    "cumle": 4
+   },
+   "cumleler": [
+    "The auditory brainstem response, or ABR, is a recording of the electrical activity in the auditory nerve and brainstem in response to sound.",
+    "This response appears within roughly the first ten milliseconds right after the stimulus.",
+    "Its amplitude is very small, usually below one microvolt, and it is buried in the background EEG activity.",
+    "So the same stimulus is given many times, often averaging one thousand to two thousand sweeps.",
+    "In averaging, the response locked to the stimulus is kept, while random noise gradually cancels out."
+   ]
+  },
+  {
+   "id": "adlandirma",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "ABR basics",
+   "baslik": "*Naming* the waves",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_III",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Wave I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_III",
+     "metin": "Wave III",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Wave V: the most robust",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Peaks in _Roman numerals_: I to VII",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "First described by _Jewett and Williston_",
+     "cumle": 1,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Wave IV often _merged with V_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The peaks in the recording are numbered with Roman numerals, from I to VII.",
+     "ses": "The peaks in the recording are numbered with Roman numerals, from one to seven."
+    },
+    "This naming is based on the work of Jewett and Williston, who first described the response in humans in the early nineteen seventies.",
+    {
+     "yazi": "In the clinic, waves I, III and V are used most, because they are the most consistently recorded peaks.",
+     "ses": "In the clinic, waves one, three and five are used most, because they are the most consistently recorded peaks."
+    },
+    {
+     "yazi": "Waves II and IV are more variable; wave IV in particular often merges with wave V into a single complex.",
+     "ses": "Waves two and four are more variable; wave four in particular often merges with wave five into a single complex."
+    },
+    {
+     "yazi": "Wave V is the largest and most robust; as intensity drops the others disappear, but it can be followed down to near threshold.",
+     "ses": "Wave five is the largest and most robust; as intensity drops the others disappear, but it can be followed down to near threshold."
+    }
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "ABR basics",
+   "baslik": "*Where* is the ABR used?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Threshold estimation",
+     "metin": "Infants and young children",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Newborn screening",
+     "metin": "Automated ABR",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Retrocochlear",
+     "metin": "Nerve and brainstem",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Surgical monitoring",
+     "metin": "Auditory nerve function",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Auditory neuropathy",
+     "metin": "Together with OAEs",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The ABR is used to estimate hearing thresholds in infants and young children who cannot do behavioral tests.",
+    "Automated ABR devices are widely used for hearing screening, especially in newborns with a history of intensive care.",
+    "Wave latencies help assess problems at the level of the auditory nerve and brainstem, that is, retrocochlear problems.",
+    "In some ear and brain surgeries, ABR recording is continued to monitor auditory nerve function.",
+    "Interpreted together with otoacoustic emissions, or OAEs, it also allows auditory neuropathy spectrum disorder to be recognized.",
+    "In this lesson our focus is the wave structure and latencies, the basis of all these uses."
+   ]
+  },
+  {
+   "id": "kaynaklar",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Wave generators",
+   "baslik": "*Where* do the waves come from?",
+   "cizim": "isitme_yolu",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Waves I and II: auditory nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Wave III: cochlear nucleus",
+     "cumle": 3
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Wave IV: superior olivary complex",
+     "cumle": 4
+    },
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "Wave V: lateral lemniscus",
+     "cumle": 5
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "Wave V: entering inferior colliculus",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Shown by intraoperative recordings",
+     "cumle": 6,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "The ABR waves follow, step by step, the journey of sound from the cochlea up to the brainstem.",
+    {
+     "yazi": "Wave I arises from the distal end of the auditory nerve, the part close to the cochlea.",
+     "ses": "Wave one arises from the distal end of the auditory nerve, the part close to the cochlea."
+    },
+    {
+     "yazi": "Wave II comes from the proximal part of the auditory nerve, where it enters the brainstem.",
+     "ses": "Wave two comes from the proximal part of the auditory nerve, where it enters the brainstem."
+    },
+    {
+     "yazi": "The main generator of wave III is the cochlear nucleus in the lower pons.",
+     "ses": "The main generator of wave three is the cochlear nucleus in the lower pons."
+    },
+    {
+     "yazi": "Wave IV arises largely from the superior olivary complex.",
+     "ses": "Wave four arises largely from the superior olivary complex."
+    },
+    {
+     "yazi": "Wave V arises where the lateral lemniscus reaches the inferior colliculus.",
+     "ses": "Wave five arises where the lateral lemniscus reaches the inferior colliculus."
+    },
+    "These links were shown largely by direct recordings made during neurosurgery."
+   ]
+  },
+  {
+   "id": "katki",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Wave generators",
+   "baslik": "Not single sources, but *contributions*",
+   "maddeler": [
+    {
+     "metin": "Waves I and II: _same-side_ nerve",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Later waves: _bilateral_ contributions",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Each peak: sum of _several_ structures",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Wave I periphery, V _brainstem_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Waves I and II come from the auditory nerve on the side of the stimulated ear, so they are specific to that ear.",
+     "ses": "Waves one and two come from the auditory nerve on the side of the stimulated ear, so they are specific to that ear."
+    },
+    "Higher in the brainstem, the pathways cross, and the later waves receive contributions from both sides.",
+    {
+     "yazi": "Also, each peak after wave I arises not from a single nucleus but from the combined activity of several structures.",
+     "ses": "Also, each peak after wave one arises not from a single nucleus but from the combined activity of several structures."
+    },
+    "So the list of generators should be seen as a useful simplification for clinical interpretation.",
+    {
+     "yazi": "What matters most clinically is that wave I represents the periphery, and wave V the upper brainstem.",
+     "ses": "What matters most clinically is that wave one represents the periphery, and wave five the upper brainstem."
+    },
+    "So the time between these two waves shows how fast the signal travels through the brainstem.",
+    "This time is also called the brainstem conduction time, and we will see its normal values shortly."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 0
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 4
+     },
+     {
+      "parca": "latans_I_V",
+      "cumle": 5
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "latans_I_V",
+      "metin": "brainstem conduction time",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "ecoli",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Wave generators",
+   "baslik": "A memory aid: *E COLI*",
+   "adimlar": [
+    {
+     "ikon": "noron",
+     "baslik": "E: eighth nerve",
+     "metin": "Auditory nerve",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "C: cochlear nucleus",
+     "metin": "Lower pons",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "O: olivary complex",
+     "metin": "Superior olivary complex",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "L: lateral lemniscus",
+     "metin": "Ascending pathway",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "I: inferior colliculus",
+     "metin": "Midbrain",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "To remember the order of the generators, you can use the mnemonic E COLI."
+    },
+    "The letter E stands for the eighth cranial nerve, the auditory nerve.",
+    {
+     "yazi": "C stands for the cochlear nucleus, and O for the superior olivary complex."
+    },
+    {
+     "yazi": "L stands for the lateral lemniscus and wave V, and the last letter, I, for the inferior colliculus, classically waves VI and VII."
+    },
+    "This order also summarizes the path the signal follows up through the brainstem, from bottom to top."
+   ]
+  },
+  {
+   "id": "mutlak",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Normal latencies",
+   "baslik": "Absolute *latency*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Wave I: about 1.6 ms",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_III",
+     "metin": "Wave III: about 3.7 ms",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Wave V: about 5.6 ms",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Adult, high-intensity click",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Approximate values, vary by clinic",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Absolute latency is the time from the moment the stimulus is given to the peak of a wave.",
+    {
+     "yazi": "In adults, with a high-intensity click, wave I is usually seen at about 1.5 to 1.7 milliseconds.",
+     "ses": "In adults, with a high-intensity click, wave one is usually seen at about one point five to one point seven milliseconds."
+    },
+    {
+     "yazi": "Wave III is at about 3.7 milliseconds.",
+     "ses": "Wave three is at about three point seven milliseconds."
+    },
+    {
+     "yazi": "Wave V lies between about 5.5 and 6 milliseconds.",
+     "ses": "Wave five lies between about five point five and six milliseconds."
+    },
+    "These values are examples; each clinic should use norms obtained with its own equipment and protocol.",
+    {
+     "yazi": "High intensity usually means a click at about 70 to 80 dB nHL.",
+     "ses": "High intensity usually means a click at about seventy to eighty decibels N.H.L."
+    }
+   ]
+  },
+  {
+   "id": "ipl",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Normal latencies",
+   "baslik": "Interpeak *latency*",
+   "sutunlar": [
+    "Interval",
+    "Approximate value",
+    "Region reflected"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "I-III",
+      "about 2 ms",
+      "Nerve and lower pons"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "III-V",
+      "about 2 ms",
+      "Upper brainstem"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "I-V",
+      "about 4 ms",
+      "Whole brainstem conduction"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Interpeak latency, or IPL, is the time between two wave peaks.",
+    {
+     "yazi": "The I-III interval is about 2 milliseconds and reflects conduction from the auditory nerve to the lower pons.",
+     "ses": "The one to three interval is about two milliseconds and reflects conduction from the auditory nerve to the lower pons."
+    },
+    {
+     "yazi": "The III-V interval is also about 2 milliseconds and reflects conduction in the upper brainstem.",
+     "ses": "The three to five interval is also about two milliseconds and reflects conduction in the upper brainstem."
+    },
+    {
+     "yazi": "The I-V interval is about 4 milliseconds and is the most widely used measure of brainstem conduction time.",
+     "ses": "The one to five interval is about four milliseconds and is the most widely used measure of brainstem conduction time."
+    },
+    {
+     "yazi": "In adults, the upper limit of the I-V interval is usually taken to be around 4.4 to 4.5 milliseconds.",
+     "ses": "In adults, the upper limit of the one to five interval is usually taken to be around four point four to four point five milliseconds."
+    },
+    "The strength of interpeak latencies is that they are largely unaffected by problems in the outer and middle ear.",
+    "This is because a conductive loss delays all the waves together, so the time between them hardly changes."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Normal latencies",
+   "baslik": "Factors that *affect* latency",
+   "maddeler": [
+    {
+     "metin": "_Intensity_: lower level, longer latency",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Age_: longer latencies in infants",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Sex_: slightly shorter in women",
+     "cumle": 4,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Body temperature_: hypothermia prolongs latency",
+     "cumle": 5,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "_Stimulus rate_: faster rate, longer latency",
+     "cumle": 6,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Latencies are not fixed; as intensity decreases, the latency of all the waves increases.",
+    {
+     "yazi": "For example, near threshold, wave V can be delayed to about 7 to 8 milliseconds.",
+     "ses": "For example, near threshold, wave five can be delayed to about seven to eight milliseconds."
+    },
+    "In newborns, latencies, and especially interpeak intervals, are longer than in adults.",
+    "As the brainstem pathways mature, these values shorten and usually approach adult values by around two years of age.",
+    "Latencies are usually somewhat shorter in women than in men.",
+    "A drop in body temperature, or hypothermia, prolongs latencies; this matters for recordings in intensive care and the operating room.",
+    {
+     "yazi": "As stimulus rate increases, wave V latency in particular increases, and the amplitude of the early waves decreases.",
+     "ses": "As stimulus rate increases, wave five latency in particular increases, and the amplitude of the early waves decreases."
+    },
+    "Sleep and sedation do not significantly affect the ABR; this is the main reason the method can be used in infants."
+   ]
+  },
+  {
+   "id": "bebek_yetiskin",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Normal latencies",
+   "baslik": "Newborn and *adult* ABR",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Term newborn",
+     "metin": "Longer latencies, I-V about 5 ms",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Adult",
+     "metin": "Shorter latencies, I-V about 4 ms",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "There are clear differences between newborn and adult recordings.",
+    {
+     "yazi": "In a term newborn, the I-V interval is about 5 milliseconds; in adults it is about 4 milliseconds.",
+     "ses": "In a term newborn, the one to five interval is about five milliseconds; in adults it is about four milliseconds."
+    },
+    {
+     "yazi": "In newborns wave I can be relatively prominent and wave V smaller, so the V/I ratio is not judged by adult criteria.",
+     "ses": "In newborns wave one can be relatively prominent and wave five smaller, so the five to one ratio is not judged by adult criteria."
+    },
+    "In premature infants, latencies are even longer, and norms for corrected age are used.",
+    "So infant recordings must always be compared with age-appropriate norms."
+   ]
+  },
+  {
+   "id": "isaretleme",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Reading the recording",
+   "baslik": "How is wave V *marked?*",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Peak before the negative slope",
+     "cumle": 4
+    },
+    {
+     "parca": "dalga_I",
+     "metin": "First clear positive peak",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "At least two replicated recordings",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "When marking waves, we first check whether the recording is repeatable.",
+    "For this, at least two separate recordings are made under the same conditions and overlaid.",
+    "Only a peak seen in the same place in both recordings is accepted as a true response.",
+    {
+     "yazi": "Waves IV and V often form a combined complex.",
+     "ses": "Waves four and five often form a combined complex."
+    },
+    {
+     "yazi": "Wave V is marked as the peak just before the clear negative slope that follows this complex.",
+     "ses": "Wave five is marked as the peak just before the clear negative slope that follows this complex."
+    },
+    {
+     "yazi": "Wave I is the first clear positive peak; it may shrink or disappear with conductive or high-frequency loss.",
+     "ses": "Wave one is the first clear positive peak; it may shrink or disappear with conductive or high-frequency loss."
+    }
+   ]
+  },
+  {
+   "id": "ayarlar",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Reading the recording",
+   "baslik": "Recording *settings*",
+   "maddeler": [
+    {
+     "metin": "Analysis window: _10 to 15 ms_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Filter, for example: _100 to 3000 Hz_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "_1000 to 2000_ sweeps, at least two runs",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Non-integer stimulus rate, e.g. _21.1/s_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "For neurological click recordings, the analysis window is usually ten to fifteen milliseconds.",
+    "In infants and at low intensities, latencies are longer, so this window is widened.",
+    "The recording uses a filter passing roughly one hundred to three thousand hertz; in infants the lower limit can be set lower.",
+    "Each recording usually averages one thousand to two thousand sweeps, and the recording is repeated at least once.",
+    {
+     "yazi": "The stimulus rate is set to a non-integer value such as 21.1 per second, so it does not coincide with the mains frequency.",
+     "ses": "The stimulus rate is set to a non-integer value such as twenty one point one per second, so it does not lock to the mains frequency."
+    },
+    "Details such as stimulus type and polarity will be covered in our next lesson."
+   ]
+  },
+  {
+   "id": "genlik",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Reading the recording",
+   "baslik": "Amplitude and the *V/I ratio*",
+   "maddeler": [
+    {
+     "metin": "Amplitude: peak to following _trough_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Amplitude is _more variable_ than latency",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "In adults wave V is usually _larger_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Clearly low V/I: a _warning_ sign",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Amplitude is the voltage difference between the peak of a wave and the trough that follows it, measured in microvolts.",
+    "Because amplitude varies so much between people, it carries less weight than latency in interpretation.",
+    {
+     "yazi": "Still, the ratio is useful: in adults, the amplitude of wave V is usually larger than that of wave I.",
+     "ses": "Still, the ratio is useful: in adults, the amplitude of wave five is usually larger than that of wave one."
+    },
+    {
+     "yazi": "A clearly low V/I amplitude ratio may point to a problem at the brainstem level.",
+     "ses": "A clearly low five to one amplitude ratio may point to a problem at the brainstem level."
+    },
+    "This ratio alone does not lead to a conclusion; it is assessed together with latency findings and other tests."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "wave I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "metin": "wave V",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "If wave I is weak, try an ear canal electrode (tiptrode); wave I becomes clearer and the I-V interval can be measured.",
+   "cumleler": [
+    {
+     "yazi": "A clinical tip: in people with high-frequency hearing loss, wave I is often small and unclear.",
+     "ses": "A clinical tip: in people with high-frequency hearing loss, wave one is often small and unclear."
+    },
+    {
+     "yazi": "In such cases, instead of an earlobe electrode, a gold-foil-covered foam ear canal electrode, a tiptrode, can be used."
+    },
+    {
+     "yazi": "Because the electrode is closer to the cochlea, the amplitude of wave I increases.",
+     "ses": "Because the electrode is closer to the cochlea, the amplitude of wave one increases."
+    },
+    {
+     "yazi": "The I-V interval then becomes measurable, and the interpretation is stronger.",
+     "ses": "The one to five interval then becomes measurable, and the interpretation is stronger."
+    }
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Reading the recording",
+   "baslik": "What do the findings *tell us?*",
+   "maddeler": [
+    {
+     "metin": "All late, normal intervals: _peripheral_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Long I-V: _brainstem_ conduction",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Wave I present, V absent: _further assessment_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Interaural wave V difference: _asymmetry_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "If all the waves are delayed but the interpeak intervals are normal, the delay usually has a peripheral source.",
+    "This picture is seen especially in conductive hearing loss.",
+    {
+     "yazi": "A prolonged I-V interval suggests that the signal is travelling slowly through the brainstem and calls for retrocochlear attention.",
+     "ses": "A prolonged one to five interval suggests that the signal is travelling slowly through the brainstem and calls for retrocochlear attention."
+    },
+    {
+     "yazi": "Wave I being present while wave V is not recorded at all is also a finding that needs further assessment.",
+     "ses": "Wave one being present while wave five is not recorded at all is also a finding that needs further assessment."
+    },
+    {
+     "yazi": "A clear difference in wave V latency between the two ears is also important; we will cover it in the neurodiagnostic ABR lesson.",
+     "ses": "A clear difference in wave five latency between the two ears is also important; we will cover it in the neurodiagnostic ABR lesson."
+    },
+    "The interpretations here are examples; diagnosis is always made by a physician's assessment and a test battery."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Waves I and II: _auditory nerve_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Wave III cochlear nucleus, V _lateral lemniscus_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Wave V at about _5.5 to 6 ms_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "I-V interval about _4 ms_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Waves I and II arise from the auditory nerve.",
+     "ses": "Waves one and two arise from the auditory nerve."
+    },
+    {
+     "yazi": "Wave III reflects the cochlear nucleus, and wave V the region of the lateral lemniscus and inferior colliculus.",
+     "ses": "Wave three reflects the cochlear nucleus, and wave five the region of the lateral lemniscus and inferior colliculus."
+    },
+    {
+     "yazi": "In adults, at high intensity, wave V is seen at about 5.5 to 6 milliseconds.",
+     "ses": "In adults, at high intensity, wave five is seen at about five point five to six milliseconds."
+    },
+    {
+     "yazi": "The I-V interval is about 4 milliseconds and shows brainstem conduction.",
+     "ses": "The one to five interval is about four milliseconds and shows brainstem conduction."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "In adults, the normal I-V interpeak latency is about how many ms?",
+   "secenekler": [
+    "About 1 ms",
+    "About 2 ms",
+    "About 4 ms",
+    "About 8 ms"
+   ],
+   "dogru": 2,
+   "aciklama": "The I-V interval is about _4 ms_; the I-III and III-V intervals are each about 2 ms.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in adults, the normal I-V interpeak latency is about how many milliseconds?",
+     "ses": "Test yourself: in adults, the normal one to five interpeak latency is about how many milliseconds?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is C: about four milliseconds.",
+    {
+     "yazi": "Two milliseconds corresponds to each of the I-III and III-V intervals.",
+     "ses": "Two milliseconds corresponds to each of the one to three and three to five intervals."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "ABR Stimuli: *Clicks*, Tone Bursts and Chirps",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will compare the click, tone burst and chirp stimuli used in ABR.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

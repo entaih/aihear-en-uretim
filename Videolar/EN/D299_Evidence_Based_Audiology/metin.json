@@ -1,0 +1,950 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D299_Evidence_Based_Audiology_EN",
+ "kapak": {
+  "ust": "LESSON 299",
+  "baslik": "Reading<br>*systematic* reviews",
+  "alt": "PICO, meta-analysis, forest plot",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 14,
+    "adim": 2,
+    "ad": "Mean difference (points); right favors device"
+   },
+   "y": {
+    "min": 0,
+    "max": 7,
+    "adim": 1,
+    "ters": true,
+    "yazilar": {
+     "1": "Study A",
+     "2": "Study B",
+     "3": "Study C",
+     "4": "Study D",
+     "5": "Study E",
+     "6": "Overall"
+    }
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "noktalar": [
+      [
+       1,
+       1
+      ],
+      [
+       7,
+       1
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "b",
+     "noktalar": [
+      [
+       2.5,
+       2
+      ],
+      [
+       9.5,
+       2
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "c",
+     "noktalar": [
+      [
+       -2,
+       3
+      ],
+      [
+       6,
+       3
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 3
+    },
+    {
+     "ad": "d",
+     "noktalar": [
+      [
+       3,
+       4
+      ],
+      [
+       7,
+       4
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "e",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       13,
+       5
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "tahminler",
+     "tur": "nokta",
+     "noktalar": [
+      [
+       4,
+       1
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       2,
+       3
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       7,
+       5
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 1
+    },
+    {
+     "ad": "elmas",
+     "noktalar": [
+      [
+       3.4,
+       6
+      ],
+      [
+       4.8,
+       5.7
+      ],
+      [
+       6.2,
+       6
+      ],
+      [
+       4.8,
+       6.3
+      ],
+      [
+       3.4,
+       6
+      ]
+     ],
+     "renk": "sari",
+     "dolgu": true,
+     "cumle": 5
+    }
+   ],
+   "bolgeler": [],
+   "isaretler": [
+    {
+     "ad": "sifir",
+     "x": 0,
+     "cizgi": "dikey",
+     "etiket": "no effect",
+     "cumle": 2
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Evidence-Based Audiology: Reading Systematic Reviews | Lesson 299 | AIHEAR Audiology Academy",
+  "aciklama": "How do you read a systematic review and meta-analysis? In this lesson we learn how to build a clinical question with PICO, levels of evidence, the steps of a systematic review and the PRISMA flow diagram, risk of bias, meta-analysis, the forest plot, heterogeneity, certainty of evidence with GRADE, and how to use clinical guidelines.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Higgins JPT et al. (eds.) Cochrane Handbook for Systematic Reviews of Interventions; Page MJ et al. The PRISMA 2020 statement. BMJ (2021); Guyatt GH et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ (2008); OCEBM Levels of Evidence Working Group, The Oxford 2011 Levels of Evidence; NICE, Hearing loss in adults: assessment and management (NG98, 2018); Joint Committee on Infant Hearing, Year 2019 Position Statement.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "evidencebasedpractice",
+   "metaanalysis"
+  ],
+  "etiketler": [
+   "evidence-based audiology",
+   "evidence-based practice",
+   "systematic review",
+   "meta-analysis",
+   "forest plot",
+   "PICO",
+   "GRADE",
+   "PRISMA",
+   "risk of bias",
+   "heterogeneity",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 299",
+   "baslik": "Evidence-based audiology: *systematic reviews*",
+   "alt": "PICO, levels of evidence, forest plot, guidelines",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will recall how to build a clinical question with PICO and learn how a systematic review is done.",
+    "Step by step, we will read meta-analyses, forest plots, the certainty of evidence and clinical guidelines."
+   ]
+  },
+  {
+   "id": "pico",
+   "tur": "akis",
+   "bolum_no": "PART 1",
+   "bolum": "Question",
+   "baslik": "The *question* with PICO",
+   "adimlar": [
+    {
+     "ikon": "yasli",
+     "baslik": "P: Patient",
+     "metin": "Mild to moderate loss",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "I: Intervention",
+     "metin": "Hearing aid",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "C: Comparison",
+     "metin": "No hearing aid",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "O: Outcome",
+     "metin": "Quality of life",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the lesson on reading scientific articles, we saw the PICO format for structuring a clinical question.",
+    "In this lesson, let the patients in our example question be adults with mild to moderate hearing loss.",
+    "The intervention is hearing aid use.",
+    "The comparison is no hearing aid, or being on a waiting list.",
+    "The outcome is the change in score on a hearing-related quality of life scale.",
+    "Besides treatment, questions can concern diagnosis, screening and prognosis; each type of question has a different best study design."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Question",
+   "baslik": "Levels of *evidence*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Systematic review",
+     "metin": "Of randomized trials",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "RCT",
+     "metin": "Groups by chance",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Cohort",
+     "metin": "Follow-up study",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Case series",
+     "metin": "Uncontrolled observation",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Mechanism",
+     "metin": "Reasoning from physiology",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In the Oxford levels, the top level for treatment questions is a systematic review of randomized trials.",
+    {
+     "yazi": "It is followed by a single randomized controlled trial, or RCT.",
+     "ses": "It is followed by a single randomized controlled trial, or R C T."
+    },
+    "Next come cohort or follow-up studies without random allocation.",
+    "Case series and case-control studies are at lower levels.",
+    "At the bottom is reasoning from physiology.",
+    "But the level is only a starting point: a poorly done review also misleads, so we will learn to read how it was done."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Systematic review",
+   "baslik": "Review or *systematic review?*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Narrative review",
+     "metin": "Sources chosen by the author",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Protocol",
+     "metin": "Written and registered first",
+     "cumle": 1
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Comprehensive search",
+     "metin": "Several databases",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Explicit criteria",
+     "metin": "Inclusion, exclusion",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Quality",
+     "metin": "Risk of bias assessment",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In a traditional narrative review, the author summarizes studies they know or select; the selection is often not transparent.",
+    "A systematic review, by contrast, starts with a protocol written in advance and often entered in a registry.",
+    "A comprehensive search is run in several databases with keywords set in advance.",
+    "Which studies will be included or excluded is defined in advance with explicit criteria.",
+    "The quality of each included study, or its risk of bias, is assessed with standard tools.",
+    "These steps let another researcher repeat the same review; transparency is the essence of a systematic review."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PART 2",
+   "bolum": "Systematic review",
+   "baslik": "The *steps* of a systematic review",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Question and protocol",
+     "metin": "PICO, criteria",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Search",
+     "metin": "Databases, registries",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Screening",
+     "metin": "Two independent reviewers",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Data extraction",
+     "metin": "Standard form",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Synthesis",
+     "metin": "Narrative or meta-analysis",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The process starts with a protocol that contains the PICO question and the inclusion criteria.",
+    "The search is not limited to PubMed; other databases, clinical trial registries and unpublished studies are also searched.",
+    "Titles, abstracts and full texts are screened independently by two reviewers; disagreements are resolved by discussion.",
+    "Participant numbers, intervention and outcome data are extracted from each study with a standard form.",
+    "The last step is synthesis: if studies are similar enough they are combined numerically; if not, results are summarized in narrative form.",
+    {
+     "yazi": "A checklist called PRISMA is used to report these steps; it was updated in 2020.",
+     "ses": "A checklist called PRISMA is used to report these steps; it was updated in twenty twenty."
+    }
+   ]
+  },
+  {
+   "id": "prisma",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Systematic review",
+   "baslik": "The PRISMA *flow diagram*",
+   "cumleler": [
+    "Every systematic review has a flow diagram showing how studies were filtered out; the numbers here are only examples.",
+    "First, records found in all databases are pooled, and duplicates that appear in more than one place are removed.",
+    "In title and abstract screening, studies unrelated to the question are excluded.",
+    "The full texts of the remaining studies are read, and each exclusion is recorded with its reason.",
+    "Finally, the number of studies included in the review, and in any meta-analysis, is stated.",
+    "As a reader, this diagram lets you see how thorough the search was and what was excluded and why."
+   ],
+   "cizim": "prisma_akisi",
+   "ayar": {
+    "cumleler": {
+     "tanimlama": 1,
+     "tarama": 2,
+     "tam_metin": 3,
+     "dahil": 4
+    },
+    "ornek": true
+   }
+  },
+  {
+   "id": "yanlilik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Systematic review",
+   "baslik": "Risk of *bias*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Selection",
+     "metin": "Was allocation random?",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Blinding",
+     "metin": "Who knew?",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Missing data",
+     "metin": "Who dropped out?",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Selective reporting",
+     "metin": "Which outcome was reported?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Publication bias",
+     "metin": "Were negatives left unpublished?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "In selection bias, how groups are formed affects the result; we ask whether random allocation was done correctly and concealed.",
+    "If participants or assessors know the group, subjective outcomes such as questionnaires may be affected; this is a blinding problem.",
+    "If more participants drop out of one group, the result can be misleading.",
+    "Reporting only significant outcomes instead of those promised in the protocol is selective reporting.",
+    "Studies with negative results being published less often is called publication bias; it can shift the whole result of a review.",
+    "Standard tools such as the Cochrane risk of bias tool rate these domains as low, unclear or high risk for each study."
+   ]
+  },
+  {
+   "id": "meta",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Meta-analysis",
+   "baslik": "What is *meta-analysis?*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Pooling",
+     "metin": "Statistical summary of results",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Effect measure",
+     "metin": "Mean difference, risk ratio",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Weight",
+     "metin": "Precise studies weigh more",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Model",
+     "metin": "Fixed or random",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Meta-analysis statistically combines the results of several studies to get a single pooled estimate.",
+    "Results are expressed with a common effect measure: for example, mean difference for continuous outcomes and risk ratio for binary ones.",
+    "Each study gets a weight; large studies with precise estimates contribute more to the result.",
+    "A fixed effect model assumes one true effect, while a random effects model allows for real differences between studies.",
+    "A meta-analysis is only as good as the studies it combines; pooling weak studies can produce a precise but wrong result.",
+    "So the result of a meta-analysis must be read together with the risk of bias and the consistency between studies."
+   ]
+  },
+  {
+   "id": "orman",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Meta-analysis",
+   "baslik": "The forest *plot*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -4,
+     "max": 14,
+     "adim": 2,
+     "ad": "Mean difference (points); right favors device"
+    },
+    "y": {
+     "min": 0,
+     "max": 7,
+     "adim": 1,
+     "ters": true,
+     "yazilar": {
+      "1": "Study A",
+      "2": "Study B",
+      "3": "Study C",
+      "4": "Study D",
+      "5": "Study E",
+      "6": "Overall"
+     }
+    },
+    "seriler": [
+     {
+      "ad": "a",
+      "noktalar": [
+       [
+        1,
+        1
+       ],
+       [
+        7,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "b",
+      "noktalar": [
+       [
+        2.5,
+        2
+       ],
+       [
+        9.5,
+        2
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "c",
+      "noktalar": [
+       [
+        -2,
+        3
+       ],
+       [
+        6,
+        3
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 3
+     },
+     {
+      "ad": "d",
+      "noktalar": [
+       [
+        3,
+        4
+       ],
+       [
+        7,
+        4
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "e",
+      "noktalar": [
+       [
+        1,
+        5
+       ],
+       [
+        13,
+        5
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "tahminler",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        4,
+        1
+       ],
+       [
+        6,
+        2
+       ],
+       [
+        2,
+        3
+       ],
+       [
+        5,
+        4
+       ],
+       [
+        7,
+        5
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 1
+     },
+     {
+      "ad": "elmas",
+      "noktalar": [
+       [
+        3.4,
+        6
+       ],
+       [
+        4.8,
+        5.7
+       ],
+       [
+        6.2,
+        6
+       ],
+       [
+        4.8,
+        6.3
+       ],
+       [
+        3.4,
+        6
+       ]
+      ],
+      "renk": "sari",
+      "dolgu": true,
+      "cumle": 5
+     }
+    ],
+    "bolgeler": [],
+    "isaretler": [
+     {
+      "ad": "sifir",
+      "x": 0,
+      "cizgi": "dikey",
+      "etiket": "no effect",
+      "cumle": 2
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "elmas",
+     "metin": "pooled estimate",
+     "cumle": 5
+    },
+    {
+     "parca": "c",
+     "metin": "interval crossing zero",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "c",
+     "cumle": 3
+    },
+    {
+     "parca": "elmas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The result of a meta-analysis is shown with a forest plot; the plot on screen is a teaching example.",
+    "Each row is a study: the dot shows that study's estimate, and the horizontal line its ninety five percent confidence interval.",
+    "The vertical line in the middle is the line of no effect; for a mean difference, this value is zero.",
+    "Study C's confidence interval crosses the zero line, so this study alone showed no significant difference.",
+    "Studies with narrow intervals are more precise and get more weight in the meta-analysis; most plots show this with a larger square.",
+    "The diamond at the bottom is the pooled estimate: its center shows the overall effect, and its two ends the confidence interval.",
+    "In this example the diamond does not cross zero and lies fully in favor of the device, so the pooled evidence suggests a benefit.",
+    "Finally, whether this difference is clinically meaningful is judged against the minimal important difference from the statistics lesson."
+   ]
+  },
+  {
+   "id": "heterojenlik",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Meta-analysis",
+   "baslik": "*Heterogeneity*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Visual check",
+     "metin": "Do intervals overlap?",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "I² statistic",
+     "metin": "Percent of variation",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "High I²",
+     "metin": "Interpret with care",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Causes",
+     "metin": "Patients, devices, measures",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Heterogeneity means results differ more than chance can explain; first, check on the plot whether the intervals overlap.",
+    {
+     "yazi": "As a numerical measure, the I² statistic is given; it shows, as a percentage, how much of the variation comes from real differences.",
+     "ses": "As a numerical measure, the I squared statistic is given; it shows, as a percentage, how much of the variation comes from real differences."
+    },
+    {
+     "yazi": "According to the Cochrane Handbook, an I² below forty percent may often be unimportant; these limits are a rough guide.",
+     "ses": "According to the Cochrane Handbook, an I squared below forty percent may often be unimportant; these limits are a rough guide."
+    },
+    {
+     "yazi": "An I² above seventy five percent is read as very high heterogeneity and calls a single pooled result into question.",
+     "ses": "An I squared above seventy five percent is read as very high heterogeneity and calls a single pooled result into question."
+    },
+    "In audiology, different degrees of loss, different device technologies and different scales are common causes of heterogeneity.",
+    "A good review explores the cause of heterogeneity with subgroup analyses, and the reader looks for this in the discussion."
+   ]
+  },
+  {
+   "id": "grade",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Meta-analysis",
+   "baslik": "*Certainty* of evidence: GRADE",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "High",
+     "metin": "New studies will not change it",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Moderate",
+     "metin": "May change",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Low",
+     "metin": "Likely to change",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Very low",
+     "metin": "Very uncertain",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Downgrading factors",
+     "metin": "Bias, inconsistency, imprecision",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The GRADE approach is widely used to rate how trustworthy the evidence is.",
+    "GRADE gives the certainty of evidence at four levels: high, moderate, low and very low.",
+    "Evidence from randomized trials starts high and is downgraded for bias, inconsistency, indirectness, imprecision and publication bias.",
+    "Indirectness means the patients or outcomes in the studies differ from your question; for example, studies only of people with severe loss.",
+    "Imprecision means a very wide confidence interval, so the true effect could be either important or trivial.",
+    "Checking this certainty level for each outcome in a review's summary table is one of the fastest and most valuable reading steps."
+   ]
+  },
+  {
+   "id": "kilavuz",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Meta-analysis",
+   "baslik": "Clinical *guidelines*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Evidence",
+     "metin": "Systematic reviews",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Panel",
+     "metin": "Experts and patients",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Recommendation",
+     "metin": "Strong or conditional",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Appraise",
+     "metin": "Methods, currency, interests",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Adapt",
+     "metin": "Local conditions",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A clinical guideline is a document that offers practice recommendations based on systematic reviews.",
+    "A good guideline is prepared by a panel of different specialists and patient representatives.",
+    "Each recommendation is graded as strong or conditional, based on the certainty of evidence and the balance of benefit and harm.",
+    "The reader checks the guideline's methods, currency and the authors' conflict of interest statements; standard tools exist for this.",
+    {
+     "yazi": "The UK adult hearing loss guideline and the 2019 position statement of the Joint Committee on Infant Hearing are often cited examples.",
+     "ses": "The U K adult hearing loss guideline and the twenty nineteen position statement of the Joint Committee on Infant Hearing are often cited examples."
+    },
+    "A guideline prepared abroad is used after adapting it to the health system, regulations and patient needs in Türkiye."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical alert",
+   "metin": "In a systematic review, look first at the summary of findings table: effect size, confidence interval and certainty of evidence are given together for each outcome.",
+   "cumle": 0,
+   "cumleler": [
+    "A clinical tip: if you are short on time, go straight to the summary of findings table of the systematic review.",
+    "This table gives, for each outcome, the effect size, the confidence interval, the number of participants and the certainty of evidence.",
+    "Then check whether the included patients resemble your own patient.",
+    "These three pieces of information usually show how much the review should influence your clinical decision."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "PICO: guide for question, search, reading",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Systematic review: protocol, search, transparency",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Forest plot: dot, interval, diamond",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Certainty with GRADE, recommendations in guidelines",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "A question built with PICO determines the search strategy and which evidence is suitable.",
+    "A systematic review differs from a narrative one by its protocol, thorough search, explicit criteria and risk of bias assessment.",
+    {
+     "yazi": "In a forest plot, each study appears as a dot with an interval and the pooled result as a diamond; heterogeneity is tracked with I².",
+     "ses": "In a forest plot, each study appears as a dot with an interval and the pooled result as a diamond; heterogeneity is tracked with I squared."
+    },
+    "GRADE rates the certainty of evidence at four levels; guidelines turn this evidence into recommendations adapted to local conditions."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "The diamond crosses zero?",
+   "secenekler": [
+    "A definite benefit",
+    "No significant difference shown",
+    "The studies are flawed",
+    "No heterogeneity"
+   ],
+   "dogru": 1,
+   "aciklama": "If the pooled confidence interval includes the _no effect_ value, no significant difference has been shown.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in a forest plot, the diamond showing the pooled estimate crosses the line of no effect. What does this mean?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: no statistically significant difference was shown in the pooled result.",
+    "This does not mean the effect is definitely absent either; the evidence may be insufficient, so look at how wide the interval is."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Career Paths* and Entrepreneurship for Audiologists",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, the last in our lesson plan, we will look at career paths and entrepreneurship for audiologists.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

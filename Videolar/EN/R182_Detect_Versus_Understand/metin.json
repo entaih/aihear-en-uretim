@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R182_Detect_Versus_Understand_EN",
+ "kapak": {
+  "ust": "QUICK FACT #182",
+  "baslik": "Detecting vs. *understanding*",
+  "alt": "The gap between SDT and SRT",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "How many decibels separate detecting speech from understanding it? #shorts",
+  "aciklama": "The speech detection threshold, SDT, is the lowest level at which speech is noticed; the speech recognition threshold, SRT, is the lowest level at which half the words are repeated correctly. Because understanding takes more sound energy, the SDT is usually about 8 to 10 dB better.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "speech",
+   "audiometry"
+  ],
+  "etiketler": [
+   "speech audiometry",
+   "SDT",
+   "SRT",
+   "speech detection threshold",
+   "speech recognition threshold",
+   "audiometry",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "How many decibels separate detecting speech from understanding it?",
+  "bilgiler": [
+   "The SDT is the lowest level at which speech is noticed.",
+   "The SRT is the lowest level at which half the words are correct.",
+   "The SDT is usually about 8 to 10 dB better than the SRT."
+  ],
+  "hashtag": [
+   "audiology",
+   "speech",
+   "audiometry"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #182",
+   "metin": "Hearing vs. understanding: *how many decibels?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "How many decibels separate detecting speech from understanding it?"
+   ]
+  },
+  {
+   "id": "sdt",
+   "tur": "zincir",
+   "baslik": "Detecting is not *understanding*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "SDT",
+     "tr": "detection",
+     "cumle": 0
+    },
+    {
+     "ad": "SRT",
+     "tr": "50% correct",
+     "cumle": 1
+    },
+    {
+     "ad": "Gap",
+     "tr": "8 to 10 dB",
+     "cumle": 3
+    }
+   ],
+   "alt": "Understanding _needs more energy_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "The speech detection threshold, SDT, is where speech is first noticed.",
+    "The speech recognition threshold, SRT, needs half the words correct.",
+    "Understanding takes more sound energy than just detecting.",
+    "So the SDT is usually about eight to ten decibels better.",
+    "The SDT helps young children who cannot do an SRT."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D094",
+ "kaynak_baslik": "Why Speech Audiometry? Goals and Test Types"
+}

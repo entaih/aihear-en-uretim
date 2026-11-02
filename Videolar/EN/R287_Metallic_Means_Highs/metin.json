@@ -1,0 +1,104 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R287_Metallic_Means_Highs_EN",
+ "kapak": {
+  "ust": "QUICK FACT #287",
+  "baslik": "Metallic means *highs*",
+  "alt": "Fine-tuning by complaint",
+  "cizim": "rem_duzenegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "If a user says sound is metallic, where do you look? #shorts",
+  "aciklama": "User complaints can be roughly mapped to frequency regions: muffled, echoey and own-voice complaints usually involve the lows, while metallic and sharp sounds usually point above 2000 Hz. But the same word can mean different things to different people; the map is a starting point, and decisions are made with measurement and the person.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "finetuning"
+  ],
+  "etiketler": [
+   "fine-tuning",
+   "troubleshooting",
+   "patient complaints",
+   "high-frequency gain",
+   "occlusion",
+   "real-ear measurement",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "If a user says sound is metallic, where do you look?",
+  "bilgiler": [
+   "Muffled and echoey complaints usually involve the lows.",
+   "Metallic and sharp sounds usually point above 2000 Hz.",
+   "The map is a starting point; measurement decides."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "finetuning"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #287",
+   "metin": "It sounds *metallic*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "If a user says sound is metallic, where do you look?"
+   ]
+  },
+  {
+   "id": "sikayet",
+   "tur": "zincir",
+   "baslik": "From complaint to *frequency*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Muffled, echoey",
+     "tr": "low region",
+     "cumle": 0
+    },
+    {
+     "ad": "Nasal",
+     "tr": "mid region",
+     "cumle": 1
+    },
+    {
+     "ad": "Metallic, sharp",
+     "tr": "high region",
+     "cumle": 2
+    }
+   ],
+   "alt": "The map is _a starting point_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Muffled, echoey and own-voice complaints usually point to the lows.",
+    "Nasal-sounding complaints are often linked to the mid frequencies.",
+    "Metallic, sharp or harsh sounds usually point above 2000 hertz.",
+    "But muffled sound can also come from too little high gain.",
+    "This map is a starting point; decide with measurement and the person."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D193",
+ "kaynak_baslik": "First Fit and Fine-Tuning by Patient Complaint"
+}

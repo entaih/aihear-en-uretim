@@ -1,0 +1,107 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R487_The_Forgotten_Response_Button_EN",
+ "kapak": {
+  "ust": "QUICK FACT #487",
+  "baslik": "The forgotten *surface*",
+  "alt": "What to wipe after every patient",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "insert": true
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Which surface in the audiology booth is most often forgotten? #shorts",
+  "aciklama": "In audiology, the most common route of infection is contact; the response button and chair arms are high-touch surfaces that are often forgotten. Listing the surfaces to wipe after every patient, namely the earphones, vibrator, probe, response button and chair arms, on a short checklist hung on the booth wall makes the work easier; on a busy day, the step most often forgotten is the response button.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "infectioncontrol",
+   "clinic"
+  ],
+  "etiketler": [
+   "infection control",
+   "disinfection",
+   "standard precautions",
+   "test booth",
+   "response button",
+   "checklist",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Which surface in the audiology booth is most often forgotten?",
+  "bilgiler": [
+   "Surfaces to wipe go on a short checklist.",
+   "The response button and chair arms are often forgotten.",
+   "The list hangs on the booth wall."
+  ],
+  "hashtag": [
+   "audiology",
+   "infectioncontrol",
+   "clinic"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #487",
+   "metin": "Which *surface?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Which surface in the audiology booth is most often forgotten?"
+   ]
+  },
+  {
+   "id": "liste",
+   "tur": "zincir",
+   "baslik": "The wipe *list*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Earphones",
+     "tr": "and vibrator",
+     "cumle": 1
+    },
+    {
+     "ad": "Probe",
+     "tr": "with its body",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Response button",
+     "tr": "often forgotten",
+     "cumle": 2
+    }
+   ],
+   "alt": "List _on the wall_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "List the surfaces to wipe after every patient on a short checklist.",
+    "Include earphones, vibrator, probe, response button and chair arms.",
+    "On busy days, the most forgotten step is usually the response button.",
+    "Hang it on the booth wall; show new staff on day one."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D286",
+ "kaynak_baslik": "Infection Control and Clinical Safety in Audiology"
+}

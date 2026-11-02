@@ -1,0 +1,864 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D102_Sound_Field_Audiometry_EN",
+ "kapak": {
+  "ust": "LESSON 102",
+  "baslik": "Sound-field<br>*audiometry*",
+  "alt": "Loudspeaker setup and aided thresholds",
+  "cizim": "test_kabini"
+ },
+ "youtube": {
+  "baslik": "Sound-Field Audiometry and Aided Thresholds | Lesson 102 | AIHEAR Audiology Academy",
+  "aciklama": "In sound-field audiometry, the stimulus is delivered through a loudspeaker instead of earphones. In this lesson we look at loudspeaker placement and the reference point, why warble tones and narrowband noise are used instead of pure tones, how to calculate aided thresholds and functional gain, and the limitations of this method today.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Dillon, Hearing Aids; ISO 8253-2, Acoustics: Audiometric test methods, Part 2: Sound field audiometry; ASHA, Guidelines for Audiometric Symbols.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "soundfield",
+   "hearingaids"
+  ],
+  "etiketler": [
+   "sound-field audiometry",
+   "sound field",
+   "warble tone",
+   "frequency-modulated tone",
+   "narrowband noise",
+   "aided threshold",
+   "functional gain",
+   "hearing aids",
+   "cochlear implant",
+   "real ear measurement",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 102",
+   "baslik": "*Sound-Field* Audiometry and Aided Thresholds",
+   "alt": "Loudspeaker setup, stimuli and aided thresholds",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson, we learn about sound-field audiometry with loudspeakers and about aided thresholds.",
+    "We will look at loudspeaker placement, the stimuli used and why functional gain must be interpreted with care."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Sound field",
+   "baslik": "A *loudspeaker* instead of earphones",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "hoparlor",
+     "cumle": 0
+    },
+    {
+     "parca": "hasta",
+     "cumle": 2
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "hoparlor",
+     "metin": "Stimulus from the loudspeaker",
+     "cumle": 0
+    },
+    {
+     "parca": "hasta",
+     "metin": "Both ears listen together",
+     "cumle": 2
+    },
+    {
+     "parca": "odyometre",
+     "metin": "Sound-field calibration",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Children and patients who cannot wear earphones",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Aided and implant assessment",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "In sound-field audiometry, the stimulus is delivered through loudspeakers in the test room, not through earphones.",
+    "The sound spreads through the room and reaches both of the patient's ears together.",
+    "So a threshold found in the sound field usually reflects the better-hearing ear.",
+    "Sound-field testing is a valuable option for young children who will not wear earphones and patients who cannot use them.",
+    "Assessments with a hearing aid or cochlear implant in place are also done in the sound field.",
+    "The audiometer is calibrated separately for the loudspeaker output; earphone calibration does not apply here."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Sound field",
+   "baslik": "Loudspeaker *placement*",
+   "maddeler": [
+    {
+     "metin": "Loudspeaker _at head height_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Distance usually _about 1 meter_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Reference point: _center of the head_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Angle: _0, 45 or 90 degrees_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Patient should _keep the head still_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ANGLE",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "hasta",
+      "baslik": "0 degrees",
+      "metin": "Straight ahead",
+      "cumle": 4
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "From the side",
+      "metin": "45 or 90 degrees",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "The loudspeaker is placed at a height that matches ear level where the patient sits.",
+    "The distance between loudspeaker and patient is usually about one meter and is kept the same in every test.",
+    "Calibration is done at the reference point matching the center of the patient's head, with the patient out of the room.",
+    "So the patient must be seated exactly at this point.",
+    "The direction of the loudspeaker is called the azimuth; zero degrees, straight ahead, is used most often.",
+    "Angles of forty five or ninety degrees may be chosen, for example, to favor the ear on one side.",
+    "If the patient turns or leans forward, the sound reaching the ear can change by a few decibels, especially at high frequencies."
+   ]
+  },
+  {
+   "id": "uyaran",
+   "tur": "karsilastir",
+   "bolum_no": "PART 2",
+   "bolum": "Stimuli",
+   "baslik": "Pure tone, or *warble tone?*",
+   "sol": {
+    "ust": "Pure tone",
+    "maddeler": [
+     {
+      "metin": "Creates _standing waves_ in the room",
+      "cumle": 0
+     },
+     {
+      "metin": "Level _varies_ with position",
+      "cumle": 1
+     },
+     {
+      "metin": "_Not recommended_ in sound field",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "FM tone or narrowband",
+    "maddeler": [
+     {
+      "metin": "A tone with _gently varying_ frequency",
+      "cumle": 3
+     },
+     {
+      "metin": "Or _narrowband_ noise",
+      "cumle": 4
+     },
+     {
+      "metin": "Level _more stable_ in the room",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "A pure tone from a loudspeaker reflects off the room's walls and overlaps with the direct sound; this creates standing waves.",
+    "So the level of a pure tone can rise and fall clearly even when the position changes by a few centimeters.",
+    "For this reason, other stimuli are preferred over pure tones in the sound field.",
+    "The most common is the warble tone, a frequency-modulated tone whose frequency swings slightly around the center a few times a second.",
+    "The other option is narrowband noise centered on the test frequency.",
+    "In these stimuli, energy is spread over a small frequency range, so the level stays much more stable in the room."
+   ]
+  },
+  {
+   "id": "duran_dalga",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Stimuli",
+   "baslik": "Level *changes with position*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Distance from reference point (cm)"
+    },
+    "y": {
+     "min": -15,
+     "max": 5,
+     "adim": 5,
+     "ad": "Level difference (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "saf_ses",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        4,
+        -3
+       ],
+       [
+        8,
+        -11
+       ],
+       [
+        12,
+        -4
+       ],
+       [
+        16,
+        1
+       ],
+       [
+        20,
+        -2
+       ],
+       [
+        24,
+        -9
+       ],
+       [
+        28,
+        -3
+       ],
+       [
+        32,
+        1
+       ],
+       [
+        36,
+        -4
+       ],
+       [
+        40,
+        -10
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "pure tone",
+      "cumle": 0
+     },
+     {
+      "ad": "fm_ton",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        5,
+        -1
+       ],
+       [
+        10,
+        -1.5
+       ],
+       [
+        15,
+        -0.5
+       ],
+       [
+        20,
+        -1
+       ],
+       [
+        25,
+        -1.5
+       ],
+       [
+        30,
+        -0.5
+       ],
+       [
+        35,
+        -1
+       ],
+       [
+        40,
+        -1.5
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "FM tone",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Pure tone: large ups and downs",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "FM tone: almost flat",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Schematic; rooms differ",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "The diagram shows how the sound level changes in the same room as we move away from the reference point.",
+    "With a pure tone, the level can show dips and peaks of up to ten decibels within a few centimeters.",
+    "With a frequency-modulated tone, the ups and downs are small; the measured threshold is less affected by small head movements.",
+    "This difference is especially clear in small rooms with reflective surfaces nearby.",
+    "The graph is schematic; real values vary with room size, frequency and absorbing materials.",
+    "So when searching for thresholds in the sound field, a frequency-modulated tone or narrowband noise is used."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Stimuli",
+   "baslik": "*Cautions* in the sound field",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Both ears",
+     "metin": "Result reflects the better ear",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "One ear",
+     "metin": "Plug or mask the other",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ambient noise",
+     "metin": "Ears open, stricter limits",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Position",
+     "metin": "At reference point, head still",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A sound-field threshold reflects both ears hearing together, in practice the better ear.",
+    "To see the contribution of just one ear, the other ear is plugged with an earplug or masked.",
+    "Placing the loudspeaker to one side is not enough on its own, because the head shadow gives very little protection at low frequencies.",
+    "Since the ears are open, the limits for ambient noise in the test room are stricter than for earphone testing.",
+    "The patient must sit at the reference point without moving the head, and no one should talk nearby."
+   ]
+  },
+  {
+   "id": "cihazli",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Aided thresholds",
+   "baslik": "Unaided and *aided* thresholds",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frequency (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 10,
+     "ters": true,
+     "ad": "Sound-field threshold (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        55
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        4000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "unaided (S)",
+      "cumle": 1
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        500,
+        30
+       ],
+       [
+        1000,
+        30
+       ],
+       [
+        2000,
+        35
+       ],
+       [
+        4000,
+        45
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "aided (A)",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kazanc",
+      "y": [
+       35,
+       60
+      ],
+      "xk": 2000,
+      "etiket": "25 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "S: sound field, unaided",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "A: sound field, aided",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Difference: functional gain",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "An aided threshold is a threshold found in the sound field while a hearing aid or implant is being worn.",
+    "First, thresholds are found without the device; on the audiogram these are shown with the letter S.",
+    "Then the same frequencies are measured again with the device on its everyday setting, marked with the letter A.",
+    "The difference between the two thresholds is called functional gain; in this example, twenty five decibels at two thousand hertz.",
+    "This method shows gain through the patient's own responses, that is, behaviorally.",
+    "For many years, this was the main way to verify hearing aid gain.",
+    "Still, this number must be interpreted with care; we will see why shortly."
+   ]
+  },
+  {
+   "id": "kazanc_tablo",
+   "tur": "tablo",
+   "bolum_no": "PART 3",
+   "bolum": "Aided thresholds",
+   "baslik": "Calculating *functional gain*",
+   "sutunlar": [
+    "Frequency (Hz)",
+    "Unaided",
+    "Aided",
+    "Gain (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500",
+      "50",
+      "30",
+      "20"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000",
+      "55",
+      "30",
+      "25"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000",
+      "60",
+      "35",
+      "25"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000",
+      "70",
+      "45",
+      "25"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The calculation is simple: at each frequency, the aided threshold is subtracted from the unaided threshold.",
+    "At five hundred hertz, fifty minus thirty is twenty decibels.",
+    "At one thousand and two thousand hertz, the gain is twenty five decibels.",
+    "At four thousand hertz, seventy minus forty five is again twenty five decibels.",
+    "In this example, aided thresholds are between thirty and forty five decibels, so some soft speech sounds are now audible.",
+    "But these numbers only show the gain at threshold level, that is, for very soft sounds."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Aided thresholds",
+   "baslik": "*Speech* tests in the sound field",
+   "maddeler": [
+    {
+     "metin": "Unaided and aided _SRT_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Aided _word recognition_ score",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Speech from the front, _noise behind_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Speech _calibration_ done separately",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SETUP",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Front loudspeaker",
+      "metin": "Speech, 0 degrees",
+      "cumle": 3
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Rear loudspeaker",
+      "metin": "Noise, 180 degrees",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "In the sound field, the speech threshold can also be measured unaided and aided.",
+    "The aided word recognition score directly shows how much the device helps the patient understand speech.",
+    "When this test is done at a level close to everyday speech, it gives a more realistic picture than threshold testing.",
+    "For testing in noise, speech comes from the front and noise from behind or the sides; the effect of directional microphones can be seen.",
+    "The speech channel must also be calibrated separately for the sound field."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Limitations",
+   "baslik": "The *limits* of functional gain",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Compression",
+     "metin": "More gain for soft sounds",
+     "cumle": 0
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Expansion",
+     "metin": "May turn very soft sounds down",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Noise floor",
+     "metin": "Room and device noise",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Automatic features",
+     "metin": "May suppress steady tones",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Open fit",
+     "metin": "Direct sound path mixes in",
+     "cumle": 5
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "5 dB steps",
+     "metin": "Coarse and variable",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Modern hearing aids use compression; they give more gain to soft sounds than to sounds at speech level.",
+    "So gain measured at threshold level can overstate the gain for everyday speech.",
+    "On the other hand, expansion, which turns very soft sounds down, can make the aided threshold look worse than it is.",
+    "Noise from the room and the device itself can keep the aided threshold from dropping below a certain level.",
+    "Features such as noise reduction or feedback cancellation may treat a steady test tone as unwanted sound and suppress it.",
+    "With open-fit hearing aids, low-frequency sounds also reach the ear directly, bypassing the aid.",
+    "Finally, five decibel steps and test-retest variability make small differences hard to interpret."
+   ]
+  },
+  {
+   "id": "rem",
+   "tur": "karsilastir",
+   "bolum_no": "PART 4",
+   "bolum": "Limitations",
+   "baslik": "Aided thresholds and *real ear* measurement",
+   "sol": {
+    "ust": "Aided threshold",
+    "maddeler": [
+     {
+      "metin": "Information _at threshold level_ only",
+      "cumle": 0
+     },
+     {
+      "metin": "Depends on the patient's response",
+      "cumle": 1
+     },
+     {
+      "metin": "A few frequencies, 5 dB steps",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Real ear measurement",
+    "maddeler": [
+     {
+      "metin": "_Output_ at speech levels",
+      "cumle": 3
+     },
+     {
+      "metin": "_Objective_, with a probe microphone",
+      "cumle": 3
+     },
+     {
+      "metin": "Full frequency range, compared with targets",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "An aided threshold shows only what the device does to very soft sounds.",
+    "The result also depends on the patient's attention and way of responding.",
+    "It also gives information only at a few frequencies, in five decibel steps.",
+    "In real ear measurement, sound in the ear canal is measured objectively with a probe microphone, at speech levels.",
+    "The result can be compared with prescriptive targets across the whole frequency range.",
+    "So real ear measurement is preferred to verify hearing aid fitting in adults; we will cover it in detail in a separate lesson."
+   ]
+  },
+  {
+   "id": "deger",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Limitations",
+   "baslik": "*Where* are aided thresholds useful?",
+   "maddeler": [
+    {
+     "metin": "Checking _cochlear implant_ programming",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "_Bone-anchored_ devices",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "_Behavioral_ check in young children",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_Visual_ counseling for families",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "vurgula": [
+     {
+      "parca": "dis_islemci",
+      "cumle": 0
+     },
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "A cochlear implant has no acoustic output to measure in the ear canal, so sound-field thresholds are widely used to check programming.",
+    "Real ear measurement cannot be used with bone-anchored hearing devices either, so behavioral methods become important.",
+    "In young children, behavioral sound-field tests, alongside real ear measurement, show which sounds are heard with the device.",
+    "Showing aided thresholds on the speech banana is an effective way to explain to families which speech sounds have become audible.",
+    "An aided word recognition test in the sound field can also show how the device helps with understanding speech."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical note",
+   "metin": "In aided testing, record the device program, volume and active features; also note whether the opposite ear was plugged.",
+   "cumleler": [
+    "What makes aided sound-field measurements comparable is recording the conditions.",
+    "Note which program and volume the device was on, and whether features such as noise reduction were active.",
+    "If you assessed one ear, write down that the other ear was plugged or masked.",
+    "Also record the loudspeaker angle and the stimulus used, so you can set up the same conditions at the next visit."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Loudspeaker: _about 1 m_, at head height",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Stimulus: _FM tone_ or narrowband",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Functional gain: _unaided minus aided_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Adult verification: _real ear measurement_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "In the sound field, the loudspeaker is placed at head height, usually about one meter away, at a fixed angle.",
+    "Because of standing waves, a frequency-modulated tone or narrowband noise is used instead of a pure tone.",
+    "Functional gain is the difference between unaided and aided sound-field thresholds.",
+    "Compression and automatic features limit this value; in adults, hearing aid fitting is verified with real ear measurement."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Why use an FM tone instead of a pure tone in sound field?",
+   "secenekler": [
+    "It reaches higher levels",
+    "It reduces standing waves",
+    "Patients detect it more easily",
+    "It needs no calibration"
+   ],
+   "dogru": 1,
+   "aciklama": "A pure tone creates _standing waves_ in the room; an FM tone spreads energy over a small range, so its level is more stable.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: In sound-field audiometry, why is a frequency-modulated tone used instead of a pure tone?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: it reduces standing waves.",
+    "A pure tone creates peaks and dips that change with position in the room; with a modulated tone, the level stays much more stable."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Acoustic Immittance: *Impedance* and Admittance",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson, we move on to immittance testing and learn about impedance and admittance.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

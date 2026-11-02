@@ -1,0 +1,751 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D212_Balance_Fall_Risk_Older_Adults_EN",
+ "kapak": {
+  "ust": "LESSON 212",
+  "baslik": "Falls in<br>*older adults*",
+  "alt": "TUG and the Dynamic Gait Index",
+  "cizim": "denge_durus"
+ },
+ "youtube": {
+  "baslik": "Balance and Fall Risk in Older Adults | Lesson 212 | AIHEAR Audiology Academy",
+  "aciklama": "Why do falls matter so much in older adults, why does balance get harder with age, and what part does the ear play? In this lesson we cover fall risk factors, the three-question screen, the Timed Up and Go test (TUG) and the Dynamic Gait Index (DGI), and the audiologist's role in fall risk.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Jacobson and Shepard, Balance Function Assessment and Management; CDC, STEADI: Stopping Elderly Accidents, Deaths and Injuries (TUG assessment form); WHO, Falls fact sheet (2021); Podsiadlo and Richardson, The Timed Up and Go, J Am Geriatr Soc (1991); Shumway-Cook et al., Predicting the probability for falls in community-dwelling older adults using the Timed Up and Go Test, Physical Therapy (2000); Agrawal et al., Disorders of balance and vestibular function in US adults, Arch Intern Med (2009); Lin and Ferrucci, Hearing loss and falls among older adults in the United States, Arch Intern Med (2012); Oghalai et al., Unrecognized benign paroxysmal positional vertigo in elderly patients, Otolaryngol Head Neck Surg (2000).\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "balance",
+   "fallrisk"
+  ],
+  "etiketler": [
+   "fall risk",
+   "balance in older adults",
+   "Timed Up and Go",
+   "TUG",
+   "Dynamic Gait Index",
+   "DGI",
+   "STEADI",
+   "vestibular disorders",
+   "BPPV",
+   "hearing loss and falls",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 212",
+   "baslik": "Balance and *fall* risk in older adults",
+   "alt": "Risk factors, TUG and the Dynamic Gait Index",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn why falls matter in older adults and why balance gets harder with age.",
+    "We will also cover the three questions used to screen for fall risk, the Timed Up and Go test, and the Dynamic Gait Index."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "PART 1",
+   "bolum": "Falls and balance",
+   "baslik": "Falls: *common* and serious",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Common",
+     "metin": "Over a quarter each year",
+     "cumle": 1
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Injury",
+     "metin": "Hip fracture, head injury",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cause of death",
+     "metin": "Second among injury deaths",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Fear of falling",
+     "metin": "Limits movement",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "A fall is unintentionally coming to rest on the ground or a lower surface; in older adults it is one of the most common causes of injury.",
+    "According to the US Centers for Disease Control, more than one in four people over 65 fall each year.",
+    "Some falls result in serious injuries such as hip fractures and head injuries.",
+    "According to the World Health Organization, falls are the second leading cause of unintentional injury deaths, after road traffic injuries.",
+    "About 684 thousand people die from falls worldwide each year, and the risk rises with age.",
+    "Even without injury, fear of falling limits a person's movement, and less movement in turn reduces muscle strength and balance.",
+    "So falls, fear and inactivity can become a cycle that feeds itself."
+   ]
+  },
+  {
+   "id": "yaslanma",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Falls and balance",
+   "baslik": "Why does balance get *harder* with age?",
+   "cizim": "denge_durus",
+   "etiketler": [
+    {
+     "parca": "salinim",
+     "metin": "Increased sway",
+     "cumle": 5
+    },
+    {
+     "parca": "agirlik_merkezi",
+     "metin": "Center of mass",
+     "cumle": 5
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "metin": "Base of support",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kisi",
+     "cumle": 1
+    },
+    {
+     "parca": "salinim",
+     "cumle": 5
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vestibular hair cells decline",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Vision and foot sensation weaken",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Strength and reaction time drop",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Balance relies on vision, the vestibular system and body sense working together; we saw this in the lesson on balance systems.",
+    "With age, each of these three systems slowly declines.",
+    "The number of hair cells and vestibular nerve fibers in the vestibular organs falls with age.",
+    "Visual acuity and depth perception decline, and sensation in the soles of the feet and proprioception weaken.",
+    "Muscle strength, reaction time, and the speed at which the brain combines sensory information also drop.",
+    "As a result, sway increases when standing, and keeping the center of mass within the base of support becomes harder.",
+    "Recovering with a step after a sudden push or trip becomes slower, which raises the risk of falling."
+   ]
+  },
+  {
+   "id": "riskler",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Risk factors",
+   "baslik": "Main *risk factors*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Previous fall",
+     "metin": "The strongest sign",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Muscles and gait",
+     "metin": "Weakness, slow walking",
+     "cumle": 2
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Medications",
+     "metin": "Many medications",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Vision",
+     "metin": "Cataract, unsuitable glasses",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Orthostatic hypotension",
+     "metin": "Blood pressure drop on standing",
+     "cumle": 4
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Home setting",
+     "metin": "Rugs, lighting, stairs",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Fall risk does not depend on a single cause; usually several factors come together.",
+    "One of the strongest indicators is having fallen within the past year.",
+    "Leg muscle weakness, slow walking and balance problems are also important risk factors.",
+    "Taking many medications, and some with sleep-inducing or sedating effects, can raise the risk; medication review is the physician's role.",
+    "Vision problems and a drop in blood pressure on standing, called orthostatic hypotension, are also asked about.",
+    "Home factors such as slippery floors, poor lighting and stairs also contribute to falls.",
+    "So fall risk assessment is a team effort in which the physician, physical therapist and audiologist work together."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Risk factors",
+   "baslik": "The ear's *share*: the vestibular system",
+   "maddeler": [
+    {
+     "metin": "Vestibular disorders _raise_ risk",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Signs in about 35 percent over 40",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "BPPV common, often _missed_",
+     "cumle": 3,
+     "ikon": "vertigo"
+    },
+    {
+     "metin": "Vague complaints: unsteadiness, lightheadedness",
+     "cumle": 5,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Unsteadiness worse in the dark",
+     "cumle": 6,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "posterior_kanal",
+      "metin": "posterior canal",
+      "cumle": 3
+     },
+     {
+      "parca": "utrikul",
+      "metin": "utricle",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "posterior_kanal",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Vestibular disorders make an important contribution to fall risk in older adults.",
+    "In a large national survey in the United States, about 35 percent of adults over 40 had signs of vestibular dysfunction.",
+    "In the same study, a history of falls was clearly more common in those who reported dizziness.",
+    "The most common peripheral vestibular disorder in older adults is benign paroxysmal positional vertigo, or BPPV.",
+    "In one geriatric clinic, about 9 percent of patients had undiagnosed BPPV, and recent falls were more common in this group.",
+    "Older adults do not always describe spinning; they may only report unsteadiness or lightheadedness on standing up.",
+    "In bilateral vestibular loss, unsteadiness becomes especially clear in the dark and on uneven ground."
+   ]
+  },
+  {
+   "id": "isitme",
+   "tur": "ikonlar",
+   "bolum_no": "PART 2",
+   "bolum": "Risk factors",
+   "baslik": "Hearing loss and *falls*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Every 10 dB",
+     "metin": "About 1.4 times the odds",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Environmental awareness",
+     "metin": "Warning sounds missed",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cognitive load",
+     "metin": "Attention spent on hearing",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Shared aging",
+     "metin": "Hearing and balance together",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hearing loss is also linked to fall risk.",
+    {
+     "yazi": "In an analysis of US data, each 10 decibel increase in hearing loss was linked to about 1.4 times higher odds of falling.",
+     "ses": "In an analysis of US data, each 10 decibel increase in hearing loss was linked to about one point four times higher odds of falling."
+    },
+    "One explanation for this link is that orienting with environmental sounds and noticing warning sounds becomes harder.",
+    "Another explanation is cognitive load: the effort spent on hearing can reduce the attention left for balance.",
+    "The shared aging of the hearing and balance organs in the inner ear may also be a common factor.",
+    "These studies are cross-sectional; whether hearing aid use reduces falls is not yet known for certain."
+   ]
+  },
+  {
+   "id": "uc_soru",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Screening and tests",
+   "baslik": "*Three questions* for screening",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Have you fallen?",
+     "metin": "In the past year",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Do you feel unsteady?",
+     "metin": "Standing or walking",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Are you afraid?",
+     "metin": "Worried about falling",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "To screen for fall risk, the STEADI program developed in the United States suggests three simple questions.",
+     "ses": "To screen for fall risk, the Steady program developed in the United States suggests three simple questions."
+    },
+    "First question: have you fallen in the past year?",
+    "Second question: do you feel unsteady when standing or walking?",
+    "Third question: do you worry about falling?",
+    "A yes to any of the questions shows that a more detailed assessment of gait, strength and balance is needed.",
+    "In the audiology clinic, these three questions can easily be added to the end of a dizziness history."
+   ]
+  },
+  {
+   "id": "tug",
+   "tur": "akis",
+   "bolum_no": "PART 3",
+   "bolum": "Screening and tests",
+   "baslik": "Timed Up and Go: *TUG*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sit",
+     "metin": "Armchair, back against it",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Stand",
+     "metin": "Timing starts on go",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Walk 3 meters",
+     "metin": "At usual pace",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Turn and sit",
+     "metin": "Timing stops when seated",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "The Timed Up and Go test, or TUG, is a widely used, quick mobility test.",
+    "The person sits in an armchair with their back against it, wearing their usual shoes and using a cane if needed.",
+    "On the word go, they stand and walk at their usual pace to a mark on the floor 3 meters away.",
+    "They turn at the mark, walk back to the chair, and sit down again.",
+    "The stopwatch starts on the word go and stops when the person is fully seated.",
+    "Besides the time, the gait pattern is observed: short steps, shuffling, holding the wall and hesitation on turning are noted.",
+    "A practice trial can be given first; for safety, the assessor walks alongside the patient."
+   ]
+  },
+  {
+   "id": "tug_yorum",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Screening and tests",
+   "baslik": "*Interpreting* the TUG time",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "adim": 4,
+     "ad": "Time (seconds)"
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "yazilar": {
+      "1": "Example A",
+      "2": "Example B"
+     },
+     "isaretler": [
+      1,
+      2
+     ],
+     "ad": "Example person"
+    },
+    "seriler": [
+     {
+      "ad": "ornek_a",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        9,
+        1
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "9 s",
+      "cumle": 0
+     },
+     {
+      "ad": "ornek_b",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        16,
+        2
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "16 s",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "risk",
+      "x": [
+       12,
+       24
+      ],
+      "renk": "sari",
+      "etiket": "12 s or more",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir_135",
+      "x": 13.5,
+      "y": 2.7,
+      "cizgi": "dikey",
+      "etiket": "13.5 s",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "STEADI: 12 seconds or more is risky",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cutoffs vary between studies",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "A long time: a flag, not diagnosis",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "The STEADI program considers an older adult who takes 12 seconds or longer to complete the test to be at risk of falling.",
+     "ses": "The Steady program considers an older adult who takes 12 seconds or longer to complete the test to be at risk of falling."
+    },
+    {
+     "yazi": "In a study of community-dwelling older adults, 13.5 seconds or more was used to identify fall risk.",
+     "ses": "In a study of community-dwelling older adults, thirteen point five seconds or more was used to identify fall risk."
+    },
+    "Because different studies report different cutoffs, no single number should be treated as a firm limit.",
+    "TUG time varies with age, chair height and the use of walking aids.",
+    "So repeated measurements in the same person under the same conditions are more valuable for follow-up.",
+    "A long time is not a diagnosis on its own; it is a flag that a detailed assessment is needed."
+   ]
+  },
+  {
+   "id": "dgi",
+   "tur": "ikonlar",
+   "bolum_no": "PART 4",
+   "bolum": "Balance while walking",
+   "baslik": "The Dynamic Gait *Index*",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Level walking",
+     "metin": "Including speed changes",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Head turns",
+     "metin": "Horizontal and vertical",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Pivot and stop",
+     "metin": "Quick turn",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Obstacle",
+     "metin": "Over and around",
+     "cumle": 3
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Stairs",
+     "metin": "Up and down",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Score",
+     "metin": "Total maximum 24",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "The Dynamic Gait Index, or DGI, assesses balance while walking with eight tasks.",
+    "The tasks include walking on a level surface and changing speed while walking.",
+    "The person is asked to turn their head side to side and up and down while walking; these tasks especially challenge the vestibular system.",
+    "Pivoting quickly and stopping while walking, stepping over an obstacle, and walking around it are also among the tasks.",
+    "The last task is going up and down stairs.",
+    "Each task is scored from 0 to 3; the maximum total score is 24.",
+    "A total of 19 or below has been linked to fall risk in older adults in many studies."
+   ]
+  },
+  {
+   "id": "diger_testler",
+   "tur": "maddeler",
+   "bolum_no": "PART 4",
+   "bolum": "Balance while walking",
+   "baslik": "Other *balance* tests",
+   "maddeler": [
+    {
+     "metin": "Functional Gait Assessment: ten tasks",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Tandem stance and single-leg stance",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "30-second chair stand",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "One test is _not enough_: combined interpretation",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "ayak_izi",
+      "metin": "foot placement",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "ayak_izi",
+      "cumle": 2
+     },
+     {
+      "parca": "salinim",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "A ten-task version adapted from the Dynamic Gait Index is called the Functional Gait Assessment.",
+    "It was developed to reduce the ceiling effect, the problem of most people scoring full marks on easy tasks.",
+    "Tandem stance and standing on one leg are also quick static balance tests.",
+    {
+     "yazi": "The STEADI program also recommends the 30-second chair stand test and the four-stage balance test.",
+     "ses": "The Steady program also recommends the 30-second chair stand test and the four-stage balance test."
+    },
+    "No single test predicts falls with certainty; interpreting the history and several tests together is more reliable.",
+    "The audiologist can use these tests as part of the vestibular assessment and shares the results with the team."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Balance while walking",
+   "baslik": "The audiologist's *role*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Screen",
+     "metin": "Three questions, fall history",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Assess",
+     "metin": "Vestibular and functional tests",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Integrate",
+     "metin": "Hearing and balance findings",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Refer",
+     "metin": "Physician, physical therapy",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Let us summarize the audiologist's role in fall risk as a flow.",
+    "The first step is screening: the three questions and the fall history.",
+    "In the second step, functional tests such as the TUG are done along with vestibular tests.",
+    "In the third step, hearing and vestibular findings are interpreted together; for example, a detected BPPV is a treatable risk factor.",
+    "In the last step, the person is referred to the physician, the physical therapist and, if needed, a vestibular rehabilitation program.",
+    "Strong evidence shows that exercise programs reduce falls in older adults; we will see rehabilitation in later lessons."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Do not get an older patient up right after positional or caloric testing. Sit them up first, wait, then help them stand.",
+   "cumleler": [
+    "A clinical tip: do not get an older patient to stand right after caloric or positional testing.",
+    "Sit them up first, wait a few minutes, and help them stand once the dizziness has passed.",
+    "During walking tests, walk slightly behind and beside the patient; use a gait belt if needed.",
+    "Send the findings of a patient with a fall history to the physician in a clear report; this becomes part of the fall prevention plan."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Falls: common, serious, many causes",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Vestibular disorders and hearing loss contribute",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Screening with three questions and TUG",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "DGI: eight tasks, maximum 24",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Falls in older adults are common, can have serious consequences, and usually depend on several factors.",
+    "Vestibular disorders, especially BPPV, and hearing loss contribute to fall risk.",
+    {
+     "yazi": "Screening starts with three questions; on the TUG, a time of 12 seconds or more is a risk flag according to STEADI.",
+     "ses": "Screening starts with three questions; on the TUG, a time of 12 seconds or more is a risk flag according to Steady."
+    },
+    "The Dynamic Gait Index assesses balance while walking with eight tasks and has a maximum score of 24."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which TUG time is a risk flag under STEADI?",
+   "secenekler": [
+    "8 seconds or more",
+    "12 seconds or more",
+    "20 seconds or more",
+    "30 seconds or more"
+   ],
+   "dogru": 1,
+   "aciklama": "A time of 12 seconds or more shows that a detailed assessment is needed.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: under the STEADI program, which Timed Up and Go time is a flag for fall risk?",
+     "ses": "Test yourself: under the Steady program, which Timed Up and Go time is a flag for fall risk?",
+     "sonra_bekle": 5
+    },
+    "The correct answer is B: 12 seconds or more.",
+    "Still, the time alone is not a diagnosis; it is interpreted together with the history and other tests."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Dizziness Handicap Inventory and *Self-Report* Scales",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about the Dizziness Handicap Inventory and other self-report scales.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,943 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D028_Outer_Ear_Acoustics_EN",
+ "kapak": {
+  "ust": "LESSON 28",
+  "baslik": "Outer ear<br>*acoustics*",
+  "alt": "Resonance and direction cues",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak"
+  ]
+ },
+ "youtube": {
+  "baslik": "Outer Ear Acoustics: Resonance and Direction Cues | Lesson 28 | AIHEAR Audiology Academy",
+  "aciklama": "The outer ear does not just collect sound; it boosts certain frequencies and adds direction information. In this lesson we cover the quarter-wave resonance of the ear canal, the natural gain of the open ear, the contribution of the concha and head, time and level differences in localization, and the spectral cues of the pinna. We also see why all this matters in hearing aid fitting.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Shaw EAG (1974), Transformation of sound pressure level from the free field to the eardrum in the horizontal plane, Journal of the Acoustical Society of America; Blauert, Spatial Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Dillon, Hearing Aids; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "acoustics",
+   "hearing"
+  ],
+  "etiketler": [
+   "outer ear acoustics",
+   "ear canal resonance",
+   "REUG",
+   "HRTF",
+   "head-related transfer function",
+   "sound localization",
+   "concha",
+   "insertion loss",
+   "duplex theory",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 28",
+   "baslik": "The *acoustic* role of the outer ear",
+   "alt": "Ear canal resonance and direction cues",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will examine how the outer ear changes sound, that is, its acoustic function.",
+    "We will learn about ear canal resonance, how the pinna helps us locate sound, and why this matters in hearing aid fitting."
+   ]
+  },
+  {
+   "id": "rezonans",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Resonance",
+   "baslik": "What is *resonance?*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 3000,
+    "karsilastir": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_boyu",
+     "metin": "Wavelength",
+     "cumle": 3
+    },
+    {
+     "parca": "genlik",
+     "metin": "Amplitude: boosted",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "genlik",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Every cavity has a _natural frequency_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Blowing over a bottle: _resonant tone_",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Smaller cavity: _higher_ resonance",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Every cavity and tube has a natural frequency at which the air inside vibrates most easily.",
+    "Sounds at this frequency are boosted in the cavity; this is called resonance.",
+    "The tone we hear when we blow across the mouth of an empty bottle is the bottle's resonant frequency.",
+    "The resonant frequency depends on the size of the cavity: the smaller the cavity, the higher the resonant frequency.",
+    "The ear canal and the hollows of the pinna are acoustic cavities too, each with its own resonance."
+   ]
+  },
+  {
+   "id": "ceyrek_dalga",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Resonance",
+   "baslik": "The ear canal: a tube *closed at one end*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Closed end: tympanic membrane",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "About 2.5 cm",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Quarter-wavelength_ resonance",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Calculated: about _3400 Hz_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Measured: about _2.5 to 3 kHz_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "The ear canal behaves like a tube that is open at one end and closed at the other by the tympanic membrane.",
+    "The strongest resonance of such a tube is at the frequency whose quarter wavelength equals the length of the tube.",
+    "This is called quarter-wavelength resonance.",
+    "In adults the ear canal is about two and a half centimeters long, so this frequency works out to about three thousand four hundred hertz.",
+    {
+     "yazi": "In real ears, however, ear canal resonance is usually measured at around two thousand five hundred to three thousand hertz."
+    },
+    "The difference arises because the canal is not a straight tube and the concha at its entrance adds to the cavity."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "reug",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Resonance",
+   "baslik": "*Measuring* the resonance",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "kulak_kanali",
+     "metin": "Open ear canal",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_tupu",
+     "metin": "Probe tube: near the eardrum",
+     "cumle": 1
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "metin": "Reference microphone: outside the ear",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_tupu",
+     "cumle": 1
+    },
+    {
+     "parca": "kulak_kanali",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Open ear gain: _REUG_",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Peak: about _15 to 20 dB_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Broad region: _2 to 4 kHz_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "We can measure the resonance of the ear canal in the person's own ear.",
+    "In real ear measurement, a thin probe tube is placed near the eardrum and compared with a microphone outside the ear.",
+    "The difference between the two measurements is the natural gain of the open ear, the real-ear unaided gain, or REUG.",
+    "In adults this gain usually peaks at around two thousand five hundred to three thousand hertz, reaching about fifteen to twenty decibels.",
+    "The gain is not at a single frequency; it is clear across a broad region, from about two thousand to four thousand hertz.",
+    "These values vary between people, so the measurement is made separately in each ear."
+   ]
+  },
+  {
+   "id": "katkilar",
+   "bolum_no": "PART 1",
+   "bolum": "Resonance",
+   "baslik": "*What* contributes to the gain?",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ear canal",
+     "metin": "Largest: 2.5 to 3 kHz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Concha",
+     "metin": "About 5 kHz, a second peak",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Head",
+     "metin": "Baffle effect in mids and highs",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Pinna",
+     "metin": "Direction-dependent changes in highs",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "The gain of the outer ear does not come from a single structure; the contributions of several structures add up.",
+    "The largest contribution comes from the ear canal, at around two thousand five hundred to three thousand hertz.",
+    "The concha adds its own resonance, giving extra gain at around five thousand hertz.",
+    "The head acts as a baffle in front of the sound, raising the pressure on the near side at mid and high frequencies.",
+    "The folds of the pinna create small peaks and notches at high frequencies that change with the direction of the sound.",
+    "Together, these contributions clearly change the spectrum of the sound reaching the tympanic membrane."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Resonance",
+   "baslik": "Resonance and *speech*",
+   "cizim": "konusma_muzu",
+   "etiketler": [
+    {
+     "parca": "unsuzler",
+     "metin": "High-frequency consonants",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Consonant information is _boosted_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Most sensitive region: about _2 to 5 kHz_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "The region boosted by ear canal resonance is a very important frequency range for speech.",
+    "The energy of many consonants that determine speech intelligibility lies in this high-frequency region.",
+    "So the outer ear naturally boosts weak consonant sounds and helps us understand speech.",
+    "Outer ear resonance is one reason why human hearing is most sensitive between about two thousand and five thousand hertz."
+   ]
+  },
+  {
+   "id": "iki_kulak",
+   "bolum_no": "PART 2",
+   "bolum": "Direction cues",
+   "baslik": "Two-ear *cues*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Localization",
+     "metin": "Differences between the two ears",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Time difference",
+     "metin": "Arrives first; below 1500 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Level difference",
+     "metin": "Head shadow; above 1500 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Duplex theory",
+     "metin": "Division of labor by frequency",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "To find where a sound comes from in the horizontal plane, the brain mainly uses the differences between the two ears.",
+    {
+     "yazi": "A sound from the side reaches the near ear first; this small delay is called the interaural time difference."
+    },
+    "The time difference is a strong cue especially for low-pitched sounds, below about one thousand five hundred hertz.",
+    "For high-pitched sounds, the head acts as an obstacle and creates a sound shadow at the far ear.",
+    {
+     "yazi": "So for high-pitched sounds the interaural level difference is the more important cue."
+    },
+    "This split of the two cues by frequency is called the duplex theory."
+   ]
+  },
+  {
+   "id": "kepce",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Direction cues",
+   "baslik": "The pinna: *front or back?*",
+   "cizim": "kepce_yansima",
+   "vurgula": [
+    {
+     "parca": "centik",
+     "cumle": 2
+    },
+    {
+     "parca": "arkadan",
+     "cumle": 3
+    },
+    {
+     "parca": "onden",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "centik",
+     "metin": "direction-specific notches",
+     "cumle": 2,
+     "yer": "ust"
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Spectral_ change with direction",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Front-back_ discrimination",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Perception of _elevation_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Two-ear cues have a limit: sounds from straight ahead and straight behind reach both ears at the same time and level.",
+    "The pinna helps resolve this ambiguity.",
+    "The folds of the pinna reflect sound; when reflected and direct sounds combine, direction-specific notches form at high frequencies.",
+    "As the pinna faces forward, high sounds from the front are slightly stronger than those from behind, which helps tell front from back.",
+    "The same spectral cues also play an important role in telling whether a sound comes from above or below.",
+    "These cues can also be used with one ear, but they rely on the brain learning the features of the person's own ear."
+   ],
+   "ayar": {
+    "yansima_cumle": 2,
+    "arka_cumle": 3,
+    "ust_cumle": 4,
+    "grafik": {
+     "x": {
+      "min": 2000,
+      "max": 16000,
+      "log": true,
+      "hz": true,
+      "ad": "Frequency (Hz)"
+     },
+     "y": {
+      "min": -20,
+      "max": 15,
+      "adim": 10,
+      "ad": "Ear canal entrance, relative (dB)"
+     },
+     "seriler": [
+      {
+       "ad": "onden",
+       "noktalar": [
+        [
+         2000,
+         4
+        ],
+        [
+         3000,
+         8
+        ],
+        [
+         4000,
+         10
+        ],
+        [
+         5000,
+         9
+        ],
+        [
+         6000,
+         3
+        ],
+        [
+         7000,
+         -12
+        ],
+        [
+         8000,
+         -3
+        ],
+        [
+         10000,
+         2
+        ],
+        [
+         12000,
+         -4
+        ],
+        [
+         16000,
+         -8
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "cumle": 2,
+       "etiket": "front",
+       "etiket_konum": [
+        4000,
+        10
+       ],
+       "etiket_dy": -14
+      },
+      {
+       "ad": "arkadan",
+       "noktalar": [
+        [
+         2000,
+         3
+        ],
+        [
+         3000,
+         5
+        ],
+        [
+         4000,
+         6
+        ],
+        [
+         5000,
+         4
+        ],
+        [
+         6000,
+         0
+        ],
+        [
+         8000,
+         -5
+        ],
+        [
+         9500,
+         -16
+        ],
+        [
+         11000,
+         -7
+        ],
+        [
+         13000,
+         -11
+        ],
+        [
+         16000,
+         -14
+        ]
+       ],
+       "renk": "lacivert",
+       "kesik": true,
+       "yumusak": true,
+       "cumle": 3,
+       "etiket": "behind",
+       "etiket_konum": [
+        16000,
+        -14
+       ],
+       "etiket_dx": -10,
+       "etiket_dy": 26,
+       "etiket_hiza": "end"
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "centik",
+       "x": [
+        6200,
+        10500
+       ],
+       "renk": "sari",
+       "etiket": "notches",
+       "cumle": 2
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "hrtf",
+   "tur": "maddeler",
+   "bolum_no": "PART 2",
+   "bolum": "Direction cues",
+   "baslik": "The head-related *transfer function*",
+   "maddeler": [
+    {
+     "metin": "_HRTF_: head-related transfer function",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "A _different_ spectrum for each direction",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "The brain _learns_ this information",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Unique_ to each person",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Virtual sound and _device_ design",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "The combined effect of the head, torso, pinna and ear canal on sound is called the head-related transfer function.",
+    "Known as the HRTF, this function describes how the spectrum reaching the ear canal changes for each direction of arrival.",
+    "Through experience, the brain learns which spectral change corresponds to which direction.",
+    "Because the shape of the pinna differs from person to person, the HRTF is unique to each person.",
+    "Three-dimensional audio for headphones and some hearing aid features make use of this information."
+   ]
+  },
+  {
+   "id": "koruma",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Protection and clinic",
+   "baslik": "*Protective* functions of the outer ear",
+   "maddeler": [
+    {
+     "metin": "Long, curved canal: _protects the eardrum_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Stable _temperature and humidity_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Cerumen and hairs: _foreign bodies_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Self-cleaning_ skin",
+     "cumle": 3,
+     "ikon": "dokunma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 2
+     }
+    ],
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    "The long, curved canal protects the tympanic membrane from direct blows and foreign bodies.",
+    "Temperature and humidity stay fairly stable inside the canal, which helps keep the eardrum flexible.",
+    "The hairs and cerumen in the cartilaginous part stop dust and small insects from moving inward.",
+    "The migration of canal skin from the inside outward lets debris be expelled on its own."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "bolum_no": "PART 3",
+   "bolum": "Protection and clinic",
+   "baslik": "*Resonance* with a hearing aid in place",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Canal closed, resonance lost: _insertion loss_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "The aid must _compensate_ for this gain",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "BTE microphone: _no pinna effect_",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "In the concha or canal: _preserved_",
+     "cumle": 5,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Mimicked_ with directional microphones",
+     "cumle": 6,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "BTE"
+    },
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 1
+     },
+     {
+      "parca": "mikrofon",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "Earmold: closes the canal",
+      "cumle": 1
+     },
+     {
+      "parca": "mikrofon",
+      "metin": "Microphone: above the pinna",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "The acoustics of the outer ear come up directly in hearing aid fitting.",
+    "When the ear canal is closed with an earmold or hearing aid, the tube's open end disappears and the natural resonance is largely lost.",
+    {
+     "yazi": "This is called insertion loss; the natural gain of the open ear no longer reaches the ear."
+    },
+    "So, in addition to the person's hearing loss, the hearing aid must also replace this lost natural gain.",
+    "In behind-the-ear hearing aids, the microphone sits above the pinna, so it cannot use the pinna's direction cues.",
+    "In hearing aids with the microphone in the concha or canal, the natural effects of the pinna are largely preserved.",
+    "Some behind-the-ear aids mimic the pinna's boost for sounds from the front by using directional microphones."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "odyogram",
+   "bolum_no": "PART 3",
+   "bolum": "Protection and clinic",
+   "baslik": "Resonance and *noise*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Right ear_",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Left ear_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Notch: around _4000 Hz_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       20,
+       45,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       50,
+       30
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "One clinically discussed link of ear canal resonance is noise-induced hearing loss."
+    },
+    "In this example both ears show a clear notch around four thousand hertz, with partial recovery at eight thousand hertz.",
+    "In noise-induced losses, the notch is usually seen between three thousand and six thousand hertz.",
+    "One explanation is that ear canal resonance boosts broadband noise around two thousand to three thousand hertz.",
+    "Cochlear damage is greatest about half an octave above the stimulus frequency, which moves the notch to around four thousand hertz.",
+    "The structure of the cochlea itself is also thought to play a role in the notch; this example only shows the typical pattern."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "maddeler",
+   "bolum_no": "PART 3",
+   "bolum": "Protection and clinic",
+   "baslik": "*Resonance* in infants and children",
+   "maddeler": [
+    {
+     "metin": "Small canal: _higher_ resonance",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Moves _toward_ adult values with growth",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Small volume: _higher_ sound pressure",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Correction: _RECD_ measurement",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "kulak_kanali",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "In infants the ear canal is both shorter and narrower, so its resonant frequency is higher than in adults.",
+    "Because the infant ear canal wall is softer, its acoustic properties also differ from those of the adult ear.",
+    "As the child grows, the resonant frequency falls and approaches adult values within the first years.",
+    "Because a small ear canal has little volume, the same hearing aid produces a higher sound pressure in an infant's ear than in an adult's.",
+    "This difference is measured as the real-ear-to-coupler difference, or RECD, and built into the hearing aid settings."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PART 3",
+   "bolum": "Protection and clinic",
+   "baslik": "Clinical tip",
+   "metin": "In real ear measurement, the probe tube tip should be about 5 mm from the eardrum. If the tube is too shallow, high-frequency levels may be measured too low.",
+   "cumleler": [
+    "A tip from practice: in real ear measurement, the depth of the probe tube directly affects the result.",
+    "Place the tube so that its tip is about five millimeters from the tympanic membrane.",
+    "If the tube is too shallow, standing waves in the ear canal can make high-frequency levels read lower than they really are.",
+    "Checking the placement with an otoscope and marking the tube to hold its depth make the measurement more reliable."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Ear canal: a _quarter-wave_ resonator",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Peak: about _2.5 to 3 kHz_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Direction: time, level and _pinna_ cues",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "When closed: _insertion loss_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "The ear canal behaves like a tube closed at one end and shows quarter-wavelength resonance.",
+    "In adults, the natural gain of the open ear usually peaks at around two thousand five hundred to three thousand hertz.",
+    "Localization uses interaural time and level differences together with the spectral cues of the pinna.",
+    "When the ear canal is closed, the natural resonance is lost; a hearing aid must account for this insertion loss."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "A 2.5 cm tube closed at one end: what is its resonance?",
+   "secenekler": [
+    "About 340 Hz",
+    "About 1000 Hz",
+    "About 3400 Hz",
+    "About 8000 Hz"
+   ],
+   "dogru": 2,
+   "aciklama": "Quarter wave: speed of sound / (4 x length) = 343 / 0.1 = about _3400 Hz_.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: What is the approximate resonant frequency of a tube two and a half centimeters long, closed at one end?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is C: about three thousand four hundred hertz."
+    },
+    "We get this value by dividing the speed of sound by four times the tube length; in real ears the peak is a little lower."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Why Do We Need a Middle Ear? *Impedance Matching*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we move to the middle ear and see why sound in air cannot pass directly into the inner ear fluids: impedance matching.",
+    "Subscribe to the channel so you never miss a new lesson. See you soon!"
+   ]
+  }
+ ]
+}

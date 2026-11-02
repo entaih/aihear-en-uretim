@@ -1,0 +1,162 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R276_Less_Gain_When_Loud_EN",
+ "kapak": {
+  "ust": "QUICK FACT #276",
+  "baslik": "*Less gain* when loud",
+  "alt": "Compression and the input-output curve",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 30,
+    "max": 100,
+    "adim": 10,
+    "ad": "Input (dB SPL)"
+   },
+   "y": {
+    "min": 60,
+    "max": 130,
+    "adim": 10,
+    "ad": "Output (dB SPL)"
+   },
+   "seriler": [
+    {
+     "ad": "linear",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       95,
+       130
+      ]
+     ],
+     "renk": "gri",
+     "kesik": true
+    },
+    {
+     "ad": "compression",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       50,
+       85
+      ],
+      [
+       70,
+       95
+      ],
+      [
+       90,
+       105
+      ],
+      [
+       100,
+       106
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": 6
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Why does a hearing aid give loud sounds less gain? #shorts",
+  "aciklama": "In cochlear loss, thresholds rise but discomfort levels often stay the same; compression fits a wide input range into this narrowed space. In this example, gain is 35 dB at a 40 dB input, 25 at 70 dB and 15 at 90 dB, so a 50 dB input range fits into 30 dB of output.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "hearingaids",
+   "compression"
+  ],
+  "etiketler": [
+   "compression",
+   "WDRC",
+   "input-output function",
+   "compression ratio",
+   "dynamic range",
+   "hearing aid",
+   "audiology",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Why does a hearing aid give loud sounds less gain?",
+  "bilgiler": [
+   "Soft sounds get more gain, loud sounds get less.",
+   "Here, gain falls from 35 to 25 to 15 dB.",
+   "A 50 dB input range fits into 30 dB of output."
+  ],
+  "hashtag": [
+   "audiology",
+   "hearingaids",
+   "compression"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #276",
+   "metin": "Why does gain *shrink?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Why does a hearing aid give loud sounds less gain?"
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "zincir",
+   "baslik": "Gain by *input level*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "40 dB in",
+     "tr": "gain 35",
+     "cumle": 1
+    },
+    {
+     "ad": "70 dB in",
+     "tr": "gain 25",
+     "cumle": 2
+    },
+    {
+     "ad": "90 dB in",
+     "tr": "gain 15",
+     "cumle": 3
+    }
+   ],
+   "alt": "More for soft, _less for loud_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "In cochlear loss, thresholds rise but discomfort levels often stay the same.",
+    "Here, a soft 40 dB sound gets 35 dB of gain.",
+    "At a 70 dB input, gain drops to 25 dB.",
+    "For a loud 90 dB sound, gain is only 15 dB.",
+    "So a 50 dB input range fits into 30 dB of output."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D181",
+ "kaynak_baslik": "Compression in Hearing Aids: WDRC, Kneepoint, Ratio"
+}

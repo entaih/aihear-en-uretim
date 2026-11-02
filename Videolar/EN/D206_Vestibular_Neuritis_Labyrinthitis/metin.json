@@ -1,0 +1,824 @@
+{
+ "dil": "en",
+ "bicim": "ders",
+ "dosya": "D206_Vestibular_Neuritis_Labyrinthitis_EN",
+ "kapak": {
+  "ust": "LESSON 206",
+  "baslik": "Vestibular *neuritis*",
+  "alt": "Neuritis and labyrinthitis",
+  "cizim": "beyin_sapi_vestibuler",
+  "vurgula": [
+   "vestibuler_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "Vestibular Neuritis and Labyrinthitis | Lesson 206 | AIHEAR Audiology Academy",
+  "aciklama": "What does vertigo that starts suddenly and lasts for days suggest? In this lesson we cover the clinical picture of vestibular neuritis, the 2022 Barany Society criteria, vHIT, caloric and VEMP patterns in superior and inferior involvement, labyrinthitis with hearing involvement, and the differential diagnosis.\n\nAIHEAR Audiology Academy makes short, clear lessons for audiology students and professionals.\n\nSources: Strupp et al., Acute unilateral vestibulopathy/vestibular neuritis: Diagnostic criteria, Journal of Vestibular Research (2022); Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nThis video is for educational purposes and does not replace diagnosis or treatment.",
+  "kapanis_metni": "Subscribe so you never miss a new lesson.",
+  "hashtag": [
+   "audiology",
+   "vestibular",
+   "vertigo"
+  ],
+  "etiketler": [
+   "vestibular neuritis",
+   "labyrinthitis",
+   "acute vestibular syndrome",
+   "acute unilateral vestibulopathy",
+   "vHIT",
+   "caloric test",
+   "VEMP",
+   "nystagmus",
+   "dizziness",
+   "audiology lessons",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LESSON 206",
+   "baslik": "Vestibular neuritis and *labyrinthitis*",
+   "alt": "Peripheral causes of acute vestibular syndrome",
+   "cumleler": [
+    "Hello, and welcome to the AIHEAR Audiology Academy.",
+    "In this lesson we will learn about vestibular neuritis, the most common peripheral cause of vertigo that starts suddenly and lasts for days.",
+    "We will cover labyrinthitis, the distinguishing findings, and test results, including the vestibular evoked myogenic potential, or VEMP."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and clinical picture",
+   "baslik": "A problem in the *vestibular nerve*",
+   "cizim": "beyin_sapi_vestibuler",
+   "etiketler": [
+    {
+     "parca": "labirent",
+     "metin": "Labyrinth",
+     "cumle": 0
+    },
+    {
+     "parca": "scarpa_ganglionu",
+     "metin": "Scarpa's ganglion",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibuler_cekirdekler",
+     "metin": "Vestibular nuclei",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "scarpa_ganglionu",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibuler_cekirdekler",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "One side goes _silent_",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "The brain reads it as _spinning_",
+     "cumle": 5,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "Vestibular neuritis is a condition caused by the sudden loss of function of the vestibular nerve on one side.",
+    "The cause often cannot be shown; the most accepted explanation is reactivation of a virus lying dormant in the nerve ganglion.",
+    "The cell bodies of the nerve are in Scarpa's ganglion, in the internal auditory canal.",
+    "The signal from the affected side to the vestibular nuclei in the brainstem suddenly drops.",
+    "The healthy side keeps working normally, and a large imbalance arises between the two sides.",
+    "The brain reads this imbalance as continuous rotation; the result is severe vertigo and nystagmus.",
+    {
+     "yazi": "In 2022 the Barany Society defined this condition under the name acute unilateral vestibulopathy.",
+     "ses": "In twenty twenty two the Barany Society defined this condition under the name acute unilateral vestibulopathy."
+    },
+    "The name vestibular neuritis remains in wide clinical use."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "maddeler",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and clinical picture",
+   "baslik": "The typical *picture*",
+   "maddeler": [
+    {
+     "metin": "_Sudden_, severe, continuous vertigo",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Nausea and vomiting",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tendency to _fall_ toward affected side",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Worse_ with head movement",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_No_ hearing loss",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "For days",
+      "metin": "Not hours",
+      "cumle": 0
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Hearing",
+      "metin": "Not affected",
+      "cumle": 4
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Neurological signs",
+      "metin": "Should be absent",
+      "cumle": 4
+     }
+    ],
+    "ust": "PICTURE"
+   },
+   "cumleler": [
+    "In the typical history, the person describes a severe, continuous spinning sensation that began suddenly one morning or during the day.",
+    "Nausea and vomiting often accompany it, and the person does not want to get out of bed.",
+    "Standing or walking, there is a tendency to fall toward the affected side, but the person can usually walk with help.",
+    "Every head movement makes the symptoms worse, so the person tries to keep the head still.",
+    "Hearing loss and tinnitus are not expected in vestibular neuritis; if hearing is affected, labyrinthitis or another cause is considered.",
+    "Some people report an upper respiratory infection a few days earlier."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "PART 1",
+   "bolum": "Definition and clinical picture",
+   "baslik": "The 2022 Barany *criteria*",
+   "sutunlar": [
+    "Criterion",
+    "Content"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "A. Onset",
+      "At least 24 hours"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "B. Nystagmus",
+      "Spontaneous, peripheral type"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "C. VOR",
+      "Reduced, opposite side"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "D. Exclusion",
+      "No central, auditory signs"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "E. Explanation",
+      "Not another disease"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "First: sustained vertigo or dizziness of moderate or severe intensity, with acute or subacute onset, lasting at least twenty four hours.",
+    "Second, spontaneous peripheral nystagmus in a direction that fits the canal afferents, generally horizontal and torsional.",
+    "Third, clear evidence of reduced vestibulo-ocular reflex, or VOR, function on the side opposite the fast phase.",
+    "This evidence can come from the bedside head impulse test, the video head impulse test, or the caloric test.",
+    "Fourth, there are no central signs, no hearing loss and no other ear findings.",
+    "Last, the condition is not better explained by another disease.",
+    "If symptoms have lasted less than twenty four hours, the condition is called evolving acute unilateral vestibulopathy."
+   ]
+  },
+  {
+   "id": "dallar",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Test findings",
+   "baslik": "Superior and *inferior* divisions",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Superior vestibular nerve",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Inferior vestibular nerve",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Cochlear nerve",
+     "cumle": 0
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Facial nerve",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "The vestibular nerve has two divisions, and neuritis can involve one or both of them.",
+    "The superior division carries the lateral and anterior canals, the utricle and part of the saccule.",
+    "The inferior division carries the posterior canal and most of the saccule.",
+    "In vestibular neuritis the superior division is the one most often affected; isolated inferior involvement is rarer.",
+    "One explanation is that the bony canal of the superior division is longer and narrower, so a swollen nerve is more easily trapped there.",
+    "Which division is involved determines the pattern of test findings.",
+    "So assessing the six canals and two otolith organs separately helps work out which division is involved."
+   ]
+  },
+  {
+   "id": "nistagmus",
+   "tur": "gorsel",
+   "bolum_no": "PART 2",
+   "bolum": "Test findings",
+   "baslik": "Nystagmus toward the *healthy* side",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sol",
+    "tur": "sicramali",
+    "yavas_cumle": 1,
+    "hizli_cumle": 2,
+    "baslik": "Right neuritis: left-beating nystagmus"
+   },
+   "notlar": [
+    {
+     "metin": "_Beats_ toward the healthy side",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Decreases_ with fixation",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "In this example we see the spontaneous nystagmus of a person with right vestibular neuritis.",
+    "Because the right side is weak, the eyes drift slowly to the right; this is the slow phase.",
+    "The brain quickly brings the eyes back to the left; this is the fast phase, and the nystagmus is named left-beating after it.",
+    "So peripheral nystagmus usually beats toward the healthy ear; it is horizontal and torsional, and its direction does not change.",
+    "The nystagmus increases when the person looks left and decreases when they look right; this is Alexander's law.",
+    "Visual fixation markedly reduces the nystagmus, so it is seen better with Frenzel or video goggles."
+   ]
+  },
+  {
+   "id": "bulgular",
+   "tur": "tablo",
+   "bolum_no": "PART 2",
+   "bolum": "Test findings",
+   "baslik": "Test *patterns*",
+   "sutunlar": [
+    "Test",
+    "Superior involvement",
+    "Inferior involvement"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Caloric test",
+      "Weakness",
+      "Usually normal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "vHIT lateral, anterior",
+      "Low gain",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "vHIT posterior",
+      "Usually normal",
+      "Low gain"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "oVEMP",
+      "Reduced or absent",
+      "Usually normal"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "cVEMP",
+      "Usually normal",
+      "Reduced or absent"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Audiogram",
+      "Normal",
+      "Normal"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Because the caloric test assesses the lateral canal, it shows clear weakness on the affected side in superior involvement.",
+    {
+     "yazi": "On the video head impulse test, or vHIT, superior involvement lowers lateral and anterior canal gain, and saccades are seen.",
+     "ses": "On the video head impulse test, or V HIT, superior involvement lowers lateral and anterior canal gain, and saccades are seen."
+    },
+    "In inferior involvement, posterior canal gain drops; the caloric test may stay normal in this case.",
+    {
+     "yazi": "The ocular VEMP, or oVEMP, reflects the utricle and superior division, so it is reduced or absent in superior involvement.",
+     "ses": "The ocular VEMP, or O VEMP, reflects the utricle and superior division, so it is reduced or absent in superior involvement."
+    },
+    {
+     "yazi": "The cervical VEMP, or cVEMP, reflects the saccule and inferior division, so it is affected in inferior involvement.",
+     "ses": "The cervical VEMP, or C VEMP, reflects the saccule and inferior division, so it is affected in inferior involvement."
+    },
+    "When both divisions are involved, all these tests may be abnormal on the affected side.",
+    "The audiogram is normal in neuritis; this finding is very important for telling it apart from labyrinthitis and some strokes.",
+    "Looking only at the caloric test can miss inferior involvement, so the test battery is interpreted as a whole."
+   ]
+  },
+  {
+   "id": "labirentit",
+   "tur": "gorsel",
+   "bolum_no": "PART 3",
+   "bolum": "Labyrinthitis and differential diagnosis",
+   "baslik": "*Labyrinthitis*: hearing is affected too",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Cochlea",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibul",
+     "metin": "Vestibule",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Semicircular canals",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Middle ear",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vertigo _and_ hearing loss",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bacterial type: _urgent_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Labyrinthitis is a condition in which inflammation affects not only the vestibular nerve but the whole inner ear.",
+    "So the vertigo is accompanied by sudden sensorineural hearing loss and often tinnitus.",
+    "Viral labyrinthitis runs a course similar to vestibular neuritis, but the hearing loss may be permanent.",
+    "Bacterial labyrinthitis is mostly linked to a middle ear infection, cholesteatoma or meningitis.",
+    "In the suppurative type, where bacteria reach the inner ear, hearing loss is usually severe and permanent; meningitis risk makes it urgent.",
+    "As we saw in the lesson on infections, the cochlea can ossify after meningitis; this matters for implant planning.",
+    "Anyone with vertigo and sudden hearing loss is referred for a physician's assessment without delay."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "PART 3",
+   "bolum": "Labyrinthitis and differential diagnosis",
+   "baslik": "Differential *diagnosis*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Stroke",
+     "metin": "Cerebellum or brainstem",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "AICA stroke",
+     "metin": "Vertigo and hearing loss",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Meniere's",
+     "metin": "First attack, hours",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vestibular migraine",
+     "metin": "Long attack",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Labyrinthitis",
+     "metin": "Hearing is affected",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Vestibular neuritis is the most common cause of acute vestibular syndrome, but it is not the only one.",
+    "A cerebellar or brainstem stroke can closely mimic neuritis; we covered this in the lesson on HINTS: head impulse, nystagmus, test of skew.",
+    "An anterior inferior cerebellar artery, or AICA, stroke can also affect the labyrinth, causing sudden hearing loss along with vertigo.",
+    "The first attack of Meniere's disease can look like neuritis, but the attack passes within hours, and ear symptoms accompany it.",
+    "A long attack of vestibular migraine can also last for days.",
+    "So assessing hearing and asking about central signs are the first steps in an acute presentation."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "gorsel",
+   "bolum_no": "PART 4",
+   "bolum": "Course and follow-up",
+   "baslik": "*Compensation* and course",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Time (weeks)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Symptom severity"
+    },
+    "seriler": [
+     {
+      "ad": "statik",
+      "noktalar": [
+       [
+        0,
+        9.5
+       ],
+       [
+        0.3,
+        8
+       ],
+       [
+        0.6,
+        5
+       ],
+       [
+        1,
+        2.5
+       ],
+       [
+        2,
+        1
+       ],
+       [
+        4,
+        0.4
+       ],
+       [
+        12,
+        0.2
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "symptoms at rest",
+      "cumle": 1
+     },
+     {
+      "ad": "dinamik",
+      "noktalar": [
+       [
+        0,
+        9
+       ],
+       [
+        1,
+        7.5
+       ],
+       [
+        2,
+        6
+       ],
+       [
+        4,
+        4
+       ],
+       [
+        6,
+        2.8
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        12,
+        1.2
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "symptoms with head movement",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kalici",
+      "y": [
+       0,
+       2
+      ],
+      "x": [
+       8,
+       12
+      ],
+      "renk": "sari",
+      "etiket": "complaints may persist",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Static: _days_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Dynamic: _weeks to months_",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Movement _helps recovery_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "In vestibular neuritis, symptoms ease over time, helped by partial recovery of peripheral function and central compensation.",
+    "Vertigo at rest and spontaneous nystagmus usually decrease markedly within a few days.",
+    "This is called static compensation and is linked to the brainstem correcting the imbalance between the two sides.",
+    "Symptoms brought on by head movement ease more slowly, over weeks to months; this is called dynamic compensation.",
+    "Staying still slows this process; a gradual return to daily activities and vestibular rehabilitation support it.",
+    "In some people imbalance lasts a long time, and some develop persistent postural-perceptual dizziness.",
+    "Benign paroxysmal positional vertigo, or BPPV, can also appear in the same ear after neuritis; ask about new positional complaints."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PART 4",
+   "bolum": "Course and follow-up",
+   "baslik": "The audiologist's *role*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Hearing",
+     "metin": "Audiogram is essential",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Observation",
+     "metin": "Nystagmus, head impulse",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Warning signs",
+     "metin": "Urgent physician referral",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Test battery",
+     "metin": "vHIT, caloric, VEMP",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Follow-up",
+     "metin": "Refer to rehabilitation",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "In a person with acute vertigo, a hearing assessment is very valuable; hearing loss points away from neuritis.",
+    "The direction of the nystagmus, its change with gaze, and the head impulse finding are watched carefully and recorded if possible.",
+    "If any finding suggests a central cause, testing is put on hold and the patient is referred urgently to a physician without delay.",
+    {
+     "yazi": "After the acute phase, vHIT, caloric testing and VEMP establish the division involved and the degree of loss.",
+     "ses": "After the acute phase, V HIT, caloric testing and VEMP establish the division involved and the degree of loss."
+    },
+    "Treatment decisions belong to the physician; the audiologist shares the findings with the team in a clear, brief report.",
+    "People whose symptoms persist are referred to vestibular rehabilitation and followed up."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Clinical tip",
+   "metin": "Always ask about and measure hearing in acute vertigo. New hearing loss points away from neuritis and may need urgent assessment.",
+   "cumle": 0,
+   "cumleler": [
+    "A tip from the field: do not assess a person with acute vertigo as if they had only a vestibular problem.",
+    "Always ask about hearing loss, tinnitus or ear fullness; get an audiogram if possible.",
+    "Acute vestibular syndrome with new hearing loss may suggest labyrinthitis or a stroke of the vessel supplying the inner ear.",
+    "In that case, ask for a physician's assessment without delay; record the findings and the time of onset."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Summary and test",
+   "baslik": "What we *learned*",
+   "maddeler": [
+    {
+     "metin": "Sudden vertigo for days; _hearing normal_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "The _superior_ division is most affected",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Nystagmus beats toward the _healthy_ side",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Labyrinthitis adds _hearing loss_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Vestibular neuritis presents with sudden, continuous vertigo lasting days; hearing is not affected.",
+    {
+     "yazi": "The superior division is most often involved; then the caloric test, lateral and anterior canal vHIT, and oVEMP are affected.",
+     "ses": "The superior division is most often involved; then the caloric test, lateral and anterior canal V HIT, and O VEMP are affected."
+    },
+    "Spontaneous nystagmus is horizontal and torsional, beats toward the healthy ear, and decreases with fixation.",
+    "In labyrinthitis, hearing loss accompanies the vertigo; the bacterial type is an emergency."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Summary and test",
+   "soru": "Which is usually preserved in superior neuritis?",
+   "secenekler": [
+    "Caloric response",
+    "Lateral canal vHIT",
+    "oVEMP",
+    "cVEMP"
+   ],
+   "dogru": 3,
+   "aciklama": "The cVEMP reflects _the saccule and inferior division_, so it is usually preserved in superior involvement.",
+   "cumleler": [
+    {
+     "yazi": "Test yourself: in superior vestibular neuritis, which test result usually stays normal?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "The correct answer is D: the cVEMP.",
+     "ses": "The correct answer is D: the C VEMP."
+    },
+    {
+     "yazi": "The cVEMP reflects the saccule and inferior vestibular nerve; superior involvement affects the caloric test, lateral canal vHIT and oVEMP.",
+     "ses": "The C VEMP reflects the saccule and inferior vestibular nerve; superior involvement affects the caloric test, lateral canal V HIT and O VEMP."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vestibular *Migraine*",
+   "cikis": 2.5,
+   "cumleler": [
+    "In the next lesson we will learn about vestibular migraine, a common cause of recurrent attacks of dizziness.",
+    "Subscribe to the channel so you never miss a new lesson. See you next time!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "dil": "en",
+ "bicim": "reels",
+ "dosya": "R028_Zero_in_Bone_Conduction_EN",
+ "kapak": {
+  "ust": "QUICK FACT #28",
+  "baslik": "*Zero* in bone conduction",
+  "alt": "Interaural attenuation is about 0 dB",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      40,
+      40,
+      35,
+      40,
+      45,
+      50
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Which ear does a bone vibrator actually test? #shorts",
+  "aciklama": "The bone vibrator vibrates the whole skull, so both cochleae are stimulated almost equally. That is why interaural attenuation for bone conduction is about 0 dB; the unmasked bone-conduction threshold reflects the better of the two cochleae.",
+  "kapanis_metni": "Follow AIHEAR Audiology Academy for more quick facts.",
+  "hashtag": [
+   "shorts",
+   "audiology",
+   "audiometry",
+   "hearing"
+  ],
+  "etiketler": [
+   "bone conduction",
+   "bone vibrator",
+   "interaural attenuation",
+   "masking",
+   "audiometry",
+   "audiology",
+   "hearing test",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Which ear does a bone vibrator actually test?",
+  "bilgiler": [
+   "The bone vibrator vibrates the whole skull.",
+   "Interaural attenuation is about 0 dB.",
+   "The unmasked bone threshold reflects the better of the two cochleae."
+  ],
+  "hashtag": [
+   "audiology",
+   "audiometry",
+   "hearing"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "QUICK FACT #28",
+   "metin": "Which ear does a bone vibrator *actually test?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Which ear does a bone vibrator actually test?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "*Interaural attenuation* in bone conduction",
+   "sayi": "0",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "The bone vibrator vibrates the whole skull.",
+    "The vibration reaches both cochleae almost equally.",
+    "So interaural attenuation is about zero decibels.",
+    "The unmasked bone threshold reflects the better of the two cochleae.",
+    "To find which ear responds, the opposite ear is masked."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Follow for more",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Follow AIHEAR Audiology Academy for more quick facts."
+   ]
+  }
+ ],
+ "kaynak_ders": "D061",
+ "kaynak_baslik": "How to Perform Bone-Conduction Audiometry"
+}
