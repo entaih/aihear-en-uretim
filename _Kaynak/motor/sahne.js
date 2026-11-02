@@ -1781,6 +1781,7 @@ function ilerlemeCubugu(t) {
 
 function renderAt(t) {
   if (BICIM === 'kapak') { kok.innerHTML = kapak(); return; }
+  if (BICIM === 'kapak_reels') { kok.innerHTML = kapakReels(); kapakReelsSigdir(); return; }
   let i = ZM.sahneler.findIndex(s => t < s.bas + s.sure); if (i < 0) i = ZM.sahneler.length - 1;
   const sz = ZM.sahneler[i], s = V.sahneler[i], tl = t - sz.bas;
   const TUR = BICIM === 'reels' ? REELS : DERS;
@@ -1806,5 +1807,35 @@ function kapak() {
    ${g}<div class="ab" style="left:70px;bottom:46px">${logo(.62)}</div>`;
 }
 
+// ------------------------------------------------------------ reels kapak görseli (1080x1920)
+// Instagram profil ızgarası ortadaki 1080x1440'ı gösterir (y 240-1680): bütün öğeler bu alanda kalır.
+const KR_KUTU = {x: 120, y: 860, w: 840, h: 680};
+function kapakReels() {
+  const k = V.kapak || {}, kt = KR_KUTU;
+  const kart = ic => `<div class="ab" style="left:${kt.x}px;top:${kt.y}px;width:${kt.w}px;height:${kt.h}px;background:#fff;border-radius:34px;box-shadow:0 26px 70px ${R.lacivert}1a;border:1.5px solid ${R.cizgi}">${ic}</div>`;
+  const g = k.grafik ? kart(`<div class="ab" style="left:30px;top:14px">${odyogram(780, 650, Object.assign({fs: 22, kalin: 7, r: 17, sol: 72, ust: 56}, k.grafik), 99)}</div>`)
+    : k.cizim && !CIZIM[k.cizim] ? cizimKarti({cizim: k.cizim, ayar: k.ayar, vurgula: k.vurgula || []}, {cumleler: []}, 99, kt, {pad: 30, sikisik: true})
+    : k.cizim ? kart(`<div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center">${CIZIM[k.cizim](440, 1)}</div>`)
+    : `<div class="ab" style="left:${(W - 460) / 2}px;top:${kt.y + 40}px">${isaret(460)}</div>`;
+  return zemin(0, 1.3) + `<div id="kr_metin" class="ab" style="left:80px;top:290px;width:920px;display:flex;flex-direction:column;align-items:flex-start;gap:34px">
+     <div style="font:800 32px Inter;letter-spacing:.16em;padding:12px 26px;border-radius:14px;background:${R.lacivert};color:#fff">${k.ust || ''}</div>
+     <div id="kr_baslik" style="font:700 ${Math.round((k.boyut || 104) * 1.3)}px/1.05 Outfit;color:${R.metin};letter-spacing:-.025em">${vurgu(k.baslik || '')}</div>
+     <div id="kr_alt" style="font:600 40px/1.35 Inter;color:${R.soluk}">${k.alt || ''}</div></div>
+   <div id="kr_gorsel" class="ab" style="left:0;top:0;width:${W}px;height:${H}px">${g}
+   <div class="ab" style="left:0;right:0;top:${kt.y + kt.h + 40}px;display:flex;justify-content:center">${logo(.82)}</div></div>`;
+}
+// uzun başlık görsel kartına taşarsa yazı küçültülür; sonra görsel metnin altına çekilir ve bütün düzen 240-1680 bandında ortalanır
+function kapakReelsSigdir() {
+  const m = document.getElementById('kr_metin'), b = document.getElementById('kr_baslik'), a = document.getElementById('kr_alt');
+  const gorsel = document.getElementById('kr_gorsel'), kt = KR_KUTU, ust = m.getBoundingClientRect().top;
+  let px = parseFloat(b.style.fontSize);
+  while (m.getBoundingClientRect().bottom > kt.y - 60 && px > 64) { px -= 4; b.style.fontSize = px + 'px'; a.style.fontSize = Math.max(30, px * .32) + 'px'; }
+  const kayma = m.getBoundingClientRect().bottom + 70 - kt.y;          // görsel metnin 70 px altına
+  const alt = kt.y + kt.h + 40 + 108 + kayma;                           // logo altı (logo(.82) ~108 px)
+  const orta = 240 + (1440 - (alt - ust)) / 2 - ust;                     // düzeni bandın ortasına al
+  m.style.transform = `translateY(${orta}px)`;
+  gorsel.style.transform = `translateY(${kayma + orta}px)`;
+}
+
 document.fonts.load('700 50px Outfit').then(() => document.fonts.load('500 20px Inter')).then(() => document.fonts.ready).then(() => {
-  window.TOTAL = BICIM === 'kapak' ? 0 : ZM.toplam; renderAt(0); window.__ready = true; });
+  window.TOTAL = BICIM.startsWith('kapak') ? 0 : ZM.toplam; renderAt(0); window.__ready = true; });

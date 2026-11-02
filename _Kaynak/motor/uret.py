@@ -74,7 +74,8 @@ def kontrol(klasor):
 
 def kapak(klasor):
     with sync_playwright() as p:
-        tarayici, sayfa, _ = sayfa_ac(p, klasor, 'kapak')
+        # reels kapağı dikey (Instagram/TikTok/Shorts); ders kapağı yatay YouTube küçük resmi
+        tarayici, sayfa, _ = sayfa_ac(p, klasor, 'kapak_reels' if yukle(klasor)[0]['bicim'] == 'reels' else 'kapak')
         sayfa.screenshot(path=str(klasor / 'kapak.png'))
         tarayici.close()
     print('kapak.png')
